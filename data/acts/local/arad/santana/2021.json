@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/arad/santana/2021",
+"acts": [
+{
+"slug": "hcl-arad--santana-28-2021",
+"path": "local/arad/santana/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 28/2021",
+"short": "HCL Sântana nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=17",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-29-2021",
+"path": "local/arad/santana/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 29/2021",
+"short": "HCL Sântana nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=17",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-30-2021",
+"path": "local/arad/santana/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 30/2021",
+"short": "HCL Sântana nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-03",
+"latest": "2021-11-03",
+"portal": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=17",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--santana-31-2021",
+"path": "local/arad/santana/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2021",
+"short": "HCL Sântana nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=17",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,756 @@
  "shard": "local/arad/macea/2026",
  "acts": [
   {
+   "slug": "hcl-arad--macea-1-2026",
+   "path": "local/arad/macea/2026/1",
+   "short": "HCL Macea nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 1/2026 privind aprobarea procesului verbal al ședinței ordinarare a Consiliului local Macea din data de 18 12 2025",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250824",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-10-2026",
+   "path": "local/arad/macea/2026/10",
+   "short": "HCL Macea nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 10/2026 privind aprobarea cuantumului cotizațiilor Comunei Macea pe anul 2026 la bugetul asociațiilor de dezvoltare intercomunitară și a altor structuri asociative din care face parte",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256395",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-11-2026",
+   "path": "local/arad/macea/2026/11",
+   "short": "HCL Macea nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 11/2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256396",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-12-2026",
+   "path": "local/arad/macea/2026/12",
+   "short": "HCL Macea nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 12/2026 privind operarea stațiilor de reîncărcare a vehiculelor electrice și plug-in, care sunt în proprietatea Comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256397",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-13-2026",
+   "path": "local/arad/macea/2026/13",
+   "short": "HCL Macea nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 13/2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256398",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-14-2026",
+   "path": "local/arad/macea/2026/14",
+   "short": "HCL Macea nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 14/2026 privind aprobarea procesului verbal al ședinței ordinarare a Consiliului local Macea din data de 26 02 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/257856",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/257856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-15-2026",
+   "path": "local/arad/macea/2026/15",
+   "short": "HCL Macea nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 15/2026 privind aprobarea ordinei de zi a ședinței extraordinare a Consiliului local Macea din data de 10 03 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/257857",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/257857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-16-2026",
+   "path": "local/arad/macea/2026/16",
+   "short": "HCL Macea nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 16/2026 cu privire la aprobarea devizului general obiectivului de investiţie „Extindere rețea de alimentare cu apă potabilă în localitatea Sânmartin, comuna Macea, jud. Arad”, actualizat ca urmare a modificării cotei standard de TVA",
+   "url": "https://emol.ro/macea-ar/registru-hcl/257858",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/257858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-17-2026",
+   "path": "local/arad/macea/2026/17",
+   "short": "HCL Macea nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 17/2026 cu privire la aprobarea devizului general al obiectivului de investiții „Extindere rețea de alimentare cu apă potabilă și de canalizare menajeră în localitatea Macea, comuna Macea, jud. Arad” și a principalilor indicatori tehnico-economici ai acestuia, actualizați ca urmare a modificării cotei standard de TVA",
+   "url": "https://emol.ro/macea-ar/registru-hcl/257859",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/257859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-18-2026",
+   "path": "local/arad/macea/2026/18",
+   "short": "HCL Macea nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 18/2026 privind aprobarea procesului verbal al ședinței extraordinarare a Consiliului local Macea din data de 10 03 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/262120",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/262120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-19-2026",
+   "path": "local/arad/macea/2026/19",
+   "short": "HCL Macea nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 19/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 30 03 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/262121",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/262121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-2-2026",
+   "path": "local/arad/macea/2026/2",
+   "short": "HCL Macea nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 2/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 29 01 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250825",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-20-2026",
+   "path": "local/arad/macea/2026/20",
+   "short": "HCL Macea nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 20/2026 privind reorganizarea aparatului de specialitate al Primarului Comunei Macea și instituțiilor din subordinea Consiliului local Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/262122",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/262122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-21-2026",
+   "path": "local/arad/macea/2026/21",
+   "short": "HCL Macea nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 21/2026 privind aprobarea prelungirii duratei unor contracte de închiriere a pășunilor aflate în administrarea Consiliului local Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/262123",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/262123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-22-2026",
+   "path": "local/arad/macea/2026/22",
+   "short": "HCL Macea nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 22/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 31 03 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/266646",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/266646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-23-2026",
+   "path": "local/arad/macea/2026/23",
+   "short": "HCL Macea nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 23/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 30 04 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/266647",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/266647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-24-2026",
+   "path": "local/arad/macea/2026/24",
+   "short": "HCL Macea nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 24/2026 privind aprobarea vânzării prin licitație publică a unor terenuri proprietatea privată a comunei Macea situate în cartierul de locuințe din zona de NE a localității Macea și în localitatea Sânmartin",
+   "url": "https://emol.ro/macea-ar/registru-hcl/266648",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/266648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-25-2026",
+   "path": "local/arad/macea/2026/25",
+   "short": "HCL Macea nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 25/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 30 04 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/267314",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/267314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-26-2026",
+   "path": "local/arad/macea/2026/26",
+   "short": "HCL Macea nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 26/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 07 05 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/267315",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/267315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-27-2026",
+   "path": "local/arad/macea/2026/27",
+   "short": "HCL Macea nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 27/2026 privind aprobarea bugetului local al Comunei Macea pe anul 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/267316",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/267316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-28-2026",
+   "path": "local/arad/macea/2026/28",
+   "short": "HCL Macea nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 28/2026 privind aprobarea casării unor bunuri de natura mijloacelor fixe aflate în concesiunea Companiei de Apa Arad S.A",
+   "url": "https://emol.ro/macea-ar/registru-hcl/267317",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/267317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-29-2026",
+   "path": "local/arad/macea/2026/29",
+   "short": "HCL Macea nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 29/2026 privind ajustarea tarifului pentru serviciul de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate, provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor, la depozitele de deșeuri nepericuloase în cadrul proiectului ADISIGD Arad, componenta eliminare prin depozitare a deseurilor municipale reziduale, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate, provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor si a deseurilor ce nu pot fi valorificate din deseurile voluminoase, deseurile textile si deseurile provenite de la evenimente la depozitul de deseuri nepericuloase din Aria Delegării, contract nr. 5430/29.12.2023",
+   "url": "https://emol.ro/macea-ar/registru-hcl/267318",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/267318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-3-2026",
+   "path": "local/arad/macea/2026/3",
+   "short": "HCL Macea nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 3/2026 privind aprobarea proiectului „Realizare teren de sport în localitatea Sânmartin”, a studiului de fezabilitate aferent obiectivului de investiție, precum și a cheltuielilor legate de proiect și a indicatorilor asociați acestuia",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250826",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-30-2026",
+   "path": "local/arad/macea/2026/30",
+   "short": "HCL Macea nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 30/2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276005",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-31-2026",
+   "path": "local/arad/macea/2026/31",
+   "short": "HCL Macea nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 31/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 07 05 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276006",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-32-2026",
+   "path": "local/arad/macea/2026/32",
+   "short": "HCL Macea nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 32/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 25 06 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276007",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-33-2026",
+   "path": "local/arad/macea/2026/33",
+   "short": "HCL Macea nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 33/2026 privind aprobarea dezlipirii imobilului înscris în CF nr. 315108 UAT Macea, cu nr. cad 315108",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276008",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-34-2026",
+   "path": "local/arad/macea/2026/34",
+   "short": "HCL Macea nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 34/2026 privind modificarea tarifului aferent Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separate din județul Arad ZONA 1, Contract nr. 4850/23.11.2023",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276009",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-35-2026",
+   "path": "local/arad/macea/2026/35",
+   "short": "HCL Macea nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 35/2026 privind aprobarea vânzării prin licitație publică a unor terenuri situate în localitatea Macea, str. Primăriei, comuna Macea, județul Arad, destinate realizării de spații comerciale sau de prestări servicii, precum și a unui teren din localitatea Sânmartin, str. Ioan Slavici",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276010",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-36-2026",
+   "path": "local/arad/macea/2026/36",
+   "short": "HCL Macea nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 36/2026 privind aprobarea achiziționării de servicii de asistență juridică specializate",
+   "url": "https://emol.ro/macea-ar/registru-hcl/276011",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/276011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-37-2026",
+   "path": "local/arad/macea/2026/37",
+   "short": "HCL Macea nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 37/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 25 06 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280248",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-38-2026",
+   "path": "local/arad/macea/2026/38",
+   "short": "HCL Macea nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 38/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 28 07 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280249",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-39-2026",
+   "path": "local/arad/macea/2026/39",
+   "short": "HCL Macea nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 39/2026 privind stabilirea unei pășunii ca disponibilă în vederea închirierii",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280250",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-4-2026",
+   "path": "local/arad/macea/2026/4",
+   "short": "HCL Macea nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 4/2026 privind stabilirea taxei pentru eliberarea de către Primăria Comunei Macea a certificatului de înregistrare şi a plăcuţei/plăcuţelor cu numărul de înregistrare pentru vehicule",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250827",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-40-2026",
+   "path": "local/arad/macea/2026/40",
+   "short": "HCL Macea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 40/2026 privind aprobarea punerii la dispoziția operatorului a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, integrate în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad, ca bunuri de retur, și mandatarea reprezentantului în Adunarea Generală a ADISIGD",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280251",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-41-2026",
+   "path": "local/arad/macea/2026/41",
+   "short": "HCL Macea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 41/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 36",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280252",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-42-2026",
+   "path": "local/arad/macea/2026/42",
+   "short": "HCL Macea nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 42/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/macea-ar/registru-hcl/280253",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/280253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-43-2026",
+   "path": "local/arad/macea/2026/43",
+   "short": "HCL Macea nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 43/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 28 07 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/283295",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/283295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-44-2026",
+   "path": "local/arad/macea/2026/44",
+   "short": "HCL Macea nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 44/2026 privind aprobarea ordinei de zi a ședinței extraordinare a Consiliului local Macea din data de 17 08 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/283296",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/283296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-45-2026",
+   "path": "local/arad/macea/2026/45",
+   "short": "HCL Macea nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 45/2026 cu privire la modificarea Hotărârii Consiliului local Macea nr. 3 din 29 01 2026 privind aprobarea proiectului „Realizare teren de sport în localitatea Sânmartin”, a studiului de fezabilitate aferent obiectivului de investiție, precum și a cheltuielilor legate de proiect și a indicatorilor asociați acestuia",
+   "url": "https://emol.ro/macea-ar/registru-hcl/283297",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/283297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-46-2026",
+   "path": "local/arad/macea/2026/46",
+   "short": "HCL Macea nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 46/2026 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului local Macea din data de 17 08 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285057",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-47-2026",
+   "path": "local/arad/macea/2026/47",
+   "short": "HCL Macea nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 47/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 27 08 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285058",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-48-2026",
+   "path": "local/arad/macea/2026/48",
+   "short": "HCL Macea nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 48/2026 privind aprobarea regulamentului privind organizarea şi funcţionarea activităţilor de jocuri de noroc loto tradițional şi a pariurilor sportive pe teritoriul comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285059",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-49-2026",
+   "path": "local/arad/macea/2026/49",
+   "short": "HCL Macea nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 49/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285060",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-5-2026",
+   "path": "local/arad/macea/2026/5",
+   "short": "HCL Macea nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 5/2026 privind aprobarea Planului Urbanistic Zonal și a Regulamentului Local de Urbanism „ÎNFIINȚARE ZONĂ INDUSTRIALĂ NEPOLUANTĂ - PRODUCȚIE/DEPOZITARE, SERVICII, COMERȚ – RIDICARE INTERDICȚIE”, amplasament sat Macea, comuna Macea, jud.Arad, CF nr. 311297 Macea, CF nr. 311298 Macea, CF nr. 311299 Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250828",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-50-2026",
+   "path": "local/arad/macea/2026/50",
+   "short": "HCL Macea nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 50/2026 privind declararea de interes public local a unor bunuri aferente rețelei de alimentare cu apă de pe raza comunei Macea, realizate în anul 2025",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285061",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-51-2026",
+   "path": "local/arad/macea/2026/51",
+   "short": "HCL Macea nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 51/2026 cu privire la aprobarea devizului general al obiectivului de investiții „Extindere rețea de alimentare cu apă potabilă și de canalizare menajeră în localitatea Macea, comuna Macea, jud. Arad”, actualizat în urma ajustării valorii contractului de achiziție, precum și a principalilor indicatori tehnico-economici ai acestuia",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285062",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-52-2026",
+   "path": "local/arad/macea/2026/52",
+   "short": "HCL Macea nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 52/2026 cu privire la atestarea apartenenței unor terenuri la domeniul privat al Comunei Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285063",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-53-2026",
+   "path": "local/arad/macea/2026/53",
+   "short": "HCL Macea nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 53/2026 cu privire la aprobarea devizului general obiectivului de investiţie „Extindere rețea de alimentare cu apă potabilă în localitatea Sânmartin, comuna Macea, jud. Arad”, actualizat ca urmare a finalizării lucrării",
+   "url": "https://emol.ro/macea-ar/registru-hcl/285064",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/285064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-54-2026",
+   "path": "local/arad/macea/2026/54",
+   "short": "HCL Macea nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 54/2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/291592",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/291592",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-55-2026",
    "path": "local/arad/macea/2026/55",
    "short": "HCL Macea nr. 55/2026",
@@ -73,6 +823,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/291597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-6-2026",
+   "path": "local/arad/macea/2026/6",
+   "short": "HCL Macea nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 6/2026 privind aprobarea utilizării excedentului bugetului local pe anul 2025",
+   "url": "https://emol.ro/macea-ar/registru-hcl/250829",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/250829",
      "sha256": null
     }
    ]
@@ -228,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-7-2026",
+   "path": "local/arad/macea/2026/7",
+   "short": "HCL Macea nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 7/2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256392",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-70-2026",
    "path": "local/arad/macea/2026/70",
    "short": "HCL Macea nr. 70/2026",
@@ -298,6 +1078,36 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/297434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-8-2026",
+   "path": "local/arad/macea/2026/8",
+   "short": "HCL Macea nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 8/2026 privind aprobarea procesului verbal al ședinței ordinarare a Consiliului local Macea din data de 29 01 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256393",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-9-2026",
+   "path": "local/arad/macea/2026/9",
+   "short": "HCL Macea nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 9/2026 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea din data de 26 02 2026",
+   "url": "https://emol.ro/macea-ar/registru-hcl/256394",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/256394",
      "sha256": null
     }
    ]

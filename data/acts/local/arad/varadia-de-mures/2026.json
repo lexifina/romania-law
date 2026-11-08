@@ -621,6 +621,50 @@
 }
 },
 {
+"slug": "hcl-arad--varadia-de-mures-29-2026",
+"path": "local/arad/varadia-de-mures/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 29/2026 privind ajustarea tarifului pentru serviciul de delegare a gestiunii serviciului de eliminare,prin depozitare a deseurilor reziduale, a deseurilor stradale, a deseurilor de pamant si pietre provenite de pe caile publice, a reziduurilor rezultate de la instalatiile de tartare a deseurilor municipal, precum si a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor la depozitele de deseuri nepericuloase in cadrul proiectului ADISIGD Arad, componenta eliminare, prin depozitare, a deseurilor municipale reziduale, a reziduurilor rezultate de la instalatiile de tratare a deseurilor municipale, precum, a deseurilor care nu pot fi valorificate provenite din activitati de reamenajare si reabilitare interioara si/sau exterioara a locuintelor si a deseurilor ce nu pot fi valorificate din deseurile voluminoase, deseurile textile si deseurile provenite de la evenimente la depozitul de deseuri nepericuloase din Aria Delegarii, ctr. Nr. 5274/08.12.2025",
+"short": "HCL Vărădia de Mureș nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-24",
+"latest": "2026-05-24",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/268251",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-30-2026",
+"path": "local/arad/varadia-de-mures/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 30/2026 privind atestarea inventarului bunurilor care alcatuiesc domeniul public al Comunei Varadia de Mures,judetul Arad",
+"short": "HCL Vărădia de Mureș nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-24",
+"latest": "2026-05-24",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/268252",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varadia-de-mures-31-2026",
 "path": "local/arad/varadia-de-mures/2026/31",
 "kind": "local",

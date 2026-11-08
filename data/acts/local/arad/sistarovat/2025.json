@@ -3,6 +3,28 @@
 "shard": "local/arad/sistarovat/2025",
 "acts": [
 {
+"slug": "hcl-arad--sistarovat-1-2025",
+"path": "local/arad/sistarovat/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 1/2025 privind aprobarea ordinii de zi a ședinței de îndată din data de 13.01.2025",
+"short": "HCL Șiștarovăț nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206305",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--sistarovat-2-2025",
 "path": "local/arad/sistarovat/2025/2",
 "kind": "local",
@@ -22,6 +44,72 @@
 "council_name": "Consiliul Local al Comunei Șiștarovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-3-2025",
+"path": "local/arad/sistarovat/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 3/2025 privind alegerea președintelui de ședință",
+"short": "HCL Șiștarovăț nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206307",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-4-2025",
+"path": "local/arad/sistarovat/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 4/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 31.01.2025",
+"short": "HCL Șiștarovăț nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206308",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-5-2025",
+"path": "local/arad/sistarovat/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 5/2025 privind aprobarea procesului-verbal al ședinței ordinare din ziua de 23.12.2024",
+"short": "HCL Șiștarovăț nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206309",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-arad--sistarovat-7-2025",
+"path": "local/arad/sistarovat/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 7/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 28.02.2025",
+"short": "HCL Șiștarovăț nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206311",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-8-2025",
+"path": "local/arad/sistarovat/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 8/2025 privind aprobarea procesului-verbal al ședinței ordinare din ziua de 31.01.2025",
+"short": "HCL Șiștarovăț nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206312",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--sistarovat-9-2025",
 "path": "local/arad/sistarovat/2025/9",
 "kind": "local",
@@ -66,6 +198,72 @@
 "council_name": "Consiliul Local al Comunei Șiștarovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-10-2025",
+"path": "local/arad/sistarovat/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 10/2025 privind desemnarea de către Consiliul Local Sistarovat a doi consilieri locali care vor avea calitatea de evaluator în cadrul comisiei de evaluare a performanțelor individuale ale Secretarului General al comunei Sistarovat",
+"short": "HCL Șiștarovăț nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206314",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-11-2025",
+"path": "local/arad/sistarovat/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 11/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 21.03.2025",
+"short": "HCL Șiștarovăț nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206590",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-12-2025",
+"path": "local/arad/sistarovat/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 12/2025 privind aprobarea procesului-verbal al ședinței ordinare din ziua de 28.02.2025",
+"short": "HCL Șiștarovăț nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/206591",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +356,116 @@
 }
 },
 {
+"slug": "hcl-arad--sistarovat-17-2025",
+"path": "local/arad/sistarovat/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 17/2025 privind alegerea președintelui de ședință",
+"short": "HCL Șiștarovăț nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207598",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-18-2025",
+"path": "local/arad/sistarovat/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 18/2025 privind aprobarea ordinii de zi a ședinței ordinare din data de 10.04.2025",
+"short": "HCL Șiștarovăț nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207599",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-19-2025",
+"path": "local/arad/sistarovat/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 19/2025 privind aprobarea procesului-verbal al ședinței ordinare din ziua de 21.03.2025",
+"short": "HCL Șiștarovăț nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207600",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-20-2025",
+"path": "local/arad/sistarovat/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 20/2025 privind închirierea pajiștilor prin atribuire directă aflate în proprietatea privată a Comunei ȘIȘTAROVĂȚ, jud. Arad",
+"short": "HCL Șiștarovăț nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207601",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-21-2025",
+"path": "local/arad/sistarovat/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 21/2025 privind aprobarea prețurilor de referință și de pornire pentru vânzarea la licitație a masei lemnoase fasonata valorificată în anul 2024",
+"short": "HCL Șiștarovăț nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207602",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--sistarovat-22-2025",
 "path": "local/arad/sistarovat/2025/22",
 "kind": "local",
@@ -200,6 +508,73 @@
 "council_name": "Consiliul Local al Comunei Șiștarovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-24-2025",
+"path": "local/arad/sistarovat/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 24/2025 privind aprobarea ordinii de zi a sedintei ordinare din data de 15.05.2025",
+"short": "HCL Șiștarovăț nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207916",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-25-2025",
+"path": "local/arad/sistarovat/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 25/2025 privind aprobarea procesului-verbal al sedintei anterioare",
+"short": "HCL Șiștarovăț nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207917",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-26-2025",
+"path": "local/arad/sistarovat/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 26/2025",
+"short": "HCL Șiștarovăț nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/207918",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -288,6 +663,28 @@
 "council_name": "Consiliul Local al Comunei Șiștarovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--sistarovat-31-2025",
+"path": "local/arad/sistarovat/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 31/2025 privind închirierea prin atribuire directă a pajistilor din localitatea Labasint, ramasa neatribuita in urma procedurii de atribuire din data de 10.06.2025 aflate în proprietatea privată a Comunei Șistarovat, jud ARAD",
+"short": "HCL Șiștarovăț nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-19",
+"latest": "2025-07-19",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/214127",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

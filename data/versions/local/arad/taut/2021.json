@@ -3,6 +3,276 @@
  "shard": "local/arad/taut/2021",
  "acts": [
   {
+   "slug": "hcl-arad--taut-10-2021",
+   "path": "local/arad/taut/2021/10",
+   "short": "HCL Tauț nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 10/2021 privind aprobarea PV pt. sedinta ordinara din 28.01.2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-03-28",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.10-din-data-de-28.03.2021privind-aprobarea-PV-pt.-sedinta-ordinara-din-28.01.2021.pdf",
+     "sha256": "4855fc2ce77ad384cfa70de23a68c1ccb87f44a87adfddbd5c58819365da0ea3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-17-2021",
+   "path": "local/arad/taut/2021/17",
+   "short": "HCL Tauț nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 17/2021 privind aprobarea unor masuri de imbunatatire a actului de transparenta prin instalarea unei retea audio video pt.transmiterea sedintelor CL Taut",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.17-din-26.03.2021-privind-aprobarea-unor-masuri-de-imbunatatire-a-actului-de-transparenta-prin-instalarea-unei-retea-audio-video-pt.transmiterea-sedintelor-CL-Taut.pdf",
+     "sha256": "17eba82b0e6f829a0740e5988bc84ee746c26188c33ec72d79dd81bfcc00a893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-18-2021",
+   "path": "local/arad/taut/2021/18",
+   "short": "HCL Tauț nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 18/2021 privind aprobarea unor achizitii publice finantate din excedentul bugetar al anului 2020",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.18-din-26.03.2021privind-aprobarea-unor-achizitii-publice-finantate-din-excedentul-bugetar-al-anului-2020.pdf",
+     "sha256": "6d09c0a4f18cf8980341aa03db9e276fe3b13cd45cb02fee41cdfdf73a23494f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-20-2021",
+   "path": "local/arad/taut/2021/20",
+   "short": "HCL Tauț nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 20/2021 privind aprobarea pv pentru sedinta ordinara din 26.03.2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.20-din-23.04.2021privind-aprobarea-pv-pentru-sedinta-ordinara-din-26.03.2021.pdf",
+     "sha256": "ef5794d945657b2b341d3bf6f35bad9b909138ade31c3ad1fa6e701f4ee43009"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-21-2021",
+   "path": "local/arad/taut/2021/21",
+   "short": "HCL Tauț nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 21/2021 privind aprobarea Ordinei de zi",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.21-din-23.04.2021privind-aprobarea-Ordinei-de-zi.pdf",
+     "sha256": "923e78cb8d888d1f9ecd87a2b46c0e9658ce53bce1e5b0aa30b67abd5e23c0fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-22-2021",
+   "path": "local/arad/taut/2021/22",
+   "short": "HCL Tauț nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 22/2021 privind stabilirea cuantumului si a numarului categoriilor de burse scolare in anul 2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.22din-23.04.2021privind-stabilirea-cuantumului-si-a-numarului-categoriilor-de-burse-scolare-in-anul-2021.pdf",
+     "sha256": "4f5a128b5500e688900cd64ac94ebc704768c9d47af1b77b7afea97c0b3e95cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-23-2021",
+   "path": "local/arad/taut/2021/23",
+   "short": "HCL Tauț nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 23/2021 privind aprobarea bugetului local al Comunei Taut pt.anul2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.23-din-23.04.2021privind-aprobarea-bugetului-local-al-Comunei-Taut-pt.anul2021.pdf",
+     "sha256": "b17e4bac6d9ddf5b36b2dd94da6a5a18ee1d490087dbe416762882b64a9b89b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-24-2021",
+   "path": "local/arad/taut/2021/24",
+   "short": "HCL Tauț nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 24/2021 privind aprobarea documentatiei tehnico-economica pt.faza PT+DTAC pt.obiectivul Reabilitare Camin Cultural Nadas",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.24-din-23.04.2021privind-aprobarea-documentatiei-tehnico-economica-pt.faza-PTDTAC-pt.obiectivul-22Reabilitare-Camin-Cultural-Nadas22.pdf",
+     "sha256": "b6aa9225b090dd4b6f3fdab1217df9fddf4910077cff2dec005027a835e98f4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-26-2021",
+   "path": "local/arad/taut/2021/26",
+   "short": "HCL Tauț nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 26/2021 privind aprobarea documentatiei tehnico PT+DTAC pt.obiectivul Reabilitare Scoala primara Nadas",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.26-din-23.04.2021privind-aprobarea-documentatiei-tehnico-PTDTAC-pt.obiectivul-22Reabilitare-Scoala-primara-Nadas22.pdf",
+     "sha256": "fe28576428eed5d0709efa72a17c8bb4dac01f52a10c1e53298efb1b7ce4962d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-49-2021",
+   "path": "local/arad/taut/2021/49",
+   "short": "HCL Tauț nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 49/2021 privind dezlipirea suprafetei de 8.610 mp din imobilul teren intravilan in suprafata de 70.365 mp pe care se afla Cimitirul din Taut",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr49-din-30.07.2021-privind-dezlipirea-suprafetei-de-8.610-mp-din-imobilul-teren-intravilan-in-suprafata-de-70.365-mp-pe-care-se-afla-Cimitirul-din-Taut.pdf",
+     "sha256": "58164f51b6ab81a61241d452c863916aacd4a46e7495959b49d498fcdd365d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-67-2021",
+   "path": "local/arad/taut/2021/67",
+   "short": "HCL Tauț nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 67/2021 privind aprobarea conturilor de executie ale bugetului centralizat de venituri si cheltuieli ale Comunei Taut la 30.10.2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.67-din-29.10.2021-privind-aprobarea-conturilor-de-executie-ale-bugetului-centralizat-de-venituri-si-cheltuieli-ale-Comunei-Taut-la-30.10.2021.pdf",
+     "sha256": "ea24b07a6d52b5c56baca0d198f687f1e932cc11e900a481b002e6c13741b6de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-68-2021",
+   "path": "local/arad/taut/2021/68",
+   "short": "HCL Tauț nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 68/2021 privind aprobarea cererei de finantare Construire de poduri in localitatea Nadas",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.68-din-29.10.2021-privind-aprobarea-cererei-de-finantare-Construire-de-poduri-in-localitatea-Nadas.pdf",
+     "sha256": "bfe7995518f8b9852aaac2abc4c48cec5c66012b99d8a234332b9039217595c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-69-2021",
+   "path": "local/arad/taut/2021/69",
+   "short": "HCL Tauț nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 69/2021 privind aprobarea cererii de finantare si a devizului general de investitii Modernizare drumuri comunale",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.69-din-29.10.2021-privind-aprobarea-cererii-de-finantare-si-a-devizului-general-de-investitii-Modernizare-drumuri-comunale.pdf",
+     "sha256": "9b53a9419986587169529e9f0eb34fdd60ef5e9becb607ff682df20b4d1cf512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-7-2021",
+   "path": "local/arad/taut/2021/7",
+   "short": "HCL Tauț nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 7/2021 privind aprobarea excedentului bugetar rezultat la sfarsitul anului 2020",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.728.01.2021privind-aprobarea-excedentului-bugetar-rezultat-la-sfarsitul-anului-2020.pdf",
+     "sha256": "650903b3e4611bede7d6a47a33a1589f7ec1ff5d4e5c6a64da01cd384029d9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-70-2021",
+   "path": "local/arad/taut/2021/70",
+   "short": "HCL Tauț nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 70/2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.70-din-29.10.2021privind-desemnarea-reprezentantului-CL-Taut-in-comisia-de-evaluare-a-probei-de-interviu-pt.-concursul-de-director-la-Scoala-Gimnaziala-Taut.pdf",
+     "sha256": "6080a881c05bf2456ac405dae7eabab01abd590c08d3313b0854fedd6b5e83ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-73-2021",
+   "path": "local/arad/taut/2021/73",
+   "short": "HCL Tauț nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 73/2021 privind rectificarea bugetului local la data de 24.11.2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.73-din-24.11.2021privind-rectificarea-bugetului-local-la-data-de-24.11.2021.pdf",
+     "sha256": "0537e7e5554d961742e72edca08ecd2ecfaf047e48602cc53d414c7ba8c34f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-75-2021",
+   "path": "local/arad/taut/2021/75",
+   "short": "HCL Tauț nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 75/2021 privind ADI_SIGD Arad",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+     "sha256": "15ef0076a96b782c8d04fafa7b1d3f90e3c58e6705a99650cd997a648c7845a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-77-2021",
+   "path": "local/arad/taut/2021/77",
+   "short": "HCL Tauț nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 77/2021 privind aprobarea volumului de masa lemnosa ce se va exploata in anul 2022",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.77-din-24.11.2021-privind-aprobarea-volumului-de-masa-lemnosa-ce-se-va-exploata-in-anul-2022.pdf",
+     "sha256": "29aad708fe13f52a330baa920068d5ff8c745c4b4ee90c506076bec7a3ebb2da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--taut-78-2021",
    "path": "local/arad/taut/2021/78",
    "short": "HCL Tauț nr. 78/2021",
@@ -14,6 +284,51 @@
      "units": 1,
      "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.78-din-24.11.2021privind-aprobarea-impozitelor-si-taxelor-locale-pt.anul-2022.pdf",
      "sha256": "5a549d7815ff2d03430ff26e45261bc55d9b8b300f6c94d63709caec00907723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-80-2021",
+   "path": "local/arad/taut/2021/80",
+   "short": "HCL Tauț nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 80/2021 privind aprobarea intocmirii documentatiei tehnice pt. PAC+PTE pt.obiecyivul Asfaltare strada 4 din loc.Taut",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.80-din-24.11.2021privind-aprobarea-intocmirii-documentatiei-tehnice-pt.-PACPTE-pt.obiecyivul-Asfaltare-strada-4-din-loc.Taut_.pdf",
+     "sha256": "f92325ec3841ccacec4b347cd8a143b993c3f15e07aa64853fff21df7e5d6035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-81-2021",
+   "path": "local/arad/taut/2021/81",
+   "short": "HCL Tauț nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 81/2021 privind aprobarea documentatiei de prima inscriere a Caminului cultural din loc.Nadas cu terenul aferent prin dezlipire din CF nr.top 66-67:56",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.81-din-24.11.2021-privind-aprobarea-documentatiei-de-prima-inscriere-a-Caminului-cultural-din-loc.Nadas-cu-terenul-aferent-prin-dezlipire-din-CF-nr.top-66-6756.pdf",
+     "sha256": "0a2e8527e18937affdfd52222f5e1e241ed54adbfad2fd3610882a80c8929e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-9-2021",
+   "path": "local/arad/taut/2021/9",
+   "short": "HCL Tauț nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 9/2021 privind alegerea unui presedinte de sedinta pt.3 sedinte ordinare",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.9-din-26.03.2021privind-alegerea-unui-presedinte-de-sedinta-pt.3-sedinte-ordinare.pdf",
+     "sha256": "c3cb2aab2e135c4afedaaa23c7a845ea7a469cbe92d9e7b6bd15342046ebb3bc"
     }
    ]
   }

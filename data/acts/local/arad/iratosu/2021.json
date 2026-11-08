@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/iratosu/2021",
+"acts": [
+{
+"slug": "hcl-arad--iratosu-23-2021",
+"path": "local/arad/iratosu/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Iratoșu nr. 23/2021",
+"short": "HCL Iratoșu nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://iratosu.ro/wp-content/uploads/2022/02/Hotarare-2021-taxapt-anul-2022.pdf",
+"council": "arad/iratosu",
+"council_name": "Consiliul Local al Comunei Iratoșu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

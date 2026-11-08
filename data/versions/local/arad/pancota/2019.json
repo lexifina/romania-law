@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/pancota/2019",
+ "acts": [
+  {
+   "slug": "hcl-arad--pancota-74-2019",
+   "path": "local/arad/pancota/2019/74",
+   "short": "HCL Pâncota nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 74/2019",
+   "url": "https://primariapancota.ro/page/7/",
+   "versions": [
+    {
+     "from": "2019-10-28",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2019/11/Hot.-nr.74-28.10.2019.pdf",
+     "sha256": "110cb479d7a8adc8e18b34896a0f029d772cf34f15358412970c3253a4119648"
+    }
+   ]
+  }
+ ]
+}

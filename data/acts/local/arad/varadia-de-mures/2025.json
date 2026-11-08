@@ -663,6 +663,28 @@
 }
 },
 {
+"slug": "hcl-arad--varadia-de-mures-31-2025",
+"path": "local/arad/varadia-de-mures/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 31/2025 privind aprobarea Raportului de evaluare și a Studiului de oportunitate în vederea concesionării prin licitatie publica a terenului în suprafata de 30.000 m.p situat in intravilan, categoria de folosință pădure",
+"short": "HCL Vărădia de Mureș nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/212628",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varadia-de-mures-32-2025",
 "path": "local/arad/varadia-de-mures/2025/32",
 "kind": "local",
@@ -1100,6 +1122,52 @@
 "council_name": "Consiliul Local al Comunei Vărădia de Mureș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-52-2025",
+"path": "local/arad/varadia-de-mures/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 52/2025",
+"short": "HCL Vărădia de Mureș nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/227200",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-53-2025",
+"path": "local/arad/varadia-de-mures/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 53/2025",
+"short": "HCL Vărădia de Mureș nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/227201",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-10-2023",
+   "path": "local/arad/santana/2023/10",
+   "short": "HCL Sântana nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 10/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/0f/33/0f33adab-f278-43bb-bd8e-31fa3b584eb1/dosar_nr10_din_13_02_2023.pdf",
+     "sha256": "0ec2545d37b55ba9ce61376b6994b813d92f95c6f60c95e897c5ed9052adb331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-11-2023",
+   "path": "local/arad/santana/2023/11",
+   "short": "HCL Sântana nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 11/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/41/4d/414d4f30-fa41-47c0-822d-fb3e6c98790b/oferta_teren_dosar_nr_11_17_02_2023.pdf",
+     "sha256": "c6f159ea58ecd0a1ff42f60799f43513002266472c789145493e438462659e76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-14-2023",
+   "path": "local/arad/santana/2023/14",
+   "short": "HCL Sântana nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 14/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/ba/6a/ba6a6318-aaab-4898-8628-e25d47886871/dosar_nr_14_din_22_03_23.pdf",
+     "sha256": "69549ce8aa82dd9b36f40fc6f55a3f66271edbf6fa872c9d15f8f8527a149c84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-15-2023",
+   "path": "local/arad/santana/2023/15",
+   "short": "HCL Sântana nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 15/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/4c/9e/4c9eb88a-edfb-4596-9fb3-9923a3812274/dosar_nr__15din_22_03_23.pdf",
+     "sha256": "120ea4a3af18097f8f44814d8178bccc78b767aa1d3e96f78001f155ea0b9f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-16-2023",
+   "path": "local/arad/santana/2023/16",
+   "short": "HCL Sântana nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 16/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/22/bd/22bd1984-3777-463f-96e8-39657a850e9b/dosar_nr_16_din_22_03_23.pdf",
+     "sha256": "8317552ef5596c0347cde230c996c019cc7dd831f3f6d128668561b24a9d2f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-17-2023",
+   "path": "local/arad/santana/2023/17",
+   "short": "HCL Sântana nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 17/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/93/c2/93c2d383-7698-4467-842e-692d0c52ecbc/dosar_nr_17_din_22_03_23_2.pdf",
+     "sha256": "e6cf6c732516c55718eca58af2e1bf841657014aa50ccf9cd9fce224d9b31676"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-18-2023",
+   "path": "local/arad/santana/2023/18",
+   "short": "HCL Sântana nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 18/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/b3/3d/b33d5a1f-044c-429c-a999-ac386a466337/dosar_nr_18_din_22_03_23.pdf",
+     "sha256": "c32f3bf296a03fc2dab93d6c54541304050b11b37e6740cfb0ffe3fb7a535ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-19-2023",
+   "path": "local/arad/santana/2023/19",
+   "short": "HCL Sântana nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 19/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/63/c5/63c5d7f7-577e-4c2b-8415-9169a465106a/dosar_nr_19_din_22_03_23.pdf",
+     "sha256": "e1a99a93bda800fff130c722afc576ddd5305add21257c2c857ff358e0463a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-20-2023",
+   "path": "local/arad/santana/2023/20",
+   "short": "HCL Sântana nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 20/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/ac/df/acdfde1d-6f70-445f-9a10-f0dcd2174995/dosar_nr_20_din_22_03_23.pdf",
+     "sha256": "28cf6f4a5f086c0513193b4217d5f8bc9705e06ccc93e5cd5305e43287fcd044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-21-2023",
+   "path": "local/arad/santana/2023/21",
+   "short": "HCL Sântana nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 21/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/39/15/3915cb8b-3b07-4065-aeb0-3fdfa4e16fac/dosar_nr_21_din_22_03_23.pdf",
+     "sha256": "3c75b0201df3afa369ecc5d20f4113bd6f494a84ae4ab59239541424233a6e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-22-2023",
+   "path": "local/arad/santana/2023/22",
+   "short": "HCL Sântana nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 22/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/42/9f/429f55c9-d550-416b-bb40-36d03053bb39/oferta_vanzare_teren__dosar_nr_22_05_04_2023.pdf",
+     "sha256": "e19733ada1dfd76a640c6df5c807b7aa8abd7617cffab6db4809499a5c1533eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-23-2023",
+   "path": "local/arad/santana/2023/23",
+   "short": "HCL Sântana nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 23/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=10",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/55/be/55be5c64-f606-4c99-a4f0-d5fad8b3b2c7/dosar_nr_23_din_06_04_23.pdf",
+     "sha256": "fc9bb03899345308a513bad481c3109277fbd2cdb9cddb814fbb873320356714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-3-2023",
+   "path": "local/arad/santana/2023/3",
+   "short": "HCL Sântana nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 3/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/17/76/177632c5-9cc6-43e0-a96f-4fab3039fcc2/dosar_nr_3_din_30_01_2023.pdf",
+     "sha256": "e570a8590d4ae4f58f5a73c2e4188c06fddac58e299b80f17c28b723df367adf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-39-2023",
+   "path": "local/arad/santana/2023/39",
+   "short": "HCL Sântana nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 39/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=9",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/89/50/89503ee6-f3b8-405c-aab9-6daa9b687191/oferta_vanzare_teren_nr_39_din_09_06_2023.pdf",
+     "sha256": "8d4512335feb01d877a8f7d5c0f02de4eb88d9c0cb234b0ef0611ec31790a9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-4-2023",
+   "path": "local/arad/santana/2023/4",
+   "short": "HCL Sântana nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 4/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/44/a8/44a858a8-0405-484d-9597-020815bd12a9/dosar_nr_4_din_30_01_2023.pdf",
+     "sha256": "a7bc4e57bae35fa8ddd61c06e0b925292e9bd744b40be4b74f60a3635cae1a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-40-2023",
+   "path": "local/arad/santana/2023/40",
+   "short": "HCL Sântana nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 40/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=9",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/5f/59/5f591b71-cf4f-4ae4-b39e-0bd86e1c2eda/oferta_vanzare_teren_nr_40_din_09_06_2023.pdf",
+     "sha256": "9ebd291e57de872da516f426f2a976b18cdf060d9458be9f51cacf9a37eabe2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-5-2023",
+   "path": "local/arad/santana/2023/5",
+   "short": "HCL Sântana nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 5/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/3f/f0/3ff0ea37-6335-4e73-9406-95636bb11a67/dosar_nr_5_02_02_2023.pdf",
+     "sha256": "816318d78d68af4b4dadb69cb1d8d8cf3c03f68d978ed3bd9b3cb4b682a5fb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-8-2023",
+   "path": "local/arad/santana/2023/8",
+   "short": "HCL Sântana nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 8/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/ba/ff/baff90df-aff7-44e4-9082-5a85d216f64d/dosar_nr_8_din_13_02_2023.pdf",
+     "sha256": "9a4724dd674e67614662d2cb9d776e1fc8b3e11f430d0e69afe5d9514b960f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-9-2023",
+   "path": "local/arad/santana/2023/9",
+   "short": "HCL Sântana nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 9/2023",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/8f/e2/8fe2d179-4043-49b6-bd72-1586c476a191/dosar_nr_9_din_13_02_2023.pdf",
+     "sha256": "2810dd410ef3e3ac3368c06c48c1ef904f999fe15529c4454527c2086f54cc30"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/arad/simand/2022",
  "acts": [
   {
+   "slug": "hcl-arad--simand-100-2022",
+   "path": "local/arad/simand/2022/100",
+   "short": "HCL Șimand nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 100/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "86952d1e7cab52e62c56bfc72cf30e64033d858934e033b78c6f2d09edf2218c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-101-2022",
+   "path": "local/arad/simand/2022/101",
+   "short": "HCL Șimand nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 101/2022 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 18 Consiliul Local al comunei Șimand, întrunit în ședința extraordinară la data de 30.12.2022, având în vedere: - Adresa nr.878/12.12.2022 a Asociației de Dezvoltare Intercomunitară Apă Canalizare Județul Arad prin care supune spre aprobare propunerea de modificare a",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e8931c75d7fd66a882c36da786e35b0420a5f2ab405427ee12ff8bbc591be61a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-102-2022",
+   "path": "local/arad/simand/2022/102",
+   "short": "HCL Șimand nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 102/2022 privind acordarea unui mandat special reprezentantului Comunei Șimand în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019 Consiliul Local al comunei Șimand, întrunit în ședința extraordinară la data de 30.12.2022, având în v",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9b586a029a9b6eaab169293909294319144169f46104a21e6b26684683c0151f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--simand-103-2022",
    "path": "local/arad/simand/2022/103",
    "short": "HCL Șimand nr. 103/2022",
@@ -14,6 +59,81 @@
      "units": 1,
      "source_url": "https://simand.ro/wp-content/uploads/2023/05/HCL-103-30.12.2022-impozite-si-taxe-2023.pdf",
      "sha256": "20f606ae2ab4b44943c5d80cadb4ae6b5b6b16d0172e37fef847c4c5435fab25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-94-2022",
+   "path": "local/arad/simand/2022/94",
+   "short": "HCL Șimand nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 94/2022",
+   "url": "https://simand.ro/wp-content/uploads/2023/05/HCL-94-22.12.2022-p.v.pdf",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2023/05/HCL-94-22.12.2022-p.v.pdf",
+     "sha256": "7dc51918027a51d0d0b35192e32fe6f3b1591b467a365839f78eb85903b79213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-95-2022",
+   "path": "local/arad/simand/2022/95",
+   "short": "HCL Șimand nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 95/2022 PRIVIND RECTIFICAREA BUGETULUI LOCAL AL COMUNEI ȘIMAND CONSILIUL LOCAL AL COMUNEI ȘIMAND, întrunit în ședința extraordinară, la data de 22.12.2022",
+   "url": "https://simand.ro/wp-content/uploads/2023/05/HCL-95-22.12.2022-rectificare.pdf",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2023/05/HCL-95-22.12.2022-rectificare.pdf",
+     "sha256": "dddbb9be194e165faf62f8e843e2c122f8780189b9bcd126c23950ba7e980ca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-96-2022",
+   "path": "local/arad/simand/2022/96",
+   "short": "HCL Șimand nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 96/2022 privind modificarea Hotărârii Consiliului local Șimand nr.80 din data de 18.11.2022 cu privire la aprobarea participării la programul „C3 - MANAGEMENTUL DEȘEURILOR, Investiția I.1 - Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de comună” cu proiectul „ ÎNFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA ȘIMAND, JUDEȚUL",
+   "url": "https://simand.ro/wp-content/uploads/2023/05/HCL-96-22.12.2022-modificare-HCL-nr.-80.pdf",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2023/05/HCL-96-22.12.2022-modificare-HCL-nr.-80.pdf",
+     "sha256": "5f5d223d11a91f3f30b0015d398fdcdf59702d0b38f3ce704db4368491baf21c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-98-2022",
+   "path": "local/arad/simand/2022/98",
+   "short": "HCL Șimand nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 98/2022",
+   "url": "https://simand.ro/wp-content/uploads/2023/05/HCL-98-30.12.2022-p.v.pdf",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2023/05/HCL-98-30.12.2022-p.v.pdf",
+     "sha256": "aeae230ca52c402bd6b214b3914cc003a08dc9b80033004dc88a1caf53bd9969"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-99-2022",
+   "path": "local/arad/simand/2022/99",
+   "short": "HCL Șimand nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 99/2022 privind aprobarea Actului Adițional nr. 2 la Acordul document de poziție privind modul de implementare a proiectului “Sistem integrat de gestionare a deșeurilor județul Arad\" Consiliul Local al comunei Șimand, întrunit în ședința extraordinară la data de 30.12.2022, având în vedere: - Acordul document de poziție privind modul de implementare a proiectului “Sistem integrat de gestionare a deșeurilo",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e2a18467b5ee9780500ee316b75e7fe2e083a507be1bc3680a08206bf767771"
     }
    ]
   }

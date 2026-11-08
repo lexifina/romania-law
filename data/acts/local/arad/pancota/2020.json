@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/pancota/2020",
+"acts": [
+{
+"slug": "hcl-arad--pancota-7-2020",
+"path": "local/arad/pancota/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 7/2020",
+"short": "HCL Pâncota nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://primariapancota.ro/hotararea-nr-7-18-11-2020-a-comitetului-local-pentru-situatii-de-urgenta-pancota/",
+"council": "arad/pancota",
+"council_name": "Consiliul Local al Orașului Pâncota",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,21 @@
  "shard": "local/arad/varfurile/2023",
  "acts": [
   {
+   "slug": "hcl-arad--varfurile-1-2023",
+   "path": "local/arad/varfurile/2023/1",
+   "short": "HCL Vârfurile nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 1/2023 privind aprobarea procesului verbal al ṣedinṭei extraordinare a Consiliului Local Vârfurile din data de 27 decembrie 2022",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105142",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105142",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-10-2023",
    "path": "local/arad/varfurile/2023/10",
    "short": "HCL Vârfurile nr. 10/2023",
@@ -108,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-11-2023",
+   "path": "local/arad/varfurile/2023/11",
+   "short": "HCL Vârfurile nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 11/2023 privind aprobarea procesului verbal al ṣedinṭei ordinare a Consiliului Local Vârfurile din data de 27 ianuarie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105152",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-12-2023",
+   "path": "local/arad/varfurile/2023/12",
+   "short": "HCL Vârfurile nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 12/2023 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Vârfurile din data de 01 februarie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105153",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-13-2023",
    "path": "local/arad/varfurile/2023/13",
    "short": "HCL Vârfurile nr. 13/2023",
@@ -153,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-16-2023",
+   "path": "local/arad/varfurile/2023/16",
+   "short": "HCL Vârfurile nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 16/2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105157",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-17-2023",
+   "path": "local/arad/varfurile/2023/17",
+   "short": "HCL Vârfurile nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 17/2023 privind aprobarea procesului verbal al ṣedinṭei ordinare a Consiliului Local Vârfurile din data de 01 februarie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105158",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-18-2023",
+   "path": "local/arad/varfurile/2023/18",
+   "short": "HCL Vârfurile nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 18/2023 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Vârfurile din data de 02 martie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105159",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-19-2023",
    "path": "local/arad/varfurile/2023/19",
    "short": "HCL Vârfurile nr. 19/2023",
@@ -163,6 +253,21 @@
      "from": "2023-05-18",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-2-2023",
+   "path": "local/arad/varfurile/2023/2",
+   "short": "HCL Vârfurile nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 2/2023 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Vârfurile din data de 27 ianuarie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105143",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105143",
      "sha256": null
     }
    ]
@@ -198,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-22-2023",
+   "path": "local/arad/varfurile/2023/22",
+   "short": "HCL Vârfurile nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 22/2023 privind aprobarea procesului verbal al ṣedinṭei ordinare a Consiliului Local Vârfurile din data de 02 martie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105163",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-23-2023",
+   "path": "local/arad/varfurile/2023/23",
+   "short": "HCL Vârfurile nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 23/2023 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Vârfurile din data de 27 aprilie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105164",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-24-2023",
    "path": "local/arad/varfurile/2023/24",
    "short": "HCL Vârfurile nr. 24/2023",
@@ -223,6 +358,21 @@
      "from": "2023-05-18",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-26-2023",
+   "path": "local/arad/varfurile/2023/26",
+   "short": "HCL Vârfurile nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 26/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico – economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE STRĂZI SECUNDARE ÎN LOCALITATEA VÂRFURILE”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105167",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105167",
      "sha256": null
     }
    ]
@@ -348,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-34-2023",
+   "path": "local/arad/varfurile/2023/34",
+   "short": "HCL Vârfurile nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 34/2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/107502",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/107502",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-35-2023",
    "path": "local/arad/varfurile/2023/35",
    "short": "HCL Vârfurile nr. 35/2023",
@@ -438,6 +603,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-40-2023",
+   "path": "local/arad/varfurile/2023/40",
+   "short": "HCL Vârfurile nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 40/2023 privind aprobarea concesionării terenului intravilan înscris în CF nr. 304089 Vârfurile, aflat în proprietatea publică a Comunei Vârfurile",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/107508",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/107508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-41-2023",
+   "path": "local/arad/varfurile/2023/41",
+   "short": "HCL Vârfurile nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 41/2023 privind aprobarea alegerii președintelui ședințelor Consiliului Local Vârfurile, pentru perioada iunie-august 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/107509",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/107509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-42-2023",
+   "path": "local/arad/varfurile/2023/42",
+   "short": "HCL Vârfurile nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 42/2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/107510",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/107510",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-43-2023",
    "path": "local/arad/varfurile/2023/43",
    "short": "HCL Vârfurile nr. 43/2023",
@@ -508,6 +718,21 @@
      "from": "2023-07-04",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/109716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-48-2023",
+   "path": "local/arad/varfurile/2023/48",
+   "short": "HCL Vârfurile nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 48/2023 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 20 iunie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/115943",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/115943",
      "sha256": null
     }
    ]
@@ -588,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-53-2023",
+   "path": "local/arad/varfurile/2023/53",
+   "short": "HCL Vârfurile nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 53/2023 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 31 iulie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/117033",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/117033",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-54-2023",
    "path": "local/arad/varfurile/2023/54",
    "short": "HCL Vârfurile nr. 54/2023",
@@ -643,6 +883,51 @@
      "from": "2023-10-02",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/117037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-58-2023",
+   "path": "local/arad/varfurile/2023/58",
+   "short": "HCL Vârfurile nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 58/2023 privind aprobarea alegerii președintelui ședințelor Consiliului Local Vârfurile, pentru perioada septembrie-noiembrie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/117038",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/117038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-59-2023",
+   "path": "local/arad/varfurile/2023/59",
+   "short": "HCL Vârfurile nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 59/2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/117039",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/117039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-6-2023",
+   "path": "local/arad/varfurile/2023/6",
+   "short": "HCL Vârfurile nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 6/2023 privind actualizarea Regulamentului serviciului public de alimentare cu apă și canalizare din aria de competenţă a unităţilor administrativ-teritoriale membre ale “Asociaţiei de Dezvoltare Intercomunitară Apă – Canalizare judeţul Arad”",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/105147",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/105147",
      "sha256": null
     }
    ]
@@ -708,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-64-2023",
+   "path": "local/arad/varfurile/2023/64",
+   "short": "HCL Vârfurile nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 64/2023 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 24 august 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/122158",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/122158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-65-2023",
    "path": "local/arad/varfurile/2023/65",
    "short": "HCL Vârfurile nr. 65/2023",
@@ -768,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-69-2023",
+   "path": "local/arad/varfurile/2023/69",
+   "short": "HCL Vârfurile nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 69/2023 privind desemnarea reprezentanților Consiliului Local Vârfurile în Consiliul de Administrație și în Comisia de Evaluare și Asigurare a Calității din Școala Gimnazială Vârfurile, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/122162",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/122162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-7-2023",
    "path": "local/arad/varfurile/2023/7",
    "short": "HCL Vârfurile nr. 7/2023",
@@ -793,6 +1108,21 @@
      "from": "2023-10-11",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/122163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-71-2023",
+   "path": "local/arad/varfurile/2023/71",
+   "short": "HCL Vârfurile nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 71/2023 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 25 septembrie 2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/124092",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/124092",
      "sha256": null
     }
    ]
@@ -888,6 +1218,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-78-2023",
+   "path": "local/arad/varfurile/2023/78",
+   "short": "HCL Vârfurile nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 78/2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/126110",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/126110",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-79-2023",
    "path": "local/arad/varfurile/2023/79",
    "short": "HCL Vârfurile nr. 79/2023",
@@ -928,6 +1273,21 @@
      "from": "2023-11-15",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/126112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-81-2023",
+   "path": "local/arad/varfurile/2023/81",
+   "short": "HCL Vârfurile nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 81/2023 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local Vârfurile din data de 27.10.2023",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/130643",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/130643",
      "sha256": null
     }
    ]

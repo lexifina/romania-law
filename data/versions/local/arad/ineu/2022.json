@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-1-2022",
+   "path": "local/arad/ineu/2022/1",
+   "short": "HCL Ineu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 1/2022",
+   "url": "https://primariaineu.ro/hotararea-1-din-29-06-2022-clsu-ineu/",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2022/07/Hotarare-1-din-29.06.2022-CLSU-INEU.pdf",
+     "sha256": "a0a77094a7a3c7ccc85932542cd619025bab3388daad27dc84232b17457093cd"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,81 @@
  "shard": "local/arad/petris/2023",
  "acts": [
   {
+   "slug": "hcl-arad--petris-1-2023",
+   "path": "local/arad/petris/2023/1",
+   "short": "HCL Petriș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 1/2023 privind aprobarea procesului verbal de la ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriș din data de 30 decembrie 2022",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104920",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-10-2023",
+   "path": "local/arad/petris/2023/10",
+   "short": "HCL Petriș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 10/2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104929",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-100-2023",
+   "path": "local/arad/petris/2023/100",
+   "short": "HCL Petriș nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 100/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 17 octombrie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125297",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-101-2023",
+   "path": "local/arad/petris/2023/101",
+   "short": "HCL Petriș nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 101/2023 privind aprobarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125298",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-102-2023",
+   "path": "local/arad/petris/2023/102",
+   "short": "HCL Petriș nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 102/2023 privind stabilirea prețului pentru vânzare masă lemnoasă fasonată la drum auto",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125299",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125299",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-103-2023",
    "path": "local/arad/petris/2023/103",
    "short": "HCL Petriș nr. 103/2023",
@@ -33,6 +108,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-105-2023",
+   "path": "local/arad/petris/2023/105",
+   "short": "HCL Petriș nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 105/2023 pentru îndreptarea erorii materiale strecurate în Hotărârea Consiliului Local al comunei Petriș nr. 98/20.09.2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Petriș, județ Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125302",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-106-2023",
+   "path": "local/arad/petris/2023/106",
+   "short": "HCL Petriș nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 106/2023 privind aprobarea modificării tarifului pentru activitatea de colectare separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separate din județul Arad Zona 5",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125303",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-107-2023",
+   "path": "local/arad/petris/2023/107",
+   "short": "HCL Petriș nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 107/2023 privind acordarea titlului de ,,CETĂȚEAN DE ONOARE AL COMUNEI PETRIȘ” Înaltpreasfinției Sale Dr. Timotei Seviciu, Arhiepiscop al Aradului",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125304",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-108-2023",
+   "path": "local/arad/petris/2023/108",
+   "short": "HCL Petriș nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 108/2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125305",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-109-2023",
    "path": "local/arad/petris/2023/109",
    "short": "HCL Petriș nr. 109/2023",
@@ -58,6 +193,36 @@
      "from": "2023-05-19",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/104930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-110-2023",
+   "path": "local/arad/petris/2023/110",
+   "short": "HCL Petriș nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 110/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 17.10.2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/127894",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/127894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-111-2023",
+   "path": "local/arad/petris/2023/111",
+   "short": "HCL Petriș nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 111/2023 privind aprobarea ORDINII DE ZI de la Sedinţa extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 31 octombrie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/127895",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/127895",
      "sha256": null
     }
    ]
@@ -408,6 +573,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-15-2023",
+   "path": "local/arad/petris/2023/15",
+   "short": "HCL Petriș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 15/2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104934",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-16-2023",
+   "path": "local/arad/petris/2023/16",
+   "short": "HCL Petriș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 16/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104963",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-17-2023",
+   "path": "local/arad/petris/2023/17",
+   "short": "HCL Petriș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 17/2023 privind aprobarea procesului verbal de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 30 ianuarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104964",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-18-2023",
+   "path": "local/arad/petris/2023/18",
+   "short": "HCL Petriș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 18/2023 privind aprobarea ordinii de zi de la Ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriș din data de 13 februarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104965",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-19-2023",
    "path": "local/arad/petris/2023/19",
    "short": "HCL Petriș nr. 19/2023",
@@ -423,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-2-2023",
+   "path": "local/arad/petris/2023/2",
+   "short": "HCL Petriș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 2/2023 privind aprobarea ordinii de zi de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 30 ianuarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104921",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-20-2023",
    "path": "local/arad/petris/2023/20",
    "short": "HCL Petriș nr. 20/2023",
@@ -433,6 +673,96 @@
      "from": "2023-05-19",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/104967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-21-2023",
+   "path": "local/arad/petris/2023/21",
+   "short": "HCL Petriș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 21/2023 privind aprobarea Procesului Verbal de la Ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriș din data de 13 februarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104974",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-22-2023",
+   "path": "local/arad/petris/2023/22",
+   "short": "HCL Petriș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 22/2023 privind aprobarea Ordinii de zi de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 28 februarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104975",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-23-2023",
+   "path": "local/arad/petris/2023/23",
+   "short": "HCL Petriș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 23/2023 privind aprobarea Calendarului manifestărilor cultural-artistice care se vor desfășura în comuna Petriș în anul 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104976",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-24-2023",
+   "path": "local/arad/petris/2023/24",
+   "short": "HCL Petriș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 24/2023 privind aprobarea Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor municipale din județul Arad Zona 5 și Contractul de gestiune directă a serviciului de sortare a deșeurilor reciclabile din deșeuri municipale în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în județul Arad Operarea Stației de Sortare Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104977",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-25-2023",
+   "path": "local/arad/petris/2023/25",
+   "short": "HCL Petriș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 25/2023 privind aprobarea Regulamentului de instituire și admninistrare a taxei speciale de salubrizare",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104978",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-26-2023",
+   "path": "local/arad/petris/2023/26",
+   "short": "HCL Petriș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 26/2023 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104979",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104979",
      "sha256": null
     }
    ]
@@ -468,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-29-2023",
+   "path": "local/arad/petris/2023/29",
+   "short": "HCL Petriș nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 29/2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104982",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104982",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-3-2023",
    "path": "local/arad/petris/2023/3",
    "short": "HCL Petriș nr. 3/2023",
@@ -478,6 +823,81 @@
      "from": "2023-05-19",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/104922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-30-2023",
+   "path": "local/arad/petris/2023/30",
+   "short": "HCL Petriș nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 30/2023 privind aprobarea Procesului Verbal de la Ședința ordinară, a Consiliului Local al comunei Petriș din data de 28 februarie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105000",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-31-2023",
+   "path": "local/arad/petris/2023/31",
+   "short": "HCL Petriș nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 31/2023 privind aprobarea Ordinii de zi de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 30 martie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105001",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-32-2023",
+   "path": "local/arad/petris/2023/32",
+   "short": "HCL Petriș nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 32/2023 privind actualizarea unor imobile intabulate cu prilejul derulării Finanțării III din cadrul Programului Național de Cadastru și Carte Funciară",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105002",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-33-2023",
+   "path": "local/arad/petris/2023/33",
+   "short": "HCL Petriș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 33/2023 privind actualizarea unor imobile intabulate cu prilejul derulării Finanțării VI din cadrul Programului Național de Cadastru și Carte Funciară",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105003",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-34-2023",
+   "path": "local/arad/petris/2023/34",
+   "short": "HCL Petriș nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 34/2023 privind modificarea art. 1 pct 10 din Hotărârea Consiliului Local Petriș nr. 64/2022 privind aprobarea introducerii în circuitul funciar a unor terenuri",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105004",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105004",
      "sha256": null
     }
    ]
@@ -508,6 +928,21 @@
      "from": "2023-05-19",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/105006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-37-2023",
+   "path": "local/arad/petris/2023/37",
+   "short": "HCL Petriș nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 37/2023 privind modificarea Hotărârii Consiliului Local Petriș nr. 25/28.02.2023 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105007",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105007",
      "sha256": null
     }
    ]
@@ -558,6 +993,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-40-2023",
+   "path": "local/arad/petris/2023/40",
+   "short": "HCL Petriș nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 40/2023 privind actualizarea unor imobile intabulate cu prilejul derulării Finanțării II din cadrul programului Național de Cadastru și Carte Funciară",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105010",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-41-2023",
+   "path": "local/arad/petris/2023/41",
+   "short": "HCL Petriș nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 41/2023 privind aprobarea Procesului Verbal de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 30 martie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105018",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-42-2023",
+   "path": "local/arad/petris/2023/42",
+   "short": "HCL Petriș nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 42/2023 privind aprobarea Ordinii de Zi de la Ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriș din data de 25 aprilie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105019",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-43-2023",
    "path": "local/arad/petris/2023/43",
    "short": "HCL Petriș nr. 43/2023",
@@ -568,6 +1048,36 @@
      "from": "2023-05-19",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/105020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-44-2023",
+   "path": "local/arad/petris/2023/44",
+   "short": "HCL Petriș nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 44/2023 privind aprobarea Procesului Verbal de la Ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriș din data de 25 aprilie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105353",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-45-2023",
+   "path": "local/arad/petris/2023/45",
+   "short": "HCL Petriș nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 45/2023 privind aprobarea Ordinii de Zi de la Ședința ordinară a Consiliului Local al comunei Petriș din data de 28 aprilie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105354",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105354",
      "sha256": null
     }
    ]
@@ -603,6 +1113,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-48-2023",
+   "path": "local/arad/petris/2023/48",
+   "short": "HCL Petriș nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 48/2023 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105357",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-49-2023",
+   "path": "local/arad/petris/2023/49",
+   "short": "HCL Petriș nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 49/2023 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad privind modificarea Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105358",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105358",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-5-2023",
    "path": "local/arad/petris/2023/5",
    "short": "HCL Petriș nr. 5/2023",
@@ -618,6 +1158,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-50-2023",
+   "path": "local/arad/petris/2023/50",
+   "short": "HCL Petriș nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 50/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105359",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-51-2023",
+   "path": "local/arad/petris/2023/51",
+   "short": "HCL Petriș nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 51/2023 privind aprobarea încheierii unui contract de asistență juridică și reprezentare în instanță, în vederea apărării intereselor comunei Petriș, în Dosarul nr. 180/108/2023, aflat pe rolul Tribunalului Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/105360",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/105360",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-52-2023",
    "path": "local/arad/petris/2023/52",
    "short": "HCL Petriș nr. 52/2023",
@@ -628,6 +1198,96 @@
      "from": "2023-05-23",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/105361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-53-2023",
+   "path": "local/arad/petris/2023/53",
+   "short": "HCL Petriș nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 53/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106210",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-54-2023",
+   "path": "local/arad/petris/2023/54",
+   "short": "HCL Petriș nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 54/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 28 aprilie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106211",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-55-2023",
+   "path": "local/arad/petris/2023/55",
+   "short": "HCL Petriș nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 55/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 25 mai 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106212",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-56-2023",
+   "path": "local/arad/petris/2023/56",
+   "short": "HCL Petriș nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 56/2023 privind aprobarea Actului Adițional nr. 5 la Statutul Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106213",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-57-2023",
+   "path": "local/arad/petris/2023/57",
+   "short": "HCL Petriș nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 57/2023 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Petriș, județul Arad, pe anul 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106214",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-58-2023",
+   "path": "local/arad/petris/2023/58",
+   "short": "HCL Petriș nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 58/2023 privind aprobarea primei înscrieri pentru imobilul înscris în CF nr. 301447 Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106215",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106215",
      "sha256": null
     }
    ]
@@ -663,6 +1323,156 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-60-2023",
+   "path": "local/arad/petris/2023/60",
+   "short": "HCL Petriș nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 60/2023 privind aprobarea introducerii în circuitul funciar a unor terenuri",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106217",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-61-2023",
+   "path": "local/arad/petris/2023/61",
+   "short": "HCL Petriș nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 61/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenție actualizată, a indicatorilor tehnico-economici actualizați, a devizului general actualizat, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții ,,Modernizare infrastructură rutieră în localitățile Corbești și Roșia Nouă, comuna Petriș, județul Arad” aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106218",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-62-2023",
+   "path": "local/arad/petris/2023/62",
+   "short": "HCL Petriș nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 62/2023 privind aprobarea primei înscrieri pentru imobilul înscris în CF nr. 301088 Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106219",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-63-2023",
+   "path": "local/arad/petris/2023/63",
+   "short": "HCL Petriș nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 63/2023 privind aprobarea primei înscrieri în cartea funciară a loturilor NMS 3436, NMS 3435, NMS 3246 proprietatea privată a UAT Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106220",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-64-2023",
+   "path": "local/arad/petris/2023/64",
+   "short": "HCL Petriș nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 64/2023 privind acordarea unui mandat special reprezentantului Comunei Petriș în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad privind modificarea Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106221",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-65-2023",
+   "path": "local/arad/petris/2023/65",
+   "short": "HCL Petriș nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 65/2023 privind rectificarea bugetului local al comunei Petriș pe anul 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106222",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-66-2023",
+   "path": "local/arad/petris/2023/66",
+   "short": "HCL Petriș nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 66/2023 privind stabilirea prețului pentru vânzare masă lemnoasă fasonată la drum auto",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106223",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-67-2023",
+   "path": "local/arad/petris/2023/67",
+   "short": "HCL Petriș nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 67/2023 privind modificarea Hotărârii Consiliului Local Petriș nr. 20 din 13 februarie 2023 privind aprobarea analizei situației la nivel local pentru proiectul ,,COLECTAREA APELOR UZATE ÎN LOCALITĂȚILE PETRIȘ, SELIȘTE ȘI ILTEU, COMUNA PETRIȘ, JUDEȚUL ARAD ” în cadrul Planului Național de Redresare și Reziliență al României, Componenta 1 – Managementul apei, Investiția 2 – Colectarea apelor uzate în aglomerările mai mici de 2000 l.e. care împiedică atingerea unei stări bune a corpurilor de apă și/sau afectează arii naturale protejate",
+   "url": "https://emol.ro/petris-ar/registru-hcl/106224",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/106224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-68-2023",
+   "path": "local/arad/petris/2023/68",
+   "short": "HCL Petriș nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 68/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 25 mai 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/109485",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/109485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-69-2023",
+   "path": "local/arad/petris/2023/69",
+   "short": "HCL Petriș nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 69/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de19 iunie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/109486",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/109486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-7-2023",
    "path": "local/arad/petris/2023/7",
    "short": "HCL Petriș nr. 7/2023",
@@ -693,6 +1503,171 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-71-2023",
+   "path": "local/arad/petris/2023/71",
+   "short": "HCL Petriș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 71/2023 privind aprobarea închirierii unui spațiu în suprafață de 36,4 mp aflat în proprietatea publică a comunei Petriș, județul Arad, în vederea desfășurării de activități comerciale/prestări servicii",
+   "url": "https://emol.ro/petris-ar/registru-hcl/109488",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/109488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-72-2023",
+   "path": "local/arad/petris/2023/72",
+   "short": "HCL Petriș nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 72/2023 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/109489",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/109489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-73-2023",
+   "path": "local/arad/petris/2023/73",
+   "short": "HCL Petriș nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 73/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 19 iunie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/113399",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/113399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-74-2023",
+   "path": "local/arad/petris/2023/74",
+   "short": "HCL Petriș nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 74/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 21 iulie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/113400",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/113400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-75-2023",
+   "path": "local/arad/petris/2023/75",
+   "short": "HCL Petriș nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 75/2023 privind delegarea serviciului public de salubrizare, a unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/petris-ar/registru-hcl/113401",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/113401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-76-2023",
+   "path": "local/arad/petris/2023/76",
+   "short": "HCL Petriș nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 76/2023 pentru modificarea Hotărârii Consiliului Local Petriș nr. 66 din 25 mai 2023 privind stabilirea prețului pentru vânzare masă lemnoasă fasonată la drum auto",
+   "url": "https://emol.ro/petris-ar/registru-hcl/113402",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/113402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-77-2023",
+   "path": "local/arad/petris/2023/77",
+   "short": "HCL Petriș nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 77/2023 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/113403",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/113403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-78-2023",
+   "path": "local/arad/petris/2023/78",
+   "short": "HCL Petriș nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 78/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116273",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-79-2023",
+   "path": "local/arad/petris/2023/79",
+   "short": "HCL Petriș nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 79/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 21 iulie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116274",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-8-2023",
+   "path": "local/arad/petris/2023/8",
+   "short": "HCL Petriș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 8/2023 privind aprobarea cuantumului cotizației Consiliului Local al comunei Petriș, în cadrul Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Județul Arad pentru anul 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104927",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-80-2023",
+   "path": "local/arad/petris/2023/80",
+   "short": "HCL Petriș nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 80/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 11 august 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116275",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116275",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-81-2023",
    "path": "local/arad/petris/2023/81",
    "short": "HCL Petriș nr. 81/2023",
@@ -703,6 +1678,291 @@
      "from": "2023-08-17",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/116276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-82-2023",
+   "path": "local/arad/petris/2023/82",
+   "short": "HCL Petriș nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 82/2023 privind acordarea unui mandat special reprezentantului Comunei Petriș în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116277",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-83-2023",
+   "path": "local/arad/petris/2023/83",
+   "short": "HCL Petriș nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 83/2023 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116278",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-84-2023",
+   "path": "local/arad/petris/2023/84",
+   "short": "HCL Petriș nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 84/2023 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor lactate, de panificație și fructe, precum și a serviciilor privind derularea măsurilor educative, aferente Programului pentru școli al României, pentru anii școlari 2023 - 2029",
+   "url": "https://emol.ro/petris-ar/registru-hcl/116279",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/116279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-85-2023",
+   "path": "local/arad/petris/2023/85",
+   "short": "HCL Petriș nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 85/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 11 august 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121150",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-86-2023",
+   "path": "local/arad/petris/2023/86",
+   "short": "HCL Petriș nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 86/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 20 septembrie 2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121151",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-87-2023",
+   "path": "local/arad/petris/2023/87",
+   "short": "HCL Petriș nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 87/2023 privind delegarea serviciului public de salubrizare, a unor activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor județul Arad, respectiv transferul deşeurilor municipale în staţiile de transfer Bârzava, Chișineu-Criș și Sebiș, inclusiv transportul separat al deşeurilor reziduale la depozitul de deşeuri nepericuloase şi la instalaţiile integrate de tratare, al deşeurilor de hârtie, metal, plastic şi sticlă colectate separat la staţiile de sortare şi al biodeşeurilor la instalaţiile de compostare",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121152",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-88-2023",
+   "path": "local/arad/petris/2023/88",
+   "short": "HCL Petriș nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 88/2023 privind aprobarea propunerii de modificare a tarifului la Depozitul de deșeuri nepericuloase Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121153",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-89-2023",
+   "path": "local/arad/petris/2023/89",
+   "short": "HCL Petriș nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 89/2023 privind aprobarea propunerii de modificare a tarifului la Stația de Sortare Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121154",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-9-2023",
+   "path": "local/arad/petris/2023/9",
+   "short": "HCL Petriș nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 9/2023 privind acordarea unui mandat special al reprezentantului Consiliului Local al Comunei Petriș în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2023 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/104928",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/104928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-90-2023",
+   "path": "local/arad/petris/2023/90",
+   "short": "HCL Petriș nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 90/2023 privind ajustarea tarifului la Stațiile de transfer Bârzava, Chișineu Criș și Sebiș pe fracții de deșeuri",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121155",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-91-2023",
+   "path": "local/arad/petris/2023/91",
+   "short": "HCL Petriș nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 91/2023 privind avizarea Strategiei de contractare, Studiului de fundamentare/oportunitate, Documentației de atribuire pentru delegarea gestiunii serviciului de eliminare, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitele de deşeuri nepericuloase",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121156",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-92-2023",
+   "path": "local/arad/petris/2023/92",
+   "short": "HCL Petriș nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 92/2023 privind validarea numirii Șefului de Ocol al Regiei Publice Locale Ocolul Silvic ,,Piatra Cerbului” R.A",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121157",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-93-2023",
+   "path": "local/arad/petris/2023/93",
+   "short": "HCL Petriș nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 93/2023 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121158",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-94-2023",
+   "path": "local/arad/petris/2023/94",
+   "short": "HCL Petriș nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 94/2023 privind aprobarea Procedurii Interne privind participarea solicitanţilor de finanţare ȋn cadrul Programului privind casarea autovehiculelor uzate, derulat în co-finanțare cu Administrația Fondului pentru Mediu, precum și desfășurarea acestuia la nivelul comunei Petriș, județ Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121159",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-95-2023",
+   "path": "local/arad/petris/2023/95",
+   "short": "HCL Petriș nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 95/2023 privind aprobarea trecerii din domeniul public al comunei Petriș în domeniul public al Statului Român și în administrarea Ministerului Mediului, Apelor și Pădurilor prin Administrația Națională Apele Române a imobilului înscris în CF 306187 Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121160",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-96-2023",
+   "path": "local/arad/petris/2023/96",
+   "short": "HCL Petriș nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 96/2023 privind acordarea unui mandat special reprezentantului Comunei Petriș în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121161",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-97-2023",
+   "path": "local/arad/petris/2023/97",
+   "short": "HCL Petriș nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 97/2023 privind aprobarea încheierii unui contract de asistență juridică și reprezentare în instanță, în vederea apărării intereselor comunei Petriș, în Dosarul nr. 979/250/2018, aflat pe rolul Tribunalului Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121162",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-98-2023",
+   "path": "local/arad/petris/2023/98",
+   "short": "HCL Petriș nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 98/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Petriș, județ Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/121163",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/121163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-99-2023",
+   "path": "local/arad/petris/2023/99",
+   "short": "HCL Petriș nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 99/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 20.09.2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/125296",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/125296",
      "sha256": null
     }
    ]

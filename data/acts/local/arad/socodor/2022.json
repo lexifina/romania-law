@@ -976,6 +976,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-45-2022",
+"path": "local/arad/socodor/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 45/2022 privind aprobarea vânzării, prin licitaţie publică, a 3 (trei) parcele de teren, proprietate privată a Comunei Socodor",
+"short": "HCL Socodor nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/55832",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-46-2022",
 "path": "local/arad/socodor/2022/46",
 "kind": "local",
@@ -998,6 +1020,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-47-2022",
+"path": "local/arad/socodor/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 47/2022 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Socodor pentru unele unităţi de cult din Comuna Socodor pe anul 2022",
+"short": "HCL Socodor nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/55834",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-48-2022",
 "path": "local/arad/socodor/2022/48",
 "kind": "local",
@@ -1017,6 +1061,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-49-2022",
+"path": "local/arad/socodor/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 49/2022 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile ianuarie și februarie ale anului 2022",
+"short": "HCL Socodor nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/55836",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1061,6 +1127,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-52-2022",
+"path": "local/arad/socodor/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 52/2022 privind aprobarea depunerii proiectului „Renovare energetică moderată a blocului de locuințe din comuna Socodor nr.331, județul Arad” în cadrul Apelului de proiecte de renovare energetică moderată a clădirilor rezidențiale multifamiliale, titlu apel: PNRR/2022/C5/1/A.3.1/1",
+"short": "HCL Socodor nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/55839",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1416,6 +1504,50 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-69-2022",
+"path": "local/arad/socodor/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 69/2022 privind aprobarea vânzării, prin licitaţie publică, a unei parcele de teren, proprietate privată a Comunei Socodor",
+"short": "HCL Socodor nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-06",
+"latest": "2022-06-06",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/62107",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--socodor-70-2022",
+"path": "local/arad/socodor/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 70/2022 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile martie și aprilie ale anului 2022",
+"short": "HCL Socodor nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-06",
+"latest": "2022-06-06",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/62108",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-71-2022",
 "path": "local/arad/socodor/2022/71",
 "kind": "local",
@@ -1677,6 +1809,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-83-2022",
+"path": "local/arad/socodor/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 83/2022 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile mai și iunie ale anului 2022",
+"short": "HCL Socodor nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/67639",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2033,6 +2187,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-100-2022",
+"path": "local/arad/socodor/2022/100",
+"kind": "local",
+"year": "2022",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 100/2022 privind aprobarea bugetului local rectificat în luna august 2022",
+"short": "HCL Socodor nr. 100/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/69931",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-101-2022",
 "path": "local/arad/socodor/2022/101",
 "kind": "local",
@@ -2096,6 +2272,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-104-2022",
+"path": "local/arad/socodor/2022/104",
+"kind": "local",
+"year": "2022",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 104/2022 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile iulie și august ale anului 2022",
+"short": "HCL Socodor nr. 104/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-03",
+"latest": "2022-11-03",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/73852",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2316,6 +2514,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-115-2022",
+"path": "local/arad/socodor/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 115/2022 privind aprobarea proiectului „Renovare energetică moderată a blocului de locuințe din comuna Socodor nr.331, județul Arad” și depunerea în vederea obținerii finanțării în cadrul Apelului de proiecte de renovare energetică moderată a clădirilor rezidențiale multifamiliale, titlu apel: PNRR/2022/C5/1/A.3.1/1, Runda a doua",
+"short": "HCL Socodor nr. 115/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/73863",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

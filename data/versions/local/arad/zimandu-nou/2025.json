@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--zimandu-nou-10-2025",
+   "path": "local/arad/zimandu-nou/2025/10",
+   "short": "HCL Zimandu Nou nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 10/2025 privind aprobarea închirierii prin atribuire directa și modificarea prețului de închiriere a pășunilor disponibile aflate în proprietatea privată a Comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216262",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216262",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--zimandu-nou-100-2025",
    "path": "local/arad/zimandu-nou/2025/100",
    "short": "HCL Zimandu Nou nr. 100/2025",
@@ -58,6 +73,21 @@
      "from": "2025-11-04",
      "units": 1,
      "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/233825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-103-2025",
+   "path": "local/arad/zimandu-nou/2025/103",
+   "short": "HCL Zimandu Nou nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 103/2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/233826",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/233826",
      "sha256": null
     }
    ]
@@ -148,6 +178,21 @@
      "from": "2025-11-20",
      "units": 1,
      "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/248965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-11-2025",
+   "path": "local/arad/zimandu-nou/2025/11",
+   "short": "HCL Zimandu Nou nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 11/2025 privind aprobarea vânzării prin licitație publică unui teren intravilan aflat în proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216263",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216263",
      "sha256": null
     }
    ]
@@ -303,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--zimandu-nou-12-2025",
+   "path": "local/arad/zimandu-nou/2025/12",
+   "short": "HCL Zimandu Nou nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 12/2025 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216264",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216264",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--zimandu-nou-120-2025",
    "path": "local/arad/zimandu-nou/2025/120",
    "short": "HCL Zimandu Nou nr. 120/2025",
@@ -358,6 +418,171 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/252632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-13-2025",
+   "path": "local/arad/zimandu-nou/2025/13",
+   "short": "HCL Zimandu Nou nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 13/2025 privind aprobarea planului de acţiuni şi lucrări de interes local ce vor fi efectuate în anul 2025 de către persoanele apte de muncă beneficiare de venit minim de incluziune",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216265",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-14-2025",
+   "path": "local/arad/zimandu-nou/2025/14",
+   "short": "HCL Zimandu Nou nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 14/2025 privind elaborarea de programe de actiune comunitară destinate prevenirii si combaterii riscului de sărăcie si excluziune socială la nivelul comunei Zimandu Nou, județul Arad",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216266",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-15-2025",
+   "path": "local/arad/zimandu-nou/2025/15",
+   "short": "HCL Zimandu Nou nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 15/2025 privind aprobarea participării UAT Comuna Zimandu Nou la Programul multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216275",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-16-2025",
+   "path": "local/arad/zimandu-nou/2025/16",
+   "short": "HCL Zimandu Nou nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 16/2025 privind aprobarea bugetului de venituri şi cheltuieli al comunei Zimandu Nou pe anul 2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216295",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-17-2025",
+   "path": "local/arad/zimandu-nou/2025/17",
+   "short": "HCL Zimandu Nou nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 17/2025 privind aprobarea tipului de suport alimentar aporobat elevilor Școlii gimnaziale Andrei Șaguna în cadrul Programului național ”Masă sănătoasă” pentru anul 2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216296",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-18-2025",
+   "path": "local/arad/zimandu-nou/2025/18",
+   "short": "HCL Zimandu Nou nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 18/2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216297",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-19-2025",
+   "path": "local/arad/zimandu-nou/2025/19",
+   "short": "HCL Zimandu Nou nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 19/2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216298",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-2-2025",
+   "path": "local/arad/zimandu-nou/2025/2",
+   "short": "HCL Zimandu Nou nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 2/2025 privind modificarea Statutului Asociaţiei de Dezvoltare Intercomunitară Apă Canalizare Judeţul Arad, la care UAT Comuna Zimandu Nou este membru asociat",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216243",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-20-2025",
+   "path": "local/arad/zimandu-nou/2025/20",
+   "short": "HCL Zimandu Nou nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 20/2025 privind aprobarea documentaţiei tehnice şi indicatorilor tehnico – economici pentru obiectivul de investiţie: ,,Extindere rețele de apă în Zimandcuz și Zimandu Nou, jud. Arad,,",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216299",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-21-2025",
+   "path": "local/arad/zimandu-nou/2025/21",
+   "short": "HCL Zimandu Nou nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 21/2025 privind modificarea Hotărârii Consiliului local Zimandu Nou nr. 4 din 03.01.2024 privind aprobarea proiectului „Dezvoltarea competențelor digitale în cadrul bibliotecilor din județul Arad” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216300",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-22-2025",
+   "path": "local/arad/zimandu-nou/2025/22",
+   "short": "HCL Zimandu Nou nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 22/2025",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/216301",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/216301",
      "sha256": null
     }
    ]

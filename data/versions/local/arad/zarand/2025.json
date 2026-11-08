@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zarand/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--zarand-25-2025",
+   "path": "local/arad/zarand/2025/25",
+   "short": "HCL Zărand nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Zărand nr. 25/2025",
+   "url": "https://primariazarand.ro/hotararile-autoritatii-deliberative/registrul-pentru-evidena-hotararilor-de-consiliu-local-zarand/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://primariazarand.ro/wp-content/uploads/2025/03/25.pdf",
+     "sha256": "85103992fd150c08299744ebe24ef46f8b82550f6e3503a4901e054b2477846e"
+    }
+   ]
+  }
+ ]
+}

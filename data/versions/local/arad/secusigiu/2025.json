@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--secusigiu-77-2025",
+   "path": "local/arad/secusigiu/2025/77",
+   "short": "HCL Secusigiu nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 77/2025 privind numirea reprezentanților Consiliului local în Consiliul de administrație al Școlii Gimnaziale Secusigiu",
+   "url": "https://emol.ro/secusigiu-ar/registru-hcl/231507",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secusigiu-ar/registru-hcl/231507",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--secusigiu-78-2025",
    "path": "local/arad/secusigiu/2025/78",
    "short": "HCL Secusigiu nr. 78/2025",

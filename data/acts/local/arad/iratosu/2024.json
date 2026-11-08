@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/iratosu/2024",
+"acts": [
+{
+"slug": "hcl-arad--iratosu-13-2024",
+"path": "local/arad/iratosu/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Iratoșu nr. 13/2024",
+"short": "HCL Iratoșu nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://iratosu.ro/wp-content/uploads/2024/04/hotararea-13-30-04-2024.pdf",
+"council": "arad/iratosu",
+"council_name": "Consiliul Local al Comunei Iratoșu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

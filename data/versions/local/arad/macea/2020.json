@@ -3,6 +3,21 @@
  "shard": "local/arad/macea/2020",
  "acts": [
   {
+   "slug": "hcl-arad--macea-1-2020",
+   "path": "local/arad/macea/2020/1",
+   "short": "HCL Macea nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 1/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30069",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30069",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-10-2020",
    "path": "local/arad/macea/2020/10",
    "short": "HCL Macea nr. 10/2020",
@@ -13,6 +28,51 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-100-2020",
+   "path": "local/arad/macea/2020/100",
+   "short": "HCL Macea nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 100/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 20 10 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30247",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-101-2020",
+   "path": "local/arad/macea/2020/101",
+   "short": "HCL Macea nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 101/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Macea, județul Arad",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30248",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-102-2020",
+   "path": "local/arad/macea/2020/102",
+   "short": "HCL Macea nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 102/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30257",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30257",
      "sha256": null
     }
    ]
@@ -363,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-14-2020",
+   "path": "local/arad/macea/2020/14",
+   "short": "HCL Macea nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 14/2020 privind aprobarea rețelei școlare la nivelul comunei Macea pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30082",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30082",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-15-2020",
    "path": "local/arad/macea/2020/15",
    "short": "HCL Macea nr. 15/2020",
@@ -403,6 +478,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-18-2020",
+   "path": "local/arad/macea/2020/18",
+   "short": "HCL Macea nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 18/2020 privind aprobarea achiziționării de servicii juridice",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30086",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30086",
      "sha256": null
     }
    ]
@@ -463,6 +553,21 @@
      "from": "2020-02-07",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-22-2020",
+   "path": "local/arad/macea/2020/22",
+   "short": "HCL Macea nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 22/2020 privind aprobarea subînchiderii unui spațiu comercial",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30093",
+   "versions": [
+    {
+     "from": "2020-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30093",
      "sha256": null
     }
    ]
@@ -558,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-29-2020",
+   "path": "local/arad/macea/2020/29",
+   "short": "HCL Macea nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 29/2020 privind acordarea unui mandat reprezentantului Comunei Macea în Adunarea Generală a Asociaţilor pentru aprobarea cotizație comunei Macea pentru anul 2020 la Asociația de Dezvoltare Intercomunitară Transport Public Arad",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30105",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-3-2020",
    "path": "local/arad/macea/2020/3",
    "short": "HCL Macea nr. 3/2020",
@@ -568,6 +688,36 @@
      "from": "2020-01-10",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-30-2020",
+   "path": "local/arad/macea/2020/30",
+   "short": "HCL Macea nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 30/2020 privind acordarea unui mandat reprezentantului Comunei Macea în Adunarea Generală a Asociaţilor pentru modificarea Actului Constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30106",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-31-2020",
+   "path": "local/arad/macea/2020/31",
+   "short": "HCL Macea nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 31/2020 privind acordarea unui mandat reprezentantului Comunei Macea în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 750/03.12.2019 – Act adițional la Contractul nr. 704/02.12.2019, astfel cum a fost modificat prin Actele adiționale nr. 1/20.12.2019 și nr. 2/21.01.2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30107",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30107",
      "sha256": null
     }
    ]
@@ -603,6 +753,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-34-2020",
+   "path": "local/arad/macea/2020/34",
+   "short": "HCL Macea nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 34/2020 privind acordarea de facilități pentru transportul elevilor în comuna Macea în perioada 01 03 2020-12 06 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30121",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-35-2020",
+   "path": "local/arad/macea/2020/35",
+   "short": "HCL Macea nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 35/2020 privind aprobarea devizului general actualizat pentru obiectivul de investiții \"EXTINDERE, REABILITARE ȘI MODERNIZARE ȘCOALA GIMNAZIALĂ \"PAVEL COVACI\" – CORP CU NUMĂR ADMINISTRATIV 527, ÎN COMUNA MACEA, JUDEȚUL ARAD\"",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30122",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-36-2020",
+   "path": "local/arad/macea/2020/36",
+   "short": "HCL Macea nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 36/2020 privind aprobarea procesului verbal al ședinței Consiliului local MAcea din data de 28 02 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30123",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-37-2020",
+   "path": "local/arad/macea/2020/37",
+   "short": "HCL Macea nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 37/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 31 03 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30124",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30124",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-38-2020",
    "path": "local/arad/macea/2020/38",
    "short": "HCL Macea nr. 38/2020",
@@ -613,6 +823,21 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-39-2020",
+   "path": "local/arad/macea/2020/39",
+   "short": "HCL Macea nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 39/2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30126",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30126",
      "sha256": null
     }
    ]
@@ -658,6 +883,66 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-42-2020",
+   "path": "local/arad/macea/2020/42",
+   "short": "HCL Macea nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 42/2020 privind aprobarea achiziționării de servicii juridice",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30129",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-43-2020",
+   "path": "local/arad/macea/2020/43",
+   "short": "HCL Macea nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 43/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30133",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-44-2020",
+   "path": "local/arad/macea/2020/44",
+   "short": "HCL Macea nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 44/2020 privind aprobarea procesului verbal al ședinței Consiliului local MAcea din data de 31 03 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30134",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-45-2020",
+   "path": "local/arad/macea/2020/45",
+   "short": "HCL Macea nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 45/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 30 04 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30135",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30135",
      "sha256": null
     }
    ]
@@ -783,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-53-2020",
+   "path": "local/arad/macea/2020/53",
+   "short": "HCL Macea nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 53/2020 privind modificarea organigramei și a statului de funcții a Clubului Sportiv „Voinţa Macea\"",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30143",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30143",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-54-2020",
    "path": "local/arad/macea/2020/54",
    "short": "HCL Macea nr. 54/2020",
@@ -793,6 +1093,36 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-55-2020",
+   "path": "local/arad/macea/2020/55",
+   "short": "HCL Macea nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 55/2020 privind aprobarea procesului verbal al ședinței Consiliului local Macea din data de 30 04 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30149",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-56-2020",
+   "path": "local/arad/macea/2020/56",
+   "short": "HCL Macea nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 56/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 27 05 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30150",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30150",
      "sha256": null
     }
    ]
@@ -823,6 +1153,21 @@
      "from": "2020-05-27",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-59-2020",
+   "path": "local/arad/macea/2020/59",
+   "short": "HCL Macea nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 59/2020 privind aprobarea Planului Urbanistic Zonal ”Bază sportivă, de agrement și servicii Macea, jud. Arad”",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30153",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30153",
      "sha256": null
     }
    ]
@@ -888,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-63-2020",
+   "path": "local/arad/macea/2020/63",
+   "short": "HCL Macea nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 63/2020 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Macea din data de 27 05 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30162",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-64-2020",
    "path": "local/arad/macea/2020/64",
    "short": "HCL Macea nr. 64/2020",
@@ -918,6 +1278,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-66-2020",
+   "path": "local/arad/macea/2020/66",
+   "short": "HCL Macea nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 66/2020 privind aprobarea procesului verbal din 11.6.2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30174",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-67-2020",
+   "path": "local/arad/macea/2020/67",
+   "short": "HCL Macea nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 67/2020 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30175",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-68-2020",
    "path": "local/arad/macea/2020/68",
    "short": "HCL Macea nr. 68/2020",
@@ -928,6 +1318,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-69-2020",
+   "path": "local/arad/macea/2020/69",
+   "short": "HCL Macea nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 69/2020 privind aprobarea devizului general actualizat pentru obiectivul de investiții \"EXTINDERE, REABILITARE ȘI MODERNIZARE ȘCOALA GIMNAZIALĂ \"PAVEL COVACI\" – CORP CU NUMĂR ADMINISTRATIV 527, ÎN COMUNA MACEA, JUDEȚUL ARAD\"",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30177",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30177",
      "sha256": null
     }
    ]
@@ -963,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-71-2020",
+   "path": "local/arad/macea/2020/71",
+   "short": "HCL Macea nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 71/2020 privind aprobarea Metodologiei de aplicare a prevederilor Legii nr. 35/2020 privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30179",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30179",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-72-2020",
    "path": "local/arad/macea/2020/72",
    "short": "HCL Macea nr. 72/2020",
@@ -988,6 +1408,51 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-74-2020",
+   "path": "local/arad/macea/2020/74",
+   "short": "HCL Macea nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 74/2020 privind aprobarea procesului verbal al ședinței Consiliului local MAcea din data de 30 06 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30207",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-75-2020",
+   "path": "local/arad/macea/2020/75",
+   "short": "HCL Macea nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 75/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 28 07 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30208",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-76-2020",
+   "path": "local/arad/macea/2020/76",
+   "short": "HCL Macea nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 76/2020 privind atribuirea în folosință gratuită a unor terenuri potrivit Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30209",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30209",
      "sha256": null
     }
    ]
@@ -1113,6 +1578,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-84-2020",
+   "path": "local/arad/macea/2020/84",
+   "short": "HCL Macea nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 84/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30217",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-85-2020",
+   "path": "local/arad/macea/2020/85",
+   "short": "HCL Macea nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 85/2020 privind aprobarea procesului verbal al ședinței Consiliului local MAcea din data de 28 07 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30218",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-86-2020",
+   "path": "local/arad/macea/2020/86",
+   "short": "HCL Macea nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 86/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 31 08 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30219",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-87-2020",
    "path": "local/arad/macea/2020/87",
    "short": "HCL Macea nr. 87/2020",
@@ -1138,6 +1648,36 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-89-2020",
+   "path": "local/arad/macea/2020/89",
+   "short": "HCL Macea nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 89/2020 privind acordarea unui mandat special reprezentantului Comunei Macea în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 750/03.12.2019 – Act adițional la Contractul nr. 704/02.12.2019, astfel cum a fost modificat prin Actele adiționale nr. 1/20.12.2019, nr. 2/21.01.2020 și nr. 3/06.03.2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30222",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-9-2020",
+   "path": "local/arad/macea/2020/9",
+   "short": "HCL Macea nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 9/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30077",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30077",
      "sha256": null
     }
    ]
@@ -1173,6 +1713,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--macea-92-2020",
+   "path": "local/arad/macea/2020/92",
+   "short": "HCL Macea nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 92/2020 privind aprobarea procesului verbal al ședinței Consiliului local Macea din data de 31 08 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30233",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-93-2020",
+   "path": "local/arad/macea/2020/93",
+   "short": "HCL Macea nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 93/2020 privind aprobarea ordinii de zi a ședinței Consiliului local Macea din data de 17 09 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30234",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-94-2020",
+   "path": "local/arad/macea/2020/94",
+   "short": "HCL Macea nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 94/2020 privind acordarea de facilități pentru transportul elevilor în comuna Macea",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30235",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--macea-95-2020",
    "path": "local/arad/macea/2020/95",
    "short": "HCL Macea nr. 95/2020",
@@ -1183,6 +1768,21 @@
      "from": "2020-09-17",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-96-2020",
+   "path": "local/arad/macea/2020/96",
+   "short": "HCL Macea nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 96/2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30237",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30237",
      "sha256": null
     }
    ]
@@ -1213,6 +1813,21 @@
      "from": "2020-09-17",
      "units": 1,
      "source_url": "https://emol.ro/macea-ar/registru-hcl/30239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--macea-99-2020",
+   "path": "local/arad/macea/2020/99",
+   "short": "HCL Macea nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Macea nr. 99/2020 privind aprobarea procesului verbal al ședinței Consiliului local Macea din data de 17 09 2020",
+   "url": "https://emol.ro/macea-ar/registru-hcl/30246",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/macea-ar/registru-hcl/30246",
      "sha256": null
     }
    ]

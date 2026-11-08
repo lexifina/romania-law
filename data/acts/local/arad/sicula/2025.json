@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/sicula/2025",
+"acts": [
+{
+"slug": "hcl-arad--sicula-36-2025",
+"path": "local/arad/sicula/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șicula nr. 36/2025",
+"short": "HCL Șicula nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://sicula.ro/page/5/",
+"council": "arad/sicula",
+"council_name": "Consiliul Local al Comunei Șicula",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

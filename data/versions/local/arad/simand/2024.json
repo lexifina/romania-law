@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/simand/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--simand-10-2024",
+   "path": "local/arad/simand/2024/10",
+   "short": "HCL Șimand nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 10/2024",
+   "url": "https://simand.ro/wp-content/uploads/2024/04/HOT.NR_.10-29.04.2024-dmitere-lista-FD.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2024/04/HOT.NR_.10-29.04.2024-dmitere-lista-FD.pdf",
+     "sha256": "538fccc7fd53c9fd1772015e2357b541a34ed4e4c045ba52a91bd8d5f4c386b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--simand-12-2024",
+   "path": "local/arad/simand/2024/12",
+   "short": "HCL Șimand nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șimand nr. 12/2024",
+   "url": "https://simand.ro/wp-content/uploads/2024/04/HOT.NR_.12-29.04.2024-admitere-lista-candidati-CL-PUSL.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://simand.ro/wp-content/uploads/2024/04/HOT.NR_.12-29.04.2024-admitere-lista-candidati-CL-PUSL.pdf",
+     "sha256": "aae2ef1daf684a3542b28c4254eee85d0bea0add425b0c415150b431eecb119d"
+    }
+   ]
+  }
+ ]
+}

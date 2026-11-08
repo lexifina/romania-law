@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varadia-de-mures-31-2025",
+   "path": "local/arad/varadia-de-mures/2025/31",
+   "short": "HCL Vărădia de Mureș nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 31/2025 privind aprobarea Raportului de evaluare și a Studiului de oportunitate în vederea concesionării prin licitatie publica a terenului în suprafata de 30.000 m.p situat in intravilan, categoria de folosință pădure",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/212628",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/212628",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varadia-de-mures-32-2025",
    "path": "local/arad/varadia-de-mures/2025/32",
    "short": "HCL Vărădia de Mureș nr. 32/2025",
@@ -688,6 +703,36 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/227199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-52-2025",
+   "path": "local/arad/varadia-de-mures/2025/52",
+   "short": "HCL Vărădia de Mureș nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 52/2025",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/227200",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/227200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-53-2025",
+   "path": "local/arad/varadia-de-mures/2025/53",
+   "short": "HCL Vărădia de Mureș nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 53/2025",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/227201",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/227201",
      "sha256": null
     }
    ]

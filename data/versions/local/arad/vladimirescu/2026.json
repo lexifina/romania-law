@@ -1,0 +1,1656 @@
+{
+ "country": "RO",
+ "shard": "local/arad/vladimirescu/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--vladimirescu-100-2026",
+   "path": "local/arad/vladimirescu/2026/100",
+   "short": "HCL Vladimirescu nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 100/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-100-din-26.06.2026.pdf",
+     "sha256": "b8897f6f920b68b0324879c866e10ae9526328350702ba07a48b707440ab8893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-101-2026",
+   "path": "local/arad/vladimirescu/2026/101",
+   "short": "HCL Vladimirescu nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 101/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-101-din-26.06.2026.pdf",
+     "sha256": "345d3fa2db18fd81feee0f7df9e15af7717d6613690ee3dc17926f9eaca152b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-102-2026",
+   "path": "local/arad/vladimirescu/2026/102",
+   "short": "HCL Vladimirescu nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 102/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-102-din-26.06.2026.pdf",
+     "sha256": "5ebe0fb5aca7a680a608f05c594b307a054825461797de63a31a7115d3d14470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-103-2026",
+   "path": "local/arad/vladimirescu/2026/103",
+   "short": "HCL Vladimirescu nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 103/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-103-din-26.06.2026.pdf",
+     "sha256": "422789e3d57611b5321d6b69b5ab031125f02ac0b211d4483a7295850bdda26c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-104-2026",
+   "path": "local/arad/vladimirescu/2026/104",
+   "short": "HCL Vladimirescu nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 104/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-104-din-26.06.2026.pdf",
+     "sha256": "54a1f99867ff070038d071759704a63b7171d443d9486766ab3c41d11c4a8975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-105-2026",
+   "path": "local/arad/vladimirescu/2026/105",
+   "short": "HCL Vladimirescu nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 105/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-105-din-26.06.2026.pdf",
+     "sha256": "5675fa6e0ca5dca0ff176637bd07479d650e019ac548ee48085f840871930e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-106-2026",
+   "path": "local/arad/vladimirescu/2026/106",
+   "short": "HCL Vladimirescu nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 106/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-106-din-28.07.2026.pdf",
+     "sha256": "a94ce778c635b1f7fd509639027a9b89e4c362787254a3d4307d1853b7803113"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-107-2026",
+   "path": "local/arad/vladimirescu/2026/107",
+   "short": "HCL Vladimirescu nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 107/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-107-din-28.07.2026.pdf",
+     "sha256": "bbe40f1771f5df7d652933b19f8c374814778b650720896777c9ad6134a5d52d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-108-2026",
+   "path": "local/arad/vladimirescu/2026/108",
+   "short": "HCL Vladimirescu nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 108/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-108-din-28.07.2026.pdf",
+     "sha256": "9813c445059826676e279515063e563e6f0b4ab9951eb83060853af60c5730a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-109-2026",
+   "path": "local/arad/vladimirescu/2026/109",
+   "short": "HCL Vladimirescu nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 109/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-109-din-28.07.2026.pdf",
+     "sha256": "a8b4cc9ddb67c40b9173f1a678a075150fe0e6d827c811770995942599cad9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-110-2026",
+   "path": "local/arad/vladimirescu/2026/110",
+   "short": "HCL Vladimirescu nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 110/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-110-din-28.07.2026.pdf",
+     "sha256": "2dc5aa0190f0672273d2a29684b80a132bc97d7c83b6d89594681ca58ecb9f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-111-2026",
+   "path": "local/arad/vladimirescu/2026/111",
+   "short": "HCL Vladimirescu nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 111/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-111-din-28.07.2026.pdf",
+     "sha256": "2e6ccde0dad589fa6358168927fbd5af0d9169ae045a705426f3d88dd74c5d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-112-2026",
+   "path": "local/arad/vladimirescu/2026/112",
+   "short": "HCL Vladimirescu nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 112/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-112-din-28.07.2026.pdf",
+     "sha256": "496fa9a8ef69463b0397def95fdbffbf80c4852cf20997a7deb59365165c42a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-113-2026",
+   "path": "local/arad/vladimirescu/2026/113",
+   "short": "HCL Vladimirescu nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 113/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-113-din-28.07.2026.pdf",
+     "sha256": "b8d20176e88a5d329985b644481c264d52980be8a3482dc0b1fb53226acfc557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-114-2026",
+   "path": "local/arad/vladimirescu/2026/114",
+   "short": "HCL Vladimirescu nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 114/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-114-din-28.07.2026.pdf",
+     "sha256": "c491b6a5adc8876272983a22a6f0cadf97131724e554a9c69ea5892d93ab221d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-115-2026",
+   "path": "local/arad/vladimirescu/2026/115",
+   "short": "HCL Vladimirescu nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 115/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-115-din-28.07.2026.pdf",
+     "sha256": "39500bd4e7da1b8d25b45c7a931bc2c486fbcb5448055664f870622d53d358bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-116-2026",
+   "path": "local/arad/vladimirescu/2026/116",
+   "short": "HCL Vladimirescu nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 116/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-116-din-28.07.2026.pdf",
+     "sha256": "a9e9b1baba6bc5a366f500cdb5b460a790a4e4123d2845e6d394d0a68e7769b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-117-2026",
+   "path": "local/arad/vladimirescu/2026/117",
+   "short": "HCL Vladimirescu nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 117/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-117-din-28.07.2026.pdf",
+     "sha256": "32c6bf8bc91efc9b07990860abd9cff2f926b708fbf6ac432a0af5c05334fca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-118-2026",
+   "path": "local/arad/vladimirescu/2026/118",
+   "short": "HCL Vladimirescu nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 118/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-118-din-28.07.2026.pdf",
+     "sha256": "a3834af090df63a71d76883a8770bdcbd390ca7933b48a97de75061f6ca6c109"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-119-2026",
+   "path": "local/arad/vladimirescu/2026/119",
+   "short": "HCL Vladimirescu nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 119/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-119-din-28.07.2026.pdf",
+     "sha256": "de58eba3f4df641689dedc04c8ef4511299a3276d3bd251e73f767ef9cca75ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-120-2026",
+   "path": "local/arad/vladimirescu/2026/120",
+   "short": "HCL Vladimirescu nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 120/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-120-din-28.07.2026.pdf",
+     "sha256": "bc73e43f607838ae25f7d4d52c87def80d20f2e9057c6251cf26d86ec87dada0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-121-2026",
+   "path": "local/arad/vladimirescu/2026/121",
+   "short": "HCL Vladimirescu nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 121/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-121-din-25.08.2026.pdf",
+     "sha256": "67301ed266507c7606148a0cc1e1ce999760061081be5beb5fe7155c3d80c7f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-122-2026",
+   "path": "local/arad/vladimirescu/2026/122",
+   "short": "HCL Vladimirescu nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 122/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-122-din-25.08.2026.pdf",
+     "sha256": "0f431064b7af1ecabb468c2d8f0b5f6ef2dd2acc7b6385db031106e37015c346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-123-2026",
+   "path": "local/arad/vladimirescu/2026/123",
+   "short": "HCL Vladimirescu nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 123/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-123-din-25.08.2026.pdf",
+     "sha256": "97398b86aa1f47f8fa255522fe77c89406c557c9288eadd20a5b95330ad211c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-124-2026",
+   "path": "local/arad/vladimirescu/2026/124",
+   "short": "HCL Vladimirescu nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 124/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-124-din-25.08.2026.pdf",
+     "sha256": "c5421be3646734a7b5c7b9df6de3b7580178c3f946fab02c76859f7086840f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-125-2026",
+   "path": "local/arad/vladimirescu/2026/125",
+   "short": "HCL Vladimirescu nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 125/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-125-din-25.08.2026.pdf",
+     "sha256": "fb670b9f5b9ed3db477b08adb9cdfc54364d153aad8ba8805fbcdeb588372ad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-126-2026",
+   "path": "local/arad/vladimirescu/2026/126",
+   "short": "HCL Vladimirescu nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 126/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-126-din-25.08.2026.pdf",
+     "sha256": "034582fb6068e90dc2bde79a3a67d62d658f1e85847ddc7d7631b678109ecb0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-127-2026",
+   "path": "local/arad/vladimirescu/2026/127",
+   "short": "HCL Vladimirescu nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 127/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-127-din-25.08.2026.pdf",
+     "sha256": "1cf57c987e220430cd1737e675f5279fb2f96879532d5b2fea6861f07c0ed60e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-128-2026",
+   "path": "local/arad/vladimirescu/2026/128",
+   "short": "HCL Vladimirescu nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 128/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/09/Hotararea-128-din-25.08.2026.pdf",
+     "sha256": "3d664f6d700ae74ff2f6050d447b9e7b974ba47bf2c2c1ba1fde511e1dbaf717"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-129-2026",
+   "path": "local/arad/vladimirescu/2026/129",
+   "short": "HCL Vladimirescu nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 129/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-129-din-25.09.2026.pdf",
+     "sha256": "dcd28014b3f5cbc1ad40ce4605eba5879eceff70cf2286da06235553f2f75557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-130-2026",
+   "path": "local/arad/vladimirescu/2026/130",
+   "short": "HCL Vladimirescu nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 130/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-130-din-25.09.2026.pdf",
+     "sha256": "8141f0f1d87d3a0069020602971fef9f88951d7c7b378478fb6ada983a87b599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-131-2026",
+   "path": "local/arad/vladimirescu/2026/131",
+   "short": "HCL Vladimirescu nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 131/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-131-din-25.09.2026.pdf",
+     "sha256": "d21ad68af2a3abc479ac578f9b76baf36fe1e414aaaee564468fd95d5ee6e67b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-132-2026",
+   "path": "local/arad/vladimirescu/2026/132",
+   "short": "HCL Vladimirescu nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 132/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-132-din-25.09.2026.pdf",
+     "sha256": "0996b08849e2edb12b3319e1a32cf9d709df162ada7e27120fd987851218036a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-133-2026",
+   "path": "local/arad/vladimirescu/2026/133",
+   "short": "HCL Vladimirescu nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 133/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-133-din-25.09.2026.pdf",
+     "sha256": "59b9f4827ac7b0aec8b4fcc108aaacfee222fff0cdc47782db0de45877c1a245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-134-2026",
+   "path": "local/arad/vladimirescu/2026/134",
+   "short": "HCL Vladimirescu nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 134/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-134-din-25.09.2026.pdf",
+     "sha256": "650b2249eec0fd3bb29febbfa0128e6ae895c8bae3f4604e7a6295c48971c1c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-135-2026",
+   "path": "local/arad/vladimirescu/2026/135",
+   "short": "HCL Vladimirescu nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 135/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-135-din-25.09.2026.pdf",
+     "sha256": "d96c0e33cee9378eff772adfaeac3a1270406fab03e1f82bf0f158d8d013aebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-136-2026",
+   "path": "local/arad/vladimirescu/2026/136",
+   "short": "HCL Vladimirescu nr. 136/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 136/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-136-din-25.09.2026.pdf",
+     "sha256": "8b9cbefd402a8d618c22460a4ce0d87500be317292868f3b4ef496dadda6b59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-137-2026",
+   "path": "local/arad/vladimirescu/2026/137",
+   "short": "HCL Vladimirescu nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 137/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-137-din-25.09.2026.pdf",
+     "sha256": "1acee824595cafdd98e9ac3461a51a27ba612c1c786dc8b936438f5fede551fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-138-2026",
+   "path": "local/arad/vladimirescu/2026/138",
+   "short": "HCL Vladimirescu nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 138/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-138-din-25.09.2026.pdf",
+     "sha256": "73ac6947dcc0653ad02f18e107a4e0a211ce61f92697cba7a7602eea8c238458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-139-2026",
+   "path": "local/arad/vladimirescu/2026/139",
+   "short": "HCL Vladimirescu nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 139/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-139-din-25.09.2026.pdf",
+     "sha256": "5a6b2a6f2685e0234529b54684e6f38da6202b81036ae4c95851d78d77cbd0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-140-2026",
+   "path": "local/arad/vladimirescu/2026/140",
+   "short": "HCL Vladimirescu nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 140/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-140-din-25.09.2026.pdf",
+     "sha256": "f55369a50d461c0a709e0fd1e69387ef5735fe11b8fda150837c80b112a790c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-141-2026",
+   "path": "local/arad/vladimirescu/2026/141",
+   "short": "HCL Vladimirescu nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 141/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-141-din-25.09.2026.pdf",
+     "sha256": "8c986b815c1545c049f9055952605be2208ed65d84d09c04d795ea6025ee2811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-142-2026",
+   "path": "local/arad/vladimirescu/2026/142",
+   "short": "HCL Vladimirescu nr. 142/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 142/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-142-din-25.09.2026.pdf",
+     "sha256": "cf0a9286f5af237cc617b033347dfd78dd58a84e3cf93ed678c1233d6e81942c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-143-2026",
+   "path": "local/arad/vladimirescu/2026/143",
+   "short": "HCL Vladimirescu nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 143/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-143-din-02.10.2026.pdf",
+     "sha256": "fa18e444536c462feee27f8820dd783961be4cd4c14c4ea376796c6e0f31326a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-144-2026",
+   "path": "local/arad/vladimirescu/2026/144",
+   "short": "HCL Vladimirescu nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 144/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-144-din-02.10.2026.pdf",
+     "sha256": "ce2337902bfec687f1ead4661a8fcfcd57de573b744cc5e8d97480a1796bca56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-145-2026",
+   "path": "local/arad/vladimirescu/2026/145",
+   "short": "HCL Vladimirescu nr. 145/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 145/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-145-din-02.10.2026.pdf",
+     "sha256": "16974f3ab0bd101d35dc29936637c7039fa297e8d7abdbe27ba7e742e0c155a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-146-2026",
+   "path": "local/arad/vladimirescu/2026/146",
+   "short": "HCL Vladimirescu nr. 146/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 146/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-146-din-02.10.2026.pdf",
+     "sha256": "bbe9277e6b6ace44319857262909ce54ff2db7d3fcbf3f655ddd2c46404b8357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-147-2026",
+   "path": "local/arad/vladimirescu/2026/147",
+   "short": "HCL Vladimirescu nr. 147/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 147/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-147-din-02.10.2026.pdf",
+     "sha256": "831610937c7f206579a3c896bd9f33bf4bd9e63481a5267390bf4b02ee2187df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-148-2026",
+   "path": "local/arad/vladimirescu/2026/148",
+   "short": "HCL Vladimirescu nr. 148/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 148/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-148-din-02.10.2026.pdf",
+     "sha256": "2339aaff43e2e2cd296adde2f7a525c1d38bc13227d4cfe547227db5222a5ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-149-2026",
+   "path": "local/arad/vladimirescu/2026/149",
+   "short": "HCL Vladimirescu nr. 149/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 149/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-149-din-02.10.2026.pdf",
+     "sha256": "ec83a8766a17336483e2d35d582693be5500e448c772dbba4ec1d67f1477b89d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-150-2026",
+   "path": "local/arad/vladimirescu/2026/150",
+   "short": "HCL Vladimirescu nr. 150/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 150/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-150-din-02.10.2026.pdf",
+     "sha256": "82e7095a0f3517ae0db32c276cc3b3477bb23ed8e6e82ae8eaa98cc72c9a9e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-151-2026",
+   "path": "local/arad/vladimirescu/2026/151",
+   "short": "HCL Vladimirescu nr. 151/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 151/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-151-din-02.10.2026.pdf",
+     "sha256": "3c15c6fb19786487ba11ab4def94048e2a0f5f0546d65a67d61bc7ceed5a204c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-152-2026",
+   "path": "local/arad/vladimirescu/2026/152",
+   "short": "HCL Vladimirescu nr. 152/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 152/2026",
+   "url": "https://www.primariavladimirescu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-152-din-02.10.2026.pdf",
+     "sha256": "b6530d31fee84c76d1d7b8170cea95224e2463af465c66f6c4d4ddebb89a3aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-153-2026",
+   "path": "local/arad/vladimirescu/2026/153",
+   "short": "HCL Vladimirescu nr. 153/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 153/2026",
+   "url": "https://www.primariavladimirescu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-153-din-02.10.2026.pdf",
+     "sha256": "2c6101e8144150497bf56993ea1a19ccd4a768f275020200d8f6cb3b52068068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-154-2026",
+   "path": "local/arad/vladimirescu/2026/154",
+   "short": "HCL Vladimirescu nr. 154/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 154/2026",
+   "url": "https://www.primariavladimirescu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-154-din-02.10.2026.pdf",
+     "sha256": "31bff7affd897297136c45895a15391d2d4a3bd57a8c68f07afa80aefef9fe28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-155-2026",
+   "path": "local/arad/vladimirescu/2026/155",
+   "short": "HCL Vladimirescu nr. 155/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 155/2026",
+   "url": "https://www.primariavladimirescu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-155-din-02.10.2026.pdf",
+     "sha256": "f82a328119688a986eec19cba5d6fbdb8054efcc0a81d82b4ebc063747d7b04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-156-2026",
+   "path": "local/arad/vladimirescu/2026/156",
+   "short": "HCL Vladimirescu nr. 156/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 156/2026",
+   "url": "https://www.primariavladimirescu.ro/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/10/Hotararea-156-din-02.10.2026.pdf",
+     "sha256": "4bf9eb174f2be9a10557eb573f07341f3e0b9cdadcbf64ca92bfd95affc02c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-32-2026",
+   "path": "local/arad/vladimirescu/2026/32",
+   "short": "HCL Vladimirescu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 32/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-32-din-27.02.2026.pdf",
+     "sha256": "cda2fe84d7ac7ec85c9607860d0179a72126e87b68f38f49132123cc02e25849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-33-2026",
+   "path": "local/arad/vladimirescu/2026/33",
+   "short": "HCL Vladimirescu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 33/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-33-din-27.02.2026.pdf",
+     "sha256": "646bd3c9fee9d98ee650150d8e6506a5e2e17b77329613fcd05c85e2b686e6e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-34-2026",
+   "path": "local/arad/vladimirescu/2026/34",
+   "short": "HCL Vladimirescu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 34/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-34-din-27.02.2026.pdf",
+     "sha256": "b7665fc8b18f76ecdec08abb7c01ed8f9d14de806c1a947c8fc9d94099b30386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-35-2026",
+   "path": "local/arad/vladimirescu/2026/35",
+   "short": "HCL Vladimirescu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 35/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-35-din-19.03.2026.pdf",
+     "sha256": "1817f22bfda58b705e22f716e013444a1d868b9883a1815b07c37d781257c487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-36-2026",
+   "path": "local/arad/vladimirescu/2026/36",
+   "short": "HCL Vladimirescu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 36/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/03/Hotararea-36-din-19.03.2026.pdf",
+     "sha256": "d3cea152ad60c8b0669f6cd1e16dc8845c34e9612765fe7fceb31b9dc7e072b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-52-2026",
+   "path": "local/arad/vladimirescu/2026/52",
+   "short": "HCL Vladimirescu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 52/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/04/Hotararea-52-din-07.04.2026.pdf",
+     "sha256": "daa4cca3a91fe7f3f00afc6362a898370d793ab422b16c4264aa4593a42193d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-53-2026",
+   "path": "local/arad/vladimirescu/2026/53",
+   "short": "HCL Vladimirescu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 53/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/04/Hotararea-53-din-07.04.2026.pdf",
+     "sha256": "ab08b89ab49f21fa43a9dcde3d6bf319fd38da9d16813028d404cd8471cdbea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-54-2026",
+   "path": "local/arad/vladimirescu/2026/54",
+   "short": "HCL Vladimirescu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 54/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-54-din-29.04.2026.pdf",
+     "sha256": "ee08ac32e7c7a6126bc2da12c387e007cfdda4987df8b39e0e2b244e94c60d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-55-2026",
+   "path": "local/arad/vladimirescu/2026/55",
+   "short": "HCL Vladimirescu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 55/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-55-din-29.04.2026.pdf",
+     "sha256": "28cb7953288475e69e6eb5142a7e423466b57dfa26405aa9abccf5eaa87fe380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-56-2026",
+   "path": "local/arad/vladimirescu/2026/56",
+   "short": "HCL Vladimirescu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 56/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-56-din-29.04.2026.pdf",
+     "sha256": "acd38aa79f216a664e8cf67903d21add0222c062cb00a977ec36675c6db70a83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-57-2026",
+   "path": "local/arad/vladimirescu/2026/57",
+   "short": "HCL Vladimirescu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 57/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-57-din-29.04.2026.pdf",
+     "sha256": "fda882a023bb200059f58b0668089f987bb6509c5a8b1f3e761df8608988ba40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-58-2026",
+   "path": "local/arad/vladimirescu/2026/58",
+   "short": "HCL Vladimirescu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 58/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-58-din-29.04.2026.pdf",
+     "sha256": "bc99a00bdc091302fffe8fdb2981dd5191e964cdc7a3307236321166743212ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-59-2026",
+   "path": "local/arad/vladimirescu/2026/59",
+   "short": "HCL Vladimirescu nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 59/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-59-din-29.04.2026.pdf",
+     "sha256": "6b82c8805761254e37d8e04dd399cd7412d2e1e8a8f1a043a3936c433c574ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-60-2026",
+   "path": "local/arad/vladimirescu/2026/60",
+   "short": "HCL Vladimirescu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 60/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-60-din-29.04.2026.pdf",
+     "sha256": "5f50b8aa064e7b2f4310b18edb6f1534980e28343579685adc29ae22176759fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-61-2026",
+   "path": "local/arad/vladimirescu/2026/61",
+   "short": "HCL Vladimirescu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 61/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-61-din-29.04.2026.pdf",
+     "sha256": "1881b0112828a1614ec84e504e159260504160955cfdc5926408e47780406a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-62-2026",
+   "path": "local/arad/vladimirescu/2026/62",
+   "short": "HCL Vladimirescu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 62/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-62-din-29.04.2026.pdf",
+     "sha256": "08dfb7b25519a450d7daa3cf379dc23d47740cd38b27bc59806d679d43317f76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-63-2026",
+   "path": "local/arad/vladimirescu/2026/63",
+   "short": "HCL Vladimirescu nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 63/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-63-din-29.04.2026.pdf",
+     "sha256": "45cc8f563a2fe58a9869c9492d17aca16f8e3b56e85e39c624b8bd73e2f420d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-64-2026",
+   "path": "local/arad/vladimirescu/2026/64",
+   "short": "HCL Vladimirescu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 64/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-64-din-29.04.2026.pdf",
+     "sha256": "d24c9c89c623b933d2f1d6fc87c28854c8b80f6d2afc12e26f503b1a46edfeb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-65-2026",
+   "path": "local/arad/vladimirescu/2026/65",
+   "short": "HCL Vladimirescu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 65/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-65-din-29.04.2026.pdf",
+     "sha256": "94b2c8ccd6c85930b977634eff520b88ba93faae5c78403c3ce19aec74049687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-66-2026",
+   "path": "local/arad/vladimirescu/2026/66",
+   "short": "HCL Vladimirescu nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 66/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-66-din-29.04.2026.pdf",
+     "sha256": "4c8b5c3751ea3ad5d8e962786cd2da25eeb9759415df9a1bf48d4b4047a21258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-67-2026",
+   "path": "local/arad/vladimirescu/2026/67",
+   "short": "HCL Vladimirescu nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 67/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-67-din-29.04.2026.pdf",
+     "sha256": "2e7165e82fdaac3e469ab6019508be5bcf891a2b1f993f380f8983d43d6c415f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-68-2026",
+   "path": "local/arad/vladimirescu/2026/68",
+   "short": "HCL Vladimirescu nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 68/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-68-din-29.04.2026.pdf",
+     "sha256": "eff3c2f73eeef0d73a339fbf2c4dfa353fc6865674ce82c62104f6a9f420326e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-69-2026",
+   "path": "local/arad/vladimirescu/2026/69",
+   "short": "HCL Vladimirescu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 69/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-69-din-29.04.2026.pdf",
+     "sha256": "09e24a6e44e2e02abaf065a5210f22eb2fc0af227407282309f452cf6ecba6cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-70-2026",
+   "path": "local/arad/vladimirescu/2026/70",
+   "short": "HCL Vladimirescu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 70/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-70-din-26.05.2026.pdf",
+     "sha256": "69d845e07e322aa8889ade77c52ba8db7e38975df47338058f25a187b703cff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-71-2026",
+   "path": "local/arad/vladimirescu/2026/71",
+   "short": "HCL Vladimirescu nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 71/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-71-din-26.05.2026.pdf",
+     "sha256": "90312da7e6063b29e5ef53a188420c6c31caabd60bda9b11fe53012768f32681"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-72-2026",
+   "path": "local/arad/vladimirescu/2026/72",
+   "short": "HCL Vladimirescu nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 72/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-72-din-26.05.2026.pdf",
+     "sha256": "a14c523cf06d86e38f1738f069f43a102fe0dc357b9d3f144dfdfd9991e15612"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-73-2026",
+   "path": "local/arad/vladimirescu/2026/73",
+   "short": "HCL Vladimirescu nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 73/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-73-din-26.05.2026.pdf",
+     "sha256": "f567dcbddf6d5ba286f18e1514b527bce0f936f5f2e0bfcddfc0848faeb2ffa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-74-2026",
+   "path": "local/arad/vladimirescu/2026/74",
+   "short": "HCL Vladimirescu nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 74/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-74-din-26.05.2026.pdf",
+     "sha256": "ffffc568c6e9f3ddb937b7314e9c640cdce1cb312f152377b9a26e8d3e4dbb29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-75-2026",
+   "path": "local/arad/vladimirescu/2026/75",
+   "short": "HCL Vladimirescu nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 75/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-75-din-26.05.2026.pdf",
+     "sha256": "6c56939aad01bbe910252d49478615731a14e205a832ffcff5489512777682a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-76-2026",
+   "path": "local/arad/vladimirescu/2026/76",
+   "short": "HCL Vladimirescu nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 76/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-76-din-26.05.2026.pdf",
+     "sha256": "3c8f68707aff8a97dbdc1bdd1565c5c3264a8d1e4960522ea0488c685f6351e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-77-2026",
+   "path": "local/arad/vladimirescu/2026/77",
+   "short": "HCL Vladimirescu nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 77/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-77-din-26.05.2026.pdf",
+     "sha256": "1cfd991758677de365cdb339b31f25e61291269d557080f826ea7ee920306367"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-78-2026",
+   "path": "local/arad/vladimirescu/2026/78",
+   "short": "HCL Vladimirescu nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 78/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-78-din-26.05.2026.pdf",
+     "sha256": "4ea5a05515c78f005868d93b0dd61d5e221b5a798d2f4911b00e8dfe65bc70fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-79-2026",
+   "path": "local/arad/vladimirescu/2026/79",
+   "short": "HCL Vladimirescu nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 79/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-79-din-26.05.2026.pdf",
+     "sha256": "a7ef2fcbac39b435a9129b3dfa087e254f732c6fe0812e5915af949d526b66de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-80-2026",
+   "path": "local/arad/vladimirescu/2026/80",
+   "short": "HCL Vladimirescu nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 80/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-80-din-26.05.2026.pdf",
+     "sha256": "86e36d293813191f29eb15f95c93759849934cb02c4fabd9461aabb28b5a19ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-81-2026",
+   "path": "local/arad/vladimirescu/2026/81",
+   "short": "HCL Vladimirescu nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 81/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-81-din-26.05.2026.pdf",
+     "sha256": "fadaa7cc4f20a312e994933cd5a9ae1fed8fb4071026c9e2bc3a8f785e5cd92f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-82-2026",
+   "path": "local/arad/vladimirescu/2026/82",
+   "short": "HCL Vladimirescu nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 82/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-82-din-26.05.2026.pdf",
+     "sha256": "b9b2bccda3d67f574ac1a60b5993136e1aa7e2fff436d26717de0dba729b5d11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-83-2026",
+   "path": "local/arad/vladimirescu/2026/83",
+   "short": "HCL Vladimirescu nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 83/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-83-din-26.05.2026.pdf",
+     "sha256": "949422c6f0ad8020276179ceae7cef1155d9f9436a6133cb2b50b8d37da1d45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-84-2026",
+   "path": "local/arad/vladimirescu/2026/84",
+   "short": "HCL Vladimirescu nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 84/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-84-din-26.05.2026.pdf",
+     "sha256": "5b2a3d76f1ea387bb93e508165467c2ae8d2a25286aa2b4c696b7d4c47e715ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-85-2026",
+   "path": "local/arad/vladimirescu/2026/85",
+   "short": "HCL Vladimirescu nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 85/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-85-din-26.05.2026.pdf",
+     "sha256": "82c55f6af08d2f78cfb8f05309ecedf5cf72bfedb8007ccbfa74ddc77e289571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-86-2026",
+   "path": "local/arad/vladimirescu/2026/86",
+   "short": "HCL Vladimirescu nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 86/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-86-din-26.05.2026.pdf",
+     "sha256": "f5454f1c8a42bccecbf2e0d84ec0ec4d2eee7f15000ba6cc11ffeeaa0cf3aefb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-87-2026",
+   "path": "local/arad/vladimirescu/2026/87",
+   "short": "HCL Vladimirescu nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 87/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-87-din-26.05.2026.pdf",
+     "sha256": "556a6a9cdee72928222c6961b4170fe644da9d1d17effaef022ce84063b1b825"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-88-2026",
+   "path": "local/arad/vladimirescu/2026/88",
+   "short": "HCL Vladimirescu nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 88/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-88-din-10.06.2026.pdf",
+     "sha256": "0a0b028e962e37fbc87bd68a722fa077361509da371c8881d374a5b57f5ef9c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-89-2026",
+   "path": "local/arad/vladimirescu/2026/89",
+   "short": "HCL Vladimirescu nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 89/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-89-din-10.06.2026.pdf",
+     "sha256": "235c120069b388c4628229854b621fcefb36b64fcd3b721564653cc6e11df5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-90-2026",
+   "path": "local/arad/vladimirescu/2026/90",
+   "short": "HCL Vladimirescu nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 90/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-90-din-10.06.2026.pdf",
+     "sha256": "709e7d66712bab2de5e3dfc8496cd649ab3f18763ad4c571c084775ebe3a9154"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-91-2026",
+   "path": "local/arad/vladimirescu/2026/91",
+   "short": "HCL Vladimirescu nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 91/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/06/Hotararea-91-din-10.06.2026.pdf",
+     "sha256": "e45dd14b782a60fffb500355a7768515f786977943d4d0073500db5478f95de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-92-2026",
+   "path": "local/arad/vladimirescu/2026/92",
+   "short": "HCL Vladimirescu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 92/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-92-din-26.06.2026.pdf",
+     "sha256": "610a61687e5b08b67e4ee40427a6f4a2d788df26e3bbfdf2e46864d2d4628bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-93-2026",
+   "path": "local/arad/vladimirescu/2026/93",
+   "short": "HCL Vladimirescu nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 93/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-93-din-26.06.2026.pdf",
+     "sha256": "10f859d85f8ad49ce6eaf792b99e54234c74f9301f802dcec54eeec6b389d1c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-94-2026",
+   "path": "local/arad/vladimirescu/2026/94",
+   "short": "HCL Vladimirescu nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 94/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-94-din-26.06.2026.pdf",
+     "sha256": "e69d851945a2575f2c6bb71134de17208fb99b05420d005a5887f52428706b20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-95-2026",
+   "path": "local/arad/vladimirescu/2026/95",
+   "short": "HCL Vladimirescu nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 95/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-95-din-26.06.2026.pdf",
+     "sha256": "78857fe4e63649b692d646e5446fcd0f83cc0fab9ed36308e826f0a3cbd5c8ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-96-2026",
+   "path": "local/arad/vladimirescu/2026/96",
+   "short": "HCL Vladimirescu nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 96/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-96-din-26.06.2026.pdf",
+     "sha256": "025e4ff243dc852c4fb7ad11eb8db79376a6d48b2a54259cab534f6551bde9cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-97-2026",
+   "path": "local/arad/vladimirescu/2026/97",
+   "short": "HCL Vladimirescu nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 97/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-97-din-26.06.2026.pdf",
+     "sha256": "50d506d01b2da6fc940c412429235dd94189c4000b7ea0975142cb3b2cd66b06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-98-2026",
+   "path": "local/arad/vladimirescu/2026/98",
+   "short": "HCL Vladimirescu nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 98/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-98-din-26.06.2026.pdf",
+     "sha256": "c3f506abe3775d3ccfa1b14ddf70605c9da94d93ff403a79b51f2144a0cb58ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--vladimirescu-99-2026",
+   "path": "local/arad/vladimirescu/2026/99",
+   "short": "HCL Vladimirescu nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 99/2026",
+   "url": "https://www.primariavladimirescu.ro/document-category/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2026/07/Hotararea-99-din-26.06.2026.pdf",
+     "sha256": "a64a6f38cd2a71c85b7aabf056d8f06a06abeaf4a4434b86be47f3fea47aff48"
+    }
+   ]
+  }
+ ]
+}

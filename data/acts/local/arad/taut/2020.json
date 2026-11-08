@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/taut/2020",
+"acts": [
+{
+"slug": "hcl-arad--taut-1-2020",
+"path": "local/arad/taut/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 1/2020 privind aprobarea procesului verbal pt.sedinta ordinara din data de 18.12.2020",
+"short": "HCL Tauț nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-68-2020",
+"path": "local/arad/taut/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 68/2020 privind aprobarea Ordinei de zi",
+"short": "HCL Tauț nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

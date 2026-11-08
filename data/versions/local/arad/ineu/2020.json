@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-209-2020",
+   "path": "local/arad/ineu/2020/209",
+   "short": "HCL Ineu nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 209/2020",
+   "url": "https://primariaineu.ro/hotararile-consiliului-local-ineu-nr-200-212-07-10-2025/",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2025/10/hotararea-nr.209-din-data-de-07.10.205.pdf",
+     "sha256": "fbdb8c9453dcdb5e0a81cb4eac48902c35588b9b0af89e9dc170359c763111cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ineu-68-2020",
+   "path": "local/arad/ineu/2020/68",
+   "short": "HCL Ineu nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 68/2020",
+   "url": "https://primariaineu.ro/hotararea-cjsu-arad-nr-6803-11-2020/",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2020/11/Hotararea-nr.68-a-CJSU-Arad-din-03.11.2020.pdf",
+     "sha256": "c54ae98f89f20e31fc51c15380cfb29d23d434d22b0aa1ae6efa75826baf3d96"
+    }
+   ]
+  }
+ ]
+}

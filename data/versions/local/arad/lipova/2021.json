@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/lipova/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--lipova-98-2021",
+   "path": "local/arad/lipova/2021/98",
+   "short": "HCL Lipova nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 98/2021 privind repartizarea pe unități administrativ-teritoriale a sumelor corespunzătoare cotei de 6% din impozitul pe venit reprezentând fond la dispoziia consiliului județean pe anul 2021 precum și a sumelor estimate pentru anii 2022-2024",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/doc-info-financiare/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2021/mof/hotararea%20nr98.pdf",
+     "sha256": "4f9423a77c9f237e713b82d7c0a7b735d4758b8f29a42729d837c751aeb10156"
+    }
+   ]
+  }
+ ]
+}

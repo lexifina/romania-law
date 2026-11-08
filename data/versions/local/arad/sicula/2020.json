@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sicula/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--sicula-1-2020",
+   "path": "local/arad/sicula/2020/1",
+   "short": "HCL Șicula nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 1/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-1-din-12.08.2020-2.pdf",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-1-din-12.08.2020-2.pdf",
+     "sha256": "230440ccb2718b3e6b194a87a5622d1ea5927b187e64102e3345a8adb2e280fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-10-2020",
+   "path": "local/arad/sicula/2020/10",
+   "short": "HCL Șicula nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 10/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-10-din-18.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-10-din-18.08.2020.pdf",
+     "sha256": "7af144038b672bbb91b538d6bc995fcd6a90ad7837aebe489bd59adfac5638bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-11-2020",
+   "path": "local/arad/sicula/2020/11",
+   "short": "HCL Șicula nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 11/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-11-din-18.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-11-din-18.08.2020.pdf",
+     "sha256": "f1ad87dd1cc1cc43efc0f45aa845e2219377e2d36915a00b107cc157f6f639f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-13-2020",
+   "path": "local/arad/sicula/2020/13",
+   "short": "HCL Șicula nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 13/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-13-29.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-29",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-13-29.08.2020.pdf",
+     "sha256": "e1077c8cb69e5c0b537b94a02c50529c2c025f2cd699f5b06c53671a4fca937c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-15-2020",
+   "path": "local/arad/sicula/2020/15",
+   "short": "HCL Șicula nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 15/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/09/hotararea-15-18.09.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/09/hotararea-15-18.09.2020.pdf",
+     "sha256": "653dadce7cbe11fc0760365ce1f5cfa37ad2b1769374d3d57884e536758a0db9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-2-2020",
+   "path": "local/arad/sicula/2020/2",
+   "short": "HCL Șicula nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 2/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-2-din-13.08.2020-2.pdf",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-2-din-13.08.2020-2.pdf",
+     "sha256": "bddac0197fb78dfca0b36df6afa792b116238e102d168a9f8fcf1c4d80ed555c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-3-2020",
+   "path": "local/arad/sicula/2020/3",
+   "short": "HCL Șicula nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 3/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-3-din-13.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-3-din-13.08.2020.pdf",
+     "sha256": "cf90d5381ade7f900c2f790690302e2072284a2ab4f2ef094b0bb9707fbc0713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-4-2020",
+   "path": "local/arad/sicula/2020/4",
+   "short": "HCL Șicula nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 4/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-4-din-14.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-4-din-14.08.2020.pdf",
+     "sha256": "cbae004f3ca5217b786b0c9c4505c3bab719167fe30398face24a8ea54227888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-5-2020",
+   "path": "local/arad/sicula/2020/5",
+   "short": "HCL Șicula nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 5/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-5-din-14.08.2020-1.pdf",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-5-din-14.08.2020-1.pdf",
+     "sha256": "e043df0a77fe8f73ab95062d3388e2ca1c76994ff79421bd590dabd4a5cbb9dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-6-2020",
+   "path": "local/arad/sicula/2020/6",
+   "short": "HCL Șicula nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 6/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-6-din-16.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-6-din-16.08.2020.pdf",
+     "sha256": "9b6226b4e74e7813dc660a633b00f2fedce6942916f73cc774c395d41c6e27c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-7-2020",
+   "path": "local/arad/sicula/2020/7",
+   "short": "HCL Șicula nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 7/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-7-din-17.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-7-din-17.08.2020.pdf",
+     "sha256": "f7b1339e24d24e5f80913e3e1f52f77116e767e37ff1f8fd94e2f4e4ba8982e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-8-2020",
+   "path": "local/arad/sicula/2020/8",
+   "short": "HCL Șicula nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 8/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-8-din-18.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-8-din-18.08.2020.pdf",
+     "sha256": "3a45e3e4b653f1a2bd5b967fbfa2465480bf1c238143c17fb0c538fe0a7805c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sicula-9-2020",
+   "path": "local/arad/sicula/2020/9",
+   "short": "HCL Șicula nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 9/2020",
+   "url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-9-din-18.08.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2020/08/hotararea-9-din-18.08.2020.pdf",
+     "sha256": "b492dc6930fbeaf7994f9bfef81038643049ad8a488a0249b0b7740ef87d368c"
+    }
+   ]
+  }
+ ]
+}

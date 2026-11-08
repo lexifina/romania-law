@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/vladimirescu/2022",
+"acts": [
+{
+"slug": "hcl-arad--vladimirescu-49-2022",
+"path": "local/arad/vladimirescu/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 49/2022",
+"short": "HCL Vladimirescu nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-08",
+"latest": "2022-03-08",
+"portal": "https://www.primariavladimirescu.ro/monitorul-oficial-local/regulamentele-privind-procedurile-administrative/",
+"council": "arad/vladimirescu",
+"council_name": "Consiliul Local al Comunei Vladimirescu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

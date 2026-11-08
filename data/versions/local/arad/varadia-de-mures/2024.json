@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varadia-de-mures-30-2024",
+   "path": "local/arad/varadia-de-mures/2024/30",
+   "short": "HCL Vărădia de Mureș nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 30/2024 privind aprobarea unui sprijin financiar în suma de 15.000 lei Bisericii Ortodoxe Vărădia de Mureș - Filia Stejar pentru lucrări de reparaţii exterioare",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/154019",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/154019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varadia-de-mures-31-2024",
    "path": "local/arad/varadia-de-mures/2024/31",
    "short": "HCL Vărădia de Mureș nr. 31/2024",
@@ -768,6 +783,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--varadia-de-mures-57-2024",
+   "path": "local/arad/varadia-de-mures/2024/57",
+   "short": "HCL Vărădia de Mureș nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 57/2024",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/171264",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/171264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-58-2024",
+   "path": "local/arad/varadia-de-mures/2024/58",
+   "short": "HCL Vărădia de Mureș nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 58/2024",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/171265",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/171265",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varadia-de-mures-59-2024",
    "path": "local/arad/varadia-de-mures/2024/59",
    "short": "HCL Vărădia de Mureș nr. 59/2024",
@@ -943,6 +988,21 @@
      "from": "2025-01-09",
      "units": 1,
      "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/185908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-7-2024",
+   "path": "local/arad/varadia-de-mures/2024/7",
+   "short": "HCL Vărădia de Mureș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 7/2024 privind scoaterea la licitație publică în vederea închirierii unui spaţiului cu destinația de cabinet veterinar din imobilul situat în localitatea Vărădia de Mureș, aflat în domeniul privat al comunei Vărădia de Mureș",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/141014",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/141014",
      "sha256": null
     }
    ]

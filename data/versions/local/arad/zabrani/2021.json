@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zabrani/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--zabrani-14-2021",
+   "path": "local/arad/zabrani/2021/14",
+   "short": "HCL Zăbrani nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 14/2021 privind măsurile adoptate în cadrul ședinței Centrului Local pentru Combaterea Bolilor Arad din data de 18.08.2021",
+   "url": "http://www.primaria-zabrani.ro/arhiva/arhiva-2021.html",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/anul-2021/pdf/hotararea_nr_14_din_18.08.2021.pdf",
+     "sha256": "a7866cb0bbddbc252489778f844edfc86056a684f5443a79632085c285aa881a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-149-2021",
+   "path": "local/arad/zabrani/2021/149",
+   "short": "HCL Zăbrani nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 149/2021",
+   "url": "http://www.primaria-zabrani.ro/arhiva/arhiva-2021.html",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/anul-2021/pdf/Hot%20CJSU%20nr%20149%20din%2022%2009%202021.pdf",
+     "sha256": "3f8d7f4a11515fc944fea17287327adc3169df5d0c125d4ae625c58fb269ba46"
+    }
+   ]
+  }
+ ]
+}

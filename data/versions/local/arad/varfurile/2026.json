@@ -3,6 +3,21 @@
  "shard": "local/arad/varfurile/2026",
  "acts": [
   {
+   "slug": "hcl-arad--varfurile-1-2026",
+   "path": "local/arad/varfurile/2026/1",
+   "short": "HCL Vârfurile nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 1/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 30.12.2025",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/251155",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/251155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-10-2026",
    "path": "local/arad/varfurile/2026/10",
    "short": "HCL Vârfurile nr. 10/2026",
@@ -48,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-13-2026",
+   "path": "local/arad/varfurile/2026/13",
+   "short": "HCL Vârfurile nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 13/2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/260251",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/260251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-14-2026",
+   "path": "local/arad/varfurile/2026/14",
+   "short": "HCL Vârfurile nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 14/2026 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/260252",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/260252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-15-2026",
+   "path": "local/arad/varfurile/2026/15",
+   "short": "HCL Vârfurile nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 15/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 30.03.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/262991",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/262991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-16-2026",
+   "path": "local/arad/varfurile/2026/16",
+   "short": "HCL Vârfurile nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 16/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 15.04.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/262992",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/262992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-17-2026",
    "path": "local/arad/varfurile/2026/17",
    "short": "HCL Vârfurile nr. 17/2026",
@@ -88,6 +163,51 @@
      "from": "2026-04-15",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/262995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-2-2026",
+   "path": "local/arad/varfurile/2026/2",
+   "short": "HCL Vârfurile nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 2/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Vârfurile din data de 03.02.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/251156",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/251156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-20-2026",
+   "path": "local/arad/varfurile/2026/20",
+   "short": "HCL Vârfurile nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 20/2026 privind aprobarea procesului verbal al sedintei extraordinare a Consiliului Local Varfurile din data de 15.04.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/267517",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/267517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-21-2026",
+   "path": "local/arad/varfurile/2026/21",
+   "short": "HCL Vârfurile nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 21/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 11.05.2026, ora 14:00",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/267518",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/267518",
      "sha256": null
     }
    ]
@@ -378,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-4-2026",
+   "path": "local/arad/varfurile/2026/4",
+   "short": "HCL Vârfurile nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 4/2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/251158",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/251158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-40-2026",
    "path": "local/arad/varfurile/2026/40",
    "short": "HCL Vârfurile nr. 40/2026",
@@ -463,6 +598,51 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/251159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-6-2026",
+   "path": "local/arad/varfurile/2026/6",
+   "short": "HCL Vârfurile nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 6/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Vârfurile, aferent anului 2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/251160",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/251160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-7-2026",
+   "path": "local/arad/varfurile/2026/7",
+   "short": "HCL Vârfurile nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 7/2026 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local Vârfurile din data de 03.02.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/260245",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/260245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-8-2026",
+   "path": "local/arad/varfurile/2026/8",
+   "short": "HCL Vârfurile nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 8/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 30.03.2026",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/260246",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/260246",
      "sha256": null
     }
    ]

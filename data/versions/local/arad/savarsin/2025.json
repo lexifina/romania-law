@@ -3,6 +3,336 @@
  "shard": "local/arad/savarsin/2025",
  "acts": [
   {
+   "slug": "hcl-arad--savarsin-1-2025",
+   "path": "local/arad/savarsin/2025/1",
+   "short": "HCL Săvârșin nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 1/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-1-DIN-07.02.2025.pdf",
+     "sha256": "e0c39ea86e95f86477c1eef470581404e2994f1c6060db14153876706ba84da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-12-2025",
+   "path": "local/arad/savarsin/2025/12",
+   "short": "HCL Săvârșin nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 12/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-12-DIN-07.02.2025.pdf",
+     "sha256": "dd4e3d5ac497f9f98c10c94c7eafcdad1397248d36d2ba0547149c557be8f3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-15-2025",
+   "path": "local/arad/savarsin/2025/15",
+   "short": "HCL Săvârșin nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 15/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-15-DIN-14.03.2025.pdf",
+     "sha256": "32fcbca7962bc019a16c01d4da10846a93dd6ca71b03a7af6f0869e02e662dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-17-2025",
+   "path": "local/arad/savarsin/2025/17",
+   "short": "HCL Săvârșin nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 17/2025 privind aprobarea Bugetului general de Venituri si cheltuieli al comunei Savarsin pe anul 2025 Consiliul local al comunei Savarsin, intrunit in sedint4 ordinara in data de 14.03.2025; Avand in vedere: - referatul de aprobare nr. 5044/1 0.03.2025prezentat de catre Primarul comunei Savarsin, dl",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-17-DIN-14.03.2025.pdf",
+     "sha256": "b48194b9c78f8e4c4b71b91eb7ecb08f2a3fdcbb29e7dedcdf54b89b5593c3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-18-2025",
+   "path": "local/arad/savarsin/2025/18",
+   "short": "HCL Săvârșin nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 18/2025 privind acordarea unui mandat special reprezentantul Comunei Savarsin in Adunarea General a Asociatilor Asociatiei de Dezvoltare Intercomunitard de Transport Public Arad pentru aprobarea cotizatiei pe anul 2025 ciitre Asociatia de Dezvoltare Intercomunitara de Transport Public Arad Avand in vedere initiativa Primarului Comunei Savarsin, exprimatian referatul de aprobare nr, 282/21.02.2025, ‘Analiz",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-18-DIN-14.03.2025.pdf",
+     "sha256": "64d896f2113960f35da1783a712e040308a329407e9fb8c161d05e3a396db4d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-19-2025",
+   "path": "local/arad/savarsin/2025/19",
+   "short": "HCL Săvârșin nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 19/2025 privind desemnarea consilierilor locali din cadrul Consi local al comunei Savarsin, care vor face parte din Comisia de evaluare a performantelor individuale ale Secretarului general al comunei Savargi Consiliu! Local al comunei Savargin, intrunit in sedinfa ordinara in data de 14.03.2025; Avand in vedere: - referatul de aprobare nr. 326/04.03.2025 al Primarului comunei Savarsin, domnul loan Vodice",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-19-DIN-14.03.2025.pdf",
+     "sha256": "286cd841b71a3cb1e4b78808a3d39de9b0b576d8a1a953684a015058e2ad49a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-2-2025",
+   "path": "local/arad/savarsin/2025/2",
+   "short": "HCL Săvârșin nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 2/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-2-DIN-07.02.2025.pdf",
+     "sha256": "1f396ee18f0da250f4721940af0801e09b937f5af8293e96dd00b4d4a017e260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-21-2025",
+   "path": "local/arad/savarsin/2025/21",
+   "short": "HCL Săvârșin nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 21/2025 pentru revocarea Hotdrarii Consiliului Local nr. 100 din 03.12.2024 privind apatenent: domeniut privat al Comunei Savarsin si aprobarea dezlipirii terenului extravilan, categoria de folo 3 Psp inscris in CF 309619 apartinand UAT Comuna Sivargin Consiliul Local Savarsin, intrunit in sedin{d ordinard in data de 14.03.2025; Viizind: - Referatul de aprobare al Primarului comunei Savargin nr. 417 din 1",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-21-DIN-14.03.2025.pdf",
+     "sha256": "bfb84f707c7640da57ebcf205037a9aedeac8d4b1cc70bc1128736475542cb57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-22-2025",
+   "path": "local/arad/savarsin/2025/22",
+   "short": "HCL Săvârșin nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 22/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-22-DIN-02.04.2025.pdf",
+     "sha256": "618e31703b424bfe6de901feaaa11ea5a8646bcfd3f3537aa4703f92914a119a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-23-2025",
+   "path": "local/arad/savarsin/2025/23",
+   "short": "HCL Săvârșin nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 23/2025 privind aprobarea continutului Procesului-verbal al sedingei ordinare a Consiliului Local Savarsin din data de 14.03.2025 Consiliu! local al comunei Savarsin, intrunit in data de 02.04.2025; Avand in vedere: = Procesul-verbal al sedintei ordinare a Consiliului Local Savarsin din data de 07.02.2025; - prevederile art.138, alin.(15) si ale art.139, alin.(4) din OUG nr.57/2019 privind Codul Administr",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-23-DIN-02.04.2025.pdf",
+     "sha256": "0ac1ea4819628568599b7e6816d77a183306da5814a9c45631c6b26b2c1fb626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-24-2025",
+   "path": "local/arad/savarsin/2025/24",
+   "short": "HCL Săvârșin nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 24/2025 privind aprobarea participarii la Programul privind acordarea de sprijin in vederea achizitionrii de aparate pentru incdlzirea locuintelor, pentru localitatile din zona montana si mandatarea primarului pentru derularea procedurilor necesare CONSILIUL LOCAL AL COMUNEI SAVARSIN, Avand in vedere: + Referatul de aprobare al primarului nr.525/02.04.2025; + Raportul compartimentului de specialitate din",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-24-DIN-02.04.2025.pdf",
+     "sha256": "ee4d6b6c969609b68bd129c230dff110b6dedcbea5ebb8087e1d4707f1747e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-25-2025",
+   "path": "local/arad/savarsin/2025/25",
+   "short": "HCL Săvârșin nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-25-DIN-02.04.2025.pdf",
+     "sha256": "1971f7cd866760f0cec8a53f917698f5d02969e4715440b2f959d48d73f7755d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-26-2025",
+   "path": "local/arad/savarsin/2025/26",
+   "short": "HCL Săvârșin nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 26/2025 privind declararea de inters public local a unor bunuri inregistrate in conta ‘Companiei de Api Arad SA jn anul 2023si intrate pe raza UAT Savarsin, inregistrarea acestora in evidenfele contAbile ale UAT Sivarsin si darea acestora in concesiunea Companiei de Apa Arad S.A",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-26-DIN-02.04.2025.pdf",
+     "sha256": "2b660c32df64a55f7f7e46aa2d31f113518f6b84a49ff3c5ef4d20f33cdc9abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-27-2025",
+   "path": "local/arad/savarsin/2025/27",
+   "short": "HCL Săvârșin nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 27/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-27-DIN-26.05.2025.pdf",
+     "sha256": "c6b48eaf42317255ba3beb29c5c86bc86b81dbc10249a26249150d77bc9db01a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-28-2025",
+   "path": "local/arad/savarsin/2025/28",
+   "short": "HCL Săvârșin nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 28/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-28-DIN-26.05.2025.pdf",
+     "sha256": "688944efed2708c92095fd7aa91d79ce06a0a67a0bad98ac78dc0a706ed68696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-29-2025",
+   "path": "local/arad/savarsin/2025/29",
+   "short": "HCL Săvârșin nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 29/2025 privind aprobarea continutului Procesului-verbal al sedinfei ordinare a Consiliului Local Savarsin din data de 02.04.2025 Consiliul local al comunei Savarsin, intrunit in data de 26.05.2025; Avand in vedere: Procesul-verbal al sedinjei ordinare a Consiliului Local Savargin din data de 02.04.2025; - prevederile art.138, ali (15) gi ale art.139, alin.(4) din OUG nr.57/2019 privind Codul Administrati",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-29-DIN-26.05.2025.pdf",
+     "sha256": "fac9b2ad8517230a3f2729f6e6878532421f20813a10d5fc5077c94fecdfd41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-3-2025",
+   "path": "local/arad/savarsin/2025/3",
+   "short": "HCL Săvârșin nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 3/2025 privind aprobarea continutului Procesului-verbal al sedinfei ORDINARE a Consiliului Local Savarsin din data de 30.12.2024 Consiliu! local al comunei Savarsin, intrunit in data de 07.02.2025; Avand in vedere: = Procesul-verbal al sedintei ordinare Consiliului Local Savarsin din data de 30.12.2024; = prevederile art.138, alin.(15) si ale art.139, alin.(4) din OUG nr.57/2019 privind Codul Administrat",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-3-DIN-07.02.2025.pdf",
+     "sha256": "a9d7682001b12ce88d026537e6b622ff1c053bb4f1de293fad1f96b4d3333a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-30-2025",
+   "path": "local/arad/savarsin/2025/30",
+   "short": "HCL Săvârșin nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 30/2025 privind rectificdrea bugetului de venituri si cheltuieli al comunei Savarsin pe anul 2025, Consiliul local al comunei Savarsi judetul Arad, intrunit in sedinta ordinari in 26.05.2025; Avaind in vedere : - referatul de aprobare nr. 669/08.05.2025 al primarului comunei Savarsin; - raportul compartimentului contabilitate din cadrul aparatului de specialitate al primarului comunei Savarsin nr. 670/08",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-30-DIN-26.05.2025.pdf",
+     "sha256": "e558f975ad0430d3594c36261065cfc8f2b15035b24a679fd6dbb6493d0373f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-31-2025",
+   "path": "local/arad/savarsin/2025/31",
+   "short": "HCL Săvârșin nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 31/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-31-DIN-26.05.2025.pdf",
+     "sha256": "d6d81bb44b6bf4e2dd3477cad4360a6b72ba32b855f520280d85b584cfea8993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-32-2025",
+   "path": "local/arad/savarsin/2025/32",
+   "short": "HCL Săvârșin nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 32/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-32-DIN-26.05.2025.pdf",
+     "sha256": "0a5781fa376f235d78eea815db9a7ba2741069980464c728c1f73ec482591463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-34-2025",
+   "path": "local/arad/savarsin/2025/34",
+   "short": "HCL Săvârșin nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 34/2025 privind aprobarea participari(a ;,Programul privind reducerea emisiilor de gaze cu efect de sera in transporturi, prin promovarea vehiculelor de transport rutier nepoluante si eficiente din punct de vedere energetic 2025 - 2030” Analizand temeiurile juridice, respectiv: ~ prevederile Ordinului nr. 1231din 23 aprilie 2025 pentru aprobarea Ghidului de finantare a Programului privind reducerea emisii",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-34-DIN-26.05.2025.pdf",
+     "sha256": "5a14e7d589d20f484147a8178c6351ed9a21bda82acbcadebe64d254d5edc81e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-35-2025",
+   "path": "local/arad/savarsin/2025/35",
+   "short": "HCL Săvârșin nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 35/2025 privind acordarea unui mandat special reprezentantului Comunei Savaryin in Adunarea Generali a Asociatilor Asociatiei de Dezvoltare Intercomunitari de Transport Public Arad si voteze aprobarea modificdrii Statutului Asociatiei de Dezvoltare Intercomunitari de Transport Public Arad Avand in vedere initiativa Primarului Comunei Savarsin, exprimata in referatul de aprobare nr. 681/09.05.2025, Analizi",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-35-DIN-26.05.2025.pdf",
+     "sha256": "5ca174516438381f03e6a5882d10f38034178930d8a2dbc5be864dc8b278fe96"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--savarsin-36-2025",
    "path": "local/arad/savarsin/2025/36",
    "short": "HCL Săvârșin nr. 36/2025",
@@ -14,6 +344,321 @@
      "units": 4,
      "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-36-DIN-26.05.2205.pdf",
      "sha256": "2e1a8a205ab8d049213018b2b67c21808b6b5e46d0cc7f6e23db4724ad301894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-37-2025",
+   "path": "local/arad/savarsin/2025/37",
+   "short": "HCL Săvârșin nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 37/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-37-DIN-26.05.2025.pdf",
+     "sha256": "c5874f023a384f2cd4a932d8658dc01dd36544a805d67ce02143d34a538a46be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-38-2025",
+   "path": "local/arad/savarsin/2025/38",
+   "short": "HCL Săvârșin nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 38/2025 privind aprobarea Strategiei de dezvoltare a serviciului de salubrizare a Asociafiei de Dezvoltare Intercomunitara Sistem Integrat de Gestionare a Deseurilor Judequl Arad Avind in vedere: - Adresa nr.2184/16.05.2025 emisd de cAtre Asociatia de Dezvoltare Intercomunitard Sistem Integrat de Gestionare a Deseurilor Judequl Arad; Strategia de dezvoltare a serviciului de salubrizare; alin, - Dispozitii",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-38-DIN-26.05.2025.pdf",
+     "sha256": "bdc9cf542947d3824a7c1e06f17ca810049bbf22dc6e8892d9a4beed3df89937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-4-2025",
+   "path": "local/arad/savarsin/2025/4",
+   "short": "HCL Săvârșin nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 4/2025 privind rectificarea bugetului de venituri si cheltuieli al comune Savarsin pe anul 2024 si utilizarea excedentului bugetar local la finele anului 2024 Ja sursele de finantare A siE Consiliul local al comunei Savargin, judeful Arad, intrunit in sedintd ordinara in 07.02.2025; Avind in vedere : = referatul de aprobare nr. 5017/03.02.2025 al primarului comunei Savarsin; = raportul compartimentului c",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-4-DIN-07.02.2025.pdf",
+     "sha256": "839ab4a5b23dbf9b791d35aa3181dab36519dde2ffcb3a330517378a5788befe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-40-2025",
+   "path": "local/arad/savarsin/2025/40",
+   "short": "HCL Săvârșin nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 40/2025 privind Din data de 26.05.2025 extravilan, terenului ianprsoubpararfeaata3i0nd2ite9i3e39r.i,2i0Np2Rrom.cTpe,dOusPirtiui8a2itn9i/ncv/e2cdoemre.aScaovnacrseisni,onsaatriCi Aprioara CF Consiliul local al comunei Savarsin, intrunit in sedinta ordinara in data de 26.05.2025; Avand in vedere: - cererea dlui",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-40-DIN-26.05.2025.pdf",
+     "sha256": "c3f9d617bcee1dc49b96030fba3a77e14cfba430fc1cbb211790ff480184cc7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-41-2025",
+   "path": "local/arad/savarsin/2025/41",
+   "short": "HCL Săvârșin nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 41/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-41-30.06.2025.pdf",
+     "sha256": "2b68fcdce40ad075f178d6f13c33510449ea75280d0e1ef1840b1c471377eb0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-42-2025",
+   "path": "local/arad/savarsin/2025/42",
+   "short": "HCL Săvârșin nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 42/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-42-30.06.2025.pdf",
+     "sha256": "9a97635e4f3d9f97c9af32665a3352dd8d5f231fc12082a405d3c35728ed06a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-43-2025",
+   "path": "local/arad/savarsin/2025/43",
+   "short": "HCL Săvârșin nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 43/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-43-30.06.2025.pdf",
+     "sha256": "26a212406aec967b7680e16526a0cbbb808b0126181cc7f0c14b7e1f6a8ee3b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-44-2025",
+   "path": "local/arad/savarsin/2025/44",
+   "short": "HCL Săvârșin nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 44/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-44-30.06.2025.pdf",
+     "sha256": "87dee2c32d0100bf04129156d9ee16dde1f9ac82607f1e13ed877cb5c4632dcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-45-2025",
+   "path": "local/arad/savarsin/2025/45",
+   "short": "HCL Săvârșin nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 45/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-45-30.06.2025.pdf",
+     "sha256": "dfc837a331cbd024bce55a615d65720a94057a04b7e5039919799e8c8e1482fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-46-2025",
+   "path": "local/arad/savarsin/2025/46",
+   "short": "HCL Săvârșin nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 46/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-46-30.06.2025.pdf",
+     "sha256": "4ad6d2ac57c8aa0021a844c3c903b68bc337b1e001f156aedcd975b7270c7792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-47-2025",
+   "path": "local/arad/savarsin/2025/47",
+   "short": "HCL Săvârșin nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 47/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-47-30.06.2025.pdf",
+     "sha256": "9e172bc70b1b805bf4d29b955476f4d5f1ebcd6ce809facf1929deeee8a1a218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-48-2025",
+   "path": "local/arad/savarsin/2025/48",
+   "short": "HCL Săvârșin nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 48/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-48-30.06.2025.pdf",
+     "sha256": "e9acc39befb309e25878780948c4ba5a509f8b926f1c06145f22fa08973f627d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-49-2025",
+   "path": "local/arad/savarsin/2025/49",
+   "short": "HCL Săvârșin nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 49/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-49-30.06.2025.pdf",
+     "sha256": "0997c6517c8342f3ad596334f9c7b833983e7081e60e11be5fceff6d2c20612b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-5-2025",
+   "path": "local/arad/savarsin/2025/5",
+   "short": "HCL Săvârșin nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 5/2025 privind aprobarea cuantumului cotizafiei aferent anului 2025 la bugetul Asociatiei de Dezvoltare Intercomunitara Sistem Integrat de Gestionare a Deseurilor Judetul Arad Consiliul Local al comunei Savarsin, intrunit in sedintA ordinari in 07.02.2025, Avnd in vedere: - Adresa nr. 5205/20.12.2024 emis de catre Asociatia de Dezvoltare Intercomunitara Sistem Integrat de Gestionare a Deseurilor Judetul",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-5-DIN-07.02.2025.pdf",
+     "sha256": "58291b751e7589bf31c91b682dc17df883307511a1438a08d1f7395f9d3d8eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-50-2025",
+   "path": "local/arad/savarsin/2025/50",
+   "short": "HCL Săvârșin nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 50/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-50-30.06.2025.pdf",
+     "sha256": "cde0dde63360bd26fea6bb5c3e0eed6725a273d59b1ae92990cc44c8f589c881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-51-2025",
+   "path": "local/arad/savarsin/2025/51",
+   "short": "HCL Săvârșin nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 51/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-51-30.06.2025.pdf",
+     "sha256": "b99eafb711a31155b8efeb98ef8d67132e133d570b3b531352645775e0b2f777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-52-2025",
+   "path": "local/arad/savarsin/2025/52",
+   "short": "HCL Săvârșin nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 52/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-52-30.06.2025.pdf",
+     "sha256": "7657c28c63fe214f293b2efb00aed99693a318d2bfe1ed417147a6d584d98fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-53-2025",
+   "path": "local/arad/savarsin/2025/53",
+   "short": "HCL Săvârșin nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 53/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/hotararea-53-30.06.2025.pdf",
+     "sha256": "5121c93366a195b735f2d8c0a46a516e8ab8d499e21008448d9b635709e62605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-54-2025",
+   "path": "local/arad/savarsin/2025/54",
+   "short": "HCL Săvârșin nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 54/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-54-DIN-31.07.2025.pdf",
+     "sha256": "9c5f41060b02bf7ee4d34025737a37c1f3b71d5316f537547ffdd54be3d02b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-56-2025",
+   "path": "local/arad/savarsin/2025/56",
+   "short": "HCL Săvârșin nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 56/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-56-DIN-31.07.2025.pdf",
+     "sha256": "45abbb54cf90d87c1eaaff1cde9eab8af81892e674b7bf828c853393baad40e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-57-2025",
+   "path": "local/arad/savarsin/2025/57",
+   "short": "HCL Săvârșin nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 57/2025 privind modificarea Contractului Delegare a Gestiunii Serviciului de alimentarceu apa side canalizare prin Actul Aditional nr. 30 Consiliul Local Sivarsin, intrunit in sedinta Ia data de 31.07.2025 Avaind in vedere: ‘© Referatul de aprobare prezentat de citre primarul U.A.T",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-57-DIN-31.07.2025.pdf",
+     "sha256": "70065458481020aedd54443526da9c84839d7a7559577b9b0dcbdefaaa4cc96a"
     }
    ]
   },
@@ -33,6 +678,366 @@
    ]
   },
   {
+   "slug": "hcl-arad--savarsin-6-2025",
+   "path": "local/arad/savarsin/2025/6",
+   "short": "HCL Săvârșin nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 6/2025 privind aprobarea Planului de actiuni/lucrari de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apti de munca, potrivit Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2025 Consiliul local al comunei SavArsin, judetul Arad, intrunit in sedinta ordinara, avand in vedere: - referatul de aprobare al primarului comunei, inregistrat la nr. 63/20.01.2025 p",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-6-DIN-07.02.2025.pdf",
+     "sha256": "04fcdb5e7fd11ee6539be9e5581a8b65eaff83974f3c966a0a8239c3b8d64a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-60-2025",
+   "path": "local/arad/savarsin/2025/60",
+   "short": "HCL Săvârșin nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 60/2025 privind aprobarea contractirii unui imprumut in valoare de 1.400.190 lei, in conformitate cu prevederile art. 1 din Ordonanta de urgenta a Guvernului nr. 25/2025 pentru asigurarea unor imprumuturi din Trezoreria Statului Aviind in vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 si ale art. 121 alin. (1) si (2) din Constitutia Romaniei, republicata; b) art. 9 paragr",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-60-DIN-31.07.2025.pdf",
+     "sha256": "1941d719ec6a26df4731615d19a6c1951c967981b2f7e9c8e87cd03459d46e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-62-2025",
+   "path": "local/arad/savarsin/2025/62",
+   "short": "HCL Săvârșin nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 62/2025 pentru aprobarea modificarii prin Actul aditional nr, I a Acordului de parteneriat nr. 36571/09.12.2022 incheiat pentru realizarea proiectului “Cu bicicleta prin vest — traseu cicloturistic”, din Investitia 14 — “Implementarea a 3000 km de trasee cicloturistice la nivel national” finantat din PNRR, Componenta , CU =Turism si Cultura Avand in veder 1a) Prevederile Acordului de parteneriat nr. 36571",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-62-DIN-31.07.2025.pdf",
+     "sha256": "4fec6655c1f09e52e0e0334fecb727a02a130211f4fbf5635c8e30136a08eee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-64-2025",
+   "path": "local/arad/savarsin/2025/64",
+   "short": "HCL Săvârșin nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 64/2025 privind aprobarea Actului Aditional nr. 1 la Actul constitutiv al Regiei Ocolul Silvic ” Piatra Cerbului ” R.A",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-64-DIN-31.07.2025.pdf",
+     "sha256": "488035b706f4a334eb4ed064c31b794b08194a614d503ca99bcf7290bdd6b08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-65-2025",
+   "path": "local/arad/savarsin/2025/65",
+   "short": "HCL Săvârșin nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 65/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-65-DIN-31.07.2025.pdf",
+     "sha256": "02e3e2590531946d50302c292a33c3096cca9d8a067fbb0460c30355094624d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-66-2025",
+   "path": "local/arad/savarsin/2025/66",
+   "short": "HCL Săvârșin nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 66/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-66-DIN-31.07.2025.pdf",
+     "sha256": "6f9acb2ac809169be2f29a2397f3808c6bc9c4d26b2d1906f1451fed952e3f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-68-2025",
+   "path": "local/arad/savarsin/2025/68",
+   "short": "HCL Săvârșin nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 68/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-68-DIN-30.09.2025.pdf",
+     "sha256": "5d74ebce813c656a46a4113cfc527b74c8ff039e2883c3a0ebeda3fc7f3cfe64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-69-2025",
+   "path": "local/arad/savarsin/2025/69",
+   "short": "HCL Săvârșin nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 69/2025 privind aprobarea confinutului Procesului-verbal al sedintei ordinare a Consiliului Local Savarsin din data de 31.07.2025 Consiliul local al comunei Savarsin, intrunit in data de 30.09.2025; Avainidn vedere: - Procesul-verbal al sedintei ordinare a Consiliului Local Savarsin din data de 31.07.2025; - prevederile art.138, alin.(15) si ale art.139, ali .(4) din OUG nr.57/2019 privind Codul Administr",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-69-DIN-30.09.2025.pdf",
+     "sha256": "b01a7b46eb23c34f363afb3932d672fc0f2458ca71178f899ad6a7cfaa9b01f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-7-2025",
+   "path": "local/arad/savarsin/2025/7",
+   "short": "HCL Săvârșin nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 7/2025 privind acordarea unui mandat special reprezentantului Comunei SAvarsin in Adunarea Generali a Asociatilor Asociatiei de Dezvoltare Intercomunitara de Transport Public Arad sa voteze aprobarea modificarii Statutului Asociatiei de Dezvoltare Intercomunitara de Transport Public Arad Avand in vedere initiativa Primarului Comunei Savarsin, exprimata in referatul de aprobare nr, 17/09.01.2025, Analizén",
+   "url": "https://primariasavarsin.ro/categorie-documente/documente-consiliul-local-2/",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-7-DIN-07.02.2025.pdf",
+     "sha256": "5657d08605a545e3d77940a2adcdad3272eb88b45eedf293d9f574d84078c3fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-70-2025",
+   "path": "local/arad/savarsin/2025/70",
+   "short": "HCL Săvârșin nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 70/2025 privind fondul pentru mediu, modificarilesi completarile ulterioare, Legea serviciilor comunitare de utilitati publice nr. 51/2206, republicata cu modificarile gi completarile ulterioare, Ordonanta nr. 2/2021 privind depozitarea deseurilor, republicata in Monitorul Oficial, Partea I, nr. 794 din 18 august 2021, Ordonanta de urgenti a Guvernului nr. 92/2021 privind regimul deseurilor cu. mox ificar",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-70-din-30.09.2025.pdf",
+     "sha256": "56d0f9fa901822c7055ac1dcf1194a09f998611d52a3f770f201cd14811ece68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-72-2025",
+   "path": "local/arad/savarsin/2025/72",
+   "short": "HCL Săvârșin nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 72/2025 privind delegarea prin concesidine a gestiunii activititi componente ale serviciului de salubrizare, respectiv colectarea separata si transportul separat al deseurilor menajere si al deseurilor imilare provenind din activititi comerciale din industrie si institufii, inclusiv fracfii colectate de contractare, a Studiului de separat din judeful Arad, zona 5, avizarea Strategiei fundamentare/oportuni",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-72-DIN-30.09.2025.pdf",
+     "sha256": "541894835d0311ffb825bcc2f241ca660bf519976236df4b8ded6fe0185a1b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-73-2025",
+   "path": "local/arad/savarsin/2025/73",
+   "short": "HCL Săvârșin nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 73/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Savarsin pe anul 2025 Consiliul locaall comunei Savarsin, judetul Arad, intrunit in sedinta ordinara in 30.09.2025; Avand in vedere : + referatul de aprobare nr. 1491/23.09,2025 al primarului comunei Savarsin; = raportul compartimentului contabilitate din cadrul aparatului de specialitate al primarului comunei Savargin nr. 1492/23",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-73-DIN-30.09.2025.pdf",
+     "sha256": "2eb8a94a5c2477b2be91aab5389aea85066db38e0964396b5a161e74b9b28863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-74-2025",
+   "path": "local/arad/savarsin/2025/74",
+   "short": "HCL Săvârșin nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 74/2025 privind stabilirea modului de valorificare si stal exploata din fondul forestier proprietatea publica a comunei Savarsin de cdtre R.P.L",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-74-din-30.09.2025.pdf",
+     "sha256": "3b836b6ac438b983e3696dfd1c07cbd1ad90683ae4c9d1eeb0ada4fdc95ea5db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-76-2025",
+   "path": "local/arad/savarsin/2025/76",
+   "short": "HCL Săvârșin nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 76/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-76-din-30.09.2025.pdf",
+     "sha256": "07bf2586e7c6d765f037ffe5afac4ce9caf2b2ec2de920dcef3bbb1865d92f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-77-2025",
+   "path": "local/arad/savarsin/2025/77",
+   "short": "HCL Săvârșin nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 77/2025 privind acordarea unui mandat special reprezentantului Consiliului Local al Comunei Savarsin in Adunarea Generali a Asociatilor Asociatiei de Dezvoltare Intercomunitara Arad fn vederea aprobarii modificarii Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019 1 Consiliul Local al Comunei Savargin, intrunit in data de 30.09.2025, Analizind: Avand in vedere i",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/10/HCL-NR-77-din-30.09.2025.pdf",
+     "sha256": "f0c913336835e54b42e4ceb9931df1a4405ba5d9972f9335509733c114d73102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-78-2025",
+   "path": "local/arad/savarsin/2025/78",
+   "short": "HCL Săvârșin nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 78/2025 privind aprobarea ordinei de zi a sedinfei ordinare din data de 11.11.2025 data 1 local Savarsin, intrunit in de 1 1.2028; Avind in vedere: = Dispozitia nr. 84/05.11.21 a Primarului comunei Savarsin prin care s-a convocat Consiliul local Savargin in gedinga ordinara in data de 11.11.2025. ~ Prevederile art. 135, alin(7) si alin(8) in OU, 1nr.57/2019 privind Codul Administrativ; in temeiul preveder",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-78-DIN-11.11.2025.pdf",
+     "sha256": "17ee0fb0b2b5ac0fbdfd6074f23cd5906f5655fffc2cf6567cc9bb1a6206c199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-8-2025",
+   "path": "local/arad/savarsin/2025/8",
+   "short": "HCL Săvârșin nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 8/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-8-DIN-07.02.2025.pdf",
+     "sha256": "107148e6ec6de8f60534f277f7e90e69f511f72cebb82891486efc6e35e5cf37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-81-2025",
+   "path": "local/arad/savarsin/2025/81",
+   "short": "HCL Săvârșin nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 81/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-81-DIN-11.11.2025.pdf",
+     "sha256": "c022fa797b48a0bda23b4ce659f4f8659b4c5400942193c983c36015ca3e158c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-82-2025",
+   "path": "local/arad/savarsin/2025/82",
+   "short": "HCL Săvârșin nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 82/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Savaryin pe anul 2025 Consiliul local alcomunei Savarsin, judeful Arad, intrunit in sedinta ordinardin 11.11.2025; : Avand in vedere - referatul de aprobare nr. 1672/24.10.2025 al primarului comunei Savarsin; = raportul compartimentului contabilitate din cadrul aparatului de specialitate al primarului comunei Savarsin nr. 1673/24",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-82-DIN.11.11.2025.pdf",
+     "sha256": "bd6dc0c3fbc5ec7bf207837670aff91b0cf20b2ef5e3511393bc417febcbfe48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-83-2025",
+   "path": "local/arad/savarsin/2025/83",
+   "short": "HCL Săvârșin nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 83/2025 privind stabilirea modului de valorificare gi stabilirea preturilor la materialul lemnos ce se va exploata din fondul forestier’ proprietatea publica a comunei Sivarsin de citre R.P.L",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-83-DIN-11.11.2025.pdf",
+     "sha256": "e9e4e7071f70801eaff16dd27811d50bba973da1b64af3c07dc042cb50bf37e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-84-2025",
+   "path": "local/arad/savarsin/2025/84",
+   "short": "HCL Săvârșin nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 84/2025 privind aprobarea achizitionarii si plitii serviciilor juridice de consultant, asistent& reprezentare pentru aparayea intereselor UAT Comuna Savarsin/Primarul comunei Savargin Consiliul Local Savargin, intrunit in sedin(a ordinara in data de 11.11.2025; Avand in vedere: -Referatul de aprobare al Primarului comunei Savarsin nr. 1721/04.11.2025 prin care se propune aprobarea achizitionarii unor serv",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-84-DIN-11.11.2025.pdf",
+     "sha256": "b01f1e46a05ca8c6e94d1949e6adaf1e079c2293aff631d1937cc1a1cc0bded6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-85-2025",
+   "path": "local/arad/savarsin/2025/85",
+   "short": "HCL Săvârșin nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 85/2025 privind aprobarea depunerii si implementarii proiectului cu titlul “Dotarea U.A.T",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-85-DIN-11.11.2025.pdf",
+     "sha256": "9ce41d63235784091b372c6c5e6cf99a30080c8ae00ef626abb4734106a01e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-86-2025",
+   "path": "local/arad/savarsin/2025/86",
+   "short": "HCL Săvârșin nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 86/2025 privind avizarea Strategiei de contractare si a Documentatiei de atribuire pentru delegarea gestiunii unor activi ‘componente ale serviciului de salubrizare in judetul Arad, Zona 5 Consiliul Local al Comunei Sav: ‘intrunit in sedinga ordinara in data de 11.11.2025, Analizind Referatul de aprobare nr.1750/07.11.2025 si Raportul nr.1751/07.11.2025 prin care se propune wea Strategiei de contractare s",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-86-DIN-11.11.2025.pdf",
+     "sha256": "747f39f9094c5929f6755cd85563242c1f081cde0140e91eed3662440a90b9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-87-2025",
+   "path": "local/arad/savarsin/2025/87",
+   "short": "HCL Săvârșin nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 87/2025 privind aprobarea volumului de masa lemnoasi destinat spre recoltare de ciitre R.P.L",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-87-DIN-11.11.2025.pdf",
+     "sha256": "1ae653dc6244eaee36c1bfb783f90b3240d70ead0bd456e76b44dd1af828d14b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--savarsin-89-2025",
    "path": "local/arad/savarsin/2025/89",
    "short": "HCL Săvârșin nr. 89/2025",
@@ -44,6 +1049,51 @@
      "units": 1,
      "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-89-DIN-28.11.2025.pdf",
      "sha256": "8aab70465edbe67d630128fbd8a185044a15f5c27400d4621e207699a5f026c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-9-2025",
+   "path": "local/arad/savarsin/2025/9",
+   "short": "HCL Săvârșin nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 9/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2025/09/HCL-NR-9-DIN-07.02.2025.pdf",
+     "sha256": "7413e0adfccf87582b6e1ef0803213b99ef1f93f288427225ffb04b1a39e8a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-91-2025",
+   "path": "local/arad/savarsin/2025/91",
+   "short": "HCL Săvârșin nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 91/2025 privind analiza stadiului de inscrierea datelor in registrul agricol pentru trimestrul III al anului 2025 si stabilires masurilor pentru eficientizarea acestei activititi Consiliul local al comunei Savarsin, intrunit in sedinfa ordinara in data de 28.11.2025: Avand in vedere: ~ Raportul compartimentului de specialitate privind analiza stadiului de inscriere in Registrul Agricol nr.1819/19.11.2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-91-DIN-28.11.2025.pdf",
+     "sha256": "08eee57bc8a7f609deb732ff7eaf85f3f9dc0e2a6e176482587f56e7a538910c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--savarsin-92-2025",
+   "path": "local/arad/savarsin/2025/92",
+   "short": "HCL Săvârșin nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 92/2025 privind aprobarea indicatorilor economici actualizati la finalizarea obiectivului de investi » MODERNIZARE, MANSARDARE SI DOTARE LICEUL TEHNOLOGIC SAVARSIN” Consiliul local al Comunei Savargin, judetul Arai Aviind in vedere: a) referatul de aprobare al primarului nr, 1883 din 27.11.2025 privind aprobarea devizului actualizat la finalizarea obiectivului de investitii .MODERNIZARE, MANSARDARE $I DOT",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-92-DIN-28.11.2025.pdf",
+     "sha256": "902f48863b4162edba8fd54818c314c92fb51c9f7480d86191e0fe25c8612d18"
     }
    ]
   },

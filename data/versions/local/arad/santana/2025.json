@@ -3,6 +3,231 @@
  "shard": "local/arad/santana/2025",
  "acts": [
   {
+   "slug": "hcl-arad--santana-100-2025",
+   "path": "local/arad/santana/2025/100",
+   "short": "HCL Sântana nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 100/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_100_wYAdaUk.doc",
+     "sha256": "341e7500421afd565e8389139da4f8e2c1babbcd3c2a447ad0ddde8fb7a215b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-101-2025",
+   "path": "local/arad/santana/2025/101",
+   "short": "HCL Sântana nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_101.doc",
+     "sha256": "81fe4b752047935f3bd44d32a9c61720a6da37c51a90ca22a548190986a8855d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-102-2025",
+   "path": "local/arad/santana/2025/102",
+   "short": "HCL Sântana nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_102.doc",
+     "sha256": "0cb5dded000a6c0775db29f8d0c27acb87290482cbca3527c16a868340c90161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-103-2025",
+   "path": "local/arad/santana/2025/103",
+   "short": "HCL Sântana nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 103/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_103_XyT9Qpb.doc",
+     "sha256": "840ead86bff0c92dd8ab582f1c623f83d397ebb61b7e290d4ebe0707752e4bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-104-2025",
+   "path": "local/arad/santana/2025/104",
+   "short": "HCL Sântana nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 104/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_104_C6XIbom.doc",
+     "sha256": "fac32227f7ed67228f156aaf67587b1f223f381232edaa9ddd30dbf25c743d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-105-2025",
+   "path": "local/arad/santana/2025/105",
+   "short": "HCL Sântana nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_105_dlRrTwz.doc",
+     "sha256": "2316d590c2785a91ba86a2b8a12ec3cb97102ac4d046242d780530d076b3ddff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-106-2025",
+   "path": "local/arad/santana/2025/106",
+   "short": "HCL Sântana nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 106/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_106_mO0KjAn.doc",
+     "sha256": "83a842f35849b5ef1f7f195070e1bd9e9cb5a5c9dfa2bf3525a92092b6257857"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-107-2025",
+   "path": "local/arad/santana/2025/107",
+   "short": "HCL Sântana nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_107_Yu0rfEZ.doc",
+     "sha256": "cbc43602737a71c9531abce7bd1b1d2438a58930709d21e0d2ea3bae533e670a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-108-2025",
+   "path": "local/arad/santana/2025/108",
+   "short": "HCL Sântana nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_108_aK5NoR7.doc",
+     "sha256": "2c03a1d182992bd9997064ae97f46e521132b5aa853e28589c97754bcdf25e6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-109-2025",
+   "path": "local/arad/santana/2025/109",
+   "short": "HCL Sântana nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 109/2025 PRIVIND MODIFICAREA HOTĂRÂRII NR. 82 DIN 19.06.2025 PRIVIND APROBAREA ACTUALIZĂRII DOCUMENTAȚIE TEHNICE, A DEVIZULUI GENERAL, RESPECTIV INDICATORII TEHNICO-ECONOMICI AI OBIECTIVULUI DE INVESTIȚII „CREȘTEREA EFICIENȚEI ENERGETICE ÎN CLĂDIRILE PUBLICE- REABILITARE GRĂDINIȚĂ PP NR. 2 SÂNTANA, STR. 1 DECEMBRIE, NR. 37, STRUCTURĂ A ȘCOLII GIMNAZIALE SÂNTANA” CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=22",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_109_9sdALlL.doc",
+     "sha256": "4cd48db1f9e984f1f446804d283bc7fe2bbeb454001494301d08f5cffadb44ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-111-2025",
+   "path": "local/arad/santana/2025/111",
+   "short": "HCL Sântana nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 111/2025 PRIVIND MODIFICAREA HOTĂRÂRII NR. 38 DIN 06.03.2025 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI ȘI A DEVIZULUI GENERAL ACTUALIZAT PENTRU OBIECTIVUL DE INVESTIȚII „ALIMENTAREA CU GAZE NATURALE A LOCALITĂȚII CAPORAL ALEXA, ORAȘ SÂNTANA, JUD. ARAD”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTÂND CATEGORIILE DE CHELTUIE",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=21",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_111_rc0TEA3.doc",
+     "sha256": "ffc2a1dbf2ef32201a195313d1af158da22d5d715ee63b04b90b696efbce799b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-114-2025",
+   "path": "local/arad/santana/2025/114",
+   "short": "HCL Sântana nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 114/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_114_2Ds9lfb.doc",
+     "sha256": "8bd3d545d3498898dd7deba2a0cdcee6f5c2da809b90bf921d57e5cd9d3218fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-115-2025",
+   "path": "local/arad/santana/2025/115",
+   "short": "HCL Sântana nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 115/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_115_q6lxckh.doc",
+     "sha256": "0b3e261842221d79c90812c41eceb94c9292bb23db30384bfd0147d3c83304d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-116-2025",
+   "path": "local/arad/santana/2025/116",
+   "short": "HCL Sântana nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 116/2025 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI ACTIALIZAȚI ȘI A DEVIZULUI GENERAL ACTUALIZAT PENTRU OBIECTIVUL DE INVETIȚII “ALIMENTAREA CU GAZE NATURALE A LOCALITĂȚII CAPORAL ALEXA, ORAȘ SANTANA, JUD. ARAD”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NATIONAL DE INVESTIȚII “ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTAND CATEGORIILE DE CHELTUIELI FINANȚATE DE LA BUGETUL LOCAL PENTRU REALIZAREA OB",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=21",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_116_ZUvJh1p.doc",
+     "sha256": "3096801c9896b0da6aba72d1c7929d44b39f9ecbfd15f0691693ad1f044b52cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-121-2025",
+   "path": "local/arad/santana/2025/121",
+   "short": "HCL Sântana nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 121/2025 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD PENTRU APROBAREA RECTIFICĂRII COTIZAȚIEI PE ANUL 2025 CĂTRE ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare nr. 20114/21.08.2025 al",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=20",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_121_CHQufb4.doc",
+     "sha256": "898d7206a69550ab1ca04fce4e0b77f07f3c9c6e78f7ab8854f568a3c2108bef"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-122-2025",
    "path": "local/arad/santana/2025/122",
    "short": "HCL Sântana nr. 122/2025",
@@ -14,6 +239,201 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/HCL_122_NG4ntyB.doc",
      "sha256": "fb4ffb5ef4778cb190c2bc1f2cf978bfe065045a9bb3a0e634eb835cb4e998af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-123-2025",
+   "path": "local/arad/santana/2025/123",
+   "short": "HCL Sântana nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 123/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_123_wUPBIZ6.doc",
+     "sha256": "d0b418321aedbf8e074701c39aed0d051f50e186f0eac2ebaa0f5d4a884b9b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-124-2025",
+   "path": "local/arad/santana/2025/124",
+   "short": "HCL Sântana nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 124/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_124.doc",
+     "sha256": "8e73b67649b07de9fc6204894fc270da91eef996a8070f2f03682ef3a5c3a169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-125-2025",
+   "path": "local/arad/santana/2025/125",
+   "short": "HCL Sântana nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 125/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_125_TuYmS57.doc",
+     "sha256": "857faaafe20d7cf5a462a9b02a3fbf52fbeca924e77d114e5236519643e4d681"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-126-2025",
+   "path": "local/arad/santana/2025/126",
+   "short": "HCL Sântana nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 126/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_126.doc",
+     "sha256": "c0c849d8876ac10899fc91fb1d0a00cab15481da57f003fc6482d72c693c5d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-127-2025",
+   "path": "local/arad/santana/2025/127",
+   "short": "HCL Sântana nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 127/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_127.doc",
+     "sha256": "0f249832d7346d795fd1b571810cea07d4754c5884b9804f47959b7f7cc27016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-128-2025",
+   "path": "local/arad/santana/2025/128",
+   "short": "HCL Sântana nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 128/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_128_FcmPsba.doc",
+     "sha256": "30509e486bd97bb996ab19f605e0052392afa864ba9bffef725399292406bed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-129-2025",
+   "path": "local/arad/santana/2025/129",
+   "short": "HCL Sântana nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 129/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_129.doc",
+     "sha256": "5f3df8a3d1bf91d485751b2b83ec184a5e917a764fbc1b75d511375376e4d491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-130-2025",
+   "path": "local/arad/santana/2025/130",
+   "short": "HCL Sântana nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 130/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_130.doc",
+     "sha256": "54fa9653d33891461623971a15768e41ff6e200199d4f381d891363e4113348e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-132-2025",
+   "path": "local/arad/santana/2025/132",
+   "short": "HCL Sântana nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 132/2025 PRIVIND APROBAREA DOCUMENTAȚIEI TEHNICE, A DEVIZULUI GENERAL, RESPECTIV A INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI AI OBIECTIVULUI DE INVESTIȚII \"ÎNFIINȚAREA UNUI SISTEM DE PRODUCERE ENERGIE ELECTRICĂ DIN SURSE REGENERABILE PE RAZA UAT SÂNTANA\" CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare nr. 20656/28.08.2025 al d-lui Tomuța Daniel-Sorin, Primar al orașului Sânt",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=19",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_132_Dv46Mo2.doc",
+     "sha256": "d431400b785b9d89b08012a4c0486b558a3eb9ecdcdaf774080d2097c38ef76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-134-2025",
+   "path": "local/arad/santana/2025/134",
+   "short": "HCL Sântana nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 134/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_134_zmBCQhB.doc",
+     "sha256": "ffaed53cd7e847c2081780fe3cd04a571ba2bb644696208fd9291c8de93d944d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-135-2025",
+   "path": "local/arad/santana/2025/135",
+   "short": "HCL Sântana nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 135/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_135_RhHywnU.doc",
+     "sha256": "94b48624ab9b2f682ca9dc56eff0a78396acc46a3f762d342aad958a3828315e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-136-2025",
+   "path": "local/arad/santana/2025/136",
+   "short": "HCL Sântana nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 136/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_136.doc",
+     "sha256": "291625947ccd9eec88f87eb32e51df08a9f7044b3a4b9ea567b1208fa583cc8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-153-2025",
+   "path": "local/arad/santana/2025/153",
+   "short": "HCL Sântana nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 153/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_153_UrA2xsx.doc",
+     "sha256": "7a9d80de7e68e16c79b20704331814e756d250759c3bdd0891e38e9e239da2ec"
     }
    ]
   },
@@ -33,6 +453,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-155-2025",
+   "path": "local/arad/santana/2025/155",
+   "short": "HCL Sântana nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 155/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_155.doc",
+     "sha256": "a370db60214f4fcd26a0c2932d20714cab395e0b102a409f73555c103e811100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-156-2025",
+   "path": "local/arad/santana/2025/156",
+   "short": "HCL Sântana nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 156/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_156_W4FTRT7.doc",
+     "sha256": "d93fff0b80485e5e5c3cad943fdc21bbb12658429e2d7877314ff0c4be218b77"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-157-2025",
    "path": "local/arad/santana/2025/157",
    "short": "HCL Sântana nr. 157/2025",
@@ -44,6 +494,81 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/HCL_157_6XE0096.doc",
      "sha256": "32a5562cbbe1b5421d24b765924c7827c70b3ff2335efba559857be92d2d3580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-158-2025",
+   "path": "local/arad/santana/2025/158",
+   "short": "HCL Sântana nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 158/2025 PRIVIND PROBAREA CONTRACTULUI DE DELEGARE PRIN CONCESIUNE A GESTIUNII (OPERAREA STAȚIE DE COMPOSTARE ÎN TUNEL ARAD) UNOR ACTIVITĂȚI COMPONENTE ALE SERVICIULUI DE TRATARE AEROBĂ A BIODEȘEURILOR COLECTATE SEPARAT ÎN INSTALAȚII DE COMPOSTARE, INCLUSIV TRANSPORTUL REZIDUURILOR LA DEPOZITELE DE DEȘEURI ȘI/SAU LA INSTALAȚIILE DE VALORIFICARE ENERGETICĂ CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=18",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_158_hKL8bzz.doc",
+     "sha256": "78c987fd924f062103737cc84efe7c3de0f49c4626b0975f29dff1d89dbacc90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-160-2025",
+   "path": "local/arad/santana/2025/160",
+   "short": "HCL Sântana nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 160/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_160_elu0rHv.doc",
+     "sha256": "9f700a7f3a34f7a971e114ce052eb4b3efbe06701e75ee8b08df98f7db32d024"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-162-2025",
+   "path": "local/arad/santana/2025/162",
+   "short": "HCL Sântana nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 162/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_162_jK8TbXR.doc",
+     "sha256": "19e4b2d54c30df6057db632b9b3aba3bb931baab70e24297de8e2eff5e092288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-166-2025",
+   "path": "local/arad/santana/2025/166",
+   "short": "HCL Sântana nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 166/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_166_e2Lvruq.doc",
+     "sha256": "35b94a6b0697f39b92fa8214e68387fdf700148bfe34dbf1f2ca8032760e2a19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-167-2025",
+   "path": "local/arad/santana/2025/167",
+   "short": "HCL Sântana nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 167/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_167.doc",
+     "sha256": "d2d2e2aa06e43f896e885f792525aed057018bece76109d64aa012e94eaedb80"
     }
    ]
   },
@@ -63,6 +588,276 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-169-2025",
+   "path": "local/arad/santana/2025/169",
+   "short": "HCL Sântana nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 169/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_169_cLTO3o7.doc",
+     "sha256": "4382078b17582fd23406f96b0cdfa2809972450111d8942acb1886ce831ee1d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-17-2025",
+   "path": "local/arad/santana/2025/17",
+   "short": "HCL Sântana nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 17/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_17.doc",
+     "sha256": "ef0b119f78dd077acff4af9de3e7c1341ac49b09a2c6e7a334b734ed74063ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-170-2025",
+   "path": "local/arad/santana/2025/170",
+   "short": "HCL Sântana nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 170/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_170.doc",
+     "sha256": "dc272563fa613149edfb9c1b97825dacf6b5885d8e7164e0d4d428717eaa0c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-171-2025",
+   "path": "local/arad/santana/2025/171",
+   "short": "HCL Sântana nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 171/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_171_vmFPafy.doc",
+     "sha256": "c67b22959091d98d075c71f50296620abddd86a92e7f5fa9c01dee3f31061c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-172-2025",
+   "path": "local/arad/santana/2025/172",
+   "short": "HCL Sântana nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 172/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_172_QQLbZdU.doc",
+     "sha256": "027bf5a5b6528f27a6ccba829802f80a47ea8d459abb8b843be5c227fe73d9a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-174-2025",
+   "path": "local/arad/santana/2025/174",
+   "short": "HCL Sântana nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 174/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_174_TM1kl4D.doc",
+     "sha256": "3a3a51e98c76f09b7ada0edc63be41974a4d1c17fabe83e4e735732b352b11f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-175-2025",
+   "path": "local/arad/santana/2025/175",
+   "short": "HCL Sântana nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 175/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_175_1IAAnJZ.doc",
+     "sha256": "e9287e86a2e506c625cb23cf7a09691a02bc81add6d99fa6bdba42e3c21c1f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-176-2025",
+   "path": "local/arad/santana/2025/176",
+   "short": "HCL Sântana nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 176/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_176_BZ7bKwj.doc",
+     "sha256": "a9a0b44058c0cb3fb503f9a1ecd1e24e2b3982f5fadf00ad931df9116359242b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-177-2025",
+   "path": "local/arad/santana/2025/177",
+   "short": "HCL Sântana nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 177/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_177_NWrUzif.doc",
+     "sha256": "f3dc3c47107cfdeda67fe37eaa5e9a3d67a4ae65c4652c1eb3674eb51a58618c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-178-2025",
+   "path": "local/arad/santana/2025/178",
+   "short": "HCL Sântana nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 178/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_178_qNIuf03.doc",
+     "sha256": "d22444a14933f8be4ffe350175e362e5f386e676c9cd1995f96ce3a2a8c8457e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-179-2025",
+   "path": "local/arad/santana/2025/179",
+   "short": "HCL Sântana nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 179/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_179_SCmpzfj.doc",
+     "sha256": "9846d730f8324408ee0f303606daa531697059d55ca8272c9dad9d021e6f4c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-18-2025",
+   "path": "local/arad/santana/2025/18",
+   "short": "HCL Sântana nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 18/2025 PRIVIND DESEMNAREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU URMĂTOARELE 3 LUNI CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere: Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile art. 123 alin. (1) din OUG nr. 57/2019 privind Codul administrativ, În temeiul art. 196 alin. (1) lit. a) din OUG nr. 57/2019 privind Codul administrativ, H O T Ă R Ă Ș T E : Art. 1 S",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=33",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_18_presedinte_sedinta.doc",
+     "sha256": "06338c156c274b5204b95a75897d840dbf482e00b52b5bc0640938b49e0eeb0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-180-2025",
+   "path": "local/arad/santana/2025/180",
+   "short": "HCL Sântana nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 180/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_180.doc",
+     "sha256": "15da0818bf29fd5b4090a10871ce73b3e6459dad57638ece61f29612c9a34a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-182-2025",
+   "path": "local/arad/santana/2025/182",
+   "short": "HCL Sântana nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 182/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_182_DMovHLD.doc",
+     "sha256": "ee32edd70fefc457e873bfea3979c14ea3873254787dbf6d2f51c8c9305ccd9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-183-2025",
+   "path": "local/arad/santana/2025/183",
+   "short": "HCL Sântana nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 183/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_183_vFoTI3h.doc",
+     "sha256": "b572b5a43139169bee471d6a44b3fa1fa662ef8122cad5cab4ac4fc3f38a5dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-184-2025",
+   "path": "local/arad/santana/2025/184",
+   "short": "HCL Sântana nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 184/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_184_LXfUe7n.doc",
+     "sha256": "a34b4cc7e7e27f46c5d2fdf6aa7fcfb521f6f37cceac7ceef2f4179547dc9912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-185-2025",
+   "path": "local/arad/santana/2025/185",
+   "short": "HCL Sântana nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 185/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_185_Rsj2iOx.doc",
+     "sha256": "b8e900c5f9c06976653100331c9c055df02b3605f8fbed9969826ab08fdd455e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-25-2025",
+   "path": "local/arad/santana/2025/25",
+   "short": "HCL Sântana nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_25.doc",
+     "sha256": "ff6fc5cbd1c8712c206e21504bb65e9e5d78abc22306f31776c3f9e535ca100a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-26-2025",
    "path": "local/arad/santana/2025/26",
    "short": "HCL Sântana nr. 26/2025",
@@ -74,6 +869,126 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/HCL_26.doc",
      "sha256": "dc509af7c9be8df9d9261280955b115b8d9065a6f8055ff93475e9a4c2cc57f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-27-2025",
+   "path": "local/arad/santana/2025/27",
+   "short": "HCL Sântana nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 27/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_27.doc",
+     "sha256": "ebaf9bb4909c7b28a91c3bbf7cb265a0660ab66e0eb8d1521bb53402be4b251c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-28-2025",
+   "path": "local/arad/santana/2025/28",
+   "short": "HCL Sântana nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 28/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_28.doc",
+     "sha256": "18eae4a630aa03477dd99c1bade2bcd27469e764aed9fd05bf9d64c7a1bd7e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-29-2025",
+   "path": "local/arad/santana/2025/29",
+   "short": "HCL Sântana nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 29/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_29.doc",
+     "sha256": "1e4376b6fb7eb44874aefb65014c938741aaf2b00cdbcb1576b7e2e6e7fa60e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-30-2025",
+   "path": "local/arad/santana/2025/30",
+   "short": "HCL Sântana nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 30/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_30.doc",
+     "sha256": "08ff305cefd4e7da92008e4e5c8af4120d7b5f0495bbcd41a61f5ece67daef08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-31-2025",
+   "path": "local/arad/santana/2025/31",
+   "short": "HCL Sântana nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 31/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_31.doc",
+     "sha256": "2f1c2d616701e61451b317ee83d069fe5e43459576b5ac4b351bc18dcc5ab4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-32-2025",
+   "path": "local/arad/santana/2025/32",
+   "short": "HCL Sântana nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2025 PRIVIND APROBAREA CUANTUMULUI COTIZAȚIEI AFERENT ANULUI 2025 LA BUGETUL ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ SISTEM INTEGRAT DE GESTIONARE A DEȘEURILOR JUDEȚUL ARAD CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere :",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=31",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_32_o0a5iMW.doc",
+     "sha256": "173d8b5c89a86649ce8b453909faed85fdc38077cf043e47d2943538989fa9c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-34-2025",
+   "path": "local/arad/santana/2025/34",
+   "short": "HCL Sântana nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 34/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_34.doc",
+     "sha256": "2041a7685e6ab4b563b909f08563a023906266dfdc5a2596e7f0233e83e1c2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-35-2025",
+   "path": "local/arad/santana/2025/35",
+   "short": "HCL Sântana nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 35/2025 PRIVIND DESEMNAREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU DATA DE 12.02.2025 CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere: Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; Prevederile art. 123 alin. (1) din OUG nr. 57/2019 privind Codul administrativ, În temeiul art. 196 alin. (1) lit. a) din OUG nr. 57/2019 privind Codul administrativ, H O T Ă R Ă Ș T E : Art. 1 S",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=31",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_35_presedinte_sedinta.doc",
+     "sha256": "45c774eca8a137a853ddb313f23ae23a35a1b9d7aa5f3f8a904451dcfc8fa303"
     }
    ]
   },
@@ -93,6 +1008,441 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-38-2025",
+   "path": "local/arad/santana/2025/38",
+   "short": "HCL Sântana nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 38/2025 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI ȘI A DEVIZULUI GENERAL ACTUALIZAT PENTRU OBIECTIVUL DE INVESTIȚII „ALIMENTAREA CU GAZE NATURALE A LOCALITĂȚII CAPORAL ALEXA, ORAȘ SÂNTANA, JUD. ARAD”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTÂND CATEGORIILE DE CHELTUIELI FINANȚATE DE LA BUGETUL LOCAL PENTRU REALIZAREA O",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=31",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_38.doc",
+     "sha256": "cb741123b8cddf50376c335065729f58523a4b846631aeac87bb00417cb24e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-39-2025",
+   "path": "local/arad/santana/2025/39",
+   "short": "HCL Sântana nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 39/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_39.doc",
+     "sha256": "0ed3edf4268bff4db7980d884b63c5a1592c91b12ab0a3959b78e005b160db8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-41-2025",
+   "path": "local/arad/santana/2025/41",
+   "short": "HCL Sântana nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 41/2025 PRIVIND APROBAREA PROCESELOR- VERBALE ALE ȘEDINȚELOR DIN LUNA FEBRUARIE 2025 A CONSILIULUI LOCAL SÂNTANA CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : Prevederile art. 138 alin. (15) din OUG nr. 57/2019 privind Codul administrativ; În temeiul art. 196 alin. (1), lit. a) din OUG. Nr. 57/2019 privind Codul administrativ; H O T Ă R Ă Ș T E: Art. 1 Se aprobă conținutul proceselor-verbale ale",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=30",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_41_aprobare_procese_verbale.doc",
+     "sha256": "2e3177091a275b16794f60cbf2f519fbdab72e9cfe91f4a956ae537d95cc873a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-42-2025",
+   "path": "local/arad/santana/2025/42",
+   "short": "HCL Sântana nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_42.doc",
+     "sha256": "1573b6aa57761300cd5f441bba471cc3581acf67f85f1ee4a90eee5c6755d975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-43-2025",
+   "path": "local/arad/santana/2025/43",
+   "short": "HCL Sântana nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 43/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_43.doc",
+     "sha256": "5a88e5c555bb704eaeac05c00ff4ddfee9d943330f9d108c6e996f368c4f3f69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-44-2025",
+   "path": "local/arad/santana/2025/44",
+   "short": "HCL Sântana nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 44/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_44.doc",
+     "sha256": "e145e121041ed8188429364a6d15f6ac5a5375d6bd1b8e986e98deaafef00ab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-45-2025",
+   "path": "local/arad/santana/2025/45",
+   "short": "HCL Sântana nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 45/2025 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI CONSILIULUI LOCAL AL ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD ÎN VEDEREA APROBĂRII MODIFICĂRII CONTRACTULUI DE DELEGARE A GESTIUNII SERVICIULUI DE TRANSPORT PUBLIC LOCAL NR. 704/02.12.2019 CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare n",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=30",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_45.doc",
+     "sha256": "d5b8f2de74314e16d01157f94d02bf574deb2157fd64d4313bfc557a823331f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-46-2025",
+   "path": "local/arad/santana/2025/46",
+   "short": "HCL Sântana nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 46/2025 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI . ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD PENTRU APROBAREA COTIZAȚIEI PE ANUL 2025 CĂTRE ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare nr. 8564/18.03.2025 al d-lui Tomuța",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=30",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_46.doc",
+     "sha256": "4b8828e9fd797004dfe6a2582c11747c9fca8e256b89805b37b1f2ed41b53e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-47-2025",
+   "path": "local/arad/santana/2025/47",
+   "short": "HCL Sântana nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 47/2025 PRIVIND APROBAREA PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR AL LOCALITĂȚII SÂNTANA ȘI SATULUI APARȚINĂTOR CAPORAL ALEXA PE ANUL 2025 CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare nr. 2051/29.01.2025al d-lui Tomuța Daniel-Sorin, Primar al orașului Sântana; - Raportul de specialitate al d-lui Igreț Florentin-Teodor, inspector protecție civilă , nr.2028/29.01.2025",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=30",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_47.doc",
+     "sha256": "52b6d99db8c83ce26c3bc154442a79d9d65d5323e2313182d159033e24145541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-48-2025",
+   "path": "local/arad/santana/2025/48",
+   "short": "HCL Sântana nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_48.doc",
+     "sha256": "bac02afb46343342c630e200b80a3e3d5e0034becc9cd2c01c14f6f0c5d9e24c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-49-2025",
+   "path": "local/arad/santana/2025/49",
+   "short": "HCL Sântana nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 49/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_49.doc",
+     "sha256": "74774ee362bbd3cf22d5fd069e431360fac3f64b89703d7350244ca87ba06214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-50-2025",
+   "path": "local/arad/santana/2025/50",
+   "short": "HCL Sântana nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_50.doc",
+     "sha256": "8b05f3089ffb7c0efea000b147947a24cbca043371b275f6595d3a8ddae43420"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-51-2025",
+   "path": "local/arad/santana/2025/51",
+   "short": "HCL Sântana nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 51/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_51.doc",
+     "sha256": "6b1b0c0725c5c61b0b28f7525ecf5bf85987dd2183337e513356501c823d8b31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-52-2025",
+   "path": "local/arad/santana/2025/52",
+   "short": "HCL Sântana nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 52/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_52.doc",
+     "sha256": "1ecb37668dcd6afee08e22d7d981d5dbbbfbb0ea177a1223ac2e62c5e84ad095"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-53-2025",
+   "path": "local/arad/santana/2025/53",
+   "short": "HCL Sântana nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 53/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_53.doc",
+     "sha256": "c0242edd6340d11577a5fc960a579dae59d273f0c20bcf8aaa99396af4033371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-54-2025",
+   "path": "local/arad/santana/2025/54",
+   "short": "HCL Sântana nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 54/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_54.doc",
+     "sha256": "5adb85de216be9c24c74af72c0de62be3c3d241dffb594ce85522dd8589e5246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-55-2025",
+   "path": "local/arad/santana/2025/55",
+   "short": "HCL Sântana nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 55/2025 PRIVIND APROBAREA CONTRACTULUI DE DELEGARE A GESTIUNII (OPERAREA STAȚIEI DE COMPOSTARE ÎN TUNEL ARAD) UNOR ACTIVITĂȚI COMPONENTE ALE SERVICIULUI DE TRATARE AEROBĂ A BIODEȘEURILOR COLECTATE SEPARAT ÎN INSTALAȚII DE COMPOSTARE, INCLUSIV TRANSPORTUL REZIDUURILOR LA DEPOZITELE DE DEȘEURI ȘI/SAU LA INSTALAȚIILE DE VALORIFICARE ENERGETICĂ CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=29",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_55.doc",
+     "sha256": "c72a37ff7010b86cd8205cfcf4eb399790f3fcefd63c50f07fdc422791287853"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-56-2025",
+   "path": "local/arad/santana/2025/56",
+   "short": "HCL Sântana nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 56/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_56.doc",
+     "sha256": "62c11a4a5883af0210eb216e64ae11118558e3617392f3b4b00c5b5922f0c17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-57-2025",
+   "path": "local/arad/santana/2025/57",
+   "short": "HCL Sântana nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 57/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_57.doc",
+     "sha256": "5d2245e031c6dee8b34987f16b693ee544e8469d2ce77dce87acaa71c2b72879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-59-2025",
+   "path": "local/arad/santana/2025/59",
+   "short": "HCL Sântana nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 59/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_59.doc",
+     "sha256": "f3059cf24daecfb715bc3120ad140c576e408b1caa9ff24ff7ac8687e217e50e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-60-2025",
+   "path": "local/arad/santana/2025/60",
+   "short": "HCL Sântana nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 60/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_60.doc",
+     "sha256": "fd2a76083c582028b800f482c4fe71adf07571ce481aa334d741e50c35f83c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-61-2025",
+   "path": "local/arad/santana/2025/61",
+   "short": "HCL Sântana nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 61/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_61.doc",
+     "sha256": "90efdbd6755c7a317a8c6ce628817f38b1a7366b42d0cc945f6babc86c67929d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-62-2025",
+   "path": "local/arad/santana/2025/62",
+   "short": "HCL Sântana nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 62/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_62.doc",
+     "sha256": "023b1c5aa0022f98b9a790af274618d985771636584105643ac8ff6a0c5c61b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-64-2025",
+   "path": "local/arad/santana/2025/64",
+   "short": "HCL Sântana nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 64/2025 PRIVIND APROBAREA PROCESELOR- VERBALE ALE ȘEDINȚELOR DIN LUNA MARTIE 2025 A CONSILIULUI LOCAL SÂNTANA CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : Prevederile art. 138 alin. (15) din OUG nr. 57/2019 privind Codul administrativ; În temeiul art. 196 alin. (1), lit. a) din OUG. Nr. 57/2019 privind Codul administrativ; H O T Ă R Ă Ș T E: Art. 1 Se aprobă conținutul proceselor-verbale ale șed",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=28",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_64_aprobare_procese_verbale.doc",
+     "sha256": "5e2f456034b40c2c2813fd01bfda085036855ee2519e705f99b68739b01aec38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-65-2025",
+   "path": "local/arad/santana/2025/65",
+   "short": "HCL Sântana nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 65/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_65.doc",
+     "sha256": "97bf9e5c1b6655589a0273d984b0af95c844c5be8ab0d81ba3e5f1e9d96722c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-66-2025",
+   "path": "local/arad/santana/2025/66",
+   "short": "HCL Sântana nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 66/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_66.doc",
+     "sha256": "41794f7320f4583030da76657804689c7702db86b3a15f5fe6be1547d07be3b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-67-2025",
+   "path": "local/arad/santana/2025/67",
+   "short": "HCL Sântana nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 67/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_67.doc",
+     "sha256": "80b19b95ca833f6c23a7936c63ceca627a541098d65cd3bfc4ca748fdefc1e3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-68-2025",
+   "path": "local/arad/santana/2025/68",
+   "short": "HCL Sântana nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 68/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_68.doc",
+     "sha256": "597dbaf875ab1504ce49d493a731f75ecf3b2bb640cfb0c8efe011aafb8102a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-69-2025",
+   "path": "local/arad/santana/2025/69",
+   "short": "HCL Sântana nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 69/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_69.doc",
+     "sha256": "a57168bd7fb12182e41919fc002868e4d0b057053efc71d53a9aa05496f1d0dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-70-2025",
    "path": "local/arad/santana/2025/70",
    "short": "HCL Sântana nr. 70/2025",
@@ -104,6 +1454,111 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/HCL_70.doc",
      "sha256": "c3729920d63151f61ccf222a2bfb16b1836ef5cc17cfa0dda7aee8d9ab2177d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-75-2025",
+   "path": "local/arad/santana/2025/75",
+   "short": "HCL Sântana nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 75/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_75.doc",
+     "sha256": "186271a7238669a106ccbc9cf94afc9a05c44f96ea5130fa31f3feef2ceef19d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-76-2025",
+   "path": "local/arad/santana/2025/76",
+   "short": "HCL Sântana nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 76/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_76.doc",
+     "sha256": "619ecb59a23bee0c5a1f92ed61566ea8909160cc88546e98703adaa3916d5255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-77-2025",
+   "path": "local/arad/santana/2025/77",
+   "short": "HCL Sântana nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 77/2025 PRIVIND MODIFICAREA HOTĂRÂRII NR. 69 DIN 29.04.2025 PRIVIND ÎNSUȘIREA DOCUMENTAȚIEI DE PRIMA INSCRIERE ÎN SISTEMUL INTEGRAT DE CADASTRU ȘI CARTE FUNCIARA A TERENULUI IDENTIFICAT PRIN STRADĂ (TARLA)- NUCULUI, NR. (PARCELĂ)-22, JUD. ARAD CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere: Referatul de aprobare nr. 13029/23.05.2025 al d-lui Tomuța Daniel-Sorin, Primar al orașului Sântana; Raportul d",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=23",
+   "versions": [
+    {
+     "from": "2025-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_77_xxZl0iG.doc",
+     "sha256": "7d48743d0bf1382ad33da26551bf785a8190e714be5598a604b8b5ffa79b06ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-78-2025",
+   "path": "local/arad/santana/2025/78",
+   "short": "HCL Sântana nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2025 PRIVIND APROBAREA ÎNSCRIERII DEFINITIVE ÎN CARTEA FUNCIARĂ A IMOBILULUI IDENTIFICAT PRIN CF 311244 SÂNTANA, NR. CAD. 311244 ȘI COMPLETAREA INVENTARULUI BUNURILOR CARE APARȚIN DOMENIULUI PRIVAT AL ORAȘULUI SÂNTANA, JUD. ARAD CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : Referatul de aprobare nr. 13417/28.05.2025 al d-lui Tomuța Daniel-Sorin, Primar al orașului Sântana; Raportul de specialit",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=26",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_78_HJhnPqc.doc",
+     "sha256": "2f6e51952447ab0e9ec8bfd42c69ee9b0e824583d133fb1455ddcb0fe6f52ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-80-2025",
+   "path": "local/arad/santana/2025/80",
+   "short": "HCL Sântana nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 80/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_80.doc",
+     "sha256": "0e120eede4418abf44ab37c1ef93887137d6e87532ae8cb9b6f1c381ba49599e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-81-2025",
+   "path": "local/arad/santana/2025/81",
+   "short": "HCL Sântana nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 81/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_81.doc",
+     "sha256": "c6bc773cf92a944a968382949bfad141adb9bfae413653125cb18a4b3a17bcb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2025",
+   "path": "local/arad/santana/2025/82",
+   "short": "HCL Sântana nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_82_3CUIXMH.doc",
+     "sha256": "454de38cd407b3a91bb2345dad33fdb9e9cd46b94a1e8e35a6b4e61f7a089650"
     }
    ]
   },
@@ -123,6 +1578,111 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-84-2025",
+   "path": "local/arad/santana/2025/84",
+   "short": "HCL Sântana nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_84_vKSifaY.doc",
+     "sha256": "5910e6aec23b070e9d7b10c401e8879f543f87c49603d15c2108b43d6fa20f4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-87-2025",
+   "path": "local/arad/santana/2025/87",
+   "short": "HCL Sântana nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2025 PRIVIND ACORDAREA UNUI MANDAT SPECIAL REPREZENTANTULUI CONSILIULUI LOCAL AL ORAȘULUI SÂNTANA ÎN ADUNAREA GENERALĂ A ASOCIAȚILOR ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DE TRANSPORT PUBLIC ARAD ÎN VEDEREA APROBĂRII MODIFICĂRII CONTRACTULUI DE DELEGARE A GESTIUNII SERVICIULUI DE TRANSPORT PUBLIC LOCAL NR. 704/02.12.2019 CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare n",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=24",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_87_py5ptWi.doc",
+     "sha256": "812693f4a1062f69a2ae83ca4ef9c0e8066ca03bdb53f181f257c00462098d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-88-2025",
+   "path": "local/arad/santana/2025/88",
+   "short": "HCL Sântana nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 88/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_88_HCHpyPR.doc",
+     "sha256": "717b6ee6e421c0801d5b3ee3e3ff275cabed91aa1899ca90674b4425686abc91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-89-2025",
+   "path": "local/arad/santana/2025/89",
+   "short": "HCL Sântana nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 89/2025 PRIVIND CONCESIONAREA PRIN LICITAȚIE PUBLICĂ, A IMOBILULUI SITUAT ÎN ORAȘ SÂNTANA CF NR. 317853 SÂNTANA, ÎN SUPRAFAȚĂ DE 2378 MP, APARȚINÂND DOMENIULUI PRIVAT AL ORAȘULUI SÂNTANA, JUDETUL ARAD, AVÂND CA DESTINAȚIE SERVICII, STRUCTURI TURISTICE ȘI SPAȚII VERZI AMENAJATE, ODIHNĂ ȘI AGREMENT CU REGIM DE ÎNĂLȚIME P+2E CONSILIUL LOCAL AL ORAȘULUI SÂNTANA AVÂND ÎN VEDERE: - Referatul de aprobare al d-lu",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=24",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_89.doc",
+     "sha256": "5e0f2ae71cbcff79cf93e6e8145ba020edd5272837bcbb93cb6ff803774a2a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-90-2025",
+   "path": "local/arad/santana/2025/90",
+   "short": "HCL Sântana nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 90/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_90_g4J90S2.doc",
+     "sha256": "ed3bb3769b1a2c02eed07125aa84769db09ff02907789bbb3d7d258313cfdd91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-91-2025",
+   "path": "local/arad/santana/2025/91",
+   "short": "HCL Sântana nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 91/2025 PRIVIND DECLARAREA DE INTERS PUBLIC LOCAL A UNOR BUNURI ÎNREGISTRATE ÎN CONTABILITATEA COMPANIEI DE APĂ ARAD SA ȘI TRECEREA LOR DIN DOMENIUL PUBLIC ÎN DOMENIUL PRIVAT AL UAT ORAȘ SÂNTANA ÎN VEDEREA SCOATERII DIN FUNCȚIUNE, CASĂRII ȘI VALORIFICĂRII LOR CONSILIUL LOCAL AL ORAȘULUI SÂNTANA Având în vedere : - Referatul de aprobare nr. 15825/25.06.2025 al d-lui Tomuța Daniel-Sorin, Primar al orașului",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=24",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_91.doc",
+     "sha256": "c6c1fa6235c031ead50d737f6c45c4aaf9dfabc123c2edf1fa94f05f9a8d98cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-92-2025",
+   "path": "local/arad/santana/2025/92",
+   "short": "HCL Sântana nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 92/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_92_servicii_juridice.doc",
+     "sha256": "a063801413aa108f61bdc09261e953fbd55d23ae0fad5387d50a30f08dc74825"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-95-2025",
    "path": "local/arad/santana/2025/95",
    "short": "HCL Sântana nr. 95/2025",
@@ -134,6 +1694,66 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/HCL_95_DifbJJx.doc",
      "sha256": "ecea8500e878b5c41cbf793a0d1394ac1b4fb152c6539b2f9e327ec644d27acf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-96-2025",
+   "path": "local/arad/santana/2025/96",
+   "short": "HCL Sântana nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 96/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_96_FKpc3sD.doc",
+     "sha256": "0989b494ffeed132d4967dc3729f9f54f1dc20e67e77c4da0607093bf924df5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-97-2025",
+   "path": "local/arad/santana/2025/97",
+   "short": "HCL Sântana nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 97/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_97.doc",
+     "sha256": "c12b7a3b9d5614cc31526212a5fbdf91ef69362e52fca0e22daf4d8d1ff5a704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-98-2025",
+   "path": "local/arad/santana/2025/98",
+   "short": "HCL Sântana nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 98/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_98.doc",
+     "sha256": "98b85d5a539cd660896e99aecc7bb9fe4fc54559d5d619d301a589e816bd8111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-99-2025",
+   "path": "local/arad/santana/2025/99",
+   "short": "HCL Sântana nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 99/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/HCL_99_N2csnUA.doc",
+     "sha256": "c36ac5fc5f88ad541ec061cf4197bde967b72e2d73f760c48c5aa2fe01870424"
     }
    ]
   }

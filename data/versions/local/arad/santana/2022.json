@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-46-2022",
+   "path": "local/arad/santana/2022/46",
+   "short": "HCL Sântana nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 46/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=14",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/34/30/3430728c-26f4-4d60-a6e1-c5cbae992737/dosar__nr_46_din_08_08_22.pdf",
+     "sha256": "ad1743e9a3ad87a7517d34b2023e845104cb54ab10bda4399bc269f27de06fed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-47-2022",
+   "path": "local/arad/santana/2022/47",
+   "short": "HCL Sântana nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 47/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=14",
+   "versions": [
+    {
+     "from": "2022-08-08",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/12/df/12df2561-dd2a-4c53-84bc-cece5543c71a/dosar_nr_47_din_08_08_22.pdf",
+     "sha256": "bb6c7dbf2ca9dab1c40788db55cfc8b24311027898341567bfe72e6ceb46c4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-48-2022",
+   "path": "local/arad/santana/2022/48",
+   "short": "HCL Sântana nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 48/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=13",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/87/b6/87b66d2f-c4bd-49aa-b0ed-36cbc743b453/dosar_nr_48_22_08_22.pdf",
+     "sha256": "b6562e30f52b5d217abc9c40cedbbc17a44452405f24c578df7c7f4b4b8fcecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-49-2022",
+   "path": "local/arad/santana/2022/49",
+   "short": "HCL Sântana nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 49/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=13",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/04/b9/04b96426-ba12-4ea2-8ba0-107f8d291195/dosare_nr_49_22_08_22.pdf",
+     "sha256": "39be795ae922c0486059febf6a5247d6984ff114ed160409af68277da74c2922"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-69-2022",
+   "path": "local/arad/santana/2022/69",
+   "short": "HCL Sântana nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 69/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=12",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/7d/58/7d58959d-0c5c-42dd-8127-ace07893b90c/oferta_vanzare_teren_nr_69_din_12_10_22.pdf",
+     "sha256": "387580ef09a4aede4883ca656988ef277e0b7170ec47c2849a23b54b01810502"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2022",
+   "path": "local/arad/santana/2022/82",
+   "short": "HCL Sântana nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/79/93/7993e0a5-2eea-441b-9bd9-8481e4698596/dosar_nr_82_din_06_12_2022.pdf",
+     "sha256": "d8249124d565452beea8443545cd0c24875adb263315b86dfd43b8b5e0483b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-83-2022",
+   "path": "local/arad/santana/2022/83",
+   "short": "HCL Sântana nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 83/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/72/b6/72b666bc-75ac-4416-a356-0440a4545805/dosar_nr_83_din_06_12_22.pdf",
+     "sha256": "a5c9bdf2c945898ad39204ec0b517d0076ba95fdeb33a90df86743e025d538e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-84-2022",
+   "path": "local/arad/santana/2022/84",
+   "short": "HCL Sântana nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2022",
+   "url": "http://www.primariasantana.ro/ro/compartimente/registru-agricol/publicatie-oferte-vanzari-terenuri/?page=11",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/filer_public/77/87/7787c66f-963c-4dcf-b006-51ccd61f3a75/oferta_vanzare_teren_nr_84_din_13_12_2022.pdf",
+     "sha256": "b95a431068be6793ba45ff933a6416461ea4673e9570b251ac5d3a6c335892e9"
+    }
+   ]
+  }
+ ]
+}

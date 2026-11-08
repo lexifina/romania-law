@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zabrani/2015",
+ "acts": [
+  {
+   "slug": "hcl-arad--zabrani-45-2015",
+   "path": "local/arad/zabrani/2015/45",
+   "short": "HCL Zăbrani nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 45/2015 REFERITOARE LA AJUTORUL DE STAT ÎN URMA SECETEI. 19.11. 2015, 12:11 | Primaria Zabrani Prin Ordonanţa de urgenţă nr.45 din 23 Octombrie 2015 s-a instituit schema de ajutor de stat pentru compensarea pagubelor cauzate",
+   "url": "http://www.primaria-zabrani.ro/arhiva/arhiva-2015/ianuarie-decembrie-2015.html",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/documente/anul_2015/documente_pdf/adresa_referitoare_la_ajutorul_de_stat_in_urma_secetei_necesare_la_dosar.pdf",
+     "sha256": "372d80f793c47d31482eb3de74fd29a2fc2b0bbd658b1d4a7730ff45a6ff19b4"
+    }
+   ]
+  }
+ ]
+}

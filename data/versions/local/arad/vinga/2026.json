@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/vinga/2026",
+ "acts": [
+  {
+   "slug": "hcl-arad--vinga-88-2026",
+   "path": "local/arad/vinga/2026/88",
+   "short": "HCL Vinga nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vinga nr. 88/2026 privind aprobarea procesului verbal al sedintei extraordinare din data de 02.07.2026",
+   "url": "https://primaria-vinga.ro/wp-content/uploads/Hotararea-NR.-88-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-data-de-02.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://primaria-vinga.ro/wp-content/uploads/Hotararea-NR.-88-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-data-de-02.07.2026.pdf",
+     "sha256": "e7adebc362c5c365deae7714e4ded053dcfb8c96f543bd0dea46062485b8923d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sicula/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--sicula-7-2024",
+   "path": "local/arad/sicula/2024/7",
+   "short": "HCL Șicula nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 7/2024",
+   "url": "https://sicula.ro/wp-content/uploads/2024/04/hotararea-nr-7-din-29.04.2024-admitere-lista-candidati-CL-PNL.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2024/04/hotararea-nr-7-din-29.04.2024-admitere-lista-candidati-CL-PNL.pdf",
+     "sha256": "b1d455e06f1cdb91fea010b4eb2820f129a65f2f0b91b53c0be847bfe87a5b43"
+    }
+   ]
+  }
+ ]
+}

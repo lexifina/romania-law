@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zabrani/2013",
+ "acts": [
+  {
+   "slug": "hcl-arad--zabrani-118-2013",
+   "path": "local/arad/zabrani/2013/118",
+   "short": "HCL Zăbrani nr. 118/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 118/2013 privind rectificarea bugetului de venituri si cheltuieli pe anul 2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/sedinte_consiliul_local/2.htm",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/documente/anul_2013/documente_pdf/sedinta_extraordinara_20_12_2013/hcl_118%20_din_20_12_2013.pdf",
+     "sha256": "9092324b7e71ee7199c2ad1204dfb95831c0047b68d30ba682f2ad578b69424a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-121-2013",
+   "path": "local/arad/zabrani/2013/121",
+   "short": "HCL Zăbrani nr. 121/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 121/2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index.htm",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index_htm_files/hotararea_121_din_23.12.2013.pdf",
+     "sha256": "1eedb2dee8ea5753e79598a766d0c733f358fb4f5e6c12958f0fbd8e08b020e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-122-2013",
+   "path": "local/arad/zabrani/2013/122",
+   "short": "HCL Zăbrani nr. 122/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 122/2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index.htm",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index_htm_files/hotararea_122_din_23.12.2013.pdf",
+     "sha256": "d38f414ff66b090b9e1095050ba39bf922ffd21472c75b9ac0b39e28a3d595db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-123-2013",
+   "path": "local/arad/zabrani/2013/123",
+   "short": "HCL Zăbrani nr. 123/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 123/2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index.htm",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index_htm_files/hotararea_123_din_23.12.2013.pdf",
+     "sha256": "53180949865c34a0657bdf2fa1fbbb3d1f8abcd196469d7e025cb69c7b37a5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-124-2013",
+   "path": "local/arad/zabrani/2013/124",
+   "short": "HCL Zăbrani nr. 124/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 124/2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index.htm",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index_htm_files/hotararea_124_din_23.12.2013.pdf",
+     "sha256": "e212d151bd735ed200c8488b2220f6f2e690e2b63e6a1220e78aec2df3c42c80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zabrani-125-2013",
+   "path": "local/arad/zabrani/2013/125",
+   "short": "HCL Zăbrani nr. 125/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 125/2013",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index.htm",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/hotarari_adoptate/index_htm_files/hotararea_125_din_23.12.2013.pdf",
+     "sha256": "975b221f0250c512816ee53f2662c9362b67c4a95dce8a1719bb0b9f6055738f"
+    }
+   ]
+  }
+ ]
+}

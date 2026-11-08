@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/vladimirescu/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--vladimirescu-49-2022",
+   "path": "local/arad/vladimirescu/2022/49",
+   "short": "HCL Vladimirescu nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vladimirescu nr. 49/2022",
+   "url": "https://www.primariavladimirescu.ro/monitorul-oficial-local/regulamentele-privind-procedurile-administrative/",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://www.primariavladimirescu.ro/wp-content/uploads/2022/05/Hotararea-49-Regulament-functionare.pdf",
+     "sha256": "edf2c29ca634b35902d6e09493053c79d5874ff9520bff793046d90c392d4776"
+    }
+   ]
+  }
+ ]
+}

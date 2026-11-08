@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/zabrani/2012",
+ "acts": [
+  {
+   "slug": "hcl-arad--zabrani-6-2012",
+   "path": "local/arad/zabrani/2012/6",
+   "short": "HCL Zăbrani nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Zăbrani nr. 6/2012 Privind organizarea comisiilor de specialitate ale Consiliului Local Zăbrani Consiliul local al comunei Zăbrani, întrunit în ședința de constituire din data de 25.06.2012",
+   "url": "http://www.primaria-zabrani.ro/consiliul_local/comisii_de_specialitate/index.htm",
+   "versions": [
+    {
+     "from": "2012-06-25",
+     "units": 1,
+     "source_url": "http://www.primaria-zabrani.ro/consiliul_local/comisii_de_specialitate/index_htm_files/hotarare_comisii_de_specialitate.pdf",
+     "sha256": "6de42fb82fa7292011d82721653f44449ece403e640002992488ce2edef1ff01"
+    }
+   ]
+  }
+ ]
+}

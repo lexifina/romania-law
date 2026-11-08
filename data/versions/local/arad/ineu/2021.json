@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2021",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-2-2021",
+   "path": "local/arad/ineu/2021/2",
+   "short": "HCL Ineu nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 2/2021",
+   "url": "https://primariaineu.ro/hotararea-clsu-ineu-nr-226-03-2021-si-informare-publica-catre-agentii-economici/",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2021/03/Hotararea-nr.2-din-data-de-26.03.2021-a-C.L.S.U.-INEU.pdf",
+     "sha256": "e610351bfe9d4347c2973abfe8c0d5cbd2d02010911d871bf6c2e1e654ec84d7"
+    }
+   ]
+  }
+ ]
+}

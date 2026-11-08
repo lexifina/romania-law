@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/pancota/2019",
+"acts": [
+{
+"slug": "hcl-arad--pancota-74-2019",
+"path": "local/arad/pancota/2019/74",
+"kind": "local",
+"year": "2019",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 74/2019",
+"short": "HCL Pâncota nr. 74/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-28",
+"latest": "2019-10-28",
+"portal": "https://primariapancota.ro/page/7/",
+"council": "arad/pancota",
+"council_name": "Consiliul Local al Orașului Pâncota",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

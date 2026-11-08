@@ -3,6 +3,156 @@
  "shard": "local/arad/santana/2010",
  "acts": [
   {
+   "slug": "hcl-arad--santana-10-2010",
+   "path": "local/arad/santana/2010/10",
+   "short": "HCL Sântana nr. 10/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 10/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0010_2010_01_19.pdf",
+     "sha256": "50c01c9baaca41e51b500a0af128c2adf6c43ba626cefd14b5c74f75a1a6568b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-100-2010",
+   "path": "local/arad/santana/2010/100",
+   "short": "HCL Sântana nr. 100/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 100/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0100_2010_07_20.pdf",
+     "sha256": "f231a01bde1725734970456cf4fef4dc86fc3ecb3411bb72ad85a26e36822d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-101-2010",
+   "path": "local/arad/santana/2010/101",
+   "short": "HCL Sântana nr. 101/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 101/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0101_2010_07_20.pdf",
+     "sha256": "9b3681e1a61e02aa4f9ea3e6bb80f808f246dea196750848c9605dbcd1706b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-102-2010",
+   "path": "local/arad/santana/2010/102",
+   "short": "HCL Sântana nr. 102/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 102/2010 privind desemnarea președintelui de ședință CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=346",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0102_2010_08_17.pdf",
+     "sha256": "83b9dd7084a796e40443712a2bff871f05c92ee4d85996203e17bc1cd9a45442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-103-2010",
+   "path": "local/arad/santana/2010/103",
+   "short": "HCL Sântana nr. 103/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 103/2010 privind aprobarea ordinei de zi a ședinței ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală, republicata, cu modificarile si completarile ulterioare; În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modificarile si completarile ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=346",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0103_2010_08_17.pdf",
+     "sha256": "9e027b6175a7fa5e967b35a27fd404e57cf147a9c34447ec332863b5b1268bea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-104-2010",
+   "path": "local/arad/santana/2010/104",
+   "short": "HCL Sântana nr. 104/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 104/2010 privind aprobarea proceselor verbale a ședințelor din luna iulie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SÂNTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mod",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=346",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0104_2010_08_17.pdf",
+     "sha256": "12a44211c532cc96239a1f22db73513bb4ca3f373207841fd8e31e99fe4c9ac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-105-2010",
+   "path": "local/arad/santana/2010/105",
+   "short": "HCL Sântana nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 105/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0105_2010_08_17.pdf",
+     "sha256": "a088a8b8f493337e90c2384dc9cfb5337b71b9f3c5bad29ac0bff194c0e79422"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-106-2010",
+   "path": "local/arad/santana/2010/106",
+   "short": "HCL Sântana nr. 106/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 106/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0106_2010_08_17.pdf",
+     "sha256": "c68bf9dee1c706c97a276dc4103daf3b48a2ac534fb011d64cfbade395fc4346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-107-2010",
+   "path": "local/arad/santana/2010/107",
+   "short": "HCL Sântana nr. 107/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 107/2010 PRIVIND APROBAREA PERSONALULULUI DIN CADRUL PRIMĂRIEI SÂNTANA CU DREPT DE SEMNĂTURĂ LA BANCA COMERCIALĂ ROMÂNĂ, SUCURSALA JUDEȚEANĂ ARAD, ÎN VEDEREA GESTIONĂRII RESURSELOR FINANCIARE ALE PRIMĂRIEI SÂNTANA ÎN ÎNDEPLINIREA OBLIGAȚIILOR CE DECURG DIN CONTRACTUL DE CREDIT NR.80/7998 din 29.03.2007 CONSILIUL LOCAL AL ORAȘULUI SÂNTANA, Având în vedere : - Referat de specialitate nr.5777/9.08.2010 Ionaș",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=345",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0107_2010_08_17.pdf",
+     "sha256": "4b83f67959c3e0d06a5c1bc09b029c79b146baa052b06582020c9dc869963e9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-108-2010",
+   "path": "local/arad/santana/2010/108",
+   "short": "HCL Sântana nr. 108/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 108/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0108_2010_08_17.pdf",
+     "sha256": "769a34182a7110aaa139a20ed6acdc3ccc8e573ecd5fd35896a71dec4c6f2395"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-109-2010",
    "path": "local/arad/santana/2010/109",
    "short": "HCL Sântana nr. 109/2010",
@@ -14,6 +164,546 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0109_2010_08_17.pdf",
      "sha256": "bb234aa89b9f8de50588457068d758d675d1bedd5d99660304d1d5ea22bee81d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-11-2010",
+   "path": "local/arad/santana/2010/11",
+   "short": "HCL Sântana nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 11/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0011_2010_01_19.pdf",
+     "sha256": "a2ac03f91667105f586729f61815c07627d5b7fb0f7724d44269439b4c1fb141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-110-2010",
+   "path": "local/arad/santana/2010/110",
+   "short": "HCL Sântana nr. 110/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 110/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0110_2010_08_17.pdf",
+     "sha256": "46b9752d4d147fe9bdfb56c44a159cb33e64e4781f8fba4035f2f148139ae449"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-111-2010",
+   "path": "local/arad/santana/2010/111",
+   "short": "HCL Sântana nr. 111/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 111/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0111_2010_08_17.pdf",
+     "sha256": "8017f9db7cafe850b1c701593cb4c66d9b8e95283e1d0a52122e3d7633f0eb55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-112-2010",
+   "path": "local/arad/santana/2010/112",
+   "short": "HCL Sântana nr. 112/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 112/2010 PRIVIND CONSTITUIREA CONSILIULUI DE ADMINISTRAȚIE AL SPITALULUI ORĂȘENESC SÂNTANA CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : -Prevederile HG nr.529/2010 pentru aprobarea menținerii managementului asistenței medicale la unitățile administrației publice locale care au desfasurat faze-pilot, precum si a Listei unitatilor sanitare publice cu paturi pentru care se mentine managementul asist",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=345",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0112_2010_08_17.pdf",
+     "sha256": "2d41b4613d3805e4b161fc812529994e8567ab82b318f7ec1092b3d4a62049ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-113-2010",
+   "path": "local/arad/santana/2010/113",
+   "short": "HCL Sântana nr. 113/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 113/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0113_2010_08_17.pdf",
+     "sha256": "a5f5e8187c6667d3e250ffbee53cd1f1b5c2bdcb1ec5191ac50465d4999aa0a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-114-2010",
+   "path": "local/arad/santana/2010/114",
+   "short": "HCL Sântana nr. 114/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 114/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0114_2010_08_17.pdf",
+     "sha256": "cdc51f46ef7b382f3b5bd3d4a273793b11e39f3fdf52d6fdd84bba67922cf1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-115-2010",
+   "path": "local/arad/santana/2010/115",
+   "short": "HCL Sântana nr. 115/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 115/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0115_2010_08_17.pdf",
+     "sha256": "feeaa52fcf9ab2986b684da9ef9473131962da4699227fdf28f41bdec45150cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-116-2010",
+   "path": "local/arad/santana/2010/116",
+   "short": "HCL Sântana nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 116/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=344",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0116_2010_09_21.pdf",
+     "sha256": "6832f70e6e650a37c9d0d439518acee544a0054a4089632758bd4f3235f0e05c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-117-2010",
+   "path": "local/arad/santana/2010/117",
+   "short": "HCL Sântana nr. 117/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 117/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=344",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0117_2010_09_21.pdf",
+     "sha256": "3a6f34da3d2e685946b38c9b0b44da0272da4085f44a351b40ee9c58cfe3c4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-118-2010",
+   "path": "local/arad/santana/2010/118",
+   "short": "HCL Sântana nr. 118/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 118/2010 privind aprobarea procesului verbal a sedintei din luna august 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu modif",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=344",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0118_2010_09_21.pdf",
+     "sha256": "950a254828eca52b0d3850c5d254ee6f986d9b2b50c5fb0229ce6f7d344081ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-119-2010",
+   "path": "local/arad/santana/2010/119",
+   "short": "HCL Sântana nr. 119/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 119/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0119_2010_09_21.pdf",
+     "sha256": "ec42ab98a8d76c0c81f256793c424974a6a14cac60bed95f7cf48f19c3d9152b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-12-2010",
+   "path": "local/arad/santana/2010/12",
+   "short": "HCL Sântana nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 12/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0012_2010_01_19.pdf",
+     "sha256": "dcbe93120224476036f79fb305c2e81348c0e6d9b7f3559a315936d2e2120efe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-120-2010",
+   "path": "local/arad/santana/2010/120",
+   "short": "HCL Sântana nr. 120/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 120/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0120_2010_09_21.pdf",
+     "sha256": "ba84a092cd9854383d96fea9407435cb3de56dd9e9bec5e3325eeb84d5de06d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-121-2010",
+   "path": "local/arad/santana/2010/121",
+   "short": "HCL Sântana nr. 121/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 121/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0121_2010_09_21.pdf",
+     "sha256": "a9abf09fd67cac83a1a66c21da61303010dcd28ff602f7f2a27276434f4c5c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-122-2010",
+   "path": "local/arad/santana/2010/122",
+   "short": "HCL Sântana nr. 122/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 122/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0122_2010_09_21.pdf",
+     "sha256": "2294ef85f6717885b4925a141dde0deb4e59763b177e2cfc0d6864673ba4311e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-123-2010",
+   "path": "local/arad/santana/2010/123",
+   "short": "HCL Sântana nr. 123/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 123/2010 PRIVIND APROBAREA MODIFICARII STUDIULUI DE FEZABILITATE PENTRU PROIECTUL ,,EXTINDEREA SI MODERNIZAREA INFRASTRUCTURII DE APA SI APA UZATA DIN JUDETUL ARAD’’ CONSILIUL LOCAL AL ORASULUI SANTANA Având în vedere : Referat de specialitate , sing",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=344",
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0123_2010_09_21.pdf",
+     "sha256": "239b9285e7f9edcc31ae81d65be3ab1e6ffcac8488ceefd734a1f7a05ad2a69e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-124-2010",
+   "path": "local/arad/santana/2010/124",
+   "short": "HCL Sântana nr. 124/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 124/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0124_2010_09_21.pdf",
+     "sha256": "5e6d557469e4b44127303064d5d657d36a0aa6b1081a3e1f543067a2e6c2a958"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-125-2010",
+   "path": "local/arad/santana/2010/125",
+   "short": "HCL Sântana nr. 125/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 125/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-21",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0125_2010_09_21.pdf",
+     "sha256": "4e5e7ae83366cb89f247de5bce91047cdcf83962ca83e114a6d7c7910bd1ec1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-13-2010",
+   "path": "local/arad/santana/2010/13",
+   "short": "HCL Sântana nr. 13/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 13/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0013_2010_01_19.pdf",
+     "sha256": "b97d7dc23e9ebdc1dce0b176e348652db1365d83f2501773e7113c14c0d3ab1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-14-2010",
+   "path": "local/arad/santana/2010/14",
+   "short": "HCL Sântana nr. 14/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 14/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0014_2010_01_19.pdf",
+     "sha256": "f54184b64d8937788bf766b1742f39cb25fc79e7ab675017e8b73e19cd880de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-15-2010",
+   "path": "local/arad/santana/2010/15",
+   "short": "HCL Sântana nr. 15/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 15/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=354",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0015_2010_01_26.pdf",
+     "sha256": "0db95b0f09a00d6ea5bd6c39e049eb4d63b49f4df51b87145a0d633f33b5d10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-16-2010",
+   "path": "local/arad/santana/2010/16",
+   "short": "HCL Sântana nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 16/2010 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală,republicata , cu modificarile si completarile ulterioare HOTĂRĂȘTE:",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=354",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0016_2010_03_02.pdf",
+     "sha256": "743fd0c47742093b97ed514e5f4a87f860a678d2f0afc31ee315cf85b5853262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-17-2010",
+   "path": "local/arad/santana/2010/17",
+   "short": "HCL Sântana nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 17/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0017_2010_01_26.pdf",
+     "sha256": "cb00305106d866f769815eb8f2835f47b536f300bc4a35fb4e1c106698db4eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-18-2010",
+   "path": "local/arad/santana/2010/18",
+   "short": "HCL Sântana nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 18/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=355",
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0019_2010_02_16.pdf",
+     "sha256": "2941886f0ef97c0564bc17edfaa279aa19e4236078365d75946484030d005455"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-20-2010",
+   "path": "local/arad/santana/2010/20",
+   "short": "HCL Sântana nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 20/2010 privind aprobarea proceselor verbale a sedintelor din luna ianuarie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, c",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=354",
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0020_2010_02_16.pdf",
+     "sha256": "84c62964379f5c584ba14de080c6e3599f207df0255af967bf7b92f62ccbf481"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-21-2010",
+   "path": "local/arad/santana/2010/21",
+   "short": "HCL Sântana nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 21/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0021_2010_02_16.pdf",
+     "sha256": "8d1f9312a68b0339f5e5709b1f24076cff15a1a0fe5853ea6a5d3ec7c9fcf79b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-22-2010",
+   "path": "local/arad/santana/2010/22",
+   "short": "HCL Sântana nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 22/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0022_2010_02_16.pdf",
+     "sha256": "9a1e53b85b1d016b4475ab611b02ca4ece217804c7bc52f498be2ee6f966e131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-23-2010",
+   "path": "local/arad/santana/2010/23",
+   "short": "HCL Sântana nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 23/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0023_2010_02_16.pdf",
+     "sha256": "465103ca77557ab4f32e9232ea250ed61d623fe7979c07c91776870976017b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-24-2010",
+   "path": "local/arad/santana/2010/24",
+   "short": "HCL Sântana nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 24/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0024_2010_02_16.pdf",
+     "sha256": "4d35dd14d6018343afa9f16b597b607171ae2ecb41447dff6c7b801b931e40ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-25-2010",
+   "path": "local/arad/santana/2010/25",
+   "short": "HCL Sântana nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 25/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-16",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0025_2010_02_16.pdf",
+     "sha256": "c4e1c303114a643d0f18e46bc9a048df934b6698a7905ad338fedcd7f5ccd898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-26-2010",
+   "path": "local/arad/santana/2010/26",
+   "short": "HCL Sântana nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 26/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=354",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0026_2010_03_02.pdf",
+     "sha256": "c26907168d9f27af6535af2c497878adcd9829b01c2239159f2bdc6f7f869b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-27-2010",
+   "path": "local/arad/santana/2010/27",
+   "short": "HCL Sântana nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 27/2010 privind aprobarea ordinei de zi a sedintei extraordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală,republicata , cu modificarile si completarile ulterioare HOTĂRĂȘTE:",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=353",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0027_2010_03_02.pdf",
+     "sha256": "01af2207156546ae57f090d39208a8beeb4e68823eaefb31cc3728bbb4442e66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-28-2010",
+   "path": "local/arad/santana/2010/28",
+   "short": "HCL Sântana nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 28/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0028_2010_03_02.pdf",
+     "sha256": "1743b3d8c5aba9807d5da5ef467c73daa9a073fa499a2d1c3658691222a0ce10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-29-2010",
+   "path": "local/arad/santana/2010/29",
+   "short": "HCL Sântana nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 29/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0029_2010_03_02.pdf",
+     "sha256": "57dea7080c31dee9a77f3774e2ed9d18433474eee132864ac208fc8a3af9e657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-3-2010",
+   "path": "local/arad/santana/2010/3",
+   "short": "HCL Sântana nr. 3/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 3/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0003_2010_01_12.pdf",
+     "sha256": "bf017122c7bb11021ca7165f4fdcec560abab37eb0b47b925faf68aa06e24dd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-30-2010",
+   "path": "local/arad/santana/2010/30",
+   "short": "HCL Sântana nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 30/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0030_2010_03_02.pdf",
+     "sha256": "a88e85144606076e9cb36de7e56496a7fd377df6fd7880a9fe52480d3f231775"
     }
    ]
   },
@@ -33,6 +723,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-32-2010",
+   "path": "local/arad/santana/2010/32",
+   "short": "HCL Sântana nr. 32/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0032_2010_03_02.pdf",
+     "sha256": "fd12cae3856a152591e1d86a8ad0fe80d03a6bb04a4e33862ccfaabad34a83a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-33-2010",
+   "path": "local/arad/santana/2010/33",
+   "short": "HCL Sântana nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 33/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=353",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0033_2010_03_17.pdf",
+     "sha256": "8f8220e9d56774d3016d67e42c5391ded3b432d9dcc93e5af9b6edcebf47b6ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-34-2010",
+   "path": "local/arad/santana/2010/34",
+   "short": "HCL Sântana nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 34/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=353",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0034_2010_03_17.pdf",
+     "sha256": "fb22165940d46b5b8b02d33c2f31fd9494b41c86677e546684b7dbd078dd03d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-35-2010",
+   "path": "local/arad/santana/2010/35",
+   "short": "HCL Sântana nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 35/2010 privind aprobarea proceselor verbale a sedintelor din luna februarie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=353",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0035_2010_03_17.pdf",
+     "sha256": "697ae22e7babe36bff46a22d88c1ac471a1f969334d00c0982975420f68d8c1f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-36-2010",
    "path": "local/arad/santana/2010/36",
    "short": "HCL Sântana nr. 36/2010",
@@ -44,6 +794,336 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0036_2010_03_17.pdf",
      "sha256": "3ca198e4bd32c0217d886f323548c9b1a05b501a039f367d46ea189f5c8f6531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-37-2010",
+   "path": "local/arad/santana/2010/37",
+   "short": "HCL Sântana nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 37/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0037_2010_03_17.pdf",
+     "sha256": "fb72a9814d02d53b906088916bf5972ab8165182e6f5e0ab417ab83ef768d72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-38-2010",
+   "path": "local/arad/santana/2010/38",
+   "short": "HCL Sântana nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 38/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0038_2010_03_17.pdf",
+     "sha256": "f51fea10fdfd5baa13fcb8550fec7e029652039d23ff237442b4987509d38a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-39-2010",
+   "path": "local/arad/santana/2010/39",
+   "short": "HCL Sântana nr. 39/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 39/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0039_2010_03_17.pdf",
+     "sha256": "c9a75b7edfffd7940360da5bd847c74a923da2933f90be2b4245d64b874e5ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-4-2010",
+   "path": "local/arad/santana/2010/4",
+   "short": "HCL Sântana nr. 4/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 4/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0004_2010_01_12.pdf",
+     "sha256": "4c5c32de8fd79ff35e5fa3c2e81fcb50870e930c3ec6d11b4b21127197208525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-40-2010",
+   "path": "local/arad/santana/2010/40",
+   "short": "HCL Sântana nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 40/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0040_2010_03_17.pdf",
+     "sha256": "28daae4813026e16690fafbed2d079f69b9a49235b6371da610ba9511373865d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-41-2010",
+   "path": "local/arad/santana/2010/41",
+   "short": "HCL Sântana nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 41/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0041_2010_03_17.pdf",
+     "sha256": "a62c1b0a6ebb06b6e0e2bf65eb99b93e88a734179ff61f5ce4a5f012643f551d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-42-2010",
+   "path": "local/arad/santana/2010/42",
+   "short": "HCL Sântana nr. 42/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 42/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0042_2010_03_17.pdf",
+     "sha256": "db548b8ff0b1615c7e595cb85b849307e6bd374634dbca3ebc03c13d17a95fca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-43-2010",
+   "path": "local/arad/santana/2010/43",
+   "short": "HCL Sântana nr. 43/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 43/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0043_2010_03_17.pdf",
+     "sha256": "280f75a0984f086edeb1e3f6f9e2c40f106f41969ee96e73f63e09dc9efd6d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-44-2010",
+   "path": "local/arad/santana/2010/44",
+   "short": "HCL Sântana nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 44/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0044_2010_03_17.pdf",
+     "sha256": "c7338caee20e3ac0567658a355be5b57c447643b449283c7d48619b4e6105cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-45-2010",
+   "path": "local/arad/santana/2010/45",
+   "short": "HCL Sântana nr. 45/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 45/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0045_2010_03_17.pdf",
+     "sha256": "865b61015b8d5d6ff14f7d221041dbdf9b74944063879e70a83e5d96ee984415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-46-2010",
+   "path": "local/arad/santana/2010/46",
+   "short": "HCL Sântana nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 46/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0046_2010_03_17.pdf",
+     "sha256": "4d91b5c8eb506be7776147a4e836ae87c0a6a8e1c433d42c375c26e74c8883b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-47-2010",
+   "path": "local/arad/santana/2010/47",
+   "short": "HCL Sântana nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 47/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0047_2010_03_17.pdf",
+     "sha256": "68f8c1048e1a368fa618f40cc45c1163551d1bb33412d5eec1040988ec20b519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-48-2010",
+   "path": "local/arad/santana/2010/48",
+   "short": "HCL Sântana nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 48/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=351",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0048_2010_04_20.pdf",
+     "sha256": "becb7db12f72d64eb6605af38d3754b0a1fd3da691f943be70de5f33544ef851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-49-2010",
+   "path": "local/arad/santana/2010/49",
+   "short": "HCL Sântana nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 49/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=351",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0049_2010_04_20.pdf",
+     "sha256": "38ca99eefa90f271f755e21383b93625d88b52a257f1ea21cbc86f6e904a732f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-5-2010",
+   "path": "local/arad/santana/2010/5",
+   "short": "HCL Sântana nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 5/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=356",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0005_2010_01_19.pdf",
+     "sha256": "a6658e37ecb7223607005c22302bf0d0d7aa5d4842694b81b32831a9eb738ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-50-2010",
+   "path": "local/arad/santana/2010/50",
+   "short": "HCL Sântana nr. 50/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 50/2010 privind aprobarea proceselor verbale a sedintelor din luna martie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=351",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0050_2010_04_20.pdf",
+     "sha256": "62b55ff4975be1cbff974cb829fe591ff7bc6227d58745b8d32c57685d6047f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-51-2010",
+   "path": "local/arad/santana/2010/51",
+   "short": "HCL Sântana nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 51/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0051_2010_04_20.pdf",
+     "sha256": "10f33baa964a235c9369b342d7a9e47e4af49343f738ad646af3f6ca3f199bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-52-2010",
+   "path": "local/arad/santana/2010/52",
+   "short": "HCL Sântana nr. 52/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 52/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0052_2010_04_20.pdf",
+     "sha256": "8eb475e521beafebd4379a41a081802586799297a92ca944e5e834e2d3b4d83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-53-2010",
+   "path": "local/arad/santana/2010/53",
+   "short": "HCL Sântana nr. 53/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 53/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0053_2010_04_20.pdf",
+     "sha256": "39f66efc716f995bc759a89fdb229743163343819d9e7356346a79c1523d078e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-54-2010",
+   "path": "local/arad/santana/2010/54",
+   "short": "HCL Sântana nr. 54/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 54/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0054_2010_04_20.pdf",
+     "sha256": "94a4d80c01f9150508e5b4601785159ac1dbddc4160590eed0c71674e2a390b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-55-2010",
+   "path": "local/arad/santana/2010/55",
+   "short": "HCL Sântana nr. 55/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 55/2010 PRIVIND TRECEREA UNUI IMOBIL – TEREN DIN DOMENIUL PRIVAT IN DOMENIUL PUBLIC AL ORASULUI SANTANA SI TRANSMITEREA ACESTUIA DIN DOMENIUL PUBLIC AL ORASULUI SANTANA SI DIN ADMINISTRAREA CONSILIULUI LOCAL SANTANA IN DOMENIUL PUBLIC AL STATULUI SI IN ADMINISTRAREA AGENTIEI DE PLATI SI INTERVENTIE PENTRU AGRICULTURA – CENTRUL JUDETEAN ARAD , PENTRU AMPLASAREA UNEI CONSTRUCTII TIP MODULAR CU DESTINATIA DE",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=350",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0055_2010_04_20.pdf",
+     "sha256": "b43793a0174f0dbc6ef6280e36fec3713ce88ff802b7b0d7b66ccde4c12c72ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-56-2010",
+   "path": "local/arad/santana/2010/56",
+   "short": "HCL Sântana nr. 56/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 56/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0056_2010_04_20.pdf",
+     "sha256": "033c58db63092d66b1209e6640329df8731fcd64bc8ed6b2e0cb69f2d8a99152"
     }
    ]
   },
@@ -63,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-58-2010",
+   "path": "local/arad/santana/2010/58",
+   "short": "HCL Sântana nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 58/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0058_2010_04_20.pdf",
+     "sha256": "6f685e3329e85f1e48ae91f40cb504f00aa6552745fe1bcc801bfccf45513b6d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-59-2010",
    "path": "local/arad/santana/2010/59",
    "short": "HCL Sântana nr. 59/2010",
@@ -74,6 +1169,306 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0059_2010_04_20.pdf",
      "sha256": "a105ecd51d22eff1cea4e145de186020b2f453d4c7544762f19b81387422a745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-6-2010",
+   "path": "local/arad/santana/2010/6",
+   "short": "HCL Sântana nr. 6/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 6/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=355",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0006_2010_01_19.pdf",
+     "sha256": "3034306a7483f373a44512d64eef5572f36838edbb069665b9238887b2d81e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-60-2010",
+   "path": "local/arad/santana/2010/60",
+   "short": "HCL Sântana nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 60/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0060_2010_04_20.pdf",
+     "sha256": "7211d7b736c00d5867b21a5bcda58c19cf574dc5d8cf4eec94c5600f6566b6b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-61-2010",
+   "path": "local/arad/santana/2010/61",
+   "short": "HCL Sântana nr. 61/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 61/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0061_2010_04_20.pdf",
+     "sha256": "96d31c6a7e02566542d1245a8bd98c9663c62f0652b7e87bf88c5fb3dedd294d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-62-2010",
+   "path": "local/arad/santana/2010/62",
+   "short": "HCL Sântana nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 62/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0062_2010_04_20.pdf",
+     "sha256": "e52bfbd633ee72dca034197547dcd32666579b6dad30843bcd69a90391463434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-63-2010",
+   "path": "local/arad/santana/2010/63",
+   "short": "HCL Sântana nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 63/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=351",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0063_2010_05_18.pdf",
+     "sha256": "8bbdcfcc3b89ec6303c8e70c53c34bcd4205ff17656948357d94d9471702bb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-64-2010",
+   "path": "local/arad/santana/2010/64",
+   "short": "HCL Sântana nr. 64/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 64/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=350",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0064_2010_05_18.pdf",
+     "sha256": "0867a3bea3d98a14412591abf17ff3b43df02b714d43b07986ee14b4d7c6202a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-65-2010",
+   "path": "local/arad/santana/2010/65",
+   "short": "HCL Sântana nr. 65/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 65/2010 privind aprobarea procesului verbal a sedintei din luna aprilie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mo",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=350",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0065_2010_05_18.pdf",
+     "sha256": "6400c65afdba2f12920367f1aa836a15eb95e6ca33499d4425d88552955dfef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-66-2010",
+   "path": "local/arad/santana/2010/66",
+   "short": "HCL Sântana nr. 66/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 66/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0066_2010_05_18.pdf",
+     "sha256": "05e3949cf6a8126321399f67521db383ee97ef330367a2f458f37689992691e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-67-2010",
+   "path": "local/arad/santana/2010/67",
+   "short": "HCL Sântana nr. 67/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 67/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0067_2010_05_18.pdf",
+     "sha256": "9ba6fe70dbdb6bc5e2ecdee30c0c2be10996fdb111f2711495a73cc205e11989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-68-2010",
+   "path": "local/arad/santana/2010/68",
+   "short": "HCL Sântana nr. 68/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 68/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0068_2010_05_18.pdf",
+     "sha256": "007e7b2d347d25bb72eb28e297f4857069d763703d6645dd74bc18ca50e0d450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-69-2010",
+   "path": "local/arad/santana/2010/69",
+   "short": "HCL Sântana nr. 69/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 69/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0069_2010_05_18.pdf",
+     "sha256": "eb9a007f8cef217dcc9432cba2cca9cc5fe178fdd6c9643022f734c41a8e5522"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-7-2010",
+   "path": "local/arad/santana/2010/7",
+   "short": "HCL Sântana nr. 7/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 7/2010 privind aprobarea proceselor verbale a sedintelor din luna decembrie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=355",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0007_2010_01_19.pdf",
+     "sha256": "e88994540b03b3d3d58f00f4212105ec2cbf2e9ae906dfbdd86605363820c516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-70-2010",
+   "path": "local/arad/santana/2010/70",
+   "short": "HCL Sântana nr. 70/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 70/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0070_2010_05_18.pdf",
+     "sha256": "8370c9ae4794ed2f3a6bc66bc3c919d347b7ee9c49fe18e06f42f91a7ac7b3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-71-2010",
+   "path": "local/arad/santana/2010/71",
+   "short": "HCL Sântana nr. 71/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 71/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0071_2010_05_18.pdf",
+     "sha256": "709e0354f22f05a2247b44f4b57dc42a0d75299201f1719fd13c3d83549de909"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-72-2010",
+   "path": "local/arad/santana/2010/72",
+   "short": "HCL Sântana nr. 72/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 72/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0072_2010_05_18.pdf",
+     "sha256": "ac7ea42947b8b43e68d3ebd6666f5a62a464fbe662142fce836ef9ac75621eec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-73-2010",
+   "path": "local/arad/santana/2010/73",
+   "short": "HCL Sântana nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 73/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0073_2010_05_18.pdf",
+     "sha256": "69fc634f53a58a4137a2be9d0307895721a5374b0fa3c4e626805370f0064b99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-74-2010",
+   "path": "local/arad/santana/2010/74",
+   "short": "HCL Sântana nr. 74/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 74/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0074_2010_05_18.pdf",
+     "sha256": "0a3553a8659e1a9a5b444884bce2cccff535b225926649eb215f4f32245c0b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-75-2010",
+   "path": "local/arad/santana/2010/75",
+   "short": "HCL Sântana nr. 75/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 75/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=349",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0075_2010_05_28.pdf",
+     "sha256": "10fa549f78705903fa55ff97d92e257c3f6eeb13133bb78609cdd55fd62dd441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-76-2010",
+   "path": "local/arad/santana/2010/76",
+   "short": "HCL Sântana nr. 76/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 76/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=349",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0076_2010_05_28.pdf",
+     "sha256": "73daf70f904430be9c70ba7c8ded210b3ebf8ef18315fce7ffd5d9c2807b6cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-79-2010",
+   "path": "local/arad/santana/2010/79",
+   "short": "HCL Sântana nr. 79/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 79/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=348",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0079_2010_06_17.pdf",
+     "sha256": "6b07b5abcbeeb458c539300544916db8805f366b4479d7d70866fb1e769ef47d"
     }
    ]
   },
@@ -93,6 +1488,201 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-80-2010",
+   "path": "local/arad/santana/2010/80",
+   "short": "HCL Sântana nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 80/2010 PRIVIND APROBAREA PROIECTULUI URBANISTIC ZONAL PENTRU ,, CONSTRUIRE SILOZURI SI CONSTRUCTII ANEXE ''extravilan Santana , jud",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=348",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0080_2010_06_17.pdf",
+     "sha256": "47e36f00e4078692b715538b35ed49974fad9c81cc6e8ba5ee276be3085683bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-81-2010",
+   "path": "local/arad/santana/2010/81",
+   "short": "HCL Sântana nr. 81/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 81/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; Prevederile art. 35 alin. (1) din din Legea",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=348",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0081_2010_06_17.pdf",
+     "sha256": "d15e2e4a38f69e2aeae3c79d137fa29bf29f9a02db738ba0065c8b0cc48ab0ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-82-2010",
+   "path": "local/arad/santana/2010/82",
+   "short": "HCL Sântana nr. 82/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 82/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata., cu modificările și completările ulterioare În temeiul art.45 din Legea nr.215/2001,legea administrației publice locale,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=348",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0082_2010_06_29.pdf",
+     "sha256": "f586106478c0576c470fda4db5f215d03f651790be940ea12cc437f397437ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-83-2010",
+   "path": "local/arad/santana/2010/83",
+   "short": "HCL Sântana nr. 83/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 83/2010 privind aprobarea proceselor verbale a sedintelor din luna mai 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mod",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=348",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0083_2010_06_29.pdf",
+     "sha256": "950f9196f6b63cb4731113ccf4c260988233439540a65890a22a2287659d6f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-84-2010",
+   "path": "local/arad/santana/2010/84",
+   "short": "HCL Sântana nr. 84/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 84/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0084_2010_06_29.pdf",
+     "sha256": "fac953b19959627063c17e50684db6c20016bd784dda31b9f2cd41927f92eaa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-85-2010",
+   "path": "local/arad/santana/2010/85",
+   "short": "HCL Sântana nr. 85/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 85/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0085_2010_06_29.pdf",
+     "sha256": "66f4c58b330f1f180db183e9869f824ea4a9b74213d41ed9ce00969a7da8845a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-87-2010",
+   "path": "local/arad/santana/2010/87",
+   "short": "HCL Sântana nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 87/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0087_2010_06_29.pdf",
+     "sha256": "ef34ea8729f4db4398105c52c31734dd6ebdcc843c8d2b083a2ba2c15ddef9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-88-2010",
+   "path": "local/arad/santana/2010/88",
+   "short": "HCL Sântana nr. 88/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 88/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0088_2010_06_29.pdf",
+     "sha256": "2f8f66cd8bb34bf65c4922fea95a46b0d7e8aee079ba118905e663ed3f37e035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-89-2010",
+   "path": "local/arad/santana/2010/89",
+   "short": "HCL Sântana nr. 89/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 89/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0089_2010_06_29.pdf",
+     "sha256": "f08c19d752213aea5de6819e14b5c70f792380427f0d95ab70689f6678eb204d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-9-2010",
+   "path": "local/arad/santana/2010/9",
+   "short": "HCL Sântana nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 9/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0009_2010_01_19.pdf",
+     "sha256": "0549564119427c33f736dcfb714aec98240a0ac716cc0ae30fa2c2b0a9cb2ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-90-2010",
+   "path": "local/arad/santana/2010/90",
+   "short": "HCL Sântana nr. 90/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 90/2010 privind desemnarea presedintelui de sedinta CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Ordinea privind desemnarea președintelui de ședință stabilită de Consiliul local; - Prevederile Ordonanței 35/2002 privind aprobarea Regulamentului cadru de funcționare a consiliilor locale și al regulamentului de funcționare al Consiliului Local Sântana; - Prevederile art. 35 alin. (1) din din Leg",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=347",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0090_2010_07_20.pdf",
+     "sha256": "8e6ff9e0542adb31db3ec2621226760c2862206364810e79a513d62fb8452a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-91-2010",
+   "path": "local/arad/santana/2010/91",
+   "short": "HCL Sântana nr. 91/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 91/2010 privind aprobarea ordinei de zi a sedintei ordinare CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : - Prevederile art. 43 alin. 1 din Legea 215/2001 privind administrația publică locală , republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare HOTĂRĂȘTE: Art",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=347",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0091_2010_07_20.pdf",
+     "sha256": "efa6dc2b4f3d70285bcf69d6665672c5b1f5dbae64b2505c9589e795656af227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-92-2010",
+   "path": "local/arad/santana/2010/92",
+   "short": "HCL Sântana nr. 92/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 92/2010 privind aprobarea proceselor verbale a sedintelor din luna iunie 2010 a Consiliului local Santana CONSILIUL LOCAL AL ORASULUI SANTANA, Având în vedere : Prevederile art. 42, alin. (5) si (6) din Legea 215/2001 privind administrația publică locală, republicata , cu modificarile si completarile ulterioare În temeiul art. 45 din Legea 215/2001 privind administrația publică locală, republicata, cu mod",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=347",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0092_2010_07_20.pdf",
+     "sha256": "24228122123ff2e22069b8ec3850b0c400e5b98c6d40c653301a92de9584f214"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-93-2010",
    "path": "local/arad/santana/2010/93",
    "short": "HCL Sântana nr. 93/2010",
@@ -108,6 +1698,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-94-2010",
+   "path": "local/arad/santana/2010/94",
+   "short": "HCL Sântana nr. 94/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 94/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0094_2010_07_20.pdf",
+     "sha256": "803dcd55dd4668b88d7ec883e661958dcf61900c10d9c8b7923c3ab9a3c0f548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-95-2010",
+   "path": "local/arad/santana/2010/95",
+   "short": "HCL Sântana nr. 95/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 95/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0095_2010_07_20.pdf",
+     "sha256": "de5bec68e6b7fda66e5a2a865684ca1734a95da4b5983a565fb7d1e656829baf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-96-2010",
+   "path": "local/arad/santana/2010/96",
+   "short": "HCL Sântana nr. 96/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 96/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0096_2010_07_20.pdf",
+     "sha256": "d02491dc38057a1514bc58290a47158193d38d3f541b55203232db0cd0744574"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-97-2010",
    "path": "local/arad/santana/2010/97",
    "short": "HCL Sântana nr. 97/2010",
@@ -119,6 +1754,36 @@
      "units": 1,
      "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0097_2010_07_20.pdf",
      "sha256": "552ede2efa28b22d4f65c98889e0f8b5fc16ef2f944996ec83f6f6e14e19088e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-98-2010",
+   "path": "local/arad/santana/2010/98",
+   "short": "HCL Sântana nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 98/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0098_2010_07_20.pdf",
+     "sha256": "7abee4effd38b0c98103e88597372bb24c27a674d554e6596f2779b6f9560e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-99-2010",
+   "path": "local/arad/santana/2010/99",
+   "short": "HCL Sântana nr. 99/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 99/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0099_2010_07_20.pdf",
+     "sha256": "765821276899ac260a80d4b30f25aee8411597ed17dc5a123a63580a47bd428b"
     }
    ]
   }

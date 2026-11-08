@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/moneasa/2022",
+"acts": [
+{
+"slug": "hcl-arad--moneasa-108-2022",
+"path": "local/arad/moneasa/2022/108",
+"kind": "local",
+"year": "2022",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moneasa nr. 108/2022",
+"short": "HCL Moneasa nr. 108/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://primariamoneasa.ro/page/5/",
+"council": "arad/moneasa",
+"council_name": "Consiliul Local al Comunei Moneasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

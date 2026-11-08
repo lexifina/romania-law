@@ -3,6 +3,28 @@
 "shard": "local/arad/varfurile/2024",
 "acts": [
 {
+"slug": "hcl-arad--varfurile-1-2024",
+"path": "local/arad/varfurile/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 1/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 27 decembrie 2023",
+"short": "HCL Vârfurile nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/143252",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-2-2024",
 "path": "local/arad/varfurile/2024/2",
 "kind": "local",
@@ -223,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-12-2024",
+"path": "local/arad/varfurile/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 12/2024 privind aprobarea alegerii președintelui ședințelor Consiliului Local Vârfurile, pentru perioada martie-mai 2024",
+"short": "HCL Vârfurile nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/143263",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-13-2024",
 "path": "local/arad/varfurile/2024/13",
 "kind": "local",
@@ -289,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-16-2024",
+"path": "local/arad/varfurile/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 16/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 25 martie 2024",
+"short": "HCL Vârfurile nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/149247",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-17-2024",
 "path": "local/arad/varfurile/2024/17",
 "kind": "local",
@@ -330,6 +396,29 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-19-2024",
+"path": "local/arad/varfurile/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 19/2024",
+"short": "HCL Vârfurile nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/149250",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -399,6 +488,28 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-23-2024",
+"path": "local/arad/varfurile/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 23/2024 privind aprobarea concesionării terenului intravilan înscris în CF nr.304443 Vârfurile, aflat în proprietatea publică a Comunei Vârfurile",
+"short": "HCL Vârfurile nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/149254",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-24-2024",
 "path": "local/arad/varfurile/2024/24",
 "kind": "local",
@@ -418,6 +529,50 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-25-2024",
+"path": "local/arad/varfurile/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 25/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 25 martie 2024",
+"short": "HCL Vârfurile nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/155474",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-26-2024",
+"path": "local/arad/varfurile/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 26/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 25 aprilie 2024",
+"short": "HCL Vârfurile nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/155475",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -511,6 +666,50 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-31-2024",
+"path": "local/arad/varfurile/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 31/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 25.04.2024",
+"short": "HCL Vârfurile nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/157040",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-32-2024",
+"path": "local/arad/varfurile/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 32/2024 privind aprobarea ordinii de zi a ședinței extraordinare de îndată a Consiliului Local Vârfurile din data de 23 mai 2024",
+"short": "HCL Vârfurile nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/157041",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-33-2024",
 "path": "local/arad/varfurile/2024/33",
 "kind": "local",
@@ -552,6 +751,94 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-35-2024",
+"path": "local/arad/varfurile/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 35/2024 privind alegerea președintelui ședințelor Consiliului Local Vârfurile pentru perioada iunie - august 2024",
+"short": "HCL Vârfurile nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/157044",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-36-2024",
+"path": "local/arad/varfurile/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 36/2024 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local Vârfurile din data de 23 mai 2024",
+"short": "HCL Vârfurile nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/159776",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-37-2024",
+"path": "local/arad/varfurile/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 37/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 21 iunie 2024",
+"short": "HCL Vârfurile nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/159777",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-38-2024",
+"path": "local/arad/varfurile/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 38/2024 privind aprobarea rezilierii Contractului de închiriere încheiat între Consiliul Local Vârfurile și dl.Slev Dorel-Nelu, privind spațiul în care și-a desfășurat activitatea de tâmplărie",
+"short": "HCL Vârfurile nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/159778",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -599,6 +886,29 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-41-2024",
+"path": "local/arad/varfurile/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 41/2024",
+"short": "HCL Vârfurile nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/159781",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--varfurile-42-2024",
 "path": "local/arad/varfurile/2024/42",
 "kind": "local",
@@ -621,6 +931,50 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-43-2024",
+"path": "local/arad/varfurile/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 43/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 21 iunie 2024",
+"short": "HCL Vârfurile nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166793",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-44-2024",
+"path": "local/arad/varfurile/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 44/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 28.08.2024",
+"short": "HCL Vârfurile nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166794",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-45-2024",
 "path": "local/arad/varfurile/2024/45",
 "kind": "local",
@@ -640,6 +994,29 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-46-2024",
+"path": "local/arad/varfurile/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 46/2024",
+"short": "HCL Vârfurile nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166796",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -709,6 +1086,50 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-50-2024",
+"path": "local/arad/varfurile/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 50/2024 privind aprobarea valorificării, prin vânzare la licitație publică, a volumului de 182,97 mc masă lemnoasă din pădurea comunală",
+"short": "HCL Vârfurile nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166800",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-51-2024",
+"path": "local/arad/varfurile/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 51/2024 privind aprobarea închirierii imobilului compus din construcția cu nr.cadastral 301503-C1 înscris sub A1.1 din CF nr.301503 Vârfurile, aflat în proprietatea publică a Comunei Vârfurile, în vederea amenajării unei săli multifuncționale",
+"short": "HCL Vârfurile nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166801",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-52-2024",
 "path": "local/arad/varfurile/2024/52",
 "kind": "local",
@@ -728,6 +1149,72 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-53-2024",
+"path": "local/arad/varfurile/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 53/2024 privind alegerea președintelui de ședință pentru perioada septembrie-octombrie 2024",
+"short": "HCL Vârfurile nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/166803",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-54-2024",
+"path": "local/arad/varfurile/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 54/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 28.08.2024",
+"short": "HCL Vârfurile nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/173123",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-55-2024",
+"path": "local/arad/varfurile/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 55/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 17 octombrie 2024",
+"short": "HCL Vârfurile nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/173124",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -776,6 +1263,51 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-58-2024",
+"path": "local/arad/varfurile/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 58/2024 privind numirea reprezentantului Consiliului Local Vârfurile în Consiliul de administrație și în Comisia de Evaluare și Asigurare a Calității din Școala Gimnazială Vârfurile, pentru anul școlar 2024-2025",
+"short": "HCL Vârfurile nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/173127",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-59-2024",
+"path": "local/arad/varfurile/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 59/2024",
+"short": "HCL Vârfurile nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/173128",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--varfurile-60-2024",
 "path": "local/arad/varfurile/2024/60",
 "kind": "local",
@@ -798,6 +1330,29 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-61-2024",
+"path": "local/arad/varfurile/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 61/2024",
+"short": "HCL Vârfurile nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-08",
+"latest": "2024-11-08",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/173130",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--varfurile-62-2024",
 "path": "local/arad/varfurile/2024/62",
 "kind": "local",
@@ -817,6 +1372,28 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-63-2024",
+"path": "local/arad/varfurile/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 63/2024 privind alegerea președintelui de ședință pentru perioada noiembrie-decembrie 2024",
+"short": "HCL Vârfurile nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/175742",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -864,6 +1441,50 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-66-2024",
+"path": "local/arad/varfurile/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 66/2024 privind aprobarea proceselor verbale ale: ședinței ordinare a Consiliului Local Vârfurile din data de 17.10.2024, ședinței privind ceremonia de constituire a Consiliului Local Vârfurile din data de 06.11.2024 și ședinței extraordinare a Consiliului Local Vârfurile din data de 11.11.2024",
+"short": "HCL Vârfurile nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/177910",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-67-2024",
+"path": "local/arad/varfurile/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 67/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 21.11.2024",
+"short": "HCL Vârfurile nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/177911",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-68-2024",
 "path": "local/arad/varfurile/2024/68",
 "kind": "local",
@@ -883,6 +1504,29 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-69-2024",
+"path": "local/arad/varfurile/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 69/2024",
+"short": "HCL Vârfurile nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/177913",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1016,6 +1660,72 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-76-2024",
+"path": "local/arad/varfurile/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 76/2024 privind aprobarea valorificării, prin vânzare la licitație publică, a volumului de 182,97 mc masă lemnoasă din pădurea comunală",
+"short": "HCL Vârfurile nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/177920",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-77-2024",
+"path": "local/arad/varfurile/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 77/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 21.11.2024",
+"short": "HCL Vârfurile nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/181936",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-78-2024",
+"path": "local/arad/varfurile/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 78/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Vârfurile din data de 13.12.2024",
+"short": "HCL Vârfurile nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/181937",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

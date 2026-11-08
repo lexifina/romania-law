@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/savarsin/2020",
+"acts": [
+{
+"slug": "hcl-arad--savarsin-75-2020",
+"path": "local/arad/savarsin/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 75/2020 privind desemnarea reprezentantului Comunei Savarsin in Consiliul de Administratie al Regiei Publice Locale ,,Ocolul Silvic Valea Muresului” R.A.Barzava Consiliul local al comunei Savarsin, judetul Arad, intrunit in sedinta ordinara, Avand in vedere: -referatul de aprobare nr. 1434/12.09.2025 a primarului comunei privind desemnarea reprezentantului Comunei Savarsin in Consiliul de Administratie al",
+"short": "HCL Săvârșin nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+"council": "arad/savarsin",
+"council_name": "Consiliul Local al Comunei Săvârșin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

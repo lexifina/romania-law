@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-arad--secusigiu-6-2026",
+"path": "local/arad/secusigiu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 6/2026 privind închirierea prin licitaţie publică a unor loturi agricole care se afla în administrarea comunei Secusigiu sau a Statului Român",
+"short": "HCL Secusigiu nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/258087",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--secusigiu-7-2026",
 "path": "local/arad/secusigiu/2026/7",
 "kind": "local",
@@ -154,6 +176,29 @@
 "council_name": "Consiliul Local al Comunei Secusigiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-9-2026",
+"path": "local/arad/secusigiu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 9/2026",
+"short": "HCL Secusigiu nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/258090",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -883,6 +928,28 @@
 }
 },
 {
+"slug": "hcl-arad--secusigiu-43-2026",
+"path": "local/arad/secusigiu/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 43/2026 privind abrogarea HCL nr. 6/26.02.2026 privind închirierea prin licitaţie publică a unor loturi agricole care se afla în administrarea comunei Secusigiu sau a Statului Român",
+"short": "HCL Secusigiu nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/274921",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--secusigiu-44-2026",
 "path": "local/arad/secusigiu/2026/44",
 "kind": "local",
@@ -1302,6 +1369,50 @@
 }
 },
 {
+"slug": "hcl-arad--secusigiu-63-2026",
+"path": "local/arad/secusigiu/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 63/2026 privind numirea reprezentanților Consiliului local în Consiliul de administrație al Școlii Gimnaziale Secusigiu",
+"short": "HCL Secusigiu nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/289556",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-64-2026",
+"path": "local/arad/secusigiu/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 64/2026 privind desemnarea unui reprezentant al consiliului local şi a unui membru supleant în comisiile de evaluare a probei de interviu la concursul pentru ocuparea funcţiilor vacante de_director şi director adjunct din unitatea de învăţământ preuniversitare de stat, sesiunea august-decembrie 2026",
+"short": "HCL Secusigiu nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/289557",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--secusigiu-65-2026",
 "path": "local/arad/secusigiu/2026/65",
 "kind": "local",
@@ -1343,6 +1454,50 @@
 "council_name": "Consiliul Local al Comunei Secusigiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-67-2026",
+"path": "local/arad/secusigiu/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 67/2026 privind acordarea unui sprijin financiar pentru unităţile de cult - Parohia Ortodoxă Româna Sânpetru German, din bugetul local al comunei Secusigiu pe anul 2026",
+"short": "HCL Secusigiu nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/289560",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-68-2026",
+"path": "local/arad/secusigiu/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 68/2026 privind acordarea unui sprijin financiar pentru unităţile de cult - Parohia Ortodoxă Româna Satu Mare, din bugetul local al comunei Secusigiu pe anul 2026",
+"short": "HCL Secusigiu nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/289561",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1409,6 +1564,28 @@
 "council_name": "Consiliul Local al Comunei Secusigiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-72-2026",
+"path": "local/arad/secusigiu/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 72/2026 privind acordarea unui sprijin financiar pentru unităţile de cult - Parohia Ortodoxă Româna Secusigiu, din bugetul local al comunei Secusigiu pe anul 2026",
+"short": "HCL Secusigiu nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/289565",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

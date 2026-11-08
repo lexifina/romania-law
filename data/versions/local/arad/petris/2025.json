@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-10-2025",
+   "path": "local/arad/petris/2025/10",
+   "short": "HCL Petriș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 10/2025 privind trecerea din domeniul privat al comunei Petriș în domeniul public al comunei Petriș a terenului înscris în CF 306590 Petriș, nr. cadastral 306590, în suprafață de 280 mp, situat în localitatea Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188966",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-100-2025",
    "path": "local/arad/petris/2025/100",
    "short": "HCL Petriș nr. 100/2025",
@@ -28,6 +43,21 @@
      "from": "2025-11-07",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/232042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-101-2025",
+   "path": "local/arad/petris/2025/101",
+   "short": "HCL Petriș nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 101/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/235436",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/235436",
      "sha256": null
     }
    ]
@@ -363,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-13-2025",
+   "path": "local/arad/petris/2025/13",
+   "short": "HCL Petriș nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 13/2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/188969",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/188969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-14-2025",
    "path": "local/arad/petris/2025/14",
    "short": "HCL Petriș nr. 14/2025",
@@ -373,6 +418,21 @@
      "from": "2025-02-07",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/188970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-15-2025",
+   "path": "local/arad/petris/2025/15",
+   "short": "HCL Petriș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 15/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194946",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194946",
      "sha256": null
     }
    ]
@@ -463,6 +523,21 @@
      "from": "2025-03-07",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/194951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-21-2025",
+   "path": "local/arad/petris/2025/21",
+   "short": "HCL Petriș nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 21/2025 privind aprobarea trecerii din domeniul public al comunei Petriș în domeniul public al județului Arad a imobilului înscris în CF 306590 Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/194952",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/194952",
      "sha256": null
     }
    ]
@@ -603,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-30-2025",
+   "path": "local/arad/petris/2025/30",
+   "short": "HCL Petriș nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 30/2025 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/196849",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/196849",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-31-2025",
    "path": "local/arad/petris/2025/31",
    "short": "HCL Petriș nr. 31/2025",
@@ -643,6 +733,36 @@
      "from": "2025-03-27",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/197657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-34-2025",
+   "path": "local/arad/petris/2025/34",
+   "short": "HCL Petriș nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 34/2025 privind aprobarea documentațiilor cadastrale de primă înscriere unor imobile aparținând domeniului public al Comunei Petriș, având destinaţia de stradă",
+   "url": "https://emol.ro/petris-ar/registru-hcl/197658",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/197658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-35-2025",
+   "path": "local/arad/petris/2025/35",
+   "short": "HCL Petriș nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 35/2025 privind aprobarea primei înscrieri în domeniul privat al Comunei Petriș a unui imobil situat în localitatea Ilteu",
+   "url": "https://emol.ro/petris-ar/registru-hcl/197659",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/197659",
      "sha256": null
     }
    ]
@@ -693,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-39-2025",
+   "path": "local/arad/petris/2025/39",
+   "short": "HCL Petriș nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 39/2025 privind stabilirea impozitelor, taxelor locale și a taxelor speciale, începând cu 01 ianuarie 2026 la nivelul comunei Petriș, județ Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204456",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-4-2025",
    "path": "local/arad/petris/2025/4",
    "short": "HCL Petriș nr. 4/2025",
@@ -708,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-40-2025",
+   "path": "local/arad/petris/2025/40",
+   "short": "HCL Petriș nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 40/2025 pentru revocarea Hotărârii Consiliului Local Petriș nr. 115/13.12.2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Petriș, care se aplică începând cu data de 01.01.2025",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204457",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204457",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-41-2025",
    "path": "local/arad/petris/2025/41",
    "short": "HCL Petriș nr. 41/2025",
@@ -718,6 +868,21 @@
      "from": "2025-05-06",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/204458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-42-2025",
+   "path": "local/arad/petris/2025/42",
+   "short": "HCL Petriș nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 42/2025 privind darea în administrare către unităţile de învăţământ preuniversitar de stat din Comuna Petriș, a imobilelor în care îşi desfăşoară activitatea educaţională",
+   "url": "https://emol.ro/petris-ar/registru-hcl/204459",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/204459",
      "sha256": null
     }
    ]
@@ -763,6 +928,21 @@
      "from": "2025-05-06",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/204462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-46-2025",
+   "path": "local/arad/petris/2025/46",
+   "short": "HCL Petriș nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 46/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207259",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207259",
      "sha256": null
     }
    ]
@@ -858,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-52-2025",
+   "path": "local/arad/petris/2025/52",
+   "short": "HCL Petriș nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 52/2025 privind aprobarea participării la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025 - 2030”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/207265",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/207265",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-53-2025",
    "path": "local/arad/petris/2025/53",
    "short": "HCL Petriș nr. 53/2025",
@@ -888,6 +1083,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-55-2025",
+   "path": "local/arad/petris/2025/55",
+   "short": "HCL Petriș nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 55/2025 privind aprobarea cesiunii contractului de închiriere nr. 3619 din 30.09.2024 încheiat între comuna Petriș, județ Arad și FBR Forest One S.R.L",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213800",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-56-2025",
+   "path": "local/arad/petris/2025/56",
+   "short": "HCL Petriș nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 56/2025 privind aprobarea Strategiei de dezvoltare a serviciului de salubrizare a Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor Judeţul Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213801",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-57-2025",
    "path": "local/arad/petris/2025/57",
    "short": "HCL Petriș nr. 57/2025",
@@ -898,6 +1123,36 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/213802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-58-2025",
+   "path": "local/arad/petris/2025/58",
+   "short": "HCL Petriș nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 58/2025 privind aprobarea documentațiilor cadastrale de primă înscriere a unor imobile aparținând domeniului public al Comunei Petriș, având destinaţia de stradă",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213803",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-59-2025",
+   "path": "local/arad/petris/2025/59",
+   "short": "HCL Petriș nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 59/2025 privind repoziționarea și modificarea unor imobile aparținând domeniului public și privat al comunei Petriș, județul Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213804",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213804",
      "sha256": null
     }
    ]
@@ -918,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-60-2025",
+   "path": "local/arad/petris/2025/60",
+   "short": "HCL Petriș nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 60/2025 privind aprobarea închirierii unor imobile, situate în extravilanul localității Petriș, proprietate privată a comunei Petriș, județul Arad, în vederea desfășurării de activități comerciale/prestări servicii",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213805",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213805",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-61-2025",
    "path": "local/arad/petris/2025/61",
    "short": "HCL Petriș nr. 61/2025",
@@ -928,6 +1198,21 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/213806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-62-2025",
+   "path": "local/arad/petris/2025/62",
+   "short": "HCL Petriș nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 62/2025 privind aprobarea Regulamentului propriu de organizare și funcţionare prezentat strict pentru activitățile de colectare și transport al serviciului public de salubrizare al Asociaţiei de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deşeurilor judeţul Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/213807",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/213807",
      "sha256": null
     }
    ]
@@ -978,6 +1263,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-66-2025",
+   "path": "local/arad/petris/2025/66",
+   "short": "HCL Petriș nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 66/2025 privind aprobarea tarifelor și a Actului adițional nr. 4 la Contractul de gestiune directă a serviciului de salubrizare privind sortarea deşeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică, în cadrul proiectului Sistem de Management Integrat al Deșeurilor Solide în Județul Arad, nr. 772/02.02.2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219990",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-67-2025",
+   "path": "local/arad/petris/2025/67",
+   "short": "HCL Petriș nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 67/2025 privind aprobarea taxelor pentru înregistrarea, evidența și radierea vehiculelor de pe raza comunei Petriș, județ Arad care nu se supun înmatriculării",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219991",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-68-2025",
+   "path": "local/arad/petris/2025/68",
+   "short": "HCL Petriș nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 68/2025 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219992",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-69-2025",
    "path": "local/arad/petris/2025/69",
    "short": "HCL Petriș nr. 69/2025",
@@ -1003,6 +1333,21 @@
      "from": "2025-02-07",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/188963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-70-2025",
+   "path": "local/arad/petris/2025/70",
+   "short": "HCL Petriș nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 70/2025 pentru modificarea Hotărârii Consiliului Local Petriș nr. 59/25.06.2025 privind repoziționarea și modificarea unor imobile aparținând domeniului public și privat al comunei Petriș, județul Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/219994",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/219994",
      "sha256": null
     }
    ]
@@ -1053,6 +1398,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-74-2025",
+   "path": "local/arad/petris/2025/74",
+   "short": "HCL Petriș nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 74/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222743",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-75-2025",
    "path": "local/arad/petris/2025/75",
    "short": "HCL Petriș nr. 75/2025",
@@ -1093,6 +1453,21 @@
      "from": "2025-09-02",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/222746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-78-2025",
+   "path": "local/arad/petris/2025/78",
+   "short": "HCL Petriș nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 78/2025 privind stabilirea prețului de pornire la licitație pentru vânzare masă lemnoasă pe picior către agenți economici atestați",
+   "url": "https://emol.ro/petris-ar/registru-hcl/222747",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/222747",
      "sha256": null
     }
    ]
@@ -1218,6 +1593,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-86-2025",
+   "path": "local/arad/petris/2025/86",
+   "short": "HCL Petriș nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 86/2025 privind darea în administrare a imobilului înscris în CF 305440 aparținând domeniului public al comunei Petriș",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228141",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228141",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-87-2025",
    "path": "local/arad/petris/2025/87",
    "short": "HCL Petriș nr. 87/2025",
@@ -1278,6 +1668,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-90-2025",
+   "path": "local/arad/petris/2025/90",
+   "short": "HCL Petriș nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 90/2025 privind aprobarea proiectului de investiții și a documentației tehnice - Memoriu justificativ - pentru investiția ,,Dotarea cu echipamente a Compartimentului Locuințe, Servicii și Dezvoltare Publică al Primăriei comunei Petriș, județul Arad”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228145",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-91-2025",
+   "path": "local/arad/petris/2025/91",
+   "short": "HCL Petriș nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 91/2025 privind respingerea modificării tarifelor aferente Contractului nr. 5430/29.12.2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228146",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-92-2025",
+   "path": "local/arad/petris/2025/92",
+   "short": "HCL Petriș nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 92/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zona 5, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228147",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228147",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-93-2025",
    "path": "local/arad/petris/2025/93",
    "short": "HCL Petriș nr. 93/2025",
@@ -1288,6 +1723,51 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/228148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-94-2025",
+   "path": "local/arad/petris/2025/94",
+   "short": "HCL Petriș nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 94/2025 privind implementarea proiectului ,,Dotarea cu echipamente a Compartimentului Locuințe, Servicii și Dezvoltare Publică al Primăriei comunei Petriș, județul Arad”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228149",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-95-2025",
+   "path": "local/arad/petris/2025/95",
+   "short": "HCL Petriș nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 95/2025 privind respingerea modificării tarifelor aferente Contractului nr. 4850/23.11.2023",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228150",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-96-2025",
+   "path": "local/arad/petris/2025/96",
+   "short": "HCL Petriș nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 96/2025 privind aprobarea ajustării tarifelor distincte facturate de către operatorul FCC Enviroment Romania SRL aferente Contractului nr. 3640/09.09.2024",
+   "url": "https://emol.ro/petris-ar/registru-hcl/228151",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/228151",
      "sha256": null
     }
    ]

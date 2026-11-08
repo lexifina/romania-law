@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/moneasa/2022",
+ "acts": [
+  {
+   "slug": "hcl-arad--moneasa-108-2022",
+   "path": "local/arad/moneasa/2022/108",
+   "short": "HCL Moneasa nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Moneasa nr. 108/2022",
+   "url": "https://primariamoneasa.ro/page/5/",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://primariamoneasa.ro/wp-content/uploads/2023/03/codul-de-etica.pdf",
+     "sha256": "694733ba4cb9cbb8ea5abfec1cbc72cdc32d63086d55fc69f0a764c17297db13"
+    }
+   ]
+  }
+ ]
+}

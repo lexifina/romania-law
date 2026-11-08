@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sicula/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--sicula-36-2025",
+   "path": "local/arad/sicula/2025/36",
+   "short": "HCL Șicula nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șicula nr. 36/2025",
+   "url": "https://sicula.ro/page/5/",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://sicula.ro/wp-content/uploads/2025/10/2.-Hotararea-nr.-36-din-15.10.2025-aprob.-Act-adit.-16-la-Co.-704-2019.pdf",
+     "sha256": "5f5677a0f02542f8f1a47051268710b9d84d90c00f8e9ddf5bf22f91c5cfea9d"
+    }
+   ]
+  }
+ ]
+}

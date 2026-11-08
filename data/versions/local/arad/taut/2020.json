@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/arad/taut/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--taut-1-2020",
+   "path": "local/arad/taut/2020/1",
+   "short": "HCL Tauț nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 1/2020 privind aprobarea procesului verbal pt.sedinta ordinara din data de 18.12.2020",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.128.01.2020privind-aprobarea-procesului-verbal-pt.sedinta-ordinara-din-data-de-18.12.2020.pdf",
+     "sha256": "ccb6a42110a0ff9c884066f8ceb41e52eefc0639bb1ee38f08f1cf100a5ecd1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-68-2020",
+   "path": "local/arad/taut/2020/68",
+   "short": "HCL Tauț nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 68/2020 privind aprobarea Ordinei de zi",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.6818.12.2020privind-aprobarea-Ordinei-de-zi.pdf",
+     "sha256": "2c48f632bae13b9fca001a0119a1fb93c91347550f56183ec73822e8e3d04b30"
+    }
+   ]
+  }
+ ]
+}

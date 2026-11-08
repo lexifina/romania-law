@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Macea nr. 111/2023 privind numirea reprezentanţilor Consiliului Local Macea în Consiliul de administraţie al Școlii Gimanziale „Pavel Covaci” Macea, precum și a reprezentantului în cadrul Consiliului de administrație al Școlii „Speranța" Macea, pentru anul școlar 2023-2024
+
+HCL Macea nr. 111/2023 · 1 versions, from 2023-10-25 (latest in force: 2023-10-25) · <https://emol.ro/macea-ar/registru-hcl/121250>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--macea-111-2023` (tags `hcl-arad--macea-111-2023/<day>`; `python tools/on.py <day> hcl-arad--macea-111-2023`).
+
+## Decisions made by hand
+
+- HCL Macea nr. 111/2023: listed from Consiliul Local al Comunei Macea (emol.ro); an individual decision: metadata only.
+- HCL Macea nr. 111/2023: dated from 25 October 2023, the day the council's register gives it as published (adopted 20 September 2023).
+- HCL Macea nr. 111/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

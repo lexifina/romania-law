@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/moneasa/2021",
+"acts": [
+{
+"slug": "hcl-arad--moneasa-141-2021",
+"path": "local/arad/moneasa/2021/141",
+"kind": "local",
+"year": "2021",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moneasa nr. 141/2021",
+"short": "HCL Moneasa nr. 141/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-15",
+"latest": "2021-09-15",
+"portal": "https://primariamoneasa.ro/page/8/",
+"council": "arad/moneasa",
+"council_name": "Consiliul Local al Comunei Moneasa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sepreus/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--sepreus-10-2024",
+   "path": "local/arad/sepreus/2024/10",
+   "short": "HCL Șepreuș nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 10/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/05/Hotararea-nr.-10-din-29.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/05/Hotararea-nr.-10-din-29.05.2024.pdf",
+     "sha256": "e8bd99215cb4b8bbdd0e742ee1ac8a8b8654f4bbd18937d9b4c3c4bd79e30f8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sepreus-5-2024",
+   "path": "local/arad/sepreus/2024/5",
+   "short": "HCL Șepreuș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 5/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-5-din-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-5-din-29.04.2024.pdf",
+     "sha256": "1d4d7c8e322c2e23a23b092ca2797f975a253201567d43566cae5fae256c0d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sepreus-6-2024",
+   "path": "local/arad/sepreus/2024/6",
+   "short": "HCL Șepreuș nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 6/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-6-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-6-din-30.04.2024.pdf",
+     "sha256": "bae52e2c1fb6a9b0de28458da93e02d4f981ccd3a538cf7671fbf14223b9db7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sepreus-7-2024",
+   "path": "local/arad/sepreus/2024/7",
+   "short": "HCL Șepreuș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 7/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-7-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-7-din-30.04.2024.pdf",
+     "sha256": "76d4aaff53ea8ec842f9fc07493f0bee2231e794d2e75f1ee306a46f5c0dee90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sepreus-8-2024",
+   "path": "local/arad/sepreus/2024/8",
+   "short": "HCL Șepreuș nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 8/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-8-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-8-din-30.04.2024.pdf",
+     "sha256": "e70da03f28ebb6d7da59c95240b9d556e96d927e0e60263d054797a4cd32c8c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sepreus-9-2024",
+   "path": "local/arad/sepreus/2024/9",
+   "short": "HCL Șepreuș nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șepreuș nr. 9/2024",
+   "url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-9-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://sepreus.ro/wp-content/uploads/2024/04/Hotararea-nr.-9-din-30.04.2024.pdf",
+     "sha256": "40511686a7560e611636f5c56bead3107369221a78fff6cd2f05a66cfdd8b52a"
+    }
+   ]
+  }
+ ]
+}

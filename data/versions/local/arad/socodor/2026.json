@@ -468,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-25-2026",
+   "path": "local/arad/socodor/2026/25",
+   "short": "HCL Socodor nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 25/2026 privind aprobarea susținerii proiectului, disponibilitatea contribuției proprii și numirea membrilor din echipa de implementare pentru proiectul „Cooperare transfrontalieră între locuitorii teritoriilor Socodor și Ketegyhaza”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/256169",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/256169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-26-2026",
+   "path": "local/arad/socodor/2026/26",
+   "short": "HCL Socodor nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 26/2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/256170",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/256170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-27-2026",
    "path": "local/arad/socodor/2026/27",
    "short": "HCL Socodor nr. 27/2026",
@@ -573,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-33-2026",
+   "path": "local/arad/socodor/2026/33",
+   "short": "HCL Socodor nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 33/2026 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile februarie și martie 2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/260826",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/260826",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-34-2026",
    "path": "local/arad/socodor/2026/34",
    "short": "HCL Socodor nr. 34/2026",
@@ -628,6 +673,21 @@
      "from": "2026-04-08",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/260830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-38-2026",
+   "path": "local/arad/socodor/2026/38",
+   "short": "HCL Socodor nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 38/2026 privind aprobarea propunerilor de criterii pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, construit de către Agenția Națională pentru Locuințe în comuna Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/260831",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/260831",
      "sha256": null
     }
    ]
@@ -888,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-54-2026",
+   "path": "local/arad/socodor/2026/54",
+   "short": "HCL Socodor nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 54/2026 privind aprobarea suportului alimentar acordat preșcolarilor si elevilor în cadrul Programului naţional \"Masă sănătoasă\" în anul 2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/267294",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/267294",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-55-2026",
    "path": "local/arad/socodor/2026/55",
    "short": "HCL Socodor nr. 55/2026",
@@ -898,6 +973,21 @@
      "from": "2026-05-23",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/267295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-56-2026",
+   "path": "local/arad/socodor/2026/56",
+   "short": "HCL Socodor nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 56/2026 privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, în comuna Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/267296",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/267296",
      "sha256": null
     }
    ]
@@ -1048,6 +1138,21 @@
      "from": "2026-07-03",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/275914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-66-2026",
+   "path": "local/arad/socodor/2026/66",
+   "short": "HCL Socodor nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 66/2026 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Socodor pentru unele unităţi de cult din Comuna Socodor în anul 2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/275915",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/275915",
      "sha256": null
     }
    ]
@@ -1248,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-79-2026",
+   "path": "local/arad/socodor/2026/79",
+   "short": "HCL Socodor nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 79/2026 privind aprobarea Regulamentului privind repartizarea și închirierea locuințelor nZEB plus pentru tineri, aflate în proprietatea publică a Comunei Socodor și a structurii comisiei de analiză a cererilor privind repartizarea",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/281371",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/281371",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-8-2026",
    "path": "local/arad/socodor/2026/8",
    "short": "HCL Socodor nr. 8/2026",
@@ -1438,6 +1558,21 @@
      "from": "2026-10-07",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/285354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-91-2026",
+   "path": "local/arad/socodor/2026/91",
+   "short": "HCL Socodor nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 91/2026 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/285355",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/285355",
      "sha256": null
     }
    ]

@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-arad--varadia-de-mures-7-2024",
+"path": "local/arad/varadia-de-mures/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 7/2024 privind scoaterea la licitație publică în vederea închirierii unui spaţiului cu destinația de cabinet veterinar din imobilul situat în localitatea Vărădia de Mureș, aflat în domeniul privat al comunei Vărădia de Mureș",
+"short": "HCL Vărădia de Mureș nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/141014",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varadia-de-mures-8-2024",
 "path": "local/arad/varadia-de-mures/2024/8",
 "kind": "local",
@@ -617,6 +639,28 @@
 "council_name": "Consiliul Local al Comunei Vărădia de Mureș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-30-2024",
+"path": "local/arad/varadia-de-mures/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 30/2024 privind aprobarea unui sprijin financiar în suma de 15.000 lei Bisericii Ortodoxe Vărădia de Mureș - Filia Stejar pentru lucrări de reparaţii exterioare",
+"short": "HCL Vărădia de Mureș nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-13",
+"latest": "2024-06-13",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/154019",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1190,6 +1234,52 @@
 "council_name": "Consiliul Local al Comunei Vărădia de Mureș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-57-2024",
+"path": "local/arad/varadia-de-mures/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 57/2024",
+"short": "HCL Vărădia de Mureș nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/171264",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-58-2024",
+"path": "local/arad/varadia-de-mures/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 58/2024",
+"short": "HCL Vărădia de Mureș nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/171265",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
