@@ -1,0 +1,59 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.4/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ
+
+**Became:** [Legea nr. 155/2021](../../../../lege/2021/155/) (`legea-155-2021`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-155-2021`.
+
+Proiect de lege L22/2021 · initiator: Guvernul României · 8 published stages, 2021-02-03 to 2021-06-04 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L22&an_cls=2021>
+
+- Senate number: L22/2021
+- Type: Proiect de lege
+- Character: -
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 24/25.01.2021
+- Stage in the bill file: A devenit Legea nr.155/04.06.2021 publicatã în M.O. nr.571/04.06.2021
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2021-l22-2021/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2021-02-03 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2021-02-12 | documents published: Aviz comisie |
+| 2021-02-17 | documents published: Aviz comisie |
+| 2021-03-04 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2021-03-10 | registered at the Chamber of Deputies |
+| 2021-05-26 | adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2021-05-28 | sent for promulgation |
+| 2021-06-04 | promulgated, becomes Legea nr. 155/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-c06fdaee.md](ad-c06fdaee.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [afp-b971fac5.md](afp-b971fac5.md) | Adresă privind forma promulgată (AFP), as published |
+| [am-6fea6fce.md](am-6fea6fce.md) | Adresă către Camera Deputaților (AM), as published |
+| [ca3-34d25aec.md](ca3-34d25aec.md) | Aviz comisie (CA3), as published |
+| [ca45-22d80a36.md](ca45-22d80a36.md) | Aviz comisie (CA45), as published |
+| [ca8-48384246.md](ca8-48384246.md) | Aviz comisie (CA8), as published |
+| [dp-c737f162.md](dp-c737f162.md) | Decret de promulgare (DP), as published |
+| [em-0f96ec24.md](em-0f96ec24.md) | Expunere de motive (EM), as published |
+| [fg-c0f9e149.md](fg-c0f9e149.md) | Forma inițiatorului (FG), as published |
+| [fp-c3a3d13b.md](fp-c3a3d13b.md) | Forma promulgată (FP), as published |
+| [fs-78e6f303.md](fs-78e6f303.md) | Forma adoptată de Senat (FS), as published |
+| [hg-99e0f0be.md](hg-99e0f0be.md) | Document (HG), as published |
+| [lg-72b598ff.md](lg-72b598ff.md) | Aviz Consiliul Legislativ (LG), as published |
+| [og-8e919a13.md](og-8e919a13.md) | Document (OG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2021-l22-2021`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L22/2021: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L22/2021: comments by private persons are not collected or published; initiators are credited as a body.

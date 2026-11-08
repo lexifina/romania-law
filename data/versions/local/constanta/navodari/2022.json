@@ -3,6 +3,321 @@
  "shard": "local/constanta/navodari/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--navodari-1-2022",
+   "path": "local/constanta/navodari/2022/1",
+   "short": "HCL Năvodari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 1/2022 privind aprobarea bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr1-din-10.02.2022.pdf",
+     "sha256": "1154fe2128c34c508c5915235ddea3837438323d0e92de24612fa50fb3d6355b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-10-2022",
+   "path": "local/constanta/navodari/2022/10",
+   "short": "HCL Năvodari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 10/2022 cu privire la aprobarea chiriei pentru locuinte, curti si gradini aferente suprafetelor locative",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr10-din-10.02.2022.pdf",
+     "sha256": "a2973b59e7171e2c3e24f0c05ee7f0c2790d665a7bac25f061c7e2d6d709ea03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-100-2022",
+   "path": "local/constanta/navodari/2022/100",
+   "short": "HCL Năvodari nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 100/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr100-din-28.04.2022.pdf",
+     "sha256": "8d60c76f8a5d83eee3940d31e022d5af1a7b66fcddbe95aca2731321b6a4c66e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-101-2022",
+   "path": "local/constanta/navodari/2022/101",
+   "short": "HCL Năvodari nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 101/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr101-din-28.04.2022.pdf",
+     "sha256": "5b6e532a5548f4724c8a067bd0596da7820ff5f3703b3bf78fc7768089335df9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-102-2022",
+   "path": "local/constanta/navodari/2022/102",
+   "short": "HCL Năvodari nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 102/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr102-din-28.04.2022.pdf",
+     "sha256": "281fba685580507439514c6e6314d8e69588608286ee8264e3e40e1b8bdd4e46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-103-2022",
+   "path": "local/constanta/navodari/2022/103",
+   "short": "HCL Năvodari nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 103/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr103-din-28.04.2022.pdf",
+     "sha256": "fd6640cc98e3743b81a62eb67cd2b69279ebef4f369882f5bab23267ae838d6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-104-2022",
+   "path": "local/constanta/navodari/2022/104",
+   "short": "HCL Năvodari nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 104/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr104-din-28.04.2022.pdf",
+     "sha256": "2b192823d07fdfc0b6c58fdeb021a4ef864df3d1b0c53704af65e1da12918f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-105-2022",
+   "path": "local/constanta/navodari/2022/105",
+   "short": "HCL Năvodari nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 105/2022 privind vanzarea prin licitatie a unui teren situat in Navodari, strada A1 (lot 66/2/1), judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr105-din-28.04.2022.pdf",
+     "sha256": "a4d6f4222281f80a06a1e8ee2e07e1079d443a5e085ad5771d812b8735a2b000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-106-2022",
+   "path": "local/constanta/navodari/2022/106",
+   "short": "HCL Năvodari nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 106/2022 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Promenada Navodari fn, lot 3, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr106-din-28.04.2022.pdf",
+     "sha256": "8b3548726670aa778f6400e05831467ca7f52a3fe602b22cd64a05b2795e9809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-107-2022",
+   "path": "local/constanta/navodari/2022/107",
+   "short": "HCL Năvodari nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 107/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr107-din-28.04.2022.pdf",
+     "sha256": "66b55a2a4951e266c8ab2f45a92245297f158ed6b0d964968f526089e7dcefac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-108-2022",
+   "path": "local/constanta/navodari/2022/108",
+   "short": "HCL Năvodari nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 108/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr108-din-28.04.2022.pdf",
+     "sha256": "f4297dc55b9323587e4bdc057bb828539eea972ced3515184ced8af838fbc18f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-109-2022",
+   "path": "local/constanta/navodari/2022/109",
+   "short": "HCL Năvodari nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 109/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr109-din-28.04.2022.pdf",
+     "sha256": "f0b9eb86014d0c1f30e08c6f7090b82dd7385c7c00215fe76daa8afe104279f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-11-2022",
+   "path": "local/constanta/navodari/2022/11",
+   "short": "HCL Năvodari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 11/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr11-din-10.02.2022.pdf",
+     "sha256": "1864f0db06d7ba0988d9a03f9b581c5ffe5d2f8c4f161a0779e5191767added7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-110-2022",
+   "path": "local/constanta/navodari/2022/110",
+   "short": "HCL Năvodari nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 110/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr110-din-28.04.2022.pdf",
+     "sha256": "c6a9756ec06fda70e283e6507f03cb74a004e6b8fcab6a64e3552d4568590d14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-111-2022",
+   "path": "local/constanta/navodari/2022/111",
+   "short": "HCL Năvodari nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 111/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr111-din-28.04.2022.pdf",
+     "sha256": "c3599a686c054219bd9f71dd2d8e801df23f25db00a5ff0e30d961a25f7710a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-112-2022",
+   "path": "local/constanta/navodari/2022/112",
+   "short": "HCL Năvodari nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 112/2022 privind aprobarea Bugetului de venituri si cheltuieli pentru anul 2022 al S.C TERMICA DISTRIBUTIE NAVODARI S.R.L",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr112-din-28.04.2022.pdf",
+     "sha256": "2dcf2b4272e514e80f77fef4bcc09f90da09c90aa39c7b08f706fd4223653fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-113-2022",
+   "path": "local/constanta/navodari/2022/113",
+   "short": "HCL Năvodari nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 113/2022 privind acordarea unui ajutor de urgenta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr113-din-28.04.2022.pdf",
+     "sha256": "c4ec7af968d8dc1c2eca49313d3e3d782e355c90ed0e8b12afef884ab770c2f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-114-2022",
+   "path": "local/constanta/navodari/2022/114",
+   "short": "HCL Năvodari nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 114/2022 privind stabilirea salariilor de baza pentru personalul contractual din cadrul Clubului Sportiv Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr114-din-28.04.2022.pdf",
+     "sha256": "3d6b6072fb2ae12ccf149835012955bd9f32b33841d46937014469a00e204ce5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-115-2022",
+   "path": "local/constanta/navodari/2022/115",
+   "short": "HCL Năvodari nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 115/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr115-din-28.04.2022.pdf",
+     "sha256": "84f1031a7b131822a8300ca1e8a305a899dcecc03fbb283c6cba426fb2408460"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-116-2022",
+   "path": "local/constanta/navodari/2022/116",
+   "short": "HCL Năvodari nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 116/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr116-din-28.04.2022.pdf",
+     "sha256": "dae3ba419d57f14531c988790c89ee8ff172bfcb31552f5eac7983dd6f72cf65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-12-2022",
+   "path": "local/constanta/navodari/2022/12",
+   "short": "HCL Năvodari nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 12/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr12-din-10.02.2022.pdf",
+     "sha256": "c58e799b462e56e33ca33c725479f42382cedb3a1dd2553f1ac75c1363fc6e63"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-123-2022",
    "path": "local/constanta/navodari/2022/123",
    "short": "HCL Năvodari nr. 123/2022",
@@ -14,6 +329,441 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr123-din-04.05.2022.pdf",
      "sha256": "adddeecfb8c2509c5f81a5febaef678aa5f2a1661414096ff32961ddcc571704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-127-2022",
+   "path": "local/constanta/navodari/2022/127",
+   "short": "HCL Năvodari nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 127/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr127-din-24.05.2022.pdf",
+     "sha256": "57d2d13764e4218c597187395f2d65ede330475fc0ce20eaa913995fc17d56b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-128-2022",
+   "path": "local/constanta/navodari/2022/128",
+   "short": "HCL Năvodari nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 128/2022 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii â Bransare la sistemul de gaze naturale pentru Sediul Primariei, str. Dobrogei, nr. 1â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr128-din-24.05.2022.pdf",
+     "sha256": "ef3fb49e14338199646b42b33e0c73173f54657c9b667a2640190299affff654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-129-2022",
+   "path": "local/constanta/navodari/2022/129",
+   "short": "HCL Năvodari nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 129/2022 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii â Bransare la sistemul de gaze naturale pentru CladireaÂ 29 , str. Tineretului, nr. 3â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr129-din-24.05.2022.pdf",
+     "sha256": "b792270e9148dadfd8829bcd90b4632aaf87aad64c35d1cac08343633012be52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-13-2022",
+   "path": "local/constanta/navodari/2022/13",
+   "short": "HCL Năvodari nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 13/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr13-din-10.02.2022.pdf",
+     "sha256": "55f46c5518c4477d2927f79650709c7fb096a5c213dfe3bd7f6f22eaac55ab20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-131-2022",
+   "path": "local/constanta/navodari/2022/131",
+   "short": "HCL Năvodari nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 131/2022 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii â Bransare la sistemul de gaze naturale pentru Centru de Permanenta, str. Albinelorâ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr131-din-24.05.2022.pdf",
+     "sha256": "73e887abe3a5506312aad8ecf6b4f2f01981ffa47467cc22cee74c660dce4a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-132-2022",
+   "path": "local/constanta/navodari/2022/132",
+   "short": "HCL Năvodari nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 132/2022 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii â Bransare la sistemul de gaze naturale pentru Directia Economica si Directia de Asistenta Sociala, str. Sanatatii, nr. 2, lot 3â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr132-din-24.05.2022.pdf",
+     "sha256": "25bfe0dcd3b4f5cf080afaeb1eab22f552fa457c6531c2d37176d5aad89d858b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-133-2022",
+   "path": "local/constanta/navodari/2022/133",
+   "short": "HCL Năvodari nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 133/2022 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitii â Bransare la sistemul de gaze naturale pentru Cladirea 33, str. Sanatatii, nr. 5 â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr133-din-24.05.2022.pdf",
+     "sha256": "1a255229d4d37201443d1b989ce1016ea7b6b14c846bdd8adfcfebada64dde59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-134-2022",
+   "path": "local/constanta/navodari/2022/134",
+   "short": "HCL Năvodari nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 134/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr134-din-24.05.2022.pdf",
+     "sha256": "6a91508af5b70191794cb1ca753f6e7c86b8ac096dda1e8fcff732fc309e7b54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-135-2022",
+   "path": "local/constanta/navodari/2022/135",
+   "short": "HCL Năvodari nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 135/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr135-din-24.05.2022.pdf",
+     "sha256": "d343b54c868ee8436303386dc5ef60630e35a9929e2cb15a6a78d5b3790e4814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-136-2022",
+   "path": "local/constanta/navodari/2022/136",
+   "short": "HCL Năvodari nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 136/2022 cu privire la aprobarea contului de executie bugetara la 31.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr136-din-24.05.2022.pdf",
+     "sha256": "7a0245db2896615b0f45386488f0387a4ee8f56c2b1586df653d9df8602c1aa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-137-2022",
+   "path": "local/constanta/navodari/2022/137",
+   "short": "HCL Năvodari nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 137/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr137-din-24.05.2022.pdf",
+     "sha256": "17579ebc38450dd07c0e210e2be6c01af90144a38e8c5e380175827e419386eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-138-2022",
+   "path": "local/constanta/navodari/2022/138",
+   "short": "HCL Năvodari nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 138/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr138-din-24.05.2022.pdf",
+     "sha256": "690696878ab0ec942c8e08698f506bf8af3d6ea37b22cf02393b5f313b7b73b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-139-2022",
+   "path": "local/constanta/navodari/2022/139",
+   "short": "HCL Năvodari nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 139/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr139-din-24.05.2022.pdf",
+     "sha256": "fa38a0ad9b887330151e40a1e484c7736a3542ce529fe20405736347e996b27f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-14-2022",
+   "path": "local/constanta/navodari/2022/14",
+   "short": "HCL Năvodari nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 14/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr14-din-10.02.2022.pdf",
+     "sha256": "01783eab11b72bd2b8ce14e2131b87f4c1da6fb9449906cf48b87c72f11eb112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-140-2022",
+   "path": "local/constanta/navodari/2022/140",
+   "short": "HCL Năvodari nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 140/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr140-din-24.05.2022.pdf",
+     "sha256": "99ca43f09dfd8cffb7cddc8469be1553bd4a4482e294bdfae07910099ed2c44d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-141-2022",
+   "path": "local/constanta/navodari/2022/141",
+   "short": "HCL Năvodari nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 141/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr141-din-24.05.2022.pdf",
+     "sha256": "5f20d4631bf00b654b33a12a8f18bc58d6829399517d3ddece997b7215932c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-142-2022",
+   "path": "local/constanta/navodari/2022/142",
+   "short": "HCL Năvodari nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 142/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr142-din-24.05.2022.pdf",
+     "sha256": "c0ecf2d91b166a8022c9dc2ae6b4a5bfe8e8db0427ceccef7653ff1ebd4a9977"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-143-2022",
+   "path": "local/constanta/navodari/2022/143",
+   "short": "HCL Năvodari nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr143-din-24.05.2022.pdf",
+     "sha256": "aa515e79a5106b76a7a79b9b59ddca219645b159ddf5f0f2270bb1b5a701c79d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-144-2022",
+   "path": "local/constanta/navodari/2022/144",
+   "short": "HCL Năvodari nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S3, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr144-din-24.05.2022.pdf",
+     "sha256": "1479790a2f2a7d7f94a384b1751ba6bca4fe3acacb6dcc06d361b8712975b597"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-145-2022",
+   "path": "local/constanta/navodari/2022/145",
+   "short": "HCL Năvodari nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 145/2022 cu privire la constituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra unui teren situat in Navodari, strada S18, LOT 31, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr145-din-24.05.2022.pdf",
+     "sha256": "ed10577bcb20425786a9473df0add11ade8af81ca5d8c50a9c1d84f88fd9e85b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-146-2022",
+   "path": "local/constanta/navodari/2022/146",
+   "short": "HCL Năvodari nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 146/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr146-din-24.05.2022.pdf",
+     "sha256": "f294b236939a1961ca66a4aa0942045930fc564d224cb5c8f6066393f2e5a155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-147-2022",
+   "path": "local/constanta/navodari/2022/147",
+   "short": "HCL Năvodari nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 147/2022 cu privire la aprobarea oportunitatii vanzarii unui teren situat in Navodari, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr147-din-24.05.2022.pdf",
+     "sha256": "af3705f3b4977ec78e353b1dcb443ee4830fd64a7a1f0486edd693381b956ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-148-2022",
+   "path": "local/constanta/navodari/2022/148",
+   "short": "HCL Năvodari nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 148/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 47/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr148-din-24.05.2022.pdf",
+     "sha256": "1295fca9cd0425866cce7ee74695bdcae640790a0b3f92cc2036ae065abe38a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-149-2022",
+   "path": "local/constanta/navodari/2022/149",
+   "short": "HCL Năvodari nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 149/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 48/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr149-din-24.05.2022.pdf",
+     "sha256": "0107fb2ce9cf3a1e6d9ec842ab143615ed16bb63fffc6a2748d20aefb1209f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-15-2022",
+   "path": "local/constanta/navodari/2022/15",
+   "short": "HCL Năvodari nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 15/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr15-din-10.02.2022.pdf",
+     "sha256": "c525fc6940fdc2b8fdf231867f0ed713ae519bc1a3781123f3f910b08224b034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-150-2022",
+   "path": "local/constanta/navodari/2022/150",
+   "short": "HCL Năvodari nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 150/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 49/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr150-din-24.05.2022.pdf",
+     "sha256": "57755767ecffe4515b09d2d5f7b251dfcd6704bf42663103cf18521fb834fbd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-151-2022",
+   "path": "local/constanta/navodari/2022/151",
+   "short": "HCL Năvodari nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 151/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 50/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr151-din-24.05.2022.pdf",
+     "sha256": "30c5ad50d93329c89426a6db6c1acdc7ae62a7689ba11e1893b66ea3e7957516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-152-2022",
+   "path": "local/constanta/navodari/2022/152",
+   "short": "HCL Năvodari nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 152/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 105/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr152-din-24.05.2022.pdf",
+     "sha256": "1c1bab49877ac1adb4f1b8a9ffb96ef17c8edf5ae385916cd0626f3a1cf8ca19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-153-2022",
+   "path": "local/constanta/navodari/2022/153",
+   "short": "HCL Năvodari nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 153/2022 cu privire la modificarea si completarea Anexei nr. 1 la HCL Navodari nr. 106/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr153-din-24.05.2022.pdf",
+     "sha256": "4129f210187bff807c0a96d36571e49fe9ad7194becac75dfec52ba45df9ddc2"
     }
    ]
   },
@@ -78,6 +828,141 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-158-2022",
+   "path": "local/constanta/navodari/2022/158",
+   "short": "HCL Năvodari nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 158/2022 cu privire la aprobarea aderariiÂ unei unitati administrativ-teritoriale la Asociatia de Dezvoltare Intercomunitara âApa â Canal Constantaâ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr158-din-24.05.2022.pdf",
+     "sha256": "28f2ce8b15c40747f110fbb0cfe73b7ab46712934682eb96bc0f27666a8a875b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-159-2022",
+   "path": "local/constanta/navodari/2022/159",
+   "short": "HCL Năvodari nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 159/2022 privind modificarea HCL nr. 116/28.04.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr159-din-24.05.2022.pdf",
+     "sha256": "cd82f7adc672ff7cbfda0ee006fe694247baa26187de0f27c4ef9c9c752c9e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-16-2022",
+   "path": "local/constanta/navodari/2022/16",
+   "short": "HCL Năvodari nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 16/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr16-din-10.02.2022.pdf",
+     "sha256": "6b0c8977a58cdaa94f1b98afdfd8b7fdfa924f447988fe245f3b3d125f58b16c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-160-2022",
+   "path": "local/constanta/navodari/2022/160",
+   "short": "HCL Năvodari nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 160/2022 cu privire la alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr160-din-24.05.2022.pdf",
+     "sha256": "e3b123ab25f912bf4c333180273f63344d7b2b4aaed731a9b1b9f18764f1a22d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-161-2022",
+   "path": "local/constanta/navodari/2022/161",
+   "short": "HCL Năvodari nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 161/2022 cu privire la vÃ¢nzarea imobilului locuinÈÄ situat Ã®n NÄvodari, strada PescÄruÈului, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr161-din-24.05.2022.pdf",
+     "sha256": "e2bf79cb07004c6f2cb55b9c105dc8824808d511b42cda925be97189c1512f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-162-2022",
+   "path": "local/constanta/navodari/2022/162",
+   "short": "HCL Năvodari nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 162/2022 cu privire la revocarea HCL NÄvodari nr. 63/24.03.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr162-din-24.05.2022.pdf",
+     "sha256": "7cb0742f5e543a2d2be5e76b58f7c2b2606699bf2a2f03c19e0ded110f7c3460"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-163-2022",
+   "path": "local/constanta/navodari/2022/163",
+   "short": "HCL Năvodari nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 163/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr163-din-24.05.2022.pdf",
+     "sha256": "11007ecb20238e6dac4462fee923640b490b0c7e5840aaa11b7a0d5bd44ed543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-165-2022",
+   "path": "local/constanta/navodari/2022/165",
+   "short": "HCL Năvodari nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 165/2022 privind trecerea unor bunuri din domeniul privat Ã®n domeniul public al UAT OraÈ NÄvodari Èi stabilirea destinaÈiei unor locuinÈe",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr165-din-24.05.2022.pdf",
+     "sha256": "1e5f83eac54a49c0d159d8baf83ad5c28bc064a56ca5d2167b232e3aeb1b9d23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-166-2022",
+   "path": "local/constanta/navodari/2022/166",
+   "short": "HCL Năvodari nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 166/2022 cu privire la Ã®ncheierea unui contract de Ã®nchiriere pentru un chiriaÈ al cÄrui contract pentru locuinÈÄ socialÄ a expirat",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr166-din-24.05.2022.pdf",
+     "sha256": "9a9188410b1f0c3815034230ceab5392c02d161ea8d5be55190bf360fb62a6e4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-169-2022",
    "path": "local/constanta/navodari/2022/169",
    "short": "HCL Năvodari nr. 169/2022",
@@ -89,6 +974,216 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr169-din-24.05.2022.pdf",
      "sha256": "a9b3603042df04616798c5ae7f59450ae36ec6fe5d51c061c88cacd027c1dddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-17-2022",
+   "path": "local/constanta/navodari/2022/17",
+   "short": "HCL Năvodari nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 17/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr17-din-10.02.2022.pdf",
+     "sha256": "450536b04c5a6de565761de8143fc60e639da330f0dd9a4876ef3fe09ee66ec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-170-2022",
+   "path": "local/constanta/navodari/2022/170",
+   "short": "HCL Năvodari nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 170/2022 privind aprobarea participÄrii la cursuri de formare Èi perfecÈionare profesionalÄ de instituÈii specializate a aleÈilor locali din cadrul Consiliului Local OraÈ NÄvodari, mandatul 2020-2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/05/HCL-nr170-din-24.05.2022.pdf",
+     "sha256": "1025a6150aeb95cc9f7202527b10b1cc1728c410197aa278b51d08b75980f69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-175-2022",
+   "path": "local/constanta/navodari/2022/175",
+   "short": "HCL Năvodari nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 175/2022 pentru administraÈia publica localÄ, juridicÄ, apÄrarea ordinii publice, respectarea drepturilor Èi libertÄÈilor cetÄÈenilor",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/Hotarare-nr175-30.05.2023.pdf",
+     "sha256": "2b696d234d2af2243e77f55ef6d715e8855f8381fada80494b9ab40cdda863d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-178-2022",
+   "path": "local/constanta/navodari/2022/178",
+   "short": "HCL Năvodari nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 178/2022 cu privire la aprobarea caietelor de sarcini Èi documentaÈiilor tehnico-economice pentru execuÈia lucrÄrilor de reparaÈie a tramei stradale Ã®n oraÈul NÄvodar",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr178-din-20.06.2022.pdf",
+     "sha256": "202a8e50e4985057a7132e0d1eda22e6e8383cd1e55358bf73c57d40ef373e58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-179-2022",
+   "path": "local/constanta/navodari/2022/179",
+   "short": "HCL Năvodari nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 179/2022 privind aprobarea deplasÄrii unei delegaÈii a OraÈului NÄvodari Ã®n Ungaria, municipiul Budapesta, Ã®n perioada 30 iunie â 02 iulie 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr179-din-20.06.2022.pdf",
+     "sha256": "1d76cd6e244968ebd106639ca3a761d41adc370c5bd75f0613e7112dc57a08db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-18-2022",
+   "path": "local/constanta/navodari/2022/18",
+   "short": "HCL Năvodari nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 18/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr18-din-10.02.2022.pdf",
+     "sha256": "076e46125c8fdd63d0c68de643e72bc66d741fc846a5bd3da867ddf07f1978aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-180-2022",
+   "path": "local/constanta/navodari/2022/180",
+   "short": "HCL Năvodari nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 180/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr180-din-27.06.2022.pdf",
+     "sha256": "063df2722489217d06462c02e8847cd470aa2a5de46e840b0d5edb3df559e8cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-181-2022",
+   "path": "local/constanta/navodari/2022/181",
+   "short": "HCL Năvodari nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 181/2022 privind indexarea cu rata inflatiei a impozitelor si taxelor locale care constau intr-o anumita suma de lei sau care sunt stabilite pe baza unei anumite sume in lei, precum si limitele amenzilor care se fac venit la bugetul local, conform art. 491 din Legea 227/2015 privind Co",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr181-din-27.06.2022.pdf",
+     "sha256": "14678f6bd51b1a129fbc82c4a8186d8381423de6f8381488c62293454b89f4e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-182-2022",
+   "path": "local/constanta/navodari/2022/182",
+   "short": "HCL Năvodari nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 182/2022 cu privire la repartizarea in anul 2022 a unor fonduri din bugetul local pentru completarea fondurilor proprii ale unitatilor de cult din orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr182-din-27.06.2022.pdf",
+     "sha256": "22ad3de1525c5c19601ce6011493d0d6ddbf9839190f0ab097040fb8991d5945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-183-2022",
+   "path": "local/constanta/navodari/2022/183",
+   "short": "HCL Năvodari nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 183/2022 privind modificarea Organigramei, a Statului de functii si a Statului de personal ale aparatului de specialitate al Primarului Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr183-din-27.06.2022.pdf",
+     "sha256": "c5f2e997507a9697ad049a1de0e850a8569cc61b6237c4a5f688f8e53e846cab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-184-2022",
+   "path": "local/constanta/navodari/2022/184",
+   "short": "HCL Năvodari nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 184/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocaturaÂ Â Â Â Â Â Â Â Â Â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr184-din-27.06.2022.pdf",
+     "sha256": "b96ebf3131f706493d252467ca77f6cb1505304d089da57984de0be3d3fbbfe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-185-2022",
+   "path": "local/constanta/navodari/2022/185",
+   "short": "HCL Năvodari nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 185/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr185-din-27.06.2022.pdf",
+     "sha256": "8959182624a59403a4636002f3cf541cc0b5e2276496e4fb5f22ca89ce32daca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-186-2022",
+   "path": "local/constanta/navodari/2022/186",
+   "short": "HCL Năvodari nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 186/2022 privind achizitionarea unor servicii de asistenta si reprezentare juridica a UAT Oras Navodari in contradictoriu cu SC SIND ROMANIA SRL pentru anulare contracte de inchiriere",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr186-din-27.06.2022.pdf",
+     "sha256": "1c66277bf6fd7e2366677ddf8439bc65559df61e6725813465841f10f29fff31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-187-2022",
+   "path": "local/constanta/navodari/2022/187",
+   "short": "HCL Năvodari nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 187/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr187-din-27.06.2022.pdf",
+     "sha256": "1d4ab1ce31765a8dfcb1bd6825a341400181abda9468630a76c23d9827a7c050"
     }
    ]
   },
@@ -108,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-19-2022",
+   "path": "local/constanta/navodari/2022/19",
+   "short": "HCL Năvodari nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 19/2022 cu privire la concesionarea unui teren situat in Navodari, str.DC86 +str.D25, lot 1, lot 1/1, lot 2, realizarea obiectivului Spalatorie auto tip self service",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr19-din-10.02.2022.pdf",
+     "sha256": "0de1cf038e91de6a876c8bc893f1ae23c0dd17cc9897f737904c891e498f359a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-191-2022",
    "path": "local/constanta/navodari/2022/191",
    "short": "HCL Năvodari nr. 191/2022",
@@ -119,6 +1229,111 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr191-din-27.06.2022.pdf",
      "sha256": "423ad3cb25240d83a29bdf74052d1b6599811d1e27558bdf42eaceeb1ebb7e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-193-2022",
+   "path": "local/constanta/navodari/2022/193",
+   "short": "HCL Năvodari nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 193/2022 privind completarea contractului de administrare nr. 30867/21.06.2019 cu privire la darea in administrare catre Spitalul Judetean de Urgenta âSf",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr193-din-27.06.2022.pdf",
+     "sha256": "fccd009b60a0ec2132e692ba0faf7341b6a9c3a00f1836437f2940269a9e85e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-194-2022",
+   "path": "local/constanta/navodari/2022/194",
+   "short": "HCL Năvodari nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 194/2022 cu privire la modificarea si completarea Hotararii Consiliului Local nr. 62/24.03.2022 privind darea in folosinta gratuita a unui spatiu din inventarul domeniului privat al Orasului Navodari cu destinatia de sediu al Asociatiei de utilitate publica Organizatia de Management a",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr194-din-27.06.2022.pdf",
+     "sha256": "170ef37bb57cf9ca2605cb962dfaf3cf90af4083ac45f3a7dc2dd8c1b79a625a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-195-2022",
+   "path": "local/constanta/navodari/2022/195",
+   "short": "HCL Năvodari nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 195/2022 cu privire la aprobarea nivelului minim al redeventei pentru spatiul cu destinatia de cabinet medical situat in Navodari, strada Albinelor, nr. 15D, in suprafata de 44,27 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr195-din-27.06.2022.pdf",
+     "sha256": "216f90428ef865ecaefeb2d00a743435dfe7197d282c82bdc61ea43f1d735f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-196-2022",
+   "path": "local/constanta/navodari/2022/196",
+   "short": "HCL Năvodari nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 196/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr196-din-27.06.2022.pdf",
+     "sha256": "529c177f1c722f44c01f388298360db1bb77f5c8bb802a4dc2ac3125a63e6b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-197-2022",
+   "path": "local/constanta/navodari/2022/197",
+   "short": "HCL Năvodari nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 197/2022 cu privire la prelungirea unor contracte de inchiriere pentru locuintele situate in orasul Navodari, str",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr197-din-27.06.2022.pdf",
+     "sha256": "c807abef168b031b7e6871bd8316f0948c2be4499644c3f80bafb64ec07b6ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-198-2022",
+   "path": "local/constanta/navodari/2022/198",
+   "short": "HCL Năvodari nr. 198/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 198/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr198-din-27.06.2022.pdf",
+     "sha256": "0b877239b4f5807456704c9229a22667388316ceb5e66e26b860f93b150d6d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-199-2022",
+   "path": "local/constanta/navodari/2022/199",
+   "short": "HCL Năvodari nr. 199/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 199/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr199-din-27.06.2022.pdf",
+     "sha256": "9afade994839f892b2b35e02dddc2d092ac28a74192bcf75a510db67a4c67d20"
     }
    ]
   },
@@ -138,6 +1353,246 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-20-2022",
+   "path": "local/constanta/navodari/2022/20",
+   "short": "HCL Năvodari nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 20/2022 cu privire la costituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra unui teren situat in Navodari, b-dul Navodari fn, judetul Constanta, pentru realizarea obiectivului Statie de alimentare pentru vehicule electrice",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr20-din-10.02.2022.pdf",
+     "sha256": "534339972ebf30e24d55dd9f11b0b01eade7cd56a13c38609cde06f3b7f1651b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-200-2022",
+   "path": "local/constanta/navodari/2022/200",
+   "short": "HCL Năvodari nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 200/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr200-din-27.06.2022.pdf",
+     "sha256": "71bf884dfa6c5ff584e44f492850f7a6454787ada062f507c1d135083c280a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-201-2022",
+   "path": "local/constanta/navodari/2022/201",
+   "short": "HCL Năvodari nr. 201/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 201/2022 cu privire la aprobarea Listei de repartizare a unor loturi de teren in baza Legii 15/2003",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr201-din-27.06.2022.pdf",
+     "sha256": "0d3af5e28932bfcdfa41dc9298731f77e06a79dbcce221ec85451cf0977e1572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-202-2022",
+   "path": "local/constanta/navodari/2022/202",
+   "short": "HCL Năvodari nr. 202/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 202/2022 cu privire la aprobarea Listei solicitantilor care au acces la locuinta, a Listei solicitantilor care nu au acces la locuinta si a Listei de prioritate pentru acordarea locuintei A.N.L",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr202-din-27.06.2022.pdf",
+     "sha256": "b78d7817f9a77df977cf0511dcc720608e519bd133abc94d2cac2e32e6f41864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-203-2022",
+   "path": "local/constanta/navodari/2022/203",
+   "short": "HCL Năvodari nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 203/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr203-din-27.06.2022.pdf",
+     "sha256": "930d865f52ee35808be71f2820bb92216cc95e61fd17373db65c7b458f36d45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-204-2022",
+   "path": "local/constanta/navodari/2022/204",
+   "short": "HCL Năvodari nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 204/2022 cu privire la aprobarea vanzarii unui teren situat in Navodari, strada T12, nr. 58, lot. 1, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr204-din-27.06.2022.pdf",
+     "sha256": "48003b1e0ed9eaf2ff23a9ed207e39ba535f3b21316e99c12ec469a33737595f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-205-2022",
+   "path": "local/constanta/navodari/2022/205",
+   "short": "HCL Năvodari nr. 205/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 205/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, Aleea T2, nr. 2, lot. 5, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr205-din-27.06.2022.pdf",
+     "sha256": "faaae28e98499d4a9998043c4dd619427747b8fa6f196608e2555ee4f8cdfdc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-206-2022",
+   "path": "local/constanta/navodari/2022/206",
+   "short": "HCL Năvodari nr. 206/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 206/2022 cu privire la revocarea art. 6 din HCL Navodari nr. 152/29.06.2021 cu privire la rezilierea unor contracte de constituire a dreptului de superficie ca urmare a neindeplinirii clauzelor contractuale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr206-din-27.06.2022.pdf",
+     "sha256": "969508cddf2e8378d6e35e4cf2934e6e82c048a417ffe7be2a73fcee2badf5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-207-2022",
+   "path": "local/constanta/navodari/2022/207",
+   "short": "HCL Năvodari nr. 207/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 207/2022 cu privire la modificarea art. 2 din HCL 235/27.08.2015, modificata prin HCL nr. 177/20.06.2018, privind derularea Programului de sustinere a invatamantului âGhiozdanul pentru totiâ adresat copiilor inscrisi in sistemul educational prescolar, primar, gimnazial si liceal di",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr207-din-27.06.2022.pdf",
+     "sha256": "8921c1d2baa748282d8983c3b1819452d509b3941b057b190da8ff350ee19592"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-208-2022",
+   "path": "local/constanta/navodari/2022/208",
+   "short": "HCL Năvodari nr. 208/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 208/2022 cu privire la modificarea Anexei 1 a HCL nr. 75/24.03.2022 privind aprobarea principalelor manifestari cultural-artistice si de tineret care se vor desfasura in Orasul Navodari in anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr208-din-27.06.2022.pdf",
+     "sha256": "50c4c99137ca78dfd5f0ef49780c58e7c6288e262a92f0a94acf79b3e41f8519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-209-2022",
+   "path": "local/constanta/navodari/2022/209",
+   "short": "HCL Năvodari nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 209/2022 privind aprobarea unui ajutor de urgenta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr209-din-27.06.2022.pdf",
+     "sha256": "5b0402955173318c77157916289886617fb5dcbfae16895f08a415e52a4fac7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-21-2022",
+   "path": "local/constanta/navodari/2022/21",
+   "short": "HCL Năvodari nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 21/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr21-din-10.02.2022.pdf",
+     "sha256": "a6e294e72b404dc343207e2fde7f7f10f74ced73d357c48342220dfc36a3178f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-210-2022",
+   "path": "local/constanta/navodari/2022/210",
+   "short": "HCL Năvodari nr. 210/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 210/2022 privind modificarea art. 6 al HCL nr. 247/30.09.2021 cu privire la desemnarea reprezentantilor Consiliului Local Navodari in Consiliile de Administratie ale unitatilor de invatamant din Orasul Navodari pentru anul scolar 2021 – 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr210-din-27.06.2022.pdf",
+     "sha256": "f86c55f4b65927ba24b7834528c7de16e624e1b51d367f32b0ddc3232edff132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-211-2022",
+   "path": "local/constanta/navodari/2022/211",
+   "short": "HCL Năvodari nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 211/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr211-din-27.06.2022.pdf",
+     "sha256": "ae531026bc6dcdad56e29466bc05cb77d91c84f4e0e78ff9459177935394657a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-212-2022",
+   "path": "local/constanta/navodari/2022/212",
+   "short": "HCL Năvodari nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 212/2022 privind modificarea Anexei nr. 4 la HCL nr. 35/24.03.2022, modificatp prin HC nr 91/19.04.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr212-din-27.06.2022.pdf",
+     "sha256": "64561ace8d7a60cf962312e4e4fdb8af8fd379f84a650ebfc046218342d492ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-213-2022",
+   "path": "local/constanta/navodari/2022/213",
+   "short": "HCL Năvodari nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 213/2022 cu privire la aprobarea programului lucrarilor de reparatii si inttretinere a tramei stradale din Orasul Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr213-din-27.06.2022.pdf",
+     "sha256": "1f8f2e7bed1d0116c24b1827dda3ab033b7791bbf40016f36aceade8c08aabd1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-214-2022",
    "path": "local/constanta/navodari/2022/214",
    "short": "HCL Năvodari nr. 214/2022",
@@ -153,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-216-2022",
+   "path": "local/constanta/navodari/2022/216",
+   "short": "HCL Năvodari nr. 216/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 216/2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr216-din-27.06.2022.pdf",
+     "sha256": "d987efc2abbaa94829501ed059a0757f87aa0c04f8ab45f5eda2c5310c0cba09"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-217-2022",
    "path": "local/constanta/navodari/2022/217",
    "short": "HCL Năvodari nr. 217/2022",
@@ -164,6 +1634,381 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr217-din-27.06.2022.pdf",
      "sha256": "fb7c49d145e5922e9073f2884b4d2f3b0549f137492520bb0cfbe8bebbc185ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-218-2022",
+   "path": "local/constanta/navodari/2022/218",
+   "short": "HCL Năvodari nr. 218/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 218/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr218-din-28.07.2022.pdf",
+     "sha256": "6fefe82484bbf09bdebb44b907c381b6e976c912c28ceeba8b072ce948b262ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-219-2022",
+   "path": "local/constanta/navodari/2022/219",
+   "short": "HCL Năvodari nr. 219/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 219/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinetele de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr219-din-28.07.2022.pdf",
+     "sha256": "bf34da50fde6ef08f684bc595a791a1c4087a4e5a859ecef8b329544839083ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-22-2022",
+   "path": "local/constanta/navodari/2022/22",
+   "short": "HCL Năvodari nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 22/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr22-din-10.02.2022.pdf",
+     "sha256": "21ebbf1e25b821d725800ad59de7e008f565fa9bcec97f444ef9ba05f701dfb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-220-2022",
+   "path": "local/constanta/navodari/2022/220",
+   "short": "HCL Năvodari nr. 220/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 220/2022 cu privire la modificarea si completarea HCL Navodari nr. 165/24.05.2022 privind trecerea unor bunuri din domeniul privat in domeniul public al UAT Oras Navodari si stabilirea destinatiei unor locuinte",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr220-din-28.07.2022.pdf",
+     "sha256": "a23be68a832bd187d937f7dbd5a07f1711173aac3ffa4fc5e33f27085ec266c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-221-2022",
+   "path": "local/constanta/navodari/2022/221",
+   "short": "HCL Năvodari nr. 221/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 221/2022 cu privire la constituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra terenului situat in Navodari, b-dul Navodari, zona Rezervoare RAJA, lot 1/1, judetul Constanta, pentru realizarea obiectivului âInfiintare centru de recreere prin echitatie",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr221-din-28.07.2022.pdf",
+     "sha256": "0f1896a7a6a7851add05d2ff28e40e04d706ae77b4104f0405b14bc40d393564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-222-2022",
+   "path": "local/constanta/navodari/2022/222",
+   "short": "HCL Năvodari nr. 222/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 222/2022 cu privire la constituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra terenului situat in Navodari, b-dul Navodari, zona Rezervoare RAJA, lot 4, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr222-din-28.07.2022.pdf",
+     "sha256": "6e7fd7dcfbafc910c73d1bd676e42e03ed9c5fced903df150fcde3eb8b57bd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-223-2022",
+   "path": "local/constanta/navodari/2022/223",
+   "short": "HCL Năvodari nr. 223/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 223/2022 cu privire la constituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra terenului situat in Navodari, str",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr223-din-28.07.2022.pdf",
+     "sha256": "6a028ae188a8815be8c136bf9f4d48c605db78b4f903a1cb7e443a707b30be80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-224-2022",
+   "path": "local/constanta/navodari/2022/224",
+   "short": "HCL Năvodari nr. 224/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 224/2022 privind inchirierea prin licitatie publica a imobilului situat in Navodari, strada Marii, Cladirea 15, lot 1, oras Navodari, Jud. Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr224-din-28.07.2022.pdf",
+     "sha256": "d02afddb130821e4f47d1b1c78bdff5bb2e343c2fe48d806da669324535d755a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-225-2022",
+   "path": "local/constanta/navodari/2022/225",
+   "short": "HCL Năvodari nr. 225/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 225/2022 cu privire la aprobarea nivelului minim al redeventei pentru spatiul cu destinatia cabinet medical situat in Navodari, strada Albinelor, nr. 15D, in suprafata de 43,67 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr225-din-28.07.2022.pdf",
+     "sha256": "63dc4fe0ebc5734313ed27d9e7894fa747027b1c0dadb5a9a46ceef9d3e4e9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-226-2022",
+   "path": "local/constanta/navodari/2022/226",
+   "short": "HCL Năvodari nr. 226/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 226/2022 cu privire la aprobarea nivelului minim al redeventei pentru spatiul cu destinatia de cabinet medical situat in Navodari, strada Albinelor, nr. 15D, in suprafata de 48,16 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr226-din-28.07.2022.pdf",
+     "sha256": "baeb7d87fe53162ba73e333ac75fd8f877535bdcfcbf63c1836a1ceea00d1b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-227-2022",
+   "path": "local/constanta/navodari/2022/227",
+   "short": "HCL Năvodari nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 227/2022 cu privire la atribuirea unor locuinte de necesitate",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr227-din-28.07.2022.pdf",
+     "sha256": "6174fc69210ef79c92da9f0a348e5a847ec75436382240897c67c7852fd65983"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-228-2022",
+   "path": "local/constanta/navodari/2022/228",
+   "short": "HCL Năvodari nr. 228/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 228/2022 cu privire la incheierea unui contrat de inchiriere pentru locuinta sociala",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr228-din-28.07.2022.pdf",
+     "sha256": "581237b6b6c548d2d9aa6dcd1619ec2905df50bce81a66aa60ae2e4516be5f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-229-2022",
+   "path": "local/constanta/navodari/2022/229",
+   "short": "HCL Năvodari nr. 229/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 229/2022 cu privire la prelungirea unor contracte de inchiriere pentru locuinte sociale situate in Orasul Navodari, str. Cabanei, Camin Nou si str. Sanatatii, Camin nr. 1",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr229-din-28.07.2022.pdf",
+     "sha256": "13244d7f61575b9c1d1e20ab1139d928fb2bfedc71e72db9f47ee32d50771da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-23-2022",
+   "path": "local/constanta/navodari/2022/23",
+   "short": "HCL Năvodari nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 23/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr23-din-10.02.2022.pdf",
+     "sha256": "087fba3777fa3e73d6f0065091795e417fe8f557add870f5c79b04a53349a80b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-230-2022",
+   "path": "local/constanta/navodari/2022/230",
+   "short": "HCL Năvodari nr. 230/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 230/2022 cu privire la aprobarea unui schimb de locuinta sociala situata in Orasul Navodari, str. Sanatatii, Camin nr. 1",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/06/HCL-nr230-din-28.07.2022.pdf",
+     "sha256": "c0cd7a18a3719734f8d8d11f79ec7fd1b8fd6f77af647c407b15184d34d2ad43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-233-2022",
+   "path": "local/constanta/navodari/2022/233",
+   "short": "HCL Năvodari nr. 233/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 233/2022 privind participarea OraÈului NÄvodari la âProgramul privind creÈterea eficienÈei energetice a infrastructurii de iluminat publicâ Èi aprobarea devizului general al obiectivului de investiÈii âEficientizarea sistemului de iluminat public Ã®n OraÈul NÄvodari, jude",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr233-din-18.08.2022.pdf",
+     "sha256": "39a9175fa49893e7463415fd3913ef76313bb199e8ffda811092c88fd94086f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-234-2022",
+   "path": "local/constanta/navodari/2022/234",
+   "short": "HCL Năvodari nr. 234/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 234/2022 privind aprobarea rectificÄrii bugetului de venituri si cheltuieli consolidat al oraÅului NÄvodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr234-din-19.08.2022.pdf",
+     "sha256": "7f066f6bde523d965086682d8df8970e84f535fc3b656fb33f39cc9a92a8de4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-235-2022",
+   "path": "local/constanta/navodari/2022/235",
+   "short": "HCL Năvodari nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 235/2022 privind aprobarea listei cu dosarele aflate pe rolul instanÅ£elor de judecata si inregistrate la PrimÄria OraÅ NÄvodari, prevÄzute in anexa, pentru care se asigura asistenta si reprezentare de cÄtre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr235-din-19.08.2022.pdf",
+     "sha256": "a0731e06245c30a2399e46f8c44328b9c40c3de012b92f85ec7e07f1269443b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-237-2022",
+   "path": "local/constanta/navodari/2022/237",
+   "short": "HCL Năvodari nr. 237/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 237/2022 cu privire la aprobarea nivelului minim al redeventei pentru spaÅ£iul cu destinaÅ£ia de cabinet medical situat in NÄvodari, strada Albinelor, nr. 15D, in suprafaÅ£a totala de 33,63 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr237-din-19.08.2022.pdf",
+     "sha256": "dfacfedc6814d8cdedda851ce763bf10daefa43aa49c5e1d03498079942f70cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-238-2022",
+   "path": "local/constanta/navodari/2022/238",
+   "short": "HCL Năvodari nr. 238/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 238/2022 cu privire la aprobarea nivelului minim al redeventei pentru spaÅ£iul cu destinaÅ£ia de cabinet medical situat in NÄvodari, strada Albinelor, nr.l5D, in suprafaÅ£a totala de 41,46 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr238-din-19.08.2022.pdf",
+     "sha256": "a40895aac6dbae5586a561404d6a9237b847c9832d2d0a297f01d0d6f341fc0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-239-2022",
+   "path": "local/constanta/navodari/2022/239",
+   "short": "HCL Năvodari nr. 239/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 239/2022 cu privire la aprobarea nivelului minim al redeventei pentru spaÅ£iul cu destinaÅ£ia de cabinet medical situat in NÄvodari, strada Albinelor, nr.l5D, in suprafaÅ£a totala de 23,10 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr239-din-19.08.2022.pdf",
+     "sha256": "da59c744fc1d7e557f9cb84ff17fdde74d41ae234b9afc5ebdacf53287d3e432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-24-2022",
+   "path": "local/constanta/navodari/2022/24",
+   "short": "HCL Năvodari nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 24/2022 privind stabilirea contributiei persoanelor varstnice care beneficiaza de servicii de ingrijire la domiciliu",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr24-din-10.02.2022.pdf",
+     "sha256": "c6f4a1b1ca278308cb15111de29be05560853d2ae8dbb7d5ea758ce0cb6f26b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-240-2022",
+   "path": "local/constanta/navodari/2022/240",
+   "short": "HCL Năvodari nr. 240/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 240/2022 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Lanului fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr240-din-19.08.2022.pdf",
+     "sha256": "5178db4a9ad49e74b2f1941355c927f863380513c14963eaa77d4eff38522d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-241-2022",
+   "path": "local/constanta/navodari/2022/241",
+   "short": "HCL Năvodari nr. 241/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 241/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr241-din-19.08.2022.pdf",
+     "sha256": "3046db4a5b4ccb2797d181023a06c8e70c3b68bf56ac4beb0edb3fb36da7da6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-242-2022",
+   "path": "local/constanta/navodari/2022/242",
+   "short": "HCL Năvodari nr. 242/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 242/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr242-din-19.08.2022.pdf",
+     "sha256": "a8bc8b0de329e4158651492e2c4c8f708c8bef103b805323165177b233074f01"
     }
    ]
   },
@@ -198,6 +2043,156 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-245-2022",
+   "path": "local/constanta/navodari/2022/245",
+   "short": "HCL Năvodari nr. 245/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 245/2022 privind desfiintarea Serviciului Public de Alimentare cu Energie Termica in sistem centralizat in orasul Navodari si incetarea prestarii serviciului public de catre SC TERMICA DISTRIBUTIE NAVODARI",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr245-din-19.08.2022.pdf",
+     "sha256": "3bc8fa9635c62320615715e21b41bb80cb24bf04c85dc4819deb4434ac212664"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-246-2022",
+   "path": "local/constanta/navodari/2022/246",
+   "short": "HCL Năvodari nr. 246/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 246/2022 pentru aprobarea Regulamentului programului âCald in casa taâ privind acordarea unui ajutor de urgenta din bugetul local pentru acoperirea partiala a unor cheltuieli necesare achizitionarii si instalarii unui sistem de incalzire a locuintei si prepararea apei calde, famili",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr246-din-19.08.2022.pdf",
+     "sha256": "249b2b945ba6696313f9b80e1d11c373dd14902acdd0890d744cd5443a0361fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-247-2022",
+   "path": "local/constanta/navodari/2022/247",
+   "short": "HCL Năvodari nr. 247/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 247/2022 privind aprobarea actului aditional nr.1 la contractul nr.61834/14.07.2022 avand ca obiect delegarea gestiunii serviciului public de administrare si intretinere a tramei stradale in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr247-din-19.08.2022.pdf",
+     "sha256": "67b53a3bd255cac0890fa09f1290c73dff2ed103231bd2f51cc03d57f4386c69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-248-2022",
+   "path": "local/constanta/navodari/2022/248",
+   "short": "HCL Năvodari nr. 248/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 248/2022 cu privire la modificarea si completarea Anexei 1 la HCL nr.208/27.06.2022 privind aprobarea principalelor manifestÄri cultural-artistice si de tineret care se vor desfasura in OraÅul NÄvodari in anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr248-din-19.08.2022.pdf",
+     "sha256": "b117f38ee7acfea5d2f138c9ba79e298037d1c8cfaf0a35ccefe2199639e5570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-249-2022",
+   "path": "local/constanta/navodari/2022/249",
+   "short": "HCL Năvodari nr. 249/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 249/2022 cu privire la alegerea PreÅedintelui de ÅedinÅ£a",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr249-din-19.08.2022.pdf",
+     "sha256": "87e72d3da2ac939564d3b8fca272c5aa4916d273ba638b743f1ee187334c8ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-25-2022",
+   "path": "local/constanta/navodari/2022/25",
+   "short": "HCL Năvodari nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 25/2022 privind Acordul Consiliului Local Navodari ca teritoriul UAT Orasul Navodari sa faca parte din teritoriul eligibil al strategiei Grupului de Actiune Locala (GL) in domeniul pescuitului Dobrogea Nord",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr25-din-10.02.2022.pdf",
+     "sha256": "076455cd7d9e178df612722825cbe8aae6d9a0d6a68af1e32484b00a07c643be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-250-2022",
+   "path": "local/constanta/navodari/2022/250",
+   "short": "HCL Năvodari nr. 250/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 250/2022 cu privire la vÃ¢nzarea prin licitaÈie publicÄ a unui teren situat Ã®n NÄvodari, strada Santierelor fn, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr250-din-19.08.2022.pdf",
+     "sha256": "28e12caca8d070199c3284b1a22d75a0f9dc55b016b2957b3bed26f7f610fbf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-251-2022",
+   "path": "local/constanta/navodari/2022/251",
+   "short": "HCL Năvodari nr. 251/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 251/2022 cu privire la vÃ¢nzarea prin licitaÈie publicÄ a unui teren situat Ã®n NÄvodari, strada A1 (lot 66/2/1), judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr251-din-19.08.2022.pdf",
+     "sha256": "427207fb7e7b6c32470f7753efc644b412cbaa505883b5ff68b47bd13b11d903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-252-2022",
+   "path": "local/constanta/navodari/2022/252",
+   "short": "HCL Năvodari nr. 252/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 252/2022 cu privire la trecerea unor imobile din domeniul privat al OraÈului NÄvodari Ã®n domeniul public al OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr252-din-19.08.2022.pdf",
+     "sha256": "884168a4213fda4c6a3c4509ed2ee872a0e1be878bb9638350ae7f8ddeef6053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-253-2022",
+   "path": "local/constanta/navodari/2022/253",
+   "short": "HCL Năvodari nr. 253/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 253/2022 cu privire la desemnarea reprezentanÈilor Consiliului Local Èi a membrilor supleanÈi Ã®n comisiile de evaluare a probei de interviu la Concursul pentru ocuparea funcÈiilor de director Èi director adjunct din unitÄÈile de Ã®nvÄÈÄmÃ¢nt preuniversitar de stat din oraÈu",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr253-din-19.08.2022.pdf",
+     "sha256": "29658edaf183dc39bfd0f1e82b8823d6094176d620d5540f616e24b208159d79"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-254-2022",
    "path": "local/constanta/navodari/2022/254",
    "short": "HCL Năvodari nr. 254/2022",
@@ -209,6 +2204,711 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr254-din-19.08.2022.pdf",
      "sha256": "0ff6ec78befa4aa8f25b8291bd7390072a2451c101bec897c778a80de9844715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-258-2022",
+   "path": "local/constanta/navodari/2022/258",
+   "short": "HCL Năvodari nr. 258/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 258/2022 privind rectificarea bugetului de venituri Èi cheltuieli consolidat al OraÈului NÄvodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/08/HCL-nr258-din-27.09.2022.pdf",
+     "sha256": "cd0f9aac94199c70b472699d2db85a1faa441d7f3ed73c7a4d135f61fbe92416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-259-2022",
+   "path": "local/constanta/navodari/2022/259",
+   "short": "HCL Năvodari nr. 259/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 259/2022 cu privire la aprobarea contului de executie bugetara la 30.06.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr259-din-30.09.2022.pdf",
+     "sha256": "d9857b369a9eb6a93b647ac9ed500020d070b3a7fdadfaeb85ff99bfc816f7ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-26-2022",
+   "path": "local/constanta/navodari/2022/26",
+   "short": "HCL Năvodari nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 26/2022 privind aprobarea principalelor manifestari sportive pe anul 2022 ce se vor desfasura in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr26-din-10.02.2022.pdf",
+     "sha256": "d5b276dd347b32ec326b0a40a9e0f99f63520b2557cd49cea13d95399f27cd75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-260-2022",
+   "path": "local/constanta/navodari/2022/260",
+   "short": "HCL Năvodari nr. 260/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 260/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr260-din-30.09.2022.pdf",
+     "sha256": "afd47144601a1dcc79d781ad96a77a96a65f50a4fbd94f7e042415010772f9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-262-2022",
+   "path": "local/constanta/navodari/2022/262",
+   "short": "HCL Năvodari nr. 262/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 262/2022 privind completarea HCL nr. 76/21.04.2011 cu privire la denumirea strazilor aferente PUZ aprobat prin HCL 11/24.02.2017",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr262-din-30.09.2022.pdf",
+     "sha256": "25ed32a8d4275b51ed8944053fa75170d9242442fefabf1233aec283fda60464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-263-2022",
+   "path": "local/constanta/navodari/2022/263",
+   "short": "HCL Năvodari nr. 263/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 263/2022 cu privire la actualizarea documentatiei cadastrale aferente imobilului situat in Navodari, b-dul Navodari fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr263-din-30.09.2022.pdf",
+     "sha256": "93edea816fe21c72af8be62d1cbbd5a635f18770ee73b21701d3af546d4d5e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-264-2022",
+   "path": "local/constanta/navodari/2022/264",
+   "short": "HCL Năvodari nr. 264/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 264/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr264-din-30.09.2022.pdf",
+     "sha256": "e1d5f72b473c1f573cc2c0e55f4a876ba5d8ded2fab31c4a05e1b3623bb30e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-265-2022",
+   "path": "local/constanta/navodari/2022/265",
+   "short": "HCL Năvodari nr. 265/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 265/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr265-din-30.09.2022.pdf",
+     "sha256": "cdbf503f5d79c9b58cae23ed3a4494b9b4debfc9caeca0b94add1a3e0a247f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-266-2022",
+   "path": "local/constanta/navodari/2022/266",
+   "short": "HCL Năvodari nr. 266/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 266/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenuluisituat in Navodari, str. S8, lot 210, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr266-din-30.09.2022.pdf",
+     "sha256": "fe1b425a8e4715760cde468cc6d595e12ab1eedd4181db7e6f176bf27f66f764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-267-2022",
+   "path": "local/constanta/navodari/2022/267",
+   "short": "HCL Năvodari nr. 267/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 267/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr267-din-30.09.2022.pdf",
+     "sha256": "8a3bd94fe512fbd25d4ec98eef8abdf1383ec69a459016c09373a9653ff585cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-268-2022",
+   "path": "local/constanta/navodari/2022/268",
+   "short": "HCL Năvodari nr. 268/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 268/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada P10, LOT 167, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr268-din-30.09.2022.pdf",
+     "sha256": "f1e78083df2aea19cf5c0975d738dedc7ea4de70380811d0bf93ad70ad4cde3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-269-2022",
+   "path": "local/constanta/navodari/2022/269",
+   "short": "HCL Năvodari nr. 269/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 269/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr269-din-30.09.2022.pdf",
+     "sha256": "9017d0059cb4c0c397c1a06b34a8f69d7135bfb37c009f323b17ec0112539ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-27-2022",
+   "path": "local/constanta/navodari/2022/27",
+   "short": "HCL Năvodari nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 27/2022 cu privire la aprobarea retelei unitatilor de invatamant preuniversitar din Orasul Navodari pentru anul scolar 2022-2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr27-din-10.02.2022.pdf",
+     "sha256": "04b810feb810b4173b35fbf751e3b6202142faf1c36c9d038d76bf247334ec97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-270-2022",
+   "path": "local/constanta/navodari/2022/270",
+   "short": "HCL Năvodari nr. 270/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 270/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr270-din-30.09.2022.pdf",
+     "sha256": "38606e0222e76e581067336270ec2055611822a8639d8b262e3ba7e10ac7363e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-271-2022",
+   "path": "local/constanta/navodari/2022/271",
+   "short": "HCL Năvodari nr. 271/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 271/2022 cu privire la prelungirea unor contracte de inchiriere pentru locuinte sociale situate in Orasul Navodari, str. Cabanei, Camin Nou",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr271-din-30.09.2022.pdf",
+     "sha256": "ccd44717ae771a18c0f71b6bc1590f5c99532aab9997cf04ed9423b8f08a49c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-272-2022",
+   "path": "local/constanta/navodari/2022/272",
+   "short": "HCL Năvodari nr. 272/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 272/2022 privind completarea HCL nr. 344/20.12.2018 privind modificarea si completarea Regulamentului de Organizare si Functionare al Clubului Sportiv Navodari, aprobat prin art. 1 din HCL nr. 91/30.03.2015",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr272-din-30.09.2022.pdf",
+     "sha256": "9e341469c2b1296f2b2a44f6b0f9c404506f8ee07dd4f325b8f3b09de778e9f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-273-2022",
+   "path": "local/constanta/navodari/2022/273",
+   "short": "HCL Năvodari nr. 273/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 273/2022 cu privire la aprobarea participarii U.A.T",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr273-din-30.09.2022.pdf",
+     "sha256": "2b5aa3a06546ddeded1a827a51dcce7eed9eb00227f655e7c6678abde7064019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-274-2022",
+   "path": "local/constanta/navodari/2022/274",
+   "short": "HCL Năvodari nr. 274/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 274/2022 cu privire la desemnarea reprezentantilor Consiliului Local Navodari in Consiliile de Administratie ale unitatilor de invatamant din Orasul Navodari pentru anul scolar 2022-2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr274-din-30.09.2022.pdf",
+     "sha256": "6f8b180e7cfc465fcf5f3cc6e1c79d9d1185ddf6e0cc2df40204b8143091d638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-275-2022",
+   "path": "local/constanta/navodari/2022/275",
+   "short": "HCL Năvodari nr. 275/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 275/2022 cu privire la desemnarea reprezentantilor Consiliului Local Navodari in Comisia pentru Evaluarea si Asigurarea Calitatii Educatiei (CEAC) din unitatile de invatamant din Orasul Navodari pentru anul scolar 2022-2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr275-din-30.09.2022.pdf",
+     "sha256": "508adaa6e8d3644017c26adb86b6ea2b694fccdf89b948756ed19b884ee01aac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-276-2022",
+   "path": "local/constanta/navodari/2022/276",
+   "short": "HCL Năvodari nr. 276/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 276/2022 cu privire la prelungirea unui numÄr de 2 (douÄ) contracte de Ã®nchiriere pentru locuinÈe social situate Ã®n OraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr276-din-30.09.2022.pdf",
+     "sha256": "3becea96231cae6d1f59e7e25d8404af694f23017700ca5c328ebafa1af31e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-277-2022",
+   "path": "local/constanta/navodari/2022/277",
+   "short": "HCL Năvodari nr. 277/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 277/2022 privind revocarea HCL nr. 252/19.08.2022 cu privire la trecerea unor imobile din domeniul privat al OraÈului NÄvodari Ã®n domeniul public al OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr277-din-30.09.2022.pdf",
+     "sha256": "ee21e124f36973a83589e688a2f1fa933aa426b4423fd4653c00e65a1abc4029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-278-2022",
+   "path": "local/constanta/navodari/2022/278",
+   "short": "HCL Năvodari nr. 278/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 278/2022 privind aprobarea actului adiÈional nr. 2 la Contractul nr. 24.930/06.04.2021 â de delegare de gestiune prin concesiune a serviciului public de salubrizare al oraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/09/HCL-nr278-din-30.09.2022.pdf",
+     "sha256": "212982d01a0ee3b75aeac6caff75308cd0e2d2a919083c080a92e6a4eb3afd9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-28-2022",
+   "path": "local/constanta/navodari/2022/28",
+   "short": "HCL Năvodari nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 28/2022 pentru invatamant, sanatate, cultura, protectie sociala, sportiva si de agrement",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr28-din-10.02.2022.pdf",
+     "sha256": "a7fa2ed9a4a4d84b3dec70ec04b43752c842587cdcd0c7f99aa651e5df461ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-285-2022",
+   "path": "local/constanta/navodari/2022/285",
+   "short": "HCL Năvodari nr. 285/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 285/2022 privind aprobarea listei de prioritati pentru anul 2022 cuprinzand persoanele care vor beneficia de locuinte sociale Â Â Â Â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr285-din-06.10.2022.pdf",
+     "sha256": "3bf18568efed5c91b1db6aa670f8f6f9394cf411fbc55667fd4452ec5d008915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-286-2022",
+   "path": "local/constanta/navodari/2022/286",
+   "short": "HCL Năvodari nr. 286/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 286/2022 privind reglementarea semnalizarii rutiere pe raza Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr286-din-06.10.2022.pdf",
+     "sha256": "f39f99e57248546935d6783644788015fa6ce6fe4865eb5c13d80e2f75091684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-29-2022",
+   "path": "local/constanta/navodari/2022/29",
+   "short": "HCL Năvodari nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 29/2022 cu privire la alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr29-din-10.02.2022.pdf",
+     "sha256": "d27f607a17905aab1da89f5cac7ae2d1a6ac7f556c1c92968c5e48cca4f4c1b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-290-2022",
+   "path": "local/constanta/navodari/2022/290",
+   "short": "HCL Năvodari nr. 290/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 290/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr290-din-14.11.2022.pdf",
+     "sha256": "b70db629914d53f82746073fb0d5ea9317b35fefb23549fd4b7cf76d8b021f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-291-2022",
+   "path": "local/constanta/navodari/2022/291",
+   "short": "HCL Năvodari nr. 291/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 291/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr291-din-14.11.2022.pdf",
+     "sha256": "e57e06b73e03a3c4f9f928e7f29fde40f8ba1a301b0c96c7f35ab4583fad41e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-292-2022",
+   "path": "local/constanta/navodari/2022/292",
+   "short": "HCL Năvodari nr. 292/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 292/2022 cu privire la aprobarea cuantumului si numarului de burse scolare ce se vor acorda in anul scolar 2022-2023 in unitatile de invatamant",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr292-din-14.11.2022.pdf",
+     "sha256": "e89595dd9b579859fb9decb55f71cda222293a6fb7ac67120d3e632f2034e508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-293-2022",
+   "path": "local/constanta/navodari/2022/293",
+   "short": "HCL Năvodari nr. 293/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 293/2022 privind aprobarea scaderii din evidenta analitica pe platitor a creantelor fiscale datorate bugetului local al Orasului Navodari, de catre persoanele juridice radiate de la Oficiul Registrul Comertului",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr293-din-14.11.2022.pdf",
+     "sha256": "d8e9f2abc2a4cf529cca659ae870f4f8edeb92b3e97fe9cb901faa209e25f793"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-294-2022",
+   "path": "local/constanta/navodari/2022/294",
+   "short": "HCL Năvodari nr. 294/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 294/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr294-din-14.11.2022.pdf",
+     "sha256": "7abbbcc07ee2945db3489d6e32624b855b825c34a7592a8bffdad9d751d7f95a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-295-2022",
+   "path": "local/constanta/navodari/2022/295",
+   "short": "HCL Năvodari nr. 295/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 295/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr295-din-14.11.2022.pdf",
+     "sha256": "7e15ccb5d60c32a95fd179eaeed7519d1214ddc413890ce2f6e0650d5b14a0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-296-2022",
+   "path": "local/constanta/navodari/2022/296",
+   "short": "HCL Năvodari nr. 296/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 296/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr296-din-14.11.2022.pdf",
+     "sha256": "23effb3ae1d9ae369f7b3edad6674ba5828797681cef5b5dd861b43922bb8fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-297-2022",
+   "path": "local/constanta/navodari/2022/297",
+   "short": "HCL Năvodari nr. 297/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 297/2022 cu privire la acordarea unui pachet cu carti elevilor inscrisi in clasele Pregatitoare â VIII in unitatile de invatamant de pe raza orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr297-din-14.11.2022.pdf",
+     "sha256": "b231938b49f4c1df953e75f43597a11cbe3213a7998e0aeb7717d83cb6f73553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-298-2022",
+   "path": "local/constanta/navodari/2022/298",
+   "short": "HCL Năvodari nr. 298/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 298/2022 privind modificarea HCL nr. 72/24.03.2022 privind aprobarea conditiilor si a procedurii de acordare a ajutoarelor de urgenta din bugetul local",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr298-din-14.11.2022.pdf",
+     "sha256": "e2410d28311ba5ebf72a368e2f49e9ea46a3881ba0feebf7c6e248d5ccb3d606"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-299-2022",
+   "path": "local/constanta/navodari/2022/299",
+   "short": "HCL Năvodari nr. 299/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 299/2022 privind stabilirea contributiei persoanelor varstnice care beneficiaza de servicii de ingrijire la domiciliu",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr299-din-14.11.2022.pdf",
+     "sha256": "7e3e4a9a5c9c978ce7d10f15b75ab875117275f55bb1aaaffcde59d10b7b9c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-3-2022",
+   "path": "local/constanta/navodari/2022/3",
+   "short": "HCL Năvodari nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 3/2022 privind aprobarea modificarii si completarii âProcedurii privind anularea accesoriilor aferente obligatiilor bugetare principale restante la 31.03.2020â aprobata prin HCL nr. 87/04.06.2020, modificata si completata prin HCL nr. 66/2021",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr3-din-10.02.2022.pdf",
+     "sha256": "4f90ce464290930c3fef61e9c404ce06374893fedfec579e03ea9529e6be4f6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-30-2022",
+   "path": "local/constanta/navodari/2022/30",
+   "short": "HCL Năvodari nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 30/2022 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr30-din-10.02.2022.pdf",
+     "sha256": "2a10c2a7e72f4de4f0d9883c87149fc94c269d0428e6ffae0bcdccd044455eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-300-2022",
+   "path": "local/constanta/navodari/2022/300",
+   "short": "HCL Năvodari nr. 300/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 300/2022 cu privire la incheierea unui contract de inchiriere pentru un chirias al carui contract pentru locuinta sociala a expirat",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr300-din-14.11.2022.pdf",
+     "sha256": "c5bd18d8a8017a124cbdf3b08b6516903f09ead9b5f2bcd344908d2a6d342b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-301-2022",
+   "path": "local/constanta/navodari/2022/301",
+   "short": "HCL Năvodari nr. 301/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 301/2022 cu privire la prelungirea unor contracte de inchiriere pentru louinte sociale situate in Orasul Navodari, str.Cabanei, Camin Nou si str. Sanatatii, Camin nr.1",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr301-din-14.11.2022.pdf",
+     "sha256": "7ea349f90a6c71beac7a216b86be4cdd91f65484db256fe6d2aa7890bdd43a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-302-2022",
+   "path": "local/constanta/navodari/2022/302",
+   "short": "HCL Năvodari nr. 302/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 302/2022 cu privire la aprobarea unui schimb de locuinte A.N.L",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr302-din-14.11.2022.pdf",
+     "sha256": "715970d0618342174b722dabc69669c18da199ff35f019bdcc2233bbff85a747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-303-2022",
+   "path": "local/constanta/navodari/2022/303",
+   "short": "HCL Năvodari nr. 303/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 303/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr303-din-14.11.2022.pdf",
+     "sha256": "41204f19a52d74a96416ce678ff724ec5f9db1babcc24bbf09033dca2cfdcfde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-304-2022",
+   "path": "local/constanta/navodari/2022/304",
+   "short": "HCL Năvodari nr. 304/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 304/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr304-din-14.11.2022.pdf",
+     "sha256": "bf4b24bc63474b8e279cb8733e7493deceaf3ae98f689c1bcb39bb6b3531bdc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-305-2022",
+   "path": "local/constanta/navodari/2022/305",
+   "short": "HCL Năvodari nr. 305/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 305/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr305-din-14.11.2022.pdf",
+     "sha256": "b0adb268603f333c00a03e00e68e7a61152058904625eec5f36a276867ff023a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-306-2022",
+   "path": "local/constanta/navodari/2022/306",
+   "short": "HCL Năvodari nr. 306/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 306/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr306-din-14.11.2022.pdf",
+     "sha256": "00f42f3855b8b83418bda1d7f17463237b5bc6b3c97b8fc96c9ca8ffa99e9d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-307-2022",
+   "path": "local/constanta/navodari/2022/307",
+   "short": "HCL Năvodari nr. 307/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 307/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr307-din-14.11.2022.pdf",
+     "sha256": "1a0aaf28ed73dbd473e685804dae51eddbd58d5eb5d7ca9b66666e70364bf117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-308-2022",
+   "path": "local/constanta/navodari/2022/308",
+   "short": "HCL Năvodari nr. 308/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 308/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr308-din-14.11.2022.pdf",
+     "sha256": "7c3606f5eff2f727735ead298416564a2e1d24cf57dc65a04633df32fa1807df"
     }
    ]
   },
@@ -228,6 +2928,156 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-31-2022",
+   "path": "local/constanta/navodari/2022/31",
+   "short": "HCL Năvodari nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 31/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli consolidat al orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr31-din-24.03.2022.pdf",
+     "sha256": "1d6b8789041d57be168a1590a665cf86443edcc754fc32d8d2691bed7b9aa0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-310-2022",
+   "path": "local/constanta/navodari/2022/310",
+   "short": "HCL Năvodari nr. 310/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 310/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr310-din-14.11.2022.pdf",
+     "sha256": "faa808c0fd45d80d702b487a05b44618fd1b56b2d0a5f4359e62bf44a6d0829e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-311-2022",
+   "path": "local/constanta/navodari/2022/311",
+   "short": "HCL Năvodari nr. 311/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 311/2022 cu privire la aprobarea contravalorii concesiunii locurilor de inhumare din cimitirele Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr311-din-14.11.2022.pdf",
+     "sha256": "d5183c78d2b93b995a668cbe9c240042b603270df99303921922f6b9ddcb9523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-312-2022",
+   "path": "local/constanta/navodari/2022/312",
+   "short": "HCL Năvodari nr. 312/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 312/2022 cu privire la aprobarea trecerii unor bunuri din domeniul public in domeniul privat al Orasului Navodari in vederea scoaterii din functiune si casare",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr312-din-14.11.2022.pdf",
+     "sha256": "7d97acacc3d2099811836e1a4833602b7239bdc26f0fcd27b0f5fdd568023688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-313-2022",
+   "path": "local/constanta/navodari/2022/313",
+   "short": "HCL Năvodari nr. 313/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 313/2022 privind declararea bunului imobil â teren extravilan situat in Navodari, Sola 8, Parcela A57, in suprafata de 36.409 mp de uz si interes public local al UAT Oras Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr313-din-14.11.2022.pdf",
+     "sha256": "2f33960f886d020bc2db75018a0ee8f9f48da60a83f10243cda0899608bd7cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-314-2022",
+   "path": "local/constanta/navodari/2022/314",
+   "short": "HCL Năvodari nr. 314/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 314/2022 privind aprobarea listei de repartizare cuprinzand solicitantii indreptatiti sa primeasca o locuinta sociala prin inchiriere in anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr314-din-14.11.2022.pdf",
+     "sha256": "97640f7c11fb3f24604b615a5c1168f7aaaa61d4633cf0afc2ba478fed7f6137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-315-2022",
+   "path": "local/constanta/navodari/2022/315",
+   "short": "HCL Năvodari nr. 315/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 315/2022 privind aprobarea actului aditional nr. 2 la contractul nr. 61834/14.07.2022 avand ca obiect delegarea gestiunii serviciului de administrare si intretinere a tramei stradale in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/10/HCL-nr315-din-14.11.2022.pdf",
+     "sha256": "b91abddac160c27b76c49845a6e048bdd6393ead1e9d5ce50227c0b736b20b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-317-2022",
+   "path": "local/constanta/navodari/2022/317",
+   "short": "HCL Năvodari nr. 317/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 317/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/11/HCL-nr317-din-13.12.2022.pdf",
+     "sha256": "3bf6556d0419fc9425f66ab39d6ea77f793d77d8a0bfe707933f4274a0d82f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-318-2022",
+   "path": "local/constanta/navodari/2022/318",
+   "short": "HCL Năvodari nr. 318/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 318/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/11/HCL-nr318-din-20.12.2022.pdf",
+     "sha256": "19fb4652b6dd6a65b516419457a4611360a574acad793d9285be27be2d01edf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-32-2022",
+   "path": "local/constanta/navodari/2022/32",
+   "short": "HCL Năvodari nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 32/2022 cu privire la aprobarea contului de executie bugetara pentru anul 2021",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr32-din-24.03.2022.pdf",
+     "sha256": "53b5c905e6539ba79120812079cd75100a0de6e638c8ef6dab4ba18b2668fb94"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-320-2022",
    "path": "local/constanta/navodari/2022/320",
    "short": "HCL Năvodari nr. 320/2022",
@@ -239,6 +3089,51 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr320-din-22.12.2022.pdf",
      "sha256": "ac8568c05a185f2dc75e6ae63441d79a7368dfec71829325091eb77550844b54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-321-2022",
+   "path": "local/constanta/navodari/2022/321",
+   "short": "HCL Năvodari nr. 321/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 321/2022 privind stabilirea sumei maxime pentru anularea creanÈelor fiscale aflate Ã®n sold la 31.12.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr321-din-22.12.2022.pdf",
+     "sha256": "f4ca8b5ad1e66d5b87acff3fc04c0ef60f6b488e5b4f1c4386fee876b6cfe222"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-322-2022",
+   "path": "local/constanta/navodari/2022/322",
+   "short": "HCL Năvodari nr. 322/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 322/2022 cu privire la aprobarea contului de execuÈie bugetarÄ la 30.09.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr322-din-22.12.2022.pdf",
+     "sha256": "1726b8f14adfe0c09eea1720d8f35c14084780099b3d7a45a764f404cd9f3f86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-323-2022",
+   "path": "local/constanta/navodari/2022/323",
+   "short": "HCL Năvodari nr. 323/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 323/2022 cu privire la Ã®nsuÈirea rezultatelor din reevaluarea domeniului public Èi privat Èi Ã®nregistrarea lor Ã®n contabilitate la 31.12.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr323-din-22.12.2022.pdf",
+     "sha256": "926f98e14205f530b3cb275059519f5648607480f78d40aec9a7e95102e4c5a1"
     }
    ]
   },
@@ -258,6 +3153,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-325-2022",
+   "path": "local/constanta/navodari/2022/325",
+   "short": "HCL Năvodari nr. 325/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 325/2022 privind aprobarea listei cu dosarele aflate pe rolul instanÈelor de judecatÄ Èi Ã®nregistrate la PrimÄria OraÈ NÄvodari, prevÄzute Ã®n anexÄ, pentru care se asigurÄ asistenÈÄ Èi reprezentare de cÄtre cabinete de avocaturÄ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr325-din-22.12.2022.pdf",
+     "sha256": "cc0bbd9ad26282c75046a6b569849f9cb6e66475e1c2a799c47d3fdfc23eb92f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-326-2022",
+   "path": "local/constanta/navodari/2022/326",
+   "short": "HCL Năvodari nr. 326/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 326/2022 cu privire la modificarea inventarului bunurilor care aparÈin domeniului privat al oraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr326-din-22.12.2022.pdf",
+     "sha256": "157c874bf994fb047d2dec031d15e3763033d60f2d50dc30aa8fbe8133a76176"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-327-2022",
    "path": "local/constanta/navodari/2022/327",
    "short": "HCL Năvodari nr. 327/2022",
@@ -269,6 +3194,156 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr327-din-22.12.2022.pdf",
      "sha256": "7fef8de165d20b6212ebd9d6d7c59b45e65f588580e76695289f5ee69f6f3b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-328-2022",
+   "path": "local/constanta/navodari/2022/328",
+   "short": "HCL Năvodari nr. 328/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 328/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr328-din-22.12.2022.pdf",
+     "sha256": "7a0631207490c9984605ac50ca723638de1d492e2c2f7639732ea9f0adf5cfe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-329-2022",
+   "path": "local/constanta/navodari/2022/329",
+   "short": "HCL Năvodari nr. 329/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 329/2022 cu privire la aprobarea vÃ¢nzÄrii unui teren situat Ã®n NÄvodari, strada S6, nr. 8, LOT 254, JudeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr329-din-22.12.2022.pdf",
+     "sha256": "083db0cd84c5b8d11626cd4ca9400a8f44ca539b1dfef2affae20eec5a5b2041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-33-2022",
+   "path": "local/constanta/navodari/2022/33",
+   "short": "HCL Năvodari nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 33/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr33-din-24.03.2022.pdf",
+     "sha256": "a3abce668c1c8aa59d20b0360a1ae676e605f31ec736d0349514af507db8c49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-330-2022",
+   "path": "local/constanta/navodari/2022/330",
+   "short": "HCL Năvodari nr. 330/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 330/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr330-din-22.12.2022.pdf",
+     "sha256": "9a8071ff1f1b4b62be18eac8252f95818af73599780e23daeaad0a3e381c9bc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-331-2022",
+   "path": "local/constanta/navodari/2022/331",
+   "short": "HCL Năvodari nr. 331/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 331/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr331-din-22.12.2022.pdf",
+     "sha256": "c164041e6f3d9e728fc2c8935a0038c353b38fb35988e814b6666e58f878adbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-332-2022",
+   "path": "local/constanta/navodari/2022/332",
+   "short": "HCL Năvodari nr. 332/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 332/2022 cu privire la prelungirea unui contract de Ã®nchiriere pentru locuinÈa socialÄ situatÄ Ã®n OraÈul NÄvodari, str. SÄnÄtÄÈii, CÄmin nr. 1",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr332-din-22.12.2022.pdf",
+     "sha256": "1febeac103b531d0230b3281b97794687212c55827ba12c5f878f4d1e6091042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-333-2022",
+   "path": "local/constanta/navodari/2022/333",
+   "short": "HCL Năvodari nr. 333/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 333/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr333-din-22.12.2022.pdf",
+     "sha256": "964e64e6af0c958a18d9d9001f0244bea2c84c83a23d3290cbe008366553d837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-334-2022",
+   "path": "local/constanta/navodari/2022/334",
+   "short": "HCL Năvodari nr. 334/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 334/2022 cu privire la prelungirea unor contracte de Ã®nchiriere pentru locuinÈele situate Ã®n oraÈul NÄvodari, str. PescÄruÈului, nr. 88, bl. SP2",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr334-din-22.12.2022.pdf",
+     "sha256": "9f697b0648c7752464936ae184ecf93055c5cd4488ea863596b3490614b02a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-335-2022",
+   "path": "local/constanta/navodari/2022/335",
+   "short": "HCL Năvodari nr. 335/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 335/2022 cu privire la atestarea dreptului de administrare asupra podului amplasat pe DJ226, tronson km 12+400 â km 12+800",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr335-din-22.12.2022.pdf",
+     "sha256": "8c1c811b6437fbcf8d28030e072f1a66dd43a64b2d50d3e6a484ff8b52917a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-336-2022",
+   "path": "local/constanta/navodari/2022/336",
+   "short": "HCL Năvodari nr. 336/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 336/2022 privind modificarea HotÄrÃ¢rii Consiliului Local nr. 118/31.05.2012",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr336-din-22.12.2022.pdf",
+     "sha256": "6c160b95d40ac38e1fc6ad37ce352fa4a33ef1288aff6c3bcfe8a6af328116c9"
     }
    ]
   },
@@ -288,6 +3363,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-34-2022",
+   "path": "local/constanta/navodari/2022/34",
+   "short": "HCL Năvodari nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 34/2022 privind stabilirea salariilor de baza aferente functiilor publice si contractuale din cadrul familiei ocupationale âAdministratieâ utilizate in aparatul de specialitate al Primarului orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr34-din-24.03.2022.pdf",
+     "sha256": "aa224ac500a426e46a5187b22c4403639c8314a07000e28b0f2fedd73f20bd37"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-340-2022",
    "path": "local/constanta/navodari/2022/340",
    "short": "HCL Năvodari nr. 340/2022",
@@ -299,6 +3389,21 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr340-din-22.12.2022.pdf",
      "sha256": "946c521fddd9284c408114e7477c4d8c17ff60a4e5a1d1b37ae2c87af37a691a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-341-2022",
+   "path": "local/constanta/navodari/2022/341",
+   "short": "HCL Năvodari nr. 341/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 341/2022 privind aprobarea",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr341-din-22.12.2022.pdf",
+     "sha256": "085dd103f36e434b40ff10be4300f15fa14b856d2058a644389ccf5c4f367445"
     }
    ]
   },
@@ -333,6 +3438,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-345-2022",
+   "path": "local/constanta/navodari/2022/345",
+   "short": "HCL Năvodari nr. 345/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 345/2022 privind Ã®ncheierea contractului de delegare de gestiune a serviciului public de administrare, Ã®ntreÈinere Èi exploatare a cimitirelor ce aparÈin domeniului public al oraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr345-din-22.12.2022-1.pdf",
+     "sha256": "bd6bb67e3a98cf5ff065cd64845a12c147f6738fadc61fc3d2675938f4cd31c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-346-2022",
+   "path": "local/constanta/navodari/2022/346",
+   "short": "HCL Năvodari nr. 346/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 346/2022 cu privire la aprobarea programului de lucrÄri de reparaÈii Èi Ã®ntreÈinere a tramei stradale din OraÈul NÄvodari pentru anul 2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/01/HCL-nr346-din-22.12.2022.pdf",
+     "sha256": "51fe5358d79788f43dc89b71ba09c178660596448287c37dce1cac494c4c5311"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-347-2022",
    "path": "local/constanta/navodari/2022/347",
    "short": "HCL Năvodari nr. 347/2022",
@@ -348,6 +3483,411 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-35-2022",
+   "path": "local/constanta/navodari/2022/35",
+   "short": "HCL Năvodari nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 35/2022 cu privire la aprobarea atribuirii directe a gestiunii serviciului public de administrare si intretinere a tramei stradale din Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr35-din-24.03.2022.pdf",
+     "sha256": "ce00c68298587d4393215fca652e58baf650fbf51eb12f020625207fe19ba9d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-36-2022",
+   "path": "local/constanta/navodari/2022/36",
+   "short": "HCL Năvodari nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 36/2022 privind aprobarea Regulamentului de organizare si functionare a parcarilor amenajate pe domeniul public al Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr36-din-24.03.2022.pdf",
+     "sha256": "7d1bb0fdbbd501338bbe16c6e838f0fc9d9c788cdfeb1c876c08f85976624cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-37-2022",
+   "path": "local/constanta/navodari/2022/37",
+   "short": "HCL Năvodari nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 37/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S15, LOT 60, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr37-din-24.03.2022.pdf",
+     "sha256": "3e7a71174eda110b16e1427c4f905bc4465bdcc0928ae74579392f392d4ea0e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-38-2022",
+   "path": "local/constanta/navodari/2022/38",
+   "short": "HCL Năvodari nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 38/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S11, LOT 159, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr38-din-24.03.2022.pdf",
+     "sha256": "6ef5561c9126c9289aa08ff59570747c97a6c27a33412db08410a4e59cb8dbd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-39-2022",
+   "path": "local/constanta/navodari/2022/39",
+   "short": "HCL Năvodari nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 39/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S10, LOT 176, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr39-din-24.03.2022.pdf",
+     "sha256": "b60a201f48c43c2f1d8a4caec02894a110095ca20a5e685c82fe32edf1971f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-4-2022",
+   "path": "local/constanta/navodari/2022/4",
+   "short": "HCL Năvodari nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 4/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr4-din-10.02.2022.pdf",
+     "sha256": "a59599c980989e5c73b1af90a838d6f4b00ca333c8377059068f3501f6242f25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-40-2022",
+   "path": "local/constanta/navodari/2022/40",
+   "short": "HCL Năvodari nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 40/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S10, LOT 178, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr40-din-24.03.2022.pdf",
+     "sha256": "6e959d98c0504ae084a4c8fc685d510f02bc875eacc5aafa3bba2b9aae3ef5b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-41-2022",
+   "path": "local/constanta/navodari/2022/41",
+   "short": "HCL Năvodari nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 41/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr41-din-24.03.2022.pdf",
+     "sha256": "9f676c3f6b23aa5a4476cbe836c115852b4a60a6d7eb71558b72ba94b42cd160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-42-2022",
+   "path": "local/constanta/navodari/2022/42",
+   "short": "HCL Năvodari nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 42/2022 cu privire la constituirea unui drept de superficie cu titlu oneros asupra terenului situat in Navodari, strada S8, LOT 214, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr42-din-24.03.2022.pdf",
+     "sha256": "0407416fbd5c92ccc67333946b21111175299c4f3526de2ef6aa227c1fec4244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-43-2022",
+   "path": "local/constanta/navodari/2022/43",
+   "short": "HCL Năvodari nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 43/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr43-din-24.03.2022.pdf",
+     "sha256": "7b3fb7b14904364d917e5ac2a9b077a09af7ad4adc76dfb6937732223d3037e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-44-2022",
+   "path": "local/constanta/navodari/2022/44",
+   "short": "HCL Năvodari nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 44/2022 cu privire la constituirea unui drept de superficie cu titlu oneros, prin licitatie publica, asupra terenului situat in Navodari, b-dul Navodari, zona Rezervoare RAJA, lot 1/1, judetul Constanta, pentru realizarea obiectivului Infiintare centru de recreere prin echitatie, agrem",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr44-din-24.03.2022.pdf",
+     "sha256": "fe957e4d924d8f81bd4c844a81322f062d33bf80873c8c6fa83ec1d38a2cac0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-45-2022",
+   "path": "local/constanta/navodari/2022/45",
+   "short": "HCL Năvodari nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 45/2022 cu privire la modificarea contractului de constituire a dreptului de superficie nr. 1231/07.09.2018",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr45-din-24.03.2022.pdf",
+     "sha256": "040e9c470d19404611daccae7108646b453d8d3a5bb91c5a3a4c55047e98c751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-46-2022",
+   "path": "local/constanta/navodari/2022/46",
+   "short": "HCL Năvodari nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 46/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr46-din-24.03.2022.pdf",
+     "sha256": "b7b20db32e2b8dd04cf6baff0fb5e937fab6a7a3221fd514e3a6cbe1fb6f0874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-47-2022",
+   "path": "local/constanta/navodari/2022/47",
+   "short": "HCL Năvodari nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 47/2022 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Constantei, fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr47-din-24.03.2022.pdf",
+     "sha256": "399da508df4743ff70d7fedeef2c5194303ca349abb98d85f9e4e0e637bb2465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-48-2022",
+   "path": "local/constanta/navodari/2022/48",
+   "short": "HCL Năvodari nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 48/2022 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Santierelor, fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr48-din-24.03.2022.pdf",
+     "sha256": "fc02f2861b4c7a15a0e8c348b30ac24ed01b7e2b23e8145eeffa299e90b3f28b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-49-2022",
+   "path": "local/constanta/navodari/2022/49",
+   "short": "HCL Năvodari nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 49/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr49-din-24.03.2022.pdf",
+     "sha256": "5705c30adbe525278c390d07288f8c387880800269a0c5f0ecfaed7d74de9d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-5-2022",
+   "path": "local/constanta/navodari/2022/5",
+   "short": "HCL Năvodari nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 5/2022 privind modificarea Organigramei, a Statului de functii si a Statului de personal ale aparatului de specialitate al Primarului Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr5-din-10.02.2022.pdf",
+     "sha256": "5052de5718e9d62850c72bd6506aebc8d5c1c7296af5d7dd70a75b130306e46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-50-2022",
+   "path": "local/constanta/navodari/2022/50",
+   "short": "HCL Năvodari nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 50/2022 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Sperantei, fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr50-din-24.03.2022.pdf",
+     "sha256": "4fc053a31ea69868f08630bcb403967282bc128cd8f7902def86571c040f931a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-51-2022",
+   "path": "local/constanta/navodari/2022/51",
+   "short": "HCL Năvodari nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 51/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr51-din-24.03.2022.pdf",
+     "sha256": "7a9124de0a35c587d5e6ce15d527f3364a1fec2f3e98f3b0c83c1dbdb584b4c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-52-2022",
+   "path": "local/constanta/navodari/2022/52",
+   "short": "HCL Năvodari nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 52/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr52-din-24.03.2022.pdf",
+     "sha256": "615aca0c943d13baf675691894191cb951cf312f355181621761d33b403b1da3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-53-2022",
+   "path": "local/constanta/navodari/2022/53",
+   "short": "HCL Năvodari nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 53/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr53-din-24.03.2022.pdf",
+     "sha256": "d62e653b26b40774b9590344a0bf1fe03d62542414cde02e41249c3ac3952774"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-54-2022",
+   "path": "local/constanta/navodari/2022/54",
+   "short": "HCL Năvodari nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 54/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr54-din-24.03.2022.pdf",
+     "sha256": "3a06ed602a6b227eeed8a155c9947aa4a0e52ab621d66a823d1466d7f0b40e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-55-2022",
+   "path": "local/constanta/navodari/2022/55",
+   "short": "HCL Năvodari nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 55/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr55-din-24.03.2022.pdf",
+     "sha256": "447a32f7b67a6ce0e57c195010dd9efd80260832ff3766e89d208d4c6c0b5f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-56-2022",
+   "path": "local/constanta/navodari/2022/56",
+   "short": "HCL Năvodari nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 56/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr56-din-24.03.2022.pdf",
+     "sha256": "557c1a11428384515f3d6ece9e27abb9f817a0b3a1ef9fbcd98d6bfcb0f0036f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-57-2022",
+   "path": "local/constanta/navodari/2022/57",
+   "short": "HCL Năvodari nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 57/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr57-din-24.03.2022.pdf",
+     "sha256": "71fa6f1dbeeb29e417fb774900e42d10ce0b277aa430c77c70142de55fa57642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-58-2022",
+   "path": "local/constanta/navodari/2022/58",
+   "short": "HCL Năvodari nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 58/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr58-din-24.03.2022.pdf",
+     "sha256": "dd0d3a3b7749ee47d36690a6d9bdc991ab9518d0c932391254f49cd32ff668c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-59-2022",
+   "path": "local/constanta/navodari/2022/59",
+   "short": "HCL Năvodari nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 59/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr59-din-24.03.2022.pdf",
+     "sha256": "a7b4fbacfe0057b1facac2013f735d12ad09a7f6acca5c5424452a76aec5a0df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-6-2022",
    "path": "local/constanta/navodari/2022/6",
    "short": "HCL Năvodari nr. 6/2022",
@@ -359,6 +3899,96 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr6-din-10.02.2022.pdf",
      "sha256": "e399cf08999409d6cfd3ebca1e522daaba158238cac14d2ae18b2c342fdf28a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-60-2022",
+   "path": "local/constanta/navodari/2022/60",
+   "short": "HCL Năvodari nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 60/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr60-din-24.03.2022.pdf",
+     "sha256": "98d01120031cee532390dd0f58984f517fec9c4358592f782ed4d11d9a3108f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-61-2022",
+   "path": "local/constanta/navodari/2022/61",
+   "short": "HCL Năvodari nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 61/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr61-din-24.03.2022.pdf",
+     "sha256": "34fdb176988f2d42483e6c847bdb133dded667628562d98389dc3ef2b0b34ac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-62-2022",
+   "path": "local/constanta/navodari/2022/62",
+   "short": "HCL Năvodari nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 62/2022 privind darea in folosinta gratuita a unui spatiu din inventarul domeniului privat al Orasului Navodari cu destinatia de sediu al Asociatiei de utilitate publica Organizatia de Management a Destinatiei Statiunea Mamaia Nord",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr62-din-24.03.2022.pdf",
+     "sha256": "3a4e46ff4771e597aa4ffb7c87e60ff86ea803b07c8538df0eea42970afaf6e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-63-2022",
+   "path": "local/constanta/navodari/2022/63",
+   "short": "HCL Năvodari nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 63/2022 cu privire la demararea procedurilor pentru efectuarea unui schimb de terenuri pentru cauza de utilitate publica Èi crearea unui culoar tehnologic Ã®n zona de protecÈie Èi siguranÈÄ aferentÄ lucrÄrii de investiÈii âÃnlocuire tronson conductÄ ConstanÈa -Midia Ç¾ 24",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr63-din-24.03.2022.pdf",
+     "sha256": "93f338e47967ba2a7440ae2683c8fea3ffca770e7bfd4bcabefbfd71ebab7996"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-64-2022",
+   "path": "local/constanta/navodari/2022/64",
+   "short": "HCL Năvodari nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 64/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr64-din-24.03.2022.pdf",
+     "sha256": "1f619af5f2281338ac0f4b242c52f27a1a3457eece7330557faaa8a09d1b1e29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-65-2022",
+   "path": "local/constanta/navodari/2022/65",
+   "short": "HCL Năvodari nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 65/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr65-din-24.03.2022.pdf",
+     "sha256": "8fefe0ab52b2be19261aa7632777b8d3ce26d87b1bd92fe8dedbc9ad75fd5301"
     }
    ]
   },
@@ -393,6 +4023,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-70-2022",
+   "path": "local/constanta/navodari/2022/70",
+   "short": "HCL Năvodari nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 70/2022 cu privire la aprobarea unui schimb de locuinta sociala situata in Orasul Navodari, str. Cabanei, Camin Nou, cam. 113",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr70-din-24.03.2022.pdf",
+     "sha256": "0842e5c26f1ed2762ecfdce26ab7a37c62078ee5d6e87bd01bad9333dadaac65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-71-2022",
+   "path": "local/constanta/navodari/2022/71",
+   "short": "HCL Năvodari nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 71/2022 cu privire la aprobarea Listei solicitantilor care nu au acces la atribuirea unui lot de teren, a Listei solicitantilor care au acces la atribuirea unui lot de teren si a Listei de prioritate",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr71-din-24.03.2022.pdf",
+     "sha256": "bf53504f842547316a8692520da28f95f57a887839f59ae1fc71ef4acd6ef290"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-72-2022",
+   "path": "local/constanta/navodari/2022/72",
+   "short": "HCL Năvodari nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 72/2022 privind aprobarea conditiilor si a procedurii de acordare a ajutoarelor de urgenta din bugetul local",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr72-din-24.03.2022.pdf",
+     "sha256": "bee41b09711211dac75a3da851889e23103ed5f6950e39b81e0269f4f58aef88"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-73-2022",
    "path": "local/constanta/navodari/2022/73",
    "short": "HCL Năvodari nr. 73/2022",
@@ -423,6 +4098,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-75-2022",
+   "path": "local/constanta/navodari/2022/75",
+   "short": "HCL Năvodari nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 75/2022 privind aprobarea principalelor manifestari cultural-artistice si de tineret care se vor desfasura in Orasul Navodari in anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr75-din-24.03.2022.pdf",
+     "sha256": "9554d41b6ea7ca91436cf3997a9557569b7051cf88280edd28995b93eeccfcd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-76-2022",
+   "path": "local/constanta/navodari/2022/76",
+   "short": "HCL Năvodari nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 76/2022 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor-acordurilor-cadru pentru achizitia de âLapte si produse lactate si produse de panificatieâ aferente Programului pentru scoli al Romaniei",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr76-din-24.03.2022.pdf",
+     "sha256": "00163a3061b782b1e5b384d9c6bf1b3eee43ee91ebd206c3c978a5ed97e17962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-77-2022",
+   "path": "local/constanta/navodari/2022/77",
+   "short": "HCL Năvodari nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 77/2022 cu privire la aprobarea Planului de Ordine si Siguranta Publica al Politiei Locale a Orasului Navodari pe anul 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr77-din-24.03.2022.pdf",
+     "sha256": "ab7d3c900dcf2779175b003ebda12d2c73b9be0ea085c51fc3dbd3e2e5892cd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-78-2022",
+   "path": "local/constanta/navodari/2022/78",
+   "short": "HCL Năvodari nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 78/2022 privind modificarea art. 3 al HCL nr. 247/30.09.2021 cu privire la desemnarea reprezentantilor Consiliului Local Navodari in Consiliile de Administratie ale unitatilor de invatamant din Orasul Navodari pentru anul scolar 2021 – 2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr78-din-24.03.2022.pdf",
+     "sha256": "33780a1d0b83e296281fcf6eddb95080264f5016310269598642f0c51efcc297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-79-2022",
+   "path": "local/constanta/navodari/2022/79",
+   "short": "HCL Năvodari nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 79/2022 privind achiziÈionarea unor servicii de asistenta si reprezentare juridicÄ a UAT OraÈ NÄvodari Ã®n litigiul care face obiectul dosarului nr. 33118/212/2021, Ã®n contradictoriu cu SIND ROMÃNIA SRL",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr79-din-24.03.2022.pdf",
+     "sha256": "d05801956675698e420deefd72b108360f1266beb40e5e6088e755df95d5a31a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-8-2022",
    "path": "local/constanta/navodari/2022/8",
    "short": "HCL Năvodari nr. 8/2022",
@@ -434,6 +4184,66 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr8-din-10.02.2022.pdf",
      "sha256": "ad67450d4a0a39d357296959c9a610ca2bd04c6e15d5fe20941ae1c48741002d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-80-2022",
+   "path": "local/constanta/navodari/2022/80",
+   "short": "HCL Năvodari nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 80/2022 privind achiziÈionarea unor servicii de asistenta si reprezentare juridicÄ a UAT OraÈ NÄvodari Ã®n litigiile care fac obiectul dosarelor nr. 6529/118/2021 Èi nr. 6530/118/2021, avÃ¢nd ca obiect pretenÈiile SC SIRO PROCONSULT SA",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr80-din-24.03.2022.pdf",
+     "sha256": "50e9f8c21222fa15fe41875aaf4e6410f63348d14e50005fdff2f0d933519e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-81-2022",
+   "path": "local/constanta/navodari/2022/81",
+   "short": "HCL Năvodari nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 81/2022 privind aprobarea Planului de acÈiuni Èi lucrÄri de interes local pe anul 2022, ce vor fi executate de cÄtre beneficiarii de ajutor social, conform Legii 416/2001, cu modificÄrile Èi completÄrile ulterioare",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr81-din-24.03.2022.pdf",
+     "sha256": "84c2627b221a34e7203fec1f4c1af4275d57db0a4996f032a580f6a257ab100a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-83-2022",
+   "path": "local/constanta/navodari/2022/83",
+   "short": "HCL Năvodari nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 83/2022 privind aprobarea notei conceptuale pentru obiectivul de investitii âEXTINDERE SISTEM DE SUPRAVEGHERE SI MODERNIZARE DISPECERAT ORAS NAVODARIâ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr83-din-24.03.2022.pdf",
+     "sha256": "68e397e7080b68b790679accbb630ab1860f8f4cd1be67a9a3c3876ff13324d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-84-2022",
+   "path": "local/constanta/navodari/2022/84",
+   "short": "HCL Năvodari nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 84/2022 privind modificarea Èi completarea art. 2 din HCL nr. 289/2021 cu privire la probarea cuantumului Èi numÄrului de burse Ècolare ce se vor acorda Ã®n anul Ècolar 2-21-2022 Ã®n unitÄÈile de Ã®nvÄÈÄmÃ¢nt",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr84-din-24.03.2022.pdf",
+     "sha256": "e171888bce474ccc2c7ed35d6c20f677b0921e6c5b18c4562776d9b8c87371e9"
     }
    ]
   },
@@ -453,6 +4263,111 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-86-2022",
+   "path": "local/constanta/navodari/2022/86",
+   "short": "HCL Năvodari nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 86/2022 privind aprobarea actualizÄrii Devizului general aferent obiectivului de investiÈii âConstruire sens giratoriu pe pod judeÈean tronson II lot 2â",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr86-din-24.03.2022.pdf",
+     "sha256": "83eebb150bcbc8133284cb4a840e217f040a560e2d3a5bf751536d86c9cc6304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-87-2022",
+   "path": "local/constanta/navodari/2022/87",
+   "short": "HCL Năvodari nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 87/2022 privind reglementarea semnalizÄrii rutiere pe raza oraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr87-din-24.03.2022.pdf",
+     "sha256": "581506235dfed56c038082ab3710b3f77aae36e6ff7be335fc3c4f7d9f87cacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-88-2022",
+   "path": "local/constanta/navodari/2022/88",
+   "short": "HCL Năvodari nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 88/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr88-din-19.04.2022.pdf",
+     "sha256": "5986e8122abab90cc5996e2853f489985f3c8e648e2f96ea5de1d20e281727e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-89-2022",
+   "path": "local/constanta/navodari/2022/89",
+   "short": "HCL Năvodari nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 89/2022 privind modificarea Organigramei, a Statului de functii si a Statului de personal ale aparatului de specialitate al Primarului Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr89-din-19.04.2022.pdf",
+     "sha256": "8985a178649e248a74a4fb52bea28aaabbff3c6e56e53c03d79efc3298d5ee22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-9-2022",
+   "path": "local/constanta/navodari/2022/9",
+   "short": "HCL Năvodari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 9/2022 cu privire la apobarea atribuirii directe a gestiunii serviciului public de administrare, intretinere si exploatare a cimitirelor ce apartin domeniului public al Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/02/HCL-nr9-din-10.02.2022.pdf",
+     "sha256": "2dc6dd372e0e72a2f181c255611ca233cf4dd4626a9bbc45fb0f0635dd3ff9ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-90-2022",
+   "path": "local/constanta/navodari/2022/90",
+   "short": "HCL Năvodari nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 90/2022 privind transmiterea in administrarea Gradinitei cu Program Prelungit âLumea Florilorâ Oras Navodari, unitate de invatamant cu personalitate juridica a imobilelor constructii si teren aferent Cresei nr. 20, oras Navodari, proprietatea publica a UAT Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr90-din-19.04.2022.pdf",
+     "sha256": "9992b8c3cc6c720f5d084abe26835a2e2445855e550afb329063e44757f31d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-91-2022",
+   "path": "local/constanta/navodari/2022/91",
+   "short": "HCL Năvodari nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 91/2022 privind completarea si modificarea HCL Navodari nr. 35/24.03.2022 cu privire la aprobarea atriburii directe a gestiunii serviciului public de adminstrare si intretinere a tramei stradale din Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr91-din-19.04.2022.pdf",
+     "sha256": "e8ec6338fe510f26d04adf1d62d029de6b78d2fdde0b715187944671b440de16"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-92-2022",
    "path": "local/constanta/navodari/2022/92",
    "short": "HCL Năvodari nr. 92/2022",
@@ -464,6 +4379,66 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr92-din-19.04.2022.pdf",
      "sha256": "f7119c447f829343b2a26e26a05ba1d3a502f8e830b4a1a4e2c6198596c1b917"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-93-2022",
+   "path": "local/constanta/navodari/2022/93",
+   "short": "HCL Năvodari nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 93/2022 privind aprobarea prelungirii Contractului de delegare a gestiunii serviciului de alimentare cu energie termica in sistem centralizat in Orasul Navodari nr. 26490/28.04.2017",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr93-din-19.04.2022.pdf",
+     "sha256": "54f13c77b816f31ebcb96abe40dde66324e8f76a6c4264368af859c41d24faa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-97-2022",
+   "path": "local/constanta/navodari/2022/97",
+   "short": "HCL Năvodari nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 97/2022 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectivul de investitii „Extindere retea Â gaze naturale cartier Midia-Sat si Peninsula”, precum si aprobarea depunerii acestuia la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei in ve",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/03/HCL-nr97-din-26.04.2022.pdf",
+     "sha256": "44c0872c3843cb9e24de264966370213a674ea30c7257eb8745920bcc9dc863f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-98-2022",
+   "path": "local/constanta/navodari/2022/98",
+   "short": "HCL Năvodari nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 98/2022 privind aprobarea listei cu dosarele aflate pe rolul instantelor de judecata si inregistrate la Primaria Oras Navodari, prevazute in anexa, pentru care se asigura asistenta si reprezentare de catre cabinete de avocatura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr98-din-28.04.2022.pdf",
+     "sha256": "c357cb91456919ca48db5e7b2f59297242e1780bd1d11cfcbe6e31efa0abb393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-99-2022",
+   "path": "local/constanta/navodari/2022/99",
+   "short": "HCL Năvodari nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 99/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2022/04/HCL-nr99-din-28.04.2022.pdf",
+     "sha256": "61335778fc8aaf050a0eda584b5b6981fd1834943b32fa418de6d0657d13b482"
     }
    ]
   }

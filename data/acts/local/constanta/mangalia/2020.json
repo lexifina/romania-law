@@ -92,6 +92,94 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-13-2020",
+"path": "local/constanta/mangalia/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 13/2020 privind aprobarea planului de acţiuni cu obiective şi lucrări de interes local stabilit pentru repartizarea orelor de muncă beneficiarilor de ajutor social pentru anul 2020",
+"short": "HCL Mangalia nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-14-2020",
+"path": "local/constanta/mangalia/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 14/2020 privind aprobarea Planului anual de acțiuni cu obiective și lucrări de interes local stabilit pentru persoanele obligate să presteze muncă în folosul comunității de către instanțele de judecată și Serviciile de Probațiuni și de persoanele care au copii în plasament",
+"short": "HCL Mangalia nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-24-2020",
+"path": "local/constanta/mangalia/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 24/2020 privind aprobarea vânzării terenului în suprafață de 5036 mp din acte (5492 mp din măsurători) situat în Municipiul Mangalia, Stațiunea Venus, Str.Nicolae Iorga, Nr.16, Jud. Constanța",
+"short": "HCL Mangalia nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-25-2020",
+"path": "local/constanta/mangalia/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 25/2020 privind aprobarea dezmembrării imobilului teren în suprafață de 2330mp situat în Municipiul Mangalia, Stațiunea Venus, Str.Nicolae Iorga, nr.6B, Jud. Constanța",
+"short": "HCL Mangalia nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-26-2020",
 "path": "local/constanta/mangalia/2020/26",
 "kind": "local",
@@ -134,6 +222,29 @@
 "council_name": "Consiliul Local al Municipiului Mangalia",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-28-2020",
+"path": "local/constanta/mangalia/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 28/2020",
+"short": "HCL Mangalia nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": null,
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -212,6 +323,50 @@
 "reason": null,
 "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 52/2020 privind stabilirea procedurii de desfășurare a ședințelor Consiliului Local al Municipiului Mangalia, în situații excepționale, constatate de autoritățile abilitate",
 "short": "HCL Mangalia nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-27",
+"latest": "2020-03-27",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-55-2020",
+"path": "local/constanta/mangalia/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 55/2020 privind aprobarea Organigramei și Statului de funcții ale Spitalului Municipal Mangalia, valabile la data de 01.02.2020",
+"short": "HCL Mangalia nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-01",
+"latest": "2020-02-01",
+"portal": "https://mangalia.ro/2020/02/hotarari-ale-consiliului-mangalia-2020/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-59-2020",
+"path": "local/constanta/mangalia/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 59/2020 privind mandatarea în mod expres a reprezentantului Consiliului Local al Municipiului Mangalia în cadrul Adunării Generale a Acționarilor a S.C",
+"short": "HCL Mangalia nr. 59/2020",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

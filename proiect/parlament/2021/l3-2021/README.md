@@ -1,0 +1,55 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.217/2020 pentru modificarea art.9 din Ordonanţa Guvernului nr.88/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare pentru situaţii de urgenţă
+
+**Became:** [Legea nr. 129/2021](../../../../lege/2021/129/) (`legea-129-2021`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-129-2021`.
+
+Proiect de lege L3/2021 · initiator: Guvernul României · 9 published stages, 2020-12-30 to 2021-05-06 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L3&an_cls=2021>
+
+- Senate number: L3/2021
+- Type: Proiect de lege
+- Character: Organică
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 1288/30.12.2020
+- Stage in the bill file: A devenit Legea nr.129/06.05.2021 publicatã în M.O. nr.475/06.05.2021
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2021-l3-2021/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2020-12-30 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Document |
+| 2021-01-26 | documents published: Aviz comisie |
+| 2021-02-09 | documents published: Raport comisie sesizată pe fond |
+| 2021-02-15 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2021-02-17 | registered at the Chamber of Deputies |
+| 2021-04-14 | adopted by the Chamber of Deputies |
+| 2021-04-19 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2021-04-21 | sent for promulgation |
+| 2021-05-06 | promulgated, becomes Legea nr. 129/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [afp-dff7d797.md](afp-dff7d797.md) | Adresă privind forma promulgată (AFP), as published |
+| [am-aa096951.md](am-aa096951.md) | Adresă către Camera Deputaților (AM), as published |
+| [axs-1a9a6886.md](axs-1a9a6886.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [ca16-56fb25ee.md](ca16-56fb25ee.md) | Aviz comisie (CA16), as published |
+| [cr-dc27c2f0.md](cr-dc27c2f0.md) | Raport comisie sesizată pe fond (CR), as published |
+| [dp-8a8cd865.md](dp-8a8cd865.md) | Decret de promulgare (DP), as published |
+| [fp-1a81f17a.md](fp-1a81f17a.md) | Forma promulgată (FP), as published |
+| [fs-a9a2177d.md](fs-a9a2177d.md) | Forma adoptată de Senat (FS), as published |
+| [lp-14c00ef6.md](lp-14c00ef6.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2021-l3-2021`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L3/2021: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L3/2021: comments by private persons are not collected or published; initiators are credited as a body.

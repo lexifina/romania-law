@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-12-2024",
+   "path": "local/constanta/mangalia/2024/12",
+   "short": "HCL Mangalia nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 12/2024",
+   "url": "https://mangalia.ro/2024/04/hotararea-nr-12/",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://mangalia.ro/wp-content/uploads/2024/04/Hotararea-nr.12.pdf",
+     "sha256": "d97b6b6dae048d80d50f425613c5d5edb05d87004fbff19828d9781fb044440c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-122-2024",
    "path": "local/constanta/mangalia/2024/122",
    "short": "HCL Mangalia nr. 122/2024",

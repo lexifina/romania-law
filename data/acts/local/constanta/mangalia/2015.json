@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/constanta/mangalia/2015",
+"acts": [
+{
+"slug": "hcl-constanta--mangalia-132-2015",
+"path": "local/constanta/mangalia/2015/132",
+"kind": "local",
+"year": "2015",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 132/2015 privind aprobarea indicatorilor tehnico - economici conform Proiectului nr.1 \"SISTEMATIZARE ZONA PIAȚA MERCUR MANGALIA” și realizarea investiției Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară convocată în data de 08.06.2015 Având în vedere: e Expunerea de motive prezentată; e Proiect de hotărâre inițiat de primarul Municipiului Mangalia și aprobat de membrii Consiliului Lo",
+"short": "HCL Mangalia nr. 132/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-13",
+"latest": "2015-02-13",
+"portal": "https://mangalia.ro/2015/06/hcl-13208-06-2015/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-150-2015",
+"path": "local/constanta/mangalia/2015/150",
+"kind": "local",
+"year": "2015",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 150/2015 privind modificarea organigramei, statelor de funcții din cadrul aparatului de specialitate al Primarului Municipiului Mangalia, Direcției Poliția Locală și Serviciului Public Comunitar Local de Evidență a Persoanelor Consiliul Local al Municipiului Mangalia, întrunit în ședința de îndată convocată în data de 30.06.2015 Având în vedere: e Expunerea de motive prezentată; e Proiect de hotărâre iniți",
+"short": "HCL Mangalia nr. 150/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-06-30",
+"latest": "2015-06-30",
+"portal": "https://mangalia.ro/2015/07/hcl-15030-06-2015/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-157-2015",
+"path": "local/constanta/mangalia/2015/157",
+"kind": "local",
+"year": "2015",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 157/2015 cu privire la emiterea „Acordului Consiliului Local al Municipiului Mangalia în vederea realizării măsurătorilor topografice și geotehnice pe trama stradală din Municipiul Mangalia” aferente investițiilor propuse în cadrul Proiectului Operațional Infrastructură Mare (P.O.L.M.) Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară convocată în data de 24.08.2015 Având în vedere: Ex",
+"short": "HCL Mangalia nr. 157/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-05-08",
+"latest": "2015-05-08",
+"portal": "https://mangalia.ro/2015/09/hcl-15724-08-2015/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-222-2015",
+"path": "local/constanta/mangalia/2015/222",
+"kind": "local",
+"year": "2015",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 222/2015",
+"short": "HCL Mangalia nr. 222/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-20",
+"latest": "2015-11-20",
+"portal": "https://mangalia.ro/2016/01/hcl-22221-12-2015/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

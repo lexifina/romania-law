@@ -3,6 +3,21 @@
  "shard": "local/constanta/mangalia/2017",
  "acts": [
   {
+   "slug": "hcl-constanta--mangalia-170-2017",
+   "path": "local/constanta/mangalia/2017/170",
+   "short": "HCL Mangalia nr. 170/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 170/2017 privind actualizarea situației financiar-contabile a UAT Mangalia prin scăderea din secțiunea venituri a unor sume, urmare a existenței de hotărâri judecătorești, definitive, cu impact asupra veniturilor bugetului local",
+   "url": "https://mangalia.ro/2017/01/hcl-2017/",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2017/01/170.pdf",
+     "sha256": "b9d6dabb8375647e53ae712ed7dc543bd8ed6389119dc5e915017d8baa73cf2e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-84-2017",
    "path": "local/constanta/mangalia/2017/84",
    "short": "HCL Mangalia nr. 84/2017",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": "http://mangalia.ro/wp-content/uploads/2017/01/HCL-84.pdf",
      "sha256": "996a3ad92c957ceaf938ff4dc9bd3844421c371a26d591f3d29e8eb81b2da0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-85-2017",
+   "path": "local/constanta/mangalia/2017/85",
+   "short": "HCL Mangalia nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 85/2017 privind desemnarea reprezentanților Consiliului Local în calitate de observatori în cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Municipiul Mangalia",
+   "url": "https://mangalia.ro/2017/01/hcl-2017/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2017/01/HCL-85.pdf",
+     "sha256": "4b744dc408d90b488c648831509da87263e0364ea1027c4a3fa4538cada82823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-86-2017",
+   "path": "local/constanta/mangalia/2017/86",
+   "short": "HCL Mangalia nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 86/2017 privind aprobarea Acordului de cooperare privind acordarea de sprijin specific în domeniul menținerii ordinii și liniștii publice, prevenirii și combaterii faptelor antisociale pe teritoriul administrativ al Municipiului Mangalia în perioada estivală 1 Iulie – 31 August 2017",
+   "url": "https://mangalia.ro/2017/01/hcl-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2017/01/HCL-86.pdf",
+     "sha256": "47175d8a17c394671d6b34916eb480d8556ebc97e996e78a5f62341ae95fad55"
     }
    ]
   }

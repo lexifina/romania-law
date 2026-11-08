@@ -3,6 +3,1791 @@
  "shard": "local/constanta/lumina/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--lumina-100-2025",
+   "path": "local/constanta/lumina/2025/100",
+   "short": "HCL Lumina nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 100/2025 privind atribuirea denumirii „Parcul Dumitru Chiru” unui parc din comuna Lumina și amplasarea unei plăcuțe comemorative",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210511",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-101-2025",
+   "path": "local/constanta/lumina/2025/101",
+   "short": "HCL Lumina nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 101/2025 privind aprobarea rectificării nr. 2 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210512",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-102-2025",
+   "path": "local/constanta/lumina/2025/102",
+   "short": "HCL Lumina nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 102/2025 privind aprobarea aderarii comunei Lumina, jud Constanta, la Asociatia pentru Supravegherea si Protectia Animalelor IVETS – ASPA IVETS",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210513",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-103-2025",
+   "path": "local/constanta/lumina/2025/103",
+   "short": "HCL Lumina nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 103/2025 privind acordarea unui mandat special reprezentantului comunei Lumina in cadrul Adunarii Generale a Asociației de Dezvoltare Intercomunitară “ Dobrogea”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213586",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-104-2025",
+   "path": "local/constanta/lumina/2025/104",
+   "short": "HCL Lumina nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 104/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213587",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-105-2025",
+   "path": "local/constanta/lumina/2025/105",
+   "short": "HCL Lumina nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 105/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213588",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-106-2025",
+   "path": "local/constanta/lumina/2025/106",
+   "short": "HCL Lumina nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 106/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.03.2025-30.04.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213589",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-107-2025",
+   "path": "local/constanta/lumina/2025/107",
+   "short": "HCL Lumina nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 107/2025 privind acordarea unui sprijin financiar Uniunii Democrate a Tătarilor Turco-Musulmani din România în vederea organizării evenimentului cultural „Kureș – lupte tradiționale tătărești”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213590",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-108-2025",
+   "path": "local/constanta/lumina/2025/108",
+   "short": "HCL Lumina nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 108/2025 privind insusirea Raportului de reevaluare a constructiilor si terenurilor cuprinse in domeniul public si privat al comunei Lumina la data de 30.04.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213591",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-109-2025",
+   "path": "local/constanta/lumina/2025/109",
+   "short": "HCL Lumina nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 109/2025 privind aprobarea Organigramei si a Statului de functii ale Clubului Sportiv “Lumina”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213592",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-110-2025",
+   "path": "local/constanta/lumina/2025/110",
+   "short": "HCL Lumina nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 110/2025 privind aprobarea vanzarii prin negociere directa a terenului in suprafata de 953 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Sirenei nr.41 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213593",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-111-2025",
+   "path": "local/constanta/lumina/2025/111",
+   "short": "HCL Lumina nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 111/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213594",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-112-2025",
+   "path": "local/constanta/lumina/2025/112",
+   "short": "HCL Lumina nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 112/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213595",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-113-2025",
+   "path": "local/constanta/lumina/2025/113",
+   "short": "HCL Lumina nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 113/2025 privind aprobarea Devizului general cu rest de executie eligibil si neeligibil privind chletuielile necesare realizarii obiectivului de investitii : Renovarea integrata a sediului administrativ- Asistenta Sociala / Asistenta Medicala Comunitara, Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213596",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-114-2025",
+   "path": "local/constanta/lumina/2025/114",
+   "short": "HCL Lumina nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 114/2025 privind aprobarea raportului de evaluare nr.4296/05.06.2025 pentru terenul in suprafata de 300 mp, situat in str. Carol I, nr.22 Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213597",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-115-2025",
+   "path": "local/constanta/lumina/2025/115",
+   "short": "HCL Lumina nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 115/2025 privind aprobarea raportului de evaluare nr .4297/05.06.2025 pentru terenurile in suprafata de 300 mp fiecare aflate in proprietatea privata a comunei Lumina ,situate in str .Mircea cel Batran nr.72, lot 60 si nr.74, lot 61 com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213598",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-116-2025",
+   "path": "local/constanta/lumina/2025/116",
+   "short": "HCL Lumina nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 116/2025 privind reorganizarea Serviciului de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213599",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-117-2025",
+   "path": "local/constanta/lumina/2025/117",
+   "short": "HCL Lumina nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 117/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213600",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-118-2025",
+   "path": "local/constanta/lumina/2025/118",
+   "short": "HCL Lumina nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 118/2025 privind aprobarea valorii ajustării, aferenta situațiilor de lucrari nr.1 - nr.5 , pentru obiectivul de investiții “ Renovarea integrata a sediului administrativ – Asistenta Sociala /Asistenta Medicala Comunitara, Comuna Lumina, jud. Constanta”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213601",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-119-2025",
+   "path": "local/constanta/lumina/2025/119",
+   "short": "HCL Lumina nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 119/2025 privind aprobarea rectificării nr. 3 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/213602",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/213602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-120-2025",
+   "path": "local/constanta/lumina/2025/120",
+   "short": "HCL Lumina nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 120/2025 privind aprobarea Devizului general cu rest de executie eligibil si neeligibil privind cheltuielile necesare realizarii obiectivului de investitii: “Renovarea integrata a sediului administrativ – Serviciul Salubrizare, comuna Lumina, jud. Constanta ”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215421",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-121-2025",
+   "path": "local/constanta/lumina/2025/121",
+   "short": "HCL Lumina nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 121/2025 privind modificarea indicatorilor tehnico-economici si actualizarea Devizului general ai proiectului “Extindere rețea de canalizare menajeră pe strada Tulcei și zona lotizată B5 în localitatea Lumina, județul Constanța” – Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215422",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-122-2025",
+   "path": "local/constanta/lumina/2025/122",
+   "short": "HCL Lumina nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 122/2025 privind completarea HCL nr. 130/ 2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215423",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-123-2025",
+   "path": "local/constanta/lumina/2025/123",
+   "short": "HCL Lumina nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 123/2025 privind aprobarea Actului adițional nr. 2 la Documentul de Poziție privind modul de implementare a Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215424",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-124-2025",
+   "path": "local/constanta/lumina/2025/124",
+   "short": "HCL Lumina nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 124/2025 privind aprobarea infiintarii serviciului de educatie timpurie complementare",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215425",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-125-2025",
+   "path": "local/constanta/lumina/2025/125",
+   "short": "HCL Lumina nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 125/2025 privind aprobarea rectificarii nr.4 a bugetului local al Comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215426",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-126-2025",
+   "path": "local/constanta/lumina/2025/126",
+   "short": "HCL Lumina nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 126/2025 privind aprobarea acordului de principiu in vederea intocmirii documentatiilor cadastrale si de urbanism pentru suprafata de teren intravilan ce urmeaza a se acorda in conformitate cu prevederile Legii 15/2003",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215427",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-127-2025",
+   "path": "local/constanta/lumina/2025/127",
+   "short": "HCL Lumina nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 127/2025 privind aprobarea rectificării nr. 5 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/215621",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/215621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-128-2025",
+   "path": "local/constanta/lumina/2025/128",
+   "short": "HCL Lumina nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 128/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218523",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-129-2025",
+   "path": "local/constanta/lumina/2025/129",
+   "short": "HCL Lumina nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 129/2025 privind aprobarea închirierii prin licitație publică a Parcarii de trafic greu situata in Lumina, strada Soseaua Tulcei, nr. 122 A, comuna Lumina, judetul Constanta, aflata in domeniul public al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218524",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-130-2025",
+   "path": "local/constanta/lumina/2025/130",
+   "short": "HCL Lumina nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 130/2025 privind aprobarea desfășurării programului „INDEXUL ANIMALELOR” și a Regulamentului privind gestionarea câinilor cu stăpân pe raza Comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218525",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-131-2025",
+   "path": "local/constanta/lumina/2025/131",
+   "short": "HCL Lumina nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 131/2025 privind aprobarea documentatiei tehnico- eonomice și a devizului general- faza proiect tehnic pentru obiectivul de investiții „Construire alei cimitir”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218526",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-132-2025",
+   "path": "local/constanta/lumina/2025/132",
+   "short": "HCL Lumina nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 132/2025 privind aprobarea acordului expres in vederea perfectarii cu efecte depline a cesiunii contractului de superficie dintre UAT Comuna Lumina si Telekom Romania Mobile Communication SA",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218527",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-133-2025",
+   "path": "local/constanta/lumina/2025/133",
+   "short": "HCL Lumina nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 133/2025 privind aprobarea actualizării Regulamentului și a Caietului de sarcini al Serviciului Local de Salubrizare al Comunei Lumina, județul Constanța, în conformitate cu prevederile legale în vigoare",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218528",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-134-2025",
+   "path": "local/constanta/lumina/2025/134",
+   "short": "HCL Lumina nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 134/2025 privind modificarea si completarea HCL nr. 99/29.05.2025 privind aprobarea inchirierii unor casute tip chioscuri comerciale",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218529",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-135-2025",
+   "path": "local/constanta/lumina/2025/135",
+   "short": "HCL Lumina nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 135/2025 privind declararea uzului si interesului public local cu privire la unele imobile",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218530",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-136-2025",
+   "path": "local/constanta/lumina/2025/136",
+   "short": "HCL Lumina nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 136/2025 privind aprobarea raportului de evaluare privind pretul de pornire la negociere directa (in vederea vanzarii) a unui imobil – teren in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina, str. Stefan cel Mare, nr. 46 comuna Lumina, jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218531",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-137-2025",
+   "path": "local/constanta/lumina/2025/137",
+   "short": "HCL Lumina nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 137/2025 privind stabilirea tarifelor Serviciului de Salubrizare pentru activitățile de întreținere a spațiilor verzi, începând cu data de 01.08.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218532",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-138-2025",
+   "path": "local/constanta/lumina/2025/138",
+   "short": "HCL Lumina nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 138/2025 privind aprobarea rectificării nr. 6 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218533",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-139-2025",
+   "path": "local/constanta/lumina/2025/139",
+   "short": "HCL Lumina nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 139/2025 privind utilizarea excedentului bugetar existent al Scolii Gimnaziale nr. 1 Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218534",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-140-2025",
+   "path": "local/constanta/lumina/2025/140",
+   "short": "HCL Lumina nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 140/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.05.2025-31.05.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218535",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-141-2025",
+   "path": "local/constanta/lumina/2025/141",
+   "short": "HCL Lumina nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 141/2025 privind aprobarea contractarii de servicii de asistenta juridica",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218536",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-142-2025",
+   "path": "local/constanta/lumina/2025/142",
+   "short": "HCL Lumina nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 142/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 230 mp aflat in proprietatea privata a comunei Lumina , jud. Constanta, situat in str. Teiului, nr.61",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218537",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-143-2025",
+   "path": "local/constanta/lumina/2025/143",
+   "short": "HCL Lumina nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 143/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 462 mp aflat in proprietatea privata a comunei Lumina , situat in str . Militari nr.20 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218538",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-144-2025",
+   "path": "local/constanta/lumina/2025/144",
+   "short": "HCL Lumina nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 144/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218539",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-145-2025",
+   "path": "local/constanta/lumina/2025/145",
+   "short": "HCL Lumina nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 145/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218540",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-146-2025",
+   "path": "local/constanta/lumina/2025/146",
+   "short": "HCL Lumina nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 146/2025 privind indreptarea erorii materiale din Hotararea Consiliului Local Lumina, nr 57/31.03.2025 privind vanzarea unui teren in surafata de 19mp, situat in str.Mare, nr.170 E, com Lumina , apartinand domeniului privat al comunei Lumina, jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218541",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-147-2025",
+   "path": "local/constanta/lumina/2025/147",
+   "short": "HCL Lumina nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 147/2025 privind aprobarea raportului de evaluare privind pretul de pornire la negociere directa (in vederea vanzarii) a unui imobil – teren in suprafata de 4000 mp aflat in proprietatea privata a comunei Lumina, str. Soseaua Tulcei nr. Zona pod cale ferata Ovidiu, comuna Lumina, jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/218542",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/218542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-148-2025",
+   "path": "local/constanta/lumina/2025/148",
+   "short": "HCL Lumina nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 148/2025 privind utilizarea excedentului bugetar existent al Serviciului Local de Salubrizare Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/220488",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/220488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-149-2025",
+   "path": "local/constanta/lumina/2025/149",
+   "short": "HCL Lumina nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 149/2025 privind aprobarea rectificării nr. 7 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/220489",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/220489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-150-2025",
+   "path": "local/constanta/lumina/2025/150",
+   "short": "HCL Lumina nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 150/2025 privind aprobarea rectificării nr. 8 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/221288",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/221288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-151-2025",
+   "path": "local/constanta/lumina/2025/151",
+   "short": "HCL Lumina nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 151/2025 privind aprobarea dezmembrarii imobilului (teren) –in suprafata de 3000 mp, situat pe strada George Enescu, nr. 1 A, Lumina, judetul Constanta, inscris in cartea funciara a comunei Lumina, sub nr. 106708",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225869",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-152-2025",
+   "path": "local/constanta/lumina/2025/152",
+   "short": "HCL Lumina nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 152/2025 privind atestarea apartenentei la domeniul privat al comunei Lumina, judetul Constanta, a unei suprafete de teren",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225870",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-153-2025",
+   "path": "local/constanta/lumina/2025/153",
+   "short": "HCL Lumina nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 153/2025 privind aprobarea contului de execuţie al bugetelor de venituri si cheltuieli pe trimestrul II an 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225871",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-154-2025",
+   "path": "local/constanta/lumina/2025/154",
+   "short": "HCL Lumina nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 154/2025 privind aprobarea întocmirii Studiului de Fezabilitate și a Proiectului Tehnic pentru construcția centurii ocolitoare a comunei Lumina, județul Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225872",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-155-2025",
+   "path": "local/constanta/lumina/2025/155",
+   "short": "HCL Lumina nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 155/2025 privind constituirea unei comisii speciale de anchetă pentru verificarea contractelor de concesiune, a autorizațiilor de construcție, a redevențelor încasate sau restante și a recepției lucrărilor efectuate pe domeniul public și privat al comunei",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225873",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-156-2025",
+   "path": "local/constanta/lumina/2025/156",
+   "short": "HCL Lumina nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 156/2025 privind aprobarea raportului de evaluare nr .4118/22.01.2025 pentru terenul in suprafata de 500 mp aflat in proprietatea privata a comunei Lumina ,situat in sat Oituz,str.Viitorului , nr.1, , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225874",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-157-2025",
+   "path": "local/constanta/lumina/2025/157",
+   "short": "HCL Lumina nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 157/2025 privind aprobarea raportului de evaluare nr .4313/15.08.2025 pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Stefan cel Mare, nr.79 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225875",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-158-2025",
+   "path": "local/constanta/lumina/2025/158",
+   "short": "HCL Lumina nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 158/2025 privind aprobarea raportului de evaluare nr .4311/15.08.2025 pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Mircea cel Batran, nr.69, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225876",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-159-2025",
+   "path": "local/constanta/lumina/2025/159",
+   "short": "HCL Lumina nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 159/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225877",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-160-2025",
+   "path": "local/constanta/lumina/2025/160",
+   "short": "HCL Lumina nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 160/2025 privind aprobarea raportului de evaluare nr .4316/15.08.2025 pentru terenul in suprafata de 700 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Morii, nr.116 E , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225878",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-161-2025",
+   "path": "local/constanta/lumina/2025/161",
+   "short": "HCL Lumina nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 161/2025 privind aprobarea raportului de evaluare nr .4312/15.08.2025 pentru terenul in suprafata de 447 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Prelungirea Iasomiei , nr.19 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225879",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-162-2025",
+   "path": "local/constanta/lumina/2025/162",
+   "short": "HCL Lumina nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 162/2025 privind aprobarea raportului de evaluare nr .4315/15.08.2025 pentru terenul in suprafata de 893 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Mare , nr.5bis , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225880",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-163-2025",
+   "path": "local/constanta/lumina/2025/163",
+   "short": "HCL Lumina nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 163/2025 privind aprobarea vanzarii prin negociere directa a unui imobil – teren in suprafata de 4000 mp aflat in proprietatea privata a comunei Lumina, str. Soseaua Tulcei nr. Zona pod cale ferata Ovidiu, comuna Lumina, jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225881",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-164-2025",
+   "path": "local/constanta/lumina/2025/164",
+   "short": "HCL Lumina nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 164/2025 privind completarea HCL nr. 130/ 2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225882",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-165-2025",
+   "path": "local/constanta/lumina/2025/165",
+   "short": "HCL Lumina nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 165/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/225883",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/225883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-166-2025",
+   "path": "local/constanta/lumina/2025/166",
+   "short": "HCL Lumina nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 166/2025 privind declararea uzului si interesului public local cu privire la bunul imobil - strada -Interioara, Tronson 2",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226872",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-167-2025",
+   "path": "local/constanta/lumina/2025/167",
+   "short": "HCL Lumina nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 167/2025 privind aprobarea rectificarii nr.9 a bugetului comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226873",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-168-2025",
+   "path": "local/constanta/lumina/2025/168",
+   "short": "HCL Lumina nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 168/2025 privind aprobarea alocării sumei de 74.000 lei în vederea achiziționării de auxiliare didactice pentru preșcolarii, elevii ciclului primar și gimnazial ai Școlii Gimnaziale nr. 1 Lumina și structurilor arondate",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226874",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-169-2025",
+   "path": "local/constanta/lumina/2025/169",
+   "short": "HCL Lumina nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 169/2025 privind aprobarea alocării sumei de 127.590 lei în vederea achiziționării de materiale didactice necesare desfasurarii activitatilor instructiv-educative in Gradinita cu Program prelungit “ Luminita” din Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226875",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-170-2025",
+   "path": "local/constanta/lumina/2025/170",
+   "short": "HCL Lumina nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 170/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.06.2025-30.06.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226876",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-171-2025",
+   "path": "local/constanta/lumina/2025/171",
+   "short": "HCL Lumina nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 171/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226877",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-172-2025",
+   "path": "local/constanta/lumina/2025/172",
+   "short": "HCL Lumina nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 172/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226878",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-173-2025",
+   "path": "local/constanta/lumina/2025/173",
+   "short": "HCL Lumina nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 173/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226879",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-174-2025",
+   "path": "local/constanta/lumina/2025/174",
+   "short": "HCL Lumina nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 174/2025 privind desemnarea reprezentantului Consiliului Local Lumina în Consiliul de Administrație al Liceului Teoretic „Pontus Euxinus”, Com. Lumina, în cadrul CEAC și în alte comisii ale unității de învățământ în anul scolar 2025-2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226880",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-175-2025",
+   "path": "local/constanta/lumina/2025/175",
+   "short": "HCL Lumina nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 175/2025 privind desemnarea unui reprezentant al Consiliului Local Com. Lumina care sa faca parte din Comisia pentru Evaluarea si Asigurarea Calitatii Educatiei (C.E.A.C) al Scolii Gimnaziale Nr.1 Lumina , Com. Lumina in anul scolar 2025-2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226881",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-176-2025",
+   "path": "local/constanta/lumina/2025/176",
+   "short": "HCL Lumina nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 176/2025 privind desemnarea unui reprezentant al Consiliului Local Com. Lumina ca membru al Comisiei pentru prevenirea si eliminarea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii la Scoala Gimnaziala nr.1 Com. Lumina in anul scolar 2025-2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226882",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-177-2025",
+   "path": "local/constanta/lumina/2025/177",
+   "short": "HCL Lumina nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 177/2025 privind desemnarea a doi reprezentanti ai Consiliului Local Com. Lumina care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale nr.1 Lumina, Com. Lumina in anul scolar 2025-2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226883",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-178-2025",
+   "path": "local/constanta/lumina/2025/178",
+   "short": "HCL Lumina nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 178/2025 privind aprobarea alocării unor fonduri din bugetul local al comunei Lumina pentru unitățile de cult religios",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226884",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-179-2025",
+   "path": "local/constanta/lumina/2025/179",
+   "short": "HCL Lumina nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 179/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226885",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-180-2025",
+   "path": "local/constanta/lumina/2025/180",
+   "short": "HCL Lumina nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 180/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226886",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-181-2025",
+   "path": "local/constanta/lumina/2025/181",
+   "short": "HCL Lumina nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 181/2025 privind aprobarea rectificarii nr.10 a bugetului local al Com. Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226887",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-182-2025",
+   "path": "local/constanta/lumina/2025/182",
+   "short": "HCL Lumina nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 182/2025 privind atestarea apartenentei la domeniul privat al comunei Lumina, judetul Constanta, a unor suprafete de teren",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226888",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-183-2025",
+   "path": "local/constanta/lumina/2025/183",
+   "short": "HCL Lumina nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 183/2025 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al comunei Lumina, județul Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226889",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-184-2025",
+   "path": "local/constanta/lumina/2025/184",
+   "short": "HCL Lumina nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 184/2025 privind aprobarea vânzării prin negociere directă a terenului în suprafață de 700 mp aflat în proprietatea privată a comunei Lumina, situat în str. Morii, nr. 116 E, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226890",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-185-2025",
+   "path": "local/constanta/lumina/2025/185",
+   "short": "HCL Lumina nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 185/2025 privind aprobarea vânzării prin negociere directă a terenului în suprafață de 300 mp aflat în proprietatea privată a comunei Lumina, situat în str. Ștefan cel Mare, nr. 79, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226891",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-186-2025",
+   "path": "local/constanta/lumina/2025/186",
+   "short": "HCL Lumina nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 186/2025 privind aprobarea vânzării prin negociere directă pentru terenul în suprafață de 300 mp aflat în proprietatea privată a comunei Lumina, situat în str. Dumitru Comșa, nr. 53, com. Lumina, Jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226892",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-187-2025",
+   "path": "local/constanta/lumina/2025/187",
+   "short": "HCL Lumina nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 187/2025 privind aprobarea vânzării prin negociere directă pentru terenul în suprafață de 447 mp aflat în proprietatea privată a comunei Lumina, situat în str. Prelungirea Iasomiei, nr.19, com. Lumina, Jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226893",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-188-2025",
+   "path": "local/constanta/lumina/2025/188",
+   "short": "HCL Lumina nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 188/2025 privind aprobarea vânzării prin negociere directă a terenului în suprafață de 300 mp aflat în proprietatea privată a comunei Lumina, situat în str. Mircea cel Bătrân, nr. 69, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226894",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-189-2025",
+   "path": "local/constanta/lumina/2025/189",
+   "short": "HCL Lumina nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 189/2025 privind aprobarea vânzării prin negociere directă pentru terenul în suprafață de 500 mp aflat în proprietatea privată a comunei Lumina, situat în str. Viitorului, nr.1, sat Oituz, com. Lumina, Jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226895",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-190-2025",
+   "path": "local/constanta/lumina/2025/190",
+   "short": "HCL Lumina nr. 190/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 190/2025 privind aprobarea vânzării prin negociere directă pentru terenul în suprafață de 893 mp aflat în proprietatea privată a comunei Lumina, situat în str. Mare, nr.5 bis, com. Lumina, Jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226896",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-191-2025",
+   "path": "local/constanta/lumina/2025/191",
+   "short": "HCL Lumina nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 191/2025 privind aprobarea raportului de evaluare nr. 4319/17.09.2025 și vânzarea directă a terenului în suprafață de 300 mp, aflat în proprietatea privată a comunei Lumina, situat în str. Mircea cel Bătrân, nr. 56, Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226897",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-192-2025",
+   "path": "local/constanta/lumina/2025/192",
+   "short": "HCL Lumina nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 192/2025 privind aprobarea documentației tehnico-economice faza Pth și a devizului general pentru proiectul “Amenajare trotuare strada Mihail Kogalniceanu- Sat Sibioara, Comuna Lumina , Judetul Constanta”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226898",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-193-2025",
+   "path": "local/constanta/lumina/2025/193",
+   "short": "HCL Lumina nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 193/2025 privind aprobarea transmiterii dreptului de concesiune asupra terenului in suprafata de 546 mp din strada Militari, nr. 1, sat Lumina, comuna Lumina, judetul Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226899",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-194-2025",
+   "path": "local/constanta/lumina/2025/194",
+   "short": "HCL Lumina nr. 194/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 194/2025 Privind aprobarea documentației tehnico-economice faza DTAC + Pth, a indicatorilor tehnico-economici și a Devizului general pentru obiectivul „Recondiționare și acoperire teren fotbal școală”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/226900",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/226900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-195-2025",
+   "path": "local/constanta/lumina/2025/195",
+   "short": "HCL Lumina nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 195/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/228169",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/228169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-196-2025",
+   "path": "local/constanta/lumina/2025/196",
+   "short": "HCL Lumina nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 196/2025 privind aprobarea documentației tehnico-economice faza Documentație tehnică de execuție, a indicatorilor tehnico-economici și a Devizului general pentru obiectivul „Lucrări de întreținere – refacere pietruire pe strada Mare și strada Narciselor în comuna Lumina, județul Constanța”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/230220",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/230220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-197-2025",
+   "path": "local/constanta/lumina/2025/197",
+   "short": "HCL Lumina nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 197/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/230221",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/230221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-198-2025",
+   "path": "local/constanta/lumina/2025/198",
+   "short": "HCL Lumina nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 198/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/230222",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/230222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-199-2025",
+   "path": "local/constanta/lumina/2025/199",
+   "short": "HCL Lumina nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 199/2025 privind aprobarea documentației tehnico-economice faza Pth, a indicatorilor tehnico-economici și a Devizului general pentru obiectivul „Asfaltare străzi în comuna Lumina, județul Constanța, etapa 3 Lot I”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/230223",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/230223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-200-2025",
+   "path": "local/constanta/lumina/2025/200",
+   "short": "HCL Lumina nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 200/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.07.2025-31.08.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232179",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-201-2025",
+   "path": "local/constanta/lumina/2025/201",
+   "short": "HCL Lumina nr. 201/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 201/2025 privind aprobarea contului de execuţie al bugetelor de venituri si cheltuieli pe trimestrul III an 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232180",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-202-2025",
+   "path": "local/constanta/lumina/2025/202",
+   "short": "HCL Lumina nr. 202/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 202/2025 privind aprobarea rectificării nr. 11 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232181",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-203-2025",
+   "path": "local/constanta/lumina/2025/203",
+   "short": "HCL Lumina nr. 203/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 203/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232182",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-204-2025",
+   "path": "local/constanta/lumina/2025/204",
+   "short": "HCL Lumina nr. 204/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 204/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232183",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-205-2025",
+   "path": "local/constanta/lumina/2025/205",
+   "short": "HCL Lumina nr. 205/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 205/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232184",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-206-2025",
+   "path": "local/constanta/lumina/2025/206",
+   "short": "HCL Lumina nr. 206/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 206/2025 privind completarea HCL nr. 130/ 2023 privind aprobarea inventarului care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232185",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-207-2025",
+   "path": "local/constanta/lumina/2025/207",
+   "short": "HCL Lumina nr. 207/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 207/2025 privind trecerea din domeniul privat al comunei Lumina in domeniul public al comunei Lumina a imobilelor (terenuri) situate pe strada Crinului, nr. 21 A si 28 A, sat Lumina, comuna Lumina, judetul Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232186",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-208-2025",
+   "path": "local/constanta/lumina/2025/208",
+   "short": "HCL Lumina nr. 208/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 208/2025 privind indreptare eroare materiala strecurata in cuprinsul HCL nr. 129/29.07.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232187",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-209-2025",
+   "path": "local/constanta/lumina/2025/209",
+   "short": "HCL Lumina nr. 209/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 209/2025 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Lumina ,în suprafată de 2036 mp, str. Soseaua Tulcei, nr. 150 A , situat in intravilanul localitatii Lumina, comuna Lumina, Judetul Constanta, CF 110114",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232188",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-210-2025",
+   "path": "local/constanta/lumina/2025/210",
+   "short": "HCL Lumina nr. 210/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 210/2025 privind aprobarea raportului de evaluare nr .4327/17.09.2025 pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Mihai Viteazu , nr.76 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232189",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-211-2025",
+   "path": "local/constanta/lumina/2025/211",
+   "short": "HCL Lumina nr. 211/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 211/2025 privind aprobarea raportului de evaluare nr .4320/17.09.2025 pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Murelor , nr.41 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232190",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-212-2025",
+   "path": "local/constanta/lumina/2025/212",
+   "short": "HCL Lumina nr. 212/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 212/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232191",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-213-2025",
+   "path": "local/constanta/lumina/2025/213",
+   "short": "HCL Lumina nr. 213/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 213/2025 privind aprobarea raportului de evaluare nr 4306/18.07.2025 pentru terenul in suprafata de 9530 mp aflat in proprietatea privata a comunei Lumina ,situat in Parcela A314/2/6-Lot 2, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232192",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-214-2025",
+   "path": "local/constanta/lumina/2025/214",
+   "short": "HCL Lumina nr. 214/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 214/2025 privind aprobarea raportului de evaluare nr. 4323/17.08.2025 pentru terenul în suprafață de 300 mp, aflat în proprietatea privată a comunei Lumina, situat în str. Mircea cel Bătrân, nr. 63A, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232193",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-215-2025",
+   "path": "local/constanta/lumina/2025/215",
+   "short": "HCL Lumina nr. 215/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 215/2025 privind aprobarea raportului de evaluare nr. 4324/17.08.2025 pentru terenul în suprafață de 300 mp, aflat în proprietatea privată a comunei Lumina, situat în str. Mircea cel Bătrân, nr. 78, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232194",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-216-2025",
+   "path": "local/constanta/lumina/2025/216",
+   "short": "HCL Lumina nr. 216/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 216/2025 privind aprobarea raportului de evaluare nr. 4326/17.09.2025 pentru terenul în suprafață de 300 mp, aflat în proprietatea privată a comunei Lumina, situat în str. Ștefan cel Mare, nr. 78, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232195",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-217-2025",
+   "path": "local/constanta/lumina/2025/217",
+   "short": "HCL Lumina nr. 217/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 217/2025 privind aprobarea raportului de evaluare nr. 4325/17.09.2025 pentru terenul în suprafață de 300 mp aflat în proprietatea privată a comunei Lumina, situat în str. Ștefan cel Mare, nr. 80, com. Lumina, jud. Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232196",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-218-2025",
+   "path": "local/constanta/lumina/2025/218",
+   "short": "HCL Lumina nr. 218/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 218/2025 privind aprobarea documentației tehnico-economice faza PTh, a indicatorilor tehnico-economici și a Devizului general pentru obiectivul „Asfaltare strada Tulcei în comuna Lumina, județul Constanța”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/232197",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/232197",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--lumina-219-2025",
    "path": "local/constanta/lumina/2025/219",
    "short": "HCL Lumina nr. 219/2025",
@@ -163,6 +1948,111 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/lumina-ct/registru-hcl/240362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-230-2025",
+   "path": "local/constanta/lumina/2025/230",
+   "short": "HCL Lumina nr. 230/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 230/2025 privind alocarea din bugetul local al Com. Lumina a unei sume in vederea achizitionarii de cadouri pentru sarbatorile de iarna , pentru prescolarii din gradinite si elevii din scolile cu clasele I-VIII de pe raza Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/240363",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/240363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-231-2025",
+   "path": "local/constanta/lumina/2025/231",
+   "short": "HCL Lumina nr. 231/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 231/2025 privind punerea la dispoziţia Comisiei Locale de Stabilirea Dreptului de Proprietate a unor suprafete de teren extravilan pe raza comunei Lumina, Jud. Constanţa",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/240364",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/240364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-232-2025",
+   "path": "local/constanta/lumina/2025/232",
+   "short": "HCL Lumina nr. 232/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 232/2025 privind alocarea unor sume din bugetul local al comunei Lumina pentru acordarea de prime familiilor care împlinesc 50 de ani de căsătorie",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/242486",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/242486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-233-2025",
+   "path": "local/constanta/lumina/2025/233",
+   "short": "HCL Lumina nr. 233/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 233/2025 privind acordarea unor premii în bani pentru activitatea sportivă a sportivilor din comuna Lumina care au obținut rezultate deosebite la campionatele naționale și internaționale",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/242487",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/242487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-234-2025",
+   "path": "local/constanta/lumina/2025/234",
+   "short": "HCL Lumina nr. 234/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 234/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.10.2025-31.10.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/242488",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/242488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-235-2025",
+   "path": "local/constanta/lumina/2025/235",
+   "short": "HCL Lumina nr. 235/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 235/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/242489",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/242489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-236-2025",
+   "path": "local/constanta/lumina/2025/236",
+   "short": "HCL Lumina nr. 236/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 236/2025 privind aprobarea vânzării cu drept de preempțiune, prin negociere directă, a terenului în suprafața de 401 mp aflat în proprietatea privată a comunei Lumina, situat în Str. Prelungirea Iasomiei, nr. 5 (fosta strada Morii , nr. 79 A, lot 18), inscris in CF 103505",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/242490",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/242490",
      "sha256": null
     }
    ]
@@ -468,6 +2358,951 @@
    ]
   },
   {
+   "slug": "hcl-constanta--lumina-29-2025",
+   "path": "local/constanta/lumina/2025/29",
+   "short": "HCL Lumina nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 29/2025 privind aprobarea contului de executie al bugetelor de venituri si cheltuieli pe trimestru IV an 2024",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199866",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-30-2025",
+   "path": "local/constanta/lumina/2025/30",
+   "short": "HCL Lumina nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 30/2025 privind aprobarea situatiilor financiare anuale, balanta, situatia fluxurilor de trezorerie si contul anual de executie al bugetului Com. Lumina la 31.12.2024",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199867",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-31-2025",
+   "path": "local/constanta/lumina/2025/31",
+   "short": "HCL Lumina nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 31/2025 privind aprobarea cofinantarii in Etapa a II-a – dezvoltarea infrastructurii de apa si apa uzata in aria de operare a SC RAJA SA Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199868",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-32-2025",
+   "path": "local/constanta/lumina/2025/32",
+   "short": "HCL Lumina nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 32/2025 privind aprobarea aderarii Com. Dobromir jud. Constanta la Asociatia de Dezvoltare Intercomunitara Apa Canal Dobrogea",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199869",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-33-2025",
+   "path": "local/constanta/lumina/2025/33",
+   "short": "HCL Lumina nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 33/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199870",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-34-2025",
+   "path": "local/constanta/lumina/2025/34",
+   "short": "HCL Lumina nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 34/2025 privind aprobarea Organigramei si a Statului de Functii SC Gospodaria Lumina SRL pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199871",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-35-2025",
+   "path": "local/constanta/lumina/2025/35",
+   "short": "HCL Lumina nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 35/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199872",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-36-2025",
+   "path": "local/constanta/lumina/2025/36",
+   "short": "HCL Lumina nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 36/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199873",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-37-2025",
+   "path": "local/constanta/lumina/2025/37",
+   "short": "HCL Lumina nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 37/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199874",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-38-2025",
+   "path": "local/constanta/lumina/2025/38",
+   "short": "HCL Lumina nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 38/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199875",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-39-2025",
+   "path": "local/constanta/lumina/2025/39",
+   "short": "HCL Lumina nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 39/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199876",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-40-2025",
+   "path": "local/constanta/lumina/2025/40",
+   "short": "HCL Lumina nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 40/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199877",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-41-2025",
+   "path": "local/constanta/lumina/2025/41",
+   "short": "HCL Lumina nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 41/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199878",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-42-2025",
+   "path": "local/constanta/lumina/2025/42",
+   "short": "HCL Lumina nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 42/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199879",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-43-2025",
+   "path": "local/constanta/lumina/2025/43",
+   "short": "HCL Lumina nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 43/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199880",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-44-2025",
+   "path": "local/constanta/lumina/2025/44",
+   "short": "HCL Lumina nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 44/2025 privind aprobarea documentatiei de Urbanism – PUZ- servicii depozitare, mica industrie, Parcela A24/4/1+A24/4/2A, A24/3, A24/8- SC MIH-MASTER SRL",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199881",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-45-2025",
+   "path": "local/constanta/lumina/2025/45",
+   "short": "HCL Lumina nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 45/2025 privind completarea HCL nr.130/2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al Com. Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199882",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-46-2025",
+   "path": "local/constanta/lumina/2025/46",
+   "short": "HCL Lumina nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 46/2025 privind atestarea apartenentei la domeniul privat al Com. Lumina a unor suprafete de teren",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199883",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-47-2025",
+   "path": "local/constanta/lumina/2025/47",
+   "short": "HCL Lumina nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 47/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199884",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-48-2025",
+   "path": "local/constanta/lumina/2025/48",
+   "short": "HCL Lumina nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 48/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199885",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-49-2025",
+   "path": "local/constanta/lumina/2025/49",
+   "short": "HCL Lumina nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 49/2025 privind declararea uzului si interesului public local cu privire la bunul imobil din Sos. Iuliu Maniu",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199886",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-50-2025",
+   "path": "local/constanta/lumina/2025/50",
+   "short": "HCL Lumina nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 50/2025 privind aprobarea indicatorilor tehnico-economici – Amenajare strazi in Com. Lumina – Lot I, aprobat prin Anghel Saligny",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199887",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-51-2025",
+   "path": "local/constanta/lumina/2025/51",
+   "short": "HCL Lumina nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 51/2025 privind aprobarea indicatorilor tehnico-economici – Amenajare strazi in Com. Lumina – Lot II, aprobat prin Anghel Saligny",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199888",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-52-2025",
+   "path": "local/constanta/lumina/2025/52",
+   "short": "HCL Lumina nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 52/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199889",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-53-2025",
+   "path": "local/constanta/lumina/2025/53",
+   "short": "HCL Lumina nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 53/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199890",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-54-2025",
+   "path": "local/constanta/lumina/2025/54",
+   "short": "HCL Lumina nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 54/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/199891",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/199891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-55-2025",
+   "path": "local/constanta/lumina/2025/55",
+   "short": "HCL Lumina nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 55/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201841",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-56-2025",
+   "path": "local/constanta/lumina/2025/56",
+   "short": "HCL Lumina nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 56/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201842",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-57-2025",
+   "path": "local/constanta/lumina/2025/57",
+   "short": "HCL Lumina nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 57/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 19 mp aflat in proprietatea privata a comunei Lumina ,situat in str .Mare nr.170 E, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201843",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-58-2025",
+   "path": "local/constanta/lumina/2025/58",
+   "short": "HCL Lumina nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 58/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201844",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-59-2025",
+   "path": "local/constanta/lumina/2025/59",
+   "short": "HCL Lumina nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 59/2025 privind aprobarea documentației tehnico-economice faza Pth și a devizului general pentru proiectul “Extindere iluminat public – instalatii electrice de iluminat sens giratoriu DN 22 ( E87) Km 283+473 UAT Lumina”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201845",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-60-2025",
+   "path": "local/constanta/lumina/2025/60",
+   "short": "HCL Lumina nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 60/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.12.2024-31.12.2024",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201846",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-61-2025",
+   "path": "local/constanta/lumina/2025/61",
+   "short": "HCL Lumina nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 61/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201847",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-62-2025",
+   "path": "local/constanta/lumina/2025/62",
+   "short": "HCL Lumina nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 62/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201848",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-63-2025",
+   "path": "local/constanta/lumina/2025/63",
+   "short": "HCL Lumina nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 63/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201849",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-64-2025",
+   "path": "local/constanta/lumina/2025/64",
+   "short": "HCL Lumina nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 64/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201850",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-65-2025",
+   "path": "local/constanta/lumina/2025/65",
+   "short": "HCL Lumina nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 65/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201851",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-66-2025",
+   "path": "local/constanta/lumina/2025/66",
+   "short": "HCL Lumina nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 66/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201852",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-67-2025",
+   "path": "local/constanta/lumina/2025/67",
+   "short": "HCL Lumina nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 67/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201853",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-68-2025",
+   "path": "local/constanta/lumina/2025/68",
+   "short": "HCL Lumina nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 68/2025 privind concesionarea prin licitatie a terenului proprietate privată a Comunei Lumina ,în suprafată de 540 mp, str. Interioara, nr. 24 E , situat in intravilanul localitatii Lumina, comuna Lumina, Judetul Constanta, CF 109630",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201854",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-69-2025",
+   "path": "local/constanta/lumina/2025/69",
+   "short": "HCL Lumina nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 69/2025 privind aprobarea bugetului general al comunei Lumina pentru anul 2025 și estimările pentru anii 2026, 2027, 2028",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/201855",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/201855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-70-2025",
+   "path": "local/constanta/lumina/2025/70",
+   "short": "HCL Lumina nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 70/2025 privind aprobarea proiectului si a Acordului de parteneriat pentru obiectivul de investiție „Diversificarea și flexibilizarea serviciilor de educație timpurie”, apel de timp competitiv finanțat din Prioritatea 5 – Îmbunătățirea participării copiilor la educația antepreșcolară și preșcolară, Obiectiv specific: ESO4.6 Promovarea accesului egal la educație și formare de calitate și favorabile incluziunii, precum și a absolvirii acestora, în special pentru grupurile defavorizate, începând de la educația și îngrijirea timpurie, continuând cu educația și formarea generală și profesională până la învățământul terțiar, precum și educația și învățarea în rândul adulților, inclusiv prin facilitarea mobilității în scopul învățării pentru toți și a accesibilității pentru persoanele cu dizabilități (FSE+), Tip de acțiune:5.f.2- Diversificarea și flexibilizarea serviciilor de suport socio-educațional",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/204178",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/204178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-71-2025",
+   "path": "local/constanta/lumina/2025/71",
+   "short": "HCL Lumina nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 71/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/204179",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/204179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-72-2025",
+   "path": "local/constanta/lumina/2025/72",
+   "short": "HCL Lumina nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 72/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/204180",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/204180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-73-2025",
+   "path": "local/constanta/lumina/2025/73",
+   "short": "HCL Lumina nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 73/2025 privind valorile impozabile, impozitele si taxele locale si alte taxe asimilate acestora precum si amenzile aplicabile in Comuna Lumina,in anul 2026",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205265",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-74-2025",
+   "path": "local/constanta/lumina/2025/74",
+   "short": "HCL Lumina nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 74/2025 privind stabilirea unei perioade minime de concesiune înaintea vânzării terenurilor concesionate aflate în proprietatea privată a comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205266",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-75-2025",
+   "path": "local/constanta/lumina/2025/75",
+   "short": "HCL Lumina nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 75/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205267",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-76-2025",
+   "path": "local/constanta/lumina/2025/76",
+   "short": "HCL Lumina nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 76/2025 privind atestarea apartenentei la domeniul privat al comunei Lumina, judetul Constanta, a unei suprafete de teren - str. Morii",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205268",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-77-2025",
+   "path": "local/constanta/lumina/2025/77",
+   "short": "HCL Lumina nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 77/2025 privind declararea uzului si interesului public local cu privire la bunul imobil - strada -Cocorilor",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205269",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-78-2025",
+   "path": "local/constanta/lumina/2025/78",
+   "short": "HCL Lumina nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 78/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.01.2025-31.01.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205270",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-79-2025",
+   "path": "local/constanta/lumina/2025/79",
+   "short": "HCL Lumina nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 79/2025 privind aprobarea documentației tehnico-economice faza Pth și a devizului general pentru proiectul “Asfaltare strazi in comuna Lumina” ( Str Eternitatii, Str Linistei, Str Eroilor, Str Randunelelor, Str Primaverii, Str Cerealelor, Str Ciprian Porumbescu, Str Interioara, Str Lalelelor si Strada Trandafirilor )",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205271",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-80-2025",
+   "path": "local/constanta/lumina/2025/80",
+   "short": "HCL Lumina nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 80/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 238 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Crinului, nr.37, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205272",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-81-2025",
+   "path": "local/constanta/lumina/2025/81",
+   "short": "HCL Lumina nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 81/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Mihai Viteazu, nr.70, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205273",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-82-2025",
+   "path": "local/constanta/lumina/2025/82",
+   "short": "HCL Lumina nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 82/2025 privind aprobarea vanzarii prin negociere directa pentru terenul in suprafata de 300mp aflat in proprietatea privata a comunei Lumina ,situat in str . Mihai Viteazu , nr.80 , com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205274",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-83-2025",
+   "path": "local/constanta/lumina/2025/83",
+   "short": "HCL Lumina nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 83/2025 privind aprobarea vanzarii prin negociere pentru terenul in suprafata de 300 mp aflat in proprietatea privata a comunei Lumina ,situat in str . Pinului , nr.43, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205275",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-84-2025",
+   "path": "local/constanta/lumina/2025/84",
+   "short": "HCL Lumina nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 84/2025 privind declararea uzului si interesului public local cu privire la bunurile imobile inscrise in cartea funciara sub nr. 110137 si 110145( pasuni)",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205276",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-85-2025",
+   "path": "local/constanta/lumina/2025/85",
+   "short": "HCL Lumina nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 85/2025 privind completarea HCL nr. 130/ 2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205277",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-86-2025",
+   "path": "local/constanta/lumina/2025/86",
+   "short": "HCL Lumina nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 86/2025 privind aprobarea rectificării nr. 1 a bugetului local al comunei Lumina pentru anul 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205278",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-87-2025",
+   "path": "local/constanta/lumina/2025/87",
+   "short": "HCL Lumina nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 87/2025 privind aprobarea revocarii Hotararilor Consiliului Local nr. 223/ 17.12.2024 privind concesionarea prin licitatie publica a terenului proprietate privata a comunei Lumina, in suprafata de 8400 mp, parcela N840 Lot 1, situat in extravilanul localitatii Sibioara, comuna Lumina, judetul Constanta, nr. 224/17.12.2024 privind concesionarea prin licitatie publica a terenului proprietate privata a comunei Lumina, in suprafata de 3618 mp, parcela N840, situat in extravilanul localitatii Sibioara, comuna Lumina, judetul Constanta si nr. 211/28.11.2024 privind completarea HCL nr. 130/2023 privind aprobarea inventarului bunurilor care alcatuiesc domeniul privat al comunei Lumina",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205279",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-88-2025",
+   "path": "local/constanta/lumina/2025/88",
+   "short": "HCL Lumina nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 88/2025 privind aprobarea dezmembrarii imobilului – teren cu destinatia – drum, in suprafata de 9594 mp strada Tulcei, Tronson I, inscris in cartea funciara a comunei Lumina, sub nr. 109180",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205280",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-89-2025",
+   "path": "local/constanta/lumina/2025/89",
+   "short": "HCL Lumina nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 89/2025 privind aprobarea actului aditional nr. 2 la Contractul de superficie nr. 1097/17.07.2019",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/205281",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/205281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-90-2025",
+   "path": "local/constanta/lumina/2025/90",
+   "short": "HCL Lumina nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 90/2025 privind aprobarea raportului de evaluare nr .4287/14.04.2025 pentru terenul in suprafata de 953 mp aflat in proprietatea privata a comunei Lumina ,situat in str .Sirenei ,nr.41, com. Lumina, Jud. Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210501",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-91-2025",
+   "path": "local/constanta/lumina/2025/91",
+   "short": "HCL Lumina nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 91/2025 privind incheierea unu act aditional la contractul de concesiune nr. 13083/09.12.2013 privind concesionarea terenului in suprafata de 4000 mp strada Soseaua Tulcei, nr. Zona Pod – cale ferata Ovidiu, loc Lumina , judetul Constanta",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210502",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210502",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--lumina-92-2025",
    "path": "local/constanta/lumina/2025/92",
    "short": "HCL Lumina nr. 92/2025",
@@ -478,6 +3313,111 @@
      "from": "2025-08-04",
      "units": 1,
      "source_url": "https://emol.ro/lumina-ct/registru-hcl/210503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-93-2025",
+   "path": "local/constanta/lumina/2025/93",
+   "short": "HCL Lumina nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 93/2025 privind aprobarea contractarii de servicii de asistenta juridica",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210504",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-94-2025",
+   "path": "local/constanta/lumina/2025/94",
+   "short": "HCL Lumina nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 94/2025 privind aprobarea actului aditional nr. 1 la Contractul de superficie nr. 10237/03.08.2015",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210505",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-95-2025",
+   "path": "local/constanta/lumina/2025/95",
+   "short": "HCL Lumina nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 95/2025 privind aprobarea drepturilor banești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de resedinta la locul de munca și de la locul de muncă la localitatea de reședintă pentru perioada 01.02.2025-28.02.2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210506",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-96-2025",
+   "path": "local/constanta/lumina/2025/96",
+   "short": "HCL Lumina nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 96/2025 privind aprobarea contului de execuţie al bugetelor de venituri si cheltuieli pe trimestrul I an 2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210507",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-97-2025",
+   "path": "local/constanta/lumina/2025/97",
+   "short": "HCL Lumina nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 97/2025 privind aprobarea indicatorilor tehnico- eonomici actualizati și a devizului general actualizat pentru obiectivul de investiții „Extindere canalizare menajera pe strada Tulcei si zona lotizata B5, localitatea Lumina” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210508",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-98-2025",
+   "path": "local/constanta/lumina/2025/98",
+   "short": "HCL Lumina nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 98/2025",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210509",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-99-2025",
+   "path": "local/constanta/lumina/2025/99",
+   "short": "HCL Lumina nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 99/2025 privind aprobarea inchirierii unor casute tip chioscuri comerciale",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210510",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210510",
      "sha256": null
     }
    ]

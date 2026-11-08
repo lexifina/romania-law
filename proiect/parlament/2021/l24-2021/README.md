@@ -1,0 +1,65 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.7/2021 pentru modificarea și completarea Ordonanţei de urgenţă a Guvernului nr.3/2021 privind unele măsuri pentru recrutarea și plata personalului implicat în procesul de vaccinare împotriva COVID-19 și stabilirea unor măsuri în domeniul sănătății
+
+**Became:** [Legea nr. 147/2022](../../../../lege/2022/147/) (`legea-147-2022`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-147-2022`.
+
+Proiect de lege L24/2021 · initiator: Guvernul României · 12 published stages, 2021-02-09 to 2022-05-24 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L24&an_cls=2021>
+
+- Senate number: L24/2021
+- Type: Proiect de lege
+- Character: Ordinară
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 37/04.02.2021
+- Stage in the bill file: A devenit Legea nr.147/23.05.2022 publicatã în M.O. nr.510/24.05.2022
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2021-l24-2021/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2021-02-09 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2021-02-23 | documents published: Aviz comisie |
+| 2021-02-24 | documents published: Aviz comisie |
+| 2021-02-25 | documents published: Aviz comisie |
+| 2021-03-04 | documents published: Aviz comisie, Raport comisie sesizată pe fond |
+| 2021-03-08 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2021-03-10 | registered at the Chamber of Deputies |
+| 2022-04-27 | adopted by the Chamber of Deputies |
+| 2022-05-03 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2022-05-05 | sent for promulgation |
+| 2022-05-23 | promulgated, becomes Legea nr. 147/2022 |
+| 2022-05-24 | published in the Monitorul Oficial |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-162d7288.md](ad-162d7288.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [am-ceece670.md](am-ceece670.md) | Adresă către Camera Deputaților (AM), as published |
+| [axs-4183fa1e.md](axs-4183fa1e.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [ca12-9eb199d9.md](ca12-9eb199d9.md) | Aviz comisie (CA12), as published |
+| [ca3-6d057d1e.md](ca3-6d057d1e.md) | Aviz comisie (CA3), as published |
+| [ca44-4357516a.md](ca44-4357516a.md) | Aviz comisie (CA44), as published |
+| [ca45-e26d9029.md](ca45-e26d9029.md) | Aviz comisie (CA45), as published |
+| [ca8-e11f372b.md](ca8-e11f372b.md) | Aviz comisie (CA8), as published |
+| [cr-4e5b0e92.md](cr-4e5b0e92.md) | Raport comisie sesizată pe fond (CR), as published |
+| [em-dcaa2d80.md](em-dcaa2d80.md) | Expunere de motive (EM), as published |
+| [fg-490bd659.md](fg-490bd659.md) | Forma inițiatorului (FG), as published |
+| [fs-a1e73411.md](fs-a1e73411.md) | Forma adoptată de Senat (FS), as published |
+| [hg-00972709.md](hg-00972709.md) | Document (HG), as published |
+| [lg-55517ad0.md](lg-55517ad0.md) | Aviz Consiliul Legislativ (LG), as published |
+| [lp-f85e8820.md](lp-f85e8820.md) | Forma trimisă la promulgare (LP), as published |
+| [og-efb546ed.md](og-efb546ed.md) | Document (OG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2021-l24-2021`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L24/2021: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L24/2021: comments by private persons are not collected or published; initiators are credited as a body.

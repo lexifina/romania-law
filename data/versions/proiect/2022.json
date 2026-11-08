@@ -18,6 +18,3045 @@
    ]
   },
   {
+   "slug": "proiect-parlament-2022-l1-2022",
+   "path": "proiect/parlament/2022/l1-2022",
+   "short": "Proiect de lege L1/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021-2027 alocate României din Fondul European de Dezvoltare Regională, Fondul de Coeziune, Fondul Social European Plus, Fondul pentru o Tranziție Justă",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-26",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-27",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-14",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-21",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-28",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-30",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-07-14",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-07-17",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L1&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l10-2022",
+   "path": "proiect/parlament/2022/l10-2022",
+   "short": "Proiect de lege L10/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.143/2021 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr.123/2012, precum și pentru modificarea unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-27",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-04",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-16",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-21",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-28",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-20",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-22",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L10&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l100-2022",
+   "path": "proiect/parlament/2022/l100-2022",
+   "short": "Propunere legislativă L100/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii nr.96/2006, republicată, privind Statutul deputaților și senatorilor",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L100&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L100&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-28",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L100&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-12-16",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L100&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l101-2022",
+   "path": "proiect/parlament/2022/l101-2022",
+   "short": "Proiect de lege L101/2022",
+   "title": "Proiect de lege privind modificarea și completarea Legii nr.121/2019 privind evaluarea și gestionarea zgomotului ambiant",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-09",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-15",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-24",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-25",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-27",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-14",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-15",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L101&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l102-2022",
+   "path": "proiect/parlament/2022/l102-2022",
+   "short": "Proiect de lege L102/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.12/2022 pentru modificarea şi completarea Ordonanţei Guvernului nr.15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013 şi pentru proiecte preluate integral sau parţial din Programul operațional sectorial Mediu 2007-2013 în cadrul Programului operațional Infrastructura mare 2014-2020",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-09",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-24",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-13",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-19",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-21",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-08",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-11",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L102&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l103-2022",
+   "path": "proiect/parlament/2022/l103-2022",
+   "short": "Proiect de lege L103/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.13/2022 pentru modificarea pct.II subpct.1 din anexa la Ordonanța de urgență a Guvernului nr.120/2002 privind aprobarea Sistemului de susținere și promovare a exportului cu finanțare de la bugetul de stat",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-09",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-15",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L103&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l104-2022",
+   "path": "proiect/parlament/2022/l104-2022",
+   "short": "Proiect de lege L104/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.14/2022 pentru modificarea Legii nr.146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare și execuțional penale",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-25",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-13",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-18",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-20",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-29",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L104&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l105-2022",
+   "path": "proiect/parlament/2022/l105-2022",
+   "short": "Proiect de lege L105/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite proveniți din zona conflictului armat din Ucraina",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-27",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-09",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-10",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-28",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L105&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l106-2022",
+   "path": "proiect/parlament/2022/l106-2022",
+   "short": "Propunere legislativă L106/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii nr.448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, precum și a altor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-17",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-07",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-28",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l107-2022",
+   "path": "proiect/parlament/2022/l107-2022",
+   "short": "Proiect de lege L107/2022",
+   "title": "Proiect de lege pentru completarea art.12 din Ordonanța de urgență a Guvernului nr.30/2007 privind organizarea și funcționarea Ministerului Afacerilor Interne",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-15",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-19",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l108-2022",
+   "path": "proiect/parlament/2022/l108-2022",
+   "short": "Proiect de lege L108/2022",
+   "title": "Proiect de lege pentru modificarea Legii nr.189/2003 privind asistența judiciară internațională în materie civilă și comercială",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-24",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-28",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-18",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-06-25",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-07-01",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-07-15",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-07-16",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L108&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l109-2022",
+   "path": "proiect/parlament/2022/l109-2022",
+   "short": "Proiect de lege L109/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.16/2022 pentru modificarea art.7 alin.(13) din Legea nr.52/2003 privind transparența decizională în administrația publică",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-28",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L109&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l11-2022",
+   "path": "proiect/parlament/2022/l11-2022",
+   "short": "Proiect de lege L11/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.144/2021 pentru modificarea și completarea Legii serviciului de alimentare cu apă și de canalizare nr.241/2006",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-25",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-26",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-16",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-21",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-09",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-12",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l110-2022",
+   "path": "proiect/parlament/2022/l110-2022",
+   "short": "Proiect de lege L110/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.17/2022 pentru modificarea și completarea Legii nr.21/2020 privind Codul aerian",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-16",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-31",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-15",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-17",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-03",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-06",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L110&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l111-2022",
+   "path": "proiect/parlament/2022/l111-2022",
+   "short": "Proiect de lege L111/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.18/2022 pentru modificarea și completarea art.1 din Ordonanța de urgență a Guvernului nr.63/2018 privind compensarea unor creanțe reciproce între statul român și persoanele beneficiare ale legilor din domeniul restituirii proprietății, precum și pentru prorogarea unui termen",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-01",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L111&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l112-2022",
+   "path": "proiect/parlament/2022/l112-2022",
+   "short": "Proiect de lege L112/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.19/2022 privind unele măsuri referitoare la garanțiile de bună execuție constituite în cadrul contractelor de achiziție publică și al contractelor sectoriale",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-24",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-02",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-19",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-21",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L112&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l113-2022",
+   "path": "proiect/parlament/2022/l113-2022",
+   "short": "Proiect de lege L113/2022",
+   "title": "Proiect de lege privind reglementarea activității prestatorului casnic",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-09",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-10",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-21",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-27",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L113&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l114-2022",
+   "path": "proiect/parlament/2022/l114-2022",
+   "short": "Propunere legislativă L114/2022",
+   "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 21/2004 privind Sistemul Naţional de Management al Situaţiilor de Urgenţă, publicată în Monitorul Oficial, Partea I, numărul 361 din 26 aprilie 2004, cu modificările ulterioare, aprobată cu modificări şi completări prin Legea nr.15/2005, cu modificările şi completările ulterioare, precum şi pentru modificarea Legii nr.55 din 15 mai 2020 privind unele măsuri pentru prevenirea şi combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial, Partea I, numărul 396 din data de 15 mai 2020, cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-01",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-03",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L114&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l115-2022",
+   "path": "proiect/parlament/2022/l115-2022",
+   "short": "Propunere legislativă L115/2022",
+   "title": "Propunere legislativă pentru abrogarea alin.(7indice1) şi (7indice2) ale art.168 din Legea educaţiei naţionale nr.1/2011",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-01",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-03",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-13",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l116-2022",
+   "path": "proiect/parlament/2022/l116-2022",
+   "short": "Propunere legislativă L116/2022",
+   "title": "Propunere legislativă pentru anularea amenzilor contravenționale aplicate în baza art.4 alin.(1) din Ordonanța de urgență a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-07",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-04",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-21",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-27",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l117-2022",
+   "path": "proiect/parlament/2022/l117-2022",
+   "short": "Propunere legislativă L117/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii nr.158/2018 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale protejate, a florei și a faunei sălbatice precum și pentru modificarea Legii nr.292/2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-28",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-06",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-22",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2026-06-03",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L117&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l118-2022",
+   "path": "proiect/parlament/2022/l118-2022",
+   "short": "Proiect de lege L118/2022",
+   "title": "Proiect de lege privind modificarea anexei nr.1(indice1) la Ordonanța Guvernului nr.64/1999 pentru aprobarea Programului strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internațional Henri Coandă - București",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-19",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-26",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-21",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-08",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-11",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L118&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l119-2022",
+   "path": "proiect/parlament/2022/l119-2022",
+   "short": "Proiect de lege L119/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.20/2022 privind modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri de sprijin și asistență umanitară",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L119&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l12-2022",
+   "path": "proiect/parlament/2022/l12-2022",
+   "short": "Proiect de lege L12/2022",
+   "title": "Proiect de lege pentru completarea tabelelor-anexă nr.I, II și III la Legea nr.143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-21",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-12",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L12&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l120-2022",
+   "path": "proiect/parlament/2022/l120-2022",
+   "short": "Proiect de lege L120/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.21/2022 privind instituirea cadrului legal pentru acordarea unui ajutor de stat pentru restructurarea Societății „Complexul Energetic Oltenia”-S.A.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-31",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-07",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-09",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l121-2022",
+   "path": "proiect/parlament/2022/l121-2022",
+   "short": "Proiect de lege L121/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.22/2022 pentru abrogarea Ordonanței de urgență a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-09",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l122-2022",
+   "path": "proiect/parlament/2022/l122-2022",
+   "short": "Propunere legislativă L122/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii nr.286/2009 privind Codul Penal",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-28",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-10-24",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L122&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l123-2022",
+   "path": "proiect/parlament/2022/l123-2022",
+   "short": "Propunere legislativă L123/2022",
+   "title": "Propunere legislativă pentru modificarea art.(2indice3) din Ordonanța Guvernului nr.58 din 21 august 1998 privind organizarea și desfășurarea activității de turism în Romania",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-04-30",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L123&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l124-2022",
+   "path": "proiect/parlament/2022/l124-2022",
+   "short": "Propunere legislativă L124/2022",
+   "title": "Propunere legislativă privind completarea Ordonanței de Urgență a Guvernului nr.195/2002 privind circulația pe drumurile publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-27",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L124&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l125-2022",
+   "path": "proiect/parlament/2022/l125-2022",
+   "short": "Propunere legislativă L125/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii educației naționale nr.1/2011",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L125&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l126-2022",
+   "path": "proiect/parlament/2022/l126-2022",
+   "short": "Propunere legislativă L126/2022",
+   "title": "Propunere legislativă pentru completarea art.38 Legea-cadru 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-04-22",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L126&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l127-2022",
+   "path": "proiect/parlament/2022/l127-2022",
+   "short": "Propunere legislativă L127/2022",
+   "title": "Propunere legislativă pentru instituirea Programului de stimulare a transportului feroviar de călători şi/sau de marfă",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-31",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-19",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-26",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2025-03-24",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L127&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l128-2022",
+   "path": "proiect/parlament/2022/l128-2022",
+   "short": "Propunere legislativă L128/2022",
+   "title": "Propunere legislativă privind înfiinţarea Muzeului Naţional al Revoluţiei Anticomuniste din Decembrie 1989",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-04",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-21",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-25",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L128&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l129-2022",
+   "path": "proiect/parlament/2022/l129-2022",
+   "short": "Propunere legislativă L129/2022",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război şi a Legii nr.44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-27",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L129&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l13-2022",
+   "path": "proiect/parlament/2022/l13-2022",
+   "short": "Proiect de lege L13/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.145/2021 pentru prorogarea unor termene prevăzute în Legea nr.95/2006 privind reforma în domeniul sănătății",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L13&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L13&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-10",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L13&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-14",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L13&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-21",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L13&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l130-2022",
+   "path": "proiect/parlament/2022/l130-2022",
+   "short": "Propunere legislativă L130/2022",
+   "title": "Propunere legislativă privind modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii, republicată în Monitorul Oficial al României, Partea I nr.652 din 28 august 2015, cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-19",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-24",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-10-10",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L130&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l131-2022",
+   "path": "proiect/parlament/2022/l131-2022",
+   "short": "Propunere legislativă L131/2022",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-27",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L131&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l132-2022",
+   "path": "proiect/parlament/2022/l132-2022",
+   "short": "Propunere legislativă L132/2022",
+   "title": "Propunere legislativă pentru completarea Legii nr.134/2010 privind Codul de procedură civilă",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-03",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-02",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-31",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-07",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-14",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-28",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L132&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l133-2022",
+   "path": "proiect/parlament/2022/l133-2022",
+   "short": "Propunere legislativă L133/2022",
+   "title": "Propunere legislativă privind decontarea de către stat a unor tehnici de reproducere umană asistată medical",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-23",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-24",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-04",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2025-02-19",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L133&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l134-2022",
+   "path": "proiect/parlament/2022/l134-2022",
+   "short": "Proiect de lege L134/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.23/2022 pentru completarea art.43 din Legea nr.411/2004 privind fondurile de pensii administrate privat",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-20",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-21",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L134&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l135-2022",
+   "path": "proiect/parlament/2022/l135-2022",
+   "short": "Proiect de lege L135/2022",
+   "title": "Proiect de lege pentru reglementarea unor măsuri privind cadrul general aplicabil constituirii și funcționării băncilor de dezvoltare din România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-07",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-14",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-19",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-26",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-21",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-23",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-12",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L135&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l136-2022",
+   "path": "proiect/parlament/2022/l136-2022",
+   "short": "Proiect de lege L136/2022",
+   "title": "Proiect de lege pentru modificarea art.18(indice3) din Legea nr.78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție și pentru dispunerea altor măsuri de transpunere a Directivei (UE) 2017/1371 a Parlamentului European și a Consiliului din 5 iulie 2017 privind combaterea fraudelor îndreptate împotriva intereselor financiare ale Uniunii prin mijloace de drept penal",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-31",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-07",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-06-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-01",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-19",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-07-20",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L136&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l137-2022",
+   "path": "proiect/parlament/2022/l137-2022",
+   "short": "Proiect de lege L137/2022",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.24/2022 privind aprobarea și finanțarea unor programe de garantare în domenii prioritare pentru economia românească",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-31",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-03",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-08",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-10",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-26",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-05-29",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L137&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l138-2022",
+   "path": "proiect/parlament/2022/l138-2022",
+   "short": "Propunere legislativă L138/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea art.11 din Legea nr.51/1991 privind securitatea națională a României",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-16",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-10-31",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-07",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-12",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-28",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-11-29",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L138&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l139-2022",
+   "path": "proiect/parlament/2022/l139-2022",
+   "short": "Propunere legislativă L139/2022",
+   "title": "Propunere legislativă pentru modificarea şi completarea articolului 3 din Legea apelor nr.107 din 25 septembrie 1996",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-11",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L139&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l14-2022",
+   "path": "proiect/parlament/2022/l14-2022",
+   "short": "Proiect de lege L14/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgență a Guvernului nr.1/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.121/2021 privind stabilirea unor măsuri la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, precum și pentru modificarea Ordonanţei de urgență a Guvernului nr.57/2019 privind Codul administrativ",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-25",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-27",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-14",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-13",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-19",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-21",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-09",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-01-10",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L14&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l140-2022",
+   "path": "proiect/parlament/2022/l140-2022",
+   "short": "Propunere legislativă L140/2022",
+   "title": "Propunere legislativă privind anularea unor creanţe bugetare, precum şi pentru modificarea art.3 alin.(5) din Ordonanţa de urgenţă a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-07",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-10-18",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L140&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l141-2022",
+   "path": "proiect/parlament/2022/l141-2022",
+   "short": "Propunere legislativă L141/2022",
+   "title": "Propunere legislativă pentru reducerea costurilor facturate la energia electrică şi gaze naturale",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-30",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-17",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L141&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l142-2022",
+   "path": "proiect/parlament/2022/l142-2022",
+   "short": "Propunere legislativă L142/2022",
+   "title": "Propunere legislativă pentru completarea art.72 şi art.128 din Ordonanţa de Urgenţă a Guvernului 195/2002 privind circulaţia pe drumurile publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-08",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-05",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-11",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L142&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l143-2022",
+   "path": "proiect/parlament/2022/l143-2022",
+   "short": "Propunere legislativă L143/2022",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii dialogului social nr.62/2011",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-06",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-13",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-14",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L143&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l144-2022",
+   "path": "proiect/parlament/2022/l144-2022",
+   "short": "Propunere legislativă L144/2022",
+   "title": "Propunere legislativă privind unele măsuri pentru dezvoltarea infrastructurii de producție și stocare a energiei electrice și de echilibrare a Sistemului Electroenergetic Național, prin construirea și operarea centralelor eoliene și fotovoltaice prevăzute cu capacități de stocare a energiei electrice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-15",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-03-29",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-20",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-04",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-09",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-11",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2024-12-16",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L144&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "proiect-parlament-2022-l366-2022",
    "path": "proiect/parlament/2022/l366-2022",
    "short": "Propunere legislativă L366/2022",

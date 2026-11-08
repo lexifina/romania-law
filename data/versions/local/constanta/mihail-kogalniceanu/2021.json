@@ -3,6 +3,306 @@
  "shard": "local/constanta/mihail-kogalniceanu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-1-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/1",
+   "short": "HCL Mihail Kogălniceanu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 1/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19980",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-10-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/10",
+   "short": "HCL Mihail Kogălniceanu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 10/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 520,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, Str. Speranței, nr. 94A, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19989",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-100-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/100",
+   "short": "HCL Mihail Kogălniceanu nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 100/2021 privind revocarea nr. 40/31.03.2021 privind aprobarea transmiterii dreptului de folosință gratuită a bunului imobil gradiniță și teren aferent situat în comuna Mihail Kogălniceanu, str. Călugăreni, nr.20B către Liceul Teoretic Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39921",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-101-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/101",
+   "short": "HCL Mihail Kogălniceanu nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 101/2021 privind darea în administrare către Liceul Teoretic Mihail Kogălniceanu a bunului imobil ”Grădiniță cu program prelungit și teren aferent„ situat în comuna Mihail Kogălniceanu, str.Călugăreni, nr.20B, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39922",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-102-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/102",
+   "short": "HCL Mihail Kogălniceanu nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 102/2021 privind desemnarea unui reprezentant al Consiliului Local în cadrul Comisiei pentru evaluarea și asigurarea calității în cadrul Liceului Teoretic ”Mihail Kogălniceanu”, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39923",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-103-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/103",
+   "short": "HCL Mihail Kogălniceanu nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 103/2021 privind numirea reprezentanților Consiliului Local în Consiliul de administrație al Liceului Teoretic ”Mihail Kogălniceanu”, județul Constanța pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39924",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-104-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/104",
+   "short": "HCL Mihail Kogălniceanu nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 104/2021 privind modificarea și completarea art.1 din Hotărârea nr.88/29.07.2021 privind stabilirea normativelor proprii pentru consumul mediu lunar de carburanți al autovehiculelor și utilajelor aflate în dotarea proprie a U.A.T.-Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39925",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-105-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/105",
+   "short": "HCL Mihail Kogălniceanu nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 105/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39926",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-106-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/106",
+   "short": "HCL Mihail Kogălniceanu nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 106/2021 privind apartenența la domeniul privat al comunei Mihail Kogălniceanu, județul Constanța a unor imobile (teren și apartament) situate în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39927",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-107-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/107",
+   "short": "HCL Mihail Kogălniceanu nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 107/2021 privind modificarea și completarea art.2 și art.4 din Hotărârea nr. 72/29.06.2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 217,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, str, Speranței, nr.40, Mihail Kogălniceanu, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39928",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-108-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/108",
+   "short": "HCL Mihail Kogălniceanu nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 108/2021 privind vânzarea prin licitație publică, în condițiile legii, a unui imobil teren în suprafață de 65,00 mp teren intravilan, situat în comuna Mihail Kogălniceanu, Grup Social Sibioara, lot 2, Județul Constanța domeniul privat al Comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39929",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-109-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/109",
+   "short": "HCL Mihail Kogălniceanu nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 109/2021 privind vânzarea prin licitație publică, în condițiile Legii, a unui imobil teren în suprafață de 250,00mp teren intravilan, situat în comuna Mihail Kogălniceanu, str. Proictata B, Lot 11, Județul Constanța domeniul privat al Comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39930",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-11-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/11",
+   "short": "HCL Mihail Kogălniceanu nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 11/2021 privind aprobarea reînnoirii Contractului de închiriere nr. 32/29.03.2010 având ca obiect imobil (teren) ce aparține domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19990",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-110-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/110",
+   "short": "HCL Mihail Kogălniceanu nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 110/2021 privind aprobarea reînoirii contractului de închiriere nr. 31/29.10.2010 având ca obiect imobil (apartament) situat în comuna Mihail Kogălniceanu, str. T. Vladimirescu, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39931",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-111-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/111",
+   "short": "HCL Mihail Kogălniceanu nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 111/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39932",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-112-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/112",
+   "short": "HCL Mihail Kogălniceanu nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 112/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Salubrizare al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39933",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-113-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/113",
+   "short": "HCL Mihail Kogălniceanu nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 113/2021 privind aprobarea prelungirii documentației de urbanism ”Plan Urbanistic Zonal” în vederea realizării obiectivului de investiții: ”LOTIZARE PENTRU LOCUIRE, COMERȚ ȘI SERVICII”, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39934",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-114-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/114",
+   "short": "HCL Mihail Kogălniceanu nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 114/2021 privind rectificarea Bugetului de Venituri și Cheltuieli-2021 al comunei mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39935",
+   "versions": [
+    {
+     "from": "2021-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-115-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/115",
+   "short": "HCL Mihail Kogălniceanu nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 115/2021 privind rectificarea Bugetului de Venituri șe Cheltuieli-2021 al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42277",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-116-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/116",
+   "short": "HCL Mihail Kogălniceanu nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 116/2021 privind aprobarea modificării art.2 și art.3 din Hotărârea nr.97/21.11.2020 privind implementarea proiectului „IMBUNĂTĂȚIREA INFRASTRUCTURII EDUCAȚIONALE TIC PE RAZA COMUNEI MIHAIL KOGĂLNICEANU, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42278",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-117-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/117",
    "short": "HCL Mihail Kogălniceanu nr. 117/2021",
@@ -48,6 +348,261 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-12-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/12",
+   "short": "HCL Mihail Kogălniceanu nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 12/2021 privind aprobarea reînnoirii Contractului de închiriere nr. 3/06.06.2014 având ca obiect imobil ( teren) situat în str. Nicolae Bălcescu, nr. 101A, ce aparține domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19991",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-120-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/120",
+   "short": "HCL Mihail Kogălniceanu nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 120/2021 privind aprobarea prelungirii contractului de închiriere având ca obiect imobil (teren) situat în comuna Mihail Kogălniceanu, str. Iorgu Ghe. Ion, nr.13, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42282",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-121-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/121",
+   "short": "HCL Mihail Kogălniceanu nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 121/2021 privind alocarea sumei de 80.000 lei, din bugetul local al comunei Mihail Kogălniceanu 2021 pentru acordarea de pachete pentru elevii înscriși în anul școlar 2021-2022, copiilor cu handicap și copiilor neînscriși în sistemul de învățământ care provin din familiile defavorizate",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42283",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-122-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/122",
+   "short": "HCL Mihail Kogălniceanu nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 122/2021 privind aprobarea decernării diplomei de excelență ”Nuna de Aur” și a premierii familiilor care au sărbătorit sau vor sărbători ”Nunta de Aur” precum și alocarea pentru anul 2021 a sumei de 10.000 lei",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42284",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-123-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/123",
+   "short": "HCL Mihail Kogălniceanu nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 123/2021 privind atestarea apartanenței la domeniul privat al comunei Mihail Kogălniceanu, a unor imobile (terenuri și apartamente) situate în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42285",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-124-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/124",
+   "short": "HCL Mihail Kogălniceanu nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 124/2021 privind revocarea Hotărârii nr. 57/29.04.2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 14 ha, situat în extravilanul comunei Mihail Kogălniceanu, Parcela CCP61/2, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42286",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-125-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/125",
+   "short": "HCL Mihail Kogălniceanu nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 125/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 14 ha, situat în extravilanul comunei Mihail Kogălniceanu, Parcela CCP61/2, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42287",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-126-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/126",
+   "short": "HCL Mihail Kogălniceanu nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 126/2021 privind aprobarea vânzării prin negociere directă a imobilului garsoniera cu suprafața utilă de 23.93 mp, situat în intravilanul comunei Mihail Kogălniceanu, str. Tomis, bl.D8, sc.A, ap.9, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42288",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-127-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/127",
+   "short": "HCL Mihail Kogălniceanu nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 127/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42289",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-128-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/128",
+   "short": "HCL Mihail Kogălniceanu nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 128/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42290",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-129-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/129",
+   "short": "HCL Mihail Kogălniceanu nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 129/2021 privind aprobarea cuantumului și numărului de burse acordate elevilor de la cursurile cu frecvență din unitățile de învățământ preuniversitar de stat din comuna Mihail Kogălniceanu, județul Constanța, pentru semestrul I al anului școlar 2021-2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42291",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-13-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/13",
+   "short": "HCL Mihail Kogălniceanu nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 13/2021 privind aprobarea reînnoirii Contractului de închiriere nr. 4/07.01.2015 având ca obiect imobil (apartament) situat în str. Tudor Vladimirescu, Bl. T, sc. B, et.4, ap.28, ce aparține domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19992",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-130-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/130",
+   "short": "HCL Mihail Kogălniceanu nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 130/2021 privind aprobarea cuantumului și numărului de burse acordate elevilor de la cursurile cu frecvență din unitățile de învățământ preuniversitar de stat din comuna Mihail Kogălniceanu, județul Constanța, pentru semestrul II al anului școlar 2020-2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42292",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-131-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/131",
+   "short": "HCL Mihail Kogălniceanu nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 131/2021 privind aprobarea sumelor necesare pentru decontarea transportului cadrelor didactice din cadrul Liceului Teoretic Mihail Kogălniceanu comuna Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42293",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-132-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/132",
+   "short": "HCL Mihail Kogălniceanu nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 132/2021 privind revocarea Hotărârii nr.63/27.05.2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 2000 mp, situat în intravilanul comunei Mihail Kogălniceanu, Zona Industrială, (fosta C.A.P.), Lot D9, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu și a Hotărârii nr. 87/29.07.2021 privind aprobarea prețului de vânzare al imobilului ce face obiectul Hotărârii nr. 63/27.05.3021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42294",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-133-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/133",
+   "short": "HCL Mihail Kogălniceanu nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 133/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 2000 mp, situat în intravilanul comunei Mihail Kogălniceanu, Zona Industrială, (fosta C.A.P.), Lot D9, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42295",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-134-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/134",
+   "short": "HCL Mihail Kogălniceanu nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 134/2021 privind retragerea comunei Mihail Kogălniceanu din cadrul Asociației de Dezvoltare Intercomunitară ”Dobrogea”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42296",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42296",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-135-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/135",
    "short": "HCL Mihail Kogălniceanu nr. 135/2021",
@@ -58,6 +613,126 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-136-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/136",
+   "short": "HCL Mihail Kogălniceanu nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 136/2021 privind aprobarea concesionării rețelei de alimentare cu apă potabilă sat Piatra și Palazu Mic, comuna Mihail Kogălniceanu, județul Constanța către RAJA SA Constața",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42298",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-137-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/137",
+   "short": "HCL Mihail Kogălniceanu nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 137/2021 privind vânzarea prin licitației publică, în condițiile legii, a unui imobil teren în suprafață de 698,00 mp teren intravilan, situat în comuna Mihail Kogălniceanu, sat Piatra, str. Tașaul-Adiacent, nr. 54, Jud. Constanța domeniului privat al Comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42299",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-138-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/138",
+   "short": "HCL Mihail Kogălniceanu nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 138/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42308",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-139-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/139",
+   "short": "HCL Mihail Kogălniceanu nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 139/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42309",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-14-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/14",
+   "short": "HCL Mihail Kogălniceanu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 14/2021 privind aprobarea reînnoirii Contractului de închiriere nr. 11/05.06.2015 având ca obiect imobil (apartament) situat în str. Tudor Vladimirescu, Bl. T, Ap.13, ce aparține domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19993",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-140-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/140",
+   "short": "HCL Mihail Kogălniceanu nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 140/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42771",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-141-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/141",
+   "short": "HCL Mihail Kogălniceanu nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 141/2021 privind rectificarea Bugetului de Venituri și Cheltuieli-2021 al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46042",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-142-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/142",
+   "short": "HCL Mihail Kogălniceanu nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 142/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 689,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, sat Piatra, str. Daciei, nr.5, județul Constanța aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46043",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46043",
      "sha256": null
     }
    ]
@@ -163,6 +838,21 @@
      "from": "2021-12-13",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/46434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-15-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/15",
+   "short": "HCL Mihail Kogălniceanu nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 15/2021 privind aprobarea reînnoirii Contractului de închiriere nr. 29/08.03.2010 având ca obiect imobil (apartament) situat în str. Tudor Vladimirescu, Bl. CK 11, Sc. A, Parter, Ap. 3, ce aparține domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19994",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19994",
      "sha256": null
     }
    ]
@@ -318,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-16-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/16",
+   "short": "HCL Mihail Kogălniceanu nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 16/2021 privind aprobarea reînnoirii contractului de închiriere nr. 10/07.01.2015 având ca obiect imobil (apartament) situat în comuna Mihail Kogălniceanu, Str. Tudor Vladimirescu, Bl. R, Sc. B, Ap.31, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19995",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-160-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/160",
    "short": "HCL Mihail Kogălniceanu nr. 160/2021",
@@ -363,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-17-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/17",
+   "short": "HCL Mihail Kogălniceanu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 17/2021 privind aprobarea reînnoirii contractului de închiriere nr.4/07.10.2015 având ca obiect imobil (teren) situat în comuna Mihail Kogălniceanu, str. N. Bălcescu, nr. 25B, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19996",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-18-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/18",
+   "short": "HCL Mihail Kogălniceanu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 18/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19997",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19997",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-19-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/19",
    "short": "HCL Mihail Kogălniceanu nr. 19/2021",
@@ -393,6 +1128,171 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-20-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/20",
+   "short": "HCL Mihail Kogălniceanu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 20/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19999",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-21-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/21",
+   "short": "HCL Mihail Kogălniceanu nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 21/2021 privind schimbarea temporară a destinației imobilului “Grădiniță cu orar prelungit” situat în str. Libertății, nr. 1C, în centru de vaccinare împotriva COVID 19, în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20000",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-22-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/22",
+   "short": "HCL Mihail Kogălniceanu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 22/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20029",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-23-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/23",
+   "short": "HCL Mihail Kogălniceanu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 23/2021 privind aprobarea reînnoirii contractului de închiriere nr.14/07.10.2015 având ca obiect imobil (apartament) situat în comuna Mihail Kogălniceanu, str. Tudor Vladimirescu, bl. M, sc. A, Ap. 2, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20030",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-24-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/24",
+   "short": "HCL Mihail Kogălniceanu nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 24/2021 privind aprobarea actualizării chiriei pentru titularii contractelor de închiriere din blocurile ANL 1 și 2 situate în comuna Mihail Kogălniceanu, str. Tomis, FN, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20031",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-25-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/25",
+   "short": "HCL Mihail Kogălniceanu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 25/2021 privind aprobarea actualizarii indicatorilor maximali și a bugetului la contractul de finanțare nr. 2940/20.08.2018 și susținerii financiare a cheltuielilor neeligibile",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20032",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-26-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/26",
+   "short": "HCL Mihail Kogălniceanu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 26/2021 privind aprobarea actualizării indicatorilor maximali și a contractului de finanțare C1920074A219021403604/27.12.2018 și susținerii cheltuielilor neeligibile",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20033",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-27-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/27",
+   "short": "HCL Mihail Kogălniceanu nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 27/2021 privind încetarea prin retragere a concesiunii asupra terenului situat în comuna Mihail Kogălniceanu, situat în zona Industrială fost CAP, lot D1",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20034",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-28-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/28",
+   "short": "HCL Mihail Kogălniceanu nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 28/2021 privind actualizarea art. 4 din Hotărârea nr.29/29.03.2019 privind înființarea și organizarea Serviciului de iluminat public al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20035",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/20035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-29-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/29",
+   "short": "HCL Mihail Kogălniceanu nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 29/2021 privind aprobarea rețelei unităților de învățământ de pe raza administrativ-teritorială a comunei Mihail Kogălniceanu, care vor funcționa în anul școlar 2021-2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21787",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-3-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/3",
+   "short": "HCL Mihail Kogălniceanu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 3/2021 privind aprobarea Raportului pentru activitatea asistenților personali ai persoanelor cu handicap grav-semestrul II 2020",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19982",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19982",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-30-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/30",
    "short": "HCL Mihail Kogălniceanu nr. 30/2021",
@@ -403,6 +1303,66 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-31-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/31",
+   "short": "HCL Mihail Kogălniceanu nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 31/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21789",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-32-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/32",
+   "short": "HCL Mihail Kogălniceanu nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 32/2021 privind aprobarea prelungirii contractelor de închiriere pentru titularii din blocul 1 ANL situat în comuna Mihail Kogălniceanu, str. Tomis, FN, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21790",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-33-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/33",
+   "short": "HCL Mihail Kogălniceanu nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 33/2021 privind închirierea prin atribuire directă a suprafețelor, disponibile, de pajiști naturale, aflate în domeniul privat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21791",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-34-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/34",
+   "short": "HCL Mihail Kogălniceanu nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 34/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21792",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21792",
      "sha256": null
     }
    ]
@@ -438,6 +1398,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-37-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/37",
+   "short": "HCL Mihail Kogălniceanu nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 37/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21795",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-38-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/38",
+   "short": "HCL Mihail Kogălniceanu nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 38/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21796",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21796",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-39-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/39",
    "short": "HCL Mihail Kogălniceanu nr. 39/2021",
@@ -463,6 +1453,36 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-40-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/40",
+   "short": "HCL Mihail Kogălniceanu nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 40/2021 privind aprobarea transmiterii dreptului de folosință gratuită a bunului imobil grădiniță și teren aferent situat în comuna Mihail Kogălniceanu, str. Călugăreni, nr. 20 B către Liceul Teoretic Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21798",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-41-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/41",
+   "short": "HCL Mihail Kogălniceanu nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 41/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21799",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21799",
      "sha256": null
     }
    ]
@@ -513,6 +1533,216 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-45-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/45",
+   "short": "HCL Mihail Kogălniceanu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 45/2021 privind atestarea apartenenței la domeniul privat al comunei Mihail Kogălniceanu, a unor imobile (terenuri și apartamente) situate în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24593",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-46-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/46",
+   "short": "HCL Mihail Kogălniceanu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 46/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24594",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-47-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/47",
+   "short": "HCL Mihail Kogălniceanu nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 47/2021 privind aprobarea rezilierii contractului de superficie nr. 3669/22.08.2018- titular SC CONDRAGUN SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24595",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-48-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/48",
+   "short": "HCL Mihail Kogălniceanu nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 48/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24596",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-49-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/49",
+   "short": "HCL Mihail Kogălniceanu nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 49/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24597",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-5-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/5",
+   "short": "HCL Mihail Kogălniceanu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 5/2021 privind repartizarea și utulizarea excedentului anual al bugetului local la închirierea exercițiului bugetar 2020, pentru finanțarea cheltuielilor secțiunii de dezvoltare și funcționare 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19984",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-50-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/50",
+   "short": "HCL Mihail Kogălniceanu nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 50/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24598",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-51-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/51",
+   "short": "HCL Mihail Kogălniceanu nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 51/2021 privind retragerea dreptului de folosință gratuită în raport cu beneficiarii de terenuri care nu și-au îndeplinit obligațiile privind realizarea construcției pe parcelele atribuite în baza Legi nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24599",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-52-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/52",
+   "short": "HCL Mihail Kogălniceanu nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 52/2021 privind retragerea dreptului de folosință gratuită în raport cu beneficiarii de terenuri care nu și-au îndeplinit obligațiile privind realizarea construcției pe parcelele atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate persoanlă-Mihai CHERECHES și Ion-Gabriel CHERECHEA",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24600",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-53-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/53",
+   "short": "HCL Mihail Kogălniceanu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 53/2021 privind retragerea dreptului de folosință gratuită în raport cu beneficiarul de teren care nu și-a îndeplinit obligațiile privind realizarea construcției pe parcelele atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru contruirea unei locuințe proprietate personală- Marius-Ionuț ROTARU",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24601",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-54-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/54",
+   "short": "HCL Mihail Kogălniceanu nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 54/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24602",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-55-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/55",
+   "short": "HCL Mihail Kogălniceanu nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 55/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24603",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-56-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/56",
+   "short": "HCL Mihail Kogălniceanu nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 56/2021 privind aprobarea reînnoirii contractului de închiriere nr. CR 3001/SA din 12.02,2001 având ca obiect imobil (teren) în suprafața de 220,00 mp situat în comuna Mihail Kogălniceanu, zona Sitorman, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24604",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-57-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/57",
+   "short": "HCL Mihail Kogălniceanu nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 57/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 14 ha, situat în extravilanul comunei Mihail Kogălniceanu, Parcela CCP 61/2, județul Constanța, aparținând domeniul privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24605",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24605",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-58-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/58",
    "short": "HCL Mihail Kogălniceanu nr. 58/2021",
@@ -523,6 +1753,36 @@
      "from": "2021-04-29",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-59-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/59",
+   "short": "HCL Mihail Kogălniceanu nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 59/2021 privind aprobarea transmiterii în folosință gratuită, pe durata execuției investiției, a unui teren aparținând proprietății private a comunei Mihail Kogălniceanu în suprafață de 4101,00 mp situat în comuna Mihail Kogălniceanu, str. Stejarului, Lot 1, către Agenția Națională pentru Locuințe, în vederea construirii de locuințe pentru tineri, destinate închirierii",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25874",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-6-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/6",
+   "short": "HCL Mihail Kogălniceanu nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 6/2021 privind constituirea componenței comisiei de vânzare a imobilelor (terenuri și clădiri) aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19985",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19985",
      "sha256": null
     }
    ]
@@ -568,6 +1828,51 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-63-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/63",
+   "short": "HCL Mihail Kogălniceanu nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 63/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 2000 mp, situat în intravilanul comunei Mihail Kogălniceanu, Zona Industrială, (fosta C.A.P.) Lot D9, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25878",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-64-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/64",
+   "short": "HCL Mihail Kogălniceanu nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 64/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25879",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-65-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/65",
+   "short": "HCL Mihail Kogălniceanu nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 65/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25880",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25880",
      "sha256": null
     }
    ]
@@ -633,6 +1938,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-7-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/7",
+   "short": "HCL Mihail Kogălniceanu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 7/2021 privind alegerea președintelui de ședință al Consiliului Local al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19986",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19986",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-70-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/70",
    "short": "HCL Mihail Kogălniceanu nr. 70/2021",
@@ -643,6 +1963,111 @@
      "from": "2021-06-29",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-71-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/71",
+   "short": "HCL Mihail Kogălniceanu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 71/2021 privind aprobarea vânzării prin negociere directă a terenului în suprafață de 438,00mp, situat în intravilanul comunei Mihail Kogălniceanu, Grup Social Ceres, Lot 36/3/8, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30828",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-72-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/72",
+   "short": "HCL Mihail Kogălniceanu nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 72/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 217,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, str. Speranței, nr..40, Mihail Kogălniceanu, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30829",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-73-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/73",
+   "short": "HCL Mihail Kogălniceanu nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 73/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 466,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, str.Nucilor, nr.1, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30830",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-74-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/74",
+   "short": "HCL Mihail Kogălniceanu nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 74/2021 privind aprobarea actualizării chiriei pentru titularii contractelor de închiriere din blocurile ANL 1 și 2 situate în comuna Mihail Kogălniceanu, str. Tomis, FN, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30831",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-75-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/75",
+   "short": "HCL Mihail Kogălniceanu nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 75/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30832",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-76-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/76",
+   "short": "HCL Mihail Kogălniceanu nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 76/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30833",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-77-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/77",
+   "short": "HCL Mihail Kogălniceanu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 77/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30834",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30834",
      "sha256": null
     }
    ]
@@ -673,6 +2098,21 @@
      "from": "2021-07-07",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-8-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/8",
+   "short": "HCL Mihail Kogălniceanu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 8/2021 privind desemnarea a doi consilieri locali în calitatea de membri în cadrul comisiei de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19987",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19987",
      "sha256": null
     }
    ]
@@ -768,6 +2208,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-86-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/86",
+   "short": "HCL Mihail Kogălniceanu nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 86/2021 privind aprobarea vânzării prin negociere directă a imobilului apartament în suprafață utilă de 37,6 mp, situat în intravilanul comunei Mihail Kogălniceanu, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33617",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-87-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/87",
+   "short": "HCL Mihail Kogălniceanu nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 87/2021 privind aprobarea prețului de vânzare al imobilului ce face obiectul Hotărârii nr. 63/27.05.2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33618",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33618",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-88-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/88",
    "short": "HCL Mihail Kogălniceanu nr. 88/2021",
@@ -798,6 +2268,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-9-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/9",
+   "short": "HCL Mihail Kogălniceanu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 9/2021 privind aprobarea, vânzarea prin negociere directă a imobilului teren în suprafață de 285,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, str. stadion, nr. 8 A, județul Constanța, aparținând domeniul privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19988",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-90-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/90",
    "short": "HCL Mihail Kogălniceanu nr. 90/2021",
@@ -808,6 +2293,126 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-91-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/91",
+   "short": "HCL Mihail Kogălniceanu nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 91/2021 privind aprobarea vânzării prin negociere directă a imobilului teren în suprafață de 380,00 mp, situat în intravilanul comunei Mihail Kogălniceanu, str. Transilvaniei, nr. 44, județul Constanța, aparținând domeniului privat al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33622",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-92-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/92",
+   "short": "HCL Mihail Kogălniceanu nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 92/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33623",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-93-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/93",
+   "short": "HCL Mihail Kogălniceanu nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 93/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33624",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-94-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/94",
+   "short": "HCL Mihail Kogălniceanu nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 94/2021 privind aprobarea reînnoirii contractului de închiriere nr. 2/07.04.2015 având ca obiect imobil (teren) situat în comuna Mihail Kogălniceanu, str. N. Bălcescu, nr. 86, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33625",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-95-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/95",
+   "short": "HCL Mihail Kogălniceanu nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 95/2021 privind actualizarea tarifelor pentru prestarea serviciilor de pază de către SC ''M.K Pază și Protecție'' SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33626",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-96-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/96",
+   "short": "HCL Mihail Kogălniceanu nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 96/2021 privind aprobarea documentației de dezmembrare a imobilului Lot 51, situat în comuna Mihail Kogălniceanu, sat Piatra, str. Macinului, având număr cadastral 108088, ce aparține domeniului privat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/35117",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/35117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-97-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/97",
+   "short": "HCL Mihail Kogălniceanu nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 97/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/35118",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/35118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-98-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/98",
+   "short": "HCL Mihail Kogălniceanu nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 98/2021 privind alegerea președintelui de ședință al Consiliului Local al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39919",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39919",
      "sha256": null
     }
    ]

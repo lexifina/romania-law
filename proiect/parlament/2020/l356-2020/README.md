@@ -1,0 +1,50 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Propunere legislativă privind planul special de gestiune a resurselor umane
+
+**Became:** no adopted act is recorded for this draft.
+
+Propunere legislativă L356/2020 · initiator: Membri ai Parlamentului · 8 published stages, 2020-04-22 to 2020-09-01 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2020>
+
+- Senate number: L356/2020
+- Type: Propunere legislativă
+- Character: Organică
+- Urgent procedure: Nu
+- First chamber: Senat
+- Legislative Council opinion: 502/26.05.2020
+- Stage in the bill file: Trimis la Cameră pentru dezbatere
+- Initiators: 1 member(s) of Parliament, named in the bill file at the source link (credited here as a body)
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2020-l356-2020/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2020-04-22 | first record in the bill file |
+| 2020-04-24 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive |
+| 2020-04-27 | documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social |
+| 2020-06-10 | documents published: Aviz comisie |
+| 2020-06-11 | documents published: Aviz comisie |
+| 2020-07-01 | documents published: Raport comisie sesizată pe fond |
+| 2020-07-16 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2020-09-01 | registered at the Chamber of Deputies |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [am-3501c22a.md](am-3501c22a.md) | Adresă către Camera Deputaților (AM), as published |
+| [ca45-bed980e6.md](ca45-bed980e6.md) | Aviz comisie (CA45), as published |
+| [cr-7b50e2a4.md](cr-7b50e2a4.md) | Raport comisie sesizată pe fond (CR), as published |
+| [fs-72a144d5.md](fs-72a144d5.md) | Forma adoptată de Senat (FS), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2020-l356-2020`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Propunere legislativă L356/2020: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Propunere legislativă L356/2020: comments by private persons are not collected or published; initiators are credited as a body.

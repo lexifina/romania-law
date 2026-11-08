@@ -3,6 +3,1011 @@
  "shard": "local/constanta/navodari/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--navodari-1-2025",
+   "path": "local/constanta/navodari/2025/1",
+   "short": "HCL Năvodari nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 1/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.1-din-09.01.2025.pdf",
+     "sha256": "e1d72886a5ca0995bcb5ae16ba3d378e48529aa93e25187ac60faf5536afcb18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-10-2025",
+   "path": "local/constanta/navodari/2025/10",
+   "short": "HCL Năvodari nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 10/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.10-din-31.01.2025.pdf",
+     "sha256": "5a714b9c6d96ade829b2f29aeb29a89aa4d0bfb880bae1cda8c9214ded416ca5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-100-2025",
+   "path": "local/constanta/navodari/2025/100",
+   "short": "HCL Năvodari nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 100/2025 privind anularea obligatiilor fiscale datorate bugetului local al Orasului Navodari de debitori, persoane juridice, radiati din Registrul Comertului si scaderea societatilor radiate din evidenta fiscala",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.100-din-29.04.2025.pdf",
+     "sha256": "485891a114a5bde00fbdc4c8d65850ca5c1506dc68210c21d485c370114c63cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-101-2025",
+   "path": "local/constanta/navodari/2025/101",
+   "short": "HCL Năvodari nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.101-din-29.04.2025.pdf",
+     "sha256": "43adb421db2be470434fd97c6df749494e969e8020fd180c0926325441b08338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-102-2025",
+   "path": "local/constanta/navodari/2025/102",
+   "short": "HCL Năvodari nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.102-din-29.04.2025.pdf",
+     "sha256": "085a056093b9cb5951875957b435db977d3bcb2cee8f3bab4d53239f9af08746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-103-2025",
+   "path": "local/constanta/navodari/2025/103",
+   "short": "HCL Năvodari nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 103/2025 privind aprobarea listei de repartizare cuprinzand solicitantii indreptatiti sa primeasca o locuinta sociala prin inchiriere in anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.103-din-29.04.2025.pdf",
+     "sha256": "8622ae545a58322fc489f23100fe131d1d2b10100a45acc26b60ed5f0d1cdca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-104-2025",
+   "path": "local/constanta/navodari/2025/104",
+   "short": "HCL Năvodari nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 104/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.104-din-29.04.2025.pdf",
+     "sha256": "602deed3b545cc6c28ae2e011349f4a86e28fe4f7be280bcf4374eb73d7e64d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-105-2025",
+   "path": "local/constanta/navodari/2025/105",
+   "short": "HCL Năvodari nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 105/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.105-din-29.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.105-din-29.04.2025.pdf",
+     "sha256": "7f44e7cd6049cf76681f943daf8ced4dc259b655ccf41ceb023c8c0eda52557d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-106-2025",
+   "path": "local/constanta/navodari/2025/106",
+   "short": "HCL Năvodari nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 106/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.106-din-29.04.2025.pdf",
+     "sha256": "109328192f40ef4b12e7cc5cc7fdfdef65bb833b65a0d3a7cfb2793c4754fe8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-107-2025",
+   "path": "local/constanta/navodari/2025/107",
+   "short": "HCL Năvodari nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 107/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.107-din-29.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.107-din-29.04.2025.pdf",
+     "sha256": "d02e2d1e3f0fb35638db7c0e426140246f0c351d3ba9564235c5cc37233f070d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-109-2025",
+   "path": "local/constanta/navodari/2025/109",
+   "short": "HCL Năvodari nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 109/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.109-din-29.04.2025.pdf",
+     "sha256": "6854eea35b68e313d52f86a34d61b5b2260848f1971f7b2c8ca2431eca2d5b58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-11-2025",
+   "path": "local/constanta/navodari/2025/11",
+   "short": "HCL Năvodari nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 11/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.11-din-31.01.2025.pdf",
+     "sha256": "69504ec4591b236e9715407d9f3c5255eb70eac61da565167a13aebdf55d4dd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-110-2025",
+   "path": "local/constanta/navodari/2025/110",
+   "short": "HCL Năvodari nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 110/2025 cu privire la alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.110-din-29.04.2025.pdf",
+     "sha256": "fc91e038e8e55d7871b016e1c597fec1a3ef8f1653e67838d169c3b2db75293a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-111-2025",
+   "path": "local/constanta/navodari/2025/111",
+   "short": "HCL Năvodari nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 111/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.111-din-07.05.2025.pdf",
+     "sha256": "519a28cde06b4d41e33a76c1167abcfafa967a33d35bc85f223f161b6fc68b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-112-2025",
+   "path": "local/constanta/navodari/2025/112",
+   "short": "HCL Năvodari nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 112/2025 privind achizitionarea unor servicii de asistenta si reprezentare juridica a UAT Oras Navodari in litigiul avand ca obiect contestatia, pe cale judecatoreasca impotriva Notei de constatare nr. 125259.6/26.08.2024 si a Decizie nr. 204/08.11.2024 emise de Ministerul Investitiilor",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.112-din-07.05.2025.pdf",
+     "sha256": "034bddeff9029674c0520ad72eabba716eff570f214079dd8b0acdc311832d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-113-2025",
+   "path": "local/constanta/navodari/2025/113",
+   "short": "HCL Năvodari nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 113/2025 cu privire la aprobarea caietelor de sarcini si documentatiilor tehnico-economice pentru executia lucrarilor de reparatie a tramei stradale in orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.113-din-26.05.2025.pdf",
+     "sha256": "81776b236a4113cb501090adce7a0c627b1ae121aa9cdcbf145b30592932895d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-114-2025",
+   "path": "local/constanta/navodari/2025/114",
+   "short": "HCL Năvodari nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 114/2025 cu privire la indexarea cu rata inflaÈiei a impozitelor Èi taxelor locale care constau Ã®ntr-o anumitÄ sumÄ Ã®n lei sau care sunt stabilite pe baza unei anumite sume Ã®n lei, precum Èi limitele amenzilor care se fac venit la bugetul local conform art. 491 din legea 227/201",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.114-din-30.05.2025.pdf",
+     "sha256": "f8a6e75f3ed178011f9b165c236bd69001335beca877df925cc97581b429b520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-115-2025",
+   "path": "local/constanta/navodari/2025/115",
+   "short": "HCL Năvodari nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 115/2025 cu privire la aprobarea contului de execuÈie bugetarÄ la 31.03.2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.115-din-30.05.2025.pdf",
+     "sha256": "c858eb78cb81ddf8dd3f6666270918ba3c76ac00d14da4ce9c8f4904a360e81e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-116-2025",
+   "path": "local/constanta/navodari/2025/116",
+   "short": "HCL Năvodari nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 116/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.116-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.116-din-30.05.2025.pdf",
+     "sha256": "9dbbed1926b547e30799ccfedd7aa3e1f32e855e9a67c2dbe8075ce7910e0283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-117-2025",
+   "path": "local/constanta/navodari/2025/117",
+   "short": "HCL Năvodari nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 117/2025 privind achiziÈionarea unor servicii de asistenÈÄ Èi reprezentare juridicÄ a U.A.T Oras Navodari Ã®n litigiul care face obiectul dosarului nr. 25682/3/2024, Ã®n contradictoriu Matfish SRL",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.117-din-30.05.2025.pdf",
+     "sha256": "5b8ac789230566548a947d333d7f165893cbdb519e41f7f103888f310ef5b5eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-118-2025",
+   "path": "local/constanta/navodari/2025/118",
+   "short": "HCL Năvodari nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 118/2025 cu privire la completarea componenÈei comisiei pentru administraÈie publicÄ localÄ, juridicÄ, apÄrarea ordinii publice, respectarea drepturilor Èi libertÄÈilor cetÄÈenilor Èi a comisiei pentru Ã®nvÄÈÄmÃ¢nt, sÄnÄtate, culturÄ, protecÈie socialÄ, sportivÄ Èi",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.118-din-30.05.2025.pdf",
+     "sha256": "0d9fd7b6984922bb17492a1d537d023265b69aa25300b2756e9ecae2013eeeea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-119-2025",
+   "path": "local/constanta/navodari/2025/119",
+   "short": "HCL Năvodari nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 119/2025 cu privire la repartizarea Ã®n anul 2025 a unor fonduri din bugetul local pentru completarea fondurilor proprii ale unitÄÈilor de cult din oraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.119-din-30.05.2025.pdf",
+     "sha256": "ae759581d3ee025f293778142e71f92e2a58740d699d9412390bdf9a8c3f470e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-12-2025",
+   "path": "local/constanta/navodari/2025/12",
+   "short": "HCL Năvodari nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 12/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.12-din-31.01.2025.pdf",
+     "sha256": "ff0a1fe2ff5775f7605513f419089edf47b8a02b24369fcc0bb17e261b57fcb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-120-2025",
+   "path": "local/constanta/navodari/2025/120",
+   "short": "HCL Năvodari nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 120/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.120-din-30.05.2025.pdf",
+     "sha256": "df2c68ef2b0ecbfef4c9e6f8fcc1c3166c99843aa92aacbf0a79b7298d992aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-121-2025",
+   "path": "local/constanta/navodari/2025/121",
+   "short": "HCL Năvodari nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 121/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.121-din-30.05.2025.pdf",
+     "sha256": "c94e8547bf9538b58bb20bb6291bde45e4885518fb8152d9155686c9c8953635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-122-2025",
+   "path": "local/constanta/navodari/2025/122",
+   "short": "HCL Năvodari nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 122/2025 privind aprobarea Organigramei Èi a Statului de FuncÈii ale aparatului de specialitate al Primarului OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.122-din-30.05.2025.pdf",
+     "sha256": "e0029882383c38131c1ba6fb66e82aa45786a8d95f268d6b11b66ed216c75c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-123-2025",
+   "path": "local/constanta/navodari/2025/123",
+   "short": "HCL Năvodari nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 123/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.123-din-30.05.2025.pdf",
+     "sha256": "b1ca56cea88596352e507d086de59ed00c8986865af3d9db276121977023f442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-124-2025",
+   "path": "local/constanta/navodari/2025/124",
+   "short": "HCL Năvodari nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 124/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.124-din-30.05.2025.pdf",
+     "sha256": "31e9e3c16317ce0a2a2da32e965341967319f0656c6759b7ac9f0477fa826b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-125-2025",
+   "path": "local/constanta/navodari/2025/125",
+   "short": "HCL Năvodari nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 125/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.125-din-30.05.2025.pdf",
+     "sha256": "d6d897c416743a552be216d94eddfd569171f6078df407f1d831f9631e15bb39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-126-2025",
+   "path": "local/constanta/navodari/2025/126",
+   "short": "HCL Năvodari nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 126/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.126-din-30.05.2025.pdf",
+     "sha256": "fc79ac7706b0b0b525c18b2bed3867e5be0dc67a6dd35bbed39dcd01f87c8667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-127-2025",
+   "path": "local/constanta/navodari/2025/127",
+   "short": "HCL Năvodari nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 127/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.127-din-30.05.2025.pdf",
+     "sha256": "49224f62161dde2982406d077d0b6a8a28541a0ae211628cf12ef4b9de4b1744"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-128-2025",
+   "path": "local/constanta/navodari/2025/128",
+   "short": "HCL Năvodari nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 128/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.128-din-30.05.2025.pdf",
+     "sha256": "f4db0543cdccd0c282bdc5a692d6b4b582957e45b2c5d780122e02f6eb3d3822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-129-2025",
+   "path": "local/constanta/navodari/2025/129",
+   "short": "HCL Năvodari nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 129/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.129-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.129-din-30.05.2025.pdf",
+     "sha256": "46948e8ba3cd69f4575630074022fb0ed0e1ca8ba0be88f0edf7c557f48d4b24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-13-2025",
+   "path": "local/constanta/navodari/2025/13",
+   "short": "HCL Năvodari nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 13/2025 cu privire la oportunitatea vÃ¢nzÄrii terenului situat Ã®n NÄvodari, judeÈul ConstanÈa, Ã®n favoarea proprietatului construcÈiei C1, edificatÄ pe acest teren",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.13-din-31.01.2025.pdf",
+     "sha256": "5c919548321b5feedc2bbc3e597b8358e17645edaf6f9b08c3487be4ee0f89ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-130-2025",
+   "path": "local/constanta/navodari/2025/130",
+   "short": "HCL Năvodari nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 130/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.130-din-30.05.2025.pdf",
+     "sha256": "90919a197105fa3d32ac304c95b6b6a36cd97150df53038616fdf0d2a40cb3bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-131-2025",
+   "path": "local/constanta/navodari/2025/131",
+   "short": "HCL Năvodari nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 131/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.131-din-30.05.2025.pdf",
+     "sha256": "22e834eb3d7d14d9c7e68a313e1e9b82accdc49d820c70a1fbf78ca6d1e379ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-132-2025",
+   "path": "local/constanta/navodari/2025/132",
+   "short": "HCL Năvodari nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 132/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.132-din-30.05.2025.pdf",
+     "sha256": "401b74752709e0b25e645a2ed451034d4cc9efb837ae6d400d34b06aec76610d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-133-2025",
+   "path": "local/constanta/navodari/2025/133",
+   "short": "HCL Năvodari nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 133/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.133-din-30.05.2025.pdf",
+     "sha256": "9e055154a934f735a7cd99ef7262a6285180712c2c57ada5fab212726e5a10c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-134-2025",
+   "path": "local/constanta/navodari/2025/134",
+   "short": "HCL Năvodari nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 134/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.134-din-30.05.2025.pdf",
+     "sha256": "54c2c422cb9bc0695d5bc136ccbc6443f07c30855a434cc8916abc515c8ad5b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-135-2025",
+   "path": "local/constanta/navodari/2025/135",
+   "short": "HCL Năvodari nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 135/2025 cu privire la aprobarea vÃ¢nzÄrii terenului Ã®n NÄvodari, judeÈul ConstanÈa, cÄtre roprietarul construcÈiei C1, edificatÄ pe acest teren",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.135-din-30.05.2025.pdf",
+     "sha256": "d1d2cb1524ef9e20c8dc84112e5b60c57aa594879782e52ee3af40835e37b849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-136-2025",
+   "path": "local/constanta/navodari/2025/136",
+   "short": "HCL Năvodari nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 136/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.136-din-30.05.2025.pdf",
+     "sha256": "bb2bd82172d49c92cd1ac7c676da70a886f55de63c39c76372eb227665d4ec53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-137-2025",
+   "path": "local/constanta/navodari/2025/137",
+   "short": "HCL Năvodari nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 137/2025 cu privire la aprobarea constituirii unui drept de servitute de trecere pe terenul Ã®n suprafaÈÄ de 177 mp identificat ca parte din imobilul IE 118010, proprietatea UAT NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.137-din-30.05.2025.pdf",
+     "sha256": "8ab9a6b2e8708cad36729cc3c30aa577dd27f41d0dfd52a2db6c4bb090808dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-138-2025",
+   "path": "local/constanta/navodari/2025/138",
+   "short": "HCL Năvodari nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 138/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.138-din-30.05.2025.pdf",
+     "sha256": "3da9f738c10f0df2bacf6d0720d0dcb90061b5968e8a805a625d8b223dd208a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-139-2025",
+   "path": "local/constanta/navodari/2025/139",
+   "short": "HCL Năvodari nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 139/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.139-din-30.05.2025.pdf",
+     "sha256": "b0c3e8e7fda6474de8cd1da87765ab7be8b419f929cf7a2f937935b950a6272c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-14-2025",
+   "path": "local/constanta/navodari/2025/14",
+   "short": "HCL Năvodari nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 14/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.14-din-31.01.2025.pdf",
+     "sha256": "f008b87c5025486a8dd03aaf3e84ff835871015975704b0d4a435dffa24a3a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-140-2025",
+   "path": "local/constanta/navodari/2025/140",
+   "short": "HCL Năvodari nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 140/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.140-din-30.05.2025.pdf",
+     "sha256": "a105d22086f8b287f13df063f6820e612f4e3011e98a732a5ceb7ef1b288807a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-141-2025",
+   "path": "local/constanta/navodari/2025/141",
+   "short": "HCL Năvodari nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 141/2025 privind emiterea acordului de vecinÄtate al OraÈului NÄvodari solicitat prin Certificatul de Urbanism nr. 754/19.12.2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.141-din-30.05.2025.pdf",
+     "sha256": "af60506aaab9227deb59af7e91e12467877db6f35816722a94c2c70ded30849b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-142-2025",
+   "path": "local/constanta/navodari/2025/142",
+   "short": "HCL Năvodari nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 142/2025 privind declararea unor bunuri de uz Èi interes public local al U.A.T OraÈ NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.142-din-30.05.2025.pdf",
+     "sha256": "4f5d472d31c9ba06206d06b0c0e6198d3ced1fb8db2800f84cc77ee34b7e3ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-143-2025",
+   "path": "local/constanta/navodari/2025/143",
+   "short": "HCL Năvodari nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2025 privind aprobarea desfÄÈurÄrii unor activitÄÈi de promovare a StaÈiunii Mamaia Nord, de cÄtre OrganizaÈia de Management al DestinaÈiei StaÈiunea Mamaia Nord, Ã®n parcarea situatÄ Ã®n NÄvodari, strada PromenadÄ, Ã®ntre strÄzile A5-B2, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.143-din-30.05.2025.pdf",
+     "sha256": "8ea696991112b59a17e451ca495690a28289bbba86b2c6058c36b30b5ae0e50e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-144-2025",
+   "path": "local/constanta/navodari/2025/144",
+   "short": "HCL Năvodari nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.144-din-30.05.2025.pdf",
+     "sha256": "5d01f68f19c27c559ab6d25a621bb1e4b74b8eef70000ac3c83a5d03652a5439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-145-2025",
+   "path": "local/constanta/navodari/2025/145",
+   "short": "HCL Năvodari nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 145/2025 privind aprobarea actului aditional nr.6 la contractual nr. 61834/14.07.2022 avÃ¢nd ca obiect delegarea gestiunii serviciului public de administrare Èi Ã®ntreÈinere a tramei stradale Ã®n OraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.145-din-30.05.2025.pdf",
+     "sha256": "1e4b4fb216bbb06d11fb34d106527ef73a65a07e48ec756279a5fb4a27912bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-146-2025",
+   "path": "local/constanta/navodari/2025/146",
+   "short": "HCL Năvodari nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 146/2025 cu privire la rectificarea bugetului de venituri si cheltuieli consolidat pe anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.146-din-30.05.2025.pdf",
+     "sha256": "a8c847c57d044d5acdc01c47da818e20aa953ef5083eaf79d109442df3fdf9ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-147-2025",
+   "path": "local/constanta/navodari/2025/147",
+   "short": "HCL Năvodari nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 147/2025 privind aprobarea actului aditional nr.7 la contractul nr.61834/14.07.2022 avand ca obiect delegarea gestiunii serviciului public de administrare si intretinere a tramei stradale in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.147-din-30.05.2025.pdf",
+     "sha256": "1637fa7b9928812b735a35cadc9cfbe152007f667ec14d5d93435ec00d2af8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-148-2025",
+   "path": "local/constanta/navodari/2025/148",
+   "short": "HCL Năvodari nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 148/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.148-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.148-din-30.05.2025.pdf",
+     "sha256": "165a56275af4d6d7c904b40ca9a2c932fe5f21f8ee7433e6770097236ebcb6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-149-2025",
+   "path": "local/constanta/navodari/2025/149",
+   "short": "HCL Năvodari nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 149/2025 privind aprobarea actului adiÈional nr. 8 la contractul nr. 61834/14.07.2022 avÃ¢nd ca obiect delegarea gestiunii serviciului public de administrare si intretinere a tramei stradale Ã®n Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.149-din-11.06.2025.pdf",
+     "sha256": "6605c24c8d83edc4f249e9f1e88499094aa73d79fbfc377fa97f271efe38fd67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-15-2025",
+   "path": "local/constanta/navodari/2025/15",
+   "short": "HCL Năvodari nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 15/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.15-din-31.01.2025.pdf",
+     "sha256": "3fb1d074ed3cb914fcc619308e5f7028868c045cf999bf2c64914faaf272c103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-150-2025",
+   "path": "local/constanta/navodari/2025/150",
+   "short": "HCL Năvodari nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 150/2025 privind completarea bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.150-din-23.06.2025.pdf",
+     "sha256": "dd01548b9b676d72fa73af585cc9d54152f3afc4ca9a0ea195357ccdbd9c4a0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-151-2025",
+   "path": "local/constanta/navodari/2025/151",
+   "short": "HCL Năvodari nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 151/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.151-din-30.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.151-din-30.06.2025.pdf",
+     "sha256": "bc2651b1d6440e21d02549840d1905b4777d3876c88259807a9a360a2208649c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-152-2025",
+   "path": "local/constanta/navodari/2025/152",
+   "short": "HCL Năvodari nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 152/2025 privind achiziÈionarea unor servicii de asistenÈÄ Èi reprezentare juridicÄ a U.A.T Oras Navodari Ã®n litigiul care face obiectul dosarului nr. 5763/118/2024, Ã®n contradictoriu Matfish SRL",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.152-din-30.06.2025.pdf",
+     "sha256": "125d71f5d85808f3c77afbbc7234944363272cc9aaadff9dfcac18606f094b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-155-2025",
+   "path": "local/constanta/navodari/2025/155",
+   "short": "HCL Năvodari nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 155/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.155-din-30.06.2025.pdf",
+     "sha256": "df13580ec7e969b885bc3ceef5d4ab4d0daead1af9f7c8f7740fec562f19119c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-156-2025",
+   "path": "local/constanta/navodari/2025/156",
+   "short": "HCL Năvodari nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 156/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.156-din-30.06.2025.pdf",
+     "sha256": "d9eb17cd43c7556b6ed97e07ce53c6af4271558cbc2ba8524cdaa3132e5fafd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-157-2025",
+   "path": "local/constanta/navodari/2025/157",
+   "short": "HCL Năvodari nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 157/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.157-din-30.06.2025.pdf",
+     "sha256": "6e507231ecde1c5491ed4b0d8e9c22983510f30be7acfd7c83e63c4ae9b08e5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-158-2025",
+   "path": "local/constanta/navodari/2025/158",
+   "short": "HCL Năvodari nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 158/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.158-din-30.06.2025.pdf",
+     "sha256": "f68117c37c03bf6415ccee388f889d72ad5da13d772606ebc857cbe973e9f08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-159-2025",
+   "path": "local/constanta/navodari/2025/159",
+   "short": "HCL Năvodari nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 159/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.159-din-30.06.2025.pdf",
+     "sha256": "82795db5968af04aa6ee3f245714022c713f90708ca713021f78f4c1e8976d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-16-2025",
+   "path": "local/constanta/navodari/2025/16",
+   "short": "HCL Năvodari nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 16/2025 privind constituirea Comisiei Locale de Ordine a OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.16-din-31.01.2025.pdf",
+     "sha256": "f2a99cba2b740fd250b3499e6a6f4ad97e56b14ce02a8621d76f6e155bda75cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-160-2025",
+   "path": "local/constanta/navodari/2025/160",
+   "short": "HCL Năvodari nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 160/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.160-din-30.06.2025.pdf",
+     "sha256": "4f915930a04e57a1769d6358a9e7dec059f83d37569300b786ba4801df6bc6f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-161-2025",
+   "path": "local/constanta/navodari/2025/161",
+   "short": "HCL Năvodari nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 161/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.161-din-30.06.2025.pdf",
+     "sha256": "47445a40ecbedf9a845ab063de6c695c7d7d27d2545acecb6dc14fd575a1c21d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-162-2025",
    "path": "local/constanta/navodari/2025/162",
    "short": "HCL Năvodari nr. 162/2025",
@@ -48,6 +1053,81 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-165-2025",
+   "path": "local/constanta/navodari/2025/165",
+   "short": "HCL Năvodari nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 165/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale a oraÈului NÄvodari pentru perioada 2025-2030",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.165-din-30.06.2025.pdf",
+     "sha256": "099685a2a12ecc5a74a731357ef37f89485b2100b0cd325ae33c8cdedffd019f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-166-2025",
+   "path": "local/constanta/navodari/2025/166",
+   "short": "HCL Năvodari nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 166/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale Ã®n oraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.166-din-30.06.2025.pdf",
+     "sha256": "295d3936444a5f3e69d5991e58ab625ec81ea026352b859fe2f0d4382ae5632b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-167-2025",
+   "path": "local/constanta/navodari/2025/167",
+   "short": "HCL Năvodari nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 167/2025 privind Ã®nfiinÈarea Serviciului social âCentru de socializare Èi petreerea timpului liber â Clubul pensionarilorâ Ã®n cadrul DirecÈiei AsistenÈÄ SocialÄ â Centrul MultifuncÈional de Servicii Sociale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.167-din-30.06.2025.pdf",
+     "sha256": "e7a8de6e013acd252ee4809e63a954eb9ca6cf83045f9db5d3cebe0ed2076fbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-168-2025",
+   "path": "local/constanta/navodari/2025/168",
+   "short": "HCL Năvodari nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 168/2025 privind Ã®nchirierea unor spaÈii aferente desfÄÈurÄrii serviciilor sociale de tip âCentru de socializare Èi petrecerea timpului liber â Clubul pensionarilorâ din cadrul DirecÈiei AsistenÈÄ SocialÄ â Centrul MultifuncÈional de Servicii Sociale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.168-din-30.06.2025.pdf",
+     "sha256": "6a01f6918c686151b195ed4574d59f3b729c5f08450d48ae07c010ac51004297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-169-2025",
+   "path": "local/constanta/navodari/2025/169",
+   "short": "HCL Năvodari nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 169/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.169-din-30.06.2025.pdf",
+     "sha256": "a5340e7da5ca62cee50692f5811d28350ae7cc9fff69b7cdf0b8e3f07363fe42"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-17-2025",
    "path": "local/constanta/navodari/2025/17",
    "short": "HCL Năvodari nr. 17/2025",
@@ -59,6 +1139,156 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.17-din-31.01.2025.pdf",
      "sha256": "4be1c07e24df471d2a2d7ddfc15584adf52abc9a8255f654f1f0cd4cba808eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-170-2025",
+   "path": "local/constanta/navodari/2025/170",
+   "short": "HCL Năvodari nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 170/2025 cu privire la stabilirea cadrului de implementare a Serviciului de transport public local de persoane prin curse regulate in Orasul Navodari in baza contractului de delegare a gestiunii serviciului public de transport persoane",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.170-din-30.06.2025.pdf",
+     "sha256": "b52929216fe7fe6e8ad14825475d975c319ef2ce10b332a05adfcde0197540fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-171-2025",
+   "path": "local/constanta/navodari/2025/171",
+   "short": "HCL Năvodari nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 171/2025 privind aprobarea Studiului de Fezabilitate actualizat si a indicatorilor tehnico-economici pentru obiectivul EXECUTIE CANALIZARE MENAJERA ZONA DE NORD ORAS NAVODARI Oras Navodari, Jud. Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.171-din-30.06.2025.pdf",
+     "sha256": "3664a2ae2d54af786fcef183ae2ce196986fb6018121d54fc56ce1026ef45880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-172-2025",
+   "path": "local/constanta/navodari/2025/172",
+   "short": "HCL Năvodari nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 172/2025 cu privire la insusirea obligatiei de plata a energiei electrice aferenta iluminatului public din zona Beach Land",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.172-din-30.06.2025.pdf",
+     "sha256": "d918fdec4aae2b66d6a435c475076cc5781ea3f8a5c7ab0065c0428b9db01d43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-173-2025",
+   "path": "local/constanta/navodari/2025/173",
+   "short": "HCL Năvodari nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 173/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.173-din-30.06.2025.pdf",
+     "sha256": "00251bff9e9b1a9059e04f5fba123d5c1457662cee25e5853b526ab3a622d952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-174-2025",
+   "path": "local/constanta/navodari/2025/174",
+   "short": "HCL Năvodari nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 174/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.174-din-30.06.2025.pdf",
+     "sha256": "4ffe039468d25c10f286f3aece4e0b9287f073201e02e8ec35bc7029f35caea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-175-2025",
+   "path": "local/constanta/navodari/2025/175",
+   "short": "HCL Năvodari nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 175/2025 cu privire la aprobarea mandatÄrii AsociaÈiei de Dezvoltare IntercomunitarÄ de utilitÄÈi publice pentru serviciul de alimentare cu apÄ Èi de canalizare Èi pentru serviciul public inteligent alternativ pentru procesarea apelor uzate din cadrul unitÄÈilor administrativ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.175-din-30.06.2025.pdf",
+     "sha256": "c19ea069401bd02b9978202cdf507b56211d2f1ae4b59324b380fa76edbfb07b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-176-2025",
+   "path": "local/constanta/navodari/2025/176",
+   "short": "HCL Năvodari nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 176/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.176-din-30.06.2025.pdf",
+     "sha256": "d427d1fffcb7cba7bb7cd1ee6781d86f5d4453980bd3bcbc16f9b49a51a192ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-177-2025",
+   "path": "local/constanta/navodari/2025/177",
+   "short": "HCL Năvodari nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 177/2025 privind prelungirea contractului de inchiriere pentru locuinta situata in Navodari, Peninsula",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.177-din-30.06.2025.pdf",
+     "sha256": "62b8dcf7cf30f531fb04f250b757476b4056f107bb7cf2cba671156ba95d0c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-178-2025",
+   "path": "local/constanta/navodari/2025/178",
+   "short": "HCL Năvodari nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 178/2025 cu privire la prelungirea contractelor de inchiriere pentru locuintele situate Ã®n orasul Navodari, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.178-din-30.06.2025.pdf",
+     "sha256": "f485d42001d2454732e1ccd69d3e58c2ba4c4be7fb56c9df60f0dce756cdd0a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-179-2025",
+   "path": "local/constanta/navodari/2025/179",
+   "short": "HCL Năvodari nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 179/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.179-din-30.06.2025.pdf",
+     "sha256": "e04f2ec159b6f8f0341e3e1c51ed31776e444d0939ff3c07bcb5bab7c8992463"
     }
    ]
   },
@@ -78,6 +1308,1026 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-180-2025",
+   "path": "local/constanta/navodari/2025/180",
+   "short": "HCL Năvodari nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 180/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.180-din-30.06.2025.pdf",
+     "sha256": "ccec40fdcd686f079822a9a88a43f3162297a81b0e49f6b418ffe42395b41824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-181-2025",
+   "path": "local/constanta/navodari/2025/181",
+   "short": "HCL Năvodari nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 181/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.181-din-30.06.2025.pdf",
+     "sha256": "96446489127835aed0e8f757f8b2969ed7e8beb9adc1c11966f2c633d725ea8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-182-2025",
+   "path": "local/constanta/navodari/2025/182",
+   "short": "HCL Năvodari nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 182/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.182-din-30.06.2025.pdf",
+     "sha256": "83d372353bc508df48bb34b5c71d08bf3f8577c0f54aa97f1aabb4338494376d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-183-2025",
+   "path": "local/constanta/navodari/2025/183",
+   "short": "HCL Năvodari nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 183/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.183-din-30.06.2025.pdf",
+     "sha256": "3e32e396f9dffbfa99256f87cb8dde93c2e9be1cab37cd399c4b1d901bab359e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-184-2025",
+   "path": "local/constanta/navodari/2025/184",
+   "short": "HCL Năvodari nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 184/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.184-din-30.06.2025.pdf",
+     "sha256": "b5135d3163504e220d62266b2632a2e728e19bbbdf530c0e77d9a4f06dd3e1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-185-2025",
+   "path": "local/constanta/navodari/2025/185",
+   "short": "HCL Năvodari nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 185/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.185-din-30.06.2025.pdf",
+     "sha256": "f69f269d3638ac3fa46dcafad4731611090c69dd7082ef3ccb86544a556ec540"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-186-2025",
+   "path": "local/constanta/navodari/2025/186",
+   "short": "HCL Năvodari nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 186/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.186-din-30.06.2025.pdf",
+     "sha256": "0f2c523bfb6f8364c1eb94250a2478c2a494fc9e77185399824bc129ce6df4e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-189-2025",
+   "path": "local/constanta/navodari/2025/189",
+   "short": "HCL Năvodari nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 189/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.189-din-30.06.2025.pdf",
+     "sha256": "3420dd45ec8ca31d2d2e13e21171b6e0c840bcf02149c53bf07e3c42478ec7b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-19-2025",
+   "path": "local/constanta/navodari/2025/19",
+   "short": "HCL Năvodari nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 19/2025 cu privire la completarea Comisiei pentru programe de dezvoltare economico-socialÄ, buget-finanÅ£e, administrarea domeniului public Èi privat, servicii Èi comerÈ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.19-din-31.01.2025.pdf",
+     "sha256": "3e16f04ad60c64c55ac8a6d81ef009919f6a3c511141a61d5b113765ce3813ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-190-2025",
+   "path": "local/constanta/navodari/2025/190",
+   "short": "HCL Năvodari nr. 190/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 190/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.190-din-30.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.190-din-30.06.2025.pdf",
+     "sha256": "308db841f3022d7414354e5b9a45fa87d7c4edec3bf122b0c7696f6e81e8c419"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-191-2025",
+   "path": "local/constanta/navodari/2025/191",
+   "short": "HCL Năvodari nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 191/2025 privind aprobarea actului aditional nr. 5 la contractul nr. 24930/06.04.2021 avand ca obiect delegarea de gestiune prin concesiune a serviciului public de salubrizare al Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.191-din-30.06.2025.pdf",
+     "sha256": "da27803fa1ac84519a7ee1b344b44d2c3c1f2b18013095cfb7a221922ac7e36a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-192-2025",
+   "path": "local/constanta/navodari/2025/192",
+   "short": "HCL Năvodari nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 192/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/06/HCL-nr.192-din-16.07.2025_compressed.pdf",
+     "sha256": "f66250d8ee4ffa9da628847c17c23bfb59ef2ea7b5de54b1d07cf8ec5656e2dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-193-2025",
+   "path": "local/constanta/navodari/2025/193",
+   "short": "HCL Năvodari nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 193/2025 cu privire la aprobarea Contractului delegarea gestiunii serviciului de iluminat public din aria administrativ teritoriala a orasului Navodari urmare a finalizarii procedurii de licitatie deschisa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/07/HCL-nr.193-din-21.07.2025_compressed.pdf",
+     "sha256": "14f8e722643d741428b45bcd7b81fd63afa7642eeaabea733251a38e5c0bf51b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-194-2025",
+   "path": "local/constanta/navodari/2025/194",
+   "short": "HCL Năvodari nr. 194/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 194/2025 cu privire la alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/07/HCL-nr.194-din-21.07.2025.pdf",
+     "sha256": "007634e099d4ca8b162c9195a9c90f17e85eff50548e66973e7443bf8871ee52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-195-2025",
+   "path": "local/constanta/navodari/2025/195",
+   "short": "HCL Năvodari nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 195/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/07/HCL-nr.195-din-20.08.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/07/HCL-nr.195-din-20.08.2025.pdf",
+     "sha256": "22095c018fc2afe588569480236fbad1e20b90e231fc071519ed8063382be807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-196-2025",
+   "path": "local/constanta/navodari/2025/196",
+   "short": "HCL Năvodari nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 196/2025 privind aprobarea -,,REGISTRUL SPAÈIILOR VERZI DIN ORAÈUL NÄVODARIâ âFIÈA SPAÈIULUI VERDE CU NUMÄR CADASTRAL 114691 (ZONA 1-7 INCLUSIV 5a, 5b, 6a, 6b), NUMÄR CADASTRAL 114696 (ZONA 1-14), NUMÄR CADASTRAL 111736 ACTUALIZATE",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.196-din-04.09.2025.pdf",
+     "sha256": "8564d202745b1452c4fbe8ddb108f430579d0a3c98a73b0fd2e4b998d6333c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-197-2025",
+   "path": "local/constanta/navodari/2025/197",
+   "short": "HCL Năvodari nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 197/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.197-din-04.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.197-din-04.09.2025.pdf",
+     "sha256": "4e4e18409ee313c09df02567944cedc770ba52cac083a9ccacf01759d78ede95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-198-2025",
+   "path": "local/constanta/navodari/2025/198",
+   "short": "HCL Năvodari nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 198/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.198-din-04.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.198-din-04.09.2025.pdf",
+     "sha256": "fe200f6670ca85a3f1b39bd21867b0f3a312b9ec9591f9c28c06984cca84e312"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-199-2025",
+   "path": "local/constanta/navodari/2025/199",
+   "short": "HCL Năvodari nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 199/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.199-din-04.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/08/HCL-nr.199-din-04.09.2025.pdf",
+     "sha256": "118a47b77db1503da087dfaa53ce5a1dd101e75a33348a667f83073f1c5120c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-2-2025",
+   "path": "local/constanta/navodari/2025/2",
+   "short": "HCL Năvodari nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 2/2025 cu privire la constituirea comisiei de numarare a voturilor",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.2-din-31.01.2025.pdf",
+     "sha256": "eada1c19959274fff659ece4ccb35506b3200060ce9cf07da9842d88019e45ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-20-2025",
+   "path": "local/constanta/navodari/2025/20",
+   "short": "HCL Năvodari nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 20/2025 cu privire la aprobarea Planului de Ordine si Siguranta Publica al Politiei Locale a Orasului Navodari pe anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.20-din-31.01.2025.pdf",
+     "sha256": "401ade2f6c6eb214cef5795ae061ccd1df8b66dcd6c282c6b89128c7ae3dbc2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-200-2025",
+   "path": "local/constanta/navodari/2025/200",
+   "short": "HCL Năvodari nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 200/2025 privind rectificarea bugetului de venituri Èi cheltuieli consolidat al OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.200-din-18.09.2025.pdf",
+     "sha256": "6ef87db3a233cde79a020f589f45ec4ec294603fe94573dfd373db8033fe1c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-201-2025",
+   "path": "local/constanta/navodari/2025/201",
+   "short": "HCL Năvodari nr. 201/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 201/2025 cu privire la aprobarea contului de execuÈie bugetarÄ la 30.06.2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.201-din-18.09.2025.pdf",
+     "sha256": "b7ec5a2158ef0b3fd4d37e7d2f963814e439c4cd2580a7639e7c0c58e91621b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-202-2025",
+   "path": "local/constanta/navodari/2025/202",
+   "short": "HCL Năvodari nr. 202/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 202/2025 cu privire la aprobarea Organigramei Èi a Statului de FuncÈii ale aparatului de specialitate al Primarului OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.202-din-18.09.2025.pdf",
+     "sha256": "11008dc5059c245b1bed863e9912c96c2311ec63789652e5bf05daa0962578c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-203-2025",
+   "path": "local/constanta/navodari/2025/203",
+   "short": "HCL Năvodari nr. 203/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 203/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.203-din-18.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.203-din-18.09.2025.pdf",
+     "sha256": "cf95077a22fd4cfe989706358b79d44457e1c49060dfd9e059d89af387efebc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-204-2025",
+   "path": "local/constanta/navodari/2025/204",
+   "short": "HCL Năvodari nr. 204/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 204/2025 privind reglementarea semnalizÄrii rutiere pe raza OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.204-din-18.09.2025.pdf",
+     "sha256": "683a84514c50fd35793de2cafb09563be7b3b6ce87bb6f5f683d902f77778548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-205-2025",
+   "path": "local/constanta/navodari/2025/205",
+   "short": "HCL Năvodari nr. 205/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 205/2025 cu privire la preluarea Ã®n domeniul privat al OraÈului NÄvodari a cotelor indivize din aleea de acces situatÄ Ã®n NÄvodari, Parcela A 219/1/2/2, lot 20/21, IE: 101496, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.205-din-18.09.2025.pdf",
+     "sha256": "27525c95eb721768bacd4c1181f25d39b7bd563ed8368b3eaf74b31bbc04a21a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-206-2025",
+   "path": "local/constanta/navodari/2025/206",
+   "short": "HCL Năvodari nr. 206/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 206/2025 privind schimbarea destinaÈiei unor imobile aparÈinÃ¢nd domeniului public al OraÈului NÄvodari, din puncte termice Ã®n clÄdiri administrative-sociale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.206-din-18.09.2025.pdf",
+     "sha256": "f1f79e5b82fce12778ab7117097572af8a03a295cb5cbdfa455cf2d8254efd49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-207-2025",
+   "path": "local/constanta/navodari/2025/207",
+   "short": "HCL Năvodari nr. 207/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 207/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.207-din-18.09.2025.pdf",
+     "sha256": "718a9bcb2a4bd9db530702124310529bf091ba16811b370c18f6abfc9a438aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-208-2025",
+   "path": "local/constanta/navodari/2025/208",
+   "short": "HCL Năvodari nr. 208/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 208/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.208-din-18.09.2025.pdf",
+     "sha256": "94c78641b9b37cb0e85c9fcd8b7288b3cf73595eba7bfb230f12b1ed82c8b5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-209-2025",
+   "path": "local/constanta/navodari/2025/209",
+   "short": "HCL Năvodari nr. 209/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 209/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.209-din-18.09.2025.pdf",
+     "sha256": "c3f7727e994be7768658f6e18a18f2827caad6c22291b0343c5c2903bc299843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-21-2025",
+   "path": "local/constanta/navodari/2025/21",
+   "short": "HCL Năvodari nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 21/2025 privind desemnarea consilierilor locali Ã®n Comisia de evaluare a performanÈelor profesionale individuale partiala, ale Secretarului General al Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.21-din-31.01.2025.pdf",
+     "sha256": "6a33a9998937dfe0c9b0d800a79548eb91a6e2a77f21d0fb4a67f55e42360409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-210-2025",
+   "path": "local/constanta/navodari/2025/210",
+   "short": "HCL Năvodari nr. 210/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 210/2025 privind revocarea HotÄrÃ¢rii Consiliului Local nr. 144/30.05.2025 cu privire la aprobarea inventarului bunurilor imobile care aparÈin domeniului privat al OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.210-din-18.09.2025.pdf",
+     "sha256": "e58d6047e6b9ef69b813cb90ab13167b3f37abd8867e3b790d46fa12c310da5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-211-2025",
+   "path": "local/constanta/navodari/2025/211",
+   "short": "HCL Năvodari nr. 211/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 211/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.211-din-18.09.2025.pdf",
+     "sha256": "023ba430aa01b87fc0fa84c39240a534ab3cc5a480f08cdb6bd6b48a8738391c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-212-2025",
+   "path": "local/constanta/navodari/2025/212",
+   "short": "HCL Năvodari nr. 212/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 212/2025 cu privire la aprobarea trecerii unor bunuri din domeniul public Ã®n domeniul privat al OraÈului NÄvodari Ã®n vederea scoaterii din funcÈiune, valorificare Èi casare",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.212-din-18.09.2025.pdf",
+     "sha256": "a81dfff80d5d7075e68d66e2e4baf15768cba90b0a1d5dfadf1aa04f33041fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-213-2025",
+   "path": "local/constanta/navodari/2025/213",
+   "short": "HCL Năvodari nr. 213/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 213/2025 cu privire la aprobarea trecerii din domeniul public al OraÈului NÄvodari Ã®n domeniul public al JudeÈului ConstanÈa a imobilului strada Iuliu Maniu, identificat cu IE: 109074",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.213-din-18.09.2025.pdf",
+     "sha256": "5a885c9b4d6e4d1a71fe14d60a1b2eca68a295747678ed7c6606b8eeb56bdcf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-214-2025",
+   "path": "local/constanta/navodari/2025/214",
+   "short": "HCL Năvodari nr. 214/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 214/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.214-din-18.09.2025.pdf",
+     "sha256": "932ad4d7b08a098c4e7e1a5e02c915d9a079be78204cc38152bee9fce5714091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-215-2025",
+   "path": "local/constanta/navodari/2025/215",
+   "short": "HCL Năvodari nr. 215/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 215/2025 cu privire la restrÃ¢ngerea dreptului de concesiune pentru un teren Ã®nscris Ã®n Cartea FunciarÄ nr. 106968",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.215-din-18.09.2025.pdf",
+     "sha256": "e6f5f8052487593a60a904b8ea8c01ef6f3b2008b9a68b742485b6dd7908aa62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-216-2025",
+   "path": "local/constanta/navodari/2025/216",
+   "short": "HCL Năvodari nr. 216/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 216/2025 cu privire la actualizarea dreptului de superficie asupra terenului Ã®nscris Ã®n Cartea FunciarÄ 120663",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.216-din-18.09.2025.pdf",
+     "sha256": "781b3974f2ba0825a25ba4ecc128e25a8cc325a7006a0588891002b6d1b886d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-217-2025",
+   "path": "local/constanta/navodari/2025/217",
+   "short": "HCL Năvodari nr. 217/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 217/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.217-din-18.09.2025.pdf",
+     "sha256": "e52b5b54c68abb4b9af5aed8dc1b58c7f4a110b4dc4f39a828fe972a156a8bbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-218-2025",
+   "path": "local/constanta/navodari/2025/218",
+   "short": "HCL Năvodari nr. 218/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 218/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.218-din-18.09.2025.pdf",
+     "sha256": "4f9cba4ee0cef2b6a744d14eea4fa240cac6c050857c7ce29664493066c64ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-219-2025",
+   "path": "local/constanta/navodari/2025/219",
+   "short": "HCL Năvodari nr. 219/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 219/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.219-din-18.09.2025.pdf",
+     "sha256": "6938b68b0af182df95826d0cdc4e8ef0207577331587ef83c68689563de8a254"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-22-2025",
+   "path": "local/constanta/navodari/2025/22",
+   "short": "HCL Năvodari nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 22/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.22-din-31.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.22-din-31.01.2025.pdf",
+     "sha256": "2b33be3b017d21c369dd703b84d51a333a2c1d95f89dfcfb2a9dbafacfe94c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-220-2025",
+   "path": "local/constanta/navodari/2025/220",
+   "short": "HCL Năvodari nr. 220/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 220/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.220-din-18.09.2025.pdf",
+     "sha256": "30114ba697258cf845d975a2399b000df861590ea3425e11e718df5266a4c1ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-221-2025",
+   "path": "local/constanta/navodari/2025/221",
+   "short": "HCL Năvodari nr. 221/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 221/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.221-din-18.09.2025.pdf",
+     "sha256": "178d253bb24bfe7a6fee61f816e59740520e3489f59f7e7aa4401de54dbfa876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-222-2025",
+   "path": "local/constanta/navodari/2025/222",
+   "short": "HCL Năvodari nr. 222/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 222/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.222-din-18.09.2025.pdf",
+     "sha256": "1118774ddcf7eb646c3db2be5f71642fe397c370db2831dcd680f62857273aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-223-2025",
+   "path": "local/constanta/navodari/2025/223",
+   "short": "HCL Năvodari nr. 223/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 223/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.223-din-18.09.2025.pdf",
+     "sha256": "5212a243a88bbb49d153815ca0a7732c8a0a22d121ea76bf406905cce3478095"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-224-2025",
+   "path": "local/constanta/navodari/2025/224",
+   "short": "HCL Năvodari nr. 224/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 224/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.224-din-18.09.2025-1.pdf",
+     "sha256": "359f670c3cd150d591ddecfd0557695cdcf275d1c8829f6fb5778671b1df4bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-225-2025",
+   "path": "local/constanta/navodari/2025/225",
+   "short": "HCL Năvodari nr. 225/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 225/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HLC-nr.225-din-18.09.2025.pdf",
+     "sha256": "28630c2f0dc0c5a4f99f9a2970b948326744494f1747e76e573349592e6587e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-226-2025",
+   "path": "local/constanta/navodari/2025/226",
+   "short": "HCL Năvodari nr. 226/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 226/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.226-din-18.09.2025.pdf",
+     "sha256": "8a117cec3dc4df153020fbb7bb7d099f25127d4e883ffda2636e4cbe108e68cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-227-2025",
+   "path": "local/constanta/navodari/2025/227",
+   "short": "HCL Năvodari nr. 227/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 227/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.227-din-18.09.2025.pdf",
+     "sha256": "d53060114e631bbab23b8155975700926bd4097a0b5249edfdbc594a9e0caf2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-228-2025",
+   "path": "local/constanta/navodari/2025/228",
+   "short": "HCL Năvodari nr. 228/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 228/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.228-din-18.09.2025.pdf",
+     "sha256": "e0fcd7bc3be4f85f33f24dce19621d264bbd78fb344f6ef986ef4a5890dbdd7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-229-2025",
+   "path": "local/constanta/navodari/2025/229",
+   "short": "HCL Năvodari nr. 229/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 229/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.229-din-18.09.2025.pdf",
+     "sha256": "4f91741c67594ebceeb2fb826f11dbe8476cdf7b5575f187025e3386bf490007"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-23-2025",
+   "path": "local/constanta/navodari/2025/23",
+   "short": "HCL Năvodari nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 23/2025 cu privire la aprobarea chiriei pentru locuinÈe, curÈi Èi grÄdini aferente suprafeÈelor locative",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.23-din-31.01.2025.pdf",
+     "sha256": "d5578a3a8590748c11440d56661591b49ff151f590385bd87bbcaa9617196288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-230-2025",
+   "path": "local/constanta/navodari/2025/230",
+   "short": "HCL Năvodari nr. 230/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 230/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.230-din-18.09.2025.pdf",
+     "sha256": "20b5c5b7e784504a5426d8e8a3975ad568049e004db4d1224b851fa79574a6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-231-2025",
+   "path": "local/constanta/navodari/2025/231",
+   "short": "HCL Năvodari nr. 231/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 231/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.231-din-18.09.2025.pdf",
+     "sha256": "cf5547191ed61183513d20544b442ca083b01b1c5766459690fa5f8c56489473"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-232-2025",
+   "path": "local/constanta/navodari/2025/232",
+   "short": "HCL Năvodari nr. 232/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 232/2025 cu privire la vÃ¢nzarea imobilului locuinÈÄ situat Ã®n NÄvodari, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.232-din-18.09.2025.pdf",
+     "sha256": "d01d8820303e811ebba4048f114e89083e10b3800cef16ce1b7778daed680918"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-233-2025",
+   "path": "local/constanta/navodari/2025/233",
+   "short": "HCL Năvodari nr. 233/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 233/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.233-din-18.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.233-din-18.09.2025.pdf",
+     "sha256": "d66c494bdee5bc9931d16abd56bc0f61c25420b3c7ab2a3b20d1ab77df56efbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-234-2025",
+   "path": "local/constanta/navodari/2025/234",
+   "short": "HCL Năvodari nr. 234/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 234/2025 cu privire la prelungirea contractelor de Ã®nchiriere pentru locuinÈele situate Ã®n oraÈul NÄvodari, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.234-din-18.09.2025.pdf",
+     "sha256": "55d1e7b622753000752a7575b01149c62c7c202b951c622f40a1f5d4d5e51cf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-235-2025",
+   "path": "local/constanta/navodari/2025/235",
+   "short": "HCL Năvodari nr. 235/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 235/2025 privind prelungirea contractului de Ã®nchiriere pentru locuinÈa situatÄ Ã®n NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.235-din-18.09.2025.pdf",
+     "sha256": "1476bc27c3cfa0fa790e17cd32103bd9453bcc754be9206c9a29563a471c457b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-236-2025",
+   "path": "local/constanta/navodari/2025/236",
+   "short": "HCL Năvodari nr. 236/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 236/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.236-din-18.09.2025.pdf",
+     "sha256": "c2b0fca29029ec26ed24b9efdec9a95703f1353810419631a0952947371a759c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-237-2025",
+   "path": "local/constanta/navodari/2025/237",
+   "short": "HCL Năvodari nr. 237/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 237/2025 cu privire la restrÃ¢ngerea dreptului de concesiune asupra terenului situat Ã®n NÄvodari, bd",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.237-din-18.09.2025.pdf",
+     "sha256": "519064800e3d50ddc2c008af8d596524b1b30ea1904071772f1d0770de8268f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-238-2025",
+   "path": "local/constanta/navodari/2025/238",
+   "short": "HCL Năvodari nr. 238/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 238/2025 cu privire la actualizarea suprafeÈei de teren din contractul de concesiune Ã®ncheiat pentru terenul situat Ã®n NÄvodari, judeÈul ConstanÈa, conform mÄsurÄtorilor cadastrale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.238-din-18.09.2025.pdf",
+     "sha256": "7a8be9f9bbc63c022bfb816ae441c0fb02273e551d02bd5aec4e40ab0b8f7eba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-239-2025",
+   "path": "local/constanta/navodari/2025/239",
+   "short": "HCL Năvodari nr. 239/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 239/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.239-din-18.09.2025.pdf",
+     "sha256": "4cad98fccfd406061d8cc371093eb78404cd9ed2838388cfb59307b16b01b3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-24-2025",
+   "path": "local/constanta/navodari/2025/24",
+   "short": "HCL Năvodari nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 24/2025 cu privire la prelungirea contractului de inchiriere pentru locuinta sociala situata in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.24-din-31.01.2025.pdf",
+     "sha256": "0ceb97eb3ca30cf29564e04dc8d1e4feca3d97ac8ed96b8263ac75d818b80f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-240-2025",
+   "path": "local/constanta/navodari/2025/240",
+   "short": "HCL Năvodari nr. 240/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 240/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.240-din-18.09.2025.pdf",
+     "sha256": "e7a12dcecd51dbe53946012387c3f229e2288f7a9356f3930d52b55e3613ba0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-241-2025",
+   "path": "local/constanta/navodari/2025/241",
+   "short": "HCL Năvodari nr. 241/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 241/2025 privind emiterea acordului de principiu pentru realizarea obiectivului de investiÈie â Extindere reÈea de alimentare cu apÄ cÄtre GospodÄria LuminiÈa, sat LuminiÈa, Comuna Corbu, jud. ConstanÈa, solicitat prin Certificatul de Urbanism nr. 40/21.05.20025 emis de Consil",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.241-din-18.09.2025.pdf",
+     "sha256": "c2ff42cd237b676df01a9a7a47b0b44e09c490137bbeb4bb532b1a25b5f93734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-242-2025",
+   "path": "local/constanta/navodari/2025/242",
+   "short": "HCL Năvodari nr. 242/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 242/2025 privind aprobarea Actului adiÈional nr.1 la contractul de delegare prin concesiune a serviciului public de administrare, Ã®ntreÈinere Èi exploatare a cimitirelor ce aparÈin domeniului public al OraÈului NÄvodari nr. 67248/06.06.2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.242-din-18.09.2025.pdf",
+     "sha256": "27ab2cca69103522f5b9ad972f282a0be58e4bc8c381446cd112491fc66eac05"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-243-2025",
    "path": "local/constanta/navodari/2025/243",
    "short": "HCL Năvodari nr. 243/2025",
@@ -89,6 +2339,51 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.243-din-18.09.2025.pdf",
      "sha256": "aafdab19643b99e9535d96eb5960ee5c5969c61392ace9fed905b94eeb6ae244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-244-2025",
+   "path": "local/constanta/navodari/2025/244",
+   "short": "HCL Năvodari nr. 244/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 244/2025 privind aprobarea Studiului de fezabilitate actualizat Èi a indicilor tehnico-economici pentru obiectivul âCONSTRUIRE REÈEA DE CANALIZARE MENAJERÄ, STAÈIE DE POMPARE ÈI CONDUCTÄ DE REFULARE MAMAIA NORD STR. D26, STR. D25, STR. M3, STR. M5, LOC. NÄVODARI”, OraÈ NÄvoda",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.244-din-18.09.2025.pdf",
+     "sha256": "22b9ae5d6b8cc9eb1a8e6c2b2ce7851a80d0f11de731f7d93a4451674121975b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-245-2025",
+   "path": "local/constanta/navodari/2025/245",
+   "short": "HCL Năvodari nr. 245/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 245/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.245-din-18.09.2025-REAVIZARE-DALI-ASFALTARE-STRAZI-MAMAIA-SAT-ETAPA-II.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.245-din-18.09.2025-REAVIZARE-DALI-ASFALTARE-STRAZI-MAMAIA-SAT-ETAPA-II.pdf",
+     "sha256": "ff9f9a7dcb1afaa77efbf46aadd3a6980e27fc0d3fb64a59e1ed4822c91b926d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-246-2025",
+   "path": "local/constanta/navodari/2025/246",
+   "short": "HCL Năvodari nr. 246/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 246/2025 privind darea Ã®n administrare cu titlu gratuit a unui teren Ã®n suprafaÈÄ totalÄ de 23 mp situate Ã®n NÄvodari, Bulevardul Mamaia Nord cÄtre ASOCIAÈIA ORGANIZAÈIA DE MANAGEMENT AL DESTINAÈIEI STAÈIUNEA MAMAIA, pentru amplasarea unor totemuri stradale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.246-din-18.09.2025.pdf",
+     "sha256": "13b91f3bd405e0362ce9de548a6b1d7c208129a07df69e36815734fc780ddc1f"
     }
    ]
   },
@@ -123,6 +2418,501 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-249-2025",
+   "path": "local/constanta/navodari/2025/249",
+   "short": "HCL Năvodari nr. 249/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 249/2025 privind aprobarea contractÄrii unei finanÈÄri rambursabile interne/externe Ã®n valoare de maximum 44.407.691,64 lei",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.249-din-18.09.2025.pdf",
+     "sha256": "090de56602a22f008dd9b1caf38beed129be33e35557db5405d22c28efd01be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-25-2025",
+   "path": "local/constanta/navodari/2025/25",
+   "short": "HCL Năvodari nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.25-din-31.01.2025.pdf",
+     "sha256": "75af8e5c7fa3caf749cce2615a7a2f3c482528acafb781896c95ce2b15f9d69c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-250-2025",
+   "path": "local/constanta/navodari/2025/250",
+   "short": "HCL Năvodari nr. 250/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 250/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/09/HCL-nr.250-din-18.09.2025.pdf",
+     "sha256": "b57f5d3bdef5c1dd91a6037f07eb24532dee0557b012a806c7987888d48ca942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-251-2025",
+   "path": "local/constanta/navodari/2025/251",
+   "short": "HCL Năvodari nr. 251/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 251/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.251-din-24.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.251-din-24.10.2025.pdf",
+     "sha256": "693e5a1d5d8230eb16be5f85809ce4a3cb514831644f143a2b68047f839bfd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-252-2025",
+   "path": "local/constanta/navodari/2025/252",
+   "short": "HCL Năvodari nr. 252/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 252/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.252-din-24.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.252-din-24.10.2025.pdf",
+     "sha256": "0e608e1f5837cb25ac48ed0e8703e41bccedf49f6fb6387fdc49494aacec5e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-253-2025",
+   "path": "local/constanta/navodari/2025/253",
+   "short": "HCL Năvodari nr. 253/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 253/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.253-din-24.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.253-din-24.10.2025.pdf",
+     "sha256": "cf399f7070cf75edbd071f9a2ee5795c7178356d48ecb99e5be07ec7eaa84b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-254-2025",
+   "path": "local/constanta/navodari/2025/254",
+   "short": "HCL Năvodari nr. 254/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 254/2025 privind rectificarea bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.254-din-27.10.2025.pdf",
+     "sha256": "997165ec3a3c780df333d9eb83bef7073a0ba1780c163c212a5628336b5fdb38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-255-2025",
+   "path": "local/constanta/navodari/2025/255",
+   "short": "HCL Năvodari nr. 255/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 255/2025 cu privire la alegerea presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.255-din-data-de-11.11.2025-cu-privire-la-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "f7792e948f186511fe55a726501dd04e854533015938b2df602f53b7cc3e082c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-256-2025",
+   "path": "local/constanta/navodari/2025/256",
+   "short": "HCL Năvodari nr. 256/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 256/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.256-din-data-de-11.11.2025-aprobarea-Organigramei-si-a-Statului-de-Functii-ale-aparatului-de-specialitate-al-Primarului-Orasului-Navodari.pdf",
+     "sha256": "b68db8a64e27496dcf5773d18809ff8809d18b0775c2eb1083611b4a83370ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-257-2025",
+   "path": "local/constanta/navodari/2025/257",
+   "short": "HCL Năvodari nr. 257/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 257/2025 cu privire la aprobarea listei cu dosarele aflate pe rolul instanÈelor de judecatÄ Èi Ã®nregistrate la PrimÄria OraÈ NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.257-din-data-de-11.11.2025-cu-privire-la-aprobarea-listei-cu-dosarele-aflate-pe-rolul-instantelor-de-judecata-si-inregistrate-la-Primaria-Oras-Navodari.pdf",
+     "sha256": "42ff484918a497946968a4eb157daca4730d5339cfbba9ca0c80675ce49ae1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-258-2025",
+   "path": "local/constanta/navodari/2025/258",
+   "short": "HCL Năvodari nr. 258/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 258/2025 privind achizitionarea unor servicii de asistenta si reprezentare juridica a UAT Oras Navodari in litigiile care fac obiectul dos",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.258-din-data-de-11.11.2025-privind-achizitionarea-unor-servicii-de-asistenta-si-reprezentare-juridica-a-UAT-Oras-Navodari-in-litigiile-care-fac-obiectul-dos.pdf",
+     "sha256": "02452ba827f996bfac2c125ee655ed4480b5124532ec3e43ab1d77784d9b8d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-259-2025",
+   "path": "local/constanta/navodari/2025/259",
+   "short": "HCL Năvodari nr. 259/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 259/2025 cu privire la completarea HCL nr. 42922.12.2016 privind transmiterea Ã®n administrarea unitÄÈilor de Ã®nvÄÈÄmÃ¢nt cu personalitate",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.259-din-data-de-11.11.2025-cu-privire-la-completarea-HCL-nr.-42922.12.2016-privind-transmiterea-in-administrarea-unitatilor-de-invatamant-cu-personalitate.pdf",
+     "sha256": "3952a167f8e049cc675ee25ec92abc1d3f84acf0f84fa312942cd860300332f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-26-2025",
+   "path": "local/constanta/navodari/2025/26",
+   "short": "HCL Năvodari nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.26-din-31.01.2025.pdf",
+     "sha256": "444d9e6fbe94885589b29706301b88f0cf858b538ba320d0b9dc4e1aec71e6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-260-2025",
+   "path": "local/constanta/navodari/2025/260",
+   "short": "HCL Năvodari nr. 260/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 260/2025 cu privire la modificarea art.1 din HCL nr.25716.12.2024 cu privire la modificarea art.9 din HCL nr. 22228.07.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.260-din-data-de-11.11.2025-cu-privire-la-modificarea-art.1-din-HCL-nr.25716.12.2024-cu-privire-la-modificarea-art.9-din-HCL-nr.-22228.07.2022.pdf",
+     "sha256": "69de4ea10ec616af67a84c981926235b57ae71de7b46b91195aa24f2a8d68352"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-261-2025",
+   "path": "local/constanta/navodari/2025/261",
+   "short": "HCL Năvodari nr. 261/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 261/2025 privind darea Ã®n administrare cÄtre Clubul Sportiv NÄvodari a unor bunuri din domeniul public, Ã®n vederea desfÄÈurÄrii activitÄÈil",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.261-din-data-de-11.11.2025-privind-darea-in-administrare-catre-Clubul-Sportiv-Navodari-a-unor-bunuri-din-domeniul-public-in-vederea-desfasurarii-activitatil.pdf",
+     "sha256": "90ee2c6d2e8d554592ec292e62f1fb66a5dc4002eba986210f95bdbd111ff487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-262-2025",
+   "path": "local/constanta/navodari/2025/262",
+   "short": "HCL Năvodari nr. 262/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 262/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9ba883df57ab5ca1c5d1334f865fb1666423a86b15532a67c996f0df7d0faa2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-263-2025",
+   "path": "local/constanta/navodari/2025/263",
+   "short": "HCL Năvodari nr. 263/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 263/2025 cu privire la prelungirea unor contracte de Ã®nchiriere pentru locuinÈele sociale Ã®n OraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.263-din-data-de-11.11.2025-cu-privire-la-prelungirea-unor-contracte-de-inchiriere-pentru-locuintele-sociale-in-Orasul-Navodari.pdf",
+     "sha256": "d24145a944bc2be11abdc972bb3ed1a169742f48909d6b45734858da5a0a9ff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-264-2025",
+   "path": "local/constanta/navodari/2025/264",
+   "short": "HCL Năvodari nr. 264/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 264/2025 privind contractarea de servicii sociale Ã®ntr-un centru rezidenÈial public, privat sau public-privat pentru persoana ocrotitÄ",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.264-din-data-de-11.11.2025-privind-contractarea-de-servicii-sociale-intr-un-centru-rezidential-public-privat-sau-public-privat-pentru-persoana-ocrotita.pdf",
+     "sha256": "7f211405754617d67210553831da9fddd754f216c861f957c3404940f3e89b30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-265-2025",
+   "path": "local/constanta/navodari/2025/265",
+   "short": "HCL Năvodari nr. 265/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 265/2025 privind aprobarea Nomenclatorului Stradal al OraÈului NÄvodari, JudeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+     "sha256": "c96a4ef0d26aef0c63c0a82f7a2225fd9e8ac3f522d8985129dbe80a37dd1d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-266-2025",
+   "path": "local/constanta/navodari/2025/266",
+   "short": "HCL Năvodari nr. 266/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 266/2025 cu privire la aprobarea Ã®ndreptÄrii erorii materiale de tehnoredactare strecuratÄ Ã®n art.2 din hotÄrÃ¢rea nr. 24518.09.2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.266-din-data-de-11.11.2025-cu-privire-la-aprobarea-indreptarii-erorii-materiale-de-tehnoredactare-strecurata-in-art.2-din-hotararea-nr.-24518.09.2025.pdf",
+     "sha256": "bc4d8a0ca552fac9ebfc7b7803417370816212592cc3f8675647ae46f0af32ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-267-2025",
+   "path": "local/constanta/navodari/2025/267",
+   "short": "HCL Năvodari nr. 267/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 267/2025 cu privire la desemnarea reprezentanÈilor Consiliului Local NÄvodari Ã®n Consiliile de AdministraÈie ale unitÄÈilor de Ã®nvÄÈÄmÃ¢nt",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.267-din-data-de-11.11.2025-cu-privire-la-desemnarea-reprezentantilor-Consiliului-Local-Navodari-in-Consiliile-de-Administratie-ale-unitatilor-de-invatamant.pdf",
+     "sha256": "0ece22e1cdaa4b1a3bae74ae617e63a258d3aac5fcf017816a6a1fda3c44f4ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-268-2025",
+   "path": "local/constanta/navodari/2025/268",
+   "short": "HCL Năvodari nr. 268/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 268/2025 cu privire la desemnarea reprezentanÈilor Consiliului Local NÄvodari Ã®n Comisia pentru Evaluarea Èi Asigurarea CalitÄÈii EducaÈiei",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.268-din-data-de-11.11.2025-cu-privire-la-desemnarea-reprezentantilor-Consiliului-Local-Navodari-in-Comisia-pentru-Evaluarea-si-Asigurarea-Calitatii-Educatiei.pdf",
+     "sha256": "6b4850fac1461cb3fdbc2accceac59c005024922af651797f54de6f1538fd792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-269-2025",
+   "path": "local/constanta/navodari/2025/269",
+   "short": "HCL Năvodari nr. 269/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 269/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f508303c8f38cc3bc18878fa0898b53942a5f019fea948936934fe8b41357a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-27-2025",
+   "path": "local/constanta/navodari/2025/27",
+   "short": "HCL Năvodari nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 27/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.27-din-31.01.2025.pdf",
+     "sha256": "4f036bff96b641ceaf35fb5208209c8263c402e3aa8068ae6e59837f3a62807a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-270-2025",
+   "path": "local/constanta/navodari/2025/270",
+   "short": "HCL Năvodari nr. 270/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 270/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "864c5897055114503ffc475aab0fdeab312029415b9ec92ba5d6db1546202abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-271-2025",
+   "path": "local/constanta/navodari/2025/271",
+   "short": "HCL Năvodari nr. 271/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 271/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "743898497e948551c9793d3cd79696bd90f04d7168eadf0fe76dfb9b256aeff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-272-2025",
+   "path": "local/constanta/navodari/2025/272",
+   "short": "HCL Năvodari nr. 272/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 272/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4184ee295299ab1eca76185cd73ee955655757c957be71babd58a74f4dd9194f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-273-2025",
+   "path": "local/constanta/navodari/2025/273",
+   "short": "HCL Năvodari nr. 273/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 273/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "de616e9708a352ae4061d990f9e8b41fd92101cc07f258b8f0c073e42e07019b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-274-2025",
+   "path": "local/constanta/navodari/2025/274",
+   "short": "HCL Năvodari nr. 274/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 274/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b1fb56e77b2a5e306b1de11b06d81a36f764180a22cf10bfb9ec7c0c0e19a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-275-2025",
+   "path": "local/constanta/navodari/2025/275",
+   "short": "HCL Năvodari nr. 275/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 275/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8b3450fe11eb8e59e97139d9654d9b07de6db3bf7d42038c3b885dbea51db8e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-276-2025",
+   "path": "local/constanta/navodari/2025/276",
+   "short": "HCL Năvodari nr. 276/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 276/2025 cu privire la vÃ¢nzarea prin licitaÈie publicÄ a unui teren situat Ã®n NÄvodari, strada P3, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+     "sha256": "27d1eaf04d0a88b170008da8eb17f928deb4b579986e3a8df13118db5bd32233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-277-2025",
+   "path": "local/constanta/navodari/2025/277",
+   "short": "HCL Năvodari nr. 277/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 277/2025 privind aprobarea Organigramei si a Statului de Functii al Clubului Sportiv NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.277-din-data-de-11.11.2025-privind-aprobarea-Organigramei-si-a-Statului-de-Functii-al-Clubului-Sportiv-Navodari.pdf",
+     "sha256": "2a309a21b46a837276dd91b2afe085a42cae5b4372ff9d6bf0a2f75522eac78a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-278-2025",
+   "path": "local/constanta/navodari/2025/278",
+   "short": "HCL Năvodari nr. 278/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 278/2025 cu privire la rectificarea bugetului de venituri si cheltuieli consolidat pe anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.278-din-data-de-11.11.2025-cu-privire-la-rectificarea-bugetului-de-venituri-si-cheltuieli-consolidat-pe-anul-2025.pdf",
+     "sha256": "c0edb8cc75df1fb3393e178042d2901dd9df9fb6816b316df6d03e4aa0510f5e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-279-2025",
    "path": "local/constanta/navodari/2025/279",
    "short": "HCL Năvodari nr. 279/2025",
@@ -134,6 +2924,516 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.279-din-data-de-11.11.2025-privind-reducerea-impozitului-cu-50-pentru-cladirile-noi-sau-reabilitate-cu-destinatia-de-locuinta.pdf",
      "sha256": "6ddb5161bdbe7e1a4b070b8718c1b4caa848239073714fa3f2532edfb5997a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-28-2025",
+   "path": "local/constanta/navodari/2025/28",
+   "short": "HCL Năvodari nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 28/2025 privind aprobarea Planului de actiuni si lucrari de interes local pe anul 2025, in vederea aplicarii prevederilor Legii nr.196/2016 privind venitul minim de incluziune , cu modificarile si completarile ulterioare",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.28-din-31.01.2025.pdf",
+     "sha256": "92f7cb43c7f3027cf022cfad3221f3f876f45f3f4f8827213824127ebaef4be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-280-2025",
+   "path": "local/constanta/navodari/2025/280",
+   "short": "HCL Năvodari nr. 280/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 280/2025 privind aprobarea implementarii unui sistem certificatde management flota auto (monitorizare GPS)",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.280-din-data-de-11.11.2025-privind-aprobarea-implementarii-unui-sistem-certificatde-management-flota-auto-monitorizare-GPS.pdf",
+     "sha256": "da370ff3ac14704e028b16e44f54db1b6c1202e94aa6eb93f9ec4837b0b27560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-281-2025",
+   "path": "local/constanta/navodari/2025/281",
+   "short": "HCL Năvodari nr. 281/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 281/2025 privind modificatrea HCL 167 din 3.06.2025 privind infiintarea Serviciului Social Centru de socializare si petrecerea timpului",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.281-din-data-de-11.11.2025-privind-modificatrea-HCL-167-din-3.06.2025-privind-infiintarea-Serviciului-Social-Centru-de-socializare-si-petrecerea-timpului.pdf",
+     "sha256": "23562d8a63cc8db991ba437d32e17e24f70c31445babc051e8d247eaeec6550a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-282-2025",
+   "path": "local/constanta/navodari/2025/282",
+   "short": "HCL Năvodari nr. 282/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 282/2025 privind modificarea indemnizatiilor membrilor Consiliului de Administratie al Termica Distributie Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/10/HCL-nr.282-din-data-de-11.11.2025-privind-modificarea-indemnizatiilor-membrilor-Consiliului-de-Administratie-al-Termica-Distributie-Navodari.pdf",
+     "sha256": "7646fd3221fc52e87a9acedb46807d5fdf904726e229568165a13817e66aaa47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-285-2025",
+   "path": "local/constanta/navodari/2025/285",
+   "short": "HCL Năvodari nr. 285/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 285/2025 privind aprobarea actului ad. nr. 9 la contractul 6183414.07.2022 avÃ¢nd ca obiect delegarea gestiunii serviciului public de administrare",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/11/HCL-nr.285-din-21.11.2025-privind-aprobarea-actului-ad.-nr.-9-la-contractul-6183414.07.2022-avand-ca-obiect-delegarea-gestiunii-serviciului-public-de-administrare.pdf",
+     "sha256": "4f692ad669e3bc25c0d9a58a86020f197acfb82cc1d248a0ee20cefb90e15ce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-287-2025",
+   "path": "local/constanta/navodari/2025/287",
+   "short": "HCL Năvodari nr. 287/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 287/2025 privind rectificarea bugetului de venituri si cheltuieli consolidat pentru anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.287-din-data-de-08.12.2025-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-consolidat-pentru-anul-2025.pdf",
+     "sha256": "76244e35ebcd1327d5a276cfca8391ea936907f4a8566ce4d6091dd3185939b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-288-2025",
+   "path": "local/constanta/navodari/2025/288",
+   "short": "HCL Năvodari nr. 288/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 288/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.288-din-data-de-08.12.2025-achizitionarea-unor-servicii-de-asistenta-si-reprezentare-juridica-in-dosarul-3261232025-aflat-pe-rolul-Tribunalului-Bucuresti.pdf",
+     "sha256": "79c8299722c84964f6937a2c5547d6e2e43da39538a47d219084b184ffc37ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-289-2025",
+   "path": "local/constanta/navodari/2025/289",
+   "short": "HCL Năvodari nr. 289/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 289/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.289-din-data-de-08.12.2025-achizitionarea-unor-servicii-de-asistenta-si-reprezentare-juridica-a-Consiliului-Local-Oras-Navodari.pdf",
+     "sha256": "9169fb499c5aed86d030bef12dc2e9003b9978a236edac9b384ddbd0f5c123bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-29-2025",
+   "path": "local/constanta/navodari/2025/29",
+   "short": "HCL Năvodari nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 29/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/02/HCL-nr.29-din-25.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/02/HCL-nr.29-din-25.02.2025.pdf",
+     "sha256": "908f0f25dcc5e9ef4612b42a3de5d2840e965a85fbe07ce8364a8f3180bbebcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-290-2025",
+   "path": "local/constanta/navodari/2025/290",
+   "short": "HCL Năvodari nr. 290/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 290/2025 privind aprobarea contului de executie bugetara la 30.09.2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.290-din-17.12.2025.pdf",
+     "sha256": "67ca3d18a7da6369a1f8ed2077222cf7e667c6a8fa9e03457470830b6c9ed1e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-291-2025",
+   "path": "local/constanta/navodari/2025/291",
+   "short": "HCL Năvodari nr. 291/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 291/2025 privind reglementarea semnalizarii rutiere pe raza Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.291-din-17.12.2025.pdf",
+     "sha256": "1f0da6d359629fe01a1072311f55947e1c371f2d81bd14fc8717bf834efd2018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-292-2025",
+   "path": "local/constanta/navodari/2025/292",
+   "short": "HCL Năvodari nr. 292/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 292/2025 privind actualizarea âPlanului de analiza si acoperire a riscurilorâ din orasul Navodari, judetulÂ Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.292-din-17.12.2025.pdf",
+     "sha256": "b80bbd6ce8dac74372da1682c5d4b8fea7f94f67e6bf8f057d2fb9c7efda413b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-293-2025",
+   "path": "local/constanta/navodari/2025/293",
+   "short": "HCL Năvodari nr. 293/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 293/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.293-din-17.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.293-din-17.12.2025.pdf",
+     "sha256": "d755ddffb58a1d3bb1fbfd61807759b05ce252ffb9b4abe99d843b64b251df20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-294-2025",
+   "path": "local/constanta/navodari/2025/294",
+   "short": "HCL Năvodari nr. 294/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 294/2025 cu privire la aprobarea ajustarii tarifului de depozitare si neutralizare a deseurilor menajere si incheierea unui act aditional la contractul de prestari servicii nr.5/14.12.1994 pentru depozitare deseuri",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.294-din-17.12.2025.pdf",
+     "sha256": "81df9c43cdf2ecb7f55df72db148e36672e4dfd100f56b5a7709076acc7ab9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-295-2025",
+   "path": "local/constanta/navodari/2025/295",
+   "short": "HCL Năvodari nr. 295/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 295/2025 privind revocarea Hotararii Consiliului Local nr.238/18.09.2025 cu privire la actualizarea suprafetei de teren din contractul de concesiune incheiat pentru terenul situat in Navodari, judetul Constanta, conform masuratorilor cadastrale",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.295-din-17.12.2025.pdf",
+     "sha256": "9b6575f1660f56e4c5ecd9466aa1c26be8f1c26a150ccbe8851d758ccf0ff193"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-296-2025",
+   "path": "local/constanta/navodari/2025/296",
+   "short": "HCL Năvodari nr. 296/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 296/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.296-din-17.12.2025.pdf",
+     "sha256": "ea410e078d4cfb7172b171834c4d82a6d8b5c3d64903059e43fa035115ba2a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-297-2025",
+   "path": "local/constanta/navodari/2025/297",
+   "short": "HCL Năvodari nr. 297/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 297/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.297-din-17.12.2025.pdf",
+     "sha256": "c646e0224cd35fb3dae47c0c0eb8ad779c274d35df61db439c34c99b9bfa1239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-298-2025",
+   "path": "local/constanta/navodari/2025/298",
+   "short": "HCL Năvodari nr. 298/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 298/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.298-din-17.12.2025.pdf",
+     "sha256": "5555847c8bf26c8f1769c3a9544ebc39477d89058f7fc2583eb2956d16e72f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-299-2025",
+   "path": "local/constanta/navodari/2025/299",
+   "short": "HCL Năvodari nr. 299/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 299/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.299-din-17.12.2025.pdf",
+     "sha256": "b005b5f9627b7f94d6b391dea2da16bf81f51e56a0af55c96b07e4124fb18e2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-3-2025",
+   "path": "local/constanta/navodari/2025/3",
+   "short": "HCL Năvodari nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 3/2025 cu privire la alegerea Viceprimarului orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.3-din-31.01.2025.pdf",
+     "sha256": "a3b5cbd4bde4cf4c66b60481e2ab6ef5000a447bb27d9c17e325697ea9252fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-30-2025",
+   "path": "local/constanta/navodari/2025/30",
+   "short": "HCL Năvodari nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 30/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.30-din-25.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.30-din-25.02.2025.pdf",
+     "sha256": "8f8c27460dcf10f99180a167d94cbe11ec7a18f8651da1808b888db859f86ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-301-2025",
+   "path": "local/constanta/navodari/2025/301",
+   "short": "HCL Năvodari nr. 301/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 301/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.301-din-17.12.2025.pdf",
+     "sha256": "df18396d0bf7b82b595ef335a28bafd8f6b980fb1efd6b1247f43b6708070034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-302-2025",
+   "path": "local/constanta/navodari/2025/302",
+   "short": "HCL Năvodari nr. 302/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 302/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.302-din-17.12.2025.pdf",
+     "sha256": "6cf89ef4b8f8ac2c1c9b7a19dce2b7052b88807bd0078b5d4e8e1a2fdb2ce49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-303-2025",
+   "path": "local/constanta/navodari/2025/303",
+   "short": "HCL Năvodari nr. 303/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 303/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.303-din-17.12.2025.pdf",
+     "sha256": "c4b6f45e6fea632d721b2e4b737d6133bd7b8b567ab59f392e849dbb8d8c3f53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-304-2025",
+   "path": "local/constanta/navodari/2025/304",
+   "short": "HCL Năvodari nr. 304/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 304/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.304-din-17.12.2025.pdf",
+     "sha256": "dad9b05302dfd5e562824730c764633024ada5547f6a1af97600d60d7f80ee2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-305-2025",
+   "path": "local/constanta/navodari/2025/305",
+   "short": "HCL Năvodari nr. 305/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 305/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.305-din-17.12.2025.pdf",
+     "sha256": "9248165ff7bc89e8a1be820ddd4ad1f9a5907371dd1fa5375a7e965d28cfbee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-307-2025",
+   "path": "local/constanta/navodari/2025/307",
+   "short": "HCL Năvodari nr. 307/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 307/2025 cu privire la organizarea retelei scolare a unitatilor de invatamant preuniversitar din Orasul Navodari pentru anul scolar 2026-2027",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.307-din-17.12.2025.pdf",
+     "sha256": "b0dfd7b5c5ed6cccc481597a114de25508ebce9b8676f8b86c811bbd1482d654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-309-2025",
+   "path": "local/constanta/navodari/2025/309",
+   "short": "HCL Năvodari nr. 309/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 309/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.309-din-17.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.309-din-17.12.2025.pdf",
+     "sha256": "c6efb6b49fb37f32375bfac39096f4389847713e4810ac9de4a0604338d60a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-310-2025",
+   "path": "local/constanta/navodari/2025/310",
+   "short": "HCL Năvodari nr. 310/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 310/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.310-din-17.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.310-din-17.12.2025.pdf",
+     "sha256": "3bf7086bdb523820e4a7b5df676be1160604dcad5898ce5eeb901ad2259c45fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-311-2025",
+   "path": "local/constanta/navodari/2025/311",
+   "short": "HCL Năvodari nr. 311/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 311/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.311-din-17.12.2025.pdf",
+     "sha256": "ab97b90961946cb9a88e8ae907bee0ec1a2dd834f1a3099613ae3d84b694b63e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-312-2025",
+   "path": "local/constanta/navodari/2025/312",
+   "short": "HCL Năvodari nr. 312/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 312/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.312-din-17.12.2025.pdf",
+     "sha256": "8283ff60a46ec909bc8f07fac2467ea44a1117dce0450f5d539d022f76b71108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-313-2025",
+   "path": "local/constanta/navodari/2025/313",
+   "short": "HCL Năvodari nr. 313/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 313/2025 privind aprobarea Actului adiÈional nr. 2 la contractul de delegare prinÂ Â concesiune a serviciului public de administrare, Ã®ntreÈinere Èi exploatare a cimitirelor ce aparÈin domeniului public al OraÈului NÄvodari nr. 67248/06.06.2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.313-din-17.12.2025.pdf",
+     "sha256": "238963f3953c924abea8113327d7f508c5f803b795dd382337a83eeb276599a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-314-2025",
+   "path": "local/constanta/navodari/2025/314",
+   "short": "HCL Năvodari nr. 314/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 314/2025 cu privire la rectificarea bugetului de venituri Èi cheltuieli consolidat pe anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.314-din-17.12.2025.pdf",
+     "sha256": "f89a954d5e9ac97c64ead4e56035b3606cc34086d4f6341b1eabcd816e8d4247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-315-2025",
+   "path": "local/constanta/navodari/2025/315",
+   "short": "HCL Năvodari nr. 315/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 315/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.315-din-17.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.315-din-17.12.2025.pdf",
+     "sha256": "e1e31d2ac9d045472f8128085a497b1c0f138a6857d24b577dd7fdc5a8e6c45d"
     }
    ]
   },
@@ -153,6 +3453,441 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-317-2025",
+   "path": "local/constanta/navodari/2025/317",
+   "short": "HCL Năvodari nr. 317/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 317/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.317-din-30.12.2025_compressed.pdf",
+     "sha256": "ae0c70823ad07f730495e4a204d56c54759677e77e41641174ae05500caf59fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-318-2025",
+   "path": "local/constanta/navodari/2025/318",
+   "short": "HCL Năvodari nr. 318/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 318/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/01/HCL-nr.318-din-30.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2026/01/HCL-nr.318-din-30.12.2025.pdf",
+     "sha256": "7129b3d31c45f89a7007f7891a60399828396aab884c295ecb1aa9703ad5f885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-319-2025",
+   "path": "local/constanta/navodari/2025/319",
+   "short": "HCL Năvodari nr. 319/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 319/2025 privind aprobarea actului adiÈional nr.6 la contractul nr. 24930/06.04.2021 avÃ¢nd ca obiect delegarea de gestiune prin concesiune a serviciuui public de salubrizare al OraÈului NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.319-din-30.12.2025.pdf",
+     "sha256": "8043e30ccc0c25a5d0f769838baa38949173f6b180c5a99e438cc6994c5837cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-32-2025",
+   "path": "local/constanta/navodari/2025/32",
+   "short": "HCL Năvodari nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 32/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.32-din-25.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.32-din-25.02.2025.pdf",
+     "sha256": "a65948747c13ce7c21f3b411fa202e22d5e25dda74cd528f4fe3f658caecaf44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-33-2025",
+   "path": "local/constanta/navodari/2025/33",
+   "short": "HCL Năvodari nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 33/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.33-din-25.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.33-din-25.02.2025.pdf",
+     "sha256": "c3a265bf200a82756721602dcb3c802dc03aa658720699e3010664bbcbc25ec3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-34-2025",
+   "path": "local/constanta/navodari/2025/34",
+   "short": "HCL Năvodari nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 34/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.34-din-25.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.34-din-25.02.2025.pdf",
+     "sha256": "f660a1f33aa958cc3aa9cef4bbede85f071f092f20b3ba61357bbd20c3563bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-35-2025",
+   "path": "local/constanta/navodari/2025/35",
+   "short": "HCL Năvodari nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 35/2025 privind aprobarea unui ajutor de urgenta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.35-din-28.02.2025.pdf",
+     "sha256": "11af26fa980609682b2d1ba6a2fc895d1b29b00fa3add3e688cb8514c8c7da18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-36-2025",
+   "path": "local/constanta/navodari/2025/36",
+   "short": "HCL Năvodari nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 36/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.36-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.36-din-28.02.2025.pdf",
+     "sha256": "092b376a7d8565d1ddbec8f579744395084ae7ba60fe94a05fb3680105bd7976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-37-2025",
+   "path": "local/constanta/navodari/2025/37",
+   "short": "HCL Năvodari nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 37/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.37-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.37-din-28.02.2025.pdf",
+     "sha256": "2343926c6a16e84e8792030091eaae63813a07ac4664a25bfcc226c799938884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-38-2025",
+   "path": "local/constanta/navodari/2025/38",
+   "short": "HCL Năvodari nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 38/2025 privind aprobarea Organigramei si a Statului de Functii ale aparatului de specialitate al Primarului Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.38-din-28.02.2025.pdf",
+     "sha256": "b34d458f286db3e3f8e52a5402d58d1fa55ba72ddbe1336fb2e987388b12421c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-39-2025",
+   "path": "local/constanta/navodari/2025/39",
+   "short": "HCL Năvodari nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 39/2025 cu privire la aprobarea valorii de inventar a imobilului preluat in domeniul privat al Orasului Navodari, conform Hotararii Consiliului Local nr. 213/17.10.2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.39-din-28.02.2025.pdf",
+     "sha256": "0c6a2c554ffdbc4278a943b51c686f4fba845e062feeabd638af1ede0cfda2c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-4-2025",
+   "path": "local/constanta/navodari/2025/4",
+   "short": "HCL Năvodari nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 4/2025 cu privire la alegerea Presedintelui de sedinta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.4-din-31.01.2025.pdf",
+     "sha256": "6c7da05861ab48dd3191f9dc9e96d59714df7685a80d255a17932df10e8e404c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-40-2025",
+   "path": "local/constanta/navodari/2025/40",
+   "short": "HCL Năvodari nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 40/2025 cu privire la aprobarea valorii de inventar a imobilului preluat in domeniul privat al Orasului Navodari, conform Hotararii Consiliului Local nr. 261/16.12.2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.40-din-28.02.2025.pdf",
+     "sha256": "6fae2d2fa0cdbeafbdfc552bcf2442fd6ea01d39b67fb52a7f79e00b76b66dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-41-2025",
+   "path": "local/constanta/navodari/2025/41",
+   "short": "HCL Năvodari nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 41/2025 cu privire la aprobarea valorii de inventar a imobilului preluat in domeniul privat al Orasului Navodari, conform Hotararii Consiliului Local nr. 262/16.12.2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.41-din-28.02.2025.pdf",
+     "sha256": "a1b48acae79c6ad750e3f3065db63a1c65dd59cf3eb1ff20fe0e228674425d29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-42-2025",
+   "path": "local/constanta/navodari/2025/42",
+   "short": "HCL Năvodari nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.42-din-28.02.2025.pdf",
+     "sha256": "ed3778759ea351f9434c45527538feb887ce15e71ab1deefaea024782f2f8bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-43-2025",
+   "path": "local/constanta/navodari/2025/43",
+   "short": "HCL Năvodari nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 43/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.43-din-28.02.2025.pdf",
+     "sha256": "1c48e6642d74dd21cd4921335d797ae389f0523cf5b31acf73bb21b269307a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-44-2025",
+   "path": "local/constanta/navodari/2025/44",
+   "short": "HCL Năvodari nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 44/2025 cu privire la aprobarea nivelului minim al redeventei pentru spatiul cu destinatia de cabinet medical situat in Navodari, strada Albinelor, nr.15D, in suprafata totala de 39,51 mp",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.44-din-28.02.2025.pdf",
+     "sha256": "0771f7d38c1bc8d4e89358c9f6421c957365606f40083d76335f87a2aa842c0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-45-2025",
+   "path": "local/constanta/navodari/2025/45",
+   "short": "HCL Năvodari nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 45/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.45-din-28.02.2025.pdf",
+     "sha256": "9fcdce8636fae57e977d3729b529d279dbc2cf2cff0a4defa184e43b9dc1f999"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-46-2025",
+   "path": "local/constanta/navodari/2025/46",
+   "short": "HCL Năvodari nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 46/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.46-din-28.02.2025.pdf",
+     "sha256": "fe61e3cba651c424af51d8683966482ff58c6c95b11b302019a261d6cfdaa4cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-47-2025",
+   "path": "local/constanta/navodari/2025/47",
+   "short": "HCL Năvodari nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 47/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.47-din-28.02.2025.pdf",
+     "sha256": "e3be0c8b84fb3d6628a692304c988157671369fb1349ec69a88650d4ac5b2d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-48-2025",
+   "path": "local/constanta/navodari/2025/48",
+   "short": "HCL Năvodari nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.48-din-28.02.2025.pdf",
+     "sha256": "9cc486d0148a146369731437097dcef23831d536afd83746644d1a0b7c06b1b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-49-2025",
+   "path": "local/constanta/navodari/2025/49",
+   "short": "HCL Năvodari nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 49/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.49-din-28.02.2025.pdf",
+     "sha256": "af6398d1724899d2c849913dbf037bada097168de7f83c2449830c8cde99de84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-50-2025",
+   "path": "local/constanta/navodari/2025/50",
+   "short": "HCL Năvodari nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.50-din-28.02.2025.pdf",
+     "sha256": "dc5b7631f537f3c27f4033010cf9b6e6b877a8d14e89cc2d94e76bf5f7275b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-51-2025",
+   "path": "local/constanta/navodari/2025/51",
+   "short": "HCL Năvodari nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 51/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.51-din-28.02.2025.pdf",
+     "sha256": "80b095b31486719f3f58569049df8d8264c38a0fe9689768a6925e9b7e051ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-52-2025",
+   "path": "local/constanta/navodari/2025/52",
+   "short": "HCL Năvodari nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 52/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.52-din-28.02.2025.pdf",
+     "sha256": "1754900a0735799cd755d0a091fbe112b0b762e4bc99e36fee04a02301dea14a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-53-2025",
+   "path": "local/constanta/navodari/2025/53",
+   "short": "HCL Năvodari nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 53/2025 cu privire la modificarea art.4 din HCL Navodari nr.165/24.05.2022 privind trecerea unor bunuri din domeniul privat, in domeniul public al UAT Oras Navodari si stabilirea destinatiei unor locuinte",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.53-din-28.02.2025.pdf",
+     "sha256": "c505158ee2d94cc670197d1b0bdb761deb17a86aad8047c36e6bed932aa7089a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-54-2025",
+   "path": "local/constanta/navodari/2025/54",
+   "short": "HCL Năvodari nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 54/2025 cu privire la prelungirea unor contracte de inchiriere pentru locuinte de necesitate situate in orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.54-din-28.02.2025.pdf",
+     "sha256": "65c62413a53461616459c1c46674ac7b46c488d2be9bb16012334c106ac90a15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-55-2025",
+   "path": "local/constanta/navodari/2025/55",
+   "short": "HCL Năvodari nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 55/2025 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul familiei ocupationale Administratie din aparatul de specialitate al Primarului orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.55-din-28.02.2025.pdf",
+     "sha256": "104192d07dc88149705d2a202d61e9a77a444a6829563b3f069102cedc6702c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-56-2025",
+   "path": "local/constanta/navodari/2025/56",
+   "short": "HCL Năvodari nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 56/2025 privind aprobarea protocolului de colaborare intre UAT Navodari si Asociatia ACT FOR TOMORROW privind actiunile de plantare de arbori, arbusti si puieti, in perioada 2025-2028",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.56-din-28.02.2025.pdf",
+     "sha256": "1c71cc3dcba44efe44e3aeca90addceb208534b470e89b442c1d2b3c1140ec7e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-57-2025",
    "path": "local/constanta/navodari/2025/57",
    "short": "HCL Năvodari nr. 57/2025",
@@ -164,6 +3899,696 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.57-din-28.02.2025.pdf",
      "sha256": "8c807de9853963aaf9aeb23bfb74187baa4c607dc1fe7f308a9f79b52e35887e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-58-2025",
+   "path": "local/constanta/navodari/2025/58",
+   "short": "HCL Năvodari nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 58/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.58-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.58-din-28.02.2025.pdf",
+     "sha256": "21f4179e056e83539018f36ac4d35e038c3b78b22987c85ab9fac481f31f27f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-59-2025",
+   "path": "local/constanta/navodari/2025/59",
+   "short": "HCL Năvodari nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 59/2025 privind prelungirea contractului de inchiriere pentru locuinÈa construitÄ prin AgenÈia NaÈionalÄ pentru locuinÈe, situatÄ Ã®n oraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.59-din-28.02.2025.pdf",
+     "sha256": "4b2580ba0478b6af41252c6d0c94107d80afb395e6f8df1f7fa76642c19769d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-6-2025",
+   "path": "local/constanta/navodari/2025/6",
+   "short": "HCL Năvodari nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 6/2025 privind achizitionarea unor servicii de asistenta si reprezentare juridica a UAT Oras Navodari in litigiul care face obiectul dosarului nr.10315/3/2024, in contradictoriu Matfish SRL, Agentia Domeniilor Statului, Agentia Nationala pentru Pescuit si Acvacultura",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.6-din-31.01.2025.pdf",
+     "sha256": "30702db3e16f8d6574f12bda3363d6f488405ab3da728c53e8979c60a4f89c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-60-2025",
+   "path": "local/constanta/navodari/2025/60",
+   "short": "HCL Năvodari nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 60/2025 cu privire la vÃ¢nzarea imobilului locuinÈÄ situat Ã®n NÄvodari, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2026/01/HCL-nr.60-din-28.02.2025-.pdf",
+     "sha256": "e738e86663578bc19a84d18e2da42ca55f9eeb1ce92a1b154b95af204ed2ad46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-61-2025",
+   "path": "local/constanta/navodari/2025/61",
+   "short": "HCL Năvodari nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 61/2025 privind prelungirea contractului de inchiriere pentru locuinÈa situatÄ Ã®n oraÈul NÄvodari, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.61-din-28.02.2025.pdf",
+     "sha256": "b09825b0387cd6b5926de81e60400a149cd8875dd9d635a2ad1f3be8c0170da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-62-2025",
+   "path": "local/constanta/navodari/2025/62",
+   "short": "HCL Năvodari nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 62/2025 cu privire la prelungirea contractului de inchiriere pentru locuinÈa situatÄ Ã®n oraÈul NÄvodari, judeÈul ConstanÈa",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.62-din-28.02.2025.pdf",
+     "sha256": "be54e16ffcb1486d4e81aee5662de47b72e5474ab274693b66634f1252dd8654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-63-2025",
+   "path": "local/constanta/navodari/2025/63",
+   "short": "HCL Năvodari nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 63/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.63-din-28.02.2025.pdf",
+     "sha256": "0ed9f34c02f71fc9585645f94ff9990dea6cb7d57c703b8d43ea5230a65e35dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-64-2025",
+   "path": "local/constanta/navodari/2025/64",
+   "short": "HCL Năvodari nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 64/2025 privind aprobarea alimentarii cu energie electrica din bransamentul Centrului de Afaceri a echipamentelor amplasate pe terenul ce face obiectul contractului de inchiriere nr.72949/23.08.2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.64-din-28.02.2025.pdf",
+     "sha256": "07dbc2ae4131d0a0b241ad4a073ce80c2839693b2210f6854abab76e40806327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-65-2025",
+   "path": "local/constanta/navodari/2025/65",
+   "short": "HCL Năvodari nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 65/2025 privind aprobarea desfasurarii activitatilor de promovare a Statiunii Mamaia Nord, de catre Organizatia de Management al Destinatiei Statiunea Mamaia Nord",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.65-din-28.02.2025.pdf",
+     "sha256": "1aa8164192b19bb455a136d010ee66e8b7629a7bccb26f4044934416090865ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-66-2025",
+   "path": "local/constanta/navodari/2025/66",
+   "short": "HCL Năvodari nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 66/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.66-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.66-din-28.02.2025.pdf",
+     "sha256": "dfeb2823b4349f04e96b933f7bb4d46b4b2cbbe9a451bf76e474340aa8950a72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-67-2025",
+   "path": "local/constanta/navodari/2025/67",
+   "short": "HCL Năvodari nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 67/2025 privind aprobarea bugetului de venituri si cheltuieli consolidat al Orasului Navodari pentru anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr67-din-27.03.2025.pdf",
+     "sha256": "de1ba0047bb5e27b622f067aaa3dd183b0ea3d4e34df512d32a6521aab06cb1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-68-2025",
+   "path": "local/constanta/navodari/2025/68",
+   "short": "HCL Năvodari nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 68/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.68-din-27.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.68-din-27.03.2025.pdf",
+     "sha256": "2d00dc9b849038921666abadcf1ce8341eb9e5c8774797c7e311cf570c830575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-69-2025",
+   "path": "local/constanta/navodari/2025/69",
+   "short": "HCL Năvodari nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 69/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.69-din-27.03.2025.pdf",
+     "sha256": "dc59ec1098097c0c66593c83f9d200971d4fe2decd79652cdf78471f54e140f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-7-2025",
+   "path": "local/constanta/navodari/2025/7",
+   "short": "HCL Năvodari nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 7/2025 cu privire la aprobarea oportunitatii vanzarii prin licitatie publica a unui teren situat in Navodari, strada S2 fn, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.7-din-31.01.2025.pdf",
+     "sha256": "b57f023f62ee9292861fcb572c172d040726c3823f855e30ac75e35f3d525250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-70-2025",
+   "path": "local/constanta/navodari/2025/70",
+   "short": "HCL Năvodari nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 70/2025 privind aprobarea principalelor manifestari cultural-artistice si sportive organizate de Primaria Orasului Navodari in anul 2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr70-din-27.03.2025.pdf",
+     "sha256": "7bd2e5218c17e44dadb299e3ca59a8635e2d563b323ca8a6ed79934dfc671245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-71-2025",
+   "path": "local/constanta/navodari/2025/71",
+   "short": "HCL Năvodari nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 71/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.71-din-27.03.2025.pdf",
+     "sha256": "95e34cecc071b65ca4adf938badf381ca52bc424ddfef39035d1e22d1ce31c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-72-2025",
+   "path": "local/constanta/navodari/2025/72",
+   "short": "HCL Năvodari nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 72/2025",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.72-din-27.03.2025.pdf",
+     "sha256": "de7abfc796163178f71a78e1bc3df7009d81546362f38713d08c884374b3f2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-73-2025",
+   "path": "local/constanta/navodari/2025/73",
+   "short": "HCL Năvodari nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 73/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.73-din-27.03.2025.pdf",
+     "sha256": "378cd315cc8b1e0dd31d6928de76f53fd543e883400aacd6aa42c40727d9d960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-74-2025",
+   "path": "local/constanta/navodari/2025/74",
+   "short": "HCL Năvodari nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 74/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.74-din-27.03.2025.pdf",
+     "sha256": "21e5c5ecde2d17d93b7eb7bbd9fa7492b6b9762581f1a10e642543fd4ee4a64d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-75-2025",
+   "path": "local/constanta/navodari/2025/75",
+   "short": "HCL Năvodari nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 75/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.75-din-27.03.2025.pdf",
+     "sha256": "ee30a2cd56e7ca8536f9df225b61652daa4b8d2dd1477d27d5caef3e76cddf5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-76-2025",
+   "path": "local/constanta/navodari/2025/76",
+   "short": "HCL Năvodari nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 76/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.76-din-27.03.2025.pdf",
+     "sha256": "fc4da4c4feaa5b6f4c426284afd062164dd920614374fa1e52cf9626c58e32f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-77-2025",
+   "path": "local/constanta/navodari/2025/77",
+   "short": "HCL Năvodari nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 77/2025 cu privire la aprobarea oportunitatii vanzarii prin licitatie publica a unui teren situat in Navodari, strada Stadionului, nr.42 bis, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.77-din-27.03.2025.pdf",
+     "sha256": "9ac6b07c7e055164084f75142617fbbf9c0f31ef73ee7b9dbf9a52f9ea126f6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-78-2025",
+   "path": "local/constanta/navodari/2025/78",
+   "short": "HCL Năvodari nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 78/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.78-din-27.03.2025.pdf",
+     "sha256": "0fa1cc3d0c8258b6846ddd646969b8617c43d6b3589b45ab0d54e7fefa6fb204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-79-2025",
+   "path": "local/constanta/navodari/2025/79",
+   "short": "HCL Năvodari nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 79/2025 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, strada Tasaul, nr.15 bis, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.79-din-27.03.2025.pdf",
+     "sha256": "e2dba227c2029d8e58fbdfe4532f2b6914ca609cad99b1b03e5b5cbe77ea310c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-8-2025",
+   "path": "local/constanta/navodari/2025/8",
+   "short": "HCL Năvodari nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 8/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.8-din-31.01.2025.pdf",
+     "sha256": "4eff2d6807a9f9c194d002c34783b27bc74acdc63464d9fdc0b96a154b0d7148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-80-2025",
+   "path": "local/constanta/navodari/2025/80",
+   "short": "HCL Năvodari nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 80/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.80-din-27.03.2025.pdf",
+     "sha256": "adfd0b44ffd5f7fa34118b19466e95bbecf4d4fb8c3cab2db6cfe04c4f6d8598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-81-2025",
+   "path": "local/constanta/navodari/2025/81",
+   "short": "HCL Năvodari nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 81/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.81-din-27.03.2025.pdf",
+     "sha256": "77375b51abee332c43b7a3dce59c4bdec59026d55caba07b62e8d9f18f316614"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-82-2025",
+   "path": "local/constanta/navodari/2025/82",
+   "short": "HCL Năvodari nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 82/2025 cu privire la prelungirea contractului de inchiriere pentru locuinta sociala situata in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.82-din-27.03.2025.pdf",
+     "sha256": "27c4f91ab406e0826e4952f29c1588072ed7841030b20227a83c58d2ae0794c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-83-2025",
+   "path": "local/constanta/navodari/2025/83",
+   "short": "HCL Năvodari nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 83/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.83-din-27.03.2025.pdf",
+     "sha256": "6541f34eac5c83f8b6519bf8499868fb145b1a1f8ddd2aeff8dc552045a3a8bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-84-2025",
+   "path": "local/constanta/navodari/2025/84",
+   "short": "HCL Năvodari nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 84/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.84-din-27.03.2025.pdf",
+     "sha256": "ce844205a9de5758962a86eb86d4caf7917980ca0acdb594fa335745fff43b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-85-2025",
+   "path": "local/constanta/navodari/2025/85",
+   "short": "HCL Năvodari nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 85/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.85-din-27.03.2025.pdf",
+     "sha256": "f81f3253d2804e1049a262586753beda07ec10af1cc7fb628f1f605b9a1a2476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-86-2025",
+   "path": "local/constanta/navodari/2025/86",
+   "short": "HCL Năvodari nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 86/2025 privind aprobarea participarii la cursuri de formare si perfectionare profesionala a alesilor locali din cadrul Consiliului Local Oras Navodari, mandatul 2024-2028",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr86-din-27.03.2025.pdf",
+     "sha256": "2bccc192ba2efbbd46c9daace467466a5ef2d32f2879227f99183b7d158b38b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-87-2025",
+   "path": "local/constanta/navodari/2025/87",
+   "short": "HCL Năvodari nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 87/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.87-din-27.03.2025.pdf",
+     "sha256": "511022e45c929f4e484850727b4b6c2cd089d09b30f484b89a68e0cd84e0de2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-88-2025",
+   "path": "local/constanta/navodari/2025/88",
+   "short": "HCL Năvodari nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 88/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.88-din-27.03.2025.pdf",
+     "sha256": "6a16e4f686a1918d50c83fbab2f449f12504daa00f3c537c57371d250ab752a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-89-2025",
+   "path": "local/constanta/navodari/2025/89",
+   "short": "HCL Năvodari nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 89/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.89-din-27.03.2025.pdf",
+     "sha256": "6339073feaf2d104009f7cd5d0bccf95771546f601430f2b980bcf3bda9d6c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-9-2025",
+   "path": "local/constanta/navodari/2025/9",
+   "short": "HCL Năvodari nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 9/2025 cu privire la oportunitatea vanzarii prin licitatie publica a unui teren situat in Navodari, b-dul Navodari, Zona Rezervoare RAJA, lot 1/1 judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.9-din-31.01.2025.pdf",
+     "sha256": "b849a9bb95cf055484a5e935ff2797c1082136798546943c29f5a48c48d859d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-90-2025",
+   "path": "local/constanta/navodari/2025/90",
+   "short": "HCL Năvodari nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 90/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.90-din-27.03.2025.pdf",
+     "sha256": "2e22e804dcb8a66d0636b96c1ac91a26a1fd4b51549ee5376bce24852c71c762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-91-2025",
+   "path": "local/constanta/navodari/2025/91",
+   "short": "HCL Năvodari nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 91/2025 cu privire la vanzarea prin licitatie publica a unui teren situat in Navodari, b-dul Navodari, Zona Rezervoare RAJA, lot 1/1, judetul Constanta",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.91-din-27.03.2025.pdf",
+     "sha256": "b1ad9e14302bcfbcde1314c90da2a78c1333e32322ecf82ee2d4c8b7430dea57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-92-2025",
+   "path": "local/constanta/navodari/2025/92",
+   "short": "HCL Năvodari nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 92/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.92-din-27.03.2025.pdf",
+     "sha256": "5dad06183887041b06ad315bb7b00f3bae8201077cae822ee9e40cd68f945509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-93-2025",
+   "path": "local/constanta/navodari/2025/93",
+   "short": "HCL Năvodari nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 93/2025 cu privire la aprobarea unui schimb de locuinta sociala situata in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.93-din-27.03.2025.pdf",
+     "sha256": "43a09bdf2801debd14208bfdc0588547fa28259cde2e2f6ff7991e0ea5b9b1ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-94-2025",
+   "path": "local/constanta/navodari/2025/94",
+   "short": "HCL Năvodari nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 94/2025 privind modificarea HCL nr.81/10.04.2014 cu privire la aderarea Orasului Navodari la Asociatia Nationala a Statiunilor Balneare si Balneoclimaterice din Romania",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.94-din-27.03.2025.pdf",
+     "sha256": "70190c36faa13a36884917ee88f87be706823f8d9dba5b104eb45c0ed394503f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-95-2025",
+   "path": "local/constanta/navodari/2025/95",
+   "short": "HCL Năvodari nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 95/2025 privind modificarea HCL nr.1/25.01.2001 cu privire la aderarea Orasului Navodari la Federatia Oraselor din Romania",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.95-din-27.03.2025.pdf",
+     "sha256": "dbeab479622cd64f7ae304fe746eafee6a29fde35a04cd4153ff219516f2fb44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-96-2025",
+   "path": "local/constanta/navodari/2025/96",
+   "short": "HCL Năvodari nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 96/2025 privind aprobarea numirii unor administratori provizorii pentru Consiliul de Administratie al SC Termica Distributie SRL",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr96-din-27.03.2025.pdf",
+     "sha256": "8c89b4797f112105b0253b3a2f909106660dbc1e94809dd981829420c223f1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-97-2025",
+   "path": "local/constanta/navodari/2025/97",
+   "short": "HCL Năvodari nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 97/2025 cu privire la aprobarea contului de executie bugetara pentru anul 2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.97-din-27.03.2025.pdf",
+     "sha256": "afd10474d165b0f08d0dc9a73e9b4bf420f82c81e4b992f3925fabf7b93b3083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-98-2025",
+   "path": "local/constanta/navodari/2025/98",
+   "short": "HCL Năvodari nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 98/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.98-din-27.03.2025.pdf",
+     "sha256": "91bbef437b303cb9bf2bdb041e9946e551e161a7246890c37ac520ecc6ba9dcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-99-2025",
+   "path": "local/constanta/navodari/2025/99",
+   "short": "HCL Năvodari nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 99/2025",
+   "url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.99-din-29.04.2025_compressed.pdf",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2025/05/HCL-nr.99-din-29.04.2025_compressed.pdf",
+     "sha256": "3dd6d64ab208cf4c6cbfad24f3531478298d4ac3aa79af41a4597cdcb0657748"
     }
    ]
   }

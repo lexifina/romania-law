@@ -23458,21 +23458,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 477274 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 498018 | |
+| 481800 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 514120 | |
 
-The build made 504537 commits:
+The build made 520639 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 477349 | first version of an act |
+| 481875 | first version of an act |
 | 13964 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-08.
 - 827 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 476844 laws in the record.
-- 1002546 tags.
+- 479870 laws in the record.
+- 1021674 tags.
 
 ## Dates
 
@@ -23484,7 +23484,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `702f7bd0cd200de38ebaac72cbca55682b0b8f82b41764c66e5882a37a891b43` (5422906851 bytes).
+- Corpus: sha256 `0a7ed6b74a1c739afd8380cf630d6f4267b7b4242266baadaab630bd5eefaa9d` (5598493528 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `2e012668f40e44104e797958b3d01707e6dddd28`, `check.py` `27c5132ceb71b0605dece36a7f1a36ca63d844e6`, `on.py` `f63bfbf1a88654e3905467a8d2e986c27a1605e9`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -23496,7 +23496,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1610722 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1622800 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -173456,102 +173456,221 @@ Model use at data-build time:
 - HCL Limanu nr. 186/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 108/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 119/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 119/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 120/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 121/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 122/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 123/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 123/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 124/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 125/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 125/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 126/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 127/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 128/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 129/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 130/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 131/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 132/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 133/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 134/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 136/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 137/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 138/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 139/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 142/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 142/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 143/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 145/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 146/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 147/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 147/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 148/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 148/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 149/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 151/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 152/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 153/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 153/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 154/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 154/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 155/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 156/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 157/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 158/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 159/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 160/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 161/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 162/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 163/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 164/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 165/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 166/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 167/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 168/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 168/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 169/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 170/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 171/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 172/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 173/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 174/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 175/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 176/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 177/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 178/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 178/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 179/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 180/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 180/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 181/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 181/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 182/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 182/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 183/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 183/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 184/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 185/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 186/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 187/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 188/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 189/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 190/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 191/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 192/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 193/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 194/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 195/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 196/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 197/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 198/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 199/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 200/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 201/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 202/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 203/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 204/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 205/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 206/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 207/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 208/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 209/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 210/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 211/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 212/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 213/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 214/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 215/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 216/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 217/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 218/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 219/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 220/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173564,9 +173683,18 @@ Model use at data-build time:
 - HCL Lumina nr. 227/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 228/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 229/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 230/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 231/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 232/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 233/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 234/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 235/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 236/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 237/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 238/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 239/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 240/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 241/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 242/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173577,6 +173705,7 @@ Model use at data-build time:
 - HCL Lumina nr. 247/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 248/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 249/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 250/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 251/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 252/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173584,7 +173713,158 @@ Model use at data-build time:
 - HCL Lumina nr. 254/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 255/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 256/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 43/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 47/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 49/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 50/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 52/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 55/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 56/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 69/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 80/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 83/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Lumina nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Lumina nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 10/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 10/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173594,7 +173874,9 @@ Model use at data-build time:
 - HCL Mangalia nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 100/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 101/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 101/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 102/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 106/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173617,7 +173899,9 @@ Model use at data-build time:
 - HCL Mangalia nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 12/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 121/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 122/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 127/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173625,23 +173909,32 @@ Model use at data-build time:
 - HCL Mangalia nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 129/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 13/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 13/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 13/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 13/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 130/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 130/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 131/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 132/2015: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 137/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 138/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 139/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 14/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 14/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 141/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 142/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 143/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 143/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 145/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 145/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 146/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173650,10 +173943,16 @@ Model use at data-build time:
 - HCL Mangalia nr. 147/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 148/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 148/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 149/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 15/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 15/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 150/2015: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 150/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 151/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 151/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 153/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 157/2015: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 158/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 158/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 16/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173671,6 +173970,7 @@ Model use at data-build time:
 - HCL Mangalia nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 17/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 170/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 170/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 171/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173689,6 +173989,7 @@ Model use at data-build time:
 - HCL Mangalia nr. 179/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 18/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 18/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 18/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 180/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173762,6 +174063,7 @@ Model use at data-build time:
 - HCL Mangalia nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 220/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 222/2015: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 222/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 226/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 227/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
@@ -173770,10 +174072,13 @@ Model use at data-build time:
 - HCL Mangalia nr. 233/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 239/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 24/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 24/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 24/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 241/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 25/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 25/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 26/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173786,18 +174091,22 @@ Model use at data-build time:
 - HCL Mangalia nr. 27/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 28/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 28/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 286/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 288/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 289/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 29/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 3/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 3/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 30/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 31/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 313/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 314/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173822,6 +174131,7 @@ Model use at data-build time:
 - HCL Mangalia nr. 347/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 347/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 349/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 35/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 35/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 35/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 35/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173838,15 +174148,18 @@ Model use at data-build time:
 - HCL Mangalia nr. 366/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 368/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 369/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 37/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 370/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 38/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 381/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 383/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 388/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 39/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 390/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 4/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173859,10 +174172,13 @@ Model use at data-build time:
 - HCL Mangalia nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 42/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 43/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 44/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 449/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 45/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 453/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 454/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173871,15 +174187,19 @@ Model use at data-build time:
 - HCL Mangalia nr. 46/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 47/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 47/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 48/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 48/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 49/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 5/2014: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 5/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 5/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 50/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 51/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 51/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173888,12 +174208,15 @@ Model use at data-build time:
 - HCL Mangalia nr. 53/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 54/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 54/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 55/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 59/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 59/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173947,7 +174270,9 @@ Model use at data-build time:
 - HCL Mangalia nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 84/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 85/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 85/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 86/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 86/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 86/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 86/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -173973,6 +174298,7 @@ Model use at data-build time:
 - HCL Mangalia nr. 94/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 97/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mangalia nr. 98/2016: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 98/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mangalia nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174118,95 +174444,374 @@ Model use at data-build time:
 - HCL Medgidia nr. 99/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mereni nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mereni nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 1/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 1/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 10/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 100/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 101/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 102/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 11/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 11/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 12/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 12/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 13/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 14/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 14/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 16/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 17/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 18/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 18/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 18/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 19/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 2/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 2/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 2/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 2/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 20/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 20/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 21/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 21/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 21/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 22/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 22/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 23/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 23/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 24/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 24/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 25/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 25/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 26/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 26/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 26/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 27/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 27/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 28/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 28/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 29/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 29/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 3/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 3/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 30/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 30/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 31/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 31/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 31/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 32/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 32/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 32/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 33/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 33/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 34/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 34/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 34/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 35/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 35/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 35/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 36/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 36/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 36/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 37/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 38/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 39/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 39/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 39/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 40/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 40/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 40/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 41/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 41/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 41/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 42/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 42/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 43/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 43/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 43/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 44/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 44/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 45/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 45/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 45/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 46/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 46/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 46/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 47/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 47/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 47/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 48/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 48/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 49/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 49/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 49/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 49/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 5/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 5/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 5/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 50/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 50/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 50/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 50/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 51/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 51/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 52/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 52/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 52/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 52/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 53/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 53/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 53/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 54/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 54/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 55/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 55/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 55/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 55/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 56/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 56/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 56/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 56/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 57/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 57/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 57/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 58/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 58/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 59/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 59/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 6/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 6/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 60/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 60/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 61/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 61/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 62/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 62/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 63/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 63/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 64/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 64/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 65/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 65/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 66/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 66/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 67/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 67/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 68/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 68/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 69/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 69/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 7/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 7/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 70/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 70/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 71/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 71/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 72/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 72/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 73/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 73/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 74/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 74/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 75/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 75/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 76/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 76/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 77/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 77/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 78/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 78/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 79/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 79/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 8/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 8/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 80/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 80/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 81/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 81/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 82/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 82/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 83/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 84/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174222,6 +174827,10 @@ Model use at data-build time:
 - HCL Mihai Viteazu nr. 89/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 89/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 9/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 9/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 9/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihai Viteazu nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 90/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 90/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 91/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174237,191 +174846,401 @@ Model use at data-build time:
 - HCL Mihai Viteazu nr. 98/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihai Viteazu nr. 99/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 1/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 1/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 1/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 1/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 10/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 10/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 10/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 100/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 100/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 100/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 100/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 100/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 101/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 101/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 101/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 101/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 102/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 102/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 102/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 102/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 102/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 103/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 103/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 103/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 103/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 103/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 104/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 104/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 104/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 104/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 104/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 105/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 105/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 105/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 105/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 105/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 106/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 106/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 106/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 106/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 106/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 107/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 107/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 107/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 107/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 107/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 108/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 108/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 108/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 108/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 108/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 108/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 109/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 109/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 109/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 109/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 109/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 110/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 110/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 110/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 110/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 111/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 111/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 111/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 111/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 112/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 112/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 112/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 112/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 113/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 113/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 113/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 113/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 114/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 114/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 114/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 115/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 115/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 115/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 116/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 116/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 116/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 117/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 117/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 117/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 118/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 118/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 118/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 119/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 119/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 119/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 119/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 12/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 12/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 12/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 12/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 120/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 120/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 120/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 121/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 121/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 121/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 122/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 122/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 122/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 123/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 123/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 123/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 123/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 124/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 124/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 124/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 125/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 125/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 125/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 125/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 126/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 126/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 126/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 127/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 127/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 127/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 128/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 128/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 128/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 129/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 129/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 129/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 13/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 13/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 13/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 130/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 130/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 130/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 131/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 131/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 131/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 132/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 132/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 132/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 133/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 133/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 133/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 134/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 134/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 134/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 135/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 135/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 135/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 136/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 136/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 136/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 137/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 137/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 137/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 138/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 138/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 138/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 139/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 139/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 139/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 14/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 140/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 140/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 140/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 141/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 141/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 141/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 142/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 142/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 142/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 142/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 143/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 143/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 143/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 144/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 144/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 144/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 145/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 145/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 145/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 145/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 146/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 146/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 146/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 147/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 147/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 147/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 147/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 148/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 148/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 148/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 148/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 149/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 149/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 149/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 150/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 150/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 150/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 151/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 151/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 151/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 152/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 152/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 152/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 153/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 153/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 153/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 153/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 154/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 154/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 154/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 154/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 155/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 155/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 155/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 156/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 156/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 156/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 157/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 157/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 157/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 158/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 158/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 158/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 159/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 159/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 159/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 16/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 16/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 16/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 160/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 160/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 160/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 161/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 161/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 161/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 162/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 162/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 163/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 164/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 165/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 166/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 167/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 168/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 168/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 169/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 17/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 17/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 17/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 170/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 171/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 172/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 173/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 174/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 175/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 176/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 177/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 178/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 179/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 18/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 18/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 18/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 18/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 18/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 180/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 181/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 182/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174432,7 +175251,10 @@ Model use at data-build time:
 - HCL Mihail Kogălniceanu nr. 187/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 188/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 189/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 19/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 19/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 19/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174445,251 +175267,619 @@ Model use at data-build time:
 - HCL Mihail Kogălniceanu nr. 196/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 2/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 2/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 2/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 2/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 2/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 2/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 20/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 20/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 20/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 20/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 23/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 23/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 23/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 23/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 24/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 24/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 24/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 24/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 25/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 25/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 25/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 25/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 26/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 26/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 26/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 26/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 26/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 27/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 27/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 27/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 27/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 28/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 28/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 28/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 28/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 29/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 29/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 29/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 29/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 3/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 3/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 3/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 3/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 30/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 30/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 30/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 30/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 31/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 31/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 31/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 31/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 31/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 32/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 32/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 32/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 32/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 32/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 33/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 33/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 33/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 33/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 34/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 34/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 34/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 34/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 34/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 35/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 35/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 35/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 35/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 35/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 36/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 36/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 36/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 36/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 36/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 37/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 37/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 37/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 38/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 38/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 38/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 39/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 39/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 39/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 39/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 39/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 4/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 4/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 40/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 40/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 40/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 40/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 40/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 41/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 41/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 41/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 41/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 41/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 42/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 42/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 42/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 42/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 43/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 43/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 43/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 43/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 43/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 44/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 44/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 44/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 44/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 45/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 46/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 46/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 46/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 46/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 46/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 47/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 47/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 47/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 47/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 47/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 49/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 49/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 49/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 49/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 49/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 49/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 5/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 5/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 5/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 5/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 5/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 50/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 50/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 50/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 50/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 50/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 50/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 51/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 51/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 51/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 51/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 52/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 52/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 52/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 52/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 52/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 52/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 55/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 55/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 55/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 55/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 55/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 55/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 56/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 56/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 56/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 56/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 56/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 56/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 57/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 57/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 57/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 57/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 57/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 58/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 58/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 58/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 58/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 6/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 6/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 6/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 6/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 60/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 60/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 60/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 60/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 61/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 61/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 61/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 61/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 62/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 62/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 62/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 62/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 63/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 63/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 63/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 63/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 64/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 64/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 64/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 64/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 64/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 65/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 65/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 65/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 65/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 65/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 66/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 66/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 66/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 66/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 66/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 67/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 67/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 67/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 67/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 67/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 68/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 68/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 68/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 68/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 68/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 69/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 69/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 69/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 69/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 69/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 69/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 7/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 7/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 7/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 7/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 70/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 70/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 70/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 70/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 70/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 71/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 71/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 71/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 71/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 71/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 73/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 73/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 73/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 73/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 73/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 77/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 77/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 77/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 77/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 77/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 78/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 78/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 78/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 78/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 78/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 79/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 79/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 79/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 79/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 79/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 8/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 8/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 8/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 8/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 80/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 80/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 80/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 80/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 80/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 80/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 81/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 81/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 81/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 81/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 81/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 82/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 82/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 82/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 82/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 82/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 83/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 83/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 83/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 83/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 84/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 84/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 84/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 84/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 84/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 85/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 85/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 85/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 85/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 85/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 86/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 86/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 86/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 86/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 86/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 87/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 87/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 87/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 87/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 87/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 88/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 88/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 88/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 88/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 88/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 89/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 89/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 89/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 89/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 89/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 9/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 9/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 9/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 9/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 9/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 90/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 90/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 90/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 90/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 90/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 91/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 91/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 91/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 91/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 91/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 92/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 92/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 92/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 92/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 92/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 93/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 93/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 93/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 93/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 93/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 94/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 94/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 94/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 94/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 94/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 95/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 95/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 95/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 95/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 95/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 96/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 96/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 96/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 96/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 96/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 97/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 97/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 97/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 97/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 97/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 98/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 98/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 98/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 98/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 99/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 99/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 99/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 99/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Mihail Kogălniceanu nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Mihail Kogălniceanu nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Murfatlar nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Murfatlar nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -174837,129 +176027,1939 @@ Model use at data-build time:
 - HCL Murfatlar nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Murfatlar nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Murfatlar nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 1/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 108/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 109/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 109/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 109/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 110/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 110/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 110/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 110/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 112/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 112/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 112/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 112/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 117/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 117/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 117/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 118/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 118/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 118/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 119/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 119/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 119/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 119/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 119/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 120/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 120/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 120/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 120/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 121/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 121/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 121/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 121/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 122/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 122/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 122/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 122/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 123/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 123/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 123/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 123/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 123/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 123/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 123/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 124/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 125/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 125/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 125/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 125/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 126/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 127/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 127/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 127/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 127/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 128/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 130/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 130/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 130/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 130/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 131/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 131/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 133/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 134/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 135/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 135/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 135/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 135/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 136/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 137/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 137/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 137/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 137/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 138/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 138/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 138/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 138/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 139/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 142/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 143/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 143/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 145/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 145/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 145/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 145/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 145/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 146/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 147/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 148/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 149/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 151/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 152/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 153/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 154/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 154/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 155/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 155/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 156/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 156/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 156/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 156/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 156/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 156/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 157/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 157/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 157/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 158/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 159/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 160/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 161/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 162/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 163/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 164/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 164/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 164/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 164/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 165/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 166/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 166/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 167/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 167/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 167/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 167/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 168/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 169/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 169/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 17/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 170/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 171/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 172/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 173/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 174/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 175/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 176/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 177/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 178/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 179/2016: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 179/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 180/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 181/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 181/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 182/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 183/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 184/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 185/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 185/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 186/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 187/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 188/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 188/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 188/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 188/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 188/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 189/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 189/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 190/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 191/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 191/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 192/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 193/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 193/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 194/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 194/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 194/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 194/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 194/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 195/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 195/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 195/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 195/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 195/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 195/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 195/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 196/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 197/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 198/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 199/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 199/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 2/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 2/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 2/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 2/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 2/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 2/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 200/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 201/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 202/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 203/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 204/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 205/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 206/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 207/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 208/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 209/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 210/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 210/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 210/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 210/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 210/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 210/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 211/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 211/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 211/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 211/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 211/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 211/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 212/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 212/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 213/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 213/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 213/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 213/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 213/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 214/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 214/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 214/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 214/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 214/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 214/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 215/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 215/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 215/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 215/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 216/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 216/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 216/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 216/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 217/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 217/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 217/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 217/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 218/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 218/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 218/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 218/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 218/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 218/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 219/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 220/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 220/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 220/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 220/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 220/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 221/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 222/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 223/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 224/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 224/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 224/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 224/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 225/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 225/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 226/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 226/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 226/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 226/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 226/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 227/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 227/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 227/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 227/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 228/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 228/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 228/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 228/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 228/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 228/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 229/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 230/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 230/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 230/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 230/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 230/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 230/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 231/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 231/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 231/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 231/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 231/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 232/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 233/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 233/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 233/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 233/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 233/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 234/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 234/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 234/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 234/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 234/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 235/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 235/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 235/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 235/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 236/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 236/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 236/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 236/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 237/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 237/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 237/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 237/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 237/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 238/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 238/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 238/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 238/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 239/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 239/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 239/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 239/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 24/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 24/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 24/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 240/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 240/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 240/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 240/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 241/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 241/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 241/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 241/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 242/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 242/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 242/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 242/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 243/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 243/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 243/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 243/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 244/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 244/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 244/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 244/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 245/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 245/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 245/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 245/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 246/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 246/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 246/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 246/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 246/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 247/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 247/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 247/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 247/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 247/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 248/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 248/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 248/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 248/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 248/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 249/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 249/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 249/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 249/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 25/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 250/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 250/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 250/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 250/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 251/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 251/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 251/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 251/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 252/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 252/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 252/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 252/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 253/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 253/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 253/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 253/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 254/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 254/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 254/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 254/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 255/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 255/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 255/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 256/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 256/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 256/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 257/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 257/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 257/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 258/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 258/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 258/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 259/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 259/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 259/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 26/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 260/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 260/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 260/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 261/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 261/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 262/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 262/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 262/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 263/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 263/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 263/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 264/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 264/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 264/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 264/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 265/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 265/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 265/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 265/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 266/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 266/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 266/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 266/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 267/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 267/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 267/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 267/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 268/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 268/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 268/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 268/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 269/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 269/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 269/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 269/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 270/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 270/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 270/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 270/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 271/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 271/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 271/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 271/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 271/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 272/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 272/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 272/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 272/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 272/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 273/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 273/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 273/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 273/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 274/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 274/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 274/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 274/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 274/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 275/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 276/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 276/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 276/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 276/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 277/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 277/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 277/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 277/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 278/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 278/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 278/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 278/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 279/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 279/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 279/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 279/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 280/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 280/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 280/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 280/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 281/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 281/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 281/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 282/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 282/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 283/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 283/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 284/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 284/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 285/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 285/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 285/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 285/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 285/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 286/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 286/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 286/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 287/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 287/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 287/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 287/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 288/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 288/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 288/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 288/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 289/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 289/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 289/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 289/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 290/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 290/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 290/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 290/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 290/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 291/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 291/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 291/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 291/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 291/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 292/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 292/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 292/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 292/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 293/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 293/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 293/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 293/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 293/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 294/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 294/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 294/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 294/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 295/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 295/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 295/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 295/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 296/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 296/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 296/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 296/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 297/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 297/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 297/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 297/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 298/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 298/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 298/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 298/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 299/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 299/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 299/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 299/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 299/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 300/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 300/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 301/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 301/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 301/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 301/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 302/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 302/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 302/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 302/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 303/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 303/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 303/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 303/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 304/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 304/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 304/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 305/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 305/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 305/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 306/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 306/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 307/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 307/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 307/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 308/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 308/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 308/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 309/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 309/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 309/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 31/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 31/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 31/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 31/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 310/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 310/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 310/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 310/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 311/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 311/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 311/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 311/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 312/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 312/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 312/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 312/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 313/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 313/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 313/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 313/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 314/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 314/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 314/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 314/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 315/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 315/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 315/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 315/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 316/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 316/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 317/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 317/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 318/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 318/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 319/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 319/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 320/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 320/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 321/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 321/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 322/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 323/2015: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 323/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 324/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 325/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 326/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 327/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 328/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 329/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 33/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 330/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 331/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 332/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 333/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 334/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 335/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 336/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 339/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 339/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 339/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 340/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 340/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 340/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 341/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 341/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 341/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 342/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 342/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 342/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 343/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 343/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 344/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 345/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 345/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 346/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 346/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 347/2017: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 347/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 35/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 355/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 356/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 357/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 358/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 359/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 36/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 360/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 361/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 362/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 41/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 47/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 5/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 5/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 5/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 50/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 50/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 50/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 50/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 50/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 50/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 57/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 58/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 6/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 6/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 6/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 61/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 61/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 61/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 63/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 63/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 63/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 64/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 64/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 64/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 64/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 65/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 67/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 67/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 67/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 67/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 69/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 69/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 71/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 73/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 74/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 8/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 83/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 83/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 85/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 88/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 91/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 92/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Năvodari nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2018: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCL Năvodari nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Negru Vodă nr. 1/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Negru Vodă nr. 1/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCL Negru Vodă nr. 1/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -454073,6 +457073,32 @@ Model use at data-build time:
 - Decizia CNSC nr. 488/C1/357 din 28.02.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 535/C2/452 din 04.03.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 604/C5/263 din 08.03.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 782/C11/465 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 783/C2/745 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 784/C10/423 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 785/C5/181 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 786/C4/652 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 787/C3/606 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 788/C7/731 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 789/C1/593 din 06.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 790/C9/918 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 791/C9/926 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 792/C4/553 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 793/C2/699 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 794/C5/897 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 795/C2/640 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 796/C2/832 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 797/C7/620 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 798/C4/543 din 07.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 799/C7/603 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 800/C1/514 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 801/C8/573 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 802/C5/489 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 803/C9/710 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 805/C5/3071 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 806/C1/427 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 807/C3/611 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 808/C3/633 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 809/C1/576 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 810/C5/694 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 811/C2/826 din 10.04.2023: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -468924,12 +471950,59 @@ Model use at data-build time:
 - Propunere legislativă L352/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L353/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L354/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L355/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L356/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L357/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L358/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L359/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L36/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L360/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L361/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L362/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L363/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L364/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L365/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L366/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L367/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L368/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L369/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L37/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L370/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L371/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L372/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L373/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L374/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L375/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L376/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L377/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L378/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L379/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L38/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L380/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L381/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L382/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L383/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L384/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L385/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L386/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L387/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L388/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L389/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L39/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L390/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L391/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L392/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L393/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L394/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L395/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L396/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L397/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L398/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L399/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L4/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L40/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L400/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L401/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L41/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L42/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L43/2018: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
@@ -469484,14 +472557,1467 @@ Model use at data-build time:
 - Propunere legislativă L538/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L539/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L54/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L540/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L541/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L542/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L543/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L544/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L545/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L546/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L547/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L548/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L549/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L55/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L550/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L551/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L552/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L553/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L554/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L555/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L556/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L557/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L558/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L559/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L56/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L560/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L561/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L562/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L563/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L564/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L565/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L566/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L567/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L568/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L569/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L57/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L570/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L571/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L572/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L573/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L574/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L575/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L576/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L577/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L578/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L579/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L58/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L580/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L581/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L582/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L583/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L584/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L585/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L586/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L587/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L588/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L589/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L59/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L590/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L591/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L592/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L593/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L594/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L595/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L596/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L597/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L598/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L599/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L6/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L60/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L600/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L601/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L602/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L603/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L604/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L605/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L606/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L607/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L608/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L609/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L61/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L610/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L611/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L612/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L613/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L614/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L615/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L616/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L617/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L618/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L619/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L62/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L620/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L621/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L622/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L623/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L624/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L625/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L626/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L627/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L628/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L629/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L63/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L64/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L65/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L66/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L67/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L68/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L69/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L7/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L70/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L71/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L72/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L73/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L74/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L75/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L76/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L77/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L78/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L79/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L8/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L80/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L81/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L82/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L83/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L84/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L85/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L86/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L87/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L88/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L89/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L9/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L90/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L91/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L92/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L93/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L94/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L95/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L96/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L97/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L98/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L99/2019: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L1/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L10/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L100/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L101/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L102/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L103/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L104/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L105/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L106/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L107/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L108/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L109/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L11/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L110/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L111/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L112/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L113/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L114/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L115/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L116/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L117/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L118/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L119/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L12/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L120/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L121/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L122/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L123/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L124/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L125/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L126/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L127/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L128/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L129/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L13/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L130/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L131/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L132/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L133/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L134/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L135/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L136/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L137/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L138/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L139/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L14/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L140/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L141/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L142/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L143/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L144/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L145/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L146/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L147/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L148/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L149/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L15/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L150/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L151/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L152/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L153/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L154/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L155/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L156/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L157/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L158/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L159/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L16/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L160/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L161/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L162/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L163/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L164/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L165/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L166/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L167/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L168/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L169/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L17/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L170/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L171/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L172/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L173/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L174/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L175/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L176/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L177/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L178/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L179/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L18/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L180/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L181/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L182/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L183/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L184/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L185/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L186/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L187/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L188/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L189/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L19/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L190/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L191/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L192/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L193/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L194/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L195/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L196/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L197/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L198/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L199/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L2/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L20/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L200/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L201/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L202/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L203/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L204/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L205/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L206/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L207/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L208/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L209/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L21/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L210/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L211/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L212/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L213/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L214/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L215/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L216/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L217/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L218/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L219/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L22/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L220/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L221/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L222/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L223/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L224/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L225/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L226/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L227/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L228/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L229/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L23/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L230/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L231/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L232/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L233/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L234/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L235/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L236/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L237/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L238/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L239/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L24/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L240/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L241/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L242/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L243/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L244/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L245/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L246/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L247/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L248/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L249/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L25/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L250/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L251/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L252/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L253/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L254/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L255/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L256/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L257/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L258/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L259/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L26/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L260/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L261/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L262/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L263/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L264/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L265/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L266/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L267/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L268/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L269/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L27/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L270/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L271/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L272/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L273/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L274/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L275/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L276/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L277/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L278/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L279/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L28/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L280/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L281/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L282/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L283/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L284/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L285/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L286/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L287/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L288/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L289/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L29/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L290/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L291/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L292/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L293/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L294/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L295/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L296/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L297/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L298/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L299/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L3/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L30/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L300/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L301/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L302/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L303/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L304/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L305/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L306/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L307/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L308/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L309/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L31/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L310/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L311/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L312/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L313/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L314/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L315/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L316/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L317/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L318/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L319/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L32/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L320/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L321/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L322/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L323/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L324/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L325/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L326/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L327/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L328/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L329/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L33/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L330/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L331/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L332/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L333/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L334/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L335/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L336/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L337/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L338/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L339/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L34/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L340/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L341/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L342/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L343/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L344/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L345/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L346/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L347/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L348/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L349/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L35/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L350/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L351/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L352/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L353/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L354/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L355/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L356/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L357/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L358/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L359/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L36/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L360/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L361/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L362/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L363/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L364/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L365/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L366/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L367/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L368/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L369/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L37/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L370/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L371/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L372/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L373/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L374/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L375/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L376/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L377/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L378/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L379/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L38/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L380/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L381/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L382/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L383/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L384/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L385/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L386/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L387/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L388/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L389/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L39/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L390/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L391/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L392/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L393/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L394/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L395/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L396/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L397/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L398/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L399/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L4/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L40/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L400/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L401/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L402/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L403/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L404/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L405/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L406/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L407/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L408/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L409/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L41/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L410/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L411/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L412/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L413/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L414/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L415/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L416/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L417/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L418/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L419/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L42/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L420/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L421/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L422/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L423/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L424/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L425/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L426/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L427/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L428/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L429/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L43/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L430/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L431/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L432/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L433/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L434/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L435/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L436/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L437/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L438/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L439/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L44/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L440/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L441/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L442/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L443/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L444/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L445/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L446/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L447/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L448/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L449/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L45/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L450/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L451/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L452/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L453/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L454/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L455/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L456/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L457/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L458/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L459/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L46/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L460/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L461/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L462/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L463/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L464/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L465/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L466/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L467/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L468/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L469/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L47/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L470/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L471/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L472/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L473/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L474/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L475/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L476/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L477/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L478/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L479/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L48/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L480/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L481/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L482/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L483/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L484/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L485/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L486/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L487/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L488/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L489/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L49/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L490/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L491/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L492/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L493/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L494/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L495/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L496/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L497/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L498/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L499/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L5/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L50/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L500/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L501/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L502/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L503/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L504/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L505/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L506/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L507/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L508/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L509/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L51/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L510/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L511/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L512/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L513/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L514/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L515/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L516/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L517/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L518/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L519/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L52/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L520/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L521/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L522/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L523/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L524/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L525/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L526/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L527/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L528/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L529/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L53/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L530/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L531/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L532/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L533/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L534/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L535/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L536/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L537/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L538/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L539/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L54/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L540/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L541/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L542/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L543/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L544/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L545/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L546/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L547/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L548/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L549/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L55/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L550/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L551/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L552/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L553/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L554/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L555/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L556/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L557/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L558/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L559/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L56/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L560/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L561/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L562/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L563/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L564/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L565/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L566/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L567/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L568/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L569/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L57/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L570/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L571/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L572/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L573/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L574/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L575/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L576/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L577/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L578/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L579/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L58/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L580/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L581/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L582/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L583/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L584/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L585/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L586/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L587/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L588/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L589/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L59/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L590/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L591/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L592/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L593/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L594/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L595/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L596/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L597/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L598/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L599/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L6/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L60/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L600/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L601/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L602/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L603/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L604/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L605/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L606/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L607/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L608/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L609/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L61/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L610/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L611/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L612/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L613/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L614/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L615/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L616/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L617/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L618/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L619/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L62/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L620/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L621/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L622/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L623/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L624/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L625/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L626/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L627/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L628/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L629/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L63/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L630/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L631/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L632/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L633/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L634/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L635/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L636/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L637/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L638/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L639/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L64/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L640/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L641/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L642/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L643/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L644/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L645/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L646/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L647/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L648/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L649/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L65/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L650/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L651/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L652/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L653/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L654/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L655/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L656/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L657/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L658/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L659/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L66/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L660/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L661/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L662/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L663/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L664/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L665/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L666/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L667/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L668/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L669/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L67/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L670/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L672/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L673/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L674/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L675/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L676/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L677/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L678/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L679/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L68/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L680/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L681/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L682/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L683/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L684/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L685/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L686/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L687/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L688/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L689/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L69/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L690/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L691/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L692/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L693/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L694/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L695/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L696/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L697/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L698/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L699/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L7/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L70/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L700/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L701/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L702/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L703/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L704/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L705/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L706/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L71/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L72/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L73/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L74/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L75/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L76/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L77/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L78/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L79/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L8/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L80/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L81/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L82/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L83/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L84/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L85/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L86/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L87/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L88/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L89/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L9/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L90/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L91/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L92/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L93/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L94/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L95/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L96/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L97/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L98/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L99/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L671/2020: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L1/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L10/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L100/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L101/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L102/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L103/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L104/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L105/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L106/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L107/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L108/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L109/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L11/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L110/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L111/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L112/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L113/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L114/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L115/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L116/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L117/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L118/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L119/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L12/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L120/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L121/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L122/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L123/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L124/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L125/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L126/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L127/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L128/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L129/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L13/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L130/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L131/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L132/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L133/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L134/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L135/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L136/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L137/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L138/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L139/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L14/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L140/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L141/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L142/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L143/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L144/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L145/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L146/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L147/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L148/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L149/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L15/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L150/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L151/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L152/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L153/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L154/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L155/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L156/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L157/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L158/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L159/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L16/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L160/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L161/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L162/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L163/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L164/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L165/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L166/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L167/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L168/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L169/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L17/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L170/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L171/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L172/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L173/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L174/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L175/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L176/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L177/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L178/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L179/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L18/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L180/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L181/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L182/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L183/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L184/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L185/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L186/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L187/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L188/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L189/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L19/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L190/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L191/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L192/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L193/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L194/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L195/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L196/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L197/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L198/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L199/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L2/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L20/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L200/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L201/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L202/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L203/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L204/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L205/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L206/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L207/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L208/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L209/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L21/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L210/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L211/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L212/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L213/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L214/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L215/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L216/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L217/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L218/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L219/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L22/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L220/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L221/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L222/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L223/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L224/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L225/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L226/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L227/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L228/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L229/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L23/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L230/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L231/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L232/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L233/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L234/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L235/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L236/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L237/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L238/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L239/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L24/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L240/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L241/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L242/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L243/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L244/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L245/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L246/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L247/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L248/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L249/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L25/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L250/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L251/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L252/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L253/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L254/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L255/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L256/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L257/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L258/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L259/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L26/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L260/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L261/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L262/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L263/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L264/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L265/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L266/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L267/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L268/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L269/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L27/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L270/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L271/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L272/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L273/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L274/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L275/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L276/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L277/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L278/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L279/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L28/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L280/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L281/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L282/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L283/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L284/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L285/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L286/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L287/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L288/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L289/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L29/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L290/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L291/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L292/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L293/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L294/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L295/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L296/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L297/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L298/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L299/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L3/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L30/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L300/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L301/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L302/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L303/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L304/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L305/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L306/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L307/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L308/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L309/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L31/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L310/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L311/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L312/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L313/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L314/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L315/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L316/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L317/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L318/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L319/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L32/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L320/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L321/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L322/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L323/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L324/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L325/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L326/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L327/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L328/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L329/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L33/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L330/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L331/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L332/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L333/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L334/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L335/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L336/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L337/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L338/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L339/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L34/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L340/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L341/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L342/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L343/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L344/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L345/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L346/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L347/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L348/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L349/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L35/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L350/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L351/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L352/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L353/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L354/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L355/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L356/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L357/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L358/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L359/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L36/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L360/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L361/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L362/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L363/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L364/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L365/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L366/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L367/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L368/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L369/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L37/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L370/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L371/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L372/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L373/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L374/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L375/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L376/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L377/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L378/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L379/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L38/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L380/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L381/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L382/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L383/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L384/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L385/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L386/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L387/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L388/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L389/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L39/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L390/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L391/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L392/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L393/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L394/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L395/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L396/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L397/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L398/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L399/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L4/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L40/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L400/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L401/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L402/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L403/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L404/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L405/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L406/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L407/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L408/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L409/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L41/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L410/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L411/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L412/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L413/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L414/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L415/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L416/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L417/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L418/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L419/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L42/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L420/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L421/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L422/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L423/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L424/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L425/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L426/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L427/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L428/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L429/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L43/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L430/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L431/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L432/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L433/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L434/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L435/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L436/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L437/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L438/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L439/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L44/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L440/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L441/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L442/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L443/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L444/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L445/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L446/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L447/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L448/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L449/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L45/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L450/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L451/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L452/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L453/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L454/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L455/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L456/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L457/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L458/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L459/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L46/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L460/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L461/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L462/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L463/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L464/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L465/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L466/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L467/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L468/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L469/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L47/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L470/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L471/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L472/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L473/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L474/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L475/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L476/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L477/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L478/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L479/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L48/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L480/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L481/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L482/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L483/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L484/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L485/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L486/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L487/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L488/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L489/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L49/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L490/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L491/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L492/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L493/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L494/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L495/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L496/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L497/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L498/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L499/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L5/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L50/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L500/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L501/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L502/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L503/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L504/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L505/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L506/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L507/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L508/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L509/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L51/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L510/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L511/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L512/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L513/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L514/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L515/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L516/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L517/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L518/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L519/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L52/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L520/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L521/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L522/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L523/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L524/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L525/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L526/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L527/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L528/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L529/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L53/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L530/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L531/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L533/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L534/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L535/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L536/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L537/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L538/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L539/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L54/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L540/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L541/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L542/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L543/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L544/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L545/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L546/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L547/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L548/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L549/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L55/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L550/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L551/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L552/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L553/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L554/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L555/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L556/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L557/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L558/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L559/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L56/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L560/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L561/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L562/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L563/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L564/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L565/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L567/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L57/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L58/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L59/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L6/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L60/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L61/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L62/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L63/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L64/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L65/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L66/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L67/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L68/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L69/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L7/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L70/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L71/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L72/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L73/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L74/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L75/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L76/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L77/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L78/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L79/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L8/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L80/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L81/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L82/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L83/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L84/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L85/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L86/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L87/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L88/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L89/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L9/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L90/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L91/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L92/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L93/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L94/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L95/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L96/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L97/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L98/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L99/2021: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L1/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L10/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L100/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L101/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L102/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L103/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L104/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L105/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L106/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L107/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L108/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L109/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L11/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L110/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L111/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L112/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L113/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L114/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L115/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L116/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L117/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L118/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L119/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L12/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L120/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L121/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L122/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L123/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L124/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L125/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L126/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L127/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L128/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L129/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L13/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L130/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L131/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L132/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L133/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L134/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L135/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L136/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L137/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L138/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L139/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Proiect de lege L14/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L140/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L141/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L142/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L143/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
+- Propunere legislativă L144/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Propunere legislativă L366/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L5/2022: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.
 - Proiect de lege L11/2023: built by Lexifina's drafts source lane and Lexifina's code from the held documents; no model output is used as legal text; 0 model calls.

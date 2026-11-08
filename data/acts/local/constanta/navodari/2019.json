@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2019",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-142-2019",
+"path": "local/constanta/navodari/2019/142",
+"kind": "local",
+"year": "2019",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 142/2019",
+"short": "HCL Năvodari nr. 142/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-143-2019",
+"path": "local/constanta/navodari/2019/143",
+"kind": "local",
+"year": "2019",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2019",
+"short": "HCL Năvodari nr. 143/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-144-2019",
+"path": "local/constanta/navodari/2019/144",
+"kind": "local",
+"year": "2019",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2019",
+"short": "HCL Năvodari nr. 144/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-174-2019",
+"path": "local/constanta/navodari/2019/174",
+"kind": "local",
+"year": "2019",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 174/2019",
+"short": "HCL Năvodari nr. 174/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-175-2019",
+"path": "local/constanta/navodari/2019/175",
+"kind": "local",
+"year": "2019",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 175/2019",
+"short": "HCL Năvodari nr. 175/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-219-2019",
+"path": "local/constanta/navodari/2019/219",
+"kind": "local",
+"year": "2019",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 219/2019",
+"short": "HCL Năvodari nr. 219/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-09-30",
+"latest": "2019-09-30",
+"portal": "https://www.primaria-navodari.ro/hotararea-nr-219-30-09-2019-privind-anularea-accesoriilor-aferente-obligatiilor-bugetare-principale-restante-la-31-12-2018-datorate-bugetului-local/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-275-2019",
+"path": "local/constanta/navodari/2019/275",
+"kind": "local",
+"year": "2019",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 275/2019",
+"short": "HCL Năvodari nr. 275/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-18",
+"latest": "2019-12-18",
+"portal": "https://www.primaria-navodari.ro/hotarare-nr-275-18-12-2019-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2020/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

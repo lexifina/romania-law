@@ -1,0 +1,61 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Propunere legislativă privind utilizarea, conservarea şi protecţia solului
+
+**Became:** [Legea nr. 246/2020](../../../../lege/2020/246/) (`legea-246-2020`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-246-2020`.
+
+Propunere legislativă L152/2020 · initiator: Membri ai Parlamentului · 10 published stages, 2020-02-03 to 2020-11-10 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L152&an_cls=2020>
+
+- Senate number: L152/2020
+- Type: Propunere legislativă
+- Character: Ordinară
+- Urgent procedure: Nu
+- First chamber: Senat
+- Legislative Council opinion: 206/12.03.2020
+- Stage in the bill file: A devenit Legea nr.246/10.11.2020 publicatã în M.O. nr.1057/10.11.2020
+- Initiators: 1 member(s) of Parliament, named in the bill file at the source link (credited here as a body)
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2020-l152-2020/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2020-02-03 | first record in the bill file |
+| 2020-02-04 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive |
+| 2020-02-11 | documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ |
+| 2020-04-14 | documents published: Aviz comisie |
+| 2020-04-28 | documents published: Aviz comisie |
+| 2020-05-19 | adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2020-05-27 | registered at the Chamber of Deputies |
+| 2020-10-20 | adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2020-10-22 | sent for promulgation |
+| 2020-11-10 | promulgated, becomes Legea nr. 246/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [afp-ff4baa54.md](afp-ff4baa54.md) | Adresă privind forma promulgată (AFP), as published |
+| [am-be202bea.md](am-be202bea.md) | Adresă către Camera Deputaților (AM), as published |
+| [at-d1a6edae.md](at-d1a6edae.md) | Document (AT), as published |
+| [axs-144bc48b.md](axs-144bc48b.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [cr-3d29bf1c.md](cr-3d29bf1c.md) | Raport comisie sesizată pe fond (CR), as published |
+| [dp-f268c417.md](dp-f268c417.md) | Decret de promulgare (DP), as published |
+| [em-214c8a2a.md](em-214c8a2a.md) | Expunere de motive (EM), as published |
+| [es-ff41e923.md](es-ff41e923.md) | Aviz Consiliul Economic și Social (ES), as published |
+| [fg-01cc233a.md](fg-01cc233a.md) | Forma inițiatorului (FG), as published |
+| [fp-38011955.md](fp-38011955.md) | Forma promulgată (FP), as published |
+| [fs-18626d4c.md](fs-18626d4c.md) | Forma adoptată de Senat (FS), as published |
+| [lg-78fb0926.md](lg-78fb0926.md) | Aviz Consiliul Legislativ (LG), as published |
+| [lp-b454ffd8.md](lp-b454ffd8.md) | Forma trimisă la promulgare (LP), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2020-l152-2020`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Propunere legislativă L152/2020: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Propunere legislativă L152/2020: comments by private persons are not collected or published; initiators are credited as a body.

@@ -1,0 +1,52 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.186/2020 privind instituirea unor măsuri urgente pentru asigurarea necesarului de medici pe durata riscului epidemiologic generat de pandemia de COVID-19 și pentru modificarea art.11 din Legea nr.55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19
+
+**Became:** no adopted act is recorded for this draft.
+
+Proiect de lege L665/2020 · initiator: Guvernul României · 6 published stages, 2020-10-30 to 2021-02-01 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L665&an_cls=2020>
+
+- Senate number: L665/2020
+- Type: Proiect de lege
+- Character: -
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 1108/29.10.2020
+- Stage in the bill file: Trimis la Cameră pentru dezbatere
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2020-l665-2020/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2020-10-30 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2020-11-11 | documents published: Aviz comisie |
+| 2020-11-12 | documents published: Aviz comisie |
+| 2020-11-17 | documents published: Aviz comisie |
+| 2020-11-28 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2021-02-01 | registered at the Chamber of Deputies |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-bb7f818c.md](ad-bb7f818c.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [ca14-db20f4b3.md](ca14-db20f4b3.md) | Aviz comisie (CA14), as published |
+| [ca3-01357fbb.md](ca3-01357fbb.md) | Aviz comisie (CA3), as published |
+| [ca45-e041e657.md](ca45-e041e657.md) | Aviz comisie (CA45), as published |
+| [em-2cc2892d.md](em-2cc2892d.md) | Expunere de motive (EM), as published |
+| [fg-e5ceed19.md](fg-e5ceed19.md) | Forma inițiatorului (FG), as published |
+| [hg-79fe2447.md](hg-79fe2447.md) | Document (HG), as published |
+| [lg-cf7bda95.md](lg-cf7bda95.md) | Aviz Consiliul Legislativ (LG), as published |
+| [og-3159c49d.md](og-3159c49d.md) | Document (OG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2020-l665-2020`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L665/2020: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L665/2020: comments by private persons are not collected or published; initiators are credited as a body.

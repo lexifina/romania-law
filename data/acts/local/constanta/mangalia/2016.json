@@ -47,6 +47,73 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-13-2016",
+"path": "local/constanta/mangalia/2016/13",
+"kind": "local",
+"year": "2016",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 13/2016 privind desemnarea unui reprezentant al Consiliului Local Mangalia în Adunarea Generală a Acționarilor din cadrul S.C",
+"short": "HCL Mangalia nr. 13/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-07-04",
+"latest": "2016-07-04",
+"portal": "https://mangalia.ro/2016/07/hcl-1314-07-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-14-2016",
+"path": "local/constanta/mangalia/2016/14",
+"kind": "local",
+"year": "2016",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 14/2016",
+"short": "HCL Mangalia nr. 14/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-07-14",
+"latest": "2016-07-14",
+"portal": "https://mangalia.ro/2016/07/hcl-1414-07-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-15-2016",
+"path": "local/constanta/mangalia/2016/15",
+"kind": "local",
+"year": "2016",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 15/2016 privind desemnarea unui reprezentant din cadrul Consiliului Local Mangalia în Consiliul de Administrație al școlii postliceale FE.G. \"Education\" din municipiul Mangalia Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară din data de 14.07.2016 Având în vedere: e Expunerea de motive prezentată, e Proiectul de hotărâre inițiat de Primarului Municipiului Mangalia și aprobat de mem",
+"short": "HCL Mangalia nr. 15/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-07-14",
+"latest": "2016-07-14",
+"portal": "https://mangalia.ro/2016/07/hcl-1514-07-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-16-2016",
 "path": "local/constanta/mangalia/2016/16",
 "kind": "local",
@@ -314,6 +381,74 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-29-2016",
+"path": "local/constanta/mangalia/2016/29",
+"kind": "local",
+"year": "2016",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 29/2016",
+"short": "HCL Mangalia nr. 29/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-2922-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-30-2016",
+"path": "local/constanta/mangalia/2016/30",
+"kind": "local",
+"year": "2016",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 30/2016",
+"short": "HCL Mangalia nr. 30/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-3022-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-31-2016",
+"path": "local/constanta/mangalia/2016/31",
+"kind": "local",
+"year": "2016",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 31/2016 privind emiterea acordului Consiliului Local Mangalia în vedere intervenirii asupra do- meniului public și sau privat, pentru realizarea obiectivelor lucrărilor \"Extindere rețea canalizare menajeră zona DN 39B, Olimp-23August”, jud",
+"short": "HCL Mangalia nr. 31/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-3122-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-33-2016",
 "path": "local/constanta/mangalia/2016/33",
 "kind": "local",
@@ -380,6 +515,28 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-39-2016",
+"path": "local/constanta/mangalia/2016/39",
+"kind": "local",
+"year": "2016",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 39/2016 privind retragerea repartiției pentru locuința situată în Municipiul Mangalia, Str. Dimi- trie Cantemir, Nr. 3, BL 0D4, Ap. 13 și repartizarea către următorul de pe lista de priori- tăți Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară din data de 22.09.2016 Având în vedere: e Expunerea de motive prezentată, e Proiectul de hotărâre inițiat de Primarului Municipiului Mangalia",
+"short": "HCL Mangalia nr. 39/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-3922-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-41-2016",
 "path": "local/constanta/mangalia/2016/41",
 "kind": "local",
@@ -400,6 +557,73 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-43-2016",
+"path": "local/constanta/mangalia/2016/43",
+"kind": "local",
+"year": "2016",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 43/2016 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2016 al S.C",
+"short": "HCL Mangalia nr. 43/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-4322-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-44-2016",
+"path": "local/constanta/mangalia/2016/44",
+"kind": "local",
+"year": "2016",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 44/2016",
+"short": "HCL Mangalia nr. 44/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/05/hcl-nr-4404-04-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-45-2016",
+"path": "local/constanta/mangalia/2016/45",
+"kind": "local",
+"year": "2016",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 45/2016 privind aprobarea indicatorilor tehnico - economici pentru \"Studiul privind evaluarea potențialului de cogenerare în cadrul S.C",
+"short": "HCL Mangalia nr. 45/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-08-16",
+"latest": "2016-08-16",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-4522-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -425,6 +649,29 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-47-2016",
+"path": "local/constanta/mangalia/2016/47",
+"kind": "local",
+"year": "2016",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 47/2016",
+"short": "HCL Mangalia nr. 47/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-4722-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-48-2016",
 "path": "local/constanta/mangalia/2016/48",
 "kind": "local",
@@ -440,6 +687,72 @@
 "from": "2016-09-22",
 "latest": "2016-09-22",
 "portal": "https://mangalia.ro/2016/10/hcl-nr-4822-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-49-2016",
+"path": "local/constanta/mangalia/2016/49",
+"kind": "local",
+"year": "2016",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 49/2016 privind exprimarea acordului în vederea însușirii în domeniul public al municipiului Mangalia și în administrarea Consiliului Local al Municipiului Mangalia a imobilelor Grădina de vară Saturn și Grădina de vară Venus Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară din data de 22.09.2016 Având în vedere: e Expunerea de motive prezentată, e Proiectul de hotărâre inițiat de Pr",
+"short": "HCL Mangalia nr. 49/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-08-19",
+"latest": "2016-08-19",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-4922-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-50-2016",
+"path": "local/constanta/mangalia/2016/50",
+"kind": "local",
+"year": "2016",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 50/2016 privind aprobarea organizării anuale a unui târg de produse tradiționale sub denumi- rea \"Zilele Toamnei” Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară din data de 22.09.2016 Având în vedere: e Expunerea de motive prezentată, e Proiectul de hotărâre inițiat de Primarului Municipiului Mangalia și aprobat de mem- brii Consiliului Local Mangalia; e Referatul de specialitate î",
+"short": "HCL Mangalia nr. 50/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-5022-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-51-2016",
+"path": "local/constanta/mangalia/2016/51",
+"kind": "local",
+"year": "2016",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 51/2016 privind desemnarea reprezentanților autorității publice locale a Municipiului Mangalia în cadrul comisiilor pentru concurs pentru ocuparea funcției de director/ director adjunct din unitățile de învățământ din preuniversitar aflate în Municipiul Mangalia Consiliul Local al Municipiului Mangalia, întrunit în ședința extraordinară din data de 22.09.2016 Având în vedere: Expunerea de motive prezentat",
+"short": "HCL Mangalia nr. 51/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-5122-09-2016/",
 "council": "constanta/mangalia",
 "council_name": "Consiliul Local al Municipiului Mangalia",
 "flags": {
@@ -492,6 +805,29 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-54-2016",
+"path": "local/constanta/mangalia/2016/54",
+"kind": "local",
+"year": "2016",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 54/2016",
+"short": "HCL Mangalia nr. 54/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-22",
+"latest": "2016-09-22",
+"portal": "https://mangalia.ro/2016/10/hcl-nr-5422-09-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-90-2016",
 "path": "local/constanta/mangalia/2016/90",
 "kind": "local",
@@ -507,6 +843,28 @@
 "from": "2016-10-31",
 "latest": "2016-10-31",
 "portal": "https://mangalia.ro/2016/10/hcl-nr-9031-10-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-98-2016",
+"path": "local/constanta/mangalia/2016/98",
+"kind": "local",
+"year": "2016",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 98/2016 privind inventarierea în domeniul public al Municipiului Mangalia a unor suprafețe de teren Consiliul Local al Municipiului Mangalia, întrunit în ședința extraordinară din data de 04.11.2016 Având în vedere: expunerea de motive prezentată, proiectul de hotărâre inițiat de Primarului Municipiului Mangalia și aprobat de membrii ai Consiliului Local Mangalia, e adresa Agenției pentru Dezvoltare Regio",
+"short": "HCL Mangalia nr. 98/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-11-01",
+"latest": "2016-11-01",
+"portal": "https://mangalia.ro/2016/11/hcl-04-11-2016/",
 "council": "constanta/mangalia",
 "council_name": "Consiliul Local al Municipiului Mangalia",
 "flags": {
@@ -595,6 +953,28 @@
 "from": "2016-12-07",
 "latest": "2016-12-07",
 "portal": "https://mangalia.ro/2016/12/hcl-07-12-2016/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-138-2016",
+"path": "local/constanta/mangalia/2016/138",
+"kind": "local",
+"year": "2016",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 138/2016 privind aprobarea Concesionării unor suprafețe de teren în vederea realizării investiți- ei: \"Construire spații comerciale cu destinația de pompe funebre și florării - servicii fu- nerare” Consiliul Local al Municipiului Mangalia, întrunit în ședința ordinară din data de 21.12.2016 Având în vedere: Expunerea de motive prezentată, Proiectul de hotărâre inițiat de Primarului Municipiului Mangalia și",
+"short": "HCL Mangalia nr. 138/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-12-21",
+"latest": "2016-12-21",
+"portal": "https://mangalia.ro/2016/12/hcl-21-12-2016-2/",
 "council": "constanta/mangalia",
 "council_name": "Consiliul Local al Municipiului Mangalia",
 "flags": {

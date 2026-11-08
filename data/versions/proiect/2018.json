@@ -18546,6 +18546,345 @@
    ]
   },
   {
+   "slug": "proiect-parlament-2018-l355-2018",
+   "path": "proiect/parlament/2018/l355-2018",
+   "short": "Proiect de lege L355/2018",
+   "title": "Proiect de lege pentru completarea Legii nr.143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L355&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l356-2018",
+   "path": "proiect/parlament/2018/l356-2018",
+   "short": "Proiect de lege L356/2018",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.45/2018 pentru modificarea şi completarea unor acte normative cu impact asupra sistemului achizițiilor publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L356&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l357-2018",
+   "path": "proiect/parlament/2018/l357-2018",
+   "short": "Proiect de lege L357/2018",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.46/2018 privind înfiinţarea, organizarea şi funcţionarea Oficiului Naţional pentru Achiziţii Centralizate",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L357&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l358-2018",
+   "path": "proiect/parlament/2018/l358-2018",
+   "short": "Propunere legislativă L358/2018",
+   "title": "Propunere legislativă de modificarea şi completarea punctelor 20), 23) şi 27) ale articolului 2 din Legea nr.61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-16",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-21",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-01-09",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-01-10",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L358&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l359-2018",
+   "path": "proiect/parlament/2018/l359-2018",
+   "short": "Propunere legislativă L359/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.254/2013 privind executarea pedepselor şi a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L359&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "proiect-parlament-2018-l36-2018",
    "path": "proiect/parlament/2018/l36-2018",
    "short": "Propunere legislativă L36/2018",
@@ -18603,6 +18942,540 @@
    ]
   },
   {
+   "slug": "proiect-parlament-2018-l360-2018",
+   "path": "proiect/parlament/2018/l360-2018",
+   "short": "Propunere legislativă L360/2018",
+   "title": "Propunere legislativă pentru completarea art.105 alin.(2) din Legea nr.227/2015 privind Codul fiscal",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L360&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l361-2018",
+   "path": "proiect/parlament/2018/l361-2018",
+   "short": "Propunere legislativă L361/2018",
+   "title": "Propunere legislativă pentru modificarea art.38 din Legea nr.153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-05-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L361&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l362-2018",
+   "path": "proiect/parlament/2018/l362-2018",
+   "short": "Propunere legislativă L362/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.227/2015 privind Codul Fiscal cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L362&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l363-2018",
+   "path": "proiect/parlament/2018/l363-2018",
+   "short": "Propunere legislativă L363/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii bibliotecilor nr.334/2002 cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l364-2018",
+   "path": "proiect/parlament/2018/l364-2018",
+   "short": "Propunere legislativă L364/2018",
+   "title": "Propunere legislativă privind stimularea achiziţionării de cărţi şi cărţi în format electronic, necesare pentru elevi, în învăţământul preuniversitar",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L364&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l365-2018",
+   "path": "proiect/parlament/2018/l365-2018",
+   "short": "Propunere legislativă L365/2018",
+   "title": "Propunere legislativă privind stimularea achiziţionării de cărţi sau cărţi în format electronic, necesare îmbunătăţirii calităţii activităţii didactice, în învăţământul preuniversitar",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L365&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l366-2018",
+   "path": "proiect/parlament/2018/l366-2018",
+   "short": "Propunere legislativă L366/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.227/2015 privind Codul Fiscal cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l367-2018",
+   "path": "proiect/parlament/2018/l367-2018",
+   "short": "Propunere legislativă L367/2018",
+   "title": "Propunere legislativă pentru instituirea Anului Cărţii în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L367&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l368-2018",
+   "path": "proiect/parlament/2018/l368-2018",
+   "short": "Propunere legislativă L368/2018",
+   "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.196/2005 privind Fondul de mediu",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L368&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l369-2018",
+   "path": "proiect/parlament/2018/l369-2018",
+   "short": "Propunere legislativă L369/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.114/1996 privind locuinţele",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L369&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "proiect-parlament-2018-l37-2018",
    "path": "proiect/parlament/2018/l37-2018",
    "short": "Propunere legislativă L37/2018",
@@ -18655,6 +19528,660 @@
      "from": "2025-03-05",
      "units": 1,
      "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L37&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l370-2018",
+   "path": "proiect/parlament/2018/l370-2018",
+   "short": "Propunere legislativă L370/2018",
+   "title": "Propunere legislativă pentru completarea Legii serviciului de salubrizare a localităţilor nr.101/2006",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L370&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l371-2018",
+   "path": "proiect/parlament/2018/l371-2018",
+   "short": "Propunere legislativă L371/2018",
+   "title": "Propunere legislativă privind instituirea Zilei dăruirii",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L371&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l372-2018",
+   "path": "proiect/parlament/2018/l372-2018",
+   "short": "Propunere legislativă L372/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului\"",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-08-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-08-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L372&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l373-2018",
+   "path": "proiect/parlament/2018/l373-2018",
+   "short": "Proiect de lege L373/2018",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.47/2018 privind stabilirea unor măsuri de urgentare a absorbţiei fondurilor europene",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l374-2018",
+   "path": "proiect/parlament/2018/l374-2018",
+   "short": "Proiect de lege L374/2018",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.49/2018 pentru stabilirea calculului tarifului lunar al chiriei pe mp care se aplică pentru închirierea locuinţelor şi terenului aferent acestora, aflate în domeniul public şi privat al statului şi în administrarea Regiei Autonome ''Administraţia Patrimoniului Protocolului de Stat'', precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L374&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l375-2018",
+   "path": "proiect/parlament/2018/l375-2018",
+   "short": "Propunere legislativă L375/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.304/2004 privind organizarea judiciară",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L375&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l376-2018",
+   "path": "proiect/parlament/2018/l376-2018",
+   "short": "Propunere legislativă L376/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.393/2004 privind Statutul aleşilor locali",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-05-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L376&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l377-2018",
+   "path": "proiect/parlament/2018/l377-2018",
+   "short": "Propunere legislativă L377/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea art.77 din Legea nr.1/2011 a Educaţiei Naţionale",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l378-2018",
+   "path": "proiect/parlament/2018/l378-2018",
+   "short": "Propunere legislativă L378/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea art.82 din Legea educaţiei naţionale nr.1/2011",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-02-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L378&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l379-2018",
+   "path": "proiect/parlament/2018/l379-2018",
+   "short": "Propunere legislativă L379/2018",
+   "title": "Propunere legislativă pentru modificarea Legii educaţiei naţionale nr.1/2011, în sensul ca procesul de recunoaştere şi echivalare a dipomelor obţinute în străinătate să nu mai impună vreun cost financiar pentru solicitant",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2018",
      "sha256": null
     }
    ]
@@ -18729,6 +20256,720 @@
    ]
   },
   {
+   "slug": "proiect-parlament-2018-l380-2018",
+   "path": "proiect/parlament/2018/l380-2018",
+   "short": "Propunere legislativă L380/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.317/2004 privind organizarea şi funcţionarea Consiliului Superior al Magistraturii",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l381-2018",
+   "path": "proiect/parlament/2018/l381-2018",
+   "short": "Propunere legislativă L381/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.303/2004 privind statutul judecătorilor şi procurorilor",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L381&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l382-2018",
+   "path": "proiect/parlament/2018/l382-2018",
+   "short": "Propunere legislativă L382/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.35/1997 privind organizarea şi funcţionarea instituţiei Avocatul Poporului, precum şi pentru modificarea art.16 alin.(3) şi (4) din Legea nr.8/2016 privind înfiinţarea mecanismelor prevăzute de Convenţia privind drepturile persoanelor cu dizabilităţi",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-02-22",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L382&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l383-2018",
+   "path": "proiect/parlament/2018/l383-2018",
+   "short": "Propunere legislativă L383/2018",
+   "title": "Propunere legislativă pentru completarea art.42 indice1 din Legea audiovizualului nr.504/2002",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L383&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l384-2018",
+   "path": "proiect/parlament/2018/l384-2018",
+   "short": "Propunere legislativă L384/2018",
+   "title": "Propunere legislativă de modificare a Legii concurenţei nr.21 din 30 aprilie 1996, republicată în Monitorul Oficial al României, Partea I, nr.153 din 29 februarie 2016, cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-12-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-12-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-07",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-06-30",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-06",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-20",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2022-12-21",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-11",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-23",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-28",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-29",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L384&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l385-2018",
+   "path": "proiect/parlament/2018/l385-2018",
+   "short": "Propunere legislativă L385/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.8/2016 privind înfiinţarea mecanismelor prevăzute de Convenţia privind drepturile persoanelor cu dizabilităţi",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-11-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-11-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-12-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-02-19",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-24",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-12",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-12",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-06-17",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-06-18",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2026-06-29",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L385&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l386-2018",
+   "path": "proiect/parlament/2018/l386-2018",
+   "short": "Propunere legislativă L386/2018",
+   "title": "Propunere legislativă privind protecţia persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autorităţile competente în scopul prevenirii, descoperirii, cercetării, urmăririi penale şi combaterea infracţiunilor sau al executării pedepselor şi privind libera circulaţie a acestor date",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-01-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l387-2018",
+   "path": "proiect/parlament/2018/l387-2018",
+   "short": "Propunere legislativă L387/2018",
+   "title": "Propunere legislativă pentru modificarea Ordonanţei Guvernului nr.43/1997 privind regimul drumurilor",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-03-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L387&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l388-2018",
+   "path": "proiect/parlament/2018/l388-2018",
+   "short": "Propunere legislativă L388/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L388&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l389-2018",
+   "path": "proiect/parlament/2018/l389-2018",
+   "short": "Propunere legislativă L389/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.349/2002 pentru prevenirea şi combaterea efectelor consumului produselor din tutun",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L389&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "proiect-parlament-2018-l39-2018",
    "path": "proiect/parlament/2018/l39-2018",
    "short": "Propunere legislativă L39/2018",
@@ -18775,6 +21016,672 @@
      "from": "2024-10-29",
      "units": 1,
      "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L39&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l390-2018",
+   "path": "proiect/parlament/2018/l390-2018",
+   "short": "Proiect de lege L390/2018",
+   "title": "Proiect de lege pentru prevenirea şi combaterea spălării banilor şi finanţării terorismului, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L390&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l391-2018",
+   "path": "proiect/parlament/2018/l391-2018",
+   "short": "Proiect de lege L391/2018",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.50/2018 privind implementarea Programului guvernamental \"INVESTEŞTE ÎN TINE\"",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L391&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l392-2018",
+   "path": "proiect/parlament/2018/l392-2018",
+   "short": "Proiect de lege L392/2018",
+   "title": "Proiect de lege pentru modificarea şi completarea Legii nr.197/2012 privind asigurarea calităţii în domeniul serviciilor sociale",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L392&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l393-2018",
+   "path": "proiect/parlament/2018/l393-2018",
+   "short": "Proiect de lege L393/2018",
+   "title": "Proiect de lege privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L393&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l394-2018",
+   "path": "proiect/parlament/2018/l394-2018",
+   "short": "Proiect de lege L394/2018",
+   "title": "Proiect de lege privind statutul poliţiştilor de penitenciare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-22",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-07-30",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L394&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l395-2018",
+   "path": "proiect/parlament/2018/l395-2018",
+   "short": "Proiect de lege L395/2018",
+   "title": "Proiect de lege pentru completarea menţiunii privind transpunerea normelor Uniunii Europene din Legea nr.204/2006 privind pensiile facultative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L395&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l396-2018",
+   "path": "proiect/parlament/2018/l396-2018",
+   "short": "Proiect de lege L396/2018",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.51/2018 pentru modificarea Legii nr.350/2001 privind amenajarea teritoriului și urbanismului și pentru prorogarea unor termene",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l397-2018",
+   "path": "proiect/parlament/2018/l397-2018",
+   "short": "Propunere legislativă L397/2018",
+   "title": "Propunere legislativă pentru modificarea art.17 din Ordonanţa de urgenţă a Guvernului nr.24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-22",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L397&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l398-2018",
+   "path": "proiect/parlament/2018/l398-2018",
+   "short": "Propunere legislativă L398/2018",
+   "title": "Propunere legislativă pentru modificarea Legii educaţiei naţionale nr.1/2011",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-02-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2019-03-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L398&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l399-2018",
+   "path": "proiect/parlament/2018/l399-2018",
+   "short": "Propunere legislativă L399/2018",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.554/2004 a contenciosului administrativ şi a altor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-03-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L399&an_cls=2018",
      "sha256": null
     }
    ]
@@ -18913,6 +21820,144 @@
      "from": "2018-07-31",
      "units": 1,
      "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L40&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l400-2018",
+   "path": "proiect/parlament/2018/l400-2018",
+   "short": "Propunere legislativă L400/2018",
+   "title": "Propunere legislativă pentru completarea Legii nr.80/1995 privind statutul cadrelor militare, cu modificările şi completările ulterioare",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2017-12-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-01-18",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-03",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-20",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-07-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L400&an_cls=2018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2018-l401-2018",
+   "path": "proiect/parlament/2018/l401-2018",
+   "short": "Propunere legislativă L401/2018",
+   "title": "Propunere legislativă pentru modificarea Legii nr.272 din 2004 privind protecţia şi promovarea drepturilor copilului",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-04-24",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L401&an_cls=2018",
      "sha256": null
     }
    ]

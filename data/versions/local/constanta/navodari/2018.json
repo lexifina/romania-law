@@ -1,0 +1,2721 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/navodari/2018",
+ "acts": [
+  {
+   "slug": "hcl-constanta--navodari-1-2018",
+   "path": "local/constanta/navodari/2018/1",
+   "short": "HCL Năvodari nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 1/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-1-din-25.01.2018.pdf",
+     "sha256": "f8891d35442d43c09d556ed20a5db0967a3b6385657a16a9a49e29878d1083b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-10-2018",
+   "path": "local/constanta/navodari/2018/10",
+   "short": "HCL Năvodari nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 10/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-10-din-25.01.2018.pdf",
+     "sha256": "c93f0c2940975ca601023aa616be0287948b0f12db2409ae03aa356366a6524a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-101-2018",
+   "path": "local/constanta/navodari/2018/101",
+   "short": "HCL Năvodari nr. 101/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 101/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-101-din-02.05.2018.pdf",
+     "sha256": "20d888b236749ed9b9656b2dbfe26383fcff50a0a6fcb81cd789fe1ef74e6818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-102-2018",
+   "path": "local/constanta/navodari/2018/102",
+   "short": "HCL Năvodari nr. 102/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 102/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-102-din-02.05.2018.pdf",
+     "sha256": "dcf4cffa1a3377f257576715955425dde59d59f64b7059c2de882305a7884568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-103-2018",
+   "path": "local/constanta/navodari/2018/103",
+   "short": "HCL Năvodari nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 103/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-103-din-02.05.2018.pdf",
+     "sha256": "4391328762635514618c84e070fa0324b86578cd18d1e2e605915541c650b88f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-104-2018",
+   "path": "local/constanta/navodari/2018/104",
+   "short": "HCL Năvodari nr. 104/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 104/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-104-din-02.05.2018.pdf",
+     "sha256": "4acd618adf08bb577456e51498cbcbf15767c959868df262e4fca1738ba49f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-105-2018",
+   "path": "local/constanta/navodari/2018/105",
+   "short": "HCL Năvodari nr. 105/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 105/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-105-din-02.05.2018.pdf",
+     "sha256": "a37121958248fabca4b0e050e500126692ed91d2be54ccf2b445b246162c0a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-106-2018",
+   "path": "local/constanta/navodari/2018/106",
+   "short": "HCL Năvodari nr. 106/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 106/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-106-din-02.05.2018.pdf",
+     "sha256": "35042a340c189bc1d6788cd2dcde7f766b94dcbe1668c5fe28cd1607c72e7a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-107-2018",
+   "path": "local/constanta/navodari/2018/107",
+   "short": "HCL Năvodari nr. 107/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 107/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-107-din-02.05.2018.pdf",
+     "sha256": "f8e8f93aa5a23a2d1ce50b2251be3e143cb1eee184caa0cc5d4ef8cd86358bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-108-2018",
+   "path": "local/constanta/navodari/2018/108",
+   "short": "HCL Năvodari nr. 108/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 108/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-108-din-02.05.2018.pdf",
+     "sha256": "1e11f789f3b94fd522f4e9fe4ee4f8cfa2a2a8568b4988d24db2869575f0c0dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-11-2018",
+   "path": "local/constanta/navodari/2018/11",
+   "short": "HCL Năvodari nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 11/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-11-din-25.01.2018.pdf",
+     "sha256": "7fe76848f7ecd15e07cc06e1fb5ff36c3b8eba8464ea1040fe132a5b7e21a9c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-110-2018",
+   "path": "local/constanta/navodari/2018/110",
+   "short": "HCL Năvodari nr. 110/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 110/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-110-din-02.05.2018.pdf",
+     "sha256": "95e6e4b9180969fd5cc55e419968efbd00c09d60487552196fe0b7033b0c27fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-121-2018",
+   "path": "local/constanta/navodari/2018/121",
+   "short": "HCL Năvodari nr. 121/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 121/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-121-din-02.05.2018.pdf",
+     "sha256": "6c44aac1b78cf31ce86381735a71a5f8803e5be10c3d1d41687668871fa3def1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-122-2018",
+   "path": "local/constanta/navodari/2018/122",
+   "short": "HCL Năvodari nr. 122/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 122/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-122-din-02.05.2018.pdf",
+     "sha256": "3168ec13270d44f763c87e72c8e47c2c55305a27d1e3d763505df5355112f5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-123-2018",
+   "path": "local/constanta/navodari/2018/123",
+   "short": "HCL Năvodari nr. 123/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 123/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-123-din-14.05.2018.pdf",
+     "sha256": "7f4cfe1ecd86e4a197d0289dcc8dc25de0b53ba7b59ae253ca78526d7ae613d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-124-2018",
+   "path": "local/constanta/navodari/2018/124",
+   "short": "HCL Năvodari nr. 124/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 124/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-124-din-14.05.2018.pdf",
+     "sha256": "1165d12d541252de12f3906888f418ff6cf8bfc123efd0a70028351c181f26e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-125-2018",
+   "path": "local/constanta/navodari/2018/125",
+   "short": "HCL Năvodari nr. 125/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 125/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-125-din-14.05.2018.pdf",
+     "sha256": "0b81675692c0fc9000236094ed0c9f4b53440f1ca0494a59d38fc9ae49dc4cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-126-2018",
+   "path": "local/constanta/navodari/2018/126",
+   "short": "HCL Năvodari nr. 126/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 126/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-126-din-14.05.2018.pdf",
+     "sha256": "e155769284558dd72cd5cd1c5ad77204556461be284f13dc901068b1906f4fb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-127-2018",
+   "path": "local/constanta/navodari/2018/127",
+   "short": "HCL Năvodari nr. 127/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 127/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-127-din-14.05.2018.pdf",
+     "sha256": "3f60a1edc6d0fca76d21faf148aa7304b22384f763a2d1a9030694b81d34247d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-128-2018",
+   "path": "local/constanta/navodari/2018/128",
+   "short": "HCL Năvodari nr. 128/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 128/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-128-din-14.05.2018.pdf",
+     "sha256": "b4ca8a9788ac69d1f25600393209e3e1bf33efa930fc7afb06ee3e41afdd9f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-129-2018",
+   "path": "local/constanta/navodari/2018/129",
+   "short": "HCL Năvodari nr. 129/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 129/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-129-din-14.05.2018.pdf",
+     "sha256": "f744fe705dc894c5c52752cfdffb87ea51e63003c308f352bdd6a6ace226ddac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-130-2018",
+   "path": "local/constanta/navodari/2018/130",
+   "short": "HCL Năvodari nr. 130/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 130/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-130-din-14.05.2018.pdf",
+     "sha256": "5ae2f852f31bac60e10a540f9f40098c5b497021308390a1cc1ea4e0ab78a80b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-131-2018",
+   "path": "local/constanta/navodari/2018/131",
+   "short": "HCL Năvodari nr. 131/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 131/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-131-din-14.05.2018.pdf",
+     "sha256": "8f774d7a130bf42725c8b5d654bc1e73a3a44d04eefdfea244a493990c7b63f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-132-2018",
+   "path": "local/constanta/navodari/2018/132",
+   "short": "HCL Năvodari nr. 132/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 132/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-132-din-14.05.2018.pdf",
+     "sha256": "cc87304006cc822c016854c71755a95389888fb882054b722af102c5efe795b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-133-2018",
+   "path": "local/constanta/navodari/2018/133",
+   "short": "HCL Năvodari nr. 133/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 133/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-133-din-14.05.2018.pdf",
+     "sha256": "c68243a729bd0deb9dc3fe377df9b35cd91cc5674b8f29bceee3c3b371f65a86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-134-2018",
+   "path": "local/constanta/navodari/2018/134",
+   "short": "HCL Năvodari nr. 134/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 134/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-134-din-14.05.2018.pdf",
+     "sha256": "22a92e7f64c28fcdeee0d6a4549fb8d493def082f6050a1bcc2cb4fd25406cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-139-2018",
+   "path": "local/constanta/navodari/2018/139",
+   "short": "HCL Năvodari nr. 139/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 139/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-139-din-20.06.2018.pdf",
+     "sha256": "3a00aa007378f77a23055337f864ed91dba00c2bd41ba067be742774d7febeb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-140-2018",
+   "path": "local/constanta/navodari/2018/140",
+   "short": "HCL Năvodari nr. 140/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 140/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-140-din-20.06.2018.pdf",
+     "sha256": "2bf4f21dbf0fcea1e06aa19cd06544c309e695dcc43fab28d9fe223c7696d87a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-141-2018",
+   "path": "local/constanta/navodari/2018/141",
+   "short": "HCL Năvodari nr. 141/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 141/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-141-din-20.06.2018.pdf",
+     "sha256": "012707d3db75e7832949860f31837cb3784168761f178534f9c69c846ff0d927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-142-2018",
+   "path": "local/constanta/navodari/2018/142",
+   "short": "HCL Năvodari nr. 142/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 142/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-142-din-20.06.2018.pdf",
+     "sha256": "2a00c8a24a21a91f7a332b1cc510a10f73dbe9079eff8d4800d5acf9801007ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-143-2018",
+   "path": "local/constanta/navodari/2018/143",
+   "short": "HCL Năvodari nr. 143/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-143-din-20.06.2018.pdf",
+     "sha256": "f3ff905195427203bd809a03a6375178eff07540ffe029882da49398e90d0cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-144-2018",
+   "path": "local/constanta/navodari/2018/144",
+   "short": "HCL Năvodari nr. 144/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-144-din-20.06.2018.pdf",
+     "sha256": "9badd74904873a452a414226290a5b6993b4809c394fcbe6e2c964c0057cda94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-145-2018",
+   "path": "local/constanta/navodari/2018/145",
+   "short": "HCL Năvodari nr. 145/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 145/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-145-din-20.06.2018.pdf",
+     "sha256": "fd760eb27deb5fcc27b1943b4c1e6d9676f4320e771e3cdbd9bcbb5c2f0e61ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-146-2018",
+   "path": "local/constanta/navodari/2018/146",
+   "short": "HCL Năvodari nr. 146/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 146/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-146-din-20.06.2018.pdf",
+     "sha256": "33dcaf11e479b0074f5733499c05caffc06448f280883a93fd5c10ba9fd1ccf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-147-2018",
+   "path": "local/constanta/navodari/2018/147",
+   "short": "HCL Năvodari nr. 147/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 147/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-147-din-20.06.2018.pdf",
+     "sha256": "ea8d74aecbfe0f8dfb0b420d4c7988503508c6e70ef7b80f88de91868a29fcef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-148-2018",
+   "path": "local/constanta/navodari/2018/148",
+   "short": "HCL Năvodari nr. 148/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 148/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-148-din-20.06.2018.pdf",
+     "sha256": "fafd8a6890189d0ee2ede1237c197d357555249b0f69dcb7b5c91b6272120168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-149-2018",
+   "path": "local/constanta/navodari/2018/149",
+   "short": "HCL Năvodari nr. 149/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 149/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-149-din-20.06.2018.pdf",
+     "sha256": "64d74d6b1bcd29b0f09e3792f33e21587d8aa05128eced18b4dc6a5313a03d9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-152-2018",
+   "path": "local/constanta/navodari/2018/152",
+   "short": "HCL Năvodari nr. 152/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 152/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-152-din-20.06.2018.pdf",
+     "sha256": "dd0bac310cce60de73fd8da4fc6ee417ec8864b58261580a064403b07c49cd54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-153-2018",
+   "path": "local/constanta/navodari/2018/153",
+   "short": "HCL Năvodari nr. 153/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 153/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-153-din-20.06.2018.pdf",
+     "sha256": "8a3d54c34258a35a35e333ff8c9ddd0252b1d8a2d3b3a1d943ae24c591fff73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-154-2018",
+   "path": "local/constanta/navodari/2018/154",
+   "short": "HCL Năvodari nr. 154/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 154/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-154-din-20.06.2018.pdf",
+     "sha256": "a731ba8d7da0601c5e772b70b45f4d6f7486640c71dcbf8af3055a2a7a8bbc78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-155-2018",
+   "path": "local/constanta/navodari/2018/155",
+   "short": "HCL Năvodari nr. 155/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 155/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-155-din-20.06.2018.pdf",
+     "sha256": "dcd700ee2d27b9652cee2fba0b47d9fac40c86ac2bf7642af3e29ae938ec7598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-157-2018",
+   "path": "local/constanta/navodari/2018/157",
+   "short": "HCL Năvodari nr. 157/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 157/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-157-din-20.06.2018.pdf",
+     "sha256": "5609c85a6318b5a43c4409444e9522b0a5cdbac31a82dc3c1b30372c6e0f7f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-158-2018",
+   "path": "local/constanta/navodari/2018/158",
+   "short": "HCL Năvodari nr. 158/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 158/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-158-din-20.06.2018.pdf",
+     "sha256": "a2f36a0a158adb59915b6210e6053afd86780dad721c6a90e030260913ed7d20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-159-2018",
+   "path": "local/constanta/navodari/2018/159",
+   "short": "HCL Năvodari nr. 159/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 159/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-159-din-20.06.2018.pdf",
+     "sha256": "71da4f94ba5cd85887baf73c21ec75372ef432faadfbe537e18ca0aab0d99687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-160-2018",
+   "path": "local/constanta/navodari/2018/160",
+   "short": "HCL Năvodari nr. 160/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 160/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-160-din-20.06.2018.pdf",
+     "sha256": "a8fe95882f5176f724cee2761005248870a56459c615ffaee033a888f73c3fe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-161-2018",
+   "path": "local/constanta/navodari/2018/161",
+   "short": "HCL Năvodari nr. 161/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 161/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-161-din-20.06.2018.pdf",
+     "sha256": "9eb5917f2d127f2119f5b3959c5f378cfc3da649f46e77c2d2a5e07cdadef4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-162-2018",
+   "path": "local/constanta/navodari/2018/162",
+   "short": "HCL Năvodari nr. 162/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 162/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-162-din-20.06.2018.pdf",
+     "sha256": "4d7988e009d42f7712ced08670fff86090e13b8acfa496b1c40ef1b5de40de0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-168-2018",
+   "path": "local/constanta/navodari/2018/168",
+   "short": "HCL Năvodari nr. 168/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 168/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-168-din-20.06.2018.pdf",
+     "sha256": "d9fe159de9450e55377a919b2fd776089e8fdd8ecb9a1bd79c961e580e9b7429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-169-2018",
+   "path": "local/constanta/navodari/2018/169",
+   "short": "HCL Năvodari nr. 169/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 169/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-169-din-20.06.2018.pdf",
+     "sha256": "4763f3032d1c113a4faefed7c7aeb150d6d47c04ab77a3e328903142eae66064"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-170-2018",
+   "path": "local/constanta/navodari/2018/170",
+   "short": "HCL Năvodari nr. 170/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 170/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-170-din-20.06.2018.pdf",
+     "sha256": "4cfc5cb3db9b736154d15d8c70bc5251b6f51a7415ba8ef3a57b43a48178101b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-171-2018",
+   "path": "local/constanta/navodari/2018/171",
+   "short": "HCL Năvodari nr. 171/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 171/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-171-din-20.06.2018.pdf",
+     "sha256": "630c64aca6b63034471a66483283389b3fa0dc4182ea15e8bdf2f44aa825cc36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-172-2018",
+   "path": "local/constanta/navodari/2018/172",
+   "short": "HCL Năvodari nr. 172/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 172/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-172-din-20.06.2018.pdf",
+     "sha256": "2be1b525def27e52af8b77a16ca521244da22cba6c609e2e50caa97bfff80c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-173-2018",
+   "path": "local/constanta/navodari/2018/173",
+   "short": "HCL Năvodari nr. 173/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 173/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-173-din-20.06.2018.pdf",
+     "sha256": "4d3eb510a67eb5edece432a067d6586efb059dadd85fdd5fdbf0c072af505315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-174-2018",
+   "path": "local/constanta/navodari/2018/174",
+   "short": "HCL Năvodari nr. 174/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 174/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-174-din-20.06.2018.pdf",
+     "sha256": "ff68ae7be2b82933f6d607751c0c53b4c003d2ba0ebbad9a6574830553726510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-175-2018",
+   "path": "local/constanta/navodari/2018/175",
+   "short": "HCL Năvodari nr. 175/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 175/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-175-din-20.06.2018.pdf",
+     "sha256": "b72fc983222d1e60fdf8c3138a4dcba5b490d3b49d1b5033c3a280ec90e640e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-176-2018",
+   "path": "local/constanta/navodari/2018/176",
+   "short": "HCL Năvodari nr. 176/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 176/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-176-din-20.06.2018.pdf",
+     "sha256": "6ac412ce9cf1b33b3546d35e1aa7c23c0d182bf0d8b39e4c074aa0ed4ed192f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-177-2018",
+   "path": "local/constanta/navodari/2018/177",
+   "short": "HCL Năvodari nr. 177/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 177/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-177-din-20.06.2018.pdf",
+     "sha256": "d688628b393ca27fd9502504dac639ad1e153f549516befe58e9b0d233697213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-178-2018",
+   "path": "local/constanta/navodari/2018/178",
+   "short": "HCL Năvodari nr. 178/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 178/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-178-din-28.06.2018.pdf",
+     "sha256": "0419833c2cc02a8eb2ae106a54fe79ed6c7be0f48651ef5c61daad605bbe2703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-179-2018",
+   "path": "local/constanta/navodari/2018/179",
+   "short": "HCL Năvodari nr. 179/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 179/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-179-din-23.07.2018.pdf",
+     "sha256": "33a310da1bde88bb7baa60c881cc1215dfb133d448519c496efe8a679e76a1d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-180-2018",
+   "path": "local/constanta/navodari/2018/180",
+   "short": "HCL Năvodari nr. 180/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 180/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-180-din-23.07.2018.pdf",
+     "sha256": "30c953fd9303417422a1b5123447f54f4bc56eb29e3ae5b988a8bee791d8463a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-185-2018",
+   "path": "local/constanta/navodari/2018/185",
+   "short": "HCL Năvodari nr. 185/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 185/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-185-din-23.07.2018.pdf",
+     "sha256": "09aa8cf27f7cd4258b7ed896d064e75ad44a49acac42dc792d2c2191698b1c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-186-2018",
+   "path": "local/constanta/navodari/2018/186",
+   "short": "HCL Năvodari nr. 186/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 186/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-186-din-23.07.2018.pdf",
+     "sha256": "094915b0d53d2e41117ad1486d570843f2a50fa6ea3e23181d0d45974144f030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-187-2018",
+   "path": "local/constanta/navodari/2018/187",
+   "short": "HCL Năvodari nr. 187/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 187/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-187-din-23.07.2018.pdf",
+     "sha256": "f973fcc40f7fdd4d71798cc4a008cc44dd731a12eabecc4b94ce503cc3da1c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-189-2018",
+   "path": "local/constanta/navodari/2018/189",
+   "short": "HCL Năvodari nr. 189/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 189/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-189-din-23.07.2018.pdf",
+     "sha256": "930de33e7e1ed1b723d0ca3807be4d58b2599ce151faed0ad485bbda6311bacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-191-2018",
+   "path": "local/constanta/navodari/2018/191",
+   "short": "HCL Năvodari nr. 191/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 191/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-191-din-23.07.2018.pdf",
+     "sha256": "b93c3177b328cf60ac34f0bfabe0d9f047c16c8fcadd09b6b88a6a59a450c32d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-192-2018",
+   "path": "local/constanta/navodari/2018/192",
+   "short": "HCL Năvodari nr. 192/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 192/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-192-din-23.07.2018.pdf",
+     "sha256": "347dc64741042cdc9e438725c58ab455bd5721d62c9e2b84d3cd6dcf093e8c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-193-2018",
+   "path": "local/constanta/navodari/2018/193",
+   "short": "HCL Năvodari nr. 193/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 193/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-193-din-23.07.2018.pdf",
+     "sha256": "3b7689388dd66783604d41146c72a97943491f2916ccd3d408a497c1ee2d5499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-195-2018",
+   "path": "local/constanta/navodari/2018/195",
+   "short": "HCL Năvodari nr. 195/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 195/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-195-din-23.07.2018.pdf",
+     "sha256": "bc3b8ba423ec3d86452c92daa58903dd65ec03ccc7304c3d6346d19b9dc43469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-197-2018",
+   "path": "local/constanta/navodari/2018/197",
+   "short": "HCL Năvodari nr. 197/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 197/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-197-din-23.07.2018.pdf",
+     "sha256": "ab5f0ed05017e1c0f491334b0a7986c31dc8e649e85a73f965db6410aa578bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-198-2018",
+   "path": "local/constanta/navodari/2018/198",
+   "short": "HCL Năvodari nr. 198/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 198/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-198-din-23.07.2018.pdf",
+     "sha256": "9e12feeeea3f203ccca739dac2cada43920173a4d9edb1211d1b896c691aa060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-199-2018",
+   "path": "local/constanta/navodari/2018/199",
+   "short": "HCL Năvodari nr. 199/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 199/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-199-din-23.07.2018.pdf",
+     "sha256": "7ac018a886a25c72acc9f31e42983a38fa3d60acb13e38f240d91d0ec2df0e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-2-2018",
+   "path": "local/constanta/navodari/2018/2",
+   "short": "HCL Năvodari nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 2/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-2-din-25.01.2018.pdf",
+     "sha256": "bdb63f79095f391d3385d587eddf473ad040b8814bbbe04a8ce8e826e1149bdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-200-2018",
+   "path": "local/constanta/navodari/2018/200",
+   "short": "HCL Năvodari nr. 200/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 200/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-200-din-23.07.2018.pdf",
+     "sha256": "a016e6b9d97a5a7201b54dbe194f4e8a83a6a94f6e33c1c41e550b8bd896aba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-201-2018",
+   "path": "local/constanta/navodari/2018/201",
+   "short": "HCL Năvodari nr. 201/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 201/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-201-din-23.07.2018.pdf",
+     "sha256": "83b595a5497315e449328234014de3c01abfbd43a66aa88022843963b7a49fac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-202-2018",
+   "path": "local/constanta/navodari/2018/202",
+   "short": "HCL Năvodari nr. 202/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 202/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/07/HCL-nr-202-din-23.07.2018.pdf",
+     "sha256": "0dfe2fc4b31bad6c140149f13233c0c9504e98355e0d8ebdc188a3f025dd421a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-203-2018",
+   "path": "local/constanta/navodari/2018/203",
+   "short": "HCL Năvodari nr. 203/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 203/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-203-din-24.08.2018.pdf",
+     "sha256": "eb4f4efd30b0e11cdf008694ebb8069686a1b226d3ef8075f533f4ce4080cc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-204-2018",
+   "path": "local/constanta/navodari/2018/204",
+   "short": "HCL Năvodari nr. 204/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 204/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-204-din-24.08.2018.pdf",
+     "sha256": "5cd6ea790502adf6f33fe3f40b8a7c2feb8098aa4bf9be4ccb455711281da2be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-205-2018",
+   "path": "local/constanta/navodari/2018/205",
+   "short": "HCL Năvodari nr. 205/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 205/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-205-din-24.08.2018.pdf",
+     "sha256": "875775d7472c29a4a20eb57504c80c50aeb08db0cc95bfa422ff5501e996491d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-206-2018",
+   "path": "local/constanta/navodari/2018/206",
+   "short": "HCL Năvodari nr. 206/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 206/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-206-din-24.08.2018.pdf",
+     "sha256": "b10c76cc352fdb3ae81f72d33b27dbb44e8ec5ff5f6fae53ee60bed5772cb069"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-207-2018",
+   "path": "local/constanta/navodari/2018/207",
+   "short": "HCL Năvodari nr. 207/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 207/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-207-din-24.08.2018.pdf",
+     "sha256": "ea584774534a1c2f165acb405cf99f580d56009b662c06e6a4bcdcf4f219a0ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-208-2018",
+   "path": "local/constanta/navodari/2018/208",
+   "short": "HCL Năvodari nr. 208/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 208/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-208-din-24.08.2018.pdf",
+     "sha256": "a98a654b9d34b3266df23db7e2f1dbcab522165b3d48c604328db593e5f47acb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-209-2018",
+   "path": "local/constanta/navodari/2018/209",
+   "short": "HCL Năvodari nr. 209/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 209/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-209-din-24.08.2018.pdf",
+     "sha256": "7225eda4bf1216fcf0e1aded70529308a18841bfa579f4203776364e369d2d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-212-2018",
+   "path": "local/constanta/navodari/2018/212",
+   "short": "HCL Năvodari nr. 212/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 212/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-212-din-24.08.2018.pdf",
+     "sha256": "f11b5397d88c483d8dbaffa9073901bb02f62aaad3ec0f5f846407f088b91ce4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-218-2018",
+   "path": "local/constanta/navodari/2018/218",
+   "short": "HCL Năvodari nr. 218/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 218/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-218-din-24.08.2018.pdf",
+     "sha256": "4a350a00ac374c6474501f2431f3a1c83404c8a79af6888a7a425b24949546f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-22-2018",
+   "path": "local/constanta/navodari/2018/22",
+   "short": "HCL Năvodari nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 22/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-02",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-22-din-02.03.2018.pdf",
+     "sha256": "b6d3a4ec2de1b21ea550c0ce9910ae809d264bd578bfede6cafe96aa4f3a6727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-220-2018",
+   "path": "local/constanta/navodari/2018/220",
+   "short": "HCL Năvodari nr. 220/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 220/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-220-din-24.08.2018.pdf",
+     "sha256": "ed33c2dfbf2dc963c54eeec7660eb9ded81547b965bfccd950174dde3a671149"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-221-2018",
+   "path": "local/constanta/navodari/2018/221",
+   "short": "HCL Năvodari nr. 221/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 221/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-221-din-24.08.2018.pdf",
+     "sha256": "053939daaa2da6648994f96e8693eccec6d05adb1cf0e84a7991af8d1d91ca56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-222-2018",
+   "path": "local/constanta/navodari/2018/222",
+   "short": "HCL Năvodari nr. 222/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 222/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-222-din-24.08.2018.pdf",
+     "sha256": "adb2eea3b512dd7e68230c0be63033334c57a66c6ae429e2367a7bcc6a193f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-223-2018",
+   "path": "local/constanta/navodari/2018/223",
+   "short": "HCL Năvodari nr. 223/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 223/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-223-din-24.08.2018.pdf",
+     "sha256": "7d1106078c87f33cbee3f7eb4c6ea50363d4c072d07fc648562015591d4741ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-225-2018",
+   "path": "local/constanta/navodari/2018/225",
+   "short": "HCL Năvodari nr. 225/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 225/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-225-din-24.08.2018.pdf",
+     "sha256": "40b1a74561dd6ffdc4a0a88b41cd74ff90d6855bdebc37c7412649bb9302e84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-228-2018",
+   "path": "local/constanta/navodari/2018/228",
+   "short": "HCL Năvodari nr. 228/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 228/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-228-din-24.08.2018.pdf",
+     "sha256": "10e3f1d666fc540477d60bedf0ba227ec8224e039a92ab50bc6cf86b9f48ee14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-229-2018",
+   "path": "local/constanta/navodari/2018/229",
+   "short": "HCL Năvodari nr. 229/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 229/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-229-din-24.08.2018.pdf",
+     "sha256": "d46b16d56d5e028617f9cc3e31689a5eeb477f5eb7a65dd5db1b37f5eede63d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-232-2018",
+   "path": "local/constanta/navodari/2018/232",
+   "short": "HCL Năvodari nr. 232/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 232/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-nr-232-din-24.08.2018.pdf",
+     "sha256": "ba9060d7afb028ecb8653aac19c884822c557dc1dbcc107b583308f6e47e5873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-245-2018",
+   "path": "local/constanta/navodari/2018/245",
+   "short": "HCL Năvodari nr. 245/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 245/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-245-din-11.09.2018.pdf",
+     "sha256": "47ddcdf966af831a37a33e842c736f4eace13efb35d166383d314f89755f7719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-246-2018",
+   "path": "local/constanta/navodari/2018/246",
+   "short": "HCL Năvodari nr. 246/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 246/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-246-din-27.09.2018.pdf",
+     "sha256": "56b8906a97beaf7481da882558970961c65d1e8bd30aef5198709bd971f031d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-247-2018",
+   "path": "local/constanta/navodari/2018/247",
+   "short": "HCL Năvodari nr. 247/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 247/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-247-din-27.09.2018.pdf",
+     "sha256": "26d098cf58423cfc313331b71b6399452e2ae3f5fe0207b8949044da2019712a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-248-2018",
+   "path": "local/constanta/navodari/2018/248",
+   "short": "HCL Năvodari nr. 248/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 248/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-248-din-27.09.2018.pdf",
+     "sha256": "a50886b932e6cc5b034f9808a8c7d2cdf628fb60f910b05f8f27822a3dcdd059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-271-2018",
+   "path": "local/constanta/navodari/2018/271",
+   "short": "HCL Năvodari nr. 271/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 271/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-271-din-27.09.2018.pdf",
+     "sha256": "6f3d6588c59593e7d1798d42ee65776020360533077806239b570e72da556463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-272-2018",
+   "path": "local/constanta/navodari/2018/272",
+   "short": "HCL Năvodari nr. 272/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 272/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-272-din-27.09.2018.pdf",
+     "sha256": "a9f288906ec86ddd9b9e36690d0842d116e64c7955ddf76c87f3f6dc02341b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-274-2018",
+   "path": "local/constanta/navodari/2018/274",
+   "short": "HCL Năvodari nr. 274/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 274/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-274-din-27.09.2018.pdf",
+     "sha256": "6d81ceae7eb6f0e3f1918fbddddfb0e972d0b7ac1fe5094afdb54b9e28285229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-275-2018",
+   "path": "local/constanta/navodari/2018/275",
+   "short": "HCL Năvodari nr. 275/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 275/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-275-din-27.09.2018.pdf",
+     "sha256": "fd47143572e70c8946d2edc330011e67ecac2783bf3a05bde5f7ff62cb3511f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-276-2018",
+   "path": "local/constanta/navodari/2018/276",
+   "short": "HCL Năvodari nr. 276/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 276/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-276-din-27.09.2018.pdf",
+     "sha256": "370550a58aaff0f2b4b9987dfe937d7173c66d4fbaab873f1beecf1a51352f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-279-2018",
+   "path": "local/constanta/navodari/2018/279",
+   "short": "HCL Năvodari nr. 279/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 279/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-279-din-27.09.2018.pdf",
+     "sha256": "eb1ce7c67941d26b2563d2e0831cb6f57a98eb7c225e33ed7b691605b44a9636"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-280-2018",
+   "path": "local/constanta/navodari/2018/280",
+   "short": "HCL Năvodari nr. 280/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 280/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-280-din-27.09.2018.pdf",
+     "sha256": "913f6818604a43777775a4ce56a61b13c60a224e4e2ae2d37467813427d6552a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-281-2018",
+   "path": "local/constanta/navodari/2018/281",
+   "short": "HCL Năvodari nr. 281/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 281/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-281-din-27.09.2018.pdf",
+     "sha256": "9413b16f9f759a864ba16e0f8ebeb7fc83878a331fd5e44585217d55dab03ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-283-2018",
+   "path": "local/constanta/navodari/2018/283",
+   "short": "HCL Năvodari nr. 283/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 283/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-283-din-27.09.2018.pdf",
+     "sha256": "1f760124e302cb8759ac67be3bfa0724af693123310f65c4095b0976370ef2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-285-2018",
+   "path": "local/constanta/navodari/2018/285",
+   "short": "HCL Năvodari nr. 285/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 285/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-285-din-27.09.2018.pdf",
+     "sha256": "aad2d7f009a03946b3c284f5539285b49ce65ffb8e4316ba3a4857be30575ebf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-286-2018",
+   "path": "local/constanta/navodari/2018/286",
+   "short": "HCL Năvodari nr. 286/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 286/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-286-din-02.10.2018.pdf",
+     "sha256": "338544eadbb20314291d202447af985acf9cc4adfb47b514a11bb5a48c4b67b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-287-2018",
+   "path": "local/constanta/navodari/2018/287",
+   "short": "HCL Năvodari nr. 287/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 287/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-NR-287-din-23.10.2018.pdf",
+     "sha256": "b8c825cda14b83c1ea3cff959d00ce157cb3f25ddc31b404b3e7c65a726b92b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-288-2018",
+   "path": "local/constanta/navodari/2018/288",
+   "short": "HCL Năvodari nr. 288/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 288/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-NR-288-din-23.10.2018.pdf",
+     "sha256": "01664e643cb76919b7d137f9f371dc7fdd358ccdf8c77d0ec64caf25a8ec91df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-289-2018",
+   "path": "local/constanta/navodari/2018/289",
+   "short": "HCL Năvodari nr. 289/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 289/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/08/HCL-NR-289-din-23.10.2018.pdf",
+     "sha256": "2f2238eb1d2d0d868ea3a4d4ced71be46b5a144ae37f8840e71d445792e5c441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-290-2018",
+   "path": "local/constanta/navodari/2018/290",
+   "short": "HCL Năvodari nr. 290/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 290/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-290-din-31.10.2018.pdf",
+     "sha256": "e82fb7c608e536413aeb2c7c626798c03e8647b1709d1e822a365b5aa0e6a1c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-291-2018",
+   "path": "local/constanta/navodari/2018/291",
+   "short": "HCL Năvodari nr. 291/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 291/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-291-din-31.10.2018.pdf",
+     "sha256": "248f97ed551e6b5c3beda6879e8e5ea49f6ee092fbf27b7f9cc19c8b98368554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-293-2018",
+   "path": "local/constanta/navodari/2018/293",
+   "short": "HCL Năvodari nr. 293/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 293/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-293-din-31.10.2018.pdf",
+     "sha256": "bc1da7aa250a67a9f950554b7c3442b34f18419e4bc8703df97ba7b853b635b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-299-2018",
+   "path": "local/constanta/navodari/2018/299",
+   "short": "HCL Năvodari nr. 299/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 299/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-299-din-31.10.2018.pdf",
+     "sha256": "b8a9c26d31cc43ed1b8635b7d6eb00f6f4ebc48624e14e0e794c95c447eda376"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-3-2018",
+   "path": "local/constanta/navodari/2018/3",
+   "short": "HCL Năvodari nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 3/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-3-din-25.01.2018.pdf",
+     "sha256": "3398f3601b5e23e3f5df1af70f433789ab1857b8916e6c1a3051443cc4410658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-301-2018",
+   "path": "local/constanta/navodari/2018/301",
+   "short": "HCL Năvodari nr. 301/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 301/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-301-din-31.10.2018.pdf",
+     "sha256": "03222c00d3842655e167c4e1d7d62470eaff61a393d33931ca2b8862b368a99a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-302-2018",
+   "path": "local/constanta/navodari/2018/302",
+   "short": "HCL Năvodari nr. 302/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 302/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-302-din-31.10.2018-1.pdf",
+     "sha256": "a845dd871b3b0e3a91d66b98dbad141fb747560a82d68b1ced349a6ebe6733b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-303-2018",
+   "path": "local/constanta/navodari/2018/303",
+   "short": "HCL Năvodari nr. 303/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 303/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-303-din-31.10.2018-1.pdf",
+     "sha256": "f5b9fdcf12c24805735fcc2b83bfed13f2a03a3b89f34a74c53f52d5c25d9c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-306-2018",
+   "path": "local/constanta/navodari/2018/306",
+   "short": "HCL Năvodari nr. 306/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 306/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-306-din-31.10.2018-1.pdf",
+     "sha256": "b62d08b24755e76e6c2c7b4cf8ed13086fb334f5d392b226cb47c9fa3a991a76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-308-2018",
+   "path": "local/constanta/navodari/2018/308",
+   "short": "HCL Năvodari nr. 308/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 308/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-308-din-31.10.2018-1.pdf",
+     "sha256": "d60a91d6e644f129d685a42a5665b05a323eeb8eac5f2f63e7d4933bcb8df8f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-310-2018",
+   "path": "local/constanta/navodari/2018/310",
+   "short": "HCL Năvodari nr. 310/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 310/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-310-din-31.10.2018.pdf",
+     "sha256": "8e8d86e18a4d4dca1e4319ae76ceb29bf97b80c13cfca4cdc55e2e2d2c7e118d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-311-2018",
+   "path": "local/constanta/navodari/2018/311",
+   "short": "HCL Năvodari nr. 311/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 311/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-311-din-31.10.2018.pdf",
+     "sha256": "dd4af460964b32acb56b2800ee1c367f92fc50ce501d7e038096f28733e82e96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-312-2018",
+   "path": "local/constanta/navodari/2018/312",
+   "short": "HCL Năvodari nr. 312/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 312/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/10/HCL-nr-312-din-31.10.2018.pdf",
+     "sha256": "ac37c7e286b06a358c1cd87674ecc966915247ffe827357c47bf334b8850907a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-313-2018",
+   "path": "local/constanta/navodari/2018/313",
+   "short": "HCL Năvodari nr. 313/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 313/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/11/HCL-nr-313-din-23.11.2018.pdf",
+     "sha256": "d56ceab95e3edda3e43ae821109f8b162c02dacc74b33e16982f0bfd22b8065f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-314-2018",
+   "path": "local/constanta/navodari/2018/314",
+   "short": "HCL Năvodari nr. 314/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 314/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/11/HCL-nr-314-din-23.11.2018.pdf",
+     "sha256": "f843cc892dd96c6d699e19418161a462e3841b2db11f10d9f4519e37f2b212cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-315-2018",
+   "path": "local/constanta/navodari/2018/315",
+   "short": "HCL Năvodari nr. 315/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 315/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/11/HCL-nr-315-din-23.11.2018.pdf",
+     "sha256": "fd3cc1e875bf3ddabb096d8bb51c81e15af586a14e297a4fad874fb8cc1e4ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-339-2018",
+   "path": "local/constanta/navodari/2018/339",
+   "short": "HCL Năvodari nr. 339/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 339/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/11/HCL-nr-339-din-14.12.2018.pdf",
+     "sha256": "b9df556bdda2763b507f06d9750718e8cce83691b295993f800dfe5e9821a683"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-340-2018",
+   "path": "local/constanta/navodari/2018/340",
+   "short": "HCL Năvodari nr. 340/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 340/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-14",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/11/HCL-nr-340-din-14.12.2018.pdf",
+     "sha256": "928d7a315d318b476d57f4abbed2f28dc793e3deec525a6a6bc603212c53b9dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-341-2018",
+   "path": "local/constanta/navodari/2018/341",
+   "short": "HCL Năvodari nr. 341/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 341/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-341-din-20.12.2018.pdf",
+     "sha256": "f44164335ae149218a3b8dcd512ac65b9021262dddef9ffc3e80c7b0cbeb63b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-342-2018",
+   "path": "local/constanta/navodari/2018/342",
+   "short": "HCL Năvodari nr. 342/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 342/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-342-din-20.12.2018.pdf",
+     "sha256": "f97f3bcf1c230c0c4bd57bab302b7ba9bc432bff1328043eee3a7769c1f4dec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-345-2018",
+   "path": "local/constanta/navodari/2018/345",
+   "short": "HCL Năvodari nr. 345/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 345/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-345-din-20.12.2018.pdf",
+     "sha256": "8b8240166583b7f39e45ea2aade7f5d952bb608a8d7f34d7c0c1e932a1c576e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-355-2018",
+   "path": "local/constanta/navodari/2018/355",
+   "short": "HCL Năvodari nr. 355/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 355/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-355-din-20.12.2018.pdf",
+     "sha256": "9a6546c78865422e9ab054ff54da6e39b4a263c5801e8c50b482aa016c648957"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-356-2018",
+   "path": "local/constanta/navodari/2018/356",
+   "short": "HCL Năvodari nr. 356/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 356/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-356-din-20.12.2018.pdf",
+     "sha256": "125c1964120a7d47b8eff9b6a5b286de7e367d8a3f05ccff1001f55ce05d0365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-357-2018",
+   "path": "local/constanta/navodari/2018/357",
+   "short": "HCL Năvodari nr. 357/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 357/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-357-din-20.12.2018.pdf",
+     "sha256": "911a950e7a5c31b0a3b835ae9fe3394fdb50c28353a1cd36f40da6b8acbfb9ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-358-2018",
+   "path": "local/constanta/navodari/2018/358",
+   "short": "HCL Năvodari nr. 358/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 358/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-358-din-20.12.2018.pdf",
+     "sha256": "7ee70dffc57b4303036781236aa15b4d5f335c70b0232fc5caeb29102cae3429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-359-2018",
+   "path": "local/constanta/navodari/2018/359",
+   "short": "HCL Năvodari nr. 359/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 359/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-359-din-20.12.2018.pdf",
+     "sha256": "433e31417f78f75ff29390aed4b59be4408b535b0a1217dc8eb7f53cdde3c392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-360-2018",
+   "path": "local/constanta/navodari/2018/360",
+   "short": "HCL Năvodari nr. 360/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 360/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-360-din-20.12.2018.pdf",
+     "sha256": "6087f100775eecfd42296759ef139a22c07cffb0272de3c43e3f9a87bcba2327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-361-2018",
+   "path": "local/constanta/navodari/2018/361",
+   "short": "HCL Năvodari nr. 361/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 361/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-361-din-20.12.2018.pdf",
+     "sha256": "10ed248998c6bb35ca686d46880987424ed53a55b73c78bed0a24d072c59d6e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-362-2018",
+   "path": "local/constanta/navodari/2018/362",
+   "short": "HCL Năvodari nr. 362/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 362/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/12/HCL-nr-362-din-20.12.2018.pdf",
+     "sha256": "46b4fb5f4f9beca1c8b9434ef0e94999a8dcf66af37bb3be0bd1820ef06c2969"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-53-2018",
+   "path": "local/constanta/navodari/2018/53",
+   "short": "HCL Năvodari nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 53/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-08",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/03/HCL-nr-53-din-08.03.2018.pdf",
+     "sha256": "0a4672a438b15bfa5d0b251db1f68cd5eaa2c5e12ba3c958d3cec601e6f2b19c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-54-2018",
+   "path": "local/constanta/navodari/2018/54",
+   "short": "HCL Năvodari nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 54/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/03/HCL-nr-54-din-04.04.2018.pdf",
+     "sha256": "a8a3b171f39cb746319eafa00bfc8e2d5a124d265691e12b13abb11e52ca396c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-55-2018",
+   "path": "local/constanta/navodari/2018/55",
+   "short": "HCL Năvodari nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 55/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-55-din-04.04.2018.pdf",
+     "sha256": "9a3632cd1ef3e7f377e9d26b6376ad4d1790e61175442c7272e2a2cd68893f1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-56-2018",
+   "path": "local/constanta/navodari/2018/56",
+   "short": "HCL Năvodari nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 56/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-56-din-04.04.2018.pdf",
+     "sha256": "2826bcf16a51a3839ba1a712888c97fadea15dfa8fa55814de100cd213597950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-57-2018",
+   "path": "local/constanta/navodari/2018/57",
+   "short": "HCL Năvodari nr. 57/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 57/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-57-din-04.04.2018.pdf",
+     "sha256": "7cdb713d0ef471c3d42b0a7c4c2d2d6776d6bcfdb32670aa31583be3e284af40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-58-2018",
+   "path": "local/constanta/navodari/2018/58",
+   "short": "HCL Năvodari nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 58/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-58-din-04.04.2018.pdf",
+     "sha256": "ed417a0b71536ee353682fe56e5f65b79a47f408a170f9394ac4445fbedd96fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-59-2018",
+   "path": "local/constanta/navodari/2018/59",
+   "short": "HCL Năvodari nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 59/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-59-din-04.04.2018.pdf",
+     "sha256": "b914bb52a537c2735ace668c938db29015d8b31cf12159caf5f9b35811a685c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-65-2018",
+   "path": "local/constanta/navodari/2018/65",
+   "short": "HCL Năvodari nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 65/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-65-din-04.04.2018.pdf",
+     "sha256": "3411b67ce1978c3660b85a840c29852ed836d19b6dc5e9f38d2a4080a66d03f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-66-2018",
+   "path": "local/constanta/navodari/2018/66",
+   "short": "HCL Năvodari nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 66/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-66-din-04.04.2018.pdf",
+     "sha256": "4c93f304fc0e65113f5e4d2d56dcfb5d5c9f0648842e7657d170b7002f219b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-67-2018",
+   "path": "local/constanta/navodari/2018/67",
+   "short": "HCL Năvodari nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 67/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-67-din-04.04.2018.pdf",
+     "sha256": "29717c8c560595b736b0e13dd9e1b7ee656c492923d8d0ade9066962d46929fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-68-2018",
+   "path": "local/constanta/navodari/2018/68",
+   "short": "HCL Năvodari nr. 68/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 68/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-68-din-04.04.2018.pdf",
+     "sha256": "8c68091e72f10ba70614a08d0b994550ad53564708d532b9bc6e61b12098a4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-69-2018",
+   "path": "local/constanta/navodari/2018/69",
+   "short": "HCL Năvodari nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 69/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-69-din-04.04.2018.pdf",
+     "sha256": "b4043e001d982e68e4207c407749555166d8bcd5a33eeda60297e34782f43d70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-7-2018",
+   "path": "local/constanta/navodari/2018/7",
+   "short": "HCL Năvodari nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 7/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-7-din-25.01.2018.pdf",
+     "sha256": "c9acc71d3e13f0b0de053e33a12fade7b05a015543c6ab359eb2ddede080d97a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-70-2018",
+   "path": "local/constanta/navodari/2018/70",
+   "short": "HCL Năvodari nr. 70/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 70/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-70-din-04.04.2018.pdf",
+     "sha256": "0e6301027c9307871451780798d8cd66ce2cb6acec11a103fef857da4e02eb09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-71-2018",
+   "path": "local/constanta/navodari/2018/71",
+   "short": "HCL Năvodari nr. 71/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 71/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-71-din-04.04.2018.pdf",
+     "sha256": "bca2bc4cf387e1e5ecb308422d0f222f907153d4a009ca17a7a44b111954bdf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-72-2018",
+   "path": "local/constanta/navodari/2018/72",
+   "short": "HCL Năvodari nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 72/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-72-din-04.04.2018.pdf",
+     "sha256": "757d8b15b6d952baffa878e8912847466076f264c912dd9830666d26d74cf5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-73-2018",
+   "path": "local/constanta/navodari/2018/73",
+   "short": "HCL Năvodari nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 73/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-73-din-04.04.2018.pdf",
+     "sha256": "64a86ee75a3e6cd6b5c54416de4bd8cf3fe84c339081542ee3989f573c7d9e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-74-2018",
+   "path": "local/constanta/navodari/2018/74",
+   "short": "HCL Năvodari nr. 74/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 74/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-74-din-04.04.2018.pdf",
+     "sha256": "757df7d6e4ec9ba82aadc7cdf35b15f5849d3e024b08967e4ecf76830b818662"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-75-2018",
+   "path": "local/constanta/navodari/2018/75",
+   "short": "HCL Năvodari nr. 75/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 75/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-75-din-04.04.2018.pdf",
+     "sha256": "8191db9e20851d8559b4c98a9114a653393d821693f66670f2fdaaf113ab24f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-76-2018",
+   "path": "local/constanta/navodari/2018/76",
+   "short": "HCL Năvodari nr. 76/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 76/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-76-din-04.04.2018.pdf",
+     "sha256": "ceb340f92dee3248a8641fb03d2d9f2f4099b22cbd5a538d76f8415497bb939d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-77-2018",
+   "path": "local/constanta/navodari/2018/77",
+   "short": "HCL Năvodari nr. 77/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 77/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-77-din-04.04.2018.pdf",
+     "sha256": "546b1335344ffa7f27dbfd85f88f46711bac8282b06bf56d242948560ef72629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-78-2018",
+   "path": "local/constanta/navodari/2018/78",
+   "short": "HCL Năvodari nr. 78/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 78/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-78-din-04.04.2018.pdf",
+     "sha256": "3477b00549ef397c37fcfd7dd639a102b1f5f25d4d1828dce6d4029fa561942d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-79-2018",
+   "path": "local/constanta/navodari/2018/79",
+   "short": "HCL Năvodari nr. 79/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 79/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-79-din-04.04.2018.pdf",
+     "sha256": "528df98eabacc5e2b6c4c4d5ea6185168082aedb4a23dcb4048c3b0f21ea842e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-8-2018",
+   "path": "local/constanta/navodari/2018/8",
+   "short": "HCL Năvodari nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 8/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-25",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/02/HCL-nr-8-din-25.01.2018.pdf",
+     "sha256": "6f5be63ecca97ba9c2b84116d43f70498b65a3333eccb3630820846685c824ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-80-2018",
+   "path": "local/constanta/navodari/2018/80",
+   "short": "HCL Năvodari nr. 80/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 80/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-80-din-04.04.2018.pdf",
+     "sha256": "88ba0bd4af8264f9d4e8d801cd2fad2d4b97a43fe978e4dc0c92c87edcfb682c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-81-2018",
+   "path": "local/constanta/navodari/2018/81",
+   "short": "HCL Năvodari nr. 81/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 81/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-81-din-04.04.2018.pdf",
+     "sha256": "1e77aaed808f5c0c90154becc5cf260079ce89c429da21fbd958e6937c7b2489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-82-2018",
+   "path": "local/constanta/navodari/2018/82",
+   "short": "HCL Năvodari nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 82/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-82-din-04.04.2018.pdf",
+     "sha256": "605dcaf2b240b108d005c571e8d9c41db79b3eb4bec29e2d56855a65bb0cfdcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-83-2018",
+   "path": "local/constanta/navodari/2018/83",
+   "short": "HCL Năvodari nr. 83/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 83/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-83-din-04.04.2018.pdf",
+     "sha256": "7084afcac47b6c57161f0ff1ca612b21159dcdbe61286491054b23b6f2cd02a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-87-2018",
+   "path": "local/constanta/navodari/2018/87",
+   "short": "HCL Năvodari nr. 87/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 87/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-87-din-04.04.2018.pdf",
+     "sha256": "11dc921e982d49a80349b3490c15c3e3674f860a568045d1f53b226b8fdd460f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-88-2018",
+   "path": "local/constanta/navodari/2018/88",
+   "short": "HCL Năvodari nr. 88/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 88/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-88-din-04.04.2018.pdf",
+     "sha256": "dc5d6dfeb085f6771afa4d33ecdaf40b78b81f96fc9689d549ef4fe6f438805f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-89-2018",
+   "path": "local/constanta/navodari/2018/89",
+   "short": "HCL Năvodari nr. 89/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 89/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-89-din-04.04.2018.pdf",
+     "sha256": "3bfee69758b147062f6a39819a9d8745339db066faf2b19dedd983c5932f3d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-90-2018",
+   "path": "local/constanta/navodari/2018/90",
+   "short": "HCL Năvodari nr. 90/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 90/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-90-din-04.04.2018.pdf",
+     "sha256": "b80f7547007468ae67bf6eb5d1348ee1570cd59fe2467cca716d9492afb9d4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-91-2018",
+   "path": "local/constanta/navodari/2018/91",
+   "short": "HCL Năvodari nr. 91/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 91/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-91-din-04.04.2018.pdf",
+     "sha256": "ee25580a0d39304be111baac59a20b229a4d1f56e5e4d07995110b0e7c0223e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-92-2018",
+   "path": "local/constanta/navodari/2018/92",
+   "short": "HCL Năvodari nr. 92/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 92/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-92-din-04.04.2018.pdf",
+     "sha256": "9eb00d61d9ef3949221d37cdc09c1733aa6bf4b03df1f7b3ec30a2eae0050fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-93-2018",
+   "path": "local/constanta/navodari/2018/93",
+   "short": "HCL Năvodari nr. 93/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 93/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-93-din-04.04.2018.pdf",
+     "sha256": "2433c39276eb9371da56aa45ef8eebdd0dd3e30550fa334f673b3ef81f6ac812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-94-2018",
+   "path": "local/constanta/navodari/2018/94",
+   "short": "HCL Năvodari nr. 94/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 94/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-94-din-04.04.2018.pdf",
+     "sha256": "9abf87742312e4034e2a3e9ccbe27dbd5e2c9ce0997b7336aab57fd2b3a08850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-95-2018",
+   "path": "local/constanta/navodari/2018/95",
+   "short": "HCL Năvodari nr. 95/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 95/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-04-04",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-95-din-04.04.2018.pdf",
+     "sha256": "87b146b35097bf7e5808073bb6c561ebd11d5ce5257691930228192d98f22a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-96-2018",
+   "path": "local/constanta/navodari/2018/96",
+   "short": "HCL Năvodari nr. 96/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 96/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-96-din-02.05.2018.pdf",
+     "sha256": "a22957978164ef92d7e2864341cd1cd0c90a9c6d540022f18138d48182d7b98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-97-2018",
+   "path": "local/constanta/navodari/2018/97",
+   "short": "HCL Năvodari nr. 97/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 97/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-97-din-02.05.2018.pdf",
+     "sha256": "123b11e2482618f51db68b2ea7db118f9d4c805032714033bf1b316a342b7736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-98-2018",
+   "path": "local/constanta/navodari/2018/98",
+   "short": "HCL Năvodari nr. 98/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 98/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-98-din-02.05.2018.pdf",
+     "sha256": "5a61643845fc6ddcdaa725bbbcb5745b144dcd5eb8b48832ab61ea98a3cebf3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-99-2018",
+   "path": "local/constanta/navodari/2018/99",
+   "short": "HCL Năvodari nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 99/2018",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 1,
+     "source_url": "https://www.primaria-navodari.ro/wp-content/uploads/2018/05/HCL-nr-99-din-02.05.2018.pdf",
+     "sha256": "a3d91891b4a5e218db03cb08f126ef0418b6c6ca605814974dda34e8325e5398"
+    }
+   ]
+  }
+ ]
+}

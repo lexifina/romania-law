@@ -114,6 +114,29 @@
 }
 },
 {
+"slug": "hcl-constanta--mangalia-12-2024",
+"path": "local/constanta/mangalia/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 12/2024",
+"short": "HCL Mangalia nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://mangalia.ro/2024/04/hotararea-nr-12/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--mangalia-14-2024",
 "path": "local/constanta/mangalia/2024/14",
 "kind": "local",

@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mangalia-121-2018",
+   "path": "local/constanta/mangalia/2018/121",
+   "short": "HCL Mangalia nr. 121/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 121/2018 privind prelungirea Contractului de delegare a gestiunii serviciului de transport public local de persoane prin curse regulate în Municipiul Mangalia pentru traseul Mangalia – Olimp",
+   "url": "https://mangalia.ro/2018/01/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-07-17",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/HCL-121-din-18.07.2018.pdf",
+     "sha256": "78818e66cab5dd265b8b065613d69292941205d4848d3584812e74562245d517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-13-2018",
+   "path": "local/constanta/mangalia/2018/13",
+   "short": "HCL Mangalia nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 13/2018 privind transformarea unor posturi din statul de funcţii",
+   "url": "https://mangalia.ro/2018/01/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/HCL-13.pdf",
+     "sha256": "66447400bd25538ede6099deb45e0c3991891a9856eec47193aefdec7e2a5286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-15-2018",
+   "path": "local/constanta/mangalia/2018/15",
+   "short": "HCL Mangalia nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 15/2018 privind aprobarea aderării comunei Mihai Viteazu, județul Constanța la Asociația de Dezvoltare Intercomunitară ”Apă – Canal” Constanța",
+   "url": "https://mangalia.ro/2018/01/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/HCL-15.pdf",
+     "sha256": "d98c8baab0925edd0accec597d5fb90983b3e784318b488dc99a5a755144e3ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-18-2018",
+   "path": "local/constanta/mangalia/2018/18",
+   "short": "HCL Mangalia nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 18/2018 Privind aprobarea unor măsuri pentru încheierea contractelor de închiriere pentru chiriașii care sunt deja beneficiarii unor locuințe în vederea intrării acestora în legalitate",
+   "url": "https://mangalia.ro/2018/01/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/HCL-18.pdf",
+     "sha256": "d3b3c0c062b75c7853a08d567817dffe48ce1f7f6d89b397af55a44aeb945caf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mangalia-2-2018",
    "path": "local/constanta/mangalia/2018/2",
    "short": "HCL Mangalia nr. 2/2018",
@@ -29,6 +89,21 @@
      "units": 1,
      "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/2.pdf",
      "sha256": "dde872ad05dfe709ffc4ab45241f540cc657035a5b7f3018d21bd82b37ab88a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mangalia-24-2018",
+   "path": "local/constanta/mangalia/2018/24",
+   "short": "HCL Mangalia nr. 24/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 24/2018 privind trecerea din domeniul public în domeniul privat al Municipiului Mangalia , precum și actualizarea și completarea Inventarului bunurilor care alcătuiesc domeniul privat al UAT Mangalia",
+   "url": "https://mangalia.ro/2018/01/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "http://mangalia.ro/wp-content/uploads/2018/01/HCL-24.pdf",
+     "sha256": "41a4e279e0e3b26591270d6797131dfc03300284489aa59291c774fae68d1711"
     }
    ]
   },

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/navodari/2019",
+ "acts": [
+  {
+   "slug": "hcl-constanta--navodari-142-2019",
+   "path": "local/constanta/navodari/2019/142",
+   "short": "HCL Năvodari nr. 142/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 142/2019",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/07/HCL-nr-142-din-07.06.2019.pdf",
+     "sha256": "830949c5fe0e97109ab587aea7772de19dd1c4a5b1539919eb7c494e189a62fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-143-2019",
+   "path": "local/constanta/navodari/2019/143",
+   "short": "HCL Năvodari nr. 143/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2019",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/07/HCL-nr-143-din-07.06.2019.pdf",
+     "sha256": "d654c22fa8b2280cc899de398633c532a6d78db32b496f058c94455a95b80aa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-144-2019",
+   "path": "local/constanta/navodari/2019/144",
+   "short": "HCL Năvodari nr. 144/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 144/2019",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/07/HCL-nr-144-din-07.06.2019.pdf",
+     "sha256": "3c0b2f5fb3a8564518662393f7115d74eca82d1b6d1e50a5079cc807c282537e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-174-2019",
+   "path": "local/constanta/navodari/2019/174",
+   "short": "HCL Năvodari nr. 174/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 174/2019",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/07/HCL-nr-174-din-07.06.2019.pdf",
+     "sha256": "66aef31cf5fd29c556c29427648887b00220bf32fbb13826fa5f799e27d99f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-175-2019",
+   "path": "local/constanta/navodari/2019/175",
+   "short": "HCL Năvodari nr. 175/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 175/2019",
+   "url": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/07/HCL-nr-175-din-07.06.2019.pdf",
+     "sha256": "fb3d96f5b6c649033dbd55bebca48b3d665deeda67dc967de85dc87e070a22aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-219-2019",
+   "path": "local/constanta/navodari/2019/219",
+   "short": "HCL Năvodari nr. 219/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 219/2019",
+   "url": "https://www.primaria-navodari.ro/hotararea-nr-219-30-09-2019-privind-anularea-accesoriilor-aferente-obligatiilor-bugetare-principale-restante-la-31-12-2018-datorate-bugetului-local/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2019/10/HCL-219-din-30.09.2019.pdf",
+     "sha256": "2692330058820889c4ef6d7a11f626b360fa6ebedc2edc3cfc286edb07ded9a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-275-2019",
+   "path": "local/constanta/navodari/2019/275",
+   "short": "HCL Năvodari nr. 275/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 275/2019",
+   "url": "https://www.primaria-navodari.ro/hotarare-nr-275-18-12-2019-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2020/",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2020/01/HCL-275-din-18.12.2019.pdf",
+     "sha256": "9fdd8bfff18ecb686d98e32a547bde10987ccabc03ad5d1377907afa17b588cf"
+    }
+   ]
+  }
+ ]
+}

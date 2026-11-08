@@ -1,0 +1,63 @@
+**Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.**
+
+# Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.149/2020 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectorul bovin în contextul crizei economice generate de pandemia COVID 19
+
+**Became:** [Legea nr. 19/2021](../../../../lege/2021/19/) (`legea-19-2021`): that act is the law, from its own in-force day; read it with `python tools/on.py <day> legea-19-2021`.
+
+Proiect de lege L582/2020 · initiator: Guvernul României · 10 published stages, 2020-09-02 to 2021-03-12 · <https://www.senat.ro/legis/lista.aspx?nr_cls=L582&an_cls=2020>
+
+- Senate number: L582/2020
+- Type: Proiect de lege
+- Character: -
+- Urgent procedure: Da
+- First chamber: Senat
+- Legislative Council opinion: 880/27.08.2020
+- Stage in the bill file: A devenit Legea nr.19/12.03.2021 publicatã în M.O. nr.254/12.03.2021
+
+## Stages
+
+Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was published. Tag `proiect-parlament-2020-l582-2020/<day>` is the draft as it stood after that stage.
+
+| Day | Stage |
+| --- | --- |
+| 2020-09-02 | registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document |
+| 2020-09-15 | documents published: Aviz comisie |
+| 2020-09-16 | documents published: Aviz comisie |
+| 2020-09-23 | documents published: Aviz comisie |
+| 2020-10-01 | adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților |
+| 2020-10-20 | registered at the Chamber of Deputies |
+| 2021-02-17 | adopted by the Chamber of Deputies |
+| 2021-02-22 | documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare |
+| 2021-02-24 | sent for promulgation |
+| 2021-03-12 | promulgated, becomes Legea nr. 19/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată |
+
+## Files
+
+| File | What |
+| --- | --- |
+| [ad-0e0ca79f.md](ad-0e0ca79f.md) | Adresă de înaintare a inițiativei (AD), as published |
+| [afp-26658185.md](afp-26658185.md) | Adresă privind forma promulgată (AFP), as published |
+| [am-5550f1de.md](am-5550f1de.md) | Adresă către Camera Deputaților (AM), as published |
+| [axs-de3ec295.md](axs-de3ec295.md) | Adresă privind sesizarea CCR (AXS), as published |
+| [ca1-39455cf1.md](ca1-39455cf1.md) | Aviz comisie (CA1), as published |
+| [ca16-eaa1438e.md](ca16-eaa1438e.md) | Aviz comisie (CA16), as published |
+| [ca3-f028ebe5.md](ca3-f028ebe5.md) | Aviz comisie (CA3), as published |
+| [dp-71c75660.md](dp-71c75660.md) | Decret de promulgare (DP), as published |
+| [em-7ea2fd03.md](em-7ea2fd03.md) | Expunere de motive (EM), as published |
+| [fg-c6544041.md](fg-c6544041.md) | Forma inițiatorului (FG), as published |
+| [fp-bcd96edf.md](fp-bcd96edf.md) | Forma promulgată (FP), as published |
+| [fs-a442bd76.md](fs-a442bd76.md) | Forma adoptată de Senat (FS), as published |
+| [hg-e8b3886d.md](hg-e8b3886d.md) | Document (HG), as published |
+| [lg-d0020755.md](lg-d0020755.md) | Aviz Consiliul Legislativ (LG), as published |
+| [lp-90c94c26.md](lp-90c94c26.md) | Forma trimisă la promulgare (LP), as published |
+| [og-198d8ad1.md](og-198d8ad1.md) | Document (OG), as published |
+| [procedura.md](procedura.md) | Procedura: stages and documents so far |
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Draft id: `proiect-parlament-2020-l582-2020`. `tools/on.py` never returns a draft: it reads only commits with an `In-force:` trailer.
+
+## Decisions made by hand
+
+- Proiect de lege L582/2020: added by Lexifina's drafts source lane from the official bill file of the Senate (senat.ro). A draft is not law: its commits carry Kind: draft and no In-force trailer, dated on the day each stage was published, and credited to the initiator.
+- Proiect de lege L582/2020: comments by private persons are not collected or published; initiators are credited as a body.

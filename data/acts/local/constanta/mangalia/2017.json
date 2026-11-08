@@ -23,6 +23,72 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-constanta--mangalia-85-2017",
+"path": "local/constanta/mangalia/2017/85",
+"kind": "local",
+"year": "2017",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 85/2017 privind desemnarea reprezentanților Consiliului Local în calitate de observatori în cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Municipiul Mangalia",
+"short": "HCL Mangalia nr. 85/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-06-28",
+"latest": "2017-06-28",
+"portal": "https://mangalia.ro/2017/01/hcl-2017/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-86-2017",
+"path": "local/constanta/mangalia/2017/86",
+"kind": "local",
+"year": "2017",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 86/2017 privind aprobarea Acordului de cooperare privind acordarea de sprijin specific în domeniul menținerii ordinii și liniștii publice, prevenirii și combaterii faptelor antisociale pe teritoriul administrativ al Municipiului Mangalia în perioada estivală 1 Iulie – 31 August 2017",
+"short": "HCL Mangalia nr. 86/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-08-31",
+"latest": "2017-08-31",
+"portal": "https://mangalia.ro/2017/01/hcl-2017/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--mangalia-170-2017",
+"path": "local/constanta/mangalia/2017/170",
+"kind": "local",
+"year": "2017",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Mangalia nr. 170/2017 privind actualizarea situației financiar-contabile a UAT Mangalia prin scăderea din secțiunea venituri a unor sume, urmare a existenței de hotărâri judecătorești, definitive, cu impact asupra veniturilor bugetului local",
+"short": "HCL Mangalia nr. 170/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-20",
+"latest": "2017-12-20",
+"portal": "https://mangalia.ro/2017/01/hcl-2017/",
+"council": "constanta/mangalia",
+"council_name": "Consiliul Local al Municipiului Mangalia",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }
