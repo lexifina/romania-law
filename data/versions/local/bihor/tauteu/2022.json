@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-18-2022",
+   "path": "local/bihor/tauteu/2022/18",
+   "short": "HCL Tăuteu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 18/2022 privind aprobarea normativelor proprii de cheltuieli pentru comuna Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/72821",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/72821",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,831 @@
  "shard": "local/bihor/saniob/2020",
  "acts": [
   {
+   "slug": "hcl-bihor--saniob-1-2020",
+   "path": "local/bihor/saniob/2020/1",
+   "short": "HCL Sâniob nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 1/2020 privind aprobarea ordinii de zi pentru şedinţa extraordinară din data de 10.01.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/5959",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/5959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-10-2020",
+   "path": "local/bihor/saniob/2020/10",
+   "short": "HCL Sâniob nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 10/2020 privind aprobarea planului de acţiuni şi lucrări de interes local pentru persoanele apte de munca din familiile beneficiare de venit minim garantat pentru anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6243",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-11-2020",
+   "path": "local/bihor/saniob/2020/11",
+   "short": "HCL Sâniob nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 11/2020 privind aprobarea Planului Anual de Acţiune pentru anul 2020 in domeniul administrarii si organizarii serviciilor sociale la nivelul compartimentului de asistenta sociala din cadrul primariei comunei Saniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6250",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-12-2020",
+   "path": "local/bihor/saniob/2020/12",
+   "short": "HCL Sâniob nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 12/2020 privind modul de înscriere a datelor în Registrul Agricol al comunei Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6244",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-14-2020",
+   "path": "local/bihor/saniob/2020/14",
+   "short": "HCL Sâniob nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 14/2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6248",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-15-2020",
+   "path": "local/bihor/saniob/2020/15",
+   "short": "HCL Sâniob nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 15/2020 privind aprobarea Planului de analiza si acoperire a riscurilor in domeniul situaţiilor de urgenta, la nivelul comunei Saniob, judeţul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6246",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-16-2020",
+   "path": "local/bihor/saniob/2020/16",
+   "short": "HCL Sâniob nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 16/2020 privind aprobarea Planului de asigurare cu resurse umane, materiale şi financiare necesare pentru gestionarea situaţiilor de urgenţă",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6247",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-17-2020",
+   "path": "local/bihor/saniob/2020/17",
+   "short": "HCL Sâniob nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 17/2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6249",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-18-2020",
+   "path": "local/bihor/saniob/2020/18",
+   "short": "HCL Sâniob nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 18/2020 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6256",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-19-2020",
+   "path": "local/bihor/saniob/2020/19",
+   "short": "HCL Sâniob nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 19/2020 privind aprobarea procesului verbal de la şedinţa ordinară a consiliului local din 26.02.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6257",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-2-2020",
+   "path": "local/bihor/saniob/2020/2",
+   "short": "HCL Sâniob nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 2/2020 privind aprobarea procesului verbal de la şedinţa ordinară a consiliului local din 17.12.2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/5960",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/5960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-20-2020",
+   "path": "local/bihor/saniob/2020/20",
+   "short": "HCL Sâniob nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 20/2020 privind rectificarea bugetului local al comunei Saniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6258",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-21-2020",
+   "path": "local/bihor/saniob/2020/21",
+   "short": "HCL Sâniob nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 21/2020 privind asigurarea cofinanțării proiectului intitulat ”Sprijin pentru pregătirea aplicației de finanțare și a documentațiilor de atribuire pentru proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din zona de nord vest a judeţului Bihor, în perioada 2014-2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6259",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-22-2020",
+   "path": "local/bihor/saniob/2020/22",
+   "short": "HCL Sâniob nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 22/2020 privind aprobarea solicitării de prelungire a scrisorii de garanţie din partea Fondului de Garantare a Creditului Rural – IFN SA pentru obiectivul „ÎNFIINȚARE AFTER-SCHOOL ÎN LOCALITATEA SÂNIOB,COMUNA SÂNIOB”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6260",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-23-2020",
+   "path": "local/bihor/saniob/2020/23",
+   "short": "HCL Sâniob nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 23/2020 privind aprobarea caracteristicilor recipienților care se vor utiliza la colectarea separată a deșeurilor de pe raza comunei Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6261",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-24-2020",
+   "path": "local/bihor/saniob/2020/24",
+   "short": "HCL Sâniob nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 24/2020 privind aprobarea actului adițional de prelungire a contractului de comodat nr.384/19.03.2010 încheiat între Comuna Sâniob și Fundația Pro Szentjobb",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6262",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-25-2020",
+   "path": "local/bihor/saniob/2020/25",
+   "short": "HCL Sâniob nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 25/2020 privind modificarea Regulamentului de Organizare și Funcționare al Consiliului Local",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6263",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-26-2020",
+   "path": "local/bihor/saniob/2020/26",
+   "short": "HCL Sâniob nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 26/2020 privind aprobarea ordinii de zi , comuna Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8511",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-27-2020",
+   "path": "local/bihor/saniob/2020/27",
+   "short": "HCL Sâniob nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 27/2020 privind procesul verbal de la ședința ordinară a Consiliului Local al comunei Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8512",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-28-2020",
+   "path": "local/bihor/saniob/2020/28",
+   "short": "HCL Sâniob nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 28/2020 privind rectificarea bugetului local al comunei Saniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8520",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-29-2020",
+   "path": "local/bihor/saniob/2020/29",
+   "short": "HCL Sâniob nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 29/2020 privind aprobarea contului de incheiere al exercitiului bugetar al comunei Saniob pe anul 2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8514",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-3-2020",
+   "path": "local/bihor/saniob/2020/3",
+   "short": "HCL Sâniob nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 3/2020 privind aprobarea acoperirii definitive a deficitului bugetului local pe sectiunea de dezvoltare pe anul 2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/5961",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/5961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-30-2020",
+   "path": "local/bihor/saniob/2020/30",
+   "short": "HCL Sâniob nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 30/2020 privind aprobarea contului de încheiere al exerciţiului bugetar al comunei Saniob pe trimestrul I, anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8513",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-31-2020",
+   "path": "local/bihor/saniob/2020/31",
+   "short": "HCL Sâniob nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 31/2020 privind implementarea proiectului „Achizitionare instalație de dezinfecție și dezinsecție, in comuna Sâniob, judetul Bihor”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8515",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-32-2020",
+   "path": "local/bihor/saniob/2020/32",
+   "short": "HCL Sâniob nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 32/2020 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor care nu se supun înmatriculării",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8516",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-33-2020",
+   "path": "local/bihor/saniob/2020/33",
+   "short": "HCL Sâniob nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 33/2020 privind prezentarea RAPORTULUI PRIMARULUI DE INFORMARE PRIVIND STAREA ECONOMICA, SOCIALA SI DE MEDIU A COMUNEI SANIOB PE ANUL 2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8519",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-35-2020",
+   "path": "local/bihor/saniob/2020/35",
+   "short": "HCL Sâniob nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 35/2020 privind prezentarea rapoartelor de activitate pe anul 2019 ale viceprimarului si consilierilor locali din comuna Saniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8517",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-36-2020",
+   "path": "local/bihor/saniob/2020/36",
+   "short": "HCL Sâniob nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 36/2020 privind alegerea președintelui de ședință, comuna Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8521",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-37-2020",
+   "path": "local/bihor/saniob/2020/37",
+   "short": "HCL Sâniob nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 37/2020 privind aprobarea ordinii de zi pentru şedinţa ordinară din data de 18.06 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8522",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-38-2020",
+   "path": "local/bihor/saniob/2020/38",
+   "short": "HCL Sâniob nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 38/2020 privind aprobarea procesului verbal de la şedinţa ordinară a Consiliului local al comunei SÂNIOB din 13.05.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8524",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-39-2020",
+   "path": "local/bihor/saniob/2020/39",
+   "short": "HCL Sâniob nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 39/2020 privind rectificarea bugetului local al comunei Saniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8523",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-4-2020",
+   "path": "local/bihor/saniob/2020/4",
+   "short": "HCL Sâniob nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 4/2020 privind aprobarea utilizării excedentului bugetului local al comunei SÂNIOB pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/5962",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/5962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-40-2020",
+   "path": "local/bihor/saniob/2020/40",
+   "short": "HCL Sâniob nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 40/2020 privind aprobarea documentului „Ghidul Solicitantului privind regimul finanţărilor nerambursabile alocate de la bugetul local al comunei Sâniob pentru activităţi nonprofit de interes local în anul 2020”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8525",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-41-2020",
+   "path": "local/bihor/saniob/2020/41",
+   "short": "HCL Sâniob nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 41/2020 privind aprobarea modului de plată a serviciului de salubrizare în cadrul comunei Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8526",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-42-2020",
+   "path": "local/bihor/saniob/2020/42",
+   "short": "HCL Sâniob nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 42/2020 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Comunei Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8527",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-43-2020",
+   "path": "local/bihor/saniob/2020/43",
+   "short": "HCL Sâniob nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 43/2020 privind aprobarea modului de valorificare a masei lemnoase provenită din partida 50044, 50047 și 50048 PR Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8528",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-44-2020",
+   "path": "local/bihor/saniob/2020/44",
+   "short": "HCL Sâniob nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 44/2020 privind aprobarea raportului primarului comunei Saniob privind situatia gestionarii bunurilor si inventarierea patrimoniului comunei la sfarsitul anului 2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8529",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-45-2020",
+   "path": "local/bihor/saniob/2020/45",
+   "short": "HCL Sâniob nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 45/2020 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8530",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-46-2020",
+   "path": "local/bihor/saniob/2020/46",
+   "short": "HCL Sâniob nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 46/2020 privind aprobarea procesului verbal al şedinţei ordinare din data de 18.06.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8531",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-47-2020",
+   "path": "local/bihor/saniob/2020/47",
+   "short": "HCL Sâniob nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 47/2020 privind rectificarea bugetului comunei Sâniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8532",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-48-2020",
+   "path": "local/bihor/saniob/2020/48",
+   "short": "HCL Sâniob nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 48/2020 privind aprobarea contului de încheiere al exerciţiului bugetar al comunei Saniob pe trimestrul II, anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8533",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-49-2020",
+   "path": "local/bihor/saniob/2020/49",
+   "short": "HCL Sâniob nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 49/2020 privind aprobarea taxelor pentru eliberarea certificatului de înregistrare a vehiculelor și a plăcuțelor de înregistrare",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8534",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-50-2020",
+   "path": "local/bihor/saniob/2020/50",
+   "short": "HCL Sâniob nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 50/2020 privind repartizarea sumei de 140.000 lei pentru reparatii trotuare pe strazi ale localitatii Saniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8535",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-51-2020",
+   "path": "local/bihor/saniob/2020/51",
+   "short": "HCL Sâniob nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 51/2020 privind punerea la dispozitia proiectului „Sistem informațional pentru managementul integrat al apelor–etapa II” dezvoltat de către Administrația Națională \"Apele Romane\" a terenului pentru constructia noilor investitii aferente acestuia",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/8536",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/8536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-52-2020",
+   "path": "local/bihor/saniob/2020/52",
+   "short": "HCL Sâniob nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 52/2020 privind aprobarea ordinii de zi pentru ședința ordinară din data de 21.09.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17438",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-53-2020",
+   "path": "local/bihor/saniob/2020/53",
+   "short": "HCL Sâniob nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 53/2020 privind aprobarea procesului verbal de la ședința ordinară a Consiliului local al comunei Sâniob din 28.07.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17439",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-54-2020",
+   "path": "local/bihor/saniob/2020/54",
+   "short": "HCL Sâniob nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 54/2020 privind rectificarea bugetului local al comunei Sâniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17440",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-55-2020",
+   "path": "local/bihor/saniob/2020/55",
+   "short": "HCL Sâniob nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 55/2020 privind aprobarea Planurilor de amplasament și delimitare a unui imobil în vederea introducerii în circuitul civil a drumului comunal DC17, constituirea a trei nr. cadastrale și înscrierea în CF a domeniului pubilc",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17441",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-56-2020",
+   "path": "local/bihor/saniob/2020/56",
+   "short": "HCL Sâniob nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 56/2020 privind aprobarea indicatorilor financiari actualizați pentru proiectul „Înființare after-school în localitatea Sâniob, comuna Sâniob”",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17442",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-58-2020",
+   "path": "local/bihor/saniob/2020/58",
+   "short": "HCL Sâniob nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 58/2020 privind aprobarea ordinii de zi pentru ședința ordinară din data de 26.11.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17460",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-59-2020",
+   "path": "local/bihor/saniob/2020/59",
+   "short": "HCL Sâniob nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 59/2020 privind organizarea comisiilor pe domenii de specialitate ale Consiliului local",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17461",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-6-2020",
+   "path": "local/bihor/saniob/2020/6",
+   "short": "HCL Sâniob nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 6/2020 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6239",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-60-2020",
+   "path": "local/bihor/saniob/2020/60",
+   "short": "HCL Sâniob nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 60/2020 privind alegerea Viceprimarului comunei Sâniob, județul Bihor",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17462",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-61-2020",
+   "path": "local/bihor/saniob/2020/61",
+   "short": "HCL Sâniob nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 61/2020 privind aprobarea revizuirii Regulamentului de organizare și funcționare a Consiliului Local al comunei Sâniob",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17463",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-62-2020",
+   "path": "local/bihor/saniob/2020/62",
+   "short": "HCL Sâniob nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 62/2020 privind rectificarea bugetului local al comunei Sâniob pe anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/17464",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/17464",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-65-2020",
    "path": "local/bihor/saniob/2020/65",
    "short": "HCL Sâniob nr. 65/2020",
@@ -73,6 +898,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/saniob-bh/registru-hcl/17471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-7-2020",
+   "path": "local/bihor/saniob/2020/7",
+   "short": "HCL Sâniob nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 7/2020 privind aprobarea procesului verbal al ședinței din 06.01.2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6240",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6240",
      "sha256": null
     }
    ]
@@ -228,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--saniob-8-2020",
+   "path": "local/bihor/saniob/2020/8",
+   "short": "HCL Sâniob nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 8/2020 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Saniob pe trimestrul IV, anul 2019",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6241",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6241",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--saniob-80-2020",
    "path": "local/bihor/saniob/2020/80",
    "short": "HCL Sâniob nr. 80/2020",
@@ -298,6 +1153,21 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/saniob-bh/registru-hcl/17500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--saniob-9-2020",
+   "path": "local/bihor/saniob/2020/9",
+   "short": "HCL Sâniob nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sâniob nr. 9/2020 privind aprobarea bugetului comunei Saniob pentru anul 2020",
+   "url": "https://emol.ro/saniob-bh/registru-hcl/6242",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/saniob-bh/registru-hcl/6242",
      "sha256": null
     }
    ]

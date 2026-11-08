@@ -2677,6 +2677,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-588-2016",
+"path": "ordin/anaf/2016/588",
+"kind": "ordin",
+"year": "2016",
+"number": "588",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 588/2016 pentru aprobarea modelului și conținutului formularului (300) \"Decont de taxă pe valoarea adăugată\"",
+"short": "Ordin anaf nr. 588/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-08",
+"latest": "2016-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/175661",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-591-2016",
 "path": "ordin/anaf/2016/591",
 "kind": "ordin",
@@ -12257,6 +12276,25 @@
 "from": "2017-01-01",
 "latest": "2017-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/182768",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "ordin-bnr-8-2016",
+"path": "ordin/bnr/2016/8",
+"kind": "ordin",
+"year": "2016",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8/2016 privind prelungirea perioadei de suspendare a aplicării Ordinului nr. 1/2016 privind amortizorul de capital pentru risc sistemic",
+"short": "Ordin bnr nr. 8/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-01-01",
+"latest": "2017-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/185051",
 "issuer": "bnr",
 "joint": []
 },
@@ -24141,6 +24179,25 @@
 "alias": "ordin-ins-5186-2016"
 }
 ]
+},
+{
+"slug": "ordin-interne-163-2016",
+"path": "ordin/interne/2016/163",
+"kind": "ordin",
+"year": "2016",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 163/2016 pentru aprobarea Regulamentului de organizare și funcționare a Direcției generale afaceri europene, Schengen și relații internaționale",
+"short": "Ordin interne nr. 163/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-11-01",
+"latest": "2016-11-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/183247",
+"issuer": "interne",
+"joint": []
 },
 {
 "slug": "ordin-interne-164-2016",

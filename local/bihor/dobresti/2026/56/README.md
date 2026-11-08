@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Dobrești nr. 56/2026 privind aprobarea proiectului și a cheltuielilor legate de proiect „Implementarea unui sistem de Alimentare Centralizată cu Energie Termică (SACET) realizat utilizând cogenerarea de înaltă eficiență din biomasă în comuna Dobrești, jud. Bihor”
+
+HCL Dobrești nr. 56/2026 · 1 versions, from 2026-05-19 (latest in force: 2026-05-19) · <https://emol.ro/dobresti-bh/registru-hcl/269616>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--dobresti-56-2026` (tags `hcl-bihor--dobresti-56-2026/<day>`; `python tools/on.py <day> hcl-bihor--dobresti-56-2026`).
+
+## Decisions made by hand
+
+- HCL Dobrești nr. 56/2026: listed from Consiliul Local al Comunei Dobrești (emol.ro); metadata only for now: no document of it is held.
+- HCL Dobrești nr. 56/2026: dated from 19 May 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Dobrești nr. 56/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "norma-asf-24-2022",
+   "path": "norma/asf/2022/24",
+   "short": "Norma asf nr. 24/2022",
+   "title": "Norma nr. 24/2022 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 4/2018 privind gestionarea riscurilor operaționale generate de sistemele informatice utilizate de entitățile autorizate/avizate/înregistrate, reglementate și/sau supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258701",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258701",
+     "sha256": "64430a9509159793ee86e5ada30833360e912f0fb244bb4bebd095ef685dcc7f"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-25-2022",
    "path": "norma/asf/2022/25",
    "short": "Norma asf nr. 25/2022",
@@ -239,6 +254,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260334",
      "sha256": "a6210aeb50bedcf25699ba3621e7c83ff595f3546dabd33bdd46b5a99ea7cbbb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2022",
+   "path": "norma/asf/2022/27",
+   "short": "Norma asf nr. 27/2022",
+   "title": "Norma nr. 27/2022 privind modificarea Normei Autorității de Supraveghere Financiară nr. 13/2018 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind scenariile de simulare a situațiilor de criză în temeiul art. 28 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260523",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260523",
+     "sha256": "f83e4ed29a5463fc04dead8b863f9279e452367420df9505f194d8c831e06999"
     }
    ]
   },

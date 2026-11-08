@@ -2643,6 +2643,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-111-2014",
+   "path": "ordin/anre/2014/111",
+   "short": "Ordin anre nr. 111/2014",
+   "title": "Ordinul nr. 111/2014 privind aprobarea Metodologiei de stabilire a prețurilor pentru energia termică livrată în SACET din centrale cu unități de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficiență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162765",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162765",
+     "sha256": "8dcc6d50011308191fd2b34a844777be8faa7daafd95129206045c0c4bbe561a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-112-2014",
    "path": "ordin/anre/2014/112",
    "short": "Ordin anre nr. 112/2014",
@@ -5253,6 +5268,21 @@
    ]
   },
   {
+   "slug": "ordin-aparare-48-2014",
+   "path": "ordin/aparare/2014/48",
+   "short": "Ordin aparare nr. 48/2014",
+   "title": "Ordinul nr. 48/2014 pentru modificarea și completarea Instrucțiunilor privind folosirea de către personalul armatei și alți beneficiari a fondului construit al Ministerului Apărării Naționale, destinat cazării, refacerii capacității de muncă și activităților recreative și sportive, aprobate prin Ordinul ministrului apărării nr. M.128/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157894",
+   "versions": [
+    {
+     "from": "2014-05-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157894",
+     "sha256": "d014ff500020738f624995ae3bc8b25cee267acc614554ebac64b6e71e78b6ea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aparare-50-2014",
    "path": "ordin/aparare/2014/50",
    "short": "Ordin aparare nr. 50/2014",
@@ -5294,6 +5324,21 @@
      "units": 143,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159267",
      "sha256": "700161bb7e6f3f6f878b60e9480e42257b56b95f372562de1752b952a999a985"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-aparare-78-2014",
+   "path": "ordin/aparare/2014/78",
+   "short": "Ordin aparare nr. 78/2014",
+   "title": "Ordinul nr. 78/2014 pentru modificarea și completarea Instrucțiunilor de aplicare în Ministerul Apărării Naționale a prevederilor Legii nr. 384/2006 privind statutul soldaților și gradaților profesioniști, aprobate prin Ordinul ministrului apărării naționale nr. M.39/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159965",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159965",
+     "sha256": "24430f4dd97864c0821646a537651468edbf97c3829f8f4a0253bbd4e70dd811"
     }
    ]
   },
@@ -7529,6 +7574,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157499",
      "sha256": "b3f7a943b290f2eac90fdd99d172ee3ec353d3470b56c2765e8c0723c1c5de16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-490-2014",
+   "path": "ordin/dezvoltare/2014/490",
+   "short": "Ordin dezvoltare nr. 490/2014",
+   "title": "Ordinul nr. 490/2014 pentru modificarea punctului 5 al articolului 11 din anexa la Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 287/2008 privind aprobarea Schemei de ajutor de stat pentru dezvoltare regională prin crearea și dezvoltarea structurilor de sprijinire a afacerilor din cadrul Programului operațional regional 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157434",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157434",
+     "sha256": "92ffd282ea039358da777c1dcbab5525c083189532341150772a1fe59c930771"
     }
    ]
   },
@@ -10998,6 +11058,36 @@
    ]
   },
   {
+   "slug": "ordin-externe-821-2014",
+   "path": "ordin/externe/2014/821",
+   "short": "Ordin externe nr. 821/2014",
+   "title": "Ordinul nr. 821/2014 privind aprobarea Licenței generale de transfer de introducere temporară pe teritoriul României de produse militare, pentru participare la demonstrații, evaluări sau expoziții nr. LGIN-RO-02",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157130",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157130",
+     "sha256": "0375c2b9b65a09a95841372b3ab5d00d997580a582d8b8b96588b615ad530e08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-822-2014",
+   "path": "ordin/externe/2014/822",
+   "short": "Ordin externe nr. 822/2014",
+   "title": "Ordinul nr. 822/2014 privind aprobarea Licenței generale de import temporar de produse militare, pentru participare la demonstrații, evaluări sau expoziții nr. LGIM-RO-01",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157131",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157131",
+     "sha256": "71d5947fb7e50a9f65cc0b9bcdcfb867cc5720b9d9c7a4373138f80aba254272"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-823-2014",
    "path": "ordin/externe/2014/823",
    "short": "Ordin externe nr. 823/2014",
@@ -11024,6 +11114,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157363",
      "sha256": "151196cba122799f2c47560089717d7673c3a4fb431d54775233d3e75ed0a512"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-externe-922-2014",
+   "path": "ordin/externe/2014/922",
+   "short": "Ordin externe nr. 922/2014",
+   "title": "Ordinul nr. 922/2014 privind organizarea și funcționarea Consiliului interministerial din cadrul sistemului național de control al exporturilor, importurilor și altor operațiuni cu produse militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157776",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157776",
+     "sha256": "4e18c68caf68acf6a76d7d474a22e0b5b3d5df42c4276539a9a09eeb79ab7f54"
     }
    ]
   },
@@ -12959,6 +13064,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164176",
      "sha256": "2e1dccc187921b164359ca963cd80cdbc565479b6b2823dd573164e994136e03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-1338-2014",
+   "path": "ordin/fonduri/2014/1338",
+   "short": "Ordin fonduri nr. 1338/2014",
+   "title": "Ordinul nr. 1.338/2014 pentru aprobarea Ghidului solicitantului - Condiții specifice pentru Cererea de propuneri de proiecte de tip sistemic nr. 186 \"Competențe pentru competitivitate în domeniul medical - transplant de organe, țesuturi și celule\", finanțată prin Programul operațional sectorial \"Dezvoltarea resurselor umane\" 2007-2013, domeniul major de intervenție 3.2 \"Formare și sprijin pentru întreprinderi și angajați pentru promovarea adaptabilității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164248",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164248",
+     "sha256": "51618db9bf9b7e0f0e69f3c0d9c9f6338420768b2990c718e8dc5341296d8276"
     }
    ]
   },
@@ -20309,6 +20429,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163674",
      "sha256": "4167c691005ce8c1b69a92be5106e640ca8703d2d8620bbf33cf914a748a2287"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1611-2014",
+   "path": "ordin/transporturi/2014/1611",
+   "short": "Ordin transporturi nr. 1611/2014",
+   "title": "Ordinul nr. 1.611/2014 privind organizarea și funcționarea Centrului operativ pentru situații de urgență cu activitate permanentă din cadrul Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163724",
+   "versions": [
+    {
+     "from": "2014-12-11",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163724",
+     "sha256": "f99bf4f19fa44118c123c00628e0ffd943926e065933867ec687e86c118fc274"
     }
    ]
   },

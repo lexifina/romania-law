@@ -3,6 +3,116 @@
 "shard": "local/bihor/tarcea/2021",
 "acts": [
 {
+"slug": "hcl-bihor--tarcea-3-2021",
+"path": "local/bihor/tarcea/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 3/2021 privind aprobarea modificărilor tehnice și financiare care fac obiectul Notelor de Comanda Suplimentară (NCS) și Notelor de renunțare (NR) pentru obiectivul „REABILITAREA, MODERNIZAREA ȘI DOTAREA CĂMINULUI CULTURAL DIN LOCALITATEA GALOȘPETREU, COMUNA TARCEA, JUDEŢUL BIHOR”",
+"short": "HCL Tarcea nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/27942",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-4-2021",
+"path": "local/bihor/tarcea/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 4/2021 privind instituirea taxei speciale de salubrizare și aprobarea Regulamentului cu privire la instituirea și administrarea taxei speciale de salubrizare în comuna Tarcea,județul Bihor",
+"short": "HCL Tarcea nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/27943",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-10-2021",
+"path": "local/bihor/tarcea/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 10/2021 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidenţa şi radierea vehiculelor de pe raza administrativ-teritorialăa comunei Tarcea, pentru care există obligativitatea înregistrării",
+"short": "HCL Tarcea nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/27949",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-22-2021",
+"path": "local/bihor/tarcea/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 22/2021 privind adoptarea bugetului Comunei Tarcea pe anul 2021",
+"short": "HCL Tarcea nr. 22/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/27965",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-28-2021",
+"path": "local/bihor/tarcea/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 28/2021 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul 2022",
+"short": "HCL Tarcea nr. 28/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/27971",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--tarcea-76-2021",
 "path": "local/bihor/tarcea/2021/76",
 "kind": "local",

@@ -3,6 +3,231 @@
  "shard": "local/bihor/abram/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--abram-12-2024",
+   "path": "local/bihor/abram/2024/12",
+   "short": "HCL Abram nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 12/2024",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156566",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-22-2024",
+   "path": "local/bihor/abram/2024/22",
+   "short": "HCL Abram nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 22/2024 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii „Reabilitare si modernizare drum comunal DC125 în comuna Abram, județul Bihor”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156576",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-25-2024",
+   "path": "local/bihor/abram/2024/25",
+   "short": "HCL Abram nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 25/2024 privind aprobarea volumului de masă lemnoasă care se recoltează în anul 2024 din fondul forestier proprietate publică a comunei Abram si aprobarea modului de valorificare a acesteia",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156582",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-26-2024",
+   "path": "local/bihor/abram/2024/26",
+   "short": "HCL Abram nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 26/2024 privind aprobarea volumului de masă lemnoasă accidentală care se recoltează în anul 2024 din fondul forestier proprietate publică a comunei Abram, ca urmare a unor fenomene meteorologice",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156583",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-28-2024",
+   "path": "local/bihor/abram/2024/28",
+   "short": "HCL Abram nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 28/2024 privind întocmirea documentațiilor cadastrale pentru puțuri de apă și bazine de apă din comuna Abram, având categoria de folosință curti constructii, cu propunerea de constituire de număr cadastral pentru acest imobile",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156585",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-29-2024",
+   "path": "local/bihor/abram/2024/29",
+   "short": "HCL Abram nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 29/2024 privind aprobarea Metodologiei de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente și alte situații deosebite, inclusiv în caz de deces în țară sau în străinătate",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156586",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-32-2024",
+   "path": "local/bihor/abram/2024/32",
+   "short": "HCL Abram nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 32/2024 privind participarea la Programul vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156589",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-39-2024",
+   "path": "local/bihor/abram/2024/39",
+   "short": "HCL Abram nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 39/2024 privind aprobarea contului de executie bugetara pe trimestrul I anul 2024",
+   "url": "https://emol.ro/abram-bh/registru-hcl/156596",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/156596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-48-2024",
+   "path": "local/bihor/abram/2024/48",
+   "short": "HCL Abram nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 48/2024 privind aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale angajatilor din cadrul aparatului de specialitate al Primarului Comunei Abram, incepand cu data de 1 iunie 2024",
+   "url": "https://emol.ro/abram-bh/registru-hcl/172805",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/172805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-49-2024",
+   "path": "local/bihor/abram/2024/49",
+   "short": "HCL Abram nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 49/2024 privind prelungirea valabilitatii Planului Urbanistic General al comunei Abram",
+   "url": "https://emol.ro/abram-bh/registru-hcl/172806",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/172806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-55-2024",
+   "path": "local/bihor/abram/2024/55",
+   "short": "HCL Abram nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 55/2024",
+   "url": "https://emol.ro/abram-bh/registru-hcl/172815",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/172815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-60-2024",
+   "path": "local/bihor/abram/2024/60",
+   "short": "HCL Abram nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 60/2024 privind aprobarea prețului de valorificare a masei lemnoase exploatate din fondul forestier al comunei Abram în anul 2024",
+   "url": "https://emol.ro/abram-bh/registru-hcl/175309",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/175309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-61-2024",
+   "path": "local/bihor/abram/2024/61",
+   "short": "HCL Abram nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 61/2024 privind aprobarea volumului de masă lemnoasă care se recoltează în anul 2025 din fondul forestier proprietate publică a comunei Abram si aprobarea modului de valorificare a acesteia",
+   "url": "https://emol.ro/abram-bh/registru-hcl/175321",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/175321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-68-2024",
+   "path": "local/bihor/abram/2024/68",
+   "short": "HCL Abram nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 68/2024 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat „Silvo-mediu si clima” aferenta investitiei DR- 07 „Silvo-mediu si clima”, PS PAC 2023-2027, Editia I, Sesiunea 1/2024, Cod: GS – DR – 07",
+   "url": "https://emol.ro/abram-bh/registru-hcl/175342",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/175342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-71-2024",
+   "path": "local/bihor/abram/2024/71",
+   "short": "HCL Abram nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 71/2024 privind aprobarea actualizarii indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN COMUNA ABRAM JUDEȚUL BIHOR”, aprobat pentru finanțare prin “Programul privind cresterea eficientei energetice a infrastructurii de iluminat public”",
+   "url": "https://emol.ro/abram-bh/registru-hcl/175352",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/175352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--abram-75-2024",
    "path": "local/bihor/abram/2024/75",
    "short": "HCL Abram nr. 75/2024",

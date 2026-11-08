@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "instructiuni-cnvm-5-2011",
+   "path": "instructiuni/cnvm/2011/5",
+   "short": "Instrucțiuni cnvm nr. 5/2011",
+   "title": "Instrucțiunile nr. 5/2011 de modificare și completare a Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130447",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130447",
+     "sha256": "0808bfcda8b31244a95e8ba4ed451a49631aa0f857ffb72b3961527baf1d7c8c"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-cnvm-6-2011",
    "path": "instructiuni/cnvm/2011/6",
    "short": "Instrucțiuni cnvm nr. 6/2011",

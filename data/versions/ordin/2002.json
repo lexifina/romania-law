@@ -4668,6 +4668,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-605-2002",
+   "path": "ordin/agricultura/2002/605",
+   "short": "Ordin agricultura nr. 605/2002",
+   "title": "Ordinul nr. 605/2002 pentru aprobarea Normei sanitare veterinare cu privire la extinderea perioadei maxime stabilite pentru aplicarea crotaliilor auriculare la zimbru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41049",
+   "versions": [
+    {
+     "from": "2003-01-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41049",
+     "sha256": "4706d0f54136970a751d220237f6666ef33d5f177b036c78bf781cfea5d9020f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-607-2002",
    "path": "ordin/agricultura/2002/607",
    "short": "Ordin agricultura nr. 607/2002",
@@ -5894,6 +5909,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35339",
      "sha256": "9d564d4045ddf0d8022e0c437dda2b1030b80f5402899481116448e394acfc99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-51-2002",
+   "path": "ordin/anrm/2002/51",
+   "short": "Ordin anrm nr. 51/2002",
+   "title": "Ordinul nr. 51/2002 privind concursul public de oferte nr. 29/2002 pentru concesionarea unor activități miniere de explorare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34830",
+   "versions": [
+    {
+     "from": "2002-04-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34830",
+     "sha256": "ee25accccf3ee0a69e7702263e5475c2a076df7c59c2cae49b5290174bd8b802"
     }
    ]
   },
@@ -7739,6 +7769,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37331",
      "sha256": "d417547cecd40a9d67fafa5cb2c9cbb5e0e1bd816924170134fe534aa39e7d9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-668-2002",
+   "path": "ordin/dezvoltare/2002/668",
+   "short": "Ordin dezvoltare nr. 668/2002",
+   "title": "Ordinul nr. 668/2002 privind participarea Inspectoratului de Stat în Construcții - I.S.C. la recepția lucrărilor de construcții finanțate prin bugetul Ministerului Lucrărilor Publice, Transporturilor și Locuinței",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36115",
+   "versions": [
+    {
+     "from": "2002-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36115",
+     "sha256": "a2b90e6a1a02c24384cc1d345338a2f56c8a2fe99e1c9974f140a2284dfa1b05"
     }
    ]
   },

@@ -3,6 +3,336 @@
  "shard": "local/bihor/lazuri-de-beius/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--lazuri-de-beius-11-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/11",
+   "short": "HCL Lazuri de Beiuș nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 11/2021 privind aprobarea execuției bugetare pe anul 2020",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39538",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-12-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/12",
+   "short": "HCL Lazuri de Beiuș nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 12/2021 privind aprobarea situației financiare anuale la data de 31 decembrie 2020",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39539",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-13-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/13",
+   "short": "HCL Lazuri de Beiuș nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 13/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39540",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-14-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/14",
+   "short": "HCL Lazuri de Beiuș nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 14/2021 privind aprobarea Planului de acțiuni și interes local la nivelul comunei Lazuri de Beiuș, pe anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39541",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-15-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/15",
+   "short": "HCL Lazuri de Beiuș nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 15/2021 privind aprobarea raportului pe sem. II al anului 2020, a modului de îndeplinire a obligațiilor asistenților personali ai persoanelor încadrate în grad de handicap grav",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39542",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-16-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/16",
+   "short": "HCL Lazuri de Beiuș nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 16/2021 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul comunei Lazuri de Bieuș, pe anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39543",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-17-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/17",
+   "short": "HCL Lazuri de Beiuș nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 17/2021 privind virarea și utilizarea unei sume din excedentul bugetar pe anul 2020 pt. finanțarea cheltuielilor secțiunii de dezvoltare pe anul 2021 pentru plata la obiectivul de investiții ''Amenajare și dotare spațiu public și de agrement Băleni, comuna Lazuri de Beiuș''",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39544",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-21-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/21",
+   "short": "HCL Lazuri de Beiuș nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 21/2021 privind aprobarea bugetului local al comunei Lazuri de Beiuș pe anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39581",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-22-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/22",
+   "short": "HCL Lazuri de Beiuș nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 22/2021 privind stabilirea impozitelor şi taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39582",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-23-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/23",
+   "short": "HCL Lazuri de Beiuș nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 23/2021 privind aprobarea cuantumului si numărul burselor școlare pentru elevii Scolii Gimnaziale Nr 1 Lazuri de Beiuș, pentru anul școlar 2020 - 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39583",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-26-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/26",
+   "short": "HCL Lazuri de Beiuș nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 26/2021 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul public al comunei Lazuri de Beiuș, județul Bihor",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39601",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-27-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/27",
+   "short": "HCL Lazuri de Beiuș nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 27/2021 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, aferentă Măsurii 15 „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, Submăsura 15.1„Plăți pentru angajamente de silvomediu”",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39602",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-28-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/28",
+   "short": "HCL Lazuri de Beiuș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 28/2021 privind aprobarea execuţiei Bugetului de venituri și cheltuieli pe anul 2020, a a probării bugetului de venituri și cheltuieli pe anul 2021 și a aprobării actelor adiţionale nr 2 /2021 2021 la contractul de administrare nr 2055/13.08.2003 și actul adiţional nr 2 la contractul de administrare nr 1923/5.06.2006, cu privire la modificarea tarifului de pază și administrare încheiat cu Ocolul Silvic Beliş asupra suprafeţelor de terenuri cu vegetaţie forestieră aparţinătoare comunei Lazuri de Beiuş",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39603",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-29-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/29",
+   "short": "HCL Lazuri de Beiuș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 29/2021 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare pentru gestionarea situaţiilor de urgenţă din comuna Lazuri de Beiuș pe anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39604",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-3-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/3",
+   "short": "HCL Lazuri de Beiuș nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 3/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39530",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-32-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/32",
+   "short": "HCL Lazuri de Beiuș nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 32/2021 privind aprobarea procesului - verbal al şedinţei anterioare a Consiliului local al comunei Lazuri de Beiuş, respectiv din data de 11 mai 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39632",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-33-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/33",
+   "short": "HCL Lazuri de Beiuș nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 33/2021 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al Comunei Lazuri de Beiuș",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39633",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-34-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/34",
+   "short": "HCL Lazuri de Beiuș nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 34/2021 privind aderarea la parteneriatului public-privat de dezvoltare locală ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ „CODRU MOMA” pentru perioada de programare PNDR 2023-2027",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39634",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-37-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/37",
+   "short": "HCL Lazuri de Beiuș nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 37/2021 privind aprobarea rectificării bugetului local al comunei Lazuri de Beiuş, pe anul 2021",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39638",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-38-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/38",
+   "short": "HCL Lazuri de Beiuș nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 38/2021 privind aprobarea modului de întocmire a Registrului agricol al comunei Lazuri de Beius, a stadiului de înscriere a datelor în Registrul agricol al comunei Lazuri de Beiuș, pentru trimestrul I al anului 2021 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39639",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-4-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/4",
+   "short": "HCL Lazuri de Beiuș nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 4/2021 privind actualizarea indicatorilor economici pentru obiectivul de investiții ''Canalizare menajeră comuna Lazuri de Beiuș''",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39531",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-44-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/44",
+   "short": "HCL Lazuri de Beiuș nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 44/2021 privind aprobarea raportului pe sem. I al anului 2021, a modului de îndeplinire a obligaţiilor asistenţilor personali ai persoanelor încadrate în grad de handicap grav;",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39645",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39645",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lazuri-de-beius-47-2021",
    "path": "local/bihor/lazuri-de-beius/2021/47",
    "short": "HCL Lazuri de Beiuș nr. 47/2021",
@@ -43,6 +373,21 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-5-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/5",
+   "short": "HCL Lazuri de Beiuș nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 5/2021 privind actualizarea indicatorilor economici pentru obiectivul de investiții ''Alimentare cu apă - comuna Lazuri de Beiuș''",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39532",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39532",
      "sha256": null
     }
    ]
@@ -193,6 +538,21 @@
      "from": "2021-11-05",
      "units": 1,
      "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/49688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-6-2021",
+   "path": "local/bihor/lazuri-de-beius/2021/6",
+   "short": "HCL Lazuri de Beiuș nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 6/2021 privind aprobarea Regulamentului privind stabilirea unor măsuri pentru gospodărirea comunei, precum și pentru constatarea și sancționarea faptelor ce constituie contravenții",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39533",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/39533",
      "sha256": null
     }
    ]

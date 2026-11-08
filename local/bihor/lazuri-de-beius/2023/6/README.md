@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 6/2023 privind modalitatea de punere la dispoziția operatorului sistemului de transport a terenurilor necesare amplasării instalației de racordare la Sistemul național de transport, cu respectarea cerințelor legale
+
+HCL Lazuri de Beiuș nr. 6/2023 · 1 versions, from 2023-02-08 (latest in force: 2023-02-08) · <https://emol.ro/lazuridebeius-bh/registru-hcl/88134>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--lazuri-de-beius-6-2023` (tags `hcl-bihor--lazuri-de-beius-6-2023/<day>`; `python tools/on.py <day> hcl-bihor--lazuri-de-beius-6-2023`).
+
+## Decisions made by hand
+
+- HCL Lazuri de Beiuș nr. 6/2023: listed from Consiliul Local al Comunei Lazuri de Beiuș (emol.ro); metadata only for now: no document of it is held.
+- HCL Lazuri de Beiuș nr. 6/2023: dated from 8 February 2023, the day the council's register gives it as published (adopted 31 January 2023).
+- HCL Lazuri de Beiuș nr. 6/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

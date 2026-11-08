@@ -4188,6 +4188,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-686-2003",
+   "path": "ordin/agricultura/2003/686",
+   "short": "Ordin agricultura nr. 686/2003",
+   "title": "Ordinul nr. 686/2003 privind aprobarea Planului pentru eradicarea accelerata a anemiei infecțioase ecvine pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46597",
+   "versions": [
+    {
+     "from": "2003-10-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46597",
+     "sha256": "05ab4419f1a17e0a70d317b865ec0b400ec07d2958a89d88e67418c4d32eff87"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-688-2003",
    "path": "ordin/agricultura/2003/688",
    "short": "Ordin agricultura nr. 688/2003",
@@ -8609,6 +8624,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41999",
      "sha256": "e7b7e2412ee29c4b0ddab26824a5fd0194b1169615485495bd28f8024a353e44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-603-2003",
+   "path": "ordin/dezvoltare/2003/603",
+   "short": "Ordin dezvoltare nr. 603/2003",
+   "title": "Ordinul nr. 603/2003 pentru aprobarea reglementării tehnice \"Ghid pentru stabilirea criteriilor de performanță și a compozițiilor pentru betoanele armate dispers cu fibre metalice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45606",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45606",
+     "sha256": "30bf93463dad4ac3ecbfe770344141f8095ccbf88f6c01d59de99e5c9673fd27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-605-2003",
+   "path": "ordin/dezvoltare/2003/605",
+   "short": "Ordin dezvoltare nr. 605/2003",
+   "title": "Ordinul nr. 605/2003 pentru aprobarea reglementării tehnice \"Ghid privind proiectarea, execuția și exploatarea elementelor de construcții hidroizolate cu materiale bituminoase și polimerice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45608",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45608",
+     "sha256": "7704dad3605ad565c6aa4152fdae681e29097e06fc4b0696d85d787070e81780"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-606-2003",
+   "path": "ordin/dezvoltare/2003/606",
+   "short": "Ordin dezvoltare nr. 606/2003",
+   "title": "Ordinul nr. 606/2003 pentru aprobarea reglementării tehnice \"Normativ privind proiectarea, execuția și exploatarea învelitorilor acoperișurilor în panta la clădiri\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47446",
+   "versions": [
+    {
+     "from": "2003-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47446",
+     "sha256": "c2cf897c46f11d3b857f301776ea5bfb8cfcbb72adedbd83f166004dfac0693a"
     }
    ]
   },
@@ -13188,6 +13248,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-632-2003",
+   "path": "ordin/finante/2003/632",
+   "short": "Ordin finante nr. 632/2003",
+   "title": "Ordinul nr. 632/2003 pentru aprobarea unui formular specific cu regim special privind activitatea financiară și contabila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44072",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44072",
+     "sha256": "a411fe42b504e96209225043aeba44635d8de42c56204d9ffb1e8f974f9c2a81"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-636-2003",
    "path": "ordin/finante/2003/636",
    "short": "Ordin finante nr. 636/2003",
@@ -13214,6 +13289,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44034",
      "sha256": "a75b10caff7a25ad837f36e468f6aa1b0007cf05cd332a781d3a400c1e5dad88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-674-2003",
+   "path": "ordin/finante/2003/674",
+   "short": "Ordin finante nr. 674/2003",
+   "title": "Ordinul nr. 674/2003 pentru completarea și modificarea Instrucțiunilor de aplicare a prevederilor titlului I \"Transparenta informațiilor referitoare la obligațiile bugetare restante\" al cărții I din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, aprobate prin Ordinul ministrului finanțelor publice nr. 551/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44071",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44071",
+     "sha256": "918a9c309274b14a5aa6c072092eb49e77084bbe7051eca6ab3b350ba04f2210"
     }
    ]
   },
@@ -13589,6 +13679,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46194",
      "sha256": "1a667f91d7a8475b775caf79799d32beded9de75e290d5d988f453a979cb88a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-imm-122-2003",
+   "path": "ordin/imm/2003/122",
+   "short": "Ordin imm nr. 122/2003",
+   "title": "Ordinul nr. 122/2003 privind aprobarea Procedurii de implementare a Programului național pentru susținerea meșteșugurilor și artizanatului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46347",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46347",
+     "sha256": "46c05fc821c148626194a339f69ae37a47f4a4e2f998f63ae1b186e321c270d1"
     }
    ]
   },
@@ -14028,6 +14133,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-3131-c-2003",
+   "path": "ordin/justitie/2003/3131-c",
+   "short": "Ordin justitie nr. 3131/C/2003",
+   "title": "Ordinul nr. 3.131/C/2003 privind durata și periodicitatea vizitelor, numărul și greutatea pachetelor cu alimente, precum și bunurile care pot fi primite, păstrate și folosite de către persoanele aflate în executarea pedepselor privative de libertate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48013",
+   "versions": [
+    {
+     "from": "2003-11-26",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20250406075046id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/48013",
+     "sha256": "9dcbc32e2c65d0de456e0cdbbabad8c3e63f5ba9a09749908e79ea892540d174"
+    }
+   ]
+  },
+  {
    "slug": "ordin-justitie-3352-c-2003",
    "path": "ordin/justitie/2003/3352-c",
    "short": "Ordin justitie nr. 3352/C/2003",
@@ -14129,6 +14249,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42706",
      "sha256": "0bb386287eca4c60b2600de82db2fad3eb8d3cfe0bbfe6b160e827a253b41c95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1406-2003",
+   "path": "ordin/mediu/2003/1406",
+   "short": "Ordin mediu nr. 1406/2003",
+   "title": "Ordinul nr. 1.406/2003 pentru aprobarea Metodologiei de evaluare rapida a riscului pentru mediu și sănătatea umană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42737",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42737",
+     "sha256": "6c39e33f2efaca75fc413e78988cb2f85084bc43ee7a22b50cf738a753815ed5"
     }
    ]
   },
@@ -14279,6 +14414,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46484",
      "sha256": "362ba23a87e2d8a785289b8ef2eff611b6b99348ea71336b3ae3443ef7bf7e2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-69-2003",
+   "path": "ordin/mediu/2003/69",
+   "short": "Ordin mediu nr. 69/2003",
+   "title": "Ordinul nr. 69/2003 pentru aprobarea Normelor privind cerințele specifice pentru sistemele de management al calității aplicate la proiectarea instalațiilor nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46485",
+   "versions": [
+    {
+     "from": "2003-11-25",
+     "units": 104,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46485",
+     "sha256": "f761ea39b0dceca7d40980af38d7d2b6d42247a5921047bd41e46c87859743b5"
     }
    ]
   },

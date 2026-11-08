@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Balc nr. 53/2020 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 18 septembrie 2020
+
+HCL Balc nr. 53/2020 · 1 versions, from 2020-09-18 (latest in force: 2020-09-18) · <https://emol.ro/balc-bh/registru-hcl/19810>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--balc-53-2020` (tags `hcl-bihor--balc-53-2020/<day>`; `python tools/on.py <day> hcl-bihor--balc-53-2020`).
+
+## Decisions made by hand
+
+- HCL Balc nr. 53/2020: listed from Consiliul Local al Comunei Balc (emol.ro); metadata only for now: no document of it is held.
+- HCL Balc nr. 53/2020: dated from 18 September 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Balc nr. 53/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,66 @@
  "shard": "local/bihor/ineu/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--ineu-33-2022",
+   "path": "local/bihor/ineu/2022/33",
+   "short": "HCL Ineu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 33/2022 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63625",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-62-2022",
+   "path": "local/bihor/ineu/2022/62",
+   "short": "HCL Ineu nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 62/2022 privind modificarea contribuției Comunei Ineu pentru exercitarea activității de urbanism și autorizare construcți",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100491",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-63-2022",
+   "path": "local/bihor/ineu/2022/63",
+   "short": "HCL Ineu nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 63/2022 privind aprobarea Avizului de oportunitate emis de către comuna Ineu pentru întocmirea documentației de urbanism P.U.Z.-pentru introducere teren în intravilan pentru „Construire Spațiu de Producție și Depozitare” în comuna Ineu, județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100492",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-64-2022",
+   "path": "local/bihor/ineu/2022/64",
+   "short": "HCL Ineu nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 64/2022 privind aprobarea participării la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”, și a devizului general pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA INEU, JUDEȚUL BIHOR-PARTEA II”",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100493",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100493",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-66-2022",
    "path": "local/bihor/ineu/2022/66",
    "short": "HCL Ineu nr. 66/2022",

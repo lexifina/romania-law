@@ -3,6 +3,50 @@
 "shard": "local/bihor/abram/2022",
 "acts": [
 {
+"slug": "hcl-bihor--abram-14-2022",
+"path": "local/bihor/abram/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 14/2022 privind aprobarea “Programului anual al achiziţiilor publice” pe anul 2022",
+"short": "HCL Abram nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/abram-bh/registru-hcl/75185",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-19-2022",
+"path": "local/bihor/abram/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 19/2022 privind actualizarea “Planului de Analiza si Acoperire a Riscurilor” in comuna Abram",
+"short": "HCL Abram nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/abram-bh/registru-hcl/75235",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--abram-24-2022",
 "path": "local/bihor/abram/2022/24",
 "kind": "local",

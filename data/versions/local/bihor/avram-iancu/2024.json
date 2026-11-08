@@ -3,6 +3,336 @@
  "shard": "local/bihor/avram-iancu/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--avram-iancu-1-2024",
+   "path": "local/bihor/avram-iancu/2024/1",
+   "short": "HCL Avram Iancu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 1/2024 privind alegere Președinte de ședință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/140527",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/140527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-10-2024",
+   "path": "local/bihor/avram-iancu/2024/10",
+   "short": "HCL Avram Iancu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 10/2024 privind aprobarea Bugetelor de venituri şi cheltuieli al Comunei Avram Iancu pe anul 2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144929",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-11-2024",
+   "path": "local/bihor/avram-iancu/2024/11",
+   "short": "HCL Avram Iancu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 11/2024 privind Aprobare Proces Verbal din data de 26 FEBRUARIE 2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/150152",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/150152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-12-2024",
+   "path": "local/bihor/avram-iancu/2024/12",
+   "short": "HCL Avram Iancu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 12/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/150153",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/150153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-14-2024",
+   "path": "local/bihor/avram-iancu/2024/14",
+   "short": "HCL Avram Iancu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 14/2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/150155",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/150155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-15-2024",
+   "path": "local/bihor/avram-iancu/2024/15",
+   "short": "HCL Avram Iancu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 15/2024 privind Alegere Președinte de ședință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154654",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-16-2024",
+   "path": "local/bihor/avram-iancu/2024/16",
+   "short": "HCL Avram Iancu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 16/2024 privind aprobare Proces Verbal al ședinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154655",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-17-2024",
+   "path": "local/bihor/avram-iancu/2024/17",
+   "short": "HCL Avram Iancu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 17/2024 privind Aprobare Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154656",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-18-2024",
+   "path": "local/bihor/avram-iancu/2024/18",
+   "short": "HCL Avram Iancu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 18/2024 privind aprobarea rectificarii nr.1 a bugetului local de venituri și cheltuieli pe trimestrul II pe anul 2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154657",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-2-2024",
+   "path": "local/bihor/avram-iancu/2024/2",
+   "short": "HCL Avram Iancu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 2/2024 privind Aprobare Proces Verbal al ședinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/140528",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/140528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-20-2024",
+   "path": "local/bihor/avram-iancu/2024/20",
+   "short": "HCL Avram Iancu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 20/2024 privind Modificare Organigramă si stat de funcții",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154659",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-21-2024",
+   "path": "local/bihor/avram-iancu/2024/21",
+   "short": "HCL Avram Iancu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 21/2024 privind Aprobare Proces Verbal",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/161092",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/161092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-22-2024",
+   "path": "local/bihor/avram-iancu/2024/22",
+   "short": "HCL Avram Iancu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 22/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/161093",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/161093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-24-2024",
+   "path": "local/bihor/avram-iancu/2024/24",
+   "short": "HCL Avram Iancu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 24/2024 privind aprobare Proces Verbal",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/162342",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/162342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-25-2024",
+   "path": "local/bihor/avram-iancu/2024/25",
+   "short": "HCL Avram Iancu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 25/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/162343",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/162343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-26-2024",
+   "path": "local/bihor/avram-iancu/2024/26",
+   "short": "HCL Avram Iancu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 26/2024 privind rectificarea nr.2 a bugetului local de venituri și cheltuieli pe trimestrul II pe anul 2024;",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/162344",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/162344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-27-2024",
+   "path": "local/bihor/avram-iancu/2024/27",
+   "short": "HCL Avram Iancu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 27/2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/162345",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/162345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-28-2024",
+   "path": "local/bihor/avram-iancu/2024/28",
+   "short": "HCL Avram Iancu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 28/2024 privind Alegere Președinte de ședință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/170759",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/170759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-29-2024",
+   "path": "local/bihor/avram-iancu/2024/29",
+   "short": "HCL Avram Iancu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 29/2024 privind Aprobare Proces Verbal al ședinței din data de 15.07.2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/170760",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/170760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-3-2024",
+   "path": "local/bihor/avram-iancu/2024/3",
+   "short": "HCL Avram Iancu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 3/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/140529",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/140529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-30-2024",
+   "path": "local/bihor/avram-iancu/2024/30",
+   "short": "HCL Avram Iancu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 30/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/170761",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/170761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-31-2024",
+   "path": "local/bihor/avram-iancu/2024/31",
+   "short": "HCL Avram Iancu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 31/2024 privind însușirea stadiului de înscriere a datelor în Registrul Agricol la 31 decembrie 2023",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/170762",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/170762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-32-2024",
    "path": "local/bihor/avram-iancu/2024/32",
    "short": "HCL Avram Iancu nr. 32/2024",
@@ -118,6 +448,21 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/180472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-4-2024",
+   "path": "local/bihor/avram-iancu/2024/4",
+   "short": "HCL Avram Iancu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 4/2024 privind aprobare rețea scolară aferent anului școlar 2024/2025",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/140530",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/140530",
      "sha256": null
     }
    ]
@@ -273,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-5-2024",
+   "path": "local/bihor/avram-iancu/2024/5",
+   "short": "HCL Avram Iancu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 5/2024 privind Aprobare Proces Verbal",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144924",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-50-2024",
    "path": "local/bihor/avram-iancu/2024/50",
    "short": "HCL Avram Iancu nr. 50/2024",
@@ -298,6 +658,51 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/182583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-6-2024",
+   "path": "local/bihor/avram-iancu/2024/6",
+   "short": "HCL Avram Iancu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 6/2024 privind Aprobare Ordine de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144925",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-7-2024",
+   "path": "local/bihor/avram-iancu/2024/7",
+   "short": "HCL Avram Iancu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 7/2024 privind aprobarea planului de acțiuni și lucrări de interes local pentru persoanele apte de munca din familiile beneficiare de venitul minim de incluziune pentru anul 2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144926",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-9-2024",
+   "path": "local/bihor/avram-iancu/2024/9",
+   "short": "HCL Avram Iancu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 9/2024 privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap in perioada iulie-august 2023",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144928",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144928",
      "sha256": null
     }
    ]

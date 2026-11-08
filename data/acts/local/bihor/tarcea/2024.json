@@ -3,6 +3,94 @@
 "shard": "local/bihor/tarcea/2024",
 "acts": [
 {
+"slug": "hcl-bihor--tarcea-17-2024",
+"path": "local/bihor/tarcea/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 17/2024 privind aprobarea indicatorilor pentru finanțarea/cofinanțarea elaborării și actualizării Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Tarcea, județul Bihor",
+"short": "HCL Tarcea nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/143343",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-18-2024",
+"path": "local/bihor/tarcea/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 18/2024 privind aprobarea criteriilor de acordare a ajutoarelor de urgenţă din bugetul local și a metodologiei de acordare",
+"short": "HCL Tarcea nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/143344",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-35-2024",
+"path": "local/bihor/tarcea/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 35/2024 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul",
+"short": "HCL Tarcea nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/155730",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--tarcea-64-2024",
+"path": "local/bihor/tarcea/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 64/2024 privind analiza stadiului de înscriere a datelor în registrul agricol pe semestrul I al anului 2024",
+"short": "HCL Tarcea nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/163851",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--tarcea-83-2024",
 "path": "local/bihor/tarcea/2024/83",
 "kind": "local",

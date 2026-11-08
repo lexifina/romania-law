@@ -423,6 +423,36 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-25-1993",
+   "path": "ordin/sanatate/1993/25",
+   "short": "Ordin sanatate nr. 25/1993",
+   "title": "Ordinul nr. 25/1993 privind serviciile de sănătate preventive ce se asigura de organele sanitare veterinare și sanitare umane pentru prevenirea și combaterea transmiterii bolilor de la animale la om",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3088",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3088",
+     "sha256": "4424ea757ddfc8fb4ee70e89cfb4d200fa98cfadc4e38d7a671e247a18e72071"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-474-1993",
+   "path": "ordin/sanatate/1993/474",
+   "short": "Ordin sanatate nr. 474/1993",
+   "title": "Ordinul nr. 474/1993 privind serviciile de sănătate preventive ce se asigura de organele sanitare veterinare și sanitare umane pentru prevenirea și combaterea transmiterii bolilor de la animale la om",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3541",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3541",
+     "sha256": "82912225b98c385f37a7087dc0c3da30bd42197cef56d3afb356047e9c444eee"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-856-1993",
    "path": "ordin/sanatate/1993/856",
    "short": "Ordin sanatate nr. 856/1993",

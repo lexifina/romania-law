@@ -3,6 +3,21 @@
  "shard": "local/bihor/magesti/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--magesti-11-2025",
+   "path": "local/bihor/magesti/2025/11",
+   "short": "HCL Măgești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 11/2025 privind aprobarea Planului de analiză și acoperire a riscurilor (PAAR) reactualizat",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/216378",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/216378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-12-2025",
    "path": "local/bihor/magesti/2025/12",
    "short": "HCL Măgești nr. 12/2025",
@@ -298,6 +313,21 @@
      "from": "2025-09-16",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/224988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-8-2025",
+   "path": "local/bihor/magesti/2025/8",
+   "short": "HCL Măgești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 8/2025 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului Național Masă Sănătoși",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/203743",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/203743",
      "sha256": null
     }
    ]

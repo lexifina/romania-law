@@ -168,6 +168,36 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-55-1992",
+   "path": "ordin/comunicatii/1992/55",
+   "short": "Ordin comunicatii nr. 55/1992",
+   "title": "Ordinul nr. 55/1992 privind autorizarea serviciilor radio-paging",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2273",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2273",
+     "sha256": "e29931705f0f9b803b4cd69e9c53c2668bf818b25bea9f14318f8d48075887b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-comunicatii-90-1992",
+   "path": "ordin/comunicatii/1992/90",
+   "short": "Ordin comunicatii nr. 90/1992",
+   "title": "Ordinul nr. 90/1992 privind autorizarea serviciilor de telecomunicații cu valoare adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2356",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2356",
+     "sha256": "342c5e2308c499d7e64067cc7a6ea5a92018a2b06ae47309c1aff3c71662f446"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cultura-408-1992",
    "path": "ordin/cultura/1992/408",
    "short": "Ordin cultura nr. 408/1992",
@@ -209,6 +239,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95281",
      "sha256": "27fc1b010974475386418c23054cadea65747b117afa677e6be55033e69df369"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-134-1992",
+   "path": "ordin/economie/1992/134",
+   "short": "Ordin economie nr. 134/1992",
+   "title": "Ordinul nr. 134/1992 privind măsuri de aplicare a Rezoluției nr. 757/1992 a Consiliului de Securitate al Organizației Națiunilor Unite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27197",
+   "versions": [
+    {
+     "from": "1992-09-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27197",
+     "sha256": "23154e7e4a10c31c0f85c3f30d2dce7f155e4abc6d42e6cb08627409e5705a35"
     }
    ]
   },
@@ -269,6 +314,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2738",
      "sha256": "d9a0b44f357965cf6baa34fc7b5bd13e4fc1291d9ae412beaa3a67fd9980c904"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-527-1992",
+   "path": "ordin/economie/1992/527",
+   "short": "Ordin economie nr. 527/1992",
+   "title": "Ordinul nr. 527/1992 referitoare la prețul cu ridicată și cu amănuntul la brânza de oaie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33652",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33652",
+     "sha256": "a98d9b65c5400cdb5639cf8126c902b0e29b0b4450d1f5536a65df797a0a0c95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-529-1992",
+   "path": "ordin/economie/1992/529",
+   "short": "Ordin economie nr. 529/1992",
+   "title": "Ordinul nr. 529/1992 referitoare la prețul cu ridicată și cu amănuntul la brânza alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33653",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33653",
+     "sha256": "8f5275f8fb0b0bc1d5014410a02c7d3b6afc6feb4895df847e95a37547f3743f"
     }
    ]
   },

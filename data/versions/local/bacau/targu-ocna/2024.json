@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/targu-ocna/2024",
+ "acts": [
+  {
+   "slug": "hcl-bacau--targu-ocna-95-2024",
+   "path": "local/bacau/targu-ocna/2024/95",
+   "short": "HCL Târgu Ocna nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Ocna nr. 95/2024 privind aprobarea taxei speciale de salubrizare aplicabilă pe raza administrativă a orasului Târgu Ocna 2025",
+   "url": "https://www.orasul-targuocna.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.orasul-targuocna.ro/wp-content/uploads/2025/01/HCL-nr.-95-din-19.12.2024.privind-aprobarea-taxei-speciale-de-salubrizare-aplicabila-pe-raza-administrativa-a-orasului-Targu-Ocna-2025.pdf",
+     "sha256": "fc74187ea8dc39816c2000b885997d71ff92dbbf44c3499984572512710fd01f"
+    }
+   ]
+  }
+ ]
+}

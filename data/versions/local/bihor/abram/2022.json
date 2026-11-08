@@ -3,6 +3,36 @@
  "shard": "local/bihor/abram/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--abram-14-2022",
+   "path": "local/bihor/abram/2022/14",
+   "short": "HCL Abram nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 14/2022 privind aprobarea “Programului anual al achiziţiilor publice” pe anul 2022",
+   "url": "https://emol.ro/abram-bh/registru-hcl/75185",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/75185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--abram-19-2022",
+   "path": "local/bihor/abram/2022/19",
+   "short": "HCL Abram nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Abram nr. 19/2022 privind actualizarea “Planului de Analiza si Acoperire a Riscurilor” in comuna Abram",
+   "url": "https://emol.ro/abram-bh/registru-hcl/75235",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/abram-bh/registru-hcl/75235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--abram-24-2022",
    "path": "local/bihor/abram/2022/24",
    "short": "HCL Abram nr. 24/2022",

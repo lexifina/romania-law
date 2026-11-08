@@ -3,6 +3,291 @@
  "shard": "local/bihor/santandrei/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--santandrei-100-2023",
+   "path": "local/bihor/santandrei/2023/100",
+   "short": "HCL Sântandrei nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 100/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/114028",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/114028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-101-2023",
+   "path": "local/bihor/santandrei/2023/101",
+   "short": "HCL Sântandrei nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 101/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/114029",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/114029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-109-2023",
+   "path": "local/bihor/santandrei/2023/109",
+   "short": "HCL Sântandrei nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 109/2023 privind încheierea unui Acord de colaborare între UAT Județul Bihor – Consiliul Județean Bihor și UAT Comuna Sântandrei - Consiliul Local Sântandrei, în vederea realizării unor lucrări de interes public pentru creșterea siguranței rutiere",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/115583",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/115583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-110-2023",
+   "path": "local/bihor/santandrei/2023/110",
+   "short": "HCL Sântandrei nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 110/2023 privind aprobarea Registrului Local al Spațiilor Verzi - Comuna Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/115584",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/115584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-111-2023",
+   "path": "local/bihor/santandrei/2023/111",
+   "short": "HCL Sântandrei nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 111/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici -fază PT pentru obiectivul de investiții ,,ÎMBUNĂTĂȚIREA INFRASTRUCTURII VERZI PRIN: AMENAJARE PARC PE STR. BERZEI COMUNA SÂNTANDREI, JUDEȚUL BIHOR respectiv, AMENAJARE PARC PE STR. CLOPOȚEILOR, COMUNA SÂNTANDREI, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/115585",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/115585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-113-2023",
+   "path": "local/bihor/santandrei/2023/113",
+   "short": "HCL Sântandrei nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 113/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/116882",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/116882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-114-2023",
+   "path": "local/bihor/santandrei/2023/114",
+   "short": "HCL Sântandrei nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 114/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/116883",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/116883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-115-2023",
+   "path": "local/bihor/santandrei/2023/115",
+   "short": "HCL Sântandrei nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 115/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/116884",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/116884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-116-2023",
+   "path": "local/bihor/santandrei/2023/116",
+   "short": "HCL Sântandrei nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 116/2023 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli - sursa A, al bugetul de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții sursa E al Comunei Sântandrei pentru trimestrul II al anului 2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/116885",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/116885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-127-2023",
+   "path": "local/bihor/santandrei/2023/127",
+   "short": "HCL Sântandrei nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 127/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/122628",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/122628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-128-2023",
+   "path": "local/bihor/santandrei/2023/128",
+   "short": "HCL Sântandrei nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 128/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/122629",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/122629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-129-2023",
+   "path": "local/bihor/santandrei/2023/129",
+   "short": "HCL Sântandrei nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 129/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/122630",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/122630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-140-2023",
+   "path": "local/bihor/santandrei/2023/140",
+   "short": "HCL Sântandrei nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 140/2023 privind atribuirea de denumiri străzilor de pe teritoriul administrativ al comunei Sântandrei, situate în vatra veche a celor 2 (două) sate componente",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127181",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-141-2023",
+   "path": "local/bihor/santandrei/2023/141",
+   "short": "HCL Sântandrei nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 141/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127182",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-142-2023",
+   "path": "local/bihor/santandrei/2023/142",
+   "short": "HCL Sântandrei nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 142/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127183",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-143-2023",
+   "path": "local/bihor/santandrei/2023/143",
+   "short": "HCL Sântandrei nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 143/2023 privind aprobare Planului Urbanistic Zonal ”Introducere teren în intravilan și lotizare pentru locuințe și funcțiuni complementare, nr. cad. 2817, localitatea Sântandrei, comuna Sântandrei, județul Bihor”, având ca beneficiar Gârz-Sabău Teodora-Iunona",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127184",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-144-2023",
+   "path": "local/bihor/santandrei/2023/144",
+   "short": "HCL Sântandrei nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 144/2023 referitor la aprobarea Regulamentului privind prestarea de activități neremunerate în folosul comunității, ca obligație stabilită de instanța de judecată persoanelor care au săvârșit infracțiuni sau persoanelor care au fost sancționate contravențional",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127185",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-145-2023",
+   "path": "local/bihor/santandrei/2023/145",
+   "short": "HCL Sântandrei nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 145/2023 privind aprobarea Regulamentului de vânzare a locuinţelor construite din fondurile ANL, situate pe raza teritorială a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/127186",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/127186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-162-2023",
+   "path": "local/bihor/santandrei/2023/162",
+   "short": "HCL Sântandrei nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 162/2023 privind aprobarea documentației tehnico-economice (faza Studiu de Fezabilitate) și a indicatorilor tehnico-economici pentru obiectivul de investiție cu titlul: „Construcție pistă de biciclete în interiorul comunei Sântandrei (Sântandrei-Palota)” aprobat spre finanțare în cadrul Planului Național de Redresare și Reziliență, Componenta C10 - Fondul Local",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/129712",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/129712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-182-2023",
    "path": "local/bihor/santandrei/2023/182",
    "short": "HCL Sântandrei nr. 182/2023",
@@ -298,6 +583,426 @@
      "from": "2024-02-15",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/133741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-24-2023",
+   "path": "local/bihor/santandrei/2023/24",
+   "short": "HCL Sântandrei nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 24/2023 privind aprobării înființării parteneriatului public - privat de dezvoltare locală ”ASOCIAȚIA GRUP DE ACȚIUNE LOCALĂ ZMO DEALUL ȘOMLEU” și aderarea Comunei Sântandrei la parteneriatul mai susmenționat, pentru perioada de programare PNDR 2023 - 2027",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/91924",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/91924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-25-2023",
+   "path": "local/bihor/santandrei/2023/25",
+   "short": "HCL Sântandrei nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 25/2023 privind aprobarea înființării Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Sântandrei, a Regulamentului privind organizarea și funcționarea acesuia, a Studiului de oportunitate și a Caietului de sarcini privind delegarea de gestiune a serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/91925",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/91925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-27-2023",
+   "path": "local/bihor/santandrei/2023/27",
+   "short": "HCL Sântandrei nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 27/2023 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții aferentă investiției „Modernizare străzi în comuna Sântandrei, județul Bihor – etapa a V-a”, depus în vederea finanțării în cadrul Programului Anghel Saligny și a indicatorilor tehnico – economici actualizați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/94808",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/94808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-28-2023",
+   "path": "local/bihor/santandrei/2023/28",
+   "short": "HCL Sântandrei nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 28/2023 privind aprobarea asigurării cofinanțării obiectivului de investiţie „Modernizare străzi în comuna Sântandrei, județul Bihor – etapa a V-a”, depus în vederea finanțării în cadrul Programului Anghel Saligny",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/94809",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/94809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-4-2023",
+   "path": "local/bihor/santandrei/2023/4",
+   "short": "HCL Sântandrei nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 4/2023 privind analiza stadiul de înscriere a datelor în Registrul agricol al comunei Sântandrei și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/87557",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/87557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-42-2023",
+   "path": "local/bihor/santandrei/2023/42",
+   "short": "HCL Sântandrei nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 42/2023 privind aprobarea Regulamentului de organizare și desfășurare a transportului greu pe raza Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98628",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-44-2023",
+   "path": "local/bihor/santandrei/2023/44",
+   "short": "HCL Sântandrei nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 44/2023 privind modificarea și completarea Regulamentului privind stabilirea și sancționarea unor contravenții pe raza administrativ-teritorială a Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98630",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-45-2023",
+   "path": "local/bihor/santandrei/2023/45",
+   "short": "HCL Sântandrei nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 45/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98631",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-47-2023",
+   "path": "local/bihor/santandrei/2023/47",
+   "short": "HCL Sântandrei nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 47/2023 privind asocierea dintre Județul Bihor – Consiliul Județean Bihor și Comuna Sântandrei în scopul realizării obiectivului de investiții ”Renovare și extindere Biblioteca Comunei Sântandrei”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98633",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-48-2023",
+   "path": "local/bihor/santandrei/2023/48",
+   "short": "HCL Sântandrei nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 48/2023 privind aprobarea indicatorilor tehnico – economici aferenți obiectivului: “RENOVAREA ȘI ECHIPAREA BIBLIOTECII DIN COMUNA SÂNTANDREI,, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98634",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-49-2023",
+   "path": "local/bihor/santandrei/2023/49",
+   "short": "HCL Sântandrei nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 49/2023 privind neasumarea responsabilității comunei Sântandrei, a organizării și derulării procedurilor de atribuire a contractelor/acordurilor – cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României în perioada 2023 – 2026",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/98635",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/98635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-5-2023",
+   "path": "local/bihor/santandrei/2023/5",
+   "short": "HCL Sântandrei nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 5/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/87558",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/87558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-51-2023",
+   "path": "local/bihor/santandrei/2023/51",
+   "short": "HCL Sântandrei nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 51/2023 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/101014",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/101014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-6-2023",
+   "path": "local/bihor/santandrei/2023/6",
+   "short": "HCL Sântandrei nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 6/2023 privind aprobarea actualizării Statutului Asociației de Dezvoltare Intercomunitară Zona Metropolitană Oradea",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/87559",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/87559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-69-2023",
+   "path": "local/bihor/santandrei/2023/69",
+   "short": "HCL Sântandrei nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 69/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107280",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-7-2023",
+   "path": "local/bihor/santandrei/2023/7",
+   "short": "HCL Sântandrei nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 7/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/87560",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/87560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-70-2023",
+   "path": "local/bihor/santandrei/2023/70",
+   "short": "HCL Sântandrei nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 70/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107281",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-72-2023",
+   "path": "local/bihor/santandrei/2023/72",
+   "short": "HCL Sântandrei nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 72/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107283",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-73-2023",
+   "path": "local/bihor/santandrei/2023/73",
+   "short": "HCL Sântandrei nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 73/2023 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli - sursa A, al bugetul de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții sursa E și al bugetului împrumuturilor interne sursa C al Comunei Sântandrei pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107284",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-74-2023",
+   "path": "local/bihor/santandrei/2023/74",
+   "short": "HCL Sântandrei nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 74/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107285",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-84-2023",
+   "path": "local/bihor/santandrei/2023/84",
+   "short": "HCL Sântandrei nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 84/2023 privind aprobarea completării Strategiei de dezvoltare durabilă a Comunei Sântandrei pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107295",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-85-2023",
+   "path": "local/bihor/santandrei/2023/85",
+   "short": "HCL Sântandrei nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 85/2023 privind implementarea proiectului „ACHIZIȚIONARE UTILAJE, ÎN VEDEREA ASIGURĂRII SERVICIILOR PUBLICE LOCALE PENTRU BUNA GOSPODĂRIRE A COMUNEI SÂNTANDREI”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107296",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-86-2023",
+   "path": "local/bihor/santandrei/2023/86",
+   "short": "HCL Sântandrei nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 86/2023 privind aprobarea PLANULUI ANUAL DE ACȚIUNE privind serviciile sociale administrate și finanțate de la bugetul local al comunei Sântandrei pentru anul 2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107297",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-87-2023",
+   "path": "local/bihor/santandrei/2023/87",
+   "short": "HCL Sântandrei nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 87/2023 privind înființarea Serviciului Social „Centru de zi de asistență și recuperare pentru persoane vârstnice Sântandrei”, cod serviciu 8810CZ-V-I în structura Compartimentului de Asistență Socială",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107298",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-88-2023",
+   "path": "local/bihor/santandrei/2023/88",
+   "short": "HCL Sântandrei nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 88/2023 privind aprobarea proiectului și cheltuielilor aferente obiectivului de investiții „Centru de zi de asistență și recuperare pentru persoane vârstnice Sântandrei”, cod serviciu 8810CZ-V-I în structura Compartimentului de Asistență Socială",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/107299",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/107299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-9-2023",
+   "path": "local/bihor/santandrei/2023/9",
+   "short": "HCL Sântandrei nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 9/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/87562",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/87562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-96-2023",
+   "path": "local/bihor/santandrei/2023/96",
+   "short": "HCL Sântandrei nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 96/2023",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/113646",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/113646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-99-2023",
+   "path": "local/bihor/santandrei/2023/99",
+   "short": "HCL Sântandrei nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 99/2023 privind aprobarea Planului Urbanistic Zonal ”Lotizare pentru locuințe tineri și dotări (spații verzi, teren de sport), nr. cad. 9144, localitatea Palota, comuna Sântandrei, jud. Bihor” având ca beneficiar: Comuna Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/114027",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/114027",
      "sha256": null
     }
    ]

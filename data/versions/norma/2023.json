@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "norma-asf-26-2023",
+   "path": "norma/asf/2023/26",
+   "short": "Norma asf nr. 26/2023",
+   "title": "Norma nr. 26/2023 pentru modificarea și completarea Normei nr. 7/2010 privind ratele de rentabilitate ale fondurilor de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 9/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273787",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273787",
+     "sha256": "da765d7270135d1c37656309fa222d6cfbaee5b5d48c3d1143ca881c68d7a593"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-28-2023",
    "path": "norma/asf/2023/28",
    "short": "Norma asf nr. 28/2023",
@@ -408,6 +423,21 @@
    ]
   },
   {
+   "slug": "norma-asf-38-2023",
+   "path": "norma/asf/2023/38",
+   "short": "Norma asf nr. 38/2023",
+   "title": "Norma nr. 38/2023 privind asigurarea obligatorie a locuințelor împotriva cutremurelor, alunecărilor de teren și inundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277314",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277314",
+     "sha256": "1770c27213a7b1df0c034a2b62d1314611fac5ce7e3f74842e0ab6bd233fb44d"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-39-2023",
    "path": "norma/asf/2023/39",
    "short": "Norma asf nr. 39/2023",
@@ -479,6 +509,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278008",
      "sha256": "a0947aa2729b7f6620d32fc4a35d67b8c0160982545a793964383948526ad090"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-43-2023",
+   "path": "norma/asf/2023/43",
+   "short": "Norma asf nr. 43/2023",
+   "title": "Norma nr. 43/2023 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 16/2013 privind activitatea de marketing al fondului de pensii facultative, aprobată prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 64/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278054",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278054",
+     "sha256": "870a933facc52280bce37396dfbe43679b744601462551b02efacc6092b1f409"
     }
    ]
   },

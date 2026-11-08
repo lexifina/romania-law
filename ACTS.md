@@ -23284,11 +23284,11 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 42021 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 40494 | [`data/acts/ordin/`](data/acts/ordin/) |
-| Norms (norme) | 1540 | [`data/acts/norma/`](data/acts/norma/) |
-| Regulations (regulamente) | 1261 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 381 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
-| Clarifications (precizări) | 56 | [`data/acts/precizari/`](data/acts/precizari/) |
+| Ministerial and authority orders (ordine) | 40746 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Norms (norme) | 1555 | [`data/acts/norma/`](data/acts/norma/) |
+| Regulations (regulamente) | 1265 | [`data/acts/regulament/`](data/acts/regulament/) |
+| Instructions (instrucțiuni) | 382 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Clarifications (precizări) | 57 | [`data/acts/precizari/`](data/acts/precizari/) |
 | Methodologies (metodologii) | 314 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 78 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Circulars of authorities (circulare) | 1183 | [`data/acts/circulara/`](data/acts/circulara/) |
@@ -23311,4 +23311,4 @@
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
 | Public procurement complaints council decisions (CNSC) | 3185 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 530 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 180473 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 183473 | [`data/acts/local/`](data/acts/local/) |

@@ -3213,6 +3213,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-588-2016",
+   "path": "ordin/anaf/2016/588",
+   "short": "Ordin anaf nr. 588/2016",
+   "title": "Ordinul nr. 588/2016 pentru aprobarea modelului și conținutului formularului (300) \"Decont de taxă pe valoarea adăugată\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175661",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175661",
+     "sha256": "5b6c3411213d3f21b8cf459a6fa654a34ff85277e1a841232bdc03211b458b49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-591-2016",
    "path": "ordin/anaf/2016/591",
    "short": "Ordin anaf nr. 591/2016",
@@ -8774,6 +8789,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182768",
      "sha256": "970b20acbc872d90e54de457f9f7ea7c47cf8fdba6d691211995d279e764c350"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-8-2016",
+   "path": "ordin/bnr/2016/8",
+   "short": "Ordin bnr nr. 8/2016",
+   "title": "Ordinul nr. 8/2016 privind prelungirea perioadei de suspendare a aplicării Ordinului nr. 1/2016 privind amortizorul de capital pentru risc sistemic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185051",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185051",
+     "sha256": "6628fc1390f015104bf086f080b38ababe4aa2265ed4666befcd25cbcd39c5e4"
     }
    ]
   },
@@ -16964,6 +16994,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185111",
      "sha256": "f8041fbe12e90da52bac058c62c77da72f8dd71f2e59a9fc9f4add25a618de0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-163-2016",
+   "path": "ordin/interne/2016/163",
+   "short": "Ordin interne nr. 163/2016",
+   "title": "Ordinul nr. 163/2016 pentru aprobarea Regulamentului de organizare și funcționare a Direcției generale afaceri europene, Schengen și relații internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183247",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183247",
+     "sha256": "c57d83dd065963e5d215093a17db529403aef51cc779d44a7fcf25b67a8d8ae6"
     }
    ]
   },

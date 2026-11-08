@@ -3,6 +3,1266 @@
  "shard": "local/bihor/santandrei/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--santandrei-1-2022",
+   "path": "local/bihor/santandrei/2022/1",
+   "short": "HCL Sântandrei nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 1/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 25 ianuarie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48164",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-10-2022",
+   "path": "local/bihor/santandrei/2022/10",
+   "short": "HCL Sântandrei nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 10/2022 privind aprobarea Procedurii și/sau condițiilor de acordare a ajutoarelor de urgență și a beneficiilor sociale, familiilor și persoanelor singure care se află în situații de necesitate și/sau deosebite",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48173",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-100-2022",
+   "path": "local/bihor/santandrei/2022/100",
+   "short": "HCL Sântandrei nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 100/2022 privind aprobarea solicitării adresată Consiliului Județean Bihor pentru trecerea din domeniul public al Județului Bihor în domeniul public al Comunei Sântandrei a unor părți din imobilul DJ 797 în scopul realizării obiectivului de investiții ”Construcție pistă de biciclete în interiorul comunei Sântandrei (Sântandrei – Palota) în cadrul Proiectului Național de Redresare și Reziliență (apelul de proiecte PNRR/2022/C10, COMPONENTA C10 – FONDUL LOCAL)”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/65509",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/65509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-101-2022",
+   "path": "local/bihor/santandrei/2022/101",
+   "short": "HCL Sântandrei nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 101/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 28 iulie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67754",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-105-2022",
+   "path": "local/bihor/santandrei/2022/105",
+   "short": "HCL Sântandrei nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 105/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67758",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-106-2022",
+   "path": "local/bihor/santandrei/2022/106",
+   "short": "HCL Sântandrei nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 106/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67759",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-107-2022",
+   "path": "local/bihor/santandrei/2022/107",
+   "short": "HCL Sântandrei nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 107/2022 privind aprobarea rectificării bugetului local al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67760",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-108-2022",
+   "path": "local/bihor/santandrei/2022/108",
+   "short": "HCL Sântandrei nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 108/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67761",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-109-2022",
+   "path": "local/bihor/santandrei/2022/109",
+   "short": "HCL Sântandrei nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 109/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/67762",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/67762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-11-2022",
+   "path": "local/bihor/santandrei/2022/11",
+   "short": "HCL Sântandrei nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 11/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: „Definitivarea rețelelor de alimentare cu apă și canalizare, inclusiv branșamente și racorduri, în comuna Sântandrei, județul Bihor” ”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48174",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-110-2022",
+   "path": "local/bihor/santandrei/2022/110",
+   "short": "HCL Sântandrei nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 110/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 31 august 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70052",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-111-2022",
+   "path": "local/bihor/santandrei/2022/111",
+   "short": "HCL Sântandrei nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 111/2022 pentru aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70053",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-119-2022",
+   "path": "local/bihor/santandrei/2022/119",
+   "short": "HCL Sântandrei nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 119/2022 privind aprobarea rectificării bugetului local al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70061",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-12-2022",
+   "path": "local/bihor/santandrei/2022/12",
+   "short": "HCL Sântandrei nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 12/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48175",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-121-2022",
+   "path": "local/bihor/santandrei/2022/121",
+   "short": "HCL Sântandrei nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 121/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70063",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-122-2022",
+   "path": "local/bihor/santandrei/2022/122",
+   "short": "HCL Sântandrei nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 122/2022 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli - sursa A, al bugetul de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții sursa E și al bugetului împrumuturilor interne sursa C al Comunei Sântandrei pentru trimestrul II al anului 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70064",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-124-2022",
+   "path": "local/bihor/santandrei/2022/124",
+   "short": "HCL Sântandrei nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 124/2022 privind completarea Inventarului bunurilor care aparțin domeniului public al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70066",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-125-2022",
+   "path": "local/bihor/santandrei/2022/125",
+   "short": "HCL Sântandrei nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 125/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 5 septembrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70585",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-127-2022",
+   "path": "local/bihor/santandrei/2022/127",
+   "short": "HCL Sântandrei nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 127/2022 cu privire la completarea Hotărârii Consiliului Local al Comunei SÂNTANDREI nr. 61 din 15.04.2022 privind „Elaborarea în format GIS a Planului Urbanistic General la nivelul comunei Sântandrei” în cadrul Planului Național de Redresare și Reziliență (apelul de proiecte PNRR/2022/C10, COMPONENTA C10 – FONDUL LOCAL), a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/70587",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/70587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-128-2022",
+   "path": "local/bihor/santandrei/2022/128",
+   "short": "HCL Sântandrei nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 128/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 28 septembrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73303",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-129-2022",
+   "path": "local/bihor/santandrei/2022/129",
+   "short": "HCL Sântandrei nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 129/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73304",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-13-2022",
+   "path": "local/bihor/santandrei/2022/13",
+   "short": "HCL Sântandrei nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 13/2022 privind aprobarea efectuării operațiunilor notariale de alipire a terenurilor intravilane, proprietate publică a Comunei Sântandrei -strada Ștrandului, nr. cad. 740 în suprafață de 7413 mp și nr. cad. 58994 în suprafață de 5346 mp, în vederea constituirii unui singur număr cadastral Strada Ștrandului, proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48176",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-130-2022",
+   "path": "local/bihor/santandrei/2022/130",
+   "short": "HCL Sântandrei nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 130/2022 privind aprobarea Regulamentului de gospodărire a localităților de pe raza administrativ teritorială a Comunei Sântandrei, precum și sancționarea faptelor de încălcare a normelor privind buna gospodărire și întreținere a comunei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73305",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-131-2022",
+   "path": "local/bihor/santandrei/2022/131",
+   "short": "HCL Sântandrei nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 131/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73306",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-132-2022",
+   "path": "local/bihor/santandrei/2022/132",
+   "short": "HCL Sântandrei nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 132/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73307",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-133-2022",
+   "path": "local/bihor/santandrei/2022/133",
+   "short": "HCL Sântandrei nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 133/2022 privind aprobarea Programului de interes județean ”ÎMPREUNĂ PENTRU UN JUDEȚ CURAT” și derularea acțiunilor necesare implementării programului",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73308",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-134-2022",
+   "path": "local/bihor/santandrei/2022/134",
+   "short": "HCL Sântandrei nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 134/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei identificat cu nr. cad. 59279, înscris în CF 59279 Sântandrei, în suprafață de 3854 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73309",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-135-2022",
+   "path": "local/bihor/santandrei/2022/135",
+   "short": "HCL Sântandrei nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 135/2022 privind aprobarea efectuarii operațiunilor notariale de alipire a terenurilor intravilane, proprietatea publică a Comunei Sântandrei - strada Tineretului, nr. cad. 10251 cu suprafața de 1573 mp, nr. cad. 11906 cu suprafața de 3084 mp și nr. cad. 59922 cu suprafața de 7965 mp în vederea constituirii unui singur număr cadastral Strada Tineretului, sat. Sântandrei, proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73310",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-136-2022",
+   "path": "local/bihor/santandrei/2022/136",
+   "short": "HCL Sântandrei nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 136/2022 privind aprobarea efectuarii operațiunilor notariale de alipire a terenurilor intravilane, proprietate publică a Comunei Sântandrei –strada Ciocârliei, nr. cad. 2730 în suprafață de 171 mp, nr.cad. 59918 în suprafață de 1519 mp și nr. cad. 59919 în suprafață de 677 mp, în vederea constituirii unui singur număr cadastral Strada Ciocârliei, sat Sântandrei, proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73311",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-137-2022",
+   "path": "local/bihor/santandrei/2022/137",
+   "short": "HCL Sântandrei nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 137/2022 privind aprobarea efectuarii operațiunilor notariale de alipire a terenurilor intravilane, proprietate publică a Comunei Sântandrei –strada Tinerilor, nr. cad. 71 în suprafață de 8202 mp și nr. cad. 10415 în suprafață de 1477 mp, în vederea constituirii unui singur număr cadastral Strada Tinerilor, sat Palota, proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73312",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-138-2022",
+   "path": "local/bihor/santandrei/2022/138",
+   "short": "HCL Sântandrei nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 138/2022 privind aprobarea efectuarii operațiunilor notariale de alipire a terenurilor intravilane, proprietate publică a Comunei Sântandrei –strada Căprioarei, nr. cad. 12220 în suprafață de 2462 mp și nr. cad. 59916 în suprafață de 3021 mp, în vederea constituirii unui singur număr cadastral Strada Căprioarei, proprietate publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73313",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-14-2022",
+   "path": "local/bihor/santandrei/2022/14",
+   "short": "HCL Sântandrei nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 14/2022 privind aprobarea dezmembrării terenului extravilan, înscris în CF nr. 10284, nr. cad. 10284, în suprafață de 8551 mp, proprietatea publică a Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48177",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-141-2022",
+   "path": "local/bihor/santandrei/2022/141",
+   "short": "HCL Sântandrei nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 141/2022 privind aprobarea depunerii Proiectului “Renovarea energetică moderată a blocului de locuințe: B1 din Comuna Sântandrei”, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73316",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-142-2022",
+   "path": "local/bihor/santandrei/2022/142",
+   "short": "HCL Sântandrei nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 142/2022 privind aprobarea depunerii Proiectului “Renovarea energetică moderată a blocului de locuințe: B2 din Comuna Sântandrei”, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73317",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-143-2022",
+   "path": "local/bihor/santandrei/2022/143",
+   "short": "HCL Sântandrei nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 143/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73318",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-144-2022",
+   "path": "local/bihor/santandrei/2022/144",
+   "short": "HCL Sântandrei nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 144/2022 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții aferentă investiției „Modernizare drum comunal și străzi în localitatea Palota, comuna Sântandrei, județul Bihor”, depus în vedere finanțării în cadrul Programului Anghel Saligny și a indicatorilor tehnico – economici actualizați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73319",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-145-2022",
+   "path": "local/bihor/santandrei/2022/145",
+   "short": "HCL Sântandrei nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 145/2022 privind aprobarea asigurării cofinanțării obiectivului de investiţii „Modernizare drum comunal si străzi în localitatea Palota, comuna Sântandrei, județul Bihor”, depus în vedere finanțării în cadrul Programului Anghel Saligny",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73320",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-146-2022",
+   "path": "local/bihor/santandrei/2022/146",
+   "short": "HCL Sântandrei nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 146/2022 privind aprobarea rectificării bugetului local al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73321",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-147-2022",
+   "path": "local/bihor/santandrei/2022/147",
+   "short": "HCL Sântandrei nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 147/2022 privind aprobarea depunerii proiectului “Renovarea energetică moderată a blocului de locuințe: B4+B5 din Comuna Sântandrei”, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73322",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-148-2022",
+   "path": "local/bihor/santandrei/2022/148",
+   "short": "HCL Sântandrei nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 148/2022 privind aprobarea depunerii Proiectului “Renovarea energetică moderată a blocului de locuințe: B3 din Comuna Sântandrei”, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73323",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-149-2022",
+   "path": "local/bihor/santandrei/2022/149",
+   "short": "HCL Sântandrei nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 149/2022 privind aprobarea depunerii Proiectului “Renovarea energetică aprofundată a blocului de locuințe SMA din Comuna Sântandrei, Județul Bihor”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73324",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-15-2022",
+   "path": "local/bihor/santandrei/2022/15",
+   "short": "HCL Sântandrei nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 15/2022 privind aprobarea investiției “DRUM EXPRES ARAD-ORADEA” pentru sectorul ce traversează Comuna Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48178",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-150-2022",
+   "path": "local/bihor/santandrei/2022/150",
+   "short": "HCL Sântandrei nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 150/2022 privind aprobarea proiectului „Creșterea eficienței energetice și gestionarea inteligentă a energiei în unitatea de învățământ Școala Gimnazială nr. 1 Sântandrei, jud. Bihor” în cadrul PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, COMPONENTA C10 – FONDUL LOCAL, a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73325",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-151-2022",
+   "path": "local/bihor/santandrei/2022/151",
+   "short": "HCL Sântandrei nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 151/2022 privind aprobarea Documentația de Avizare a Lucrărilor de Intervenții aferentă investiției „Modernizare străzi în comuna Sântandrei, judetul Bihor – etapa a V-a”, depus în vedere finanțării în cadrul Programului Anghel Saligny și a indicatorilor tehnico – economci actualizați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73326",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-152-2022",
+   "path": "local/bihor/santandrei/2022/152",
+   "short": "HCL Sântandrei nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 152/2022 privind aprobarea asigurării cofinanțării obiectivului de investiţie „Modernizare străzi în comuna Sântandrei, judetul Bihor – etapa a V-a”, depus în vedere finanțării în cadrul Programului Anghel Saligny",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/73327",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/73327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-153-2022",
+   "path": "local/bihor/santandrei/2022/153",
+   "short": "HCL Sântandrei nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 153/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 13 octombrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/75549",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/75549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-154-2022",
+   "path": "local/bihor/santandrei/2022/154",
+   "short": "HCL Sântandrei nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 154/2022 privind aprobarea proiectului „Reabilitare în vederea creșterii eficienței energetice la nivelul clădirii Grădiniței cu Program Prelungit nr. 1 Sântandrei, comuna Sântandrei, județul Bihor” în cadrul PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, COMPONENTA C10 – FONDUL LOCAL, a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/75550",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/75550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-155-2022",
+   "path": "local/bihor/santandrei/2022/155",
+   "short": "HCL Sântandrei nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 155/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea publică a Comunei Sântandrei identificat cu nr. cad. 1490, înscris în CF 1490 Sântandrei, în suprafață de 2165 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/75551",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/75551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-156-2022",
+   "path": "local/bihor/santandrei/2022/156",
+   "short": "HCL Sântandrei nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 156/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 17 octombrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/75963",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/75963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-157-2022",
+   "path": "local/bihor/santandrei/2022/157",
+   "short": "HCL Sântandrei nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 157/2022 privind aprobarea proiectului „Dezvoltarea unor sisteme inteligente de transport și de management local la nivelul Comunei Sântandrei, Județul Bihor” în cadrul Planului Național de Redresare și Reziliență (apelul de proiecte 2, COMPONENTA C10 – FONDUL LOCAL), a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/75964",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/75964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-158-2022",
+   "path": "local/bihor/santandrei/2022/158",
+   "short": "HCL Sântandrei nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 158/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 31 octombrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77599",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-159-2022",
+   "path": "local/bihor/santandrei/2022/159",
+   "short": "HCL Sântandrei nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 159/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77600",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-16-2022",
+   "path": "local/bihor/santandrei/2022/16",
+   "short": "HCL Sântandrei nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 16/2022 privind aprobarea Organigramei și a Statului de funcții pentru Aparatul de specialitate al primarului comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48179",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-160-2022",
+   "path": "local/bihor/santandrei/2022/160",
+   "short": "HCL Sântandrei nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 160/2022 privind înscrierea în Cartea Funciară în domeniul privat al Comunei Sântandrei a terenului intravilan proprietatea Comunei Sântandrei, având categoria de folosință arabil, în suprafață de 2268 mp, cu numărul cadastral 10453, notat în CF 10453 Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77601",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-162-2022",
+   "path": "local/bihor/santandrei/2022/162",
+   "short": "HCL Sântandrei nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 162/2022 privind aprobarea dezmembrării terenului intravilan, înscris în CF. nr. 8428, cu nr. cad. 8428, în suprafață de 1009 mp, proprietatea privată a Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77603",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-163-2022",
+   "path": "local/bihor/santandrei/2022/163",
+   "short": "HCL Sântandrei nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 163/2022 privind aprobarea trecerii terenului extravilan identificat cu nr. cad. 8690, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 8690, cu suprafața de 56828 mp, având categoria de folosință neproductiv, din domeniul privat – poz. 371 din inventar, în domeniu public al Comunei Sântandrei pentru uz și interes public local",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77604",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-164-2022",
+   "path": "local/bihor/santandrei/2022/164",
+   "short": "HCL Sântandrei nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 164/2022 privind aprobarea trecerii terenului extravilan identificat cu nr. cad. 8706, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 8706, cu suprafața de 62105 mp, având categoria de folosință neproductiv, din domeniul privat – poz. 373 din inventar, în domeniu public al Comunei Sântandrei pentru uz și interes public local",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77605",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-165-2022",
+   "path": "local/bihor/santandrei/2022/165",
+   "short": "HCL Sântandrei nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 165/2022 privind aprobarea trecerii terenului extravilan identificat cu nr. cad. 8707, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 8707, cu suprafața de 7293 mp, având categoria de folosință neproductiv, din domeniul privat – poz. 374 din inventar, în domeniu public al Comunei Sântandrei pentru uz și interes public local",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77606",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-166-2022",
+   "path": "local/bihor/santandrei/2022/166",
+   "short": "HCL Sântandrei nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 166/2022 privind aprobarea trecerii terenului intravilan identificat cu nr. cad. 10421, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 10421, cu suprafața de 25165 mp, având categoria de folosință ape stătătoare, din domeniul privat – poz. 326 din inventar, în domeniu public al Comunei Sântandrei pentru uz și interes public local",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77607",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-167-2022",
+   "path": "local/bihor/santandrei/2022/167",
+   "short": "HCL Sântandrei nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 167/2022 privind aprobarea rectificării bugetului local al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77608",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-169-2022",
+   "path": "local/bihor/santandrei/2022/169",
+   "short": "HCL Sântandrei nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 169/2022 privind aprobarea depunerii cererii de finanțare aferentă proiectului „Realizare piste de biciclete la nivelul Zonei Metropolitane Oradea (tronsoane aferente UAT Paleu, Cetariu, Sântandrei și Girișu de Criș)” în cadrul Programului de realizare a pistelor pentru biciclete finanțat de Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/77610",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/77610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-17-2022",
+   "path": "local/bihor/santandrei/2022/17",
+   "short": "HCL Sântandrei nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 17/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 11 februarie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/50894",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/50894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-170-2022",
+   "path": "local/bihor/santandrei/2022/170",
+   "short": "HCL Sântandrei nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 170/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 28 noiembrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81112",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-171-2022",
+   "path": "local/bihor/santandrei/2022/171",
+   "short": "HCL Sântandrei nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 171/2022 privind aprobarea modificării contribuţiei Comunei Sântandrei pentru funcţionarea compartimentului de audit intern, înfiinţat în cadrul Filialei Judeţene BIHOR a Asociaţiei Comunelor din România",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81113",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-172-2022",
+   "path": "local/bihor/santandrei/2022/172",
+   "short": "HCL Sântandrei nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 172/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81114",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-174-2022",
+   "path": "local/bihor/santandrei/2022/174",
+   "short": "HCL Sântandrei nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 174/2022 privind aprobarea transmiterii în folosință gratuită către Inspectoratul de Poliție al Județului Bihor, Secția 5 Poliție Rurală Oradea, Post Poliție Comunal Sântandrei, a Kitului Etilotest complet pentru măsurarea alcoolemiei din aerul expirat",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81116",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-175-2022",
+   "path": "local/bihor/santandrei/2022/175",
+   "short": "HCL Sântandrei nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 175/2022 privind aprobarea trecerii terenului intravilan proprietatea privată a Comunei Sântandrei, identificat cu nr. cad. 59281, înscris în CF nr. 59281, cu suprafața de 2.012 mp, având categoria de folosință arabil, din domeniul privat, poz. 416 din inventar, în domeniu public al Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81117",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-176-2022",
+   "path": "local/bihor/santandrei/2022/176",
+   "short": "HCL Sântandrei nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 176/2022 privind aprobarea încheierii unui Protocol de colaborare interinstituțională cu Ministerul Muncii și Solidarității Sociale (MMSS) în cadrul Proiectului „HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81118",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-177-2022",
+   "path": "local/bihor/santandrei/2022/177",
+   "short": "HCL Sântandrei nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 177/2022 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții aferentă investiției „Modernizare străzi în comuna Sântandrei, județul Bihor – etapa a V-a”, depus în vederea finanțării în cadrul Programului Anghel Saligny și a indicatorilor tehnico – economici actualizați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81119",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-178-2022",
+   "path": "local/bihor/santandrei/2022/178",
+   "short": "HCL Sântandrei nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 178/2022 privind aprobarea asigurării cofinanțării obiectivului de investiţie „Modernizare străzi în comuna Sântandrei, județul Bihor – etapa a V-a”, depus în vederea finanțării în cadrul Programului Anghel Saligny",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81120",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-179-2022",
+   "path": "local/bihor/santandrei/2022/179",
+   "short": "HCL Sântandrei nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 179/2022 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții aferentă investiției „Modernizare drum comunal și străzi în localitatea Palota, comuna Sântandrei, județul Bihor”, depus în vedere finanțării în cadrul Programului Anghel Saligny și a indicatorilor tehnico – economici actualizați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81121",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-18-2022",
+   "path": "local/bihor/santandrei/2022/18",
+   "short": "HCL Sântandrei nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 18/2022 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli - sursa A, al bugetul de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții sursa E și al bugetului împrumuturilor interne sursa C al Comunei Sântandrei pentru trimestrul IV al anului 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/50890",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/50890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-180-2022",
+   "path": "local/bihor/santandrei/2022/180",
+   "short": "HCL Sântandrei nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 180/2022 privind aprobarea asigurării cofinanțării obiectivului de investiţii „Modernizare drum comunal și străzi în localitatea Palota, comuna Sântandrei, județul Bihor”, depus în vedere finanțării în cadrul Programului Anghel Saligny",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81122",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-181-2022",
+   "path": "local/bihor/santandrei/2022/181",
+   "short": "HCL Sântandrei nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 181/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81123",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-182-2022",
+   "path": "local/bihor/santandrei/2022/182",
+   "short": "HCL Sântandrei nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 182/2022 privind aprobarea rectificării bugetului local al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81124",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-183-2022",
+   "path": "local/bihor/santandrei/2022/183",
+   "short": "HCL Sântandrei nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 183/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81125",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-184-2022",
+   "path": "local/bihor/santandrei/2022/184",
+   "short": "HCL Sântandrei nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 184/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81126",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-185-2022",
+   "path": "local/bihor/santandrei/2022/185",
+   "short": "HCL Sântandrei nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 185/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81127",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-186-2022",
+   "path": "local/bihor/santandrei/2022/186",
+   "short": "HCL Sântandrei nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 186/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81128",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-187-2022",
+   "path": "local/bihor/santandrei/2022/187",
+   "short": "HCL Sântandrei nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 187/2022 privind aprobarea Caietului de sarcini aferent serviciului de apă și canalizare în Comuna Sântandrei elaborat de Asociația de Dezvoltare Intercomunitară APAREGIO",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81129",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-188-2022",
+   "path": "local/bihor/santandrei/2022/188",
+   "short": "HCL Sântandrei nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 188/2022 privind aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiţii: „Definitivarea rețelelor de alimentare cu apă și canalizare, inclusiv branșamente și racorduri, în comuna Sântandrei, județul Bihor” ”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81130",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-189-2022",
+   "path": "local/bihor/santandrei/2022/189",
+   "short": "HCL Sântandrei nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 189/2022 privind aprobarea investiției “DRUM EXPRES ARAD-ORADEA” (inclusiv rețele și utilități cu amplasamentul pe teritoriul județului Bihor), pentru sectorul ce traversează Comuna Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/81131",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/81131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-190-2022",
+   "path": "local/bihor/santandrei/2022/190",
+   "short": "HCL Sântandrei nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 190/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 12 decembrie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/82328",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/82328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-191-2022",
+   "path": "local/bihor/santandrei/2022/191",
+   "short": "HCL Sântandrei nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 191/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/82329",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/82329",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-192-2022",
    "path": "local/bihor/santandrei/2022/192",
    "short": "HCL Sântandrei nr. 192/2022",
@@ -118,6 +1378,36 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/83592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-2-2022",
+   "path": "local/bihor/santandrei/2022/2",
+   "short": "HCL Sântandrei nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 2/2022 privind aprobarea validării Dispoziţiei Primarului nr. 2 din 3 ianuarie 2022 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48165",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-20-2022",
+   "path": "local/bihor/santandrei/2022/20",
+   "short": "HCL Sântandrei nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 20/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/50892",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/50892",
      "sha256": null
     }
    ]
@@ -273,6 +1563,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--santandrei-21-2022",
+   "path": "local/bihor/santandrei/2022/21",
+   "short": "HCL Sântandrei nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 21/2022 privind aprobarea participării comunei Sântandrei în cadrul „Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități” implementat de Ministerul Mediului, Apelor și Pădurilor prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/50893",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/50893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--santandrei-210-2022",
    "path": "local/bihor/santandrei/2022/210",
    "short": "HCL Sântandrei nr. 210/2022",
@@ -298,6 +1603,1056 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/santandrei-bh/registru-hcl/84459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-22-2022",
+   "path": "local/bihor/santandrei/2022/22",
+   "short": "HCL Sântandrei nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 22/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 17 februarie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/51363",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/51363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-23-2022",
+   "path": "local/bihor/santandrei/2022/23",
+   "short": "HCL Sântandrei nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 23/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/51362",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/51362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-24-2022",
+   "path": "local/bihor/santandrei/2022/24",
+   "short": "HCL Sântandrei nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 24/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 28 februarie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53201",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-25-2022",
+   "path": "local/bihor/santandrei/2022/25",
+   "short": "HCL Sântandrei nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 25/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53202",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-26-2022",
+   "path": "local/bihor/santandrei/2022/26",
+   "short": "HCL Sântandrei nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 26/2022 privind analiza stadiul de înscriere a datelor în Registrul agricol al comunei Sântandrei și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53203",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-28-2022",
+   "path": "local/bihor/santandrei/2022/28",
+   "short": "HCL Sântandrei nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 28/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei identificat cu nr. cad. 60060, înscris în CF 60060 Sântandrei, în suprafață de 2.086 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53205",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-29-2022",
+   "path": "local/bihor/santandrei/2022/29",
+   "short": "HCL Sântandrei nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 29/2022 privind aprobarea Regulamentului pentru înregistarea contractelor de arendă depuse la Primăria comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53206",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-3-2022",
+   "path": "local/bihor/santandrei/2022/3",
+   "short": "HCL Sântandrei nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 3/2022 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2021",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48166",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-30-2022",
+   "path": "local/bihor/santandrei/2022/30",
+   "short": "HCL Sântandrei nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 30/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53207",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-31-2022",
+   "path": "local/bihor/santandrei/2022/31",
+   "short": "HCL Sântandrei nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 31/2022 privind aprobarea trecerii terenului intravilan cu nr. cad. 10439, proprietatea Comunei Sântandrei, înscris în CF nr. 10439 cu suprafața de 1358 mp, având categoria de folosință arabil, din domeniul public-poz. 336 din inventar, în domeniu privat al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53208",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-32-2022",
+   "path": "local/bihor/santandrei/2022/32",
+   "short": "HCL Sântandrei nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 32/2022 privind aprobarea Planului anual de acţiune pentru anul 2022 în domeniul administrării și organizării serviciilor sociale la nivelul Compartimentului de Asistență Socială din cadrul Primariei comunei Sântandrei, precum și aprobarea Planului local de acțiune privind incluziunea minorității romilor din comuna Sântandrei pentru anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53209",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-33-2022",
+   "path": "local/bihor/santandrei/2022/33",
+   "short": "HCL Sântandrei nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 33/2022 privind aprobarea Planului de acţiuni și lucrări de interes local pe anul 2022, ce vor fi efectuate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53210",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-34-2022",
+   "path": "local/bihor/santandrei/2022/34",
+   "short": "HCL Sântandrei nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 34/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53211",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-35-2022",
+   "path": "local/bihor/santandrei/2022/35",
+   "short": "HCL Sântandrei nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 35/2022 privind aprobarea modificării formei juridice a Clubului Sportiv Comunal \"Crișul\" Sântandrei, precum și modificarea componenței membrilor asociați",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53212",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-36-2022",
+   "path": "local/bihor/santandrei/2022/36",
+   "short": "HCL Sântandrei nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 36/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53213",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-37-2022",
+   "path": "local/bihor/santandrei/2022/37",
+   "short": "HCL Sântandrei nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 37/2022 privind aprobarea lucrărilor de decolmatare și recalibrare a cursurilor de apă, respectiv, a albiei Pârâul Peța în parteneriat cu Administrația Bazinală de Apă Crișuri în anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53214",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-38-2022",
+   "path": "local/bihor/santandrei/2022/38",
+   "short": "HCL Sântandrei nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 38/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/53215",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/53215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-4-2022",
+   "path": "local/bihor/santandrei/2022/4",
+   "short": "HCL Sântandrei nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 4/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48167",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-40-2022",
+   "path": "local/bihor/santandrei/2022/40",
+   "short": "HCL Sântandrei nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 40/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 24 martie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54758",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-42-2022",
+   "path": "local/bihor/santandrei/2022/42",
+   "short": "HCL Sântandrei nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 42/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54760",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-43-2022",
+   "path": "local/bihor/santandrei/2022/43",
+   "short": "HCL Sântandrei nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 43/2022 privind aprobarea trecerii terenului intravilan identificat cu nr. cad. 8376, înscris în CF nr. 8376 cu suprafața de 5.166 mp, categoria arabil din domeniul privat – poz. 299 din inventar, în domeniul public al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54761",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-44-2022",
+   "path": "local/bihor/santandrei/2022/44",
+   "short": "HCL Sântandrei nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 44/2022 privind aprobarea trecerii terenurilor intravilane proprietatea privată a Comunei Sântandrei, identificate cu nr. cad. 10977 înscris în CF nr. 10977 cu suprafața de 5.641 mp și nr. cad. 8610 înscris în CF 8610 cu suprafața de 2.944 mp, din domeniul privat în domeniu public al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54762",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-45-2022",
+   "path": "local/bihor/santandrei/2022/45",
+   "short": "HCL Sântandrei nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 45/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea Comunei Sântandrei identificat cu nr. cad. 2073, înscris în CF 2073 Sântandrei, în suprafață de 18.832 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54763",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-46-2022",
+   "path": "local/bihor/santandrei/2022/46",
+   "short": "HCL Sântandrei nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 46/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea Comunei Sântandrei identificat cu nr. cad. 2544, înscris în CF 2544 Sântandrei, în suprafață de 6.010 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54764",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-47-2022",
+   "path": "local/bihor/santandrei/2022/47",
+   "short": "HCL Sântandrei nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 47/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei identificat cu nr. cad. 8427, înscris în CF 8427 Sântandrei, în suprafață de 10.099 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54765",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-49-2022",
+   "path": "local/bihor/santandrei/2022/49",
+   "short": "HCL Sântandrei nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 49/2022 privind aprobarea Planului de analiză și acoperire a riscurilor întocmit la nivelul comunei Sântandrei pentru anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54767",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-5-2022",
+   "path": "local/bihor/santandrei/2022/5",
+   "short": "HCL Sântandrei nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 5/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48168",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-50-2022",
+   "path": "local/bihor/santandrei/2022/50",
+   "short": "HCL Sântandrei nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 50/2022 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare pentru gestionarea situațiilor de urgență din comuna Sântandrei pentru anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54768",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-51-2022",
+   "path": "local/bihor/santandrei/2022/51",
+   "short": "HCL Sântandrei nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 51/2022 privind aprobarea validării Dispoziţiei Primarului nr. 50 din 4 martie 2022 privind rectificarea bugetului de venituri şi cheltuieli al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54769",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-52-2022",
+   "path": "local/bihor/santandrei/2022/52",
+   "short": "HCL Sântandrei nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 52/2022 privind aprobarea utilizării fondului de rezervă bugetară, reîntregirea fondului de rezervă bugetară la dispoziția autorităților locale și a rectificarii bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54770",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-54-2022",
+   "path": "local/bihor/santandrei/2022/54",
+   "short": "HCL Sântandrei nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 54/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54772",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-55-2022",
+   "path": "local/bihor/santandrei/2022/55",
+   "short": "HCL Sântandrei nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 55/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54773",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-56-2022",
+   "path": "local/bihor/santandrei/2022/56",
+   "short": "HCL Sântandrei nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 56/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54774",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-57-2022",
+   "path": "local/bihor/santandrei/2022/57",
+   "short": "HCL Sântandrei nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 57/2022 privind aprobarea înființării Serviciului de iluminat public, respectiv, aprobarea Regulamentului de organizare și funcționare al serviciului de iluminat public la nivelul Comunei Sântandrei și alegerea formei de gestiune a serviciului de iluminat public al Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/54775",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/54775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-58-2022",
+   "path": "local/bihor/santandrei/2022/58",
+   "short": "HCL Sântandrei nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 58/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 15 aprilie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/57312",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/57312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-59-2022",
+   "path": "local/bihor/santandrei/2022/59",
+   "short": "HCL Sântandrei nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 59/2022 privind aprobarea trecerii din domeniul public al UAT – Comuna Sântandrei, în domeniul public al UAT – Județul Bihor, a imobilului – teren situat în localitatea Palota, Comuna Sântandrei, identificat cu nr. cadastral 8376, înscris în CF 8376 Sântandrei, în vederea realizării obiectivului de investiții Centru/platformă de colectare a deșeurilor prin aport voluntar",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/57313",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/57313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-6-2022",
+   "path": "local/bihor/santandrei/2022/6",
+   "short": "HCL Sântandrei nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 6/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48169",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-60-2022",
+   "path": "local/bihor/santandrei/2022/60",
+   "short": "HCL Sântandrei nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 60/2022 privind aprobarea depunerii Proiectului “Renovarea energetică moderată a blocurilor de locuințe: B1, B2 și B3 din Comuna Sântandrei”, Județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/57314",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/57314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-61-2022",
+   "path": "local/bihor/santandrei/2022/61",
+   "short": "HCL Sântandrei nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 61/2022 privind aprobarea proiectului „Elaborarea în format GIS a Planului Urbanistic General la nivelul comunei Sântandrei” în cadrul Planului Național de Redresare și Reziliență (apelul de proiecte PNRR/2022/C10, COMPONENTA C10 – FONDUL LOCAL), a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/57315",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/57315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-62-2022",
+   "path": "local/bihor/santandrei/2022/62",
+   "short": "HCL Sântandrei nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 62/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 21 aprilie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58069",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-63-2022",
+   "path": "local/bihor/santandrei/2022/63",
+   "short": "HCL Sântandrei nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 63/2022 privind aprobarea depunerii Proiectului “Renovarea energetică aprofundată a blocului de locuințe SMA din Comuna Sântandrei, Județul Bihor”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58070",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-64-2022",
+   "path": "local/bihor/santandrei/2022/64",
+   "short": "HCL Sântandrei nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 64/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 29 aprilie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58915",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-65-2022",
+   "path": "local/bihor/santandrei/2022/65",
+   "short": "HCL Sântandrei nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 65/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58916",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-66-2022",
+   "path": "local/bihor/santandrei/2022/66",
+   "short": "HCL Sântandrei nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 66/2022 Privind aprobarea indexării impozitelor și taxelor locale pentru anul 2023 cu rata inflației de 5,1 %",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58917",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-67-2022",
+   "path": "local/bihor/santandrei/2022/67",
+   "short": "HCL Sântandrei nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 67/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei identificat cu nr. cad. 8572, înscris în CF 8572 Sântandrei, în suprafață de 10.634 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58918",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-68-2022",
+   "path": "local/bihor/santandrei/2022/68",
+   "short": "HCL Sântandrei nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 68/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/58919",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/58919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-7-2022",
+   "path": "local/bihor/santandrei/2022/7",
+   "short": "HCL Sântandrei nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 7/2022 privind aprobarea Planului Urbanistic Zonal \"Lotizare teren pentru locuințe cu funcțiuni complementare și amplasare biserică, grădiniță, casă de bătrâni și clinică stomatologică nr. cad. 6272, localitatea Sântandrei, comuna Sântandrei, județul Bihor”, având ca beneficiar Parohia Greco-Catolică Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48170",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-70-2022",
+   "path": "local/bihor/santandrei/2022/70",
+   "short": "HCL Sântandrei nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 70/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 17 mai 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/60564",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/60564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-71-2022",
+   "path": "local/bihor/santandrei/2022/71",
+   "short": "HCL Sântandrei nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 71/2022 privind aprobarea proiectului „Construcție pistă de biciclete în interiorul comunei Sântandrei (Sântandrei-Palota)” în cadrul Planului Național de Redresare și Reziliență (apelul de proiecte PNRR/2022/C10, COMPONENTA C10 – FONDUL LOCAL), a notei de fundamentare a investiției și a cheltuielilor legate de proiectul respectiv",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/60565",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/60565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-72-2022",
+   "path": "local/bihor/santandrei/2022/72",
+   "short": "HCL Sântandrei nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 72/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 30 mai 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62160",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-73-2022",
+   "path": "local/bihor/santandrei/2022/73",
+   "short": "HCL Sântandrei nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 73/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62161",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-75-2022",
+   "path": "local/bihor/santandrei/2022/75",
+   "short": "HCL Sântandrei nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 75/2022 privind aprobarea validării Dispoziției primarului nr. 80/16.05.2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62163",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-76-2022",
+   "path": "local/bihor/santandrei/2022/76",
+   "short": "HCL Sântandrei nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 76/2022 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli - sursa A, al bugetul de venituri proprii și cheltuieli privind activitățile finanțate integral sau parțial din venituri proprii și subvenții sursa E și al bugetului împrumuturilor interne sursa C al Comunei Sântandrei pentru trimestrul I al anului 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62164",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-78-2022",
+   "path": "local/bihor/santandrei/2022/78",
+   "short": "HCL Sântandrei nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 78/2022 privind aprobarea trecerii terenului intravilan identificat cu nr. cad. 60530, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 60530, cu suprafața de 4369 mp, având categoria de folosință curți-construcții, din domeniul privat – poz. 280 din inventar, în domeniu public al Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62166",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-79-2022",
+   "path": "local/bihor/santandrei/2022/79",
+   "short": "HCL Sântandrei nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 79/2022 privind aprobarea trecerii terenului extravilan identificat cu nr. cad. 10979, proprietatea privată a Comunei Sântandrei, înscris în CF nr. 10979, cu suprafața de 5021 mp, având categoria de folosință neproductiv, din domeniul privat – poz. 242 din inventar, în domeniu public al Comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62167",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-8-2022",
+   "path": "local/bihor/santandrei/2022/8",
+   "short": "HCL Sântandrei nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 8/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48171",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-83-2022",
+   "path": "local/bihor/santandrei/2022/83",
+   "short": "HCL Sântandrei nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 83/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sântandrei pe anul 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/62171",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/62171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-85-2022",
+   "path": "local/bihor/santandrei/2022/85",
+   "short": "HCL Sântandrei nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 85/2022 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Sântandrei din data 24 iunie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64380",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-88-2022",
+   "path": "local/bihor/santandrei/2022/88",
+   "short": "HCL Sântandrei nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 88/2022 privind aprobarea de către Consiliul Local al comunei Sântandrei a volumului de masă lemnoasă propusă a fi exploatată pentru anul 2022 de Ocolul Silvic Oradea, pentru buna administrare a pădurii proprietatea publică a comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64383",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-89-2022",
+   "path": "local/bihor/santandrei/2022/89",
+   "short": "HCL Sântandrei nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 89/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64384",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-9-2022",
+   "path": "local/bihor/santandrei/2022/9",
+   "short": "HCL Sântandrei nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 9/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/48172",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/48172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-90-2022",
+   "path": "local/bihor/santandrei/2022/90",
+   "short": "HCL Sântandrei nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 90/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64385",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-91-2022",
+   "path": "local/bihor/santandrei/2022/91",
+   "short": "HCL Sântandrei nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 91/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64386",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-92-2022",
+   "path": "local/bihor/santandrei/2022/92",
+   "short": "HCL Sântandrei nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 92/2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64387",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-93-2022",
+   "path": "local/bihor/santandrei/2022/93",
+   "short": "HCL Sântandrei nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 93/2022 privind clasificarea unor drumuri publice de interes local în categoria funcțională străzi, situate pe teritoriul unităţii administrativ-teritoriale comuna Sântandrei, județul Bihor",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64388",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-95-2022",
+   "path": "local/bihor/santandrei/2022/95",
+   "short": "HCL Sântandrei nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 95/2022 privind aprobarea dezmembrării terenului intravilan, proprietatea privată a Comunei Sântandrei identificat cu nr. cad. 8703, înscris în CF 8703 Sântandrei, în suprafață de 1500 mp",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64390",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-96-2022",
+   "path": "local/bihor/santandrei/2022/96",
+   "short": "HCL Sântandrei nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 96/2022 privind aprobarea trecerii terenului intravilan cu nr. cad. 59496, proprietatea Comunei Sântandrei, înscris în CF nr. 59496 cu suprafața de 136 mp, având categoria de folosință curți construcții, din domeniul public-poz. 162 din inventar, în domeniu privat al comunei Sântandrei",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64391",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-97-2022",
+   "path": "local/bihor/santandrei/2022/97",
+   "short": "HCL Sântandrei nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 97/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 29 iunie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64900",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-98-2022",
+   "path": "local/bihor/santandrei/2022/98",
+   "short": "HCL Sântandrei nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 98/2022 privind aprobarea proiectului “Construirea, echiparea și operaționalizarea Creșei din Comuna Sântandrei, județul Bihor”",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/64901",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/64901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--santandrei-99-2022",
+   "path": "local/bihor/santandrei/2022/99",
+   "short": "HCL Sântandrei nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sântandrei nr. 99/2022 privind aprobarea ordinii de zi propusă pentru şedinţa extraordinară a Consiliului Local Sântandrei din data 6 iulie 2022",
+   "url": "https://emol.ro/santandrei-bh/registru-hcl/65508",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/santandrei-bh/registru-hcl/65508",
      "sha256": null
     }
    ]

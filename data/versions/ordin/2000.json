@@ -5223,6 +5223,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-298-2000",
+   "path": "ordin/transporturi/2000/298",
+   "short": "Ordin transporturi nr. 298/2000",
+   "title": "Ordinul nr. 298/2000 pentru încetarea aplicabilității Ordinului ministrului transporturilor nr. 504/1997 privind unele măsuri de exercitare a controlului constituirii Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23367",
+   "versions": [
+    {
+     "from": "2000-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23367",
+     "sha256": "cf6142552afc7b95133e62ed30a5ebf339e53f6657d536cb5b09815f48bf1e7b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-333-2000",
    "path": "ordin/transporturi/2000/333",
    "short": "Ordin transporturi nr. 333/2000",
@@ -5249,6 +5264,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22641",
      "sha256": "6f79ab2324a8c200635d2df6d2cf936226b4ea41d0667f3c98bd2f1011599d33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-405-2000",
+   "path": "ordin/transporturi/2000/405",
+   "short": "Ordin transporturi nr. 405/2000",
+   "title": "Ordinul nr. 405/2000 pentru aprobarea aplicării Reglementării europene JAR-147-pregătire/examinare, aprobată pentru întreținere, cuprinzând cerințele pentru autorizarea organizațiilor care pregătesc și/sau examinează personalul de certificare a întreținerii în aviația civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23624",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23624",
+     "sha256": "39bbb4e4ad9e81359b4982d5db12346632f9b34c644fa9b04e7ebe19439c2732"
     }
    ]
   },

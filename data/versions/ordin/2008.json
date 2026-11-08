@@ -4053,6 +4053,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-55-2008",
+   "path": "ordin/anre/2008/55",
+   "short": "Ordin anre nr. 55/2008",
+   "title": "Ordinul nr. 55/2008 privind modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 15/2004 pentru aprobarea tarifelor și indicilor specifici utilizați la stabilirea tarifelor de racordare a utilizatorilor la rețelele electrice de medie și joasă tensiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93874",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93874",
+     "sha256": "47fe0ed1517341514cd807cc555bb18afbec2b8a5807aaff09a707aae6561538"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-56-2008",
    "path": "ordin/anre/2008/56",
    "short": "Ordin anre nr. 56/2008",
@@ -4064,6 +4079,21 @@
      "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93956",
      "sha256": "fa1734b94a1063002ba5533e35c3b1f259ef1eed3a727bbe55afc655f07f401f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-57-2008",
+   "path": "ordin/anre/2008/57",
+   "short": "Ordin anre nr. 57/2008",
+   "title": "Ordinul nr. 57/2008 pentru aprobarea Metodologiei de stabilire a prețurilor și a cantităților de energie electrică vândute de producători pe bază de contracte reglementate și a prețurilor pentru energia termică livrată din centrale cu grupuri de cogenerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94880",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94880",
+     "sha256": "ac67e9a9043aaf9d25ec3e4192fafd30c9eb4ff1a6abe84f3efb3cbb4ca6ce35"
     }
    ]
   },
@@ -4319,6 +4349,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96344",
      "sha256": "6c1b7dcae396c0835f254acd4dc44ace92dbc896112b7286d426dd03a7b79713"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-151-2008",
+   "path": "ordin/anrm/2008/151",
+   "short": "Ordin anrm nr. 151/2008",
+   "title": "Ordinul nr. 151/2008 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 62/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96461",
+   "versions": [
+    {
+     "from": "2008-08-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96461",
+     "sha256": "b35edb7c468724492ed7ebecb94d2660e137c7aeb6a93028938da9718d90f8f2"
     }
    ]
   },
@@ -5234,6 +5279,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98046",
      "sha256": "4b4f48ce990ed369737df00db43682f19c9c5b6c5ee14b2f48d886713de0737b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-81-2008",
+   "path": "ordin/ansvsa/2008/81",
+   "short": "Ordin ansvsa nr. 81/2008",
+   "title": "Ordinul nr. 81/2008 pentru aprobarea Normei sanitare veterinare privind procedura de introducere pe piață și de utilizare a reagenților și a seturilor de diagnostic de uz veterinar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98509",
+   "versions": [
+    {
+     "from": "2008-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98509",
+     "sha256": "ce65c8442f0fa628cab065c69e2de1baab7daff4b2b4ef46a712510d1137a962"
     }
    ]
   },
@@ -12813,6 +12873,21 @@
    ]
   },
   {
+   "slug": "ordin-ins-683-2008",
+   "path": "ordin/ins/2008/683",
+   "short": "Ordin ins nr. 683/2008",
+   "title": "Ordinul nr. 683/2008 privind pragurile valorice Intrastat pentru colectarea informațiilor statistice de comerț intracomunitar cu bunuri în anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100087",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100087",
+     "sha256": "5cac75f01f604f61c624d02b959b839c48644e525862839c2fe69353425a6e4e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ins-684-2008",
    "path": "ordin/ins/2008/684",
    "short": "Ordin ins nr. 684/2008",
@@ -12959,6 +13034,21 @@
      "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89941",
      "sha256": "b1d7f6234058cde0e2f97989567b2061f6adb081869fdd66aea761ff12bbac02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-404-2008",
+   "path": "ordin/interne/2008/404",
+   "short": "Ordin interne nr. 404/2008",
+   "title": "Ordinul nr. 404/2008 privind metodologia de stabilire a cheltuielilor efectuate pe timpul instruirii/pregătirii soldaților și gradaților voluntari și soldaților și gradaților rezerviști voluntari din Ministerul Internelor și Reformei Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89967",
+   "versions": [
+    {
+     "from": "2008-02-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89967",
+     "sha256": "e97d3fe5cabc1f9a7fbdf3d60bbd93f6b446436b68f83a46a0860e6a4157c410"
     }
    ]
   },
@@ -13394,6 +13484,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95368",
      "sha256": "f8689160b2eff4c9dee7d3631576b2589080fde50f47b625884e35354f3a6af8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-interne-529-2008",
+   "path": "ordin/interne/2008/529",
+   "short": "Ordin interne nr. 529/2008",
+   "title": "Ordinul nr. 529/2008 privind aprobarea Regulamentului de organizare și funcționare al Direcției generale pentru dezvoltarea capacității administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96153",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96153",
+     "sha256": "f3ccbc7b1c8a07ec2d63e6be0ed48716782a1c86f2abdd5269d66c1dcafde6d0"
     }
    ]
   },
@@ -15828,6 +15933,51 @@
    ]
   },
   {
+   "slug": "ordin-mediu-1268-2008",
+   "path": "ordin/mediu/2008/1268",
+   "short": "Ordin mediu nr. 1268/2008",
+   "title": "Ordinul nr. 1.268/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 3 și Regiunii 8 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98815",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98815",
+     "sha256": "85debf1314830e3d22afbc0a79622f5427d8140c5ca2cbbc120ce2bd45a65307"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1269-2008",
+   "path": "ordin/mediu/2008/1269",
+   "short": "Ordin mediu nr. 1269/2008",
+   "title": "Ordinul nr. 1.269/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 2 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98818",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98818",
+     "sha256": "eb66bd4ba603d7c48b8e12254266f1af5e0f54782340e7672304eaaafa5f72c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1270-2008",
+   "path": "ordin/mediu/2008/1270",
+   "short": "Ordin mediu nr. 1270/2008",
+   "title": "Ordinul nr. 1.270/2008 pentru aprobarea încadrării localităților din cadrul Regiunii 1 în liste, potrivit prevederilor Ordinului ministrului apelor și protecției mediului nr. 745/2002 privind stabilirea aglomerărilor și clasificarea aglomerărilor și zonelor pentru evaluarea calității aerului în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98817",
+   "versions": [
+    {
+     "from": "2008-11-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98817",
+     "sha256": "327142f3cd6c488518b9a15f49be554923f15ae5d801b4fe65b4cf3744f4e129"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1271-2008",
    "path": "ordin/mediu/2008/1271",
    "short": "Ordin mediu nr. 1271/2008",
@@ -16548,6 +16698,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-259-2008",
+   "path": "ordin/munca/2008/259",
+   "short": "Ordin munca nr. 259/2008",
+   "title": "Ordinul nr. 259/2008 privind aprobarea documentelor necesare implementării Programului operațional sectorial \"Dezvoltarea resurselor umane 2007-2013\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100199",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100199",
+     "sha256": "3fdf98fc10fed655346f1ba1d4b6a72b8e3df470d9b41ebb1e3411d87a5bc0b8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-26-2008",
    "path": "ordin/munca/2008/26",
    "short": "Ordin munca nr. 26/2008",
@@ -16739,6 +16904,21 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100406",
      "sha256": "5e00ea9e0a593b0bef892eb42f976cb1d18972caeabe3ff2896782ed4bccd86a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-507-2008",
+   "path": "ordin/munca/2008/507",
+   "short": "Ordin munca nr. 507/2008",
+   "title": "Ordinul nr. 507/2008 privind aprobarea Grilei de evaluare a activităților cu caracter inovator desfășurate în centrele-pilot pentru persoane adulte cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97824",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97824",
+     "sha256": "44c2ed07d7dacb904484f54b2f5332da9739ecdf06db2fa91f1d1ed1527a6922"
     }
    ]
   },
@@ -20639,6 +20819,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94895",
      "sha256": "d12e2ef558a1a5f73a26b82d072e6b36ce07d04c4fe710c7848e0fd507c31942"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-811-2008",
+   "path": "ordin/transporturi/2008/811",
+   "short": "Ordin transporturi nr. 811/2008",
+   "title": "Ordinul nr. 811/2008 pentru modificarea lit. c) a art. 3 din Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.190/2005 privind utilizarea tarifului de securitate aeroportuară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95033",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95033",
+     "sha256": "d23cd26cd5e907c7467e5b542eb6bab45f8490df04871a5d11e8fe5c0bd9bf48"
     }
    ]
   },

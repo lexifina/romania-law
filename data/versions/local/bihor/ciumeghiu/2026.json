@@ -3,6 +3,66 @@
  "shard": "local/bihor/ciumeghiu/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--ciumeghiu-30-2026",
+   "path": "local/bihor/ciumeghiu/2026/30",
+   "short": "HCL Ciumeghiu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 30/2026 privind aprobarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/270051",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/270051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-36-2026",
+   "path": "local/bihor/ciumeghiu/2026/36",
+   "short": "HCL Ciumeghiu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 36/2026 privind aprobarea indexării impozitelor și taxelor locale cu rata inflației",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/277185",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/277185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-41-2026",
+   "path": "local/bihor/ciumeghiu/2026/41",
+   "short": "HCL Ciumeghiu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 41/2026 privind aprobarea înființării Serviciului Public de Gospodarire Comunală Ciumeghiu, județul BIHOR, structură cu personalitate juridică, în subordinea Consiliului Local al comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/281729",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/281729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-42-2026",
+   "path": "local/bihor/ciumeghiu/2026/42",
+   "short": "HCL Ciumeghiu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 42/2026 privind aprobarea rectificării bugetului local",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/281730",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/281730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-43-2026",
    "path": "local/bihor/ciumeghiu/2026/43",
    "short": "HCL Ciumeghiu nr. 43/2026",

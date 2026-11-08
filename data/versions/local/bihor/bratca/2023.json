@@ -3,6 +3,66 @@
  "shard": "local/bihor/bratca/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--bratca-134-2023",
+   "path": "local/bihor/bratca/2023/134",
+   "short": "HCL Bratca nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 134/2023 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145081",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-147-2023",
+   "path": "local/bihor/bratca/2023/147",
+   "short": "HCL Bratca nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 147/2023 privind aprobarea bugetului de venituri și cheltuieli pentru SC APĂ CANAL BRATCA SRL, pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145094",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-176-2023",
+   "path": "local/bihor/bratca/2023/176",
+   "short": "HCL Bratca nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 176/2023 privind rectificarea Bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145213",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-177-2023",
+   "path": "local/bihor/bratca/2023/177",
+   "short": "HCL Bratca nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 177/2023 privind aprobarea rectificării Bugetului anual de venituri și cheltuieli pe anul 2023 și a Planului de achiziții publice pe anul 2023, pentru Ocolul Silvic Brătcuța R.A",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145214",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-187-2023",
    "path": "local/bihor/bratca/2023/187",
    "short": "HCL Bratca nr. 187/2023",
@@ -298,6 +358,111 @@
      "from": "2023-12-21",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/145248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-23-2023",
+   "path": "local/bihor/bratca/2023/23",
+   "short": "HCL Bratca nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 23/2023 privind aprobarea amenajamentului pastoral pentru pajiştile permanente la nivelul comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/95835",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/95835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-25-2023",
+   "path": "local/bihor/bratca/2023/25",
+   "short": "HCL Bratca nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 25/2023 privind aprobarea Planului de analiză şi acoperire a riscurilor al Comunei Bratca, actualizat pentru anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/95837",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/95837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-32-2023",
+   "path": "local/bihor/bratca/2023/32",
+   "short": "HCL Bratca nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 32/2023 privind aprobarea situației privind inventarierea bunurilor aflate în patrimoniul Comunei Bratca pentru anul 2022",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/95844",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/95844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-35-2023",
+   "path": "local/bihor/bratca/2023/35",
+   "short": "HCL Bratca nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 35/2023 privind aprobarea participării UAT Comuna Bratca în cadrul Proiectului, MODERNIZAREA REȚELEI DE BIBLIOTECI A JUDEȚULUI BIHOR PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE, din cadrul Planului Național de Redresare și Reziliență (PNRR) în parteneriat cu UAT-rile din județul Bihor",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/95847",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/95847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-39-2023",
+   "path": "local/bihor/bratca/2023/39",
+   "short": "HCL Bratca nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 39/2023 Privind modificarea Anexei nr.1și Anexei nr. 2 din HCL nr.9/31.01.2023 pentru obiectivul de investiții „Alimentare cu apă potabilă Cătun Secătură, Comuna Bratca, Județul Bihor”,",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/120901",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/120901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-40-2023",
+   "path": "local/bihor/bratca/2023/40",
+   "short": "HCL Bratca nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 40/2023 Privind aprobarea proiectelor evaluate de comisia de evaluare si selectionare, pentru atribuirea contractelor de finantare nerambursabila din fonduri publice, acordate din bugetul local al Comunei Bratca, conform regulamentului privind regimul finantarilor nerambursabile alocate din bugetul local al Comunei Bratca pentru activitati nonprofit de interes local, aprobat prin HCL nr.133/26.10.2015",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/120902",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/120902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-9-2023",
+   "path": "local/bihor/bratca/2023/9",
+   "short": "HCL Bratca nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 9/2023 privind aprobarea studiului de fezabilitate a indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiţii: ,, Alimentare cu apă potabilă Cătun Secătură, Comuna Bratca, judeţul Bihor”, aprobat pentru finanţare prin Programul naţional de Investiţii ,, Anghel Saligny”, precum şi a sumei reprezentând categorii de cheltuieli finanţate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/94393",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/94393",
      "sha256": null
     }
    ]

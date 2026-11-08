@@ -3,6 +3,36 @@
  "shard": "local/bihor/tulca/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--tulca-10-2024",
+   "path": "local/bihor/tulca/2024/10",
+   "short": "HCL Tulca nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 10/2024 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV, anul 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148280",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-100-2024",
+   "path": "local/bihor/tulca/2024/100",
+   "short": "HCL Tulca nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 100/2024 privind rectificarea bugetului de venituri si cheltuieli al Serviciului Public de Gospodarire Comunala Tulca, pe anul 2024, VARIANTA 2 a",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/190703",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/190703",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-104-2024",
    "path": "local/bihor/tulca/2024/104",
    "short": "HCL Tulca nr. 104/2024",
@@ -298,6 +328,156 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/tulca-bh/registru-hcl/190757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-13-2024",
+   "path": "local/bihor/tulca/2024/13",
+   "short": "HCL Tulca nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 13/2024 privind aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual aferent familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Tulca și a serviciului public de interes local din subordinea consiliului local Tulca, conform prevederilor OUG nr. 115/2023",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148283",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-15-2024",
+   "path": "local/bihor/tulca/2024/15",
+   "short": "HCL Tulca nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 15/2024 privind aprobarea devizului general estimativ și a indicatorilor tehnico-economici la faza de proiectare STUDIU DE FEZABILITATE pentru obiectivul de investiție: “Inființarea rețelelor inteligente de distribuție a gazelor naturale in comunele Tulca, Tinca si Batăr, judeţul Bihor” în cadrul Programului național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148285",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-17-2024",
+   "path": "local/bihor/tulca/2024/17",
+   "short": "HCL Tulca nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 17/2024 privind aprobarea Bugetului devenituri si cheltuieli al Comunei Tulca, pe anul 2024",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/157320",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/157320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-2-2024",
+   "path": "local/bihor/tulca/2024/2",
+   "short": "HCL Tulca nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 2/2024 privind aprobarea utilizarii sumei de 124.950 lei din excedentul bugetar al anilor precedenti pentru proiectul de investitii ,,Sistem de monitorizare si siguranta al spatiului public al comunei Tulca, judetul Bihor",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148272",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-45-2024",
+   "path": "local/bihor/tulca/2024/45",
+   "short": "HCL Tulca nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 45/2024 privind indexarea impozitelor și taxelor locale pentru anul 2025 cu rata inflatiei de 10.4%",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/161252",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/161252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-5-2024",
+   "path": "local/bihor/tulca/2024/5",
+   "short": "HCL Tulca nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 5/2024 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2024 al fondului forestier, intocmit de Ocolul Silvic Tinca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148275",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-50-2024",
+   "path": "local/bihor/tulca/2024/50",
+   "short": "HCL Tulca nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 50/2024 privind aprobarea documentației tehnico-economice – faza Proiect Tehnic – pentru obiectivul de investiții: „SISTEM DE MONITORIZARE ȘI SIGURANȚĂ A SPAȚIULUI PUBLIC AL COMUNEI TULCA, JUDEȚUL BIHOR” finanțat prin Planul Național de Redresare și Reziliență în cadrul apelului de proiecte: Componenta C10 - Fondul local, Obiectul de investiții I.1 „Mobilitatea urbană durabilă”, subinvestitia I.1.2 - Asigurarea infrastructurii pentru transportul verde - ITS/ alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/161257",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/161257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-63-2024",
+   "path": "local/bihor/tulca/2024/63",
+   "short": "HCL Tulca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 63/2024 privind aprobarea raportului privind analiza apărării împotriva incendiilor pe semestrul I al anului 2024, în comuna Tulca",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/172514",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/172514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-8-2024",
+   "path": "local/bihor/tulca/2024/8",
+   "short": "HCL Tulca nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 8/2024 privind aprobarea Planului local de actiune privind incluziunea cetatenilor romani apartinand minoritatii rome pentru anul 2024",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148278",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-9-2024",
+   "path": "local/bihor/tulca/2024/9",
+   "short": "HCL Tulca nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 9/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2024 administrate și/sau finanțate din bugetul Consiliului Local al comunei Tulca, judetul Bihor",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/148279",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/148279",
      "sha256": null
     }
    ]

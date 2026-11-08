@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-17-2024",
+   "path": "local/bihor/tarcea/2024/17",
+   "short": "HCL Tarcea nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 17/2024 privind aprobarea indicatorilor pentru finanțarea/cofinanțarea elaborării și actualizării Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Tarcea, județul Bihor",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/143343",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/143343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-18-2024",
+   "path": "local/bihor/tarcea/2024/18",
+   "short": "HCL Tarcea nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 18/2024 privind aprobarea criteriilor de acordare a ajutoarelor de urgenţă din bugetul local și a metodologiei de acordare",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/143344",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/143344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-35-2024",
+   "path": "local/bihor/tarcea/2024/35",
+   "short": "HCL Tarcea nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 35/2024 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/155730",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/155730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-64-2024",
+   "path": "local/bihor/tarcea/2024/64",
+   "short": "HCL Tarcea nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 64/2024 privind analiza stadiului de înscriere a datelor în registrul agricol pe semestrul I al anului 2024",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/163851",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/163851",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-83-2024",
    "path": "local/bihor/tarcea/2024/83",
    "short": "HCL Tarcea nr. 83/2024",

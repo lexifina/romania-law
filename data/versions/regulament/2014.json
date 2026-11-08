@@ -3,6 +3,21 @@
  "shard": "regulament/2014",
  "acts": [
   {
+   "slug": "regulament-asf-1-2014",
+   "path": "regulament/asf/2014/1",
+   "short": "Regulament asf nr. 1/2014",
+   "title": "Regulamentul nr. 1/2014 privind activitatea de control desfășurată de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154795",
+   "versions": [
+    {
+     "from": "2014-02-23",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154795",
+     "sha256": "ec0dcc0f363e70a2e184bf9e74083d952e91b9961585273f2e5a91256eabe2da"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-10-2014",
    "path": "regulament/asf/2014/10",
    "short": "Regulament asf nr. 10/2014",

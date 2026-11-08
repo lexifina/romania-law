@@ -3,6 +3,117 @@
 "shard": "local/bihor/bratca/2022",
 "acts": [
 {
+"slug": "hcl-bihor--bratca-19-2022",
+"path": "local/bihor/bratca/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 19/2022 privind aprobarea Strategiei de Digitalizare a Comunei Bratca, județul Bihor",
+"short": "HCL Bratca nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-13",
+"latest": "2022-05-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/59814",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-118-2022",
+"path": "local/bihor/bratca/2022/118",
+"kind": "local",
+"year": "2022",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 118/2022 privind aprobarea încheiarea unui protocol de colaborare între Oraşul Aleşd şi Unitatea Administrativ Teritorială Comuna Bratca în vederea asigurării serviciului specializat pentru gestionarea câinilor fără stăpân",
+"short": "HCL Bratca nr. 118/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/76832",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-133-2022",
+"path": "local/bihor/bratca/2022/133",
+"kind": "local",
+"year": "2022",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 133/2022 privind aprobarea prețului la lemn de foc şi lemn de lucru, de esenţă răşinoase şi fag pentru persoanele fizice şi juridice din Depozitul Beznea si platformele primare, la Ocolul Silvic Brătcuţa R.A Bratca",
+"short": "HCL Bratca nr. 133/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/76876",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-169-2022",
+"path": "local/bihor/bratca/2022/169",
+"kind": "local",
+"year": "2022",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 169/2022",
+"short": "HCL Bratca nr. 169/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-13",
+"latest": "2023-03-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/93982",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-179-2022",
+"path": "local/bihor/bratca/2022/179",
+"kind": "local",
+"year": "2022",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 179/2022 privind participarea Comunei Bratca la implementarea proiectului ,,VELO APUSENI – Amenajare trasee cicloturistice în Munții Apuseni, pe zona Județelor Bihor, Cluj și Alba”, din cadrul Investiției I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+"short": "HCL Bratca nr. 179/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-13",
+"latest": "2023-03-13",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/93993",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--bratca-183-2022",
 "path": "local/bihor/bratca/2022/183",
 "kind": "local",

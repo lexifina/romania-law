@@ -3318,6 +3318,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-32-2005",
+   "path": "ordin/anre/2005/32",
+   "short": "Ordin anre nr. 32/2005",
+   "title": "Ordinul nr. 32/2005 privind aprobarea tarifelor de emitere a avizelor de amplasament și a avizelor tehnice de racordare practicate de operatorii de distribuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63219",
+   "versions": [
+    {
+     "from": "2005-07-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63219",
+     "sha256": "9062fe74fbb938b4c4396962de61ed03ac90a2986fe710695eea8076f04db1c4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-33-2005",
    "path": "ordin/anre/2005/33",
    "short": "Ordin anre nr. 33/2005",
@@ -3524,6 +3539,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67127",
      "sha256": "2a5eb00b6c41a2493fbaf0332fe1ad994d4911cf14b0f765d41fae28553876b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-48-2005",
+   "path": "ordin/anre/2005/48",
+   "short": "Ordin anre nr. 48/2005",
+   "title": "Ordinul nr. 48/2005 pentru aprobarea tarifelor medii pentru serviciile de transport, de sistem și decontare pe piața angro de energie electrică, a tarifelor zonale aferente serviciului de transport și a tarifelor specifice pentru serviciul de distribuție a energiei electrice, practicate de agenții economici din cadrul sectorului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67242",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67242",
+     "sha256": "d13f9c9599351c933083f3ea39e753c8ed5711b7bb8393d6c9a5b0d8cbb60e94"
     }
    ]
   },
@@ -3749,6 +3779,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66994",
      "sha256": "94ce48836a868b0432a37c23411712541277406dc1f6531bdac2a66ffd32b521"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrgn-131-2005",
+   "path": "ordin/anrgn/2005/131",
+   "short": "Ordin anrgn nr. 131/2005",
+   "title": "Ordinul nr. 131/2005 privind reorganizarea grupelor teritoriale de control ale Autorității Naționale de Reglementare în Domeniul Gazelor Naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59716",
+   "versions": [
+    {
+     "from": "2005-03-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59716",
+     "sha256": "38603d28ed441ba746290074617de548f256067493bd00ecfff6a1c166d86040"
     }
    ]
   },
@@ -5414,6 +5459,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62833",
      "sha256": "f003a74cba38084908723c34599a958dfa5403c1308e1e71edbce65f1679e486"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-60-2005",
+   "path": "ordin/ansvsa/2005/60",
+   "short": "Ordin ansvsa nr. 60/2005",
+   "title": "Ordinul nr. 60/2005 pentru modificarea și completarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 5/2005 privind aprobarea Regulamentului pentru identificarea și înregistrarea animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63152",
+   "versions": [
+    {
+     "from": "2005-07-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63152",
+     "sha256": "361d4c34c9ef92bf492023949bb3066cf9708c9a40358fca27f5ea3543c3a888"
     }
    ]
   },
@@ -9468,6 +9528,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4873-2005",
+   "path": "ordin/educatie/2005/4873",
+   "short": "Ordin educatie nr. 4873/2005",
+   "title": "Ordinul nr. 4.873/2005 privind disciplinele și programele pentru examenul de bacalaureat 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65134",
+   "versions": [
+    {
+     "from": "2005-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65134",
+     "sha256": "77ea9cfd28dc8261529afca68b94ba4083353794e059fb05499aaeffa5a66259"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4923-2005",
    "path": "ordin/educatie/2005/4923",
    "short": "Ordin educatie nr. 4923/2005",
@@ -9663,6 +9738,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5420-2005",
+   "path": "ordin/educatie/2005/5420",
+   "short": "Ordin educatie nr. 5420/2005",
+   "title": "Ordinul nr. 5.420/2005 privind aprobarea Regulamentului de desfășurare a examenului în vederea obținerii \"Diplomei de acces general în învățământul superior german\" și a \"Diplomei de bacalaureat\" de către absolvenții secțiilor/școlilor speciale germane din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68273",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68273",
+     "sha256": "baff34b06429aa5a01a14450b11220f81481f2cfdc7b94b1a0917284f44006b2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5440-2005",
    "path": "ordin/educatie/2005/5440",
    "short": "Ordin educatie nr. 5440/2005",
@@ -9749,6 +9839,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67135",
      "sha256": "7a946d0369df0b0779bf4df0facca76c00cd8e3ec973fdf0d2dd1849abe0a567"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5707-2005",
+   "path": "ordin/educatie/2005/5707",
+   "short": "Ordin educatie nr. 5707/2005",
+   "title": "Ordinul nr. 5.707/2005 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs, valabil pentru încadrarea personalului didactic din învățământul preuniversitar 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68181",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68181",
+     "sha256": "1fd7f6dae962c7b85ec002299e2bf31928a5430e1e07c9db69ef0481be0863e3"
     }
    ]
   },
@@ -11339,6 +11444,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62717",
      "sha256": "b266d59461c1d7cb95f60acb596546f44f8a47d18513589e02910e5c6bdbf62f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-889-2005",
+   "path": "ordin/finante/2005/889",
+   "short": "Ordin finante nr. 889/2005",
+   "title": "Ordinul nr. 889/2005 privind aprobarea Normelor metodologice pentru aparatul de control financiar al statului din cadrul Ministerului Finanțelor Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63083",
+   "versions": [
+    {
+     "from": "2005-07-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63083",
+     "sha256": "2522d433e4aa08a8498c4aebad7d51904013e7666444037620e1deae3eb2c557"
     }
    ]
   },

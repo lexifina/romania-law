@@ -3,6 +3,51 @@
  "shard": "local/bihor/borod/2025",
  "acts": [
   {
+   "slug": "hcl-bihor--borod-12-2025",
+   "path": "local/bihor/borod/2025/12",
+   "short": "HCL Borod nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 12/2025 privind aprobarea constituirii fondului de accesibilizare pentru fondul forestier proprietate publică a Comunei Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206360",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-17-2025",
+   "path": "local/bihor/borod/2025/17",
+   "short": "HCL Borod nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 17/2025 privind acordul de participare a comunei Borod, județul Bihor, la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206365",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-24-2025",
+   "path": "local/bihor/borod/2025/24",
+   "short": "HCL Borod nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 24/2025 privind indexarea cu rata inflației a impozitelor şi taxelor locale în comuna Borod pentru anul 2026",
+   "url": "https://emol.ro/borod-bh/registru-hcl/206379",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/206379",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-69-2025",
    "path": "local/bihor/borod/2025/69",
    "short": "HCL Borod nr. 69/2025",

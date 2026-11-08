@@ -1968,6 +1968,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-2689-1998",
+   "path": "ordin/finante/1998/2689",
+   "short": "Ordin finante nr. 2689/1998",
+   "title": "Ordinul nr. 2.689/1998 privind aprobarea formularelor specifice cu regim special, utilizate în comercializarea alcoolului, băuturilor alcoolice, produselor din tutun și a sortimentelor de cafea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16622",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16622",
+     "sha256": "a265e0a2c3bcfd9fdc05a2e63d136b946f15728f68ee70e4e46390648b4c49bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-2690-1998",
    "path": "ordin/finante/1998/2690",
    "short": "Ordin finante nr. 2690/1998",
@@ -2084,6 +2099,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14171",
      "sha256": "d8b890d4d0ab06c9a983d28d1172010fd9c61f9eaf5b4837bf0d5fa54dbbe4a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-450-1998",
+   "path": "ordin/finante/1998/450",
+   "short": "Ordin finante nr. 450/1998",
+   "title": "Ordinul nr. 450/1998 privind lansarea unei emisiuni de titluri de stat seria 1998/VI.2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14512",
+   "versions": [
+    {
+     "from": "1998-03-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14512",
+     "sha256": "330c7f482457927e2f6a8ae3b43e6209dee2644c1be0d5f08e9c20ce80de1757"
     }
    ]
   },

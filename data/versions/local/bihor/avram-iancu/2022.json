@@ -3,6 +3,36 @@
  "shard": "local/bihor/avram-iancu/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--avram-iancu-23-2022",
+   "path": "local/bihor/avram-iancu/2022/23",
+   "short": "HCL Avram Iancu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 23/2022 privind aprobarea indicatorilor tehnico-economici cat si participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: staţii de reîncărcare pentru vehicule electrice în localități” pentru proiectul: „STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA AVRAM IANCU, JUDETUL BIHOR„",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64669",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-26-2022",
+   "path": "local/bihor/avram-iancu/2022/26",
+   "short": "HCL Avram Iancu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 26/2022 privind aprobarea indicatorilor tehnico-economici, devizului general si a cererii de finantare pentru înfiintare rețea de gaze naturale în comuna Avram Iancu, județ Bihor",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64672",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-43-2022",
    "path": "local/bihor/avram-iancu/2022/43",
    "short": "HCL Avram Iancu nr. 43/2022",
@@ -103,6 +133,21 @@
      "from": "2023-10-10",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/90667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-5-2022",
+   "path": "local/bihor/avram-iancu/2022/5",
+   "short": "HCL Avram Iancu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 5/2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64651",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64651",
      "sha256": null
     }
    ]
@@ -258,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-6-2022",
+   "path": "local/bihor/avram-iancu/2022/6",
+   "short": "HCL Avram Iancu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 6/2022 privind aprobarea modificarii Hotararii nr 101 din 15.10.2021 privind aprobarea devizului general la obiectivul de investitii “Modernizare infrastructura rutiera comuna Avram Iancu, satele Tamasda si Ant”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64652",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64652",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-60-2022",
    "path": "local/bihor/avram-iancu/2022/60",
    "short": "HCL Avram Iancu nr. 60/2022",
@@ -298,6 +358,21 @@
      "from": "2023-10-10",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/90680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-7-2022",
+   "path": "local/bihor/avram-iancu/2022/7",
+   "short": "HCL Avram Iancu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 7/2022 privind aprobarea modificarii Hotararii nr 99 din 15.10.2021 privind aprobarea devizului general la obiectivul de investitii “Modernizare infrastructura rutiera Comuna Avram Iancu, sat Avram Iancu”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64653",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64653",
      "sha256": null
     }
    ]

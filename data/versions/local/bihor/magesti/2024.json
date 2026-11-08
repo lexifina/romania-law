@@ -3,6 +3,126 @@
  "shard": "local/bihor/magesti/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--magesti-10-2024",
+   "path": "local/bihor/magesti/2024/10",
+   "short": "HCL Măgești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 10/2024 privind aprobarea activităților finanțate integral din subvenții primite pentru instituții publice, sursa E de finanțare, ale Școlii Gimnaziale Nr. 1 Butani",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/174662",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/174662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-13-2024",
+   "path": "local/bihor/magesti/2024/13",
+   "short": "HCL Măgești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 13/2024 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ''Modernizarea infrastructurii rutiere în comuna Măgești, județul Bihor'', aprobat pentru finanțare prin Programul Național de Investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului ''Modernizarea infrastructurii rutiere în comuna Măgești, județul Bihor''",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/174664",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/174664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-23-2024",
+   "path": "local/bihor/magesti/2024/23",
+   "short": "HCL Măgești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 23/2024 privind aprobarea participării la ''Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzater'', a contribuției financiare aferente cheltuielilor eligibile, a cheltuielilor neeligibile, a documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiție ''Extinderea rețelelor de alimentare cu apă și de canalizare menajeră în comuna Măgești, județul Bihor''",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/190353",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/190353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-3-2024",
+   "path": "local/bihor/magesti/2024/3",
+   "short": "HCL Măgești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 3/2024 privind aprobarea rețelei școlare pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/162399",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/162399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-32-2024",
+   "path": "local/bihor/magesti/2024/32",
+   "short": "HCL Măgești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 32/2024",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/190393",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/190393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-33-2024",
+   "path": "local/bihor/magesti/2024/33",
+   "short": "HCL Măgești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 33/2024 în privind încheierea unui contract de asociere cu UAT județul Bihor în scopul realizării în comună a obiectivului de investiții ''Înființare rețea de distribuție gaze natural în comuna Măgești, Județ Bihor''",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/190395",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/190395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-36-2024",
+   "path": "local/bihor/magesti/2024/36",
+   "short": "HCL Măgești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 36/2024 privind aprobarea protocolului cu Ministerul Muncii și Solidarității Sociale (MMSS) în baza contractului de finanțare nr. 13/2.3.1./29.04.2021 privind proiectul ''HUB de servicii MMSS - SII MMSS'' cod SMIS 2014+130963",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/190399",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/190399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-40-2024",
+   "path": "local/bihor/magesti/2024/40",
+   "short": "HCL Măgești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 40/2024 privind aprobarea modului de întocmire a registrului agricol la nivelul UAT Măgești",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/190416",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/190416",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--magesti-43-2024",
    "path": "local/bihor/magesti/2024/43",
    "short": "HCL Măgești nr. 43/2024",
@@ -298,6 +418,21 @@
      "from": "2025-02-04",
      "units": 1,
      "source_url": "https://emol.ro/magesti-bh/registru-hcl/190679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--magesti-8-2024",
+   "path": "local/bihor/magesti/2024/8",
+   "short": "HCL Măgești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgești nr. 8/2024 privind aprobarea indicatorilor pentru finanțarea/cofinanțarea elaborării și actualizării Planului Urbanistic General și Regulamentul Local de Urbanism al comunei Măgești, județul Bihor",
+   "url": "https://emol.ro/magesti-bh/registru-hcl/174659",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/magesti-bh/registru-hcl/174659",
      "sha256": null
     }
    ]

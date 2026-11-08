@@ -3,6 +3,28 @@
 "shard": "local/bihor/tarcea/2025",
 "acts": [
 {
+"slug": "hcl-bihor--tarcea-23-2025",
+"path": "local/bihor/tarcea/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 23/2025 privind actualizarea Planului de analiză şi acoperire a riscurilor la nivelul Comunei Tarcea pentru anul 2025",
+"short": "HCL Tarcea nr. 23/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/tarcea-bh/registru-hcl/199717",
+"council": "bihor/tarcea",
+"council_name": "Consiliul Local al Comunei Tarcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--tarcea-79-2025",
 "path": "local/bihor/tarcea/2025/79",
 "kind": "local",

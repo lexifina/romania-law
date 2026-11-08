@@ -153,6 +153,111 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tarcea-24-2023",
+   "path": "local/bihor/tarcea/2023/24",
+   "short": "HCL Tarcea nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 24/2023 privind actualizarea Planului de analiză şi acoperire a riscurilor la nivelul Comunei Tarcea pentru anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/98042",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/98042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-3-2023",
+   "path": "local/bihor/tarcea/2023/3",
+   "short": "HCL Tarcea nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 3/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pe semestrul II al anului 2022",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/87506",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/87506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-31-2023",
+   "path": "local/bihor/tarcea/2023/31",
+   "short": "HCL Tarcea nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 31/2023 privind aprobarea valorilor impozabile, impozitelor şi taxelor locale şi altor taxe asimilate acestora precum şi amenzilor aplicabile în Comuna Tarcea, în anul 2024",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102980",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-32-2023",
+   "path": "local/bihor/tarcea/2023/32",
+   "short": "HCL Tarcea nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 32/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102981",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-33-2023",
+   "path": "local/bihor/tarcea/2023/33",
+   "short": "HCL Tarcea nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 33/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Comunei Tarcea pe anul 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/102982",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/102982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-41-2023",
+   "path": "local/bihor/tarcea/2023/41",
+   "short": "HCL Tarcea nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 41/2023 privind actualizarea Proiectului de amenajament pastoral pentru pajiştile din Comuna Tarcea",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/105731",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/105731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tarcea-61-2023",
+   "path": "local/bihor/tarcea/2023/61",
+   "short": "HCL Tarcea nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcea nr. 61/2023 privind analiza stadiului de înscriere a datelor în registrul agricol pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/tarcea-bh/registru-hcl/115378",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcea-bh/registru-hcl/115378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tarcea-90-2023",
    "path": "local/bihor/tarcea/2023/90",
    "short": "HCL Tarcea nr. 90/2023",

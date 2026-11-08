@@ -498,6 +498,21 @@
    ]
   },
   {
+   "slug": "norma-csspp-15-2006",
+   "path": "norma/csspp/2006/15",
+   "short": "Norma csspp nr. 15/2006",
+   "title": "Norma nr. 15/2006 pentru modificarea Normei nr. 1/2006 privind autorizarea de constituire a societății de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77856",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77856",
+     "sha256": "6a1ed61691ce409fa1acbbdeff93fda8f1ff7ba80b7bbd2c3adb8930d01816ff"
+    }
+   ]
+  },
+  {
    "slug": "norma-csspp-16-2006",
    "path": "norma/csspp/2006/16",
    "short": "Norma csspp nr. 16/2006",

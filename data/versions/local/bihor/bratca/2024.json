@@ -3,6 +3,96 @@
  "shard": "local/bihor/bratca/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--bratca-124-2024",
+   "path": "local/bihor/bratca/2024/124",
+   "short": "HCL Bratca nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 124/2024 privind aprobarea Referatului de necesitate și Oportunitate, a Notei de Fundamentare, a caietului de sarcini și a centralizatorului investiției pentru obiectivul ''Servicii de deszăpezire în Comuna Bratca, Județul Bihor, sezonul de iarna 2024-2025''",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/174437",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/174437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-13-2024",
+   "path": "local/bihor/bratca/2024/13",
+   "short": "HCL Bratca nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 13/2024 privind aprobarea contului de execuție al bugetului local al Comunei Bratca pe anul 2023",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145506",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-14-2024",
+   "path": "local/bihor/bratca/2024/14",
+   "short": "HCL Bratca nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 14/2024 privind utilizarea excedentului anului 2023 rezultat din execuția Bugetului local și a excedentului Bugetului de venituri și cheltuieli ale activităților finanțate din venituri proprii al unităţii administrativ teritoriale Comuna Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145507",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-157-2024",
+   "path": "local/bihor/bratca/2024/157",
+   "short": "HCL Bratca nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 157/2024 privind prelungirea termenului de aplicare până la data de 19 decembrie 2024 a procedurii, privind anularea obligației bugetare principale pentru amenzi și a accesoriilor aferente altor obligații bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Brtaca, aprobată prin HCL nr.136/11.11.2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/191932",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/191932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-158-2024",
+   "path": "local/bihor/bratca/2024/158",
+   "short": "HCL Bratca nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 158/2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/191933",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/191933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-159-2024",
+   "path": "local/bihor/bratca/2024/159",
+   "short": "HCL Bratca nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 159/2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/191934",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/191934",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-162-2024",
    "path": "local/bihor/bratca/2024/162",
    "short": "HCL Bratca nr. 162/2024",
@@ -118,6 +208,21 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/191996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-17-2024",
+   "path": "local/bihor/bratca/2024/17",
+   "short": "HCL Bratca nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 17/2024 privind aprobarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145510",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145510",
      "sha256": null
     }
    ]
@@ -273,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-18-2024",
+   "path": "local/bihor/bratca/2024/18",
+   "short": "HCL Bratca nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 18/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 și modificarea ROF pentru SC APĂ CANAL BRATCA SRL",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/145511",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/145511",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-180-2024",
    "path": "local/bihor/bratca/2024/180",
    "short": "HCL Bratca nr. 180/2024",
@@ -298,6 +418,66 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/192008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-32-2024",
+   "path": "local/bihor/bratca/2024/32",
+   "short": "HCL Bratca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 32/2024 privind aprobarea desfășurării de activități finanțate integral din venituri proprii – sursa de finanțare E - la Liceul Teoretic nr. 1 Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/156366",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/156366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-36-2024",
+   "path": "local/bihor/bratca/2024/36",
+   "short": "HCL Bratca nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 36/2024 privind aprobarea Protocolului de realizare investiții în cadrul contractului de lucrări nr. 115/25.10.2023, ce are ca obiect „CREȘTEREA EFICIENȚEI ENERGETICE LA DISPENSAR BRATCA”, finanțat prin Programul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/156370",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/156370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-45-2024",
+   "path": "local/bihor/bratca/2024/45",
+   "short": "HCL Bratca nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 45/2024 privind aprobarea încheierii unui acord de parteneriat între Agenția Națională pentru Arii Naturale Protejate (ANANP), UAT Județul Bihor, UAT Șuncuiuș, UAT Bratca, UAT Vadu Crișului și UAT Dobrești pentru implementarea proiectului „Implementarea de măsuri active de conservare pe teritoriul sitului Natura 2000 ROSCI0062 Defileul Crișului Repede - Pădurea Craiului - Etapa II”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/156379",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/156379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-56-2024",
+   "path": "local/bihor/bratca/2024/56",
+   "short": "HCL Bratca nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 56/2024 privind aprobarea Regulamentului privind acordarea voucherelor de vacanță pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/156610",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/156610",
      "sha256": null
     }
    ]

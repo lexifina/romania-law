@@ -3,6 +3,291 @@
  "shard": "local/bihor/tauteu/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--tauteu-10-2026",
+   "path": "local/bihor/tauteu/2026/10",
+   "short": "HCL Tăuteu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 10/2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262157",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-11-2026",
+   "path": "local/bihor/tauteu/2026/11",
+   "short": "HCL Tăuteu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 11/2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262174",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-12-2026",
+   "path": "local/bihor/tauteu/2026/12",
+   "short": "HCL Tăuteu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 12/2026 privind aprobarea utilizării excedentului bugetului local al comunei Tăuteu, județul Bihor, al anilor precedenți și aferent exercițiului bugetar al anului 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262175",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-15-2026",
+   "path": "local/bihor/tauteu/2026/15",
+   "short": "HCL Tăuteu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 15/2026 privind aprobarea nivelului cotei de pierderi de apă la nivelul sistemului public de alimentare cu apă al comunei Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262184",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-16-2026",
+   "path": "local/bihor/tauteu/2026/16",
+   "short": "HCL Tăuteu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 16/2026 privind aprobarea strategiei tarifare și a planului anual de evoluție a prețului unic pe perioada 2026-2030, aferente sistemului public de alimentare cu apă al comunei Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262185",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-21-2026",
+   "path": "local/bihor/tauteu/2026/21",
+   "short": "HCL Tăuteu nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 21/2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262190",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-22-2026",
+   "path": "local/bihor/tauteu/2026/22",
+   "short": "HCL Tăuteu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 22/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai perosanelor cu handicap grav, pe semestrul I și II, anul 2025, la nivelul unității administrativ-teritoriale comuna Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262240",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-26-2026",
+   "path": "local/bihor/tauteu/2026/26",
+   "short": "HCL Tăuteu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 26/2026 privind aprobarea devizului general actualizat, a indicatorilor tehnico-economici atualizați și a categoriilor de cheltuieli finanțate de la bugetul local, ale obiectivului de investiții ”Construire pod peste Bistra în localitatea Bogei, comuna Tăuteu, județul Bihor”",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262204",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-27-2026",
+   "path": "local/bihor/tauteu/2026/27",
+   "short": "HCL Tăuteu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 27/2026 privind aprobarea devizului general actualizat, a indicatorilor tehnico-economici atualizați și a categoriilor de cheltuieli finanțate de la bugetul local pentru obiectivul de investiții \"Dezvoltarea infrstructurii de apă potabilă în comuna Tăuteu, prin realizarea unor foraje, dotate cu stații de tratare, înmagazinare și pompare\"",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262205",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-28-2026",
+   "path": "local/bihor/tauteu/2026/28",
+   "short": "HCL Tăuteu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 28/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, prevăzute de ”Programul pentru școli al României în perioada 2026-2029”, la nivelul unității administrativ-teritorială comuna Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262216",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-35-2026",
+   "path": "local/bihor/tauteu/2026/35",
+   "short": "HCL Tăuteu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 35/2026 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Tăuteu, județul Bihor, pe anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/266207",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/266207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-39-2026",
+   "path": "local/bihor/tauteu/2026/39",
+   "short": "HCL Tăuteu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 39/2026 privind aprobarea devizului general actualizat și a cofinanțării de la bugetul local pentru proiectul “Înființare rețea de canalizare menajeră și stație de epurare în comuna Tăuteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/272959",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/272959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-4-2026",
+   "path": "local/bihor/tauteu/2026/4",
+   "short": "HCL Tăuteu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 4/2026 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe anul 2025",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262124",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-45-2026",
+   "path": "local/bihor/tauteu/2026/45",
+   "short": "HCL Tăuteu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 45/2026 privind aprobarea contului de execuție al bugetului local al comunei Tăuteu, județul Bihor, pe trimestrul I – anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/273039",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/273039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-47-2026",
+   "path": "local/bihor/tauteu/2026/47",
+   "short": "HCL Tăuteu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 47/2026 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor de la Școala Gimnazială nr. 2 Bogei, în cadrul Programului Național ”Masă Sănătoasă”",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/273045",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/273045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-48-2026",
+   "path": "local/bihor/tauteu/2026/48",
+   "short": "HCL Tăuteu nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 48/2026 privind aprobarea aprobarea Regulamentului privind repartizarea, închirierea şi schimbul locuinţelor pentru specialiști în sănătate și învățământ (locuințe nZeb), aflate în proprietatea publică a comunei Tauteu, județul Bihor",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/273046",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/273046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-5-2026",
+   "path": "local/bihor/tauteu/2026/5",
+   "short": "HCL Tăuteu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 5/2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262135",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-50-2026",
+   "path": "local/bihor/tauteu/2026/50",
+   "short": "HCL Tăuteu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 50/2026 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/277633",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/277633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-57-2026",
+   "path": "local/bihor/tauteu/2026/57",
+   "short": "HCL Tăuteu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 57/2026 privind aprobarea rectificării bugetului local al comunei Tăuteu, județul Bihor, pe anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/293009",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/293009",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-59-2026",
    "path": "local/bihor/tauteu/2026/59",
    "short": "HCL Tăuteu nr. 59/2026",
@@ -13,6 +298,21 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/tauteu-bh/registru-hcl/293012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-6-2026",
+   "path": "local/bihor/tauteu/2026/6",
+   "short": "HCL Tăuteu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 6/2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262136",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262136",
      "sha256": null
     }
    ]
@@ -168,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--tauteu-7-2026",
+   "path": "local/bihor/tauteu/2026/7",
+   "short": "HCL Tăuteu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 7/2026 privind stadiul de înscriere a datelor în Registrul agricol al comunei Tăuteu, județul Bihor, pe anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activități în anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262137",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tauteu-70-2026",
    "path": "local/bihor/tauteu/2026/70",
    "short": "HCL Tăuteu nr. 70/2026",
@@ -298,6 +613,36 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/tauteu-bh/registru-hcl/293051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-8-2026",
+   "path": "local/bihor/tauteu/2026/8",
+   "short": "HCL Tăuteu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 8/2026 privind aprobarea reorganizării Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tăuteu şi aprobarea Regulamentului de organizare şi funcţionare a Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tăuteu, județul Bihor, pe anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262145",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tauteu-9-2026",
+   "path": "local/bihor/tauteu/2026/9",
+   "short": "HCL Tăuteu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tăuteu nr. 9/2026 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor în comuna Tăuteu, judeţul Bihor, pe anul 2026",
+   "url": "https://emol.ro/tauteu-bh/registru-hcl/262151",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tauteu-bh/registru-hcl/262151",
      "sha256": null
     }
    ]

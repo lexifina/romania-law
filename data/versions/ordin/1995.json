@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-147-1995",
+   "path": "ordin/anrm/1995/147",
+   "short": "Ordin anrm nr. 147/1995",
+   "title": "Ordinul nr. 147/1995 privind aprobarea Metodologiei de atestare a capacității tehnice a agenților economici români pentru executarea lucrărilor de cercetare geologică și pentru executarea lucrărilor de dezvoltare și de exploatare a substanțelor minerale utile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6417",
+   "versions": [
+    {
+     "from": "1995-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6417",
+     "sha256": "8e1dd696b51b52ea0ec836445d3caf589d02c645434e9c3f011f35f1fedcc0aa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-97-1995",
    "path": "ordin/anrm/1995/97",
    "short": "Ordin anrm nr. 97/1995",
@@ -584,6 +599,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7613",
      "sha256": "18a3263ce9f2cebec99812ed2b8732ebe69c421c4db4162755c332a381f0f4bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1702-1995",
+   "path": "ordin/finante/1995/1702",
+   "short": "Ordin finante nr. 1702/1995",
+   "title": "Ordinul nr. 1.702/1995 privind lansarea unei emisiuni de titluri de stat cu discont seria D1 95.12.28",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7616",
+   "versions": [
+    {
+     "from": "1995-09-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7616",
+     "sha256": "c0a6cc395f605409b54acb3655fa3ee7ae3281fc29351c4bd6ab4ca8838ee50f"
     }
    ]
   },

@@ -3,6 +3,411 @@
  "shard": "local/bihor/pocola/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--pocola-1-2026",
+   "path": "local/bihor/pocola/2026/1",
+   "short": "HCL Pocola nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 1/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/250324",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/250324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-14-2026",
+   "path": "local/bihor/pocola/2026/14",
+   "short": "HCL Pocola nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 14/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/258183",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/258183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-15-2026",
+   "path": "local/bihor/pocola/2026/15",
+   "short": "HCL Pocola nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 15/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/258184",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/258184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-17-2026",
+   "path": "local/bihor/pocola/2026/17",
+   "short": "HCL Pocola nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 17/2026",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/258186",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/258186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-18-2026",
+   "path": "local/bihor/pocola/2026/18",
+   "short": "HCL Pocola nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 18/2026 privind acordarea unor facilități fiscale pentru anul 2026",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/258187",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/258187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-2-2026",
+   "path": "local/bihor/pocola/2026/2",
+   "short": "HCL Pocola nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 2/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/250325",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/250325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-21-2026",
+   "path": "local/bihor/pocola/2026/21",
+   "short": "HCL Pocola nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 21/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/261924",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/261924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-22-2026",
+   "path": "local/bihor/pocola/2026/22",
+   "short": "HCL Pocola nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 22/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/261925",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/261925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-24-2026",
+   "path": "local/bihor/pocola/2026/24",
+   "short": "HCL Pocola nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 24/2026 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare pentru gestionarea situatiilor de urgenta din comuna Pocola pe anul 2026",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/261927",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/261927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-31-2026",
+   "path": "local/bihor/pocola/2026/31",
+   "short": "HCL Pocola nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 31/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/263833",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/263833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-32-2026",
+   "path": "local/bihor/pocola/2026/32",
+   "short": "HCL Pocola nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 32/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/263834",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/263834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-36-2026",
+   "path": "local/bihor/pocola/2026/36",
+   "short": "HCL Pocola nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 36/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/264862",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/264862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-37-2026",
+   "path": "local/bihor/pocola/2026/37",
+   "short": "HCL Pocola nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 37/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/264863",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/264863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-39-2026",
+   "path": "local/bihor/pocola/2026/39",
+   "short": "HCL Pocola nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 39/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/265964",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/265964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-40-2026",
+   "path": "local/bihor/pocola/2026/40",
+   "short": "HCL Pocola nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 40/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/265965",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/265965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-41-2026",
+   "path": "local/bihor/pocola/2026/41",
+   "short": "HCL Pocola nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 41/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/265966",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/265966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-43-2026",
+   "path": "local/bihor/pocola/2026/43",
+   "short": "HCL Pocola nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 43/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269524",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-44-2026",
+   "path": "local/bihor/pocola/2026/44",
+   "short": "HCL Pocola nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 44/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269525",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-45-2026",
+   "path": "local/bihor/pocola/2026/45",
+   "short": "HCL Pocola nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 45/2026 privind aprobarea bugetului local inițial pe anul 2026",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269526",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-46-2026",
+   "path": "local/bihor/pocola/2026/46",
+   "short": "HCL Pocola nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 46/2026 privind aprobarea încheierii contului anual de execuție al bugetului local pe anul 2025",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269527",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-47-2026",
+   "path": "local/bihor/pocola/2026/47",
+   "short": "HCL Pocola nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 47/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269810",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-48-2026",
+   "path": "local/bihor/pocola/2026/48",
+   "short": "HCL Pocola nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 48/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/269811",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/269811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-50-2026",
+   "path": "local/bihor/pocola/2026/50",
+   "short": "HCL Pocola nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 50/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/274282",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/274282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-51-2026",
+   "path": "local/bihor/pocola/2026/51",
+   "short": "HCL Pocola nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 51/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/274283",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/274283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-58-2026",
+   "path": "local/bihor/pocola/2026/58",
+   "short": "HCL Pocola nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 58/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/282694",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/282694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-59-2026",
+   "path": "local/bihor/pocola/2026/59",
+   "short": "HCL Pocola nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 59/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/282695",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/282695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-6-2026",
+   "path": "local/bihor/pocola/2026/6",
+   "short": "HCL Pocola nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 6/2026 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/253808",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/253808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--pocola-60-2026",
    "path": "local/bihor/pocola/2026/60",
    "short": "HCL Pocola nr. 60/2026",
@@ -153,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--pocola-7-2026",
+   "path": "local/bihor/pocola/2026/7",
+   "short": "HCL Pocola nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 7/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/253809",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/253809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--pocola-70-2026",
    "path": "local/bihor/pocola/2026/70",
    "short": "HCL Pocola nr. 70/2026",
@@ -298,6 +718,21 @@
      "from": "2026-10-26",
      "units": 1,
      "source_url": "https://emol.ro/pocola-bh/registru-hcl/294945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--pocola-8-2026",
+   "path": "local/bihor/pocola/2026/8",
+   "short": "HCL Pocola nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pocola nr. 8/2026 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/pocola-bh/registru-hcl/253810",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pocola-bh/registru-hcl/253810",
      "sha256": null
     }
    ]

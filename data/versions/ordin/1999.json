@@ -603,6 +603,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-148-1999",
+   "path": "ordin/anrm/1999/148",
+   "short": "Ordin anrm nr. 148/1999",
+   "title": "Ordinul nr. 148/1999 privind aprobarea licenței de concesionare a activităților miniere de explorare, încheiată între Agenția Naționala pentru Resurse Minerale și Compania Națională a Cuprului, Aurului și Fierului \"Minvest\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19269",
+   "versions": [
+    {
+     "from": "1999-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19269",
+     "sha256": "09f8bc9da296437fff1e31caa1c824bb4ff2fa9acea6969ed48904595e09f5c8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-15-1999",
    "path": "ordin/anrm/1999/15",
    "short": "Ordin anrm nr. 15/1999",
@@ -3363,6 +3378,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-55-1999",
+   "path": "ordin/finante/1999/55",
+   "short": "Ordin finante nr. 55/1999",
+   "title": "Ordinul nr. 55/1999 privind aprobarea formularelor specifice cu regim special utilizate în comercializarea alcoolului, băuturilor alcoolice, produselor din tutun și a sortimentelor de cafea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16828",
+   "versions": [
+    {
+     "from": "1999-02-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16828",
+     "sha256": "b2451dcbe6a9aea704217e39454212c4876d1d230882ceca6fac58fc33e73d65"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-561-1999",
    "path": "ordin/finante/1999/561",
    "short": "Ordin finante nr. 561/1999",
@@ -4259,6 +4289,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17134",
      "sha256": "7df2f0610c8e1484c6fc385d4c21a7174cecf6e6469f1c5e81098e9ba1bfe7cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-949-1999",
+   "path": "ordin/mediu/1999/949",
+   "short": "Ordin mediu nr. 949/1999",
+   "title": "Ordinul nr. 949/1999 privind aprobarea fondurilor de vânătoare ce urmează să fie atribuite unităților de învățământ și cercetare științifică în domeniul cinegetic, precum și a celor care sunt constituite ca rezervații de genofond",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20011",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20011",
+     "sha256": "0d64829fa3e0c6659c8fa810e71e610bdf96d2551943bebfb17048609507d332"
     }
    ]
   },
@@ -5654,6 +5699,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21137",
      "sha256": "1e754a80ee7f148e93587c5a76f21680e5c741f65ab8020f22943955d66b4d44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-737-1999",
+   "path": "ordin/transporturi/1999/737",
+   "short": "Ordin transporturi nr. 737/1999",
+   "title": "Ordinul nr. 737/1999 privind condițiile de operare de către transportatorii aerieni români a aeronavelor închiriate în sistem wet-lease de la operatori aerieni străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21138",
+   "versions": [
+    {
+     "from": "2000-02-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21138",
+     "sha256": "d95e3226e1c2d021e1db35ad7da6e87ebe9b1c91e33910a374baab99d6509fd8"
     }
    ]
   },

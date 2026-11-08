@@ -3,6 +3,81 @@
  "shard": "local/bihor/tulca/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--tulca-100-2022",
+   "path": "local/bihor/tulca/2022/100",
+   "short": "HCL Tulca nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 100/2022 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici în vederea realizării obiectivului de investiții „Construire și dotare grădiniță cu program prelungit sat Tulca, nr. 238, comuna Tulca, județul Bihor”",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/90141",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/90141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-101-2022",
+   "path": "local/bihor/tulca/2022/101",
+   "short": "HCL Tulca nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 101/2022 privind aprobarea ordinii de zi a aprobarea ordinii de zi a şedinţei extraordinare, cu convocare de îndată, a Consiliului Local Tulca din data de 11.11.2022",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/90142",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/90142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-102-2022",
+   "path": "local/bihor/tulca/2022/102",
+   "short": "HCL Tulca nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 102/2022 privind abrogarea unor prevederi ale HCL nr. 77/02.09.2022 şi HCL nr. 100/27.10.2022",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/90143",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/90143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-103-2022",
+   "path": "local/bihor/tulca/2022/103",
+   "short": "HCL Tulca nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 103/2022",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/90144",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/90144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--tulca-104-2022",
+   "path": "local/bihor/tulca/2022/104",
+   "short": "HCL Tulca nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tulca nr. 104/2022 privind aprobarea documentației tehnico-economică pentru investiția: „Construire și dotare grădiniță cu program prelungit sat Tulca, nr. 238, comuna Tulca, județul Bihor”",
+   "url": "https://emol.ro/tulca-bh/registru-hcl/90145",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tulca-bh/registru-hcl/90145",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--tulca-105-2022",
    "path": "local/bihor/tulca/2022/105",
    "short": "HCL Tulca nr. 105/2022",

@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-187-2001",
+   "path": "ordin/agricultura/2001/187",
+   "short": "Ordin agricultura nr. 187/2001",
+   "title": "Ordinul nr. 187/2001 pentru aprobarea Reglementărilor tehnice privind jujeul purtat de câinii care însoțesc turmele și cirezile pe fondurile de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29979",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260209051227id_/https://legislatie.just.ro/Public/DetaliiDocument/29979",
+     "sha256": "08b3e9cf4992600d3d40ea826638108f3d9e6df5f801cc21ec336247646ee8f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-189-2001",
    "path": "ordin/agricultura/2001/189",
    "short": "Ordin agricultura nr. 189/2001",
@@ -1139,6 +1154,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32288",
      "sha256": "d78d14ee13c36712a792a103575cb1af977df52a8a84693a1e6bab70bd8bf6fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-412-2001",
+   "path": "ordin/agricultura/2001/412",
+   "short": "Ordin agricultura nr. 412/2001",
+   "title": "Ordinul nr. 412/2001 privind utilizarea aromelor la fabricarea vinurilor și băuturilor pe bază de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/32922",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32922",
+     "sha256": "108473a3ae8a0a209ebf6510bd41ca29690650ee700f6db588a630f5d97a7c73"
     }
    ]
   },
@@ -1863,6 +1893,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-11-2001",
+   "path": "ordin/anre/2001/11",
+   "short": "Ordin anre nr. 11/2001",
+   "title": "Ordinul nr. 11/2001 privind aprobarea tarifelor la energia electrică livrata consumatorilor captivi și a tarifelor medii pentru serviciile de transport și distribuție practicate de agenții economici din cadrul sectorului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29368",
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29368",
+     "sha256": "13a0eb6ecc9be0696d7a6de0e62e4928518e59015d5437c7addd0ffbcd3ee92c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-12-2001",
    "path": "ordin/anre/2001/12",
    "short": "Ordin anre nr. 12/2001",
@@ -2433,6 +2478,21 @@
    ]
   },
   {
+   "slug": "ordin-anrm-159-2001",
+   "path": "ordin/anrm/2001/159",
+   "short": "Ordin anrm nr. 159/2001",
+   "title": "Ordinul nr. 159/2001 privind concursul public de reofertare nr. 25-2/2001 pentru concesionarea unor activități miniere de exploatare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31434",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31434",
+     "sha256": "57e957fe5ee59bd9c72944e2afb4844d941e00cd29aaa5fb7e11c226a4f9bb8e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrm-169-2001",
    "path": "ordin/anrm/2001/169",
    "short": "Ordin anrm nr. 169/2001",
@@ -2744,6 +2804,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27221",
      "sha256": "f73127c81d6518f9139f822296da2151607e1c8c2063bcee674739fcbd626113"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-269-2001",
+   "path": "ordin/cnas/2001/269",
+   "short": "Ordin cnas nr. 269/2001",
+   "title": "Ordinul nr. 269/2001 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pentru anul 2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26035",
+   "versions": [
+    {
+     "from": "2001-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26035",
+     "sha256": "9845cbf96e413f0556af9dde4c82b4d8c2464268a16aa9b77b08de2a46020cca"
     }
    ]
   },
@@ -3644,6 +3719,21 @@
      "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28593",
      "sha256": "5ca79868c67d239985bf2f8665cc121c861abf5aeae6ea60c4b09198a71dc9a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cultura-2057-2001",
+   "path": "ordin/cultura/2001/2057",
+   "short": "Ordin cultura nr. 2057/2001",
+   "title": "Ordinul nr. 2.057/2001 privind modificarea Ordinului ministrului culturii și cultelor nr. 2.041/2001 pentru aprobarea Regulamentului privind organizarea și funcționarea Comisiei de Avizare a Lăcașurilor de Cult",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29977",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29977",
+     "sha256": "58dc03b45edf3a1103d1b39361b2bad05347feea2eed4f0bfc69329754a8b422"
     }
    ]
   },

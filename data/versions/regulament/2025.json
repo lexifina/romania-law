@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "regulament-asf-8-2025",
+   "path": "regulament/asf/2025/8",
+   "short": "Regulament asf nr. 8/2025",
+   "title": "Regulamentul nr. 8/2025 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305834",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 192,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305834",
+     "sha256": "5281a59b7d9b3897c7efbf2b7beff3aa5ffbab3ba10c7c12a60352df1daaf827"
+    }
+   ]
+  },
+  {
    "slug": "regulament-bnr-1-2025",
    "path": "regulament/bnr/2025/1",
    "short": "Regulament bnr nr. 1/2025",

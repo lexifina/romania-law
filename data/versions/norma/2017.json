@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "norma-asf-23-2017",
+   "path": "norma/asf/2017/23",
+   "short": "Norma asf nr. 23/2017",
+   "title": "Norma nr. 23/2017 pentru aplicarea Ghidului ESMA privind accesul unui depozitar central la fluxurile de tranzacții ale contrapărților centrale și ale locurilor de tranzacționare și a Ghidului ESMA privind normele și procedurile în cazul insolvenței participanților la un depozitar central",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/194560",
+   "versions": [
+    {
+     "from": "2017-11-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194560",
+     "sha256": "4108b6b8d406acb28ebdf92d71be912d662ed433f4f6870881dd794e350c2fca"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-25-2017",
    "path": "norma/asf/2017/25",
    "short": "Norma asf nr. 25/2017",
@@ -269,6 +284,21 @@
      "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195543",
      "sha256": "791956da36ab577a78017b48f2a2388b6810df95993ec10a2e17c2ccf4008faf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-28-2017",
+   "path": "norma/asf/2017/28",
+   "short": "Norma asf nr. 28/2017",
+   "title": "Norma nr. 28/2017 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195667",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195667",
+     "sha256": "fabbb44ece3f0ba2455bc7a96c51f1313f68365d026a6b3e9b5ac6f0c1846504"
     }
    ]
   },

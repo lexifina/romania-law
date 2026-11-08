@@ -3,6 +3,138 @@
 "shard": "local/bihor/ciumeghiu/2025",
 "acts": [
 {
+"slug": "hcl-bihor--ciumeghiu-17-2025",
+"path": "local/bihor/ciumeghiu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 17/2025 privind aprobarea bugetului local pe anul 2025",
+"short": "HCL Ciumeghiu nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/201804",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-20-2025",
+"path": "local/bihor/ciumeghiu/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 20/2025 privind aprobarea Strategiei de Dezvoltare a Seviciilor Sociale pentru Comuna Ciumeghiu pe perioada 2025-2030",
+"short": "HCL Ciumeghiu nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/201807",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-21-2025",
+"path": "local/bihor/ciumeghiu/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 21/2025 privind aprobarea Planului anual de acțiune în domeniul organizării,administrării și acordării serviciilor sociale la nivelul Comunei Ciumeghiu pentru anul 2025",
+"short": "HCL Ciumeghiu nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/201808",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-34-2025",
+"path": "local/bihor/ciumeghiu/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 34/2025 privind aprobarea indexării impozitelor și taxelor locale cu rata inflației",
+"short": "HCL Ciumeghiu nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/209382",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-50-2025",
+"path": "local/bihor/ciumeghiu/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 50/2025 privind aprobarea aprobarea studiului de oportunitate si a documentatiei de atribuire privind delegarea gestiunii prin concesiune a serviciului de alimentare cu apa si canalizare al Comunei Ciumeghiu, Județul Bihor",
+"short": "HCL Ciumeghiu nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/229317",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ciumeghiu-51-2025",
+"path": "local/bihor/ciumeghiu/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 51/2025 privind aprobarea condițiilor de delegare a gestiunii serviciului public de alimentare cu apă și canalizare a comunei Ciumeghiu, Județul Bihor",
+"short": "HCL Ciumeghiu nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/ciumeghiu-bh/registru-hcl/229318",
+"council": "bihor/ciumeghiu",
+"council_name": "Consiliul Local al Comunei Ciumeghiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--ciumeghiu-53-2025",
 "path": "local/bihor/ciumeghiu/2025/53",
 "kind": "local",

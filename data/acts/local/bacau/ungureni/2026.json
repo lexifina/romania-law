@@ -3,6 +3,116 @@
 "shard": "local/bacau/ungureni/2026",
 "acts": [
 {
+"slug": "hcl-bacau--ungureni-14-2026",
+"path": "local/bacau/ungureni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 14/2026 privind aprobarea bugetului propriu de venituri şi cheltuieli al comunei Ungureni, judeţul Bacău, pentru anul 2026",
+"short": "HCL Ungureni nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/267877",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-15-2026",
+"path": "local/bacau/ungureni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 15/2026 privind aprobarea PLANULUI DE ANALIZĂ ȘI ACOPERIREA RISCURILOR al comunei Ungureni, județul Bacău, pentru anul 2026",
+"short": "HCL Ungureni nr. 15/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/267878",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-17-2026",
+"path": "local/bacau/ungureni/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 17/2026 privind aprobarea avizului de principiu pentru introducerea unor terenuri agricole în intravilanul comunei Ungureni, județul Bacău prin studiul urbanistic de Plan Urbanistic General (PUG) a suprafeței totale de 1.021.986 mp",
+"short": "HCL Ungureni nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/267880",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-19-2026",
+"path": "local/bacau/ungureni/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 19/2026 privind înregistrarea comunei Ungureni, județul Bacău, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar, instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+"short": "HCL Ungureni nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/275084",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-20-2026",
+"path": "local/bacau/ungureni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 20/2026 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2026 pentru comuna Ungureni, județul Bacău",
+"short": "HCL Ungureni nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/275085",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-24-2026",
 "path": "local/bacau/ungureni/2026/24",
 "kind": "local",

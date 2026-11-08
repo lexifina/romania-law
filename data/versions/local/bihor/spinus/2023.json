@@ -3,6 +3,111 @@
  "shard": "local/bihor/spinus/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--spinus-14-2023",
+   "path": "local/bihor/spinus/2023/14",
+   "short": "HCL Spinuș nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 14/2023 privind aprobarea scutirii de la plata majorătilor/penalităților de întârziere privind obligațiile bugetare constând în redevențe și chirii datorate bugetului local de către persoanele juridice care au calitatea de contribuabil de pe raza UAT Comuna Spinuș",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/101076",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/101076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-23-2023",
+   "path": "local/bihor/spinus/2023/23",
+   "short": "HCL Spinuș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 23/2023 privind aprobarea actualizării valorii restului de executat pentru obiectivul de investiție „Îmbunătățirea infrastructurii rutiere în comuna Spinuș, județul Bihor”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115436",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-30-2023",
+   "path": "local/bihor/spinus/2023/30",
+   "short": "HCL Spinuș nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 30/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „Creșterea eficienței energetice la Primăria Spinuș”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115448",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-44-2023",
+   "path": "local/bihor/spinus/2023/44",
+   "short": "HCL Spinuș nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 44/2023 privind aprobarea executării lucrărilor pe domeniul public pentru obiectivul „Creșterea eficienței energetice la Primăria Spinuș”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115988",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-45-2023",
+   "path": "local/bihor/spinus/2023/45",
+   "short": "HCL Spinuș nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 45/2023 privind aprobarea executării lucrărilor pe domeniul public pentru obiectivul „Creșterea eficienței energetice la Dispensar Spinuș”",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115989",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-48-2023",
+   "path": "local/bihor/spinus/2023/48",
+   "short": "HCL Spinuș nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 48/2023 privind dezmembrarea cadastralului nr. 50973 Spinuș, înscris în CF nr. 50973 Spinuș , în suprafață de 64102 mp în două loturi distincte care vor primi identificator cadastral nou",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115992",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-49-2023",
+   "path": "local/bihor/spinus/2023/49",
+   "short": "HCL Spinuș nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 49/2023 privind actualizarea imobilelor înscrise la pozițiile 70, 111, 121, 123, din anexa nr. 1 la HCL nr. 34/23.08.1999, prin care a fost însușit inventarul bunurilor care alcătuiesc domeniul public al comunei Spinuș, județul Bihor",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/115993",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/115993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--spinus-59-2023",
    "path": "local/bihor/spinus/2023/59",
    "short": "HCL Spinuș nr. 59/2023",
@@ -163,6 +268,21 @@
      "from": "2024-01-31",
      "units": 1,
      "source_url": "https://emol.ro/spinus-bh/registru-hcl/130279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--spinus-7-2023",
+   "path": "local/bihor/spinus/2023/7",
+   "short": "HCL Spinuș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Spinuș nr. 7/2023 privind aprobarea executării lucrărilor pe domeniul public ''Construire Capelă în cimitirul localității Săliște, județul Bihor''",
+   "url": "https://emol.ro/spinus-bh/registru-hcl/101050",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/spinus-bh/registru-hcl/101050",
      "sha256": null
     }
    ]

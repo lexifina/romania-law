@@ -3723,6 +3723,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-77-2013",
+   "path": "ordin/anre/2013/77",
+   "short": "Ordin anre nr. 77/2013",
+   "title": "Ordinul nr. 77/2013 privind aprobarea prețului de referință și a prețurilor reglementate pentru energia electrică, aplicabile în anul 2014 producătorilor de energie electrică și termică în cogenerare care beneficiază de bonus",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152185",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152185",
+     "sha256": "bbc048bf6566cf881af300a6f1238990f3ed0ff3d5f3006248846e323972c2fa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-78-2013",
    "path": "ordin/anre/2013/78",
    "short": "Ordin anre nr. 78/2013",
@@ -4139,6 +4154,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146268",
      "sha256": "09990d0b038d60fc35b6d997d18c0b9ae7cbcd8bce7be5095039b4c4b35cc6b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-4-2013",
+   "path": "ordin/anrm/2013/4",
+   "short": "Ordin anrm nr. 4/2013",
+   "title": "Ordinul nr. 4/2013 privind aprobarea Listei apelor minerale naturale recunoscute în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144603",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144603",
+     "sha256": "3efec6758a0795b2f807ad68ba36eb55a6300dd0b44663b8f2ae7703df57e1c5"
     }
    ]
   },
@@ -8493,6 +8523,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-2499-2013",
+   "path": "ordin/economie/2013/2499",
+   "short": "Ordin economie nr. 2499/2013",
+   "title": "Ordinul nr. 2.499/2013 pentru aprobarea schemei transparente de ajutor de minimis, denumită \"Schema transparentă de ajutor de minimis sub formă de împrumuturi cu subvenție parțială de dobândă, ca parte integrantă a implementării inițiativei JEREMIE în România\" aferentă domeniului major de intervenție 1.2 \"Accesul IMM la finanțare\", axa prioritară 1 \"Un sistem de producție inovativ și ecoeficient\", din cadrul Programului operațional sectorial \"Creșterea competitivității economice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154651",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154651",
+     "sha256": "335f79e6910c102e13a6f71d692f6ba6c38175e42a981a45256b212c6ba753d3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-2501-2013",
    "path": "ordin/economie/2013/2501",
    "short": "Ordin economie nr. 2501/2013",
@@ -10173,6 +10218,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4910-2013",
+   "path": "ordin/educatie/2013/4910",
+   "short": "Ordin educatie nr. 4910/2013",
+   "title": "Ordinul nr. 4.910/2013 privind aprobarea Metodologiei de monitorizare specială a Universității \"Mihai Eminescu\" din Timișoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151158",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151158",
+     "sha256": "8a8f3fff8f4bf3dc3b311ae4050842b609f06abb6bb5a039dca38c792d2f3289"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4911-2013",
    "path": "ordin/educatie/2013/4911",
    "short": "Ordin educatie nr. 4911/2013",
@@ -10664,6 +10724,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154269",
      "sha256": "00c5a422096958865bad62e307ae7036399859e15c65ea00e6e94cb3e7a0dcf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5734-2013",
+   "path": "ordin/educatie/2013/5734",
+   "short": "Ordin educatie nr. 5734/2013",
+   "title": "Ordinul nr. 5.734/2013 privind cadrul general de organizare și desfășurare a admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154501",
+   "versions": [
+    {
+     "from": "2014-01-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154501",
+     "sha256": "a6fbf9bc3a0f845b37948c8f5cd449937250661003f6ed5139b7e16f6dcaa1e1"
     }
    ]
   },
@@ -14879,6 +14954,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150200",
      "sha256": "ce21c6bb32f04ad4104bda607f7203383f0d904c9389397707887db32b8ddad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-mediu-1882-2013",
+   "path": "ordin/mediu/2013/1882",
+   "short": "Ordin mediu nr. 1882/2013",
+   "title": "Ordinul nr. 1.882/2013 privind modificarea art. 1^1 din Ordinul ministrului mediului nr. 610/2009 privind aprobarea tarifelor pentru lucrările și serviciile prestate de către Administrația Rezervației Biosferei \"Delta Dunării\" la solicitarea persoanelor fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150394",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150394",
+     "sha256": "88ee5a5dff0708c0ccfdcfb013914f5c021a3711df6f23d243ee4a1d2fae9aca"
     }
    ]
   },

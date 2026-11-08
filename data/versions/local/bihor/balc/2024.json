@@ -3,6 +3,36 @@
  "shard": "local/bihor/balc/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--balc-1-2024",
+   "path": "local/bihor/balc/2024/1",
+   "short": "HCL Balc nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 1/2024 privind alegerea Preşedintelui de şedinţă pe perioada ianuarie 2024 – martie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147359",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-10-2024",
+   "path": "local/bihor/balc/2024/10",
+   "short": "HCL Balc nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 10/2024 privind validarea Inventarului cuprinzând terenurile disponibile din comuna Balc care pot fi atribuite în folosinţă gratuită potrivit Legii nr.15/2003",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147368",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147368",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-100-2024",
    "path": "local/bihor/balc/2024/100",
    "short": "HCL Balc nr. 100/2024",
@@ -78,6 +108,1026 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-11-2024",
+   "path": "local/bihor/balc/2024/11",
+   "short": "HCL Balc nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 11/2024 privind achiziționarea unei cantități de 60 mc lemn de foc destinată asigurării necesarului de încălzire termică pentru Școala gimnazială nr.1 Balc, pentru sezonul rece 2024 – 2025",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147369",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-12-2024",
+   "path": "local/bihor/balc/2024/12",
+   "short": "HCL Balc nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 12/2024 privind acceptarea donației Ocolului Silvic Marghita reprezentând 2,5 mc lemn de foc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147370",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-13-2024",
+   "path": "local/bihor/balc/2024/13",
+   "short": "HCL Balc nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 13/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 29 ianuarie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147371",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-14-2024",
+   "path": "local/bihor/balc/2024/14",
+   "short": "HCL Balc nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 14/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 16 februarie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147372",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-15-2024",
+   "path": "local/bihor/balc/2024/15",
+   "short": "HCL Balc nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 15/2024 privind aprobarea bugetului local al comunei Balc pentru anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147373",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-16-2024",
+   "path": "local/bihor/balc/2024/16",
+   "short": "HCL Balc nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 16/2024 privind aprobarea Regulamentului privind ajutoarelor de urgență/comunitare la nivelul comunei Balc, judetul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147374",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-17-2024",
+   "path": "local/bihor/balc/2024/17",
+   "short": "HCL Balc nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 17/2024 privind aprobarea decontării cheltuielilor de transport pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Balc, județul Bihor și a Regulamentului aferent",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147375",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-18-2024",
+   "path": "local/bihor/balc/2024/18",
+   "short": "HCL Balc nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 18/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 16 februarie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155616",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-19-2024",
+   "path": "local/bihor/balc/2024/19",
+   "short": "HCL Balc nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 19/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 27 martie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155617",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-2-2024",
+   "path": "local/bihor/balc/2024/2",
+   "short": "HCL Balc nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 2/2024 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 27 decembrie 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147360",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-20-2024",
+   "path": "local/bihor/balc/2024/20",
+   "short": "HCL Balc nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 20/2024 privind aprobarea Planului de analiză și acoperire a riscurilor pe teritoriul comunei Balc pentru anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155618",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-21-2024",
+   "path": "local/bihor/balc/2024/21",
+   "short": "HCL Balc nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 21/2024 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență din comuna Balc pentru anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155619",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-22-2024",
+   "path": "local/bihor/balc/2024/22",
+   "short": "HCL Balc nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 22/2024 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru lunile august 2023 - decembrie 2023, ianuarie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155620",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-23-2024",
+   "path": "local/bihor/balc/2024/23",
+   "short": "HCL Balc nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 23/2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155621",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-24-2024",
+   "path": "local/bihor/balc/2024/24",
+   "short": "HCL Balc nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 24/2024 privind aprobarea execuției bugetare pe anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155622",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-25-2024",
+   "path": "local/bihor/balc/2024/25",
+   "short": "HCL Balc nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 25/2024 privind aprobarea participării la ”Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate”, a contribuției financiare aferente cheltuielilor eligibile, a cheltuielilor neeligibile, a documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectiul de investiție: „Extindere rețea de canalizare menajeră în comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155623",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-27-2024",
+   "path": "local/bihor/balc/2024/27",
+   "short": "HCL Balc nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 27/2024 privind aprobare normelor interne pentru derularea de proceduri simplificate de atribuire a contractelor de achiziție publică ce au ca obiect Servicii sociale și alte servicii specifice prevăzute în Anexa nr. 2 la Legea nr. 98/2016 privind achizițiile publice, cu valoarea estimată fără TVA mai mică decât pragurile corespunzătoare prevăzute la art. 7, alin. (1), lit. d din Legea 98/2016",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155625",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-28-2024",
+   "path": "local/bihor/balc/2024/28",
+   "short": "HCL Balc nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 28/2024 privind alegerea Președintelui de ședință pe perioada aprilie 2024 - iunie 2024 în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155638",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-29-2024",
+   "path": "local/bihor/balc/2024/29",
+   "short": "HCL Balc nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 29/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 27 martie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155639",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-3-2024",
+   "path": "local/bihor/balc/2024/3",
+   "short": "HCL Balc nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 3/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 29 ianuarie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147361",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-30-2024",
+   "path": "local/bihor/balc/2024/30",
+   "short": "HCL Balc nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 30/2024 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Balc din data de 05 aprilie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155640",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-31-2024",
+   "path": "local/bihor/balc/2024/31",
+   "short": "HCL Balc nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 31/2024 privind rectificarea bugetului local al Comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155641",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-32-2024",
+   "path": "local/bihor/balc/2024/32",
+   "short": "HCL Balc nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 32/2024 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 05 aprilie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155665",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-33-2024",
+   "path": "local/bihor/balc/2024/33",
+   "short": "HCL Balc nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 33/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 18 aprilie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155666",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-34-2024",
+   "path": "local/bihor/balc/2024/34",
+   "short": "HCL Balc nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 34/2024 privind rectificarea bugetului local al Comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155667",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-35-2024",
+   "path": "local/bihor/balc/2024/35",
+   "short": "HCL Balc nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 35/2024 privind indexarea impozitelor și taxelor locale pe anul 2025",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155668",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-36-2024",
+   "path": "local/bihor/balc/2024/36",
+   "short": "HCL Balc nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 36/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului 18 aprilie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163979",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-37-2024",
+   "path": "local/bihor/balc/2024/37",
+   "short": "HCL Balc nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 37/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 27 mai 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163980",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-38-2024",
+   "path": "local/bihor/balc/2024/38",
+   "short": "HCL Balc nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 38/2024 privind rectificarea bugetului local al comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163981",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-39-2024",
+   "path": "local/bihor/balc/2024/39",
+   "short": "HCL Balc nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 39/2024 privind modificarea Regulamentului de organizare și funcționare al Serviciului de asistență comunitară",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163982",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-4-2024",
+   "path": "local/bihor/balc/2024/4",
+   "short": "HCL Balc nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 4/2024 privind aprobarea reţelei şcolare pentru unităţile de învăţământ preuniversitar de stat care vor funcţiona în anul şcolar 2024 – 2025 la nivelul comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147362",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-40-2024",
+   "path": "local/bihor/balc/2024/40",
+   "short": "HCL Balc nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 40/2024 privind modificarea Hotărârii Consiliului Local al Comunei Balc nr.16 din 16.02.2024 privind aprobarea Regulamentului pentru acordarea ajutoarelor de urgență din bugetul local la nivelul Comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163983",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-43-2024",
+   "path": "local/bihor/balc/2024/43",
+   "short": "HCL Balc nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 43/2024 privind aprobarea Planul Urbanistic Zonal pentru „Construire teren de sport în comuna Balc, sat Săldăbagiu de Barcău",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163986",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-44-2024",
+   "path": "local/bihor/balc/2024/44",
+   "short": "HCL Balc nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 44/2024 privind alegerea preşedintelui de şedinţă pentru a conduce ședința extraordinară din data de 03 iunie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164029",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-45-2024",
+   "path": "local/bihor/balc/2024/45",
+   "short": "HCL Balc nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 45/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului 27 mai 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164030",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-46-2024",
+   "path": "local/bihor/balc/2024/46",
+   "short": "HCL Balc nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 46/2024 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local al Comunei Balc din data de 03 iunie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164031",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-47-2024",
+   "path": "local/bihor/balc/2024/47",
+   "short": "HCL Balc nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 47/2024 privind rectificarea bugetului local al comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164032",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-48-2024",
+   "path": "local/bihor/balc/2024/48",
+   "short": "HCL Balc nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 48/2024 privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 03 iunie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164959",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-49-2024",
+   "path": "local/bihor/balc/2024/49",
+   "short": "HCL Balc nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 49/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 28 iunie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164960",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-5-2024",
+   "path": "local/bihor/balc/2024/5",
+   "short": "HCL Balc nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 5/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav pentru anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147363",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-50-2024",
+   "path": "local/bihor/balc/2024/50",
+   "short": "HCL Balc nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 50/2024 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru lunile febraurie 2024, martie 2024, aprilie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164961",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-51-2024",
+   "path": "local/bihor/balc/2024/51",
+   "short": "HCL Balc nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 51/2024 privind modificarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164962",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-52-2024",
+   "path": "local/bihor/balc/2024/52",
+   "short": "HCL Balc nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 52/2024 privind aprobarea planului de amplasament şi delimitare a imobilului reprezentând teren, având categoria de folosință „ arabil” din comuna Balc, sat Almașu Mare, constituirea unui număr cadastral și înscrierea în cartea funciară în favoarea domeniului public al comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164963",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-54-2024",
+   "path": "local/bihor/balc/2024/54",
+   "short": "HCL Balc nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 54/2024 privind alegerea preşedintelui de şedinţă pe perioada iulie 2024 – septembrie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164965",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-55-2024",
+   "path": "local/bihor/balc/2024/55",
+   "short": "HCL Balc nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 55/2024 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local al Comunei Balc din data de 04 iulie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164966",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-56-2024",
+   "path": "local/bihor/balc/2024/56",
+   "short": "HCL Balc nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 56/2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164967",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-57-2024",
+   "path": "local/bihor/balc/2024/57",
+   "short": "HCL Balc nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 57/2024 privind alegerea preşedintelui de şedinţă pentru a conduce ședința ordinară din data de 29 iulie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165146",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-58-2024",
+   "path": "local/bihor/balc/2024/58",
+   "short": "HCL Balc nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 58/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 28 iunie 2024 și a procesului verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 04 iulie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165147",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-59-2024",
+   "path": "local/bihor/balc/2024/59",
+   "short": "HCL Balc nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 59/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 29 iulie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165148",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-6-2024",
+   "path": "local/bihor/balc/2024/6",
+   "short": "HCL Balc nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 6/2024 privind aprobarea Raportului privind activitatea asistenţilor personali pe semestrul II, anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147364",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-60-2024",
+   "path": "local/bihor/balc/2024/60",
+   "short": "HCL Balc nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 60/2024 privind rectificarea bugetului local al Comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165149",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-61-2024",
+   "path": "local/bihor/balc/2024/61",
+   "short": "HCL Balc nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 61/2024 privind aprobarea Raportului privind activitatea asistenţilor personali pe semestrul I, anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165150",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-62-2024",
+   "path": "local/bihor/balc/2024/62",
+   "short": "HCL Balc nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 62/2024 privind aprobarea stadiul de înscriere a datelor în Registrul agricol al comunei Balc, pentru semestrul I, anul 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165151",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-63-2024",
+   "path": "local/bihor/balc/2024/63",
+   "short": "HCL Balc nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 63/2024 privind darea în folosință gratuită către Parohia Ortodoxă Română Balc, a imobilului teren extravilan situat în localitatea Balc, în suprafață de 5.000 mp, înscris în Cartea Funciară nr. 51906 Balc, cu număr cadastral 51906, aparținând domeniului public al comunei Balc, județul Bihor, cu destinația de cimitir",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165152",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-64-2024",
+   "path": "local/bihor/balc/2024/64",
+   "short": "HCL Balc nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 64/2024 privind aprobarea contractării şi/ sau garantării unei finanţări rambursabile interne în valoare de 5.489.314,53 lei",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165153",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-65-2024",
+   "path": "local/bihor/balc/2024/65",
+   "short": "HCL Balc nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 65/2024 privind aprobarea obiectivului de investiții „ Rețea de distribuție gaze naturale în comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/165154",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/165154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-66-2024",
+   "path": "local/bihor/balc/2024/66",
+   "short": "HCL Balc nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 66/2024 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 29 iulie 2024, în conformitate cu Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171767",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-67-2024",
+   "path": "local/bihor/balc/2024/67",
+   "short": "HCL Balc nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 67/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 28 august 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171768",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-68-2024",
+   "path": "local/bihor/balc/2024/68",
+   "short": "HCL Balc nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 68/2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171769",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-69-2024",
+   "path": "local/bihor/balc/2024/69",
+   "short": "HCL Balc nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 69/2024 privind modificarea organigramei și a statului de funcţii pentru aparatul de specialitate al primarului comunei Balc, judeţul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171770",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-7-2024",
+   "path": "local/bihor/balc/2024/7",
+   "short": "HCL Balc nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 7/2024 privind aprobarea stadiului de înscriere a datelor în Registrul agricol al comunei Balc, pentru semestrul II, anul 2023 și stabilirea măsurilor pentru eficientizarea acestei activități,",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147365",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-70-2024",
+   "path": "local/bihor/balc/2024/70",
+   "short": "HCL Balc nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 70/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 28 august 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171843",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-71-2024",
+   "path": "local/bihor/balc/2024/71",
+   "short": "HCL Balc nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 71/2024 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 13 septembrie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171844",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-72-2024",
+   "path": "local/bihor/balc/2024/72",
+   "short": "HCL Balc nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 72/2024 privind rectificarea bugetului local al comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171845",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-73-2024",
+   "path": "local/bihor/balc/2024/73",
+   "short": "HCL Balc nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 73/2024 privind aprobarea lucrărilor pe domeniul public pentru Proiectul nr. I-23-T205 Modernizare LEA JT din zona PTA Almașu Mare 1, securizare grupuri de măsură, jud. Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171846",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-74-2024",
+   "path": "local/bihor/balc/2024/74",
+   "short": "HCL Balc nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 74/2024 privind aprobarea actualizării devizului general, a indicatorilor tehnico-economici și cofinanțarea după semnarea contractului de lucrări pentru obiectivul de investiții: „Modernizare drum de legătură Ghida –Almașu Mic și drum de legătură Almașu Mic-Almașu Mare, comuna Balc , Județul Bihor„ în cadrul Programului Național de Investiţii \"Anghel Saligny\"",
+   "url": "https://emol.ro/balc-bh/registru-hcl/171847",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/171847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-80-2024",
+   "path": "local/bihor/balc/2024/80",
+   "short": "HCL Balc nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 80/2024 privind aprobarea volumului de masă lemnoasă care se va exploata din Partida nr. 10013, proprietatea publică a Comunei Balc în anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174650",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-84-2024",
+   "path": "local/bihor/balc/2024/84",
+   "short": "HCL Balc nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 84/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024– ianuarie 2025",
+   "url": "https://emol.ro/balc-bh/registru-hcl/186995",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/186995",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-85-2024",
    "path": "local/bihor/balc/2024/85",
    "short": "HCL Balc nr. 85/2024",
@@ -148,6 +1198,21 @@
      "from": "2024-11-18",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/187043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-9-2024",
+   "path": "local/bihor/balc/2024/9",
+   "short": "HCL Balc nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 9/2024 privind aprobarea Planului anual de acţiune în domeniul organizării, administrării şi acordării serviciilor sociale la nivelul Comunei Balc, judeţul Bihor pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147367",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147367",
      "sha256": null
     }
    ]

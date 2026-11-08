@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-192-2009",
+   "path": "ordin/agricultura/2009/192",
+   "short": "Ordin agricultura nr. 192/2009",
+   "title": "Ordinul nr. 192/2009 privind producerea băuturilor alcoolice fermentate nedistilate, altele decât berea și vinul, destinate consumului uman ca atare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104510",
+   "versions": [
+    {
+     "from": "2009-04-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104510",
+     "sha256": "bc056f623d40691c41080c9ac0602380febd7358dea7c247abdb633b1efa1a60"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-198-2009",
    "path": "ordin/agricultura/2009/198",
    "short": "Ordin agricultura nr. 198/2009",
@@ -329,6 +344,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105451",
      "sha256": "f51f532b8b67ef75b44dfdccd8ca3a9598a1a14b6f324c865dc6aaa6e6181873"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2009",
+   "path": "ordin/agricultura/2009/218",
+   "short": "Ordin agricultura nr. 218/2009",
+   "title": "Ordinul nr. 218/2009 pentru aprobarea Normelor metodologice privind condițiile de acordare a sprijinului financiar în vederea promovării vinurilor pe piețele țărilor terțe în campaniile viticole 2008/2009-2012/2013, cheltuielile eligibile, modalitățile de plată, de verificare și control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104950",
+   "versions": [
+    {
+     "from": "2009-04-22",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104950",
+     "sha256": "376ab1e755f5ad69ae8692f149b910785c130057f01053e136af96c6a61cf3e3"
     }
    ]
   },
@@ -884,6 +914,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101438",
      "sha256": "0cccc7a87bf5b755c4a81ee4d2ce4aff03f1bb5134cb9e9a46265e586408bc6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-40-2009",
+   "path": "ordin/agricultura/2009/40",
+   "short": "Ordin agricultura nr. 40/2009",
+   "title": "Ordinul nr. 40/2009 pentru stabilirea unor reguli detaliate de implementare a măsurilor din cadrul Programului Național de Dezvoltare Rurală 2007-2013 și Programului operațional pentru pescuit în ceea ce privește aplicarea regulii cumulului ajutoarelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102521",
+   "versions": [
+    {
+     "from": "2009-02-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102521",
+     "sha256": "51a206b06cd15557dd009fec4af925cb53dba69ac148b493fd14570d044b2c6b"
     }
    ]
   },
@@ -1848,6 +1893,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-1297-2009",
+   "path": "ordin/anaf/2009/1297",
+   "short": "Ordin anaf nr. 1297/2009",
+   "title": "Ordinul nr. 1.297/2009 pentru aprobarea Listei contribuabililor reactivați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109379",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109379",
+     "sha256": "90f5ef80e1d1a16805838d124364959b55993682c7b09ed25b926b35de65089e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1308-2009",
    "path": "ordin/anaf/2009/1308",
    "short": "Ordin anaf nr. 1308/2009",
@@ -2204,6 +2264,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110252",
      "sha256": "e0866e92697ccfa52eee8b313395adf3b5e607ec7b469381b4db15bcd35412c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-363-2009",
+   "path": "ordin/anaf/2009/363",
+   "short": "Ordin anaf nr. 363/2009",
+   "title": "Ordinul nr. 363/2009 pentru aprobarea Listei contribuabililor declarați inactivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104601",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104601",
+     "sha256": "1f6e59e1348a71235a3c7b47405811789fb09613f5bd69ed9ec10beb2b4afd72"
     }
    ]
   },
@@ -2789,6 +2864,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104828",
      "sha256": "d566b4110418a76695d2d4ed6c80f37afb098130e1f4439bd755a8a1b88b804b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-50-2009",
+   "path": "ordin/anre/2009/50",
+   "short": "Ordin anre nr. 50/2009",
+   "title": "Ordinul nr. 50/2009 pentru aprobarea Contractului-cadru de vânzare-cumpărare a energiei termice produse de operatorii economici aflați în competența de reglementare a ANRE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105000",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105000",
+     "sha256": "9ab0bd0a2ce0d0785ec386c80f99b8a59a40002e48edc031843f74694b371dda"
     }
    ]
   },
@@ -3554,6 +3644,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103217",
      "sha256": "813ca17c761658ab3237e56a101572f3b3e16c69cc00dffe0f54940d0bc0b6b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrm-60-2009",
+   "path": "ordin/anrm/2009/60",
+   "short": "Ordin anrm nr. 60/2009",
+   "title": "Ordinul nr. 60/2009 privind aprobarea Listei perimetrelor pentru concesionarea de activități de explorare, Runda nr. 66/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104509",
+   "versions": [
+    {
+     "from": "2009-04-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104509",
+     "sha256": "04925d16fa903b969f0fe475032e853dff2774513358cbdf44680130cb8a97a5"
     }
    ]
   },
@@ -4874,6 +4979,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114685",
      "sha256": "9caa98696ab846b659cbbe0b922779dbec0a3e0badb7001df3b5d5dcb55b5ed8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-410-2009",
+   "path": "ordin/cnas/2009/410",
+   "short": "Ordin cnas nr. 410/2009",
+   "title": "Ordinul nr. 410/2009 pentru aprobarea Normelor metodologice privind exercitarea auditului public intern în cadrul Casei Naționale de Asigurări de Sănătate și al caselor de asigurări de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104653",
+   "versions": [
+    {
+     "from": "2009-04-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104653",
+     "sha256": "bb52f087350420efbdf46ecba89adacb67ab4a20c350bc7a0870d027ef833f92"
     }
    ]
   },
@@ -6599,6 +6719,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103917",
      "sha256": "35a4f47f3e3afe08a03d51a8c629df8515280dad0a77127b96597c056f3100ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-195-2009",
+   "path": "ordin/dezvoltare/2009/195",
+   "short": "Ordin dezvoltare nr. 195/2009",
+   "title": "Ordinul nr. 195/2009 pentru aprobarea Normelor metodologice privind derularea Programului prioritar național pentru construirea de sedii pentru așezăminte culturale în localitățile unde nu există asemenea instituții, precum și pentru reabilitarea, modernizarea, dotarea și finalizarea lucrărilor de construcție a așezămintelor culturale de drept public, din mediul rural și mic urban - obiectiv reabilitarea, modernizarea infrastructurii culturale și dotarea așezămintelor culturale din mediul mic urban, realizat prin Compania Națională de Investiții \"C.N.I.\" - S.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104725",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104725",
+     "sha256": "6f4586288bcfee5a3ab05ee79fdad4c3fb6faa792e23f6580c771e42c741b80e"
     }
    ]
   },
@@ -10743,6 +10878,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-102-2009",
+   "path": "ordin/finante/2009/102",
+   "short": "Ordin finante nr. 102/2009",
+   "title": "Ordinul nr. 102/2009 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101643",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101643",
+     "sha256": "44c85960d37ee11290ea0722855a9bd49206dce5f446aaaff3d659ce716736f0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1059-2009",
    "path": "ordin/finante/2009/1059",
    "short": "Ordin finante nr. 1059/2009",
@@ -13368,6 +13518,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-730-2009",
+   "path": "ordin/interne/2009/730",
+   "short": "Ordin interne nr. 730/2009",
+   "title": "Ordinul nr. 730/2009 privind aprobarea cifrei anuale de școlarizare pentru program, a numărului comisiilor de concurs și al comisiilor de soluționare a contestațiilor, a componenței nominale a acestora, a tematicii pentru concurs, a cuantumului taxei de participare la program, a modalității privind plata acesteia și a calendarului de desfășurare a concursului național de admitere la Programul de formare specializată pentru ocuparea unei funcții publice corespunzătoare categoriei înalților funcționari publici 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102424",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102424",
+     "sha256": "be9f1f12ef616c76e9e337c59fe561a9c86a6b9f9dcb3d6458f55f3ac3ecceb8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-76-2009",
    "path": "ordin/interne/2009/76",
    "short": "Ordin interne nr. 76/2009",
@@ -13814,6 +13979,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105185",
      "sha256": "2d841989954f04411d19e2a0a1da47fe93a1c07ace098c74187ec43d414410db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1330-2009",
+   "path": "ordin/justitie/2009/1330",
+   "short": "Ordin justitie nr. 1330/2009",
+   "title": "Ordinul nr. 1.330/2009 privind stabilirea criteriilor de înălțime pentru persoanele care candidează la ocuparea posturilor vacante din sectorul operativ în cadrul sistemului administrației penitenciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109336",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109336",
+     "sha256": "6adeedc2e212170bf754e3ae1ae4ae8da5f70c99cd8210f149e78c0ab09b3d8d"
     }
    ]
   },
@@ -17958,6 +18138,21 @@
    ]
   },
   {
+   "slug": "ordin-transporturi-1144-2009",
+   "path": "ordin/transporturi/2009/1144",
+   "short": "Ordin transporturi nr. 1144/2009",
+   "title": "Ordinul nr. 1.144/2009 pentru aprobarea Reglementării aeronautice civile române privind licențierea personalului meteorologic aeronautic RACR-LMET, ediția 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113482",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113482",
+     "sha256": "d1c124a018d316edc1ca794d33d170e492b629e8e60b44d9bae752e916e31ea6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-transporturi-1154-2009",
    "path": "ordin/transporturi/2009/1154",
    "short": "Ordin transporturi nr. 1154/2009",
@@ -18914,6 +19109,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108062",
      "sha256": "cbb6d6f135cba10ec6dc40f3131740d7152024b429d6dd0408bf51e6ce487427"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-1614-2009",
+   "path": "ordin/vama/2009/1614",
+   "short": "Ordin vama nr. 1614/2009",
+   "title": "Ordinul nr. 1.614/2009 pentru aprobarea Instrucțiunilor privind accesul operatorilor economici la componenta de gestiune a tranzitului comunitar/comun din aplicația NCTS-RO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109455",
+   "versions": [
+    {
+     "from": "2009-07-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109455",
+     "sha256": "9a945e974e17fddc503b76a7b4c48b8657f5f8c9e90119740e032dec504796fa"
     }
    ]
   },

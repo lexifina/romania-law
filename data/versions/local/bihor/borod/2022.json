@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-31-2022",
+   "path": "local/bihor/borod/2022/31",
+   "short": "HCL Borod nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 31/2022 privind indexarea cu rata inflației a impozitelor şi taxelor locale în comuna Borod pentru anul 2023",
+   "url": "https://emol.ro/borod-bh/registru-hcl/58537",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/58537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-38-2022",
+   "path": "local/bihor/borod/2022/38",
+   "short": "HCL Borod nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 38/2022 privind rectificarea bugetului local al comunei Borod pe anul 2022",
+   "url": "https://emol.ro/borod-bh/registru-hcl/58544",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/58544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-39-2022",
+   "path": "local/bihor/borod/2022/39",
+   "short": "HCL Borod nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 39/2022 privind aprobarea execuției bugetului local pe cele două secțiuni pe trimestrul I al anului 2022",
+   "url": "https://emol.ro/borod-bh/registru-hcl/58545",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/58545",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-82-2022",
    "path": "local/bihor/borod/2022/82",
    "short": "HCL Borod nr. 82/2022",

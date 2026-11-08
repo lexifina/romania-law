@@ -3,6 +3,621 @@
  "shard": "local/bacau/tamasi/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--tamasi-10-2025",
+   "path": "local/bacau/tamasi/2025/10",
+   "short": "HCL Tamași nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 10/2025 privind aprobarea Programului de gospodărire al Comunei Tamași, Județul Bacău pentru anul 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/199610",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-11-2025",
+   "path": "local/bacau/tamasi/2025/11",
+   "short": "HCL Tamași nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 11/2025 privind aprobarea Planului de acțiuni și de lucrări de interes local pentru repartizarea orelor de muncă pe care trebuie să le presteze în anul 2025 beneficiarii Legii nr.196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/199611",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-13-2025",
+   "path": "local/bacau/tamasi/2025/13",
+   "short": "HCL Tamași nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 13/2025 privind aprobarea bugetului local de venituri si cheltuieli pentru anul 2025 al UAT Comuna Tamaşi, jud Bacău, şi lista obiectivelor de investiţii pe anul 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/199613",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-14-2025",
+   "path": "local/bacau/tamasi/2025/14",
+   "short": "HCL Tamași nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 14/2025 privind aprobarea documentaţiei tehnico-economice (PTh), si a parametrilor tehnico economici pentru obiectivul de investitii aferent proiectului ,, Construirea unei stații de reîncărcare pentru vehicole electrice in localitatea Tamași, judetul Bacău”",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/199614",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/199614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-16-2025",
+   "path": "local/bacau/tamasi/2025/16",
+   "short": "HCL Tamași nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 16/2025 privind aprobarea documentaţiei tehnice şi a cheltuielilor aferente proiectului „MODERNIZARE CENTRU DE ZI PENTRU COPII TAMASI, DIN SAT CHETRIS, COMUNA TAMASI, JUDETUL BACAU”",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/203926",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/203926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-17-2025",
+   "path": "local/bacau/tamasi/2025/17",
+   "short": "HCL Tamași nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 17/2025 privind aprobarea proiectului, a cheltuielilor legate de proiect și a acordului de parteneriat în vederea depunerii pentru finanțare a Proiectului ,, RESPIRO- servicii de ingrijire si suport pentru copii cu dizabilități și îngrijitorii acestora” în cadrul apelului de proiecte“ Dezvoltarea de servicii de îngrijire și suport de calitate pentru persoanele cu dizabilități și îngrijitorii acestora, în centre respiro”, Program: Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027 ,,",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/203927",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/203927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-18-2025",
+   "path": "local/bacau/tamasi/2025/18",
+   "short": "HCL Tamași nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 18/2025 privind aprobarea documentație tehnico-economice la faza Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție ”Construire centru Respiro pentru copii cu dizabilități și familiile acestora în comuna Tamași, județul Bacău” prin proiectul ” ”RESPIRO – servicii de îngrijire și suport pentru copii cu dizabilități și îngrijitorii acestora”, în cadrul apelului de proiecte“ Dezvoltarea de servicii de îngrijire și suport de calitate pentru persoanele cu dizabilități și îngrijitorii acestora, în centre respiro”, Program: Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027”",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/203928",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/203928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-19-2025",
+   "path": "local/bacau/tamasi/2025/19",
+   "short": "HCL Tamași nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 19/2025 privind modificarea Statului de funcții pentru aparatul de specialitate al Primarului Comunei Tamași, județul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207608",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-21-2025",
+   "path": "local/bacau/tamasi/2025/21",
+   "short": "HCL Tamași nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 21/2025 privind includerea suprafetei de 1467 mp T51-P941/1 în domeniul public al Comunei Tamasi, Județul Bacău in vederea continuarii si dezvoltarii proiectul de investitie ”Extindere sistem de alimentare cu apa si extindere sistem de canalizare in Comuna Tamasi jud Bacau ,,",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207610",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-22-2025",
+   "path": "local/bacau/tamasi/2025/22",
+   "short": "HCL Tamași nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 22/2025 privind aprobarea cotizației anuale de plată către Asociația de Dezvoltare Intercomunitară pentru Salubrizare Bacău ADIS",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207611",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-24-2025",
+   "path": "local/bacau/tamasi/2025/24",
+   "short": "HCL Tamași nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 24/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/207613",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/207613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-25-2025",
+   "path": "local/bacau/tamasi/2025/25",
+   "short": "HCL Tamași nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 25/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/212470",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/212470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-26-2025",
+   "path": "local/bacau/tamasi/2025/26",
+   "short": "HCL Tamași nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 26/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/212471",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/212471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-27-2025",
+   "path": "local/bacau/tamasi/2025/27",
+   "short": "HCL Tamași nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 27/2025 privind aprobarea proiectului ,, Dezvoltarea infrastructurii educationale pentru invatamantul timpuriu (prescolar), primar, gimnazial in Comuna Tamasi ,, -Scoala Gimnaziala Chetris str. Principala, sat Chetris, Comuna Tamasi, Jud. Bacau, a cheltuielilor legate de proiect si a indicatorilor tehnico-economici",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/212472",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/212472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-28-2025",
+   "path": "local/bacau/tamasi/2025/28",
+   "short": "HCL Tamași nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 28/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/212473",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/212473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-29-2025",
+   "path": "local/bacau/tamasi/2025/29",
+   "short": "HCL Tamași nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 29/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/212474",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/212474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-30-2025",
+   "path": "local/bacau/tamasi/2025/30",
+   "short": "HCL Tamași nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 30/2025 privind aprobarea actualizarii valorii, inclusiv a cheltuielilor legate de proiectul aprobat prin HCL nr.17/23.04.2025, pentru finanțarea Proiectului ,, RESPIRO- servicii de ingrijire si suport pentru copii cu dizabilități și îngrijitorii acestora” în cadrul apelului de proiecte“ Dezvoltarea de servicii de îngrijire și suport de calitate pentru persoanele cu dizabilități și îngrijitorii acestora, în centre respiro”, Program: Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027 ,,",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/214310",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/214310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-31-2025",
+   "path": "local/bacau/tamasi/2025/31",
+   "short": "HCL Tamași nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 31/2025 privind aprobarea completarii Strategiei de dezvoltare locală a Comunei Tamași pentru perioada 2020-2027",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/214311",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/214311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-32-2025",
+   "path": "local/bacau/tamasi/2025/32",
+   "short": "HCL Tamași nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 32/2025 privind aprobarea actualizarii documentație tehnico-economice la faza Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție ”Construire centru Respiro pentru copii cu dizabilități și familiile acestora în comuna Tamași, județul Bacău” prin proiectul ” ”RESPIRO – servicii de îngrijire și suport pentru copii cu dizabilități și îngrijitorii acestora”, în cadrul apelului de proiecte“ Dezvoltarea de servicii de îngrijire și suport de calitate pentru persoanele cu dizabilități și îngrijitorii acestora, în centre respiro”, Program: Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027”",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/214312",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/214312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-33-2025",
+   "path": "local/bacau/tamasi/2025/33",
+   "short": "HCL Tamași nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 33/2025 privind rectificarea bugetului local sursa 02 și actualizarea listei obiectivelor de investiții pentru anul 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215770",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-34-2025",
+   "path": "local/bacau/tamasi/2025/34",
+   "short": "HCL Tamași nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 34/2025 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Tamasi, judetul Bacau si situatiile financiare pe cele doua sectiuni de functionare si dezvoltare pentru trimestrul I al anului 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215771",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-36-2025",
+   "path": "local/bacau/tamasi/2025/36",
+   "short": "HCL Tamași nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 36/2025 privind organizarea si desfasurarea manifestării cultural-artistice ,,ZILELE COMUNEI TAMAȘI,, ce se vor desfasura in perioada 07/08 septembrie 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215773",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-37-2025",
+   "path": "local/bacau/tamasi/2025/37",
+   "short": "HCL Tamași nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 37/2025 privind actualizarea Statului de functii pentru Aparatul de specialitate al Primarului Comunei Tamasi , judetul Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/215774",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/215774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-4-2025",
+   "path": "local/bacau/tamasi/2025/4",
+   "short": "HCL Tamași nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 4/2025 privind aprobarea modului de intocmire și ținere la zi a Registrului Agricol incepand cu anul 2025- doar in format electronic",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/193173",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/193173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-40-2025",
+   "path": "local/bacau/tamasi/2025/40",
+   "short": "HCL Tamași nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 40/2025 privind aprobarea Acordului de parteneriat încheiat între Comuna Tamași, Județul Bacău și Comuna Cumpăna, Județul Constanța, ce are ca obiect realizarea unor tabere de vara pentru elevii cu rezultate deosebite în anul școlar 2024-2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/221959",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/221959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-41-2025",
+   "path": "local/bacau/tamasi/2025/41",
+   "short": "HCL Tamași nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 41/2025 privind rectificarea bugetului local sursa 02 și actualizarea listei obiectivelor de investiții pentru anul 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222895",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-42-2025",
+   "path": "local/bacau/tamasi/2025/42",
+   "short": "HCL Tamași nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 42/2025 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Tamasi, judetul Bacau si situatiile financiare pe cele doua sectiuni de functionare si dezvoltare pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222896",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-43-2025",
+   "path": "local/bacau/tamasi/2025/43",
+   "short": "HCL Tamași nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 43/2025 privind anularea obligatiilor fiscale datorate de debitori, persoane juridice, radiati din Registrul Comertului si scaderea societatilor radiate din evidenta fiscala",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222897",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-44-2025",
+   "path": "local/bacau/tamasi/2025/44",
+   "short": "HCL Tamași nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 44/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC SOMA SRL",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222898",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-45-2025",
+   "path": "local/bacau/tamasi/2025/45",
+   "short": "HCL Tamași nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 45/2025 privind aprobarea numarului maxim de copii beneficiari pentru inscrierea frecventarii cursurilor la Centru de zi pentru Copii Tamasi in anul scolar 2025-2026",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222899",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-46-2025",
+   "path": "local/bacau/tamasi/2025/46",
+   "short": "HCL Tamași nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 46/2025 privind actualizarea Consiliului Comunitar Consultativ de Asistența Socială și Protecția Copilului din Comuna Tamași, Județul Bacău si a Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ de Asistență Sociala și Protecția Copilului din Comuna Tamași jud. Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222900",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-47-2025",
+   "path": "local/bacau/tamasi/2025/47",
+   "short": "HCL Tamași nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 47/2025 privind aprobarea modificării Regulamentului Serviciului Public de Salubrizare pentru zona de operare a SC ECOSUD SRL",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222901",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-48-2025",
+   "path": "local/bacau/tamasi/2025/48",
+   "short": "HCL Tamași nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 48/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/222902",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/222902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-49-2025",
+   "path": "local/bacau/tamasi/2025/49",
+   "short": "HCL Tamași nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 49/2025",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/224205",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/224205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-5-2025",
+   "path": "local/bacau/tamasi/2025/5",
+   "short": "HCL Tamași nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 5/2025 privind aprobarea inițierii demersurilor necesare înființării Grădiniței cu program prelungit in sat Tamași Comuna Tamași judetul Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/193174",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/193174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-50-2025",
+   "path": "local/bacau/tamasi/2025/50",
+   "short": "HCL Tamași nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 50/2025 privind modificarea si completarea HCL nr. 27 din 16.06.2025 privind aprobarea proiectului, aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul ,, Dezvoltarea infrastructurii educationale pentru invatamantul timpuriu (prescolar), primar, gimnazial in Comuna Tamasi ,, -Scoala Gimnaziala Chetris str. Principala, sat Chetris, Comuna Tamasi, Jud. Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/224206",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/224206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-51-2025",
+   "path": "local/bacau/tamasi/2025/51",
+   "short": "HCL Tamași nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 51/2025 privind actualizarea Statului de functii pentru Aparatul de specialitate al Primarului Comunei Tamasi , judetul Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/228113",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/228113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-52-2025",
+   "path": "local/bacau/tamasi/2025/52",
+   "short": "HCL Tamași nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 52/2025 privind rectificarea bugetului local sursa 02 și actualizarea listei obiectivelor de investiții pentru anul 2025, ale Comunei Tamasi jud. Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/228114",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/228114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-54-2025",
+   "path": "local/bacau/tamasi/2025/54",
+   "short": "HCL Tamași nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 54/2025 privind modificarea HCL ului nr.17/23.04.2025 si reaprobarea Acordului de Parteneriat incheiat intre Primaria Comunei Tamasi si Primaria Comunei Gioseni pentru Proiectul ,, RESPIRO- servicii de ingrijire si suport pentru copii cu dizabilități și îngrijitorii acestora” în cadrul apelului de proiecte “ Dezvoltarea de servicii de îngrijire și suport de calitate pentru persoanele cu dizabilități și îngrijitorii acestora, în centre respiro”, Program: Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/228116",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/228116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-55-2025",
+   "path": "local/bacau/tamasi/2025/55",
+   "short": "HCL Tamași nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 55/2025 privind rectificarea bugetului local sursa 02 și actualizarea listei obiectivelor de investiții pentru anul 2025, ale Comunei Tamasi jud. Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231478",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-57-2025",
+   "path": "local/bacau/tamasi/2025/57",
+   "short": "HCL Tamași nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 57/2025 privind aprobarea sumelor necesare pentru organizarea serbarilor si acordarea cadourilor, cu ocazia Sărbătorilor de iarnă, copiilor școlari și preșcolari din comuna Tamași, Judetul Bacău",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/231480",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-59-2025",
    "path": "local/bacau/tamasi/2025/59",
    "short": "HCL Tamași nr. 59/2025",
@@ -13,6 +628,21 @@
      "from": "2025-11-17",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/231482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-6-2025",
+   "path": "local/bacau/tamasi/2025/6",
+   "short": "HCL Tamași nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 6/2025 privind actualizarea Statului de funcții si a organigramei pentru Centrul de zi pentru copii din cadrul Primariei Comunei Tamași, judetul Bacau",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/193175",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/193175",
      "sha256": null
     }
    ]
@@ -168,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--tamasi-7-2025",
+   "path": "local/bacau/tamasi/2025/7",
+   "short": "HCL Tamași nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 7/2025 privind acordarea unei reduceri de 30% a taxei de salubrizare pentru persoanele singure per gospodarie",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/195809",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/195809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--tamasi-70-2025",
    "path": "local/bacau/tamasi/2025/70",
    "short": "HCL Tamași nr. 70/2025",
@@ -298,6 +943,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/tamasi-bc/registru-hcl/244486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-8-2025",
+   "path": "local/bacau/tamasi/2025/8",
+   "short": "HCL Tamași nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 8/2025 privind aprobarea inițierii actualizarii Planului Urbanistic General al comunei Tamași , a indicatorilor si devizului Planului Urbanistic General al comunei Tamași, judetul Bacau si a Regulamentului Local de Urbanism aferent",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/195810",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/195810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--tamasi-9-2025",
+   "path": "local/bacau/tamasi/2025/9",
+   "short": "HCL Tamași nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tamași nr. 9/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ,, Furnizarea de servicii integrate in comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate,, - cod SMIS 339395",
+   "url": "https://emol.ro/tamasi-bc/registru-hcl/197218",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tamasi-bc/registru-hcl/197218",
      "sha256": null
     }
    ]

@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "ordin-cnvm-14-1997",
+   "path": "ordin/cnvm/1997/14",
+   "short": "Ordin cnvm nr. 14/1997",
+   "title": "Ordinul nr. 14/1997 pentru aprobarea Regulamentului nr. 8/1997 cu privire la condițiile de îndeplinit pentru evitarea conflictelor de interese de către societățile de depozitare pentru fondurile deschise de investiții și societățile de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10980",
+   "versions": [
+    {
+     "from": "1997-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10980",
+     "sha256": "86a2162b362c04138ded39ea18767f47ab47d3e2eb894ed0761c5ca7c6c813c5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-15-1997",
    "path": "ordin/cnvm/1997/15",
    "short": "Ordin cnvm nr. 15/1997",
@@ -738,6 +753,21 @@
    ]
   },
   {
+   "slug": "ordin-dizabilitati-82-1997",
+   "path": "ordin/dizabilitati/1997/82",
+   "short": "Ordin dizabilitati nr. 82/1997",
+   "title": "Ordinul nr. 82/1997 pentru aprobarea Instrucțiunilor privind calculul și vărsarea contribuției agenților economici la Fondul de risc și accident, precum și utilizarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11513",
+   "versions": [
+    {
+     "from": "1997-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11513",
+     "sha256": "5efac124a594b6109d63c45d866fd8d7d9f46c5f9cbb308b3473fa7262655c5f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-1528-1997",
    "path": "ordin/economie/1997/1528",
    "short": "Ordin economie nr. 1528/1997",
@@ -854,6 +884,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13833",
      "sha256": "9fed5c72a46a7220cca57e3086a84f1cd686f32565de765b5eafc14b21818ee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-1645-1997",
+   "path": "ordin/economie/1997/1645",
+   "short": "Ordin economie nr. 1645/1997",
+   "title": "Ordinul nr. 1.645/1997 pentru aprobarea Metodologiei privind executarea lucrărilor de cadastru energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13834",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13834",
+     "sha256": "41aef099e66d2f79d6aa6dc57f0881e961bc5040156fbd1a1684d282e852c6bc"
     }
    ]
   },
@@ -1484,6 +1529,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13839",
      "sha256": "e1186b9cf002242fcbe3245396c0eabed1ad10d235f177702769db16e42bade4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1682-1997",
+   "path": "ordin/finante/1997/1682",
+   "short": "Ordin finante nr. 1682/1997",
+   "title": "Ordinul nr. 1.682/1997 privind modificarea normelor aprobate prin Ordinul ministrului de stat, ministrul finanțelor, nr. 1.743/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13840",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13840",
+     "sha256": "8670a96802109ff38f5d882d5f14a2f80c3ee90feeac7b0a67d03f0937677bcc"
     }
    ]
   },

@@ -3,6 +3,606 @@
  "shard": "local/bacau/secuieni/2022",
  "acts": [
   {
+   "slug": "hcl-bacau--secuieni-1-2022",
+   "path": "local/bacau/secuieni/2022/1",
+   "short": "HCL Secuieni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 1/2022 privind aprobarea rețelei școlare pentru anul școlar 2022 -2023 în comuna Secuieni, județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57213",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-10-2022",
+   "path": "local/bacau/secuieni/2022/10",
+   "short": "HCL Secuieni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2022 privind adoptarea bugetului de venituri şi cheltuieli pentru anul 2022 şi estimări pe anii 2023-2025",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57323",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-11-2022",
+   "path": "local/bacau/secuieni/2022/11",
+   "short": "HCL Secuieni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 11/2022 privind aprobarea actului adițional, nr. 4 la documentul de poziție privind modul de implementare a proiectului ”SISTEM INTEGRAT DE MANAGEMENT AL DEŞEURILOR SOLIDE ÎN JUDEŢUL BACĂU”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57324",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-12-2022",
+   "path": "local/bacau/secuieni/2022/12",
+   "short": "HCL Secuieni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2022 privind aprobarea încheierii unor contracte de prestări servicii cu persoane juridice în vederea realizării obiectivului de investiții \"Înființare stație de reîncărcare pentru vehicule electrice în Comuna Secuieni, Județul Bacău\" în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități, finanțat prin Adminizstrația Fondului pentru Mediu",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57524",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-13-2022",
+   "path": "local/bacau/secuieni/2022/13",
+   "short": "HCL Secuieni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 13/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57525",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-14-2022",
+   "path": "local/bacau/secuieni/2022/14",
+   "short": "HCL Secuieni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 14/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57526",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-15-2022",
+   "path": "local/bacau/secuieni/2022/15",
+   "short": "HCL Secuieni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2022 privind aprobarea documentaţiei tehnico – economică, pentru investiţia “Construire sediu administraţie publică locală în comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57527",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-16-2022",
+   "path": "local/bacau/secuieni/2022/16",
+   "short": "HCL Secuieni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2022 privind aprobarea documentaţiei tehnico – economică în vederea realizării investiţiei “Sistem supraveghere video pentru şcoala Glodişoarele din satul Glodişoarele, Comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57528",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-17-2022",
+   "path": "local/bacau/secuieni/2022/17",
+   "short": "HCL Secuieni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 17/2022 privind aprobarea elaborării şi tehnoredactării „Strategiei Cadru de Relaţii Publice necesară la nivelul U.A.T Comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57529",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-18-2022",
+   "path": "local/bacau/secuieni/2022/18",
+   "short": "HCL Secuieni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 18/2022 privind utilizarea excedentului bugetar al anilor precedenţi",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57530",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-19-2022",
+   "path": "local/bacau/secuieni/2022/19",
+   "short": "HCL Secuieni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 19/2022 privind aprobarea documentaţiei tehnico – economică privind investiţia pentru obiectivul “Teren sport scoala Secuieni-pregătire teren-platformă betonată armată-împrejmuire”, comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57531",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-21-2022",
+   "path": "local/bacau/secuieni/2022/21",
+   "short": "HCL Secuieni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 21/2022 privind utilizarea excedentului bugetar al anilor precedenţi",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59615",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-24-2022",
+   "path": "local/bacau/secuieni/2022/24",
+   "short": "HCL Secuieni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2022 privind aprobarea documentaţiei tehnico – economică privind investiţia pentru lucrarea “Amenajare teren sport școala Secuieni cu gazon sintetic, porți zincate, comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/59618",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/59618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-27-2022",
+   "path": "local/bacau/secuieni/2022/27",
+   "short": "HCL Secuieni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 27/2022 privind aprobarea depunerii proiectului„Infiintare sistem de monitorizare si siguranta a spatiului public in comuna Secuieni, judetul Bacau, a anexei privind descrierea sumara a investitiei si a notei de fundamentare",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/63088",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/63088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-28-2022",
+   "path": "local/bacau/secuieni/2022/28",
+   "short": "HCL Secuieni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 28/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/63089",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/63089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-3-2022",
+   "path": "local/bacau/secuieni/2022/3",
+   "short": "HCL Secuieni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 3/2022 privind aprobarea documentației tehnico - economică privind investiția pentru obiectivul \"Alimentare cu apă sediu primărie, Cămin Cultural și Sală de Sport\" din comuna Secuieni, județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57215",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-31-2022",
+   "path": "local/bacau/secuieni/2022/31",
+   "short": "HCL Secuieni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 31/2022 Privind aprobarea Strategiei de Dezvoltare Socio-Economică Durabilă a Comunei Secuieni 2020-2030",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/63092",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/63092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-32-2022",
+   "path": "local/bacau/secuieni/2022/32",
+   "short": "HCL Secuieni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 32/2022 privind modificarea și completarea inventarului bunurilor aparţinând domeniului public al comunei Secuieni, judeţul Bacău;",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67911",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-33-2022",
+   "path": "local/bacau/secuieni/2022/33",
+   "short": "HCL Secuieni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 33/2022 privind aprobarea cuantumului și a numărului burselor școlare ce se acordă elevilor din cadrul școlilor de pe raza comunei Secuieni, județul Bacău, pentru semestrul al II lea, anul școlar 2021 - 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67912",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-35-2022",
+   "path": "local/bacau/secuieni/2022/35",
+   "short": "HCL Secuieni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 35/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67914",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-36-2022",
+   "path": "local/bacau/secuieni/2022/36",
+   "short": "HCL Secuieni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 36/2022 privind aprobarea documentaţiei tehnico – economică, pentru investiţia “Construire sediu administraţie publica locală în comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67915",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-37-2022",
+   "path": "local/bacau/secuieni/2022/37",
+   "short": "HCL Secuieni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2022 privind aprobarea Regulamentului și taxelor de utilizare a Bazei Sportive din satul Secuieni, comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67958",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-38-2022",
+   "path": "local/bacau/secuieni/2022/38",
+   "short": "HCL Secuieni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 38/2022 privind aprobarea depunerii proiectului „Renovare integrată la școala din satul Secuieni, comuna Secuieni, judetul Bacau”, a anexelor privind descrierea sumara a investitiei si a notei de fundamentare",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67959",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-39-2022",
+   "path": "local/bacau/secuieni/2022/39",
+   "short": "HCL Secuieni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 39/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67960",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-4-2022",
+   "path": "local/bacau/secuieni/2022/4",
+   "short": "HCL Secuieni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 4/2022 privind utilizarea excedentului bugetar al anilor precedenți",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57216",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-40-2022",
+   "path": "local/bacau/secuieni/2022/40",
+   "short": "HCL Secuieni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 40/2022 privind aprobarea Statutului comunei Secuieni, județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67962",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-41-2022",
+   "path": "local/bacau/secuieni/2022/41",
+   "short": "HCL Secuieni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 41/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67963",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-42-2022",
+   "path": "local/bacau/secuieni/2022/42",
+   "short": "HCL Secuieni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 42/2022 privind aprobarea documentaţiei tehnico – economică privind investiţia pentru obiectivul “Amenajare exterior Bază Sportivă din satul Secuieni, comuna Secuieni, județul Bacău- montare fosă ecologică”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/67964",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/67964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-43-2022",
+   "path": "local/bacau/secuieni/2022/43",
+   "short": "HCL Secuieni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 43/2022 privind aprobarea documentaţiei tehnico – economică privind investiţia pentru obiectivul “Execuție puț forat, sat Secuieni, comuna Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/73294",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/73294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-44-2022",
+   "path": "local/bacau/secuieni/2022/44",
+   "short": "HCL Secuieni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 44/2022 privind alocarea unei sume din bugetul local pentru înlocuire pardoseală din parchet laminat la Scoala Gimnazială Secuieni, din satul Secuieni, comuna Secuieni, judetul Bacau",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/73295",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/73295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-45-2022",
+   "path": "local/bacau/secuieni/2022/45",
+   "short": "HCL Secuieni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 45/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/80648",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/80648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-46-2022",
+   "path": "local/bacau/secuieni/2022/46",
+   "short": "HCL Secuieni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 46/2022 privind modificarea și completarea domeniului public al comunei Secuieni, judeţul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/80649",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/80649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-47-2022",
+   "path": "local/bacau/secuieni/2022/47",
+   "short": "HCL Secuieni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 47/2022 privind rectificarea bugetului de venituri şi cheltuieli și utilizarea excedentului bugetar al anilor precedenţi pe anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/80650",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/80650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-48-2022",
+   "path": "local/bacau/secuieni/2022/48",
+   "short": "HCL Secuieni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 48/2022 privind participarea Comunei Secuieni la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public cu investitia “ Modernizarea sistemului de iluminat public prin creşterea eficienţei energetice a infrastructurii de iluminat public din Comuna Secuieni, judetul Bacau –AFM3”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82468",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-49-2022",
+   "path": "local/bacau/secuieni/2022/49",
+   "short": "HCL Secuieni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 49/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82482",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-5-2022",
+   "path": "local/bacau/secuieni/2022/5",
+   "short": "HCL Secuieni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 5/2022 privind aprobarea Planului de acțiuni cu obiective și lucrări de interes local stabilit pentru beneficiarii de ajutor social pentru anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57217",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-50-2022",
+   "path": "local/bacau/secuieni/2022/50",
+   "short": "HCL Secuieni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 50/2022 privind aprobarea elaborării și tehnoredactării STRATEGIEI DE DIGITALIZARE A COMUNEI SECUIENI",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82483",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-51-2022",
+   "path": "local/bacau/secuieni/2022/51",
+   "short": "HCL Secuieni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 51/2022 privind aprobarea documentaţiei tehnico – economică privind investiţia pentru obiectivul “Execuții instalații hidraulice și electrice la put apă forat din sat Secuieni, comuna Secuieni, judeţul Bacău”",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82484",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-53-2022",
+   "path": "local/bacau/secuieni/2022/53",
+   "short": "HCL Secuieni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 53/2022 de modificare si actualizare a HCL nr. 27/13.05.2022 privind aprobarea depunerii proiectului„Infiintare sistem de monitorizare si siguranta a spatiului public in comuna Secuieni, judetul Bacau” , a anexei privind descrierea sumara a investitiei si a notei de fundamentare",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82489",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-54-2022",
+   "path": "local/bacau/secuieni/2022/54",
+   "short": "HCL Secuieni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 54/2022 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/82490",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82490",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-55-2022",
    "path": "local/bacau/secuieni/2022/55",
    "short": "HCL Secuieni nr. 55/2022",
@@ -73,6 +673,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/82508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-6-2022",
+   "path": "local/bacau/secuieni/2022/6",
+   "short": "HCL Secuieni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 6/2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57218",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57218",
      "sha256": null
     }
    ]
@@ -228,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--secuieni-7-2022",
+   "path": "local/bacau/secuieni/2022/7",
+   "short": "HCL Secuieni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2022 privind aprobarea încheierii unui contract de prestări servicii, cu o persoană juridică în vederea întocmirii documentațiilor necesare actualizării Planului Urbanistic General și Regulamentului de Urbanism pentru Comuna Secuieni, Județul Bacău",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57219",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--secuieni-70-2022",
    "path": "local/bacau/secuieni/2022/70",
    "short": "HCL Secuieni nr. 70/2022",
@@ -298,6 +928,36 @@
      "from": "2023-01-13",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-bc/registru-hcl/85848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-8-2022",
+   "path": "local/bacau/secuieni/2022/8",
+   "short": "HCL Secuieni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 8/2022 privind aprobarea necesității și oportunității investiției: \"Renovare integrată la școala generală din satul Secuieni, Comuna Secuieni, județul Bacău\" din fonduri PNRR, Axa 2, contractării de servicii tehnice de specialitate și de consultanță pentru implementarea investiției",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57321",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--secuieni-9-2022",
+   "path": "local/bacau/secuieni/2022/9",
+   "short": "HCL Secuieni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 9/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Secuieni ,judeţul Bacău pentru anul 2022",
+   "url": "https://emol.ro/secuieni-bc/registru-hcl/57322",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-bc/registru-hcl/57322",
      "sha256": null
     }
    ]
