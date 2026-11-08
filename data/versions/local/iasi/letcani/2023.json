@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-2-2023",
+   "path": "local/iasi/letcani/2023/2",
+   "short": "HCL Lețcani nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 2/2023 privind aprobarea bugetului local și a listei de investiții pe anul 2023",
+   "url": "https://emol.ro/letcani-is/registru-hcl/87957",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/87957",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

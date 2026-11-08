@@ -3,6 +3,28 @@
 "shard": "local/iasi/madarjac/2022",
 "acts": [
 {
+"slug": "hcl-iasi--madarjac-19-2022",
+"path": "local/iasi/madarjac/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 19/2022 privind organizarea evenimentului cultural „Ziua Comunei Mădârjac” în anul 2022",
+"short": "HCL Mădârjac nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/madarjac-is/registru-hcl/62607",
+"council": "iasi/madarjac",
+"council_name": "Consiliul Local al Comunei Mădârjac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--madarjac-40-2022",
 "path": "local/iasi/madarjac/2022/40",
 "kind": "local",

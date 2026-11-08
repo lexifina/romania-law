@@ -3,6 +3,36 @@
  "shard": "local/iasi/ion-neculce/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--ion-neculce-1-2022",
+   "path": "local/iasi/ion-neculce/2022/1",
+   "short": "HCL Ion Neculce nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 1/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52869",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-100-2022",
+   "path": "local/iasi/ion-neculce/2022/100",
+   "short": "HCL Ion Neculce nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 100/2022 privind efectuarea inventarierii anuale a elementelor de natura activelor, datoriilor si capitalurilor proprii detinute, aferente exercițiului financiar a anului 2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/81898",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81898",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-102-2022",
    "path": "local/iasi/ion-neculce/2022/102",
    "short": "HCL Ion Neculce nr. 102/2022",
@@ -118,6 +148,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-11-2022",
+   "path": "local/iasi/ion-neculce/2022/11",
+   "short": "HCL Ion Neculce nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 11/2022 privind aprobarea demararii proiectului „Stații de reîncărcare pentru mașini electrice în Comuna Ion Neculce” în cadrul Programului desfășurat de Administrația Fondului pentru Mediu -AFM",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52889",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52889",
      "sha256": null
     }
    ]
@@ -273,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ion-neculce-12-2022",
+   "path": "local/iasi/ion-neculce/2022/12",
+   "short": "HCL Ion Neculce nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 12/2022 privind aprobarea ordinii de zi a şedinţei de îndată a Consiliului Local Ion Neculce din data de 23.02.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/53474",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/53474",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ion-neculce-120-2022",
    "path": "local/iasi/ion-neculce/2022/120",
    "short": "HCL Ion Neculce nr. 120/2022",
@@ -298,6 +358,1221 @@
      "from": "2023-01-06",
      "units": 1,
      "source_url": "https://emol.ro/ionneculce-is/registru-hcl/84743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-13-2022",
+   "path": "local/iasi/ion-neculce/2022/13",
+   "short": "HCL Ion Neculce nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 13/2022 privind modificarea Anexei nr.1 la H.C.L nr.9/10.02.2022 privind aprobarea bugetului local al comunei Ion Neculce, pentru anul 2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/53475",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/53475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-14-2022",
+   "path": "local/iasi/ion-neculce/2022/14",
+   "short": "HCL Ion Neculce nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 14/2022 privind intabularea definitivă a drumului DC 94, în suprafață de 35.665 mp.rezultată din măsurători, înscris în Cartea Funciară a comunei Ion Neculce cu numerele cadastrale NC 61437, NC61438, NC 61452",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/53476",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/53476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-15-2022",
+   "path": "local/iasi/ion-neculce/2022/15",
+   "short": "HCL Ion Neculce nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 15/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 31.03.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64104",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-16-2022",
+   "path": "local/iasi/ion-neculce/2022/16",
+   "short": "HCL Ion Neculce nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 16/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi conform OG 15/2021 si asigurarea finantarii de la bugetul local pentru categoriile de cheltuieli care nu se finantează de la bugetul de stat prin PNDL pentru obiectivul de investiții ”Construire dispensar uman în mediu rural în localitatea Războieni, comuna Ion Neculce, județul Iași”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64105",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-17-2022",
+   "path": "local/iasi/ion-neculce/2022/17",
+   "short": "HCL Ion Neculce nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 17/2022 privind aprobarea indicatorilor tehnico-economici actualizaţi pentru restul de executat conform OG 15/2021 si asigurarea finantarii de la bugetul local pentru categoriile de cheltuieli care nu se finantează de la bugetul de stat prin PNDL pentru obiectivul de investiții ”Construire dispensar uman în mediu rural în localitatea Războieni, comuna Ion Neculce, județul Iași” - REST DE EXECUTAT",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64106",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-18-2022",
+   "path": "local/iasi/ion-neculce/2022/18",
+   "short": "HCL Ion Neculce nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 18/2022 privind aprobarea actualizarii prețurilor la valoarea RESTULUI DE EXECUTAT si asigurarea cofinantarii de la bugetul local pentru cheltuielile provenite in urma actualizarii preturilor (la valoarea reala de piata, fata de anul 2018) care nu se finantează din fonduri europene pentru obiectivul de investiții \"CONSTRUIRE GRADINITA IN SAT RAZBOIENI, COMUNA ION NECULCE, JUDEȚUL IAȘI\" Contract de finanțare nr. C 0720EN00011712400164/ 14.09.2017",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64107",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-19-2022",
+   "path": "local/iasi/ion-neculce/2022/19",
+   "short": "HCL Ion Neculce nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 19/2022 aprobarea Raportului comisiei interne constituite prin Dispozitia nr. 34/2022 in vederea efectuarii unei anchete administrative pentru verificarea modului de ducere la îndeplinire a Măsurii 2.3.a dispuse prin decizia Camerei de Conturi a Judeţului lasi - nr. 104/2016",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64108",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-2-2022",
+   "path": "local/iasi/ion-neculce/2022/2",
+   "short": "HCL Ion Neculce nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 2/2022 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local Ion Neculce din data de 06.01.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52870",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-20-2022",
+   "path": "local/iasi/ion-neculce/2022/20",
+   "short": "HCL Ion Neculce nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 20/2022 privind însușirea Raportului de evaluare nr.1240/16.02.2022, pentru imobilul teren cu suprafața de 5000 mp, din domeniul privat, identificat cadastral cu NC 60533, T112, P2935/1, pentru stabilirea valorii juste",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64109",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-21-2022",
+   "path": "local/iasi/ion-neculce/2022/21",
+   "short": "HCL Ion Neculce nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 21/2022 atestarea inventarului bunurilor care aparțin domeniului public al Comunei Ion Neculce, județul Iași",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64110",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-22-2022",
+   "path": "local/iasi/ion-neculce/2022/22",
+   "short": "HCL Ion Neculce nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 22/2022 privind aprobarea situatiei indicatorilor privind executia bugetului local al comunei Ion Neculce, Judetul Iasi la data de 31.12.2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64111",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-23-2022",
+   "path": "local/iasi/ion-neculce/2022/23",
+   "short": "HCL Ion Neculce nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 23/2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64112",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-27-2022",
+   "path": "local/iasi/ion-neculce/2022/27",
+   "short": "HCL Ion Neculce nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 27/2022 privind efectuarea inventarierii materiei/masei impozabile pentru anul fiscal 2022 la nivelul unității administrativ-teritoriale Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64116",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-28-2022",
+   "path": "local/iasi/ion-neculce/2022/28",
+   "short": "HCL Ion Neculce nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 28/2022 privind aprobarea cererii de finanțare si a devizului general estimativ pentru obiectivul de investitii „Extindere rețea de gaze naturale în comuna Ion Neculce, județul Iasi” prin Programul Național de Investiții Anghel Saligny aprobat prin OUG 95/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64117",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-29-2022",
+   "path": "local/iasi/ion-neculce/2022/29",
+   "short": "HCL Ion Neculce nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 29/2022 demararii proiectului de investitii \"Infiintare sisteme inteligente de management local si statii de incarcare in Comuna Ion Neculce, judetul Iasi\" prin PNRR/2022/C10",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64118",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-3-2022",
+   "path": "local/iasi/ion-neculce/2022/3",
+   "short": "HCL Ion Neculce nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 3/2022 privind validarea Dispozitiei nr. 386/22.12.2021 privind Rectificarea Bugetului Local de Venituri si Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52871",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-30-2022",
+   "path": "local/iasi/ion-neculce/2022/30",
+   "short": "HCL Ion Neculce nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 30/2022 aprobarea raportului anual privind starea economica, sociala si de mediu a unitatii administrativ-teritoriale, Ion Neculce, Judetul Iasi, pentru anul 2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64119",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-31-2022",
+   "path": "local/iasi/ion-neculce/2022/31",
+   "short": "HCL Ion Neculce nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 31/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64120",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-32-2022",
+   "path": "local/iasi/ion-neculce/2022/32",
+   "short": "HCL Ion Neculce nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 32/2022 privind aprobarea ordinii de zi a şedinţei de indata a Consiliului Local Ion Neculce din data de 20.04.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64121",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-33-2022",
+   "path": "local/iasi/ion-neculce/2022/33",
+   "short": "HCL Ion Neculce nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 33/2022 privind aprobarea cererii de finanțare si a devizului general estimativ pentru obiectivul de investitii „Extindere rețea de gaze naturale în comuna Ion Neculce, județul Iasi” prin Programul Național de Investiții Anghel Saligny aprobat prin OUG 95/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64122",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-34-2022",
+   "path": "local/iasi/ion-neculce/2022/34",
+   "short": "HCL Ion Neculce nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 34/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 28.04.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64123",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-35-2022",
+   "path": "local/iasi/ion-neculce/2022/35",
+   "short": "HCL Ion Neculce nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 35/2022 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Ion Neculce şi aprobarea de denumire pentru unităţile de învăţământ de stat în anul şcolar 2022-2023",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64124",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-36-2022",
+   "path": "local/iasi/ion-neculce/2022/36",
+   "short": "HCL Ion Neculce nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 36/2022 privind aprobarea: ,,Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64125",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-37-2022",
+   "path": "local/iasi/ion-neculce/2022/37",
+   "short": "HCL Ion Neculce nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 37/2022 privind aprobarea solicitarii de prelungirie a scrisorii de garantie nr. IG173301004/06.10.2017 din partea fondului de garantare pentru proiectul „CONSTRUIRE GRADINITA IN SAT RAZBOIENI, COMUNA ION NECULCE, JUDEȚUL IASI”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64126",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-38-2022",
+   "path": "local/iasi/ion-neculce/2022/38",
+   "short": "HCL Ion Neculce nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 38/2022 privind aprobarea actualizarii prețurilor la valoarea RESTULUI DE EXECUTAT si asigurarea cofinantarii de la bugetul local pentru cheltuielile provenite in urma actualizarii preturilor (la valoarea reala de piata, fata de anul 2018) care nu se finantează din fonduri europene pentru obiectivul de investiții \"CONSTRUIRE GRADINITA IN SAT RAZBOIENI, COMUNA ION NECULCE, JUDEȚUL IAȘI\" Contract de finanțare nr. C0720EN00011712400164/14.09.2017",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64127",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-39-2022",
+   "path": "local/iasi/ion-neculce/2022/39",
+   "short": "HCL Ion Neculce nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 39/2022 privind declararea ca bun de interes public a unor imobile teren si trecerea în domeniului public al comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64128",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-4-2022",
+   "path": "local/iasi/ion-neculce/2022/4",
+   "short": "HCL Ion Neculce nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 4/2022 privind aprobarea utilizarii excedentului anului bugetar 2021 în valoare de 1.126.330,42 lei, în anul 2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52872",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-40-2022",
+   "path": "local/iasi/ion-neculce/2022/40",
+   "short": "HCL Ion Neculce nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 40/2022 privind aprobarea procesului verbal nr. 4494/19.04.2022 privind rezultatul inventarierii materiei/masei impozabile pentru anul fiscal 2022 la nivelul unității administrativ-teritoriale Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64129",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-41-2022",
+   "path": "local/iasi/ion-neculce/2022/41",
+   "short": "HCL Ion Neculce nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 41/2022 privind aprobarea ordinii de zi a şedinţei de indata a Consiliului Local Ion Neculce din data de 11.05.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64137",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-42-2022",
+   "path": "local/iasi/ion-neculce/2022/42",
+   "short": "HCL Ion Neculce nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 42/2022 privind aprobarea depunerii proiectului \"Infiintare sisteme inteligente de management local si statii de incarcare in Comuna Ion Neculce, judetul Iasi\" prin Programul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64138",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-43-2022",
+   "path": "local/iasi/ion-neculce/2022/43",
+   "short": "HCL Ion Neculce nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 43/2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64139",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-44-2022",
+   "path": "local/iasi/ion-neculce/2022/44",
+   "short": "HCL Ion Neculce nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 44/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 26.05.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64156",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-45-2022",
+   "path": "local/iasi/ion-neculce/2022/45",
+   "short": "HCL Ion Neculce nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 45/2022 privind aprobarea situatiei indicatorilor privind executia bugetului local al comunei Ion Neculce, Judetul Iasi la data de 31.03.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64157",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-46-2022",
+   "path": "local/iasi/ion-neculce/2022/46",
+   "short": "HCL Ion Neculce nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 46/2022 privind neasumarea responsabilitatilor organizarii si derularii procedurilor de atribuire a contractelor/acordurilor – cadru pentru achizitia produselor aferente programului si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64158",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-47-2022",
+   "path": "local/iasi/ion-neculce/2022/47",
+   "short": "HCL Ion Neculce nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 47/2022 privind revocarea Hotararii Consiliului Local nr. 19/31.03.2022 privind aprobarea Raportului comisiei interne constituite prin Dispozitia nr. 34/2022 in vederea efectuarii unei anchete administrative pentru verificarea modului de ducere la îndeplinire a Măsurii 2.3.a dispuse prin decizia Camerei de Conturi a Judeţului lasi - nr. 104/2016",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64159",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-48-2022",
+   "path": "local/iasi/ion-neculce/2022/48",
+   "short": "HCL Ion Neculce nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 48/2022 privind revocarea Hotararii Consiliului Local nr. 36/28.04.2022 cu privire la aprobarea: ,,Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64160",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-49-2022",
+   "path": "local/iasi/ion-neculce/2022/49",
+   "short": "HCL Ion Neculce nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 49/2022 privind Rectificarea Bugetului Local de Venituri si Cheltuieli al Comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64161",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-5-2022",
+   "path": "local/iasi/ion-neculce/2022/5",
+   "short": "HCL Ion Neculce nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 5/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 10.02.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52883",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-51-2022",
+   "path": "local/iasi/ion-neculce/2022/51",
+   "short": "HCL Ion Neculce nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 51/2022 aprobarea demararii proiectului de investitii „Cresterea eficientei energetice a infrastructurii de iluminat public în comuna Ion Neculce, județul Iași”",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64163",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-52-2022",
+   "path": "local/iasi/ion-neculce/2022/52",
+   "short": "HCL Ion Neculce nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 52/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 16.06.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64219",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-53-2022",
+   "path": "local/iasi/ion-neculce/2022/53",
+   "short": "HCL Ion Neculce nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 53/2022 privind aprobarea utilizarii domeniului public al comunei Ion Neculce si punerea la dispozitia proiectului regional de dezvoltare a infrastructurii de apa si apa uzata din Judetul Iasi in perioada 2014-2020 a terenului de pe raza satului Dadesti pentru constructia/extinderea/reabilitarea noilor investitii aferente acestuia pentru executarea lucrarii- Extinderea sistemului de apa si canalizare in judetul lasi - Axa 5 Rachiteni-A.l.Cuza-Helesteni-Ruginoasa-Costesti",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64220",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-56-2022",
+   "path": "local/iasi/ion-neculce/2022/56",
+   "short": "HCL Ion Neculce nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 56/2022 privind aprobarea Raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav pentru Semestrul II al anului 2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/64223",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/64223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-58-2022",
+   "path": "local/iasi/ion-neculce/2022/58",
+   "short": "HCL Ion Neculce nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 58/2022 privind aprobarea ordinii de zi a sedintei ordinare a Consiliului Local Ion Neculce din data de 28.07.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/68295",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/68295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-59-2022",
+   "path": "local/iasi/ion-neculce/2022/59",
+   "short": "HCL Ion Neculce nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 59/2022 privind validarea Dispozitiei nr.225/20.06.2022 privind Rectificarea Bugetului Local de Venituri si Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/68296",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/68296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-6-2022",
+   "path": "local/iasi/ion-neculce/2022/6",
+   "short": "HCL Ion Neculce nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 6/2022 privind modificarea si completarea art.2 din H.C.L nr.98/21.10.2021 privind aprobarea cererii de finanțare si a devizului general estimativ pentru obiectivul de investitii „Modernizare drumuri de interes local in comuna Ion Neculce, județul Iași” prin Programul Național de Investiții Anghel Saligny aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52884",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-62-2022",
+   "path": "local/iasi/ion-neculce/2022/62",
+   "short": "HCL Ion Neculce nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 62/2022 privind Rectificarea Bugetului Local de Venituri si Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/68297",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/68297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-66-2022",
+   "path": "local/iasi/ion-neculce/2022/66",
+   "short": "HCL Ion Neculce nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 66/2022 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local Ion Neculce din data de 16.08.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/69298",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/69298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-67-2022",
+   "path": "local/iasi/ion-neculce/2022/67",
+   "short": "HCL Ion Neculce nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 67/2022 privind participarea Comunei Ion Neculce, Judetul Iasi la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/69299",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/69299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-68-2022",
+   "path": "local/iasi/ion-neculce/2022/68",
+   "short": "HCL Ion Neculce nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 68/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 22.09.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/74581",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/74581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-69-2022",
+   "path": "local/iasi/ion-neculce/2022/69",
+   "short": "HCL Ion Neculce nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 69/2022 privind .aprobarea situatiei indicatorilor privind executia bugetului local al comunei Ion Neculce, Judetul Iasi la data de 30.06.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/74582",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/74582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-7-2022",
+   "path": "local/iasi/ion-neculce/2022/7",
+   "short": "HCL Ion Neculce nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 7/2022 privind aprobarea rezultatului inventarierii patrimoniului Comunei Ion Neculce, județul Iași la data de 31.12.2021",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52885",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-70-2022",
+   "path": "local/iasi/ion-neculce/2022/70",
+   "short": "HCL Ion Neculce nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 70/2022 privind validarea Dispoziției nr.278/14.09.2022 privind Rectificarea Bugetului Local de Venituri și Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/74583",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/74583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-71-2022",
+   "path": "local/iasi/ion-neculce/2022/71",
+   "short": "HCL Ion Neculce nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 71/2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/74584",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/74584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-72-2022",
+   "path": "local/iasi/ion-neculce/2022/72",
+   "short": "HCL Ion Neculce nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 72/2022 privind Rectificarea Bugetului Local de Venituri si Cheltuieli al Comunei Ion Neculce",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/74585",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/74585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-74-2022",
+   "path": "local/iasi/ion-neculce/2022/74",
+   "short": "HCL Ion Neculce nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 74/2022 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local Ion Neculce din data de 03.10.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76386",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-75-2022",
+   "path": "local/iasi/ion-neculce/2022/75",
+   "short": "HCL Ion Neculce nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 75/2022 privind validarea Dispoziției nr.302/26.09.09.2022 privind Rectificarea Bugetului Local de Venituri și Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76387",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-76-2022",
+   "path": "local/iasi/ion-neculce/2022/76",
+   "short": "HCL Ion Neculce nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 76/2022 privind aprobarea demararii proiectului de investitii \"Construire parc fotovoltaic in comuna Ion Neculce, judetul Iasi\" prin Programul Operaţional Infrastructură Mare (POIM) 2014-2020",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76388",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-77-2022",
+   "path": "local/iasi/ion-neculce/2022/77",
+   "short": "HCL Ion Neculce nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 77/2022 privind aprobarea demararii proiectului de investitii \"Construire piste de biciclete in sat Razboieni, comuna Ion Neculce, judetul Iasi\" prin PNRR/2022/C10",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76389",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-78-2022",
+   "path": "local/iasi/ion-neculce/2022/78",
+   "short": "HCL Ion Neculce nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 78/2022 privind externalizarea serviciilor de cadastru aferente specialistului in masuratori topografice din cadrul Comisiei locale de fond funciar",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76390",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-79-2022",
+   "path": "local/iasi/ion-neculce/2022/79",
+   "short": "HCL Ion Neculce nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 79/2022 privind achizitionarea serviciilor de cadastru pentru intocmirea planurilor parcelare si atribuirea de numere cadastrale imobilelor din localitatile Buznea si Ganesti",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76391",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-8-2022",
+   "path": "local/iasi/ion-neculce/2022/8",
+   "short": "HCL Ion Neculce nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 8/2022 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2022 ce vor fi executate de beneficiarii de ajutor social conform Legii nr. 416/2001 privind venitul minim garantat cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52886",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-80-2022",
+   "path": "local/iasi/ion-neculce/2022/80",
+   "short": "HCL Ion Neculce nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 80/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri de interes local in comuna Ion Neculce, județul Iași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76392",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-82-2022",
+   "path": "local/iasi/ion-neculce/2022/82",
+   "short": "HCL Ion Neculce nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 82/2022 privind aprobarea ordinii de zi a şedinţei de indata a Consiliului Local Ion Neculce in data de 12.10.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76442",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-83-2022",
+   "path": "local/iasi/ion-neculce/2022/83",
+   "short": "HCL Ion Neculce nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 83/2022 privind aprobarea depunerii proiectului „Construire locuinte de serviciu nZEB pentru specialistii din sanatate si invatamant in sat Buznea, comuna Ion Neculce, judetul Iasi”, a anexei privind nota de fundamentare si a anexei privind descrierea investitiei",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76443",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-84-2022",
+   "path": "local/iasi/ion-neculce/2022/84",
+   "short": "HCL Ion Neculce nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 84/2022 privind aprobarea depunerii proiectului „Construire locuinte de serviciu nZEB pentru specialistii din sanatate si invatamant in sat Razboieni, comuna Ion Neculce, judetul Iasi”, a anexei privind nota de fundamentare si a anexei privind descrierea investitiei",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76444",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-85-2022",
+   "path": "local/iasi/ion-neculce/2022/85",
+   "short": "HCL Ion Neculce nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 85/2022 privind aprobarea depunerii proiectului „Construire piste de biciclete in sat Razboieni, comuna Ion Neculce, judetul Iasi”, a anexei privind nota de fundamentare si a anexei privind descrierea investitiei",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76445",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-86-2022",
+   "path": "local/iasi/ion-neculce/2022/86",
+   "short": "HCL Ion Neculce nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 86/2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/76446",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/76446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-87-2022",
+   "path": "local/iasi/ion-neculce/2022/87",
+   "short": "HCL Ion Neculce nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 87/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 27.10.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77555",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-88-2022",
+   "path": "local/iasi/ion-neculce/2022/88",
+   "short": "HCL Ion Neculce nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 88/2022 privind îndreptarea erorii materiale din H.C.L nr. 76/03.10.2022 privind aprobarea demararii proiectului de investitii \"Construire parc fotovoltaic in comuna Ion Neculce, judetul Iasi\" prin Programul Operaţional Infrastructură Mare (POIM) 2014-2020",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77556",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-89-2022",
+   "path": "local/iasi/ion-neculce/2022/89",
+   "short": "HCL Ion Neculce nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 89/2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77557",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-9-2022",
+   "path": "local/iasi/ion-neculce/2022/9",
+   "short": "HCL Ion Neculce nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 9/2022 privind aprobarea bugetului local al comunei Ion Neculce, pentru anul 2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/52887",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/52887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-90-2022",
+   "path": "local/iasi/ion-neculce/2022/90",
+   "short": "HCL Ion Neculce nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 90/2022 privind modificarea coeficientilor si stabilirea salariilor, pentru aparatul de specialitate functionari publici si personal contractual conform art. 11 anexa nr. VIII cap. I lit. A pct. III și cap. II lit. A pct. IV , anexa nr. II Cap. I pct. 3, din Legea nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77558",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-91-2022",
+   "path": "local/iasi/ion-neculce/2022/91",
+   "short": "HCL Ion Neculce nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 91/2022 privind achiziționarea de servicii juridice de consultanță, de asistenta si/sau de reprezentare și achiziție servicii executor judecătoresc",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77559",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-92-2022",
+   "path": "local/iasi/ion-neculce/2022/92",
+   "short": "HCL Ion Neculce nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 92/2022 privind aprobarea transferului sumelor prevazute in Bugetul Local de Venituri si Cheltuieli in anul 2022 din contul 24A705000.710130, in contul 24A700600.710130",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/77560",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/77560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-93-2022",
+   "path": "local/iasi/ion-neculce/2022/93",
+   "short": "HCL Ion Neculce nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 93/2022 privind aprobarea ordinii de zi a şedinţei de indata a Consiliului Local Ion Neculce din data de 03.11.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/78513",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/78513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-94-2022",
+   "path": "local/iasi/ion-neculce/2022/94",
+   "short": "HCL Ion Neculce nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 94/2022 privind participarea Comunei Ion Neculce la Programul privind realizarea pistelor pentru biciclete finantat de Ministerul Mediului, Apelor și Pădurilor – denumit in continuare Program",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/78514",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/78514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-95-2022",
+   "path": "local/iasi/ion-neculce/2022/95",
+   "short": "HCL Ion Neculce nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 95/2022 privind aprobarea demararii proiectului de investitii „Construire piste de biciclete in sat Razboieni, comuna Ion Neculce, judetul Iasi” prin Programul de finanțare privind realizarea pistelor pentru biciclete finantat de Ministerul Mediului, Apelor și Pădurilor",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/78515",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/78515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-96-2022",
+   "path": "local/iasi/ion-neculce/2022/96",
+   "short": "HCL Ion Neculce nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 96/2022 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local Ion Neculce din data de 24.11.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/81894",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-97-2022",
+   "path": "local/iasi/ion-neculce/2022/97",
+   "short": "HCL Ion Neculce nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 97/2022 privind aprobarea situatiei indicatorilor privind executia bugetului local al comunei Ion Neculce, Judetul Iasi la data de 30.09.2022",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/81895",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-98-2022",
+   "path": "local/iasi/ion-neculce/2022/98",
+   "short": "HCL Ion Neculce nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 98/2022 privind validarea Dispoziției nr.361/10.11.2022 privind Rectificarea Bugetului Local de Venituri și Cheltuieli",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/81896",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ion-neculce-99-2022",
+   "path": "local/iasi/ion-neculce/2022/99",
+   "short": "HCL Ion Neculce nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Neculce nr. 99/2022 privind alocarea sumei de 65.000 lei din bugetul local al comunei Ion Neculce, Judetul Iasi, în vederea acordării cadourilor de ,,Moș Crăciun 2022’’, pentru copiii din comuna Ion Neculce, cu vîrsta cuprinsă între 0 – 14 ani, precum și alte cheltuieli ce se vor efectua cu ocazia Sarbatorilor de Iarnă 2022 (urători și colindători copii, urători și colindători bătrâni și adulți)",
+   "url": "https://emol.ro/ionneculce-is/registru-hcl/81897",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ionneculce-is/registru-hcl/81897",
      "sha256": null
     }
    ]

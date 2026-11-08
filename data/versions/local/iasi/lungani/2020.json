@@ -3,6 +3,186 @@
  "shard": "local/iasi/lungani/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--lungani-10-2020",
+   "path": "local/iasi/lungani/2020/10",
+   "short": "HCL Lungani nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 10/2020 privind aprobarea bugetului de venituri și cheltuieli al comunei Lungani pe anul 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28771",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-11-2020",
+   "path": "local/iasi/lungani/2020/11",
+   "short": "HCL Lungani nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 11/2020 privind aprobarea completării Regulamentului de organizare și funcționare al Consiliului Local al Comunei Lungani aprobat prin HCL Lungani nr. 30/28.10.2016",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28772",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-13-2020",
+   "path": "local/iasi/lungani/2020/13",
+   "short": "HCL Lungani nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 13/2020 privind aprobarea rețelei școlare de pe raza Comunei Lungani, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28774",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-15-2020",
+   "path": "local/iasi/lungani/2020/15",
+   "short": "HCL Lungani nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 15/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul II și IV, anul 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28776",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-16-2020",
+   "path": "local/iasi/lungani/2020/16",
+   "short": "HCL Lungani nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 16/2020 privind respingerea proiectului de hotărâre de aprobare a indicatorilor tehnico-economici ai obiectivului de investiții: „Reabilitare drumuri de interes local afectate în comuna Lungani, județul Iași”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28777",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-17-2020",
+   "path": "local/iasi/lungani/2020/17",
+   "short": "HCL Lungani nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 17/2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28778",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-18-2020",
+   "path": "local/iasi/lungani/2020/18",
+   "short": "HCL Lungani nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 18/2020 privind respingerea proiectului de hotărâre privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul II și III 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28779",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-20-2020",
+   "path": "local/iasi/lungani/2020/20",
+   "short": "HCL Lungani nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 20/2020 privind aprobarea proiectului de hotărâre de aprobare a indicatorilor tehnico-economici ai obiectivului de investiții: „Reabilitare drumuri de interes local afectate ăn comuna Lungani, județul Iași”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28781",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-21-2020",
+   "path": "local/iasi/lungani/2020/21",
+   "short": "HCL Lungani nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 21/2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28782",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-22-2020",
+   "path": "local/iasi/lungani/2020/22",
+   "short": "HCL Lungani nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 22/2020 privind aprobarea proiectului de hotărâre privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul II și III 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28783",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-29-2020",
+   "path": "local/iasi/lungani/2020/29",
+   "short": "HCL Lungani nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 29/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul III 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28790",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-32-2020",
+   "path": "local/iasi/lungani/2020/32",
+   "short": "HCL Lungani nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 32/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Lungani pe trimestrul III 2020",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28810",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28810",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-33-2020",
    "path": "local/iasi/lungani/2020/33",
    "short": "HCL Lungani nr. 33/2020",
@@ -103,6 +283,21 @@
      "from": "2020-12-09",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/28826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-4-2020",
+   "path": "local/iasi/lungani/2020/4",
+   "short": "HCL Lungani nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 4/2020 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: „Înființare rețea de distribuție gaze naturale, în comuna Lungani, județul Iași”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28765",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28765",
      "sha256": null
     }
    ]
@@ -298,6 +493,36 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/28839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-6-2020",
+   "path": "local/iasi/lungani/2020/6",
+   "short": "HCL Lungani nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 6/2020 privind aprobarea codului etic al centrului de zi-copii din comunitatea de romi din satul Zmeu, comuna Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28767",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-7-2020",
+   "path": "local/iasi/lungani/2020/7",
+   "short": "HCL Lungani nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 7/2020 privind aprobarea Metodologiei de Organizare și Funcțio nre a Centrului de zi-copii din cimunitatea de romi din satul Zmeu, comuna LUngani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/28768",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/28768",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/iasi/erbiceni/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--erbiceni-1-2024",
+   "path": "local/iasi/erbiceni/2024/1",
+   "short": "HCL Erbiceni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 1/2024 privind aprobarea indicatorilor tehnico-economici rest de execuat pentru obiectivul de investitii „ Realziare gard , alei , rigole cu capac si montaj fantani arteziene la Centrul Cultural din sat Erbiceni , comuna Erbiceni „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149544",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-10-2024",
+   "path": "local/iasi/erbiceni/2024/10",
+   "short": "HCL Erbiceni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 10/2024 privind alocare 10000 lei „ Ziua Copilului „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149553",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--erbiceni-100-2024",
    "path": "local/iasi/erbiceni/2024/100",
    "short": "HCL Erbiceni nr. 100/2024",
@@ -43,6 +73,1146 @@
      "from": "2024-12-10",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/189060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-11-2024",
+   "path": "local/iasi/erbiceni/2024/11",
+   "short": "HCL Erbiceni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 11/2024 privind alocare 10.000 lei premiere „ Bahluietul „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149554",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-12-2024",
+   "path": "local/iasi/erbiceni/2024/12",
+   "short": "HCL Erbiceni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 12/2024 privind implementare proeict 1 educatie non-formala 10.000 lei",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149555",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-13-2024",
+   "path": "local/iasi/erbiceni/2024/13",
+   "short": "HCL Erbiceni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 13/2024 privind achizitionare panou informare",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149556",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-14-2024",
+   "path": "local/iasi/erbiceni/2024/14",
+   "short": "HCL Erbiceni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 14/2024 privind aloacre 80.000 lei unitati de cult",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149557",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-15-2024",
+   "path": "local/iasi/erbiceni/2024/15",
+   "short": "HCL Erbiceni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 15/2024 privind alocare 28.000 lei supraveghere wireless sediu nou Comuna Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149558",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-16-2024",
+   "path": "local/iasi/erbiceni/2024/16",
+   "short": "HCL Erbiceni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 16/2024 privind aprobare plan de actiuni d einteres local 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149559",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-17-2024",
+   "path": "local/iasi/erbiceni/2024/17",
+   "short": "HCL Erbiceni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 17/2024 privind aprobare plan de scolarizare 2024-2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149560",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-18-2024",
+   "path": "local/iasi/erbiceni/2024/18",
+   "short": "HCL Erbiceni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 18/2024 privind alocare 35.000 lei Festival „ hora neamului „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149561",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-19-2024",
+   "path": "local/iasi/erbiceni/2024/19",
+   "short": "HCL Erbiceni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 19/2024 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149562",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-2-2024",
+   "path": "local/iasi/erbiceni/2024/2",
+   "short": "HCL Erbiceni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 2/2024 privind aprobarea indicatorilor rest de executat pentru „ Reabilitare , modernizare si recompartimentare Scoala Gimnaziala C. Erbiceanu „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149545",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-21-2024",
+   "path": "local/iasi/erbiceni/2024/21",
+   "short": "HCL Erbiceni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 21/2024 privind aprobare proiect „ construire Centru de zi pentru copii aflati in situatie de risc „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149573",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-22-2024",
+   "path": "local/iasi/erbiceni/2024/22",
+   "short": "HCL Erbiceni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 22/2024 privind aprobare participare proiect transfriontalier Republica-Moldova",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149574",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-23-2024",
+   "path": "local/iasi/erbiceni/2024/23",
+   "short": "HCL Erbiceni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 23/2024 privind aprobare buget de venituri si cheltuieli 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149575",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-24-2024",
+   "path": "local/iasi/erbiceni/2024/24",
+   "short": "HCL Erbiceni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 24/2024 privind stabilire normative de protocol",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149576",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-26-2024",
+   "path": "local/iasi/erbiceni/2024/26",
+   "short": "HCL Erbiceni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 26/2024 privind modificare HCL nr. 132/20.12.2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149578",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-27-2024",
+   "path": "local/iasi/erbiceni/2024/27",
+   "short": "HCL Erbiceni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 27/2024 privind modificare HCl nr. 95/17.08.2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149579",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-28-2024",
+   "path": "local/iasi/erbiceni/2024/28",
+   "short": "HCL Erbiceni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 28/2024 privind modificarea HCl nr. 129/20.12.2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149580",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-29-2024",
+   "path": "local/iasi/erbiceni/2024/29",
+   "short": "HCL Erbiceni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 29/2024 privind dare in folosinta gratuita spatiu dispensare",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149581",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-3-2024",
+   "path": "local/iasi/erbiceni/2024/3",
+   "short": "HCL Erbiceni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 3/2024 privind aprobarea indicatorilor tehnico-economici „ Reabilitare , modernizare si recompartimentare Scoala Birlesti „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149546",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-30-2024",
+   "path": "local/iasi/erbiceni/2024/30",
+   "short": "HCL Erbiceni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 30/2024 privind insusire recurs formulat in dosarul nr. 6089/99/2022 si dosarul 4124/99/2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168914",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-31-2024",
+   "path": "local/iasi/erbiceni/2024/31",
+   "short": "HCL Erbiceni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 31/2024 privind alocare 7500 lei pentru obtinere avize „ Amenajare curte sediu administrativ al primariei comunei Erbiceni „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168915",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-33-2024",
+   "path": "local/iasi/erbiceni/2024/33",
+   "short": "HCL Erbiceni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 33/2024 privind aprobarea programului de inspectie fiscala 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168917",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-34-2024",
+   "path": "local/iasi/erbiceni/2024/34",
+   "short": "HCL Erbiceni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 34/2024 privind alocare 35.500 lei servicii reparatie buldoexcavator",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168918",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-35-2024",
+   "path": "local/iasi/erbiceni/2024/35",
+   "short": "HCL Erbiceni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 35/2024 privind modificare HCL nr. 118/2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168919",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-36-2024",
+   "path": "local/iasi/erbiceni/2024/36",
+   "short": "HCL Erbiceni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 36/2024 privind declararea de utilitate publica extindere apa Spinoasa , Sprinceana , Erbiceni -aductiune rezervor Sprinceana",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168920",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-37-2024",
+   "path": "local/iasi/erbiceni/2024/37",
+   "short": "HCL Erbiceni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 37/2024 privind completare plan achizitii 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168921",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-38-2024",
+   "path": "local/iasi/erbiceni/2024/38",
+   "short": "HCL Erbiceni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 38/2024 privind participare Program Rabla Plus",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168922",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-39-2024",
+   "path": "local/iasi/erbiceni/2024/39",
+   "short": "HCL Erbiceni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 39/2024 privind infiintare post asistent medical comunitar",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168923",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-4-2024",
+   "path": "local/iasi/erbiceni/2024/4",
+   "short": "HCL Erbiceni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 4/2024 privind aprobarea indicatorilor rest de execuat pentru „ Extindere , modernizare si recompartimentare Centru Social Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149547",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-40-2024",
+   "path": "local/iasi/erbiceni/2024/40",
+   "short": "HCL Erbiceni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 40/2024 privind aprobare raport de activitate asistenti personali",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168924",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-41-2024",
+   "path": "local/iasi/erbiceni/2024/41",
+   "short": "HCL Erbiceni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 41/2024 privind alocare 80.000 lei Club Sportiv Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168925",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-42-2024",
+   "path": "local/iasi/erbiceni/2024/42",
+   "short": "HCL Erbiceni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 42/2024 privind aprobare buget Club Sportiv erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/168926",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/168926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-43-2024",
+   "path": "local/iasi/erbiceni/2024/43",
+   "short": "HCL Erbiceni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 43/2024 privind aprobare proiect AFM „ Extindere retea de alimentare cu apa si canalizare in comuna Erbiceni , judetul iasi „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169024",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-44-2024",
+   "path": "local/iasi/erbiceni/2024/44",
+   "short": "HCL Erbiceni nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 44/2024 privind aprobare incheiere contract prestari servicii artistice",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169025",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-45-2024",
+   "path": "local/iasi/erbiceni/2024/45",
+   "short": "HCL Erbiceni nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 45/2024 privind modificarea HCl nr. 39/17.03.2022",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169026",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-46-2024",
+   "path": "local/iasi/erbiceni/2024/46",
+   "short": "HCL Erbiceni nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 46/2024 privind depunere proeict AFM",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169027",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-47-2024",
+   "path": "local/iasi/erbiceni/2024/47",
+   "short": "HCL Erbiceni nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 47/2024 privind rectificare BVC",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169028",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-48-2024",
+   "path": "local/iasi/erbiceni/2024/48",
+   "short": "HCL Erbiceni nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 48/2024 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169029",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-49-2024",
+   "path": "local/iasi/erbiceni/2024/49",
+   "short": "HCL Erbiceni nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 49/2024 privind stabilirea modalitate efectuare paza comunala",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169030",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-5-2024",
+   "path": "local/iasi/erbiceni/2024/5",
+   "short": "HCL Erbiceni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 5/2024 privind „Amenajare parcari rutiera Scoala Erbiceni „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149548",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-50-2024",
+   "path": "local/iasi/erbiceni/2024/50",
+   "short": "HCL Erbiceni nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 50/2024 privind alocare 150.000 lei transport piatra",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169031",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-51-2024",
+   "path": "local/iasi/erbiceni/2024/51",
+   "short": "HCL Erbiceni nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 51/2024 privind actualizare indicatori retea de gaze naturale",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169032",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-52-2024",
+   "path": "local/iasi/erbiceni/2024/52",
+   "short": "HCL Erbiceni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 52/2024 privind rectificare BVC",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169033",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-53-2024",
+   "path": "local/iasi/erbiceni/2024/53",
+   "short": "HCL Erbiceni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 53/2024 privind neasumare programul pwentru scoli 2024-2025",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169034",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-54-2024",
+   "path": "local/iasi/erbiceni/2024/54",
+   "short": "HCL Erbiceni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 54/2024 privind completare plan achizitii 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169035",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-55-2024",
+   "path": "local/iasi/erbiceni/2024/55",
+   "short": "HCL Erbiceni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 55/2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169036",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-56-2024",
+   "path": "local/iasi/erbiceni/2024/56",
+   "short": "HCL Erbiceni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 56/2024 privind aprobare delegare gestiune deseuri",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169037",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-57-2024",
+   "path": "local/iasi/erbiceni/2024/57",
+   "short": "HCL Erbiceni nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 57/2024 privind rectificare BVC",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169049",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-58-2024",
+   "path": "local/iasi/erbiceni/2024/58",
+   "short": "HCL Erbiceni nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 58/2024 privind alocare 16.000 lei servicii dezinsectie",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169050",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-59-2024",
+   "path": "local/iasi/erbiceni/2024/59",
+   "short": "HCL Erbiceni nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 59/2024 privind alocare 8000 lei achizitionare turbosuflante SVSU",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169051",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-6-2024",
+   "path": "local/iasi/erbiceni/2024/6",
+   "short": "HCL Erbiceni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 6/2024 privind initiere procedura cu clauza suspensiva",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149549",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-60-2024",
+   "path": "local/iasi/erbiceni/2024/60",
+   "short": "HCL Erbiceni nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 60/2024 privind premiere elevi care au participat la concursuri si olimpiade",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169052",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-61-2024",
+   "path": "local/iasi/erbiceni/2024/61",
+   "short": "HCL Erbiceni nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 61/2024 privind premiere elevi Pascal Naomi , Buzincu Razvan-Andrei , Apavaloaiei Ilia",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169053",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-62-2024",
+   "path": "local/iasi/erbiceni/2024/62",
+   "short": "HCL Erbiceni nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 62/2024 privind alocare 95.200 lei verificare PTh -PNRR",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169057",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-63-2024",
+   "path": "local/iasi/erbiceni/2024/63",
+   "short": "HCL Erbiceni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 63/2024 privind alocare 21.000 lei achizitionare lampi ornamentale",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169058",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-64-2024",
+   "path": "local/iasi/erbiceni/2024/64",
+   "short": "HCL Erbiceni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 64/2024 privind alocare 50.000 lei Club Sportiv Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169059",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-65-2024",
+   "path": "local/iasi/erbiceni/2024/65",
+   "short": "HCL Erbiceni nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 65/2024 privind dare in folosinta 543 mp teren „ Biserica Penticostala harul Erbiceni „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169060",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-66-2024",
+   "path": "local/iasi/erbiceni/2024/66",
+   "short": "HCL Erbiceni nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 66/2024 privind aprobare indicatori „ Infiintare sistem de canalizare spranceana „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169061",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-67-2024",
+   "path": "local/iasi/erbiceni/2024/67",
+   "short": "HCL Erbiceni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 67/2024 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169062",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-68-2024",
+   "path": "local/iasi/erbiceni/2024/68",
+   "short": "HCL Erbiceni nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 68/2024 privind modificare HCL nr. 82/2023",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169063",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-69-2024",
+   "path": "local/iasi/erbiceni/2024/69",
+   "short": "HCL Erbiceni nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 69/2024 privind aprobare PUZ si RLU „ Intocmire PUZ pentru construire corp de cladire cu functiune educationala „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169064",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-7-2024",
+   "path": "local/iasi/erbiceni/2024/7",
+   "short": "HCL Erbiceni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 7/2024 privind utilizare sume excedent",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149550",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-70-2024",
+   "path": "local/iasi/erbiceni/2024/70",
+   "short": "HCL Erbiceni nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 70/2024 privind insusire raport de evaluare cladire apartinand comunei Erbiceni",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169065",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-71-2024",
+   "path": "local/iasi/erbiceni/2024/71",
+   "short": "HCL Erbiceni nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 71/2024 privind completare plan achizitii",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169066",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-72-2024",
+   "path": "local/iasi/erbiceni/2024/72",
+   "short": "HCL Erbiceni nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 72/2024 privind rectificare BVC",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169067",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-73-2024",
+   "path": "local/iasi/erbiceni/2024/73",
+   "short": "HCL Erbiceni nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 73/2024 privind alocare12.000 lei dezinsectie scoala",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169068",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-74-2024",
+   "path": "local/iasi/erbiceni/2024/74",
+   "short": "HCL Erbiceni nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 74/2024 privind acordare locuinta Teglas Gavril",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169069",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-75-2024",
+   "path": "local/iasi/erbiceni/2024/75",
+   "short": "HCL Erbiceni nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 75/2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/169070",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/169070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-76-2024",
+   "path": "local/iasi/erbiceni/2024/76",
+   "short": "HCL Erbiceni nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 76/2024 privind alocare 50.000 lei actuazlizare studiu de fezabilitate „ Extindere retea de alimentare cu apa si canalziare in comuna Erbiceni „ PNRR",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177726",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-77-2024",
+   "path": "local/iasi/erbiceni/2024/77",
+   "short": "HCL Erbiceni nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 77/2024 privind aprobarea devizului general actualizat pentru obiectivul de investitii „Infiintarea sistemului centralizat de canalizare menajera in satul Spranceana , comuna Erbiceni , judetul Iasi „ finantat prin Programul National de Investitii „ Anghel Saligny",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177727",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-78-2024",
+   "path": "local/iasi/erbiceni/2024/78",
+   "short": "HCL Erbiceni nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 78/2024 privind aprobarea devizului general actualizat pentru obiectivul de investitii „ Modernizare prin asfaltare drumuri echipate cu retea de canalizare in Comuna Erbiceni , judetul Iasi „ finantat prin Programul National de Investitii „ Anghel Saligny „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177728",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-79-2024",
+   "path": "local/iasi/erbiceni/2024/79",
+   "short": "HCL Erbiceni nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 79/2024 privind aprobarea devizului general „ Infiintarea sistemului centralizat de canalizare menajera in satul sprinceana , comuna Erbiceni , judetul Iasi „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177729",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-8-2024",
+   "path": "local/iasi/erbiceni/2024/8",
+   "short": "HCL Erbiceni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 8/2024 privind alocare 80.000 lei pentru sarbatorile de iarna 2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149551",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-80-2024",
+   "path": "local/iasi/erbiceni/2024/80",
+   "short": "HCL Erbiceni nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 80/2024 privind aprobarea devizului general „ modernizare prin asflatare drumuri echipate cu retea de canalziare in comuna Erbiceni , judetul iasi „",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177730",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-81-2024",
+   "path": "local/iasi/erbiceni/2024/81",
+   "short": "HCL Erbiceni nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 81/2024 privind aprobarea sumei de 50.000 lei actualizare studiu de fezabilitate „ Extindere retea de alimentare cu apa si canalizare „ PNRR",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177731",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-82-2024",
+   "path": "local/iasi/erbiceni/2024/82",
+   "short": "HCL Erbiceni nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 82/2024 privind revocarea HCL n.r. 74/27.08.2024",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/177732",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177732",
      "sha256": null
     }
    ]
@@ -148,6 +1318,21 @@
      "from": "2024-11-18",
      "units": 1,
      "source_url": "https://emol.ro/erbiceni-is/registru-hcl/177739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--erbiceni-9-2024",
+   "path": "local/iasi/erbiceni/2024/9",
+   "short": "HCL Erbiceni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Erbiceni nr. 9/2024 privind alocare 2000 lei achizitionare panou informativ",
+   "url": "https://emol.ro/erbiceni-is/registru-hcl/149552",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/erbiceni-is/registru-hcl/149552",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/iasi/gropnita/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--gropnita-10-2022",
+   "path": "local/iasi/gropnita/2022/10",
+   "short": "HCL Gropnița nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 10/2022 privind aprobarea modificării Hotararii nr. 57 din 2006 a Consiliului Local Gropnița",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53733",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53733",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--gropnita-100-2022",
    "path": "local/iasi/gropnita/2022/100",
    "short": "HCL Gropnița nr. 100/2022",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--gropnita-11-2022",
+   "path": "local/iasi/gropnita/2022/11",
+   "short": "HCL Gropnița nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 11/2022 privind dezmembrarea unui imobil",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53734",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53734",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--gropnita-110-2022",
    "path": "local/iasi/gropnita/2022/110",
    "short": "HCL Gropnița nr. 110/2022",
@@ -223,6 +253,246 @@
      "from": "2023-01-31",
      "units": 1,
      "source_url": "https://emol.ro/gropnita-is/registru-hcl/86338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-12-2022",
+   "path": "local/iasi/gropnita/2022/12",
+   "short": "HCL Gropnița nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 12/2022 privind dezmembrarea unui imobil",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53735",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-14-2022",
+   "path": "local/iasi/gropnita/2022/14",
+   "short": "HCL Gropnița nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 14/2022 privind aprobarea bugetului local al comunei Gropnița, județul Iași",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53737",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-15-2022",
+   "path": "local/iasi/gropnita/2022/15",
+   "short": "HCL Gropnița nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 15/2022 privind aprobarea: ,,Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ”",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53738",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-16-2022",
+   "path": "local/iasi/gropnita/2022/16",
+   "short": "HCL Gropnița nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 16/2022 privind asigurarea suport IT",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53739",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-18-2022",
+   "path": "local/iasi/gropnita/2022/18",
+   "short": "HCL Gropnița nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 18/2022 aprobarea completarii bugetului local al comunei Gropnita, judetul Iasi pentru anul 2022",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53741",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-22-2022",
+   "path": "local/iasi/gropnita/2022/22",
+   "short": "HCL Gropnița nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 22/2022 privind aprobarea Statutului comunei Gropnița, județul Iași",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/54356",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/54356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-34-2022",
+   "path": "local/iasi/gropnita/2022/34",
+   "short": "HCL Gropnița nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 34/2022 privind taxele și impozitele locale la nivelul comunei Gropnița pentru anul 2023",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/59035",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/59035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-4-2022",
+   "path": "local/iasi/gropnita/2022/4",
+   "short": "HCL Gropnița nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 4/2022 privind aprobarea instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ-teritorială a Comunei Gropnita, judet Iasi",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53727",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-40-2022",
+   "path": "local/iasi/gropnita/2022/40",
+   "short": "HCL Gropnița nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 40/2022 privind îndreptarea erorii materiale din Hotărârea Consiliului Local al comunei Gropnița nr. 52/1999 și următoarele incidente",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/59818",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/59818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-41-2022",
+   "path": "local/iasi/gropnita/2022/41",
+   "short": "HCL Gropnița nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 41/2022 privind modificarea și completarea Hotărârii Consiliului Local al comunei Gropnița nr. 27 din 28 martie 2022",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/59819",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/59819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-46-2022",
+   "path": "local/iasi/gropnita/2022/46",
+   "short": "HCL Gropnița nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 46/2022 privind rectificarea bugetului local al comunei Gropnița",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/63179",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/63179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-8-2022",
+   "path": "local/iasi/gropnita/2022/8",
+   "short": "HCL Gropnița nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 8/2022 privind aprobarea taxei speciale de salubrizare pentru persoanele casnice și non-casnice în COMUNA GROPNITA",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53731",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-9-2022",
+   "path": "local/iasi/gropnita/2022/9",
+   "short": "HCL Gropnița nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 9/2022 privind pășunea comunala a Comunei Gropnița, județul Iași",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/53732",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/53732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-91-2022",
+   "path": "local/iasi/gropnita/2022/91",
+   "short": "HCL Gropnița nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 91/2022 privind aprobarea unor măsuri în vederea implementării Strategiei Naționale Anticorupție pentru perioada 2021-2025",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/81235",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/81235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-92-2022",
+   "path": "local/iasi/gropnita/2022/92",
+   "short": "HCL Gropnița nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 92/2022 privind aprobarea Protocolului de colaborare in cadrul proiectului HUB de servicii MMSS - SII MMSS cod Mysmis 130963",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/81236",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/81236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--gropnita-93-2022",
+   "path": "local/iasi/gropnita/2022/93",
+   "short": "HCL Gropnița nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gropnița nr. 93/2022 privind modificarea Hotararii de Consiliu privind taxele si impozitele locale pentru anul 2023",
+   "url": "https://emol.ro/gropnita-is/registru-hcl/81237",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gropnita-is/registru-hcl/81237",
      "sha256": null
     }
    ]

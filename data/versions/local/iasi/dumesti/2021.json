@@ -3,6 +3,51 @@
  "shard": "local/iasi/dumesti/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--dumesti-16-2021",
+   "path": "local/iasi/dumesti/2021/16",
+   "short": "HCL Dumești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2021 privind aprobarea încheierii unui acord de parteneriat între comuna Dumești și Asociația Eco Assist București având ca obiect împădurire teren în comuna Dumești",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/32852",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/32852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-25-2021",
+   "path": "local/iasi/dumesti/2021/25",
+   "short": "HCL Dumești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 25/2021 privind aprobarea Nomenclatorului stradal al comunei Dumesti, judetul Iasi",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/44940",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/44940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-27-2021",
+   "path": "local/iasi/dumesti/2021/27",
+   "short": "HCL Dumești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 27/2021 privind introducerea in domeniul public al comunei Dumesti a bunului -buldoexcavator, ca urmare a finalizarii proiectului “Achizitie buldoexcavator pentru comuna Dumesti, judetul Iasi “",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/44942",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/44942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-31-2021",
    "path": "local/iasi/dumesti/2021/31",
    "short": "HCL Dumești nr. 31/2021",

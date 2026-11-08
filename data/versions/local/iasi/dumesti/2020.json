@@ -3,6 +3,306 @@
  "shard": "local/iasi/dumesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--dumesti-10-2020",
+   "path": "local/iasi/dumesti/2020/10",
+   "short": "HCL Dumești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 10/2020 privind aprobarea documentatiei tehnico-economica pentru investitia: „Construire și dotare cămin cultural în satul Dumești, comuna Dumești, județul Iași”",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9142",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-11-2020",
+   "path": "local/iasi/dumesti/2020/11",
+   "short": "HCL Dumești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 11/2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9143",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-12-2020",
+   "path": "local/iasi/dumesti/2020/12",
+   "short": "HCL Dumești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 12/2020 privind actualizarea Devizului pentru obiectivul de investiție ''Consolidare și modernizare dispensar medical uman în sat Dumești, comuna Dumești, județul Iași'', pentru anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9144",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-14-2020",
+   "path": "local/iasi/dumesti/2020/14",
+   "short": "HCL Dumești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 14/2020 privind rectificarea bugetului local pe trim. I anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9146",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-15-2020",
+   "path": "local/iasi/dumesti/2020/15",
+   "short": "HCL Dumești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 15/2020 privind ameliorarea prin împădurire a suprafeței de 2,00 ha teren aparținând domeniului public al comunei Dumești",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9147",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-19-2020",
+   "path": "local/iasi/dumesti/2020/19",
+   "short": "HCL Dumești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 19/2020 privind la actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.36",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9151",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-2-2020",
+   "path": "local/iasi/dumesti/2020/2",
+   "short": "HCL Dumești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 2/2020 privind organizarea reţelei şcolare pentru unitătile de învăţămant preuniversitar, în anul şcolar 2020-2021",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/8970",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/8970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-20-2020",
+   "path": "local/iasi/dumesti/2020/20",
+   "short": "HCL Dumești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 20/2020 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență din comuna Dumești, județul Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9152",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-21-2020",
+   "path": "local/iasi/dumesti/2020/21",
+   "short": "HCL Dumești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 21/2020 privind acordarea mandatului special reprezentantului UAT Dumești în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului ''Sistem de Management Integrat al Deșeurilor din județul Iași'' și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr. 3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în Județul Iași nr. 357/30.10.2018",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9153",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-22-2020",
+   "path": "local/iasi/dumesti/2020/22",
+   "short": "HCL Dumești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 22/2020 privind obiectivul de investitie „Construire si dotare camin cultural in satul Dumesti, comuna Dumesti, judetul Iasi „",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9154",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-24-2020",
+   "path": "local/iasi/dumesti/2020/24",
+   "short": "HCL Dumești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 24/2020 privind rectificarea bugetului local pe trim. II si trim. IV anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9159",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-25-2020",
+   "path": "local/iasi/dumesti/2020/25",
+   "short": "HCL Dumești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 25/2020 privind rectificarea bugetului local pe trim. III anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9184",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-27-2020",
+   "path": "local/iasi/dumesti/2020/27",
+   "short": "HCL Dumești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 27/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9242",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-28-2020",
+   "path": "local/iasi/dumesti/2020/28",
+   "short": "HCL Dumești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 28/2020 privind stabilirea modului de întocmire și ținere la zi a Registrului agricol al comunei Dumești, județul Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9243",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-29-2020",
+   "path": "local/iasi/dumesti/2020/29",
+   "short": "HCL Dumești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 29/2020 privind aprobarea aderării UAT județul Iași prin Consiliul Județean Iași la Asociația de Dezvoltare Intercomunitară Comun Gaz N-E Iași și completarea Statutului și Actului Constitutiv al Asociației de Dezvoltare Intercomunitară Comun Gaz N-E Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9244",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-3-2020",
+   "path": "local/iasi/dumesti/2020/3",
+   "short": "HCL Dumești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 3/2020 privind utilizarea din excedentul aferent anului 2019",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/8971",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/8971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-30-2020",
+   "path": "local/iasi/dumesti/2020/30",
+   "short": "HCL Dumești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 30/2020 privind actualizarea Strategiei de dezvoltare durabilă a comunei Dumești, județul Iași pentru perioada 2014-2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9245",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-31-2020",
+   "path": "local/iasi/dumesti/2020/31",
+   "short": "HCL Dumești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 31/2020 privind implementarea proiectului ''Achiziție buldoexcavator pentru comuna Dumești, județul Iași''",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9246",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-32-2020",
+   "path": "local/iasi/dumesti/2020/32",
+   "short": "HCL Dumești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 32/2020 privind rectificarea bugetului local pe trim. III anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9247",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-33-2020",
+   "path": "local/iasi/dumesti/2020/33",
+   "short": "HCL Dumești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 33/2020 privind instituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la date de 31.03.2020 inclusiv, datorate bugetului local de către contribuabili de pe raza administrativ teritorială a Comunei Dumești, județul Iași",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9248",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9248",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-35-2020",
    "path": "local/iasi/dumesti/2020/35",
    "short": "HCL Dumești nr. 35/2020",
@@ -73,6 +373,21 @@
      "from": "2020-11-12",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/32651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-4-2020",
+   "path": "local/iasi/dumesti/2020/4",
+   "short": "HCL Dumești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 4/2020 privind modificarea , completarea si insusirea inventarului bunurilor care apartin domeniului public al comunei Dumesti",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9136",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9136",
      "sha256": null
     }
    ]
@@ -228,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--dumesti-5-2020",
+   "path": "local/iasi/dumesti/2020/5",
+   "short": "HCL Dumești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 5/2020 privind modificarea , completarea si insusirea inventarului bunurilor care apartin domeniului public al comuneui Dumesti",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9137",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--dumesti-50-2020",
    "path": "local/iasi/dumesti/2020/50",
    "short": "HCL Dumești nr. 50/2020",
@@ -298,6 +628,66 @@
      "from": "2020-12-30",
      "units": 1,
      "source_url": "https://emol.ro/dumesti-is/registru-hcl/32667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-6-2020",
+   "path": "local/iasi/dumesti/2020/6",
+   "short": "HCL Dumești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 6/2020 privind aprobarea bugetului general de venituri şi cheltuieli al comunei Dumesti pentru anul 2020 și estimările pentru anii 2021 – 2023",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9138",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-7-2020",
+   "path": "local/iasi/dumesti/2020/7",
+   "short": "HCL Dumești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 7/2020 privind aprobarea Planului anual de acţiuni sau lucrari de interes local pentru repartizarea orelor de muncă în cazul persoanelor care prestează acţiuni sau lucrări de interes local pe baza Legii nr. 416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare, pe anul 2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9139",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-8-2020",
+   "path": "local/iasi/dumesti/2020/8",
+   "short": "HCL Dumești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 8/2020 privind revocarea Hotararii Consiliului local Dumesti nr. 4 din 31.01.2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9140",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--dumesti-9-2020",
+   "path": "local/iasi/dumesti/2020/9",
+   "short": "HCL Dumești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumești nr. 9/2020 privind revocarea Hotararii Consiliului local Dumesti nr. 5 din 31.01.2020",
+   "url": "https://emol.ro/dumesti-is/registru-hcl/9141",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumesti-is/registru-hcl/9141",
      "sha256": null
     }
    ]

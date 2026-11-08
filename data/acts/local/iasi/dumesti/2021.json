@@ -3,6 +3,72 @@
 "shard": "local/iasi/dumesti/2021",
 "acts": [
 {
+"slug": "hcl-iasi--dumesti-16-2021",
+"path": "local/iasi/dumesti/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 16/2021 privind aprobarea încheierii unui acord de parteneriat între comuna Dumești și Asociația Eco Assist București având ca obiect împădurire teren în comuna Dumești",
+"short": "HCL Dumești nr. 16/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/32852",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-25-2021",
+"path": "local/iasi/dumesti/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 25/2021 privind aprobarea Nomenclatorului stradal al comunei Dumesti, judetul Iasi",
+"short": "HCL Dumești nr. 25/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/44940",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--dumesti-27-2021",
+"path": "local/iasi/dumesti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumești nr. 27/2021 privind introducerea in domeniul public al comunei Dumesti a bunului -buldoexcavator, ca urmare a finalizarii proiectului “Achizitie buldoexcavator pentru comuna Dumesti, judetul Iasi “",
+"short": "HCL Dumești nr. 27/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/dumesti-is/registru-hcl/44942",
+"council": "iasi/dumesti",
+"council_name": "Consiliul Local al Comunei Dumești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--dumesti-31-2021",
 "path": "local/iasi/dumesti/2021/31",
 "kind": "local",

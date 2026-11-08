@@ -1,0 +1,741 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/grajduri/2025",
+ "acts": [
+  {
+   "slug": "hcl-iasi--grajduri-1-2025",
+   "path": "local/iasi/grajduri/2025/1",
+   "short": "HCL Grajduri nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 1/2025 HCL alegere presedinte de sedinta",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90707",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-10-2025",
+   "path": "local/iasi/grajduri/2025/10",
+   "short": "HCL Grajduri nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 10/2025 HCL dare in folosinta gratuita cimitir Pădureni",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#95159",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#95159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-11-2025",
+   "path": "local/iasi/grajduri/2025/11",
+   "short": "HCL Grajduri nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 11/2025 HCL infiintare SVSU",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#95929",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#95929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-12-2025",
+   "path": "local/iasi/grajduri/2025/12",
+   "short": "HCL Grajduri nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 12/2025 HCL aprobare inventariere masa impozabila",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#96198",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#96198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-13-2025",
+   "path": "local/iasi/grajduri/2025/13",
+   "short": "HCL Grajduri nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 13/2025 HCL alegere presedinte de sedinta",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97187",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-14-2025",
+   "path": "local/iasi/grajduri/2025/14",
+   "short": "HCL Grajduri nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 14/2025 HCL aprobare inventariere 2024",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97188",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-15-2025",
+   "path": "local/iasi/grajduri/2025/15",
+   "short": "HCL Grajduri nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 15/2025 HCL aprobare taxe si impozite 2026",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97189",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#97189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-17-2025",
+   "path": "local/iasi/grajduri/2025/17",
+   "short": "HCL Grajduri nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 17/2025 HCL rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#98742",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#98742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-18-2025",
+   "path": "local/iasi/grajduri/2025/18",
+   "short": "HCL Grajduri nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 18/2025 HCL neasumare derulare Program scoli",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#98745",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#98745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-19-2025",
+   "path": "local/iasi/grajduri/2025/19",
+   "short": "HCL Grajduri nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 19/2025 HCL declarare de utilitate publica investitia Sistem infiintare gaz",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#99185",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#99185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-2-2025",
+   "path": "local/iasi/grajduri/2025/2",
+   "short": "HCL Grajduri nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 2/2025 HCL aprobare inchidere an financiar 2024",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90711",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-20-2025",
+   "path": "local/iasi/grajduri/2025/20",
+   "short": "HCL Grajduri nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 20/2025 HCL declarare de utilitate publica investitie extindere retea apa-canal",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100402",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-22-2025",
+   "path": "local/iasi/grajduri/2025/22",
+   "short": "HCL Grajduri nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 22/2025 HCL aprobare PT gradinita",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100405",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-23-2025",
+   "path": "local/iasi/grajduri/2025/23",
+   "short": "HCL Grajduri nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 23/2025 HCL aprobare rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100406",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-24-2025",
+   "path": "local/iasi/grajduri/2025/24",
+   "short": "HCL Grajduri nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 24/2025 HCL aprobare dezmembrare teren",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100514",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#100514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-25-2025",
+   "path": "local/iasi/grajduri/2025/25",
+   "short": "HCL Grajduri nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 25/2025 HCL aprobare modificare organigrama si stat de functii",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101510",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-26-2025",
+   "path": "local/iasi/grajduri/2025/26",
+   "short": "HCL Grajduri nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 26/2025 HCL aprobare rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101579",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-27-2025",
+   "path": "local/iasi/grajduri/2025/27",
+   "short": "HCL Grajduri nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 27/2025 HCL alegere presedinte de sedinta",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101584",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#101584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-29-2025",
+   "path": "local/iasi/grajduri/2025/29",
+   "short": "HCL Grajduri nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 29/2025 HCL retragere din Acordul nr. 400 -exercitare audit",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103436",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-3-2025",
+   "path": "local/iasi/grajduri/2025/3",
+   "short": "HCL Grajduri nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 3/2025 HCL constituire comisie evaluare secretar",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90714",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-30-2025",
+   "path": "local/iasi/grajduri/2025/30",
+   "short": "HCL Grajduri nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 30/2025 HCL exercitare audit cu ACOR",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103438",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-31-2025",
+   "path": "local/iasi/grajduri/2025/31",
+   "short": "HCL Grajduri nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 31/2025 HCL modificare HCL nr.34/26.07.2019 aprobare Regulament gospodarirea, curtenia si protectia mediului in comuna Grajduri",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103439",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-32-2025",
+   "path": "local/iasi/grajduri/2025/32",
+   "short": "HCL Grajduri nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 32/2025 HCL - ARSACIS",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103649",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#103649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-33-2025",
+   "path": "local/iasi/grajduri/2025/33",
+   "short": "HCL Grajduri nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 33/2025 HCL - aprobare rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104178",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-34-2025",
+   "path": "local/iasi/grajduri/2025/34",
+   "short": "HCL Grajduri nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 34/2025 HCL - aprobare modificare buget proiect fotovoltaice",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104180",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-35-2025",
+   "path": "local/iasi/grajduri/2025/35",
+   "short": "HCL Grajduri nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 35/2025 HCL stabilire componenta echipa mobila in cazuri de violenta domestica",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104898",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#104898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-36-2025",
+   "path": "local/iasi/grajduri/2025/36",
+   "short": "HCL Grajduri nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 36/2025 HCL alegere presedinte de sedinta",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#105908",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#105908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-37-2025",
+   "path": "local/iasi/grajduri/2025/37",
+   "short": "HCL Grajduri nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 37/2025 HCL rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#105911",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#105911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-38-2025",
+   "path": "local/iasi/grajduri/2025/38",
+   "short": "HCL Grajduri nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 38/2025 HCL ajustare tarif colectare deseuri",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107152",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-39-2025",
+   "path": "local/iasi/grajduri/2025/39",
+   "short": "HCL Grajduri nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 39/2025 HCL ajustare tarif sortare deseuri",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107153",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-4-2025",
+   "path": "local/iasi/grajduri/2025/4",
+   "short": "HCL Grajduri nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 4/2025 HCL ARSACIS 1",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90715",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-40-2025",
+   "path": "local/iasi/grajduri/2025/40",
+   "short": "HCL Grajduri nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 40/2025 HCL APAVITAL",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108156",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-41-2025",
+   "path": "local/iasi/grajduri/2025/41",
+   "short": "HCL Grajduri nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 41/2025 HCL achizitie masina prin GAL",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107154",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#107154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-42-2025",
+   "path": "local/iasi/grajduri/2025/42",
+   "short": "HCL Grajduri nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 42/2025 HCL declarare bun de utilitate publica",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108398",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-43-2025",
+   "path": "local/iasi/grajduri/2025/43",
+   "short": "HCL Grajduri nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 43/2025 HCL aprobare construire gradinita cu program prelungit",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108772",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-44-2025",
+   "path": "local/iasi/grajduri/2025/44",
+   "short": "HCL Grajduri nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 44/2025 HCL rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108773",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#108773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-45-2025",
+   "path": "local/iasi/grajduri/2025/45",
+   "short": "HCL Grajduri nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 45/2025 HCL aprobare actualizare proiect construire si dotare gradinita",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109964",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-46-2025",
+   "path": "local/iasi/grajduri/2025/46",
+   "short": "HCL Grajduri nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 46/2025 HCL rectificare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109366",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-48-2025",
+   "path": "local/iasi/grajduri/2025/48",
+   "short": "HCL Grajduri nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 48/2025 HCL anulare debite persoane juridice radiate din R.C",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109369",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-49-2025",
+   "path": "local/iasi/grajduri/2025/49",
+   "short": "HCL Grajduri nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 49/2025 HCL aprobare plan lucrari pentru VMI anul 2026",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109370",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-5-2025",
+   "path": "local/iasi/grajduri/2025/5",
+   "short": "HCL Grajduri nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 5/2025 HCL ARSACIS 2",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90717",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#90717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-50-2025",
+   "path": "local/iasi/grajduri/2025/50",
+   "short": "HCL Grajduri nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 50/2025 HCL aprobare retea scolara 2026-2027",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109765",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#109765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-51-2025",
+   "path": "local/iasi/grajduri/2025/51",
+   "short": "HCL Grajduri nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 51/2025 HCL aprobare taxe si impozite 2026",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112363",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-52-2025",
+   "path": "local/iasi/grajduri/2025/52",
+   "short": "HCL Grajduri nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 52/2025 HCL aprobare actualizare HCL nr. 44/2024",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112364",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-53-2025",
+   "path": "local/iasi/grajduri/2025/53",
+   "short": "HCL Grajduri nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 53/2025 HCL aprobare nr. asistenti personali 2026",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112365",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#112365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-6-2025",
+   "path": "local/iasi/grajduri/2025/6",
+   "short": "HCL Grajduri nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 6/2025 HCL aprobare PT fotovoltaice",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#92689",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#92689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-7-2025",
+   "path": "local/iasi/grajduri/2025/7",
+   "short": "HCL Grajduri nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 7/2025 HCL aprobare proiect biblioteca",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#93404",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#93404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-8-2025",
+   "path": "local/iasi/grajduri/2025/8",
+   "short": "HCL Grajduri nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 8/2025 HCL aprobare PUZ",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#93405",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#93405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--grajduri-9-2025",
+   "path": "local/iasi/grajduri/2025/9",
+   "short": "HCL Grajduri nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grajduri nr. 9/2025 HCL aprobare buget",
+   "url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#94903",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://grajduri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/35668#94903",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

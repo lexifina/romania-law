@@ -3,6 +3,96 @@
  "shard": "local/iasi/focuri/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--focuri-1-2024",
+   "path": "local/iasi/focuri/2024/1",
+   "short": "HCL Focuri nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 1/2024 privind aprobarea retelei școlare de învățământ preuniversitar de stat de pe raza comunei Focuri pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158573",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-10-2024",
+   "path": "local/iasi/focuri/2024/10",
+   "short": "HCL Focuri nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 10/2024 privind aprobarea Programului de achizitii publice pentru anul 2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158582",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-2-2024",
+   "path": "local/iasi/focuri/2024/2",
+   "short": "HCL Focuri nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 2/2024 privind aprobarea contului de executie a bugetului local pe trimestrul IV anul 2023",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158574",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-3-2024",
+   "path": "local/iasi/focuri/2024/3",
+   "short": "HCL Focuri nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 3/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.5",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158575",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-4-2024",
+   "path": "local/iasi/focuri/2024/4",
+   "short": "HCL Focuri nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 4/2024 (privind aprobarea Planului anual de actiuni și lucrări ce se vor executa de către persoanele apte de muncă din familiile beneficiare de venit minim de incluziune)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158576",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-44-2024",
+   "path": "local/iasi/focuri/2024/44",
+   "short": "HCL Focuri nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 44/2024 privind Rectificarea Bugetului Local de venituri și cheltuieli pe trimestrul III anul 2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/187103",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/187103",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--focuri-46-2024",
    "path": "local/iasi/focuri/2024/46",
    "short": "HCL Focuri nr. 46/2024",
@@ -58,6 +148,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/187114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-5-2024",
+   "path": "local/iasi/focuri/2024/5",
+   "short": "HCL Focuri nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 5/2024 (privind stabilirea actiunilor și lucrărilor care vor fi executate de persoanele a căror amenzi contraventioale au fost transformate în muncă neremunerată în folosul comunității)",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158577",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158577",
      "sha256": null
     }
    ]
@@ -213,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--focuri-6-2024",
+   "path": "local/iasi/focuri/2024/6",
+   "short": "HCL Focuri nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 6/2024",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158578",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--focuri-60-2024",
    "path": "local/iasi/focuri/2024/60",
    "short": "HCL Focuri nr. 60/2024",
@@ -298,6 +418,36 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/focuri-is/registru-hcl/187188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-7-2024",
+   "path": "local/iasi/focuri/2024/7",
+   "short": "HCL Focuri nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 7/2024 privind aprobarea ajustarii pretului pentru apa industriala pentru intreaga arie de operare a APAVITAL SA",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158579",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--focuri-8-2024",
+   "path": "local/iasi/focuri/2024/8",
+   "short": "HCL Focuri nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Focuri nr. 8/2024 privind aprobarea Actului Aditional pentru completarea si actualizarea Statutului ARSACIS Iasi",
+   "url": "https://emol.ro/focuri-is/registru-hcl/158580",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/focuri-is/registru-hcl/158580",
      "sha256": null
     }
    ]

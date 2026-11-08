@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Horlești nr. 51/2025 privind aprobarea solicitarea scrisorii de garantie din partea Fondului National de Garantare a Creditelor pentru proiectul „ Dotare spațiu de joacă în sat Horlești, comuna Horlești, județul Iași”
+
+HCL Horlești nr. 51/2025 · 1 versions, from 2025-08-12 (latest in force: 2025-08-12) · <https://emol.ro/horlesti-is/registru-hcl/220571>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-iasi--horlesti-51-2025` (tags `hcl-iasi--horlesti-51-2025/<day>`; `python tools/on.py <day> hcl-iasi--horlesti-51-2025`).
+
+## Decisions made by hand
+
+- HCL Horlești nr. 51/2025: listed from Consiliul Local al Comunei Horlești (emol.ro); metadata only for now: no document of it is held.
+- HCL Horlești nr. 51/2025: dated from 12 August 2025, the day the council's register gives it as published (adopted 15 May 2025).
+- HCL Horlești nr. 51/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

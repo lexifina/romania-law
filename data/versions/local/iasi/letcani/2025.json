@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-iasi--letcani-18-2025",
+   "path": "local/iasi/letcani/2025/18",
+   "short": "HCL Lețcani nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 18/2025 privind aprobarea bugetului local și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/letcani-is/registru-hcl/199504",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/letcani-is/registru-hcl/199504",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

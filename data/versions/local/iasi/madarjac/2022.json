@@ -3,6 +3,21 @@
  "shard": "local/iasi/madarjac/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--madarjac-19-2022",
+   "path": "local/iasi/madarjac/2022/19",
+   "short": "HCL Mădârjac nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 19/2022 privind organizarea evenimentului cultural „Ziua Comunei Mădârjac” în anul 2022",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/62607",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/62607",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-40-2022",
    "path": "local/iasi/madarjac/2022/40",
    "short": "HCL Mădârjac nr. 40/2022",

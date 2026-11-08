@@ -3,6 +3,51 @@
  "shard": "local/iasi/fantanele/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--fantanele-100-2020",
+   "path": "local/iasi/fantanele/2020/100",
+   "short": "HCL Fântânele nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 100/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includereîn buget a cheltuielilor aferente proiectului ''Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23628",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-101-2020",
+   "path": "local/iasi/fantanele/2020/101",
+   "short": "HCL Fântânele nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 101/2020 privind aprobarea contractării serviciilor de cosnultanțăpentru rezlizarea obiectivelor de investiții",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23629",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-104-2020",
+   "path": "local/iasi/fantanele/2020/104",
+   "short": "HCL Fântânele nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 104/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului ''Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Fântânele, județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23631",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23631",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-106-2020",
    "path": "local/iasi/fantanele/2020/106",
    "short": "HCL Fântânele nr. 106/2020",
@@ -298,6 +343,291 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/23662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-18-2020",
+   "path": "local/iasi/fantanele/2020/18",
+   "short": "HCL Fântânele nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 18/2020 privind sumele stabilite ca limite medii ale veniturilor potențiale rezultate din bunurile aflate în proprietate, folosință sau din valorificarea acestora",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23154",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-31-2020",
+   "path": "local/iasi/fantanele/2020/31",
+   "short": "HCL Fântânele nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 31/2020 privind aprobarea bugetului de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23166",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-57-2020",
+   "path": "local/iasi/fantanele/2020/57",
+   "short": "HCL Fântânele nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 57/2020 privind aprobarea procedurii de concesionare a bunurilor imobile care aparțin domeniului public și privat al comunei Fântânele, județul Iași aflate în administrarea Consiliului Local al comunei Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23324",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-58-2020",
+   "path": "local/iasi/fantanele/2020/58",
+   "short": "HCL Fântânele nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 58/2020 privind aprobarea Procedurii și modalitălilor de aducere la cunoștință publică a proiectelor de acte normative, a hotararilor si dispozitiilor cu caracter normativ precum si a masurilor de interes local, respectiv pentru aprobarea Procedurii de organizare si publicare a Monitorului Oficial Local, in format electronic",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23326",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-62-2020",
+   "path": "local/iasi/fantanele/2020/62",
+   "short": "HCL Fântânele nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 62/2020 privind aprobarea Procedurii de închiriere a bunurilor imobile care aparțin domeniului public și privat al comunei Fântânele, județul Iași aflate în administrarea Consiliului Local al comunei Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23328",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-70-2020",
+   "path": "local/iasi/fantanele/2020/70",
+   "short": "HCL Fântânele nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 70/2020 privind implementarea proiectului „Modernizarea și eficientizarea sistemului de iluminat public în comuna Fântânele, județul Iași”",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23335",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-71-2020",
+   "path": "local/iasi/fantanele/2020/71",
+   "short": "HCL Fântânele nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 71/2020 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2020, semestrul III",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23336",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-75-2020",
+   "path": "local/iasi/fantanele/2020/75",
+   "short": "HCL Fântânele nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 75/2020 privind aprobarea aderării UAT județul Iași prin Consiliul Județean Iași la Asociația de Dezvoltare Intercomunitară Comun Gaz N-E Iași și completarea Statutului și Actului Constitutiv al Asociației de Dezvoltare Intercomunitară Comun Gaz N-E Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23340",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-77-2020",
+   "path": "local/iasi/fantanele/2020/77",
+   "short": "HCL Fântânele nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 77/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului de Iluminat Public, a Caietului de Sarcini a Indicatorilor de Performanță, a Studiului de Fezabilitate și Oportunitate privind Modul de Gestiune a Serviciului Public, precum și stabilirea formei de gestiune a serviciului public de iluminat",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23342",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-80-2020",
+   "path": "local/iasi/fantanele/2020/80",
+   "short": "HCL Fântânele nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 80/2020 privind instituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ teritorială a comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23345",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-81-2020",
+   "path": "local/iasi/fantanele/2020/81",
+   "short": "HCL Fântânele nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 81/2020 privind rectificarea bugetului de venituri și cheltuieli anul 2020 semestrul III, comuna Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23346",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-84-2020",
+   "path": "local/iasi/fantanele/2020/84",
+   "short": "HCL Fântânele nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 84/2020 privind neasumarea responsabilității organizării și derulării Programului pentru școli al României pentru anul 2020-2021",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23349",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-88-2020",
+   "path": "local/iasi/fantanele/2020/88",
+   "short": "HCL Fântânele nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 88/2020 privind transmiterea în folosință gratuită a unor spații excedentare de la Centru de Zi Fântânele pe perioada determinată de pandemia la nivel global Covid-19",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23356",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-89-2020",
+   "path": "local/iasi/fantanele/2020/89",
+   "short": "HCL Fântânele nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 89/2020 privind rectificarea bugetului de venituri și cheltuieli pentru anul 2020, semestrul III",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23357",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-92-2020",
+   "path": "local/iasi/fantanele/2020/92",
+   "short": "HCL Fântânele nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 92/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului ''Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Fântânele, județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23622",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-93-2020",
+   "path": "local/iasi/fantanele/2020/93",
+   "short": "HCL Fântânele nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 93/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului ''Achiziție de echipamente de protecție medicală și dezinfectanți în comuna Fântânele, județul Iași'",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23623",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-95-2020",
+   "path": "local/iasi/fantanele/2020/95",
+   "short": "HCL Fântânele nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 95/2020 privind stabilirea datelor de ședință pentru trimestrul IV octombrie, noiembrie, decembrie 2020",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23625",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-96-2020",
+   "path": "local/iasi/fantanele/2020/96",
+   "short": "HCL Fântânele nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 96/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23626",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-99-2020",
+   "path": "local/iasi/fantanele/2020/99",
+   "short": "HCL Fântânele nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 99/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului ''Dotarea unităților de învățământ din comuna Fântânele, județul Iași cu echipamente specifice pentru gestionarea crizei sanitare cauzate de SARS-COV 2",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/23627",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/23627",
      "sha256": null
     }
    ]

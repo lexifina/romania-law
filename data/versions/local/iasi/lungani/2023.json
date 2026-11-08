@@ -3,6 +3,216 @@
  "shard": "local/iasi/lungani/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--lungani-1-2023",
+   "path": "local/iasi/lungani/2023/1",
+   "short": "HCL Lungani nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 1/2023 privind alegerea președintelui de ședință pentru perioada 31.01.2023 - 31.04.2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/92061",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/92061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-10-2023",
+   "path": "local/iasi/lungani/2023/10",
+   "short": "HCL Lungani nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 10/2023 privind acordarea mandatului special reprezentantului UAT comuna Lungani, județul Iași, în AGA ADIS Iași în vederea aprobării modificării tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași, aferent Contractului de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași nr. 371/22.05.2019, în cadrul Proiectului ,,Sistem de Management Integrat al Deșeurilor\" din județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106104",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-11-2023",
+   "path": "local/iasi/lungani/2023/11",
+   "short": "HCL Lungani nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 11/2023 privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Comunei Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106105",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-15-2023",
+   "path": "local/iasi/lungani/2023/15",
+   "short": "HCL Lungani nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 15/2023 privind Modificarea și completarea listei de inventar cuprinzând bunurile care alcătuiesc domeniul privat al comunei Lungani, județul Iași și HCL nr. 20 din 14.04.2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112376",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-18-2023",
+   "path": "local/iasi/lungani/2023/18",
+   "short": "HCL Lungani nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 18/2023 privind aprobarea împuternicirii UAT Județul Iași - Consiliul local Lungani a aplicației de finanțare pentru apelul de proiecte ,,MICROBUZE ELECTRICE PENTRU ELEVI\", finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație, Reforma 6; Investiția 10",
+   "url": "https://emol.ro/lungani-is/registru-hcl/112393",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/112393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-26-2023",
+   "path": "local/iasi/lungani/2023/26",
+   "short": "HCL Lungani nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 26/2023 privind implementarea proiectului ,,DOTAREA SEDIULUI PRIMĂRIEI COMUNEI LUNGANI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/lungani-is/registru-hcl/113355",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/113355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-28-2023",
+   "path": "local/iasi/lungani/2023/28",
+   "short": "HCL Lungani nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 28/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadrul pentru achiziționarea produselor și a contractelor/acordurilor-cadru de prrestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru Școli al României",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124196",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-30-2023",
+   "path": "local/iasi/lungani/2023/30",
+   "short": "HCL Lungani nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 30/2023 privind aprobarea Actului adițional pentru modificarea, completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124198",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-31-2023",
+   "path": "local/iasi/lungani/2023/31",
+   "short": "HCL Lungani nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 31/2023 privind stabilirea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale ,,Administrație”, utilizate în aparatul de specialitate al primarului comunei Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124199",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-32-2023",
+   "path": "local/iasi/lungani/2023/32",
+   "short": "HCL Lungani nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 32/2023 privind modificarea HCL 53/2022 a impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul 2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124200",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-33-2023",
+   "path": "local/iasi/lungani/2023/33",
+   "short": "HCL Lungani nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 33/2023 privind modificarea Anexei 1 și Anexei 2 a ROF aprobat prin HCL 17/2022 al serviciului social Centru de zi - copii din comunitatea de romi din satul Zmeu, comuna Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124201",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-34-2023",
+   "path": "local/iasi/lungani/2023/34",
+   "short": "HCL Lungani nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 34/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ,,Modernizare drumuri de interes local în satele Lungani, Crucea, Goești, Zmeu, comuna Lungani, județul Iași",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124202",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-37-2023",
+   "path": "local/iasi/lungani/2023/37",
+   "short": "HCL Lungani nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 37/2023 privind aderarea comunei Lungani la Acordul de cooperare nr. 31 din data de 09.10.2021",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124232",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-38-2023",
+   "path": "local/iasi/lungani/2023/38",
+   "short": "HCL Lungani nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 38/2023 privind alegerea președintelui de ședință pentru perioada lunilor octombrie - decembrie 2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/124233",
+   "versions": [
+    {
+     "from": "2023-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/124233",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-39-2023",
    "path": "local/iasi/lungani/2023/39",
    "short": "HCL Lungani nr. 39/2023",
@@ -13,6 +223,21 @@
      "from": "2023-09-22",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/124234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-4-2023",
+   "path": "local/iasi/lungani/2023/4",
+   "short": "HCL Lungani nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 4/2023 privind aprobarea împuternicirii UAT Județul Iași - Consiliul Județean Iași în vederea depunerii și implementării, pentru UAT Lungani, a aplicației de finanțare pentru apelul de proiecte ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitare și a unităților conexe\", finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație",
+   "url": "https://emol.ro/lungani-is/registru-hcl/92083",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/92083",
      "sha256": null
     }
    ]
@@ -168,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-5-2023",
+   "path": "local/iasi/lungani/2023/5",
+   "short": "HCL Lungani nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 5/2023 privind aprobarea propunerii rețelei școlare ce va funcționa în comuna Lungani în anul școlar 2022-2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/93935",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/93935",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-50-2023",
    "path": "local/iasi/lungani/2023/50",
    "short": "HCL Lungani nr. 50/2023",
@@ -298,6 +538,36 @@
      "from": "2023-12-19",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/137650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-6-2023",
+   "path": "local/iasi/lungani/2023/6",
+   "short": "HCL Lungani nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 6/2023 privind punerea la dispoziție a proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Iași în perioada 2014-2020 a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/lungani-is/registru-hcl/93936",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/93936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-8-2023",
+   "path": "local/iasi/lungani/2023/8",
+   "short": "HCL Lungani nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 8/2023 privind acordarea cu titlu gratuit a dreptului de uz și servitute către SC DELGAZ GRID SA prin ocuparea definitivă și temporară a unor terenuri aparținând domeniului privat al comunei Lungani, județul Iași, pentru ,,Proiect de interes comun de monitorizare a rețelei de energie electrică - CARMEN (Carpathian Modernization of Energy Network) Volum 2 - MODERNIZARE LEA 110 KV ROMAN NORD - RĂZBOIENI - DELPHI - FAI\"",
+   "url": "https://emol.ro/lungani-is/registru-hcl/106102",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/106102",
      "sha256": null
     }
    ]

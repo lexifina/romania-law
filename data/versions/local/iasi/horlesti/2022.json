@@ -3,6 +3,96 @@
  "shard": "local/iasi/horlesti/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--horlesti-100-2022",
+   "path": "local/iasi/horlesti/2022/100",
+   "short": "HCL Horlești nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 100/2022 privind modificarea bugetului local de venituri și cheltuieli pe trim.IV anul 2022",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86609",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-101-2022",
+   "path": "local/iasi/horlesti/2022/101",
+   "short": "HCL Horlești nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 101/2022 privind corectarea denumirii strada Vîlcele „Vâlcele” și strada Crîngul Mieilor-„Crângul Mieilor”și atribuirea unor denumiri de străzi în sat Horlești și sat Bogdănești, comuna Horlești, județul Iași",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86610",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-102-2022",
+   "path": "local/iasi/horlesti/2022/102",
+   "short": "HCL Horlești nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 102/2022 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 2",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86611",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-103-2022",
+   "path": "local/iasi/horlesti/2022/103",
+   "short": "HCL Horlești nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 103/2022 Privind înființarea Serviciului public de gestionare a câinilor fără stăpân, în cadrul UAT Horlești, județul Iași",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86612",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-105-2022",
+   "path": "local/iasi/horlesti/2022/105",
+   "short": "HCL Horlești nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 105/2022 privind aprobarea ordinii de zi a şedinţei de îndată a consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86614",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-106-2022",
+   "path": "local/iasi/horlesti/2022/106",
+   "short": "HCL Horlești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 106/2022 privind rectificarea bugetului local de venituri și cheltuieli pe trim.IV anul 2022",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86615",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86615",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--horlesti-107-2022",
    "path": "local/iasi/horlesti/2022/107",
    "short": "HCL Horlești nr. 107/2022",
@@ -298,6 +388,81 @@
      "from": "2023-01-27",
      "units": 1,
      "source_url": "https://emol.ro/horlesti-is/registru-hcl/86635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-44-2022",
+   "path": "local/iasi/horlesti/2022/44",
+   "short": "HCL Horlești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 44/2022 privind ,, asumarea/neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru şcoli al României şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative pentru anul școlar 2022 - 2023 la nivelul Comunei Horleşti, judeţul Iaşi”",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/78059",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/78059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-45-2022",
+   "path": "local/iasi/horlesti/2022/45",
+   "short": "HCL Horlești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 45/2022 privind stabilirea taxelor de păşunat pe anul 2022 şi măsurile de îmbunătăţire a calităţii păşunilor permanente",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/78060",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/78060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-5-2022",
+   "path": "local/iasi/horlesti/2022/5",
+   "short": "HCL Horlești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 5/2022 privind aprobarea scutirii de la plata taxei de salubrizare, instituită la nivelul comunei Horlești, pentru anumite categorii de contribualibi",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/53422",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/53422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-98-2022",
+   "path": "local/iasi/horlesti/2022/98",
+   "short": "HCL Horlești nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 98/2022 privind aprobarea ordinii de zi a şedinţei consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86607",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--horlesti-99-2022",
+   "path": "local/iasi/horlesti/2022/99",
+   "short": "HCL Horlești nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Horlești nr. 99/2022 privind aprobarea procesului verbal al şedinţei anterioare a consiliului local",
+   "url": "https://emol.ro/horlesti-is/registru-hcl/86608",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/horlesti-is/registru-hcl/86608",
      "sha256": null
     }
    ]

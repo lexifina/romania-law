@@ -3,6 +3,156 @@
  "shard": "local/iasi/lungani/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--lungani-1-2026",
+   "path": "local/iasi/lungani/2026/1",
+   "short": "HCL Lungani nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 1/2026 privind aprobarea rețelei școlare ce va funcționa în comuna Lungani în anul școlar 2026-2027",
+   "url": "https://emol.ro/lungani-is/registru-hcl/253362",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/253362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-10-2026",
+   "path": "local/iasi/lungani/2026/10",
+   "short": "HCL Lungani nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 10/2026 privind modificarea și completarea listei de inventar cuprinzând bunurile care alcătuiesc domeniului privat al comunei Lungani, Județul Iași, aprobat prin HCL 41 din 06.10.2023",
+   "url": "https://emol.ro/lungani-is/registru-hcl/258420",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/258420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-11-2026",
+   "path": "local/iasi/lungani/2026/11",
+   "short": "HCL Lungani nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 11/2026 privind modificarea HCL nr. 48 din 28/11/2025 privind stabilirea impozitelor și taxelor locale și a altor sume care se fac venit al bugetului local pentru anul 2026",
+   "url": "https://emol.ro/lungani-is/registru-hcl/259391",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/259391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-13-2026",
+   "path": "local/iasi/lungani/2026/13",
+   "short": "HCL Lungani nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 13/2026 privind aprobarea amplasării unor indicatoare de circulație și marcaje de traversare pentru pietoni, câte un indicator de informare „Trecere pentru pietoni”, pe fiecare sens de mers în zonele cu potenţial ridicat de circulaţie rutieră şi pietonală de pe raza comunei LUNGANI, județul IAȘI",
+   "url": "https://emol.ro/lungani-is/registru-hcl/268469",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/268469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-14-2026",
+   "path": "local/iasi/lungani/2026/14",
+   "short": "HCL Lungani nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 14/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei LUNGANI, precum și aprobarea statului de funcții și a organigramei",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271678",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-16-2026",
+   "path": "local/iasi/lungani/2026/16",
+   "short": "HCL Lungani nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 16/2026 privind aprobarea proiectului bugetului local de venituri si cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271686",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-17-2026",
+   "path": "local/iasi/lungani/2026/17",
+   "short": "HCL Lungani nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 17/2026 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadrul pentru achiziția produselor aferente programului și a contractelor/acordurilor–cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271687",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-18-2026",
+   "path": "local/iasi/lungani/2026/18",
+   "short": "HCL Lungani nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 18/2026 privind aprobarea alegerii președintelui de ședință pentru perioada 08 mai – 08 august 2026",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271688",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-19-2026",
+   "path": "local/iasi/lungani/2026/19",
+   "short": "HCL Lungani nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 19/2026 privind aprobarea extinderii Acordului de cooperare cu Filiala Județeană Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271689",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-20-2026",
+   "path": "local/iasi/lungani/2026/20",
+   "short": "HCL Lungani nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 20/2026 privind actualizarea Hotărârii de Consiliul Local nr. 50 din 03.12.2025 privind implementarea proiectului „Dotarea Compartimentului Administrativ - Gospodăresc cu utilaje în Comuna Lungani, Județul Iași”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/271721",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/271721",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-21-2026",
    "path": "local/iasi/lungani/2026/21",
    "short": "HCL Lungani nr. 21/2026",
@@ -133,6 +283,21 @@
      "from": "2026-07-17",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/279802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-3-2026",
+   "path": "local/iasi/lungani/2026/3",
+   "short": "HCL Lungani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 3/2026 privind aprobarea privind darea în folosință gratuită, către Școala Profesională Lungani din comuna Lungani, județul Iași, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie, pentru perioada de implementare a Proiectului, prin Contractele nr. 1971/21.01.2026 și 1972/21.01.2026",
+   "url": "https://emol.ro/lungani-is/registru-hcl/253364",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/253364",
      "sha256": null
     }
    ]
@@ -288,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--lungani-4-2026",
+   "path": "local/iasi/lungani/2026/4",
+   "short": "HCL Lungani nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 4/2026 privind corectarea datei Anexei Hotărârii nr. 50/03.12.2025 privind implementarea proiectului „Dotarea Compartimentului Administrativ - Gospodăresc cu utilaje în Comuna Lungani, Județul Iași” precum și a datei Anexei Hotărârii nr. 51/03.12.2025 privind ,,Reînvierea patrimoniului cultural prin înființarea ansamblului de cântece și dansuri populare”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/253365",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/253365",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-40-2026",
    "path": "local/iasi/lungani/2026/40",
    "short": "HCL Lungani nr. 40/2026",
@@ -298,6 +478,66 @@
      "from": "2026-09-10",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/291619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-5-2026",
+   "path": "local/iasi/lungani/2026/5",
+   "short": "HCL Lungani nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 5/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/lungani-is/registru-hcl/258415",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/258415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-6-2026",
+   "path": "local/iasi/lungani/2026/6",
+   "short": "HCL Lungani nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 6/2026 privind modificarea și completarea taxelor speciale compartiment stare civilă",
+   "url": "https://emol.ro/lungani-is/registru-hcl/258416",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/258416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-7-2026",
+   "path": "local/iasi/lungani/2026/7",
+   "short": "HCL Lungani nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 7/2026 privind aprobarea ”Planului de acțiuni și lucrări de interes local pe anul 2026”, prevăzut de Legea nr.196/2016, privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/lungani-is/registru-hcl/258417",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/258417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-8-2026",
+   "path": "local/iasi/lungani/2026/8",
+   "short": "HCL Lungani nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 8/2026 privind actualizarea denumirii unității de învățământ Școala Profesională Lungani în Liceul Tehnologic Lungani, cuprinsă în anexa nr. 1 a HCL nr. 1 din 30.01.2026 privind rețeaua școlară, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/lungani-is/registru-hcl/258418",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/258418",
      "sha256": null
     }
    ]

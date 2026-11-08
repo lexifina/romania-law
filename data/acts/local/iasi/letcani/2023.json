@@ -3,6 +3,28 @@
 "shard": "local/iasi/letcani/2023",
 "acts": [
 {
+"slug": "hcl-iasi--letcani-2-2023",
+"path": "local/iasi/letcani/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 2/2023 privind aprobarea bugetului local și a listei de investiții pe anul 2023",
+"short": "HCL Lețcani nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-07",
+"latest": "2023-03-07",
+"portal": "https://emol.ro/letcani-is/registru-hcl/87957",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--letcani-115-2023",
 "path": "local/iasi/letcani/2023/115",
 "kind": "local",

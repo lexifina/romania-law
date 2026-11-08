@@ -3,6 +3,28 @@
 "shard": "local/iasi/letcani/2025",
 "acts": [
 {
+"slug": "hcl-iasi--letcani-18-2025",
+"path": "local/iasi/letcani/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lețcani nr. 18/2025 privind aprobarea bugetului local și a listei de investiții pe anul 2025",
+"short": "HCL Lețcani nr. 18/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/letcani-is/registru-hcl/199504",
+"council": "iasi/letcani",
+"council_name": "Consiliul Local al Comunei Lețcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--letcani-111-2025",
 "path": "local/iasi/letcani/2025/111",
 "kind": "local",

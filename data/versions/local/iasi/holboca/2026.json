@@ -3,6 +3,36 @@
  "shard": "local/iasi/holboca/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--holboca-1-2026",
+   "path": "local/iasi/holboca/2026/1",
+   "short": "HCL Holboca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 1/2026 privind acordarea de reduceri la plata taxelor si impozitelor locale",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252451",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-10-2026",
+   "path": "local/iasi/holboca/2026/10",
+   "short": "HCL Holboca nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 10/2026 privind aprobarea studiului de fezabilitate, a proiectului tehnic și a devizului general realizat PTH pentru obiectivul de investiții „Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente și digitalizarea transportului urban la nivelul comunei Holboca, județul Iași”, aprobat pentru finanțare prin Programul Național de Redresare si Reziliență, Componenta 10 – Fondul local, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului, Runda 2",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256400",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256400",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--holboca-100-2026",
    "path": "local/iasi/holboca/2026/100",
    "short": "HCL Holboca nr. 100/2026",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--holboca-11-2026",
+   "path": "local/iasi/holboca/2026/11",
+   "short": "HCL Holboca nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 11/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256401",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256401",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--holboca-110-2026",
    "path": "local/iasi/holboca/2026/110",
    "short": "HCL Holboca nr. 110/2026",
@@ -193,6 +238,1281 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/holboca-is/registru-hcl/296774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-12-2026",
+   "path": "local/iasi/holboca/2026/12",
+   "short": "HCL Holboca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 12/2026 privind aprobarea planului anual de acțiuni și lucrări de interes local ce vor fi realizate în anul 2026 de către persoanele beneficiare de ajutor de incluziune conform Legii nr. 196/2016, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256402",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-13-2026",
+   "path": "local/iasi/holboca/2026/13",
+   "short": "HCL Holboca nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 13/2026 privind președintele de sedinta pentru perioada 1 martie 2026 - 31 mai 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256403",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-14-2026",
+   "path": "local/iasi/holboca/2026/14",
+   "short": "HCL Holboca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 14/2026 privind aprobarea indicatorilor tehnico-economici actualizaţi şi a cheltuielilor legate de proiect pentru proiectul ,,Înființarea și dotarea unui centru de colectare prin aport voluntar în comuna Holboca, județul Iași -Runda I” aprobat pentru finanțare prin Planului Național de Redresare și Reziliență al României, Componenta C3: Managementul Deșeurilor, Investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestiția I1.a ,,Înființare de centre de colectare prin aport voluntar”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256404",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-15-2026",
+   "path": "local/iasi/holboca/2026/15",
+   "short": "HCL Holboca nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 15/2026 privind aprobarea proiectului tehnic și a devizului general realizat PTH pentru obiectivul de investiții „Modernizarea sistemului de iluminat public stradal, în comuna Holboca, județul Iași – etapa II”, aprobat pentru finanțare prin „Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public, din anul 2022”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256405",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-16-2026",
+   "path": "local/iasi/holboca/2026/16",
+   "short": "HCL Holboca nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 16/2026 privind aprobarea caracteristicilor și indicatorilor tehnico-economici pentru obiectivul de investitii ,,Desfiintare corpuri de clădiri de clădire C1, C2 si construire clădire cu funcțiune de școală în sat Rusenii Vechi comuna Holboca, județul Iași\",",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256406",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-17-2026",
+   "path": "local/iasi/holboca/2026/17",
+   "short": "HCL Holboca nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 17/2026 privind aprobarea studiului de fezabilitate, a proiectului tehnic și a devizului general realizat PTH pentru obiectivul de investiții “Modernizarea infrastructurii educationale Holboca- Risipeni și cooperare transfrontaliera între România și Republica Moldova” (,,Modernization of Holboca - Risipeni educațional in frastructure and cross-bordercooperation between Romania and the Republic of Moldova,,)",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256407",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-18-2026",
+   "path": "local/iasi/holboca/2026/18",
+   "short": "HCL Holboca nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 18/2026 privind actualizarea planului de analiza si acoperire a riscurilor (PAAR) în comuna Holboca pe anul 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/256408",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/256408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-19-2026",
+   "path": "local/iasi/holboca/2026/19",
+   "short": "HCL Holboca nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 19/2026 privind aprobarea devizului general actualizat a obiectivului de investiții „DESFIINȚARE CORPURI DE CLĂDIRE C1 ȘI C2 CONSTRUIRE CLĂDIRE CU FUNCȚIUNE ȘCOALĂ”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/258922",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/258922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-2-2026",
+   "path": "local/iasi/holboca/2026/2",
+   "short": "HCL Holboca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 2/2026 privind aprobarea schimbării de destinație, prin demolare a corpului de clădire C1 in vederea edificării unei noi construcții cu funcțiunea de școala în sat Cristești, comuna Holboca, județ Iași",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252452",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-20-2026",
+   "path": "local/iasi/holboca/2026/20",
+   "short": "HCL Holboca nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 20/2026 privind aprobarea completării nomenclatorului stradal cu un numar de 53 străzi",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261148",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-21-2026",
+   "path": "local/iasi/holboca/2026/21",
+   "short": "HCL Holboca nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 21/2026 privind aprobarea situatiilor financiare la trimestrul IV anul 2025",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261149",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-22-2026",
+   "path": "local/iasi/holboca/2026/22",
+   "short": "HCL Holboca nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 22/2026 privind gospodarirea si mentinerea curateniei, precum si fiabilitatea circulatiei pe drumurile publice situate pe raza comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261150",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-23-2026",
+   "path": "local/iasi/holboca/2026/23",
+   "short": "HCL Holboca nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 23/2026 privind aprobarea demarării procedurilor de evaluare, reconversie și renovare a imobilului Fosta Scoala Rusenii Noi în vederea transformării acestuia în spațiu funcțional cu destinație de Centru Social",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261151",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-24-2026",
+   "path": "local/iasi/holboca/2026/24",
+   "short": "HCL Holboca nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 24/2026 privind actualizarea devizului general aferent obiectivului de investiției \"Alimentare cu gaze naturale a localității Valea Lungă din comuna Holboca, județul Iași\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261152",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-25-2026",
+   "path": "local/iasi/holboca/2026/25",
+   "short": "HCL Holboca nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 25/2026 privind actualizarea valorii investiției \"Construire pistă pentru biciclete în comuna Holboca, județul Iași\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261153",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-26-2026",
+   "path": "local/iasi/holboca/2026/26",
+   "short": "HCL Holboca nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 26/2026 privind aprobarea consumului pentru combustibil pentru autovehiculele, autoutilitare, utilaje si echipamente utilizate in cadrul primăriei comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261154",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-27-2026",
+   "path": "local/iasi/holboca/2026/27",
+   "short": "HCL Holboca nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 27/2026 privind aprobarea unor plăți din bugetul local",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261155",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-28-2026",
+   "path": "local/iasi/holboca/2026/28",
+   "short": "HCL Holboca nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 28/2026 privind aprobarea facilităților de la plata taxelor și impozitelor locale pentru anul 2026 și eliminarea unor taxe speciale",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261156",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-29-2026",
+   "path": "local/iasi/holboca/2026/29",
+   "short": "HCL Holboca nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 29/2026 privind interzicerea reclamelor stradale cu jocuri de noroc",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261157",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-3-2026",
+   "path": "local/iasi/holboca/2026/3",
+   "short": "HCL Holboca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 3/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252453",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-30-2026",
+   "path": "local/iasi/holboca/2026/30",
+   "short": "HCL Holboca nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 30/2026 privind transformarea postului contractual de consilier juridic in functie publica",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261158",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-31-2026",
+   "path": "local/iasi/holboca/2026/31",
+   "short": "HCL Holboca nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 31/2026 privind rectificarea erorii materiale și de drept strecurate în cuprinsul Hotararii Consiliului Local al comunei Holboca nr. 1 din 29 ianuarie 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261159",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-32-2026",
+   "path": "local/iasi/holboca/2026/32",
+   "short": "HCL Holboca nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 32/2026 privind interzicerea desfășurării activităților de jocuri de noroc tip slot machine în locații fizice pe raza unității administrativ-teritoriale a comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/261160",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/261160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-33-2026",
+   "path": "local/iasi/holboca/2026/33",
+   "short": "HCL Holboca nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 33/2026 privind aprobarea transpunerii în format GIS a PUG al comunei Holboca, judetul Iasi aprobat in anul 2025",
+   "url": "https://emol.ro/holboca-is/registru-hcl/262619",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/262619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-34-2026",
+   "path": "local/iasi/holboca/2026/34",
+   "short": "HCL Holboca nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 34/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Holboca, județul Iași, conform prevederilor OUG nr.7/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/262620",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/262620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-35-2026",
+   "path": "local/iasi/holboca/2026/35",
+   "short": "HCL Holboca nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 35/2026 privind introducerea in domeniul domeniului public al comunei Holboca a unor investitii finalizate",
+   "url": "https://emol.ro/holboca-is/registru-hcl/262621",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/262621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-36-2026",
+   "path": "local/iasi/holboca/2026/36",
+   "short": "HCL Holboca nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 36/2026 privind aprobare masuri privind investitiile nefinalizate",
+   "url": "https://emol.ro/holboca-is/registru-hcl/262622",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/262622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-37-2026",
+   "path": "local/iasi/holboca/2026/37",
+   "short": "HCL Holboca nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 37/2026 privind approbarea demarării procedurilor de înființare a unui centru de permanență pentru asigurarea continuității asistenței medicale primare în satul Holboca, comuna Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265755",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-38-2026",
+   "path": "local/iasi/holboca/2026/38",
+   "short": "HCL Holboca nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 38/2026 privind Regulament functionare statii electrice instalate pe domeniul public al comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265756",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-39-2026",
+   "path": "local/iasi/holboca/2026/39",
+   "short": "HCL Holboca nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 39/2026 privind aprobarea Planului Comitetului Local pentru Asigurarea Resurselor umane, materiale si financiare necesare gestionarii situațiilor de urgență în anul 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265757",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-4-2026",
+   "path": "local/iasi/holboca/2026/4",
+   "short": "HCL Holboca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 4/2026 privind aprobarea Strategiei anuale a achiziţiilor publice a Comunei Holboca pentru anul 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252454",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-40-2026",
+   "path": "local/iasi/holboca/2026/40",
+   "short": "HCL Holboca nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 40/2026 privind aprobarea devizului general actualizat dupa semnarea contractului de executie lucrari pentru obiectivul de investiții ”Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente și digitalizarea transportului urban la nivelul comunei Holboca, județul Iași”, aprobat pentru finanțare prin Programul Național de Redresare si Reziliență, Componenta 10 – Fondul Local, Investiția I.1.2 – Asigurarea infrastructurii epntru trasnportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local), precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265758",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-41-2026",
+   "path": "local/iasi/holboca/2026/41",
+   "short": "HCL Holboca nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 41/2026 privind aprobarea actualizarea devizului general pentru obiectivul de investiții „Capacitati de producere energie din surse regenerabile de energie, pentru consum propriu in comuna Holboca, Județul Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265759",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-42-2026",
+   "path": "local/iasi/holboca/2026/42",
+   "short": "HCL Holboca nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 42/2026 privind aprobarea actualizarea devizului general pentru obiectivul de investiții „Asfaltare strazi in satele Dancu si Holboca in comuna Holboca, Județul Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/265760",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/265760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-43-2026",
+   "path": "local/iasi/holboca/2026/43",
+   "short": "HCL Holboca nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 43/2026 privind scaderea din evidenta creanțelor fiscale",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267373",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-44-2026",
+   "path": "local/iasi/holboca/2026/44",
+   "short": "HCL Holboca nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 44/2026 privind asumarea contribuției la cheltuielile eligibile și neeligibile aferente proiectului „Extinderea transportului terestru prin dezvoltarea serviciilor de tren urban și metropolitan în Zona Metropolitană Iași”, precum și a costurilor operaționale ale serviciului de transport public feroviar metropolitan și de mentenanță a investițiilor, raportat la numărul locuitorilor din UAT traversate de trenul metropolitan",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267374",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-45-2026",
+   "path": "local/iasi/holboca/2026/45",
+   "short": "HCL Holboca nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 45/2026 privind neasumarea responsabilitatii derularii Programului pentru Scoli",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267375",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-46-2026",
+   "path": "local/iasi/holboca/2026/46",
+   "short": "HCL Holboca nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 46/2026 privind aprobarea bugetului local pentru venituri si cheltuieli al comunei Holboca pentru anul 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267376",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-47-2026",
+   "path": "local/iasi/holboca/2026/47",
+   "short": "HCL Holboca nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 47/2026 privind aprobare actualizare deviz general al obiectivului de investitii \"Construire spații de învățământ în localitatea Dancu, comuna Holboca, județul Iași\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267377",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-48-2026",
+   "path": "local/iasi/holboca/2026/48",
+   "short": "HCL Holboca nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 48/2026 privind acordare cadouri pentru copii ocazionate de ziua de 1 iunie",
+   "url": "https://emol.ro/holboca-is/registru-hcl/267378",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/267378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-49-2026",
+   "path": "local/iasi/holboca/2026/49",
+   "short": "HCL Holboca nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 49/2026 privind aprobarea Regulament privind eliberarea autorizației de funcționare pentru desfășurarea activităților comerciale în comuna Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273664",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-5-2026",
+   "path": "local/iasi/holboca/2026/5",
+   "short": "HCL Holboca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 5/2026 privind plan de ordine si siguranta publica a comunei Holboca 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252455",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-50-2026",
+   "path": "local/iasi/holboca/2026/50",
+   "short": "HCL Holboca nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 50/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273665",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-51-2026",
+   "path": "local/iasi/holboca/2026/51",
+   "short": "HCL Holboca nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 51/2026 privind aprobarea contractării şi garantării unei finanțări rambursabile interne în valoare de 15.514.673,73 lei",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273666",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-52-2026",
+   "path": "local/iasi/holboca/2026/52",
+   "short": "HCL Holboca nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 52/2026 privind actualizarea indicatorilor tehnico-economici actualizați si a devizului general actualizat pentru obiectivul de investiției \"Alimentare cu gaze naturale a localității Valea Lungă din comuna Holboca, județul Iași\", precum si a sumei reprezentand categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273667",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-53-2026",
+   "path": "local/iasi/holboca/2026/53",
+   "short": "HCL Holboca nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 53/2026 privind aprobarea devizului general actualizat pentru obiectivul de investiții ”Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente și digitalizarea transportului urban la nivelul comunei Holboca, județul Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273668",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-54-2026",
+   "path": "local/iasi/holboca/2026/54",
+   "short": "HCL Holboca nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 54/2026 privind aprobarea regulamentului privind modul de trecere a terenurilor proprietate privata cu destinatia de drum inchis in proprietatea UAT Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273669",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-55-2026",
+   "path": "local/iasi/holboca/2026/55",
+   "short": "HCL Holboca nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 55/2026 privind aprobarea Regulamentului privind organziarea si functionarea activitilor de jocuri de noroc pe teritoriul comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273670",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-56-2026",
+   "path": "local/iasi/holboca/2026/56",
+   "short": "HCL Holboca nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 56/2026 privind aprobarea actualizării devizului general pentru obiectivul de investiții „CONSTRUIRE PISTA PENTRU BICICLETE IN COMUNA HOLBOCA, JUDETUL IASI”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273671",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-57-2026",
+   "path": "local/iasi/holboca/2026/57",
+   "short": "HCL Holboca nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 57/2026 privind aprobarea procedurii de acordare, utilizare si justificare a sprijinului financiar acordat unitatilor de cult din bugetul comunei Holboca, judet Iasi",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273672",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-58-2026",
+   "path": "local/iasi/holboca/2026/58",
+   "short": "HCL Holboca nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 58/2026 privind aprobarea plății unei contribuții financiare către Asociația de Dezvoltare Intercomunitară Zona Metropolitană Iași pentru realizarea obiectivului de investiții „Construirea unui padoc metropolitan în Municipiul Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273673",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-59-2026",
+   "path": "local/iasi/holboca/2026/59",
+   "short": "HCL Holboca nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 59/2026 privind președintele de sedinta pentru perioada 1 iunie 2026 - 31 august 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273674",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-60-2026",
+   "path": "local/iasi/holboca/2026/60",
+   "short": "HCL Holboca nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 60/2026 privind aprobarea modificării și completării Hotărârii de Consiliu Local al comunei Holboca nr. 35 din 2026 privind introducerea în domeniului public al comunei Holboca a unor investiții finalizate",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273675",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-61-2026",
+   "path": "local/iasi/holboca/2026/61",
+   "short": "HCL Holboca nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 61/2026 privind aprobarea bugetului local al comunei Holboca modificat",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273676",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-62-2026",
+   "path": "local/iasi/holboca/2026/62",
+   "short": "HCL Holboca nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 62/2026 privind actualizare stat de funcții al aparatului de specialitate al primarului comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273677",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-63-2026",
+   "path": "local/iasi/holboca/2026/63",
+   "short": "HCL Holboca nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 63/2026 privind aprobarea completării nomenclatorului stradal cu un număr de 40 străzi",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273977",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-64-2026",
+   "path": "local/iasi/holboca/2026/64",
+   "short": "HCL Holboca nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 64/2026 privind aprobarea indicatorii finali CREȘTEREA EFICIENȚEI ENERGETICE LA ȘCOALA DIN SAT HOLBOCA, COMUNA HOLBOCA, JUDEȚUL IAȘI şi a devizului general actualizat la finalizarea proiectului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273978",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-65-2026",
+   "path": "local/iasi/holboca/2026/65",
+   "short": "HCL Holboca nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 65/2026 privind aprobarea indicatorii finali “REABILITAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE MULTIFAMILIALE DIN CADRUL COMUNEI HOLBOCA, BLOCURILE C1, D2” şi a devizului general actualizat la finalizarea proiectului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/273979",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/273979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-66-2026",
+   "path": "local/iasi/holboca/2026/66",
+   "short": "HCL Holboca nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 66/2026 privind modificare bugetului local al comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276028",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-67-2026",
+   "path": "local/iasi/holboca/2026/67",
+   "short": "HCL Holboca nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 67/2026 privind aprobarea implementarii proiectului \"Sistem informatic pentru digitalizarea activitatii primăriei Comunei Holboca, judetul Iasi\" prin GAL",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276029",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-7-2026",
+   "path": "local/iasi/holboca/2026/7",
+   "short": "HCL Holboca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 7/2026 privind aprobarea investitiei \"Asfaltare strazi in satele Dancu si Holboca, comuna Holboca, judetul Iasi\" si a indicatorilor tehnico economici a acesteia",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252457",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-70-2026",
+   "path": "local/iasi/holboca/2026/70",
+   "short": "HCL Holboca nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 70/2026 privind implementarea proiectului „Achizitie echipament pentru Serviciul Public de Gospodarire Comunala Holboca, judetul Iasi”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276032",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-71-2026",
+   "path": "local/iasi/holboca/2026/71",
+   "short": "HCL Holboca nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 71/2026 privind aprobarea indicatorii finali “EXTINDERE RETEA DE ALIMENTARE CU APA SI RETEA CANALIZARE IN SATELE HOLBOCA SI DANCU, COMUNA HOLBOCA, JUDETUL IASI” şi a devizului general actualizat la finalizarea proiectului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276033",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-72-2026",
+   "path": "local/iasi/holboca/2026/72",
+   "short": "HCL Holboca nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 72/2026 privind aprobarea indicatorii finali “REABILITAREA ENERGETICĂ A CLĂDIRILOR REZIDENȚIALE MULTIFAMILIALE DIN CADRUL COMUNEI HOLBOCA, BLOCURILE A1, A2, A3, A4” şi a devizului general actualizat la finalizarea proiectului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276034",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-73-2026",
+   "path": "local/iasi/holboca/2026/73",
+   "short": "HCL Holboca nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 73/2026 privind aprobarea organizării Taberei de vară „Vacanță în comunitate” – ediția 2026, în parteneriat între UAT Comuna Holboca și parohiile de pe raza unității administrativ-teritoriale",
+   "url": "https://emol.ro/holboca-is/registru-hcl/276035",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/276035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-74-2026",
+   "path": "local/iasi/holboca/2026/74",
+   "short": "HCL Holboca nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 74/2026 privind aprobarea introducerii în domeniului public al comunei Holboca a unor bunuri imobile ca urmare a finalizarii unei investiții",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278732",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-75-2026",
+   "path": "local/iasi/holboca/2026/75",
+   "short": "HCL Holboca nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 75/2026 privind aprobarea indicatorilor tehnico-economici actualizaţi şi a cheltuielilor legate de proiect pentru proiectul ,,Înființarea și dotarea unui centru de colectare prin aport voluntar în comuna Holboca, județul Iași -Runda I” aprobat pentru finanțare prin Planului Național de Redresare și Reziliență al României, Componenta C3: Managementul Deșeurilor, Investiția I1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestiția I1.a ,,Înființare de centre de colectare prin aport voluntar”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278733",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-76-2026",
+   "path": "local/iasi/holboca/2026/76",
+   "short": "HCL Holboca nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 76/2026 privind aprobarea introducerII în domeniul public a obiectivului de investiții CONSTRUIRE COMPLEX SPORTIV, SAT HOLBOCA, COMUNA HOLBOCA, JUDETUL IASI",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278734",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-77-2026",
+   "path": "local/iasi/holboca/2026/77",
+   "short": "HCL Holboca nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 77/2026 privind aprobarea actualizarii devizului investitiei \"Construire spații de învățământ în sat Dancu, comuna Holboca\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278735",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-78-2026",
+   "path": "local/iasi/holboca/2026/78",
+   "short": "HCL Holboca nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 78/2026 privind aprobarea darea în folosință a mobilierului școlar și a materialelor didactice din proiectul \"Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar\" cu finanțare prin Planul Național de Reformă și Reziliență Componenta C15",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278736",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-79-2026",
+   "path": "local/iasi/holboca/2026/79",
+   "short": "HCL Holboca nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 79/2026 privind aprobarea solicitării transferului dreptului de proprietate de la UAT Județul Iași către UAT Comuna Holboca asupra bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”, cod F-PNRR-Dotări-2023-0426, finanțat prin Planul Național de Redresare și Reziliență – Componenta C15 – Educație",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278737",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-8-2026",
+   "path": "local/iasi/holboca/2026/8",
+   "short": "HCL Holboca nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 8/2026 privind aprobarea modificării indicatorilor tehnico-economici pentru investitia ”Construire Complex Sportiv, sat Holboca, comuna Holboca, județ Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252458",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-80-2026",
+   "path": "local/iasi/holboca/2026/80",
+   "short": "HCL Holboca nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 80/2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/278738",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/278738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-81-2026",
+   "path": "local/iasi/holboca/2026/81",
+   "short": "HCL Holboca nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 81/2026 privind modificare bugetului local al comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/283035",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/283035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-83-2026",
+   "path": "local/iasi/holboca/2026/83",
+   "short": "HCL Holboca nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 83/2026 privind aprobarea indicatorii finali ,Reabilitarea energetica a cladirilor rezidentiale multifamiliale din cadrul comunei Holboca, blocurile A5, A6, A8, A10” şi a devizului general actualizat la finalizarea proiectului",
+   "url": "https://emol.ro/holboca-is/registru-hcl/283037",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/283037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-84-2026",
+   "path": "local/iasi/holboca/2026/84",
+   "short": "HCL Holboca nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 84/2026 privind aprobarea devizului general actualizat a obiectivului de investiții „DESFIINȚARE CORPURI DE CLĂDIRE C1 ȘI C2 CONSTRUIRE CLĂDIRE CU FUNCȚIUNE ȘCOALĂ”, finanțat prin Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/283038",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/283038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-85-2026",
+   "path": "local/iasi/holboca/2026/85",
+   "short": "HCL Holboca nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 85/2026 privind aprobarea preluării, din domeniul privat al Unității Administrativ Teritoriale Județul Iași în domeniul privat al UAT Comuna Holboca a bunurilor mobile achiziţionate prin Proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie precum și transmiterea acestora cu titlu gratuit, din domeniul privat al Unității Administrativ Teritoriale Comuna Holboca în proprietatea unităților de învățământ preuniversitar din subordinea Consiliului Local al Comunei Holboca,",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286229",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-86-2026",
+   "path": "local/iasi/holboca/2026/86",
+   "short": "HCL Holboca nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 86/2026 privind aprobarea transmiterii în administrarea unității de învățământ a unui microbuz școlar aflat în proprietatea Comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286230",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-87-2026",
+   "path": "local/iasi/holboca/2026/87",
+   "short": "HCL Holboca nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 87/2026 privind aprobarea introducerII în domeniul public a obiectivului de investiții INFIINTAREA SI DOTAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA HOLBOCA, JUDETUL IASI",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286231",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-88-2026",
+   "path": "local/iasi/holboca/2026/88",
+   "short": "HCL Holboca nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 88/2026 privind aprobarea introducerii în domeniul public a obiectivului de investiții \"Extindere rețea de alimentare cu apă și rețea de canalizare în satele Holboca și Dancu, comuna Holboca, județul Iași\"",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286232",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-89-2026",
+   "path": "local/iasi/holboca/2026/89",
+   "short": "HCL Holboca nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 89/2026 privind însușirea Raportului cercetării administrative efectuate ca urmare a Procesului-verbal de constatare și sancționare a contravenției seria GNM nr. 001076/29.06.2026 și aprobarea Planului de măsuri pentru îmbunătățirea gradului de pregătire pentru reutilizare și reciclare a deșeurilor municipale la nivelul Comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286233",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-9-2026",
+   "path": "local/iasi/holboca/2026/9",
+   "short": "HCL Holboca nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 9/2026 privind aprobarea structurii aparatului de specialitate al primarului comunei Holboca, județul Iași",
+   "url": "https://emol.ro/holboca-is/registru-hcl/252958",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/252958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-90-2026",
+   "path": "local/iasi/holboca/2026/90",
+   "short": "HCL Holboca nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 90/2026 privind președintele de sedinta pentru perioada 1 septembrie 2026 - 30 noiembrie 2026",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286234",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-91-2026",
+   "path": "local/iasi/holboca/2026/91",
+   "short": "HCL Holboca nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 91/2026 privind aprobarea devizului general actualizat în urma Dispoziției de Șantier nr. 1 pentru obiectivul de investiții ”Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente și digitalizarea transportului urban la nivelul comunei Holboca, județul Iași”",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286235",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--holboca-92-2026",
+   "path": "local/iasi/holboca/2026/92",
+   "short": "HCL Holboca nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Holboca nr. 92/2026 privind actualizare stat de funcții al aparatului de specialitate al primarului comunei Holboca",
+   "url": "https://emol.ro/holboca-is/registru-hcl/286236",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/holboca-is/registru-hcl/286236",
      "sha256": null
     }
    ]

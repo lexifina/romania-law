@@ -3,6 +3,156 @@
  "shard": "local/iasi/madarjac/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--madarjac-1-2023",
+   "path": "local/iasi/madarjac/2023/1",
+   "short": "HCL Mădârjac nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 1/2023 privind acoperirea deficitului secțiunii de dezvoltare în sumă de 244.973,52 lei din excedentul anilor precedenți",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95088",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-2-2023",
+   "path": "local/iasi/madarjac/2023/2",
+   "short": "HCL Mădârjac nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 2/2023 privind organizarea rețelei școlare de învățământ de stat de pe raza comunei Mădârjac pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95089",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-3-2023",
+   "path": "local/iasi/madarjac/2023/3",
+   "short": "HCL Mădârjac nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 3/2023 privind planul de achiziție publică pentru anul 2023",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95090",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-4-2023",
+   "path": "local/iasi/madarjac/2023/4",
+   "short": "HCL Mădârjac nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 4/2023 privind aprobarea planului de acțiuni de interes local pentru anul școlar 2023 în conformitate cu dispozițiile legii nr. 416/2001",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95091",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-45-2023",
+   "path": "local/iasi/madarjac/2023/45",
+   "short": "HCL Mădârjac nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 45/2023 privind actualizarea Studiului de Fezabilitate privind modernizarea drumurilor de interes local (cu excepția celor cuprinse în Programul Național ,,Anghel Saligny”)",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/114347",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/114347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-49-2023",
+   "path": "local/iasi/madarjac/2023/49",
+   "short": "HCL Mădârjac nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 49/2023 privind întocmirea Proiectului Tehnic pentru lucrări de modernizare drumuri de interes local de pe raza Comunei Mădârjac prin Programul Național ,,Anghel Saligny”",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/114455",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/114455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-5-2023",
+   "path": "local/iasi/madarjac/2023/5",
+   "short": "HCL Mădârjac nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 5/2023 privind organizarea activității de Registru agricol la primaria Comunei Mădârjac, conform prevederilor O.G 28/2008 și H.G nr. 985/2019 și a ordinului MADR nr. 25/2020",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95092",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-53-2023",
+   "path": "local/iasi/madarjac/2023/53",
+   "short": "HCL Mădârjac nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 53/2023 privind implementarea proiectului ,,EXTINDEREA PROCESULUI DE DOTARE A SERVICIULUI DE GOSPODĂRIRE COMUNALĂ DIN COMUNA MĂDÂRJAC JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/126261",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/126261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-6-2023",
+   "path": "local/iasi/madarjac/2023/6",
+   "short": "HCL Mădârjac nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 6/2023 privind aprobarea Actului Adițional nr.1 la Actul Constitutiv și aprobarea Actului Adițional nr.1 la Statautul Asociației Regionale a Serviciilor de Apă Canal Iasi-ARSACIS",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95093",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-60-2023",
+   "path": "local/iasi/madarjac/2023/60",
+   "short": "HCL Mădârjac nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 60/2023 privind stabilirea unei taxe speciale, în valoare de 0,5 lei / pagină copiată la xeroxul din dotarea Primăriei Mădârjac",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/127227",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/127227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--madarjac-64-2023",
    "path": "local/iasi/madarjac/2023/64",
    "short": "HCL Mădârjac nr. 64/2023",
@@ -88,6 +238,21 @@
      "from": "2024-02-13",
      "units": 1,
      "source_url": "https://emol.ro/madarjac-is/registru-hcl/143003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--madarjac-7-2023",
+   "path": "local/iasi/madarjac/2023/7",
+   "short": "HCL Mădârjac nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mădârjac nr. 7/2023 privind întreprinderea măsurilor necesare în vederea accesarii apelului PNRR Componența C15 educație, intitulată Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe adresei primite de la Școala Gimnazială nr.17 din 16.01.2023 și înregistrată la primăria Mădârjac cu nr. 137 din 16.01.2023 care face parte integrantă din prezenta hotărâre",
+   "url": "https://emol.ro/madarjac-is/registru-hcl/95094",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/madarjac-is/registru-hcl/95094",
      "sha256": null
     }
    ]

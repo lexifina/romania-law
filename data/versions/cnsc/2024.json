@@ -213,6 +213,66 @@
    ]
   },
   {
+   "slug": "cnsc-decizie-2024-434",
+   "path": "cnsc/decizie/2024/434",
+   "short": "Decizia CNSC nr. 434/C11/4220 din 20.02.2024",
+   "title": "Decizia CNSC nr. 434/C11/4220 din 20.02.2024: contestația COMPLET INSTAL CONSTRUCT SRL în contradictoriu cu COMUNA HIDISELU DE SUS",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyMGIzMWEtMDhlYS00NWYzLWI2OWItZDJiN2Q3ODA0NDQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzQucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjAyMGIzMWEtMDhlYS00NWYzLWI2OWItZDJiN2Q3ODA0NDQ3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MzQucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "e3db3f733361aea2f44dcd81319ded6269098f3e388d39da199b288b3903648d"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-562",
+   "path": "cnsc/decizie/2024/562",
+   "short": "Decizia CNSC nr. 562/C1/358 din 04.03.2024",
+   "title": "Decizia CNSC nr. 562/C1/358 din 04.03.2024: contestația YZT ROAD SRL, KEYBOARD SRL în contradictoriu cu COMUNA JARISTEA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTA0NWI5YmEtZjk1Zi00ZmZlLTgxYTYtY2I2ZGQ4OGU0MmQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjIucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTA0NWI5YmEtZjk1Zi00ZmZlLTgxYTYtY2I2ZGQ4OGU0MmQz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NjIucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "7633c88c4d099343edde3f27a5b304af1353c4cadbf00692720104808220b033"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-579",
+   "path": "cnsc/decizie/2024/579",
+   "short": "Decizia CNSC nr. 579/C2/274 din 06.03.2024",
+   "title": "Decizia CNSC nr. 579/C2/274 din 06.03.2024: contestația BRENNEKA INSTALL SRL în contradictoriu cu MUNICIPIUL BRĂILA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGNkMzAzNDMtMDc2Yi00NTFhLWFkMTAtZTQyNDIxZDQzZWNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzkucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGNkMzAzNDMtMDc2Yi00NTFhLWFkMTAtZTQyNDIxZDQzZWNj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81NzkucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "55b34b08768108637c32ee12b6afa8d5e58321e0517e9109c7ecc1b86a1a38fc"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-651",
+   "path": "cnsc/decizie/2024/651",
+   "short": "Decizia CNSC nr. 651/C1/698 din 12.03.2024",
+   "title": "Decizia CNSC nr. 651/C1/698 din 12.03.2024: contestația HIDRO SALT B-92 SRL în contradictoriu cu ORAȘUL NEHOIU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTZjNjg5ZTktN2M4NC00ZGRmLTkwNDktMGM3YTU4NTY3YWJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTEucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTZjNjg5ZTktN2M4NC00ZGRmLTkwNDktMGM3YTU4NTY3YWJj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV82NTEucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "ea6e5dd5eec80229f062b1e12a1c9b3663836df30f2eab9acaf7bd5995258fd1"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2024-720",
    "path": "cnsc/decizie/2024/720",
    "short": "Decizia CNSC nr. 720/C1/487 din 18.03.2024",

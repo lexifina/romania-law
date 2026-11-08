@@ -3,6 +3,336 @@
  "shard": "local/iasi/fantanele/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--fantanele-11-2026",
+   "path": "local/iasi/fantanele/2026/11",
+   "short": "HCL Fântânele nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 11/2026 privind aprobarea ordinii de zi al ședinței ordinare a Consiliului Local - Fântânele, din data de 27.02.2026",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/256835",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/256835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-12-2026",
+   "path": "local/iasi/fantanele/2026/12",
+   "short": "HCL Fântânele nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 12/2026 privind aprobarea indicatorilor tehnico-economici pentru elaborarea/actualizarea Planului Urbanistic General al comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/256839",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/256839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-14-2026",
+   "path": "local/iasi/fantanele/2026/14",
+   "short": "HCL Fântânele nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 14/2026 privind abrogarea Hotărârii Consiliului Local nr.76 din 28.09.2023, privind creșterea gradului de transparență al administrației locale prin înregistrarea audio-video și difuzarea în direct a ședințelor Consiliului Local Fântânele",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/256842",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/256842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-15-2026",
+   "path": "local/iasi/fantanele/2026/15",
+   "short": "HCL Fântânele nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 15/2026 privind transfer excedent bugetar",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/256843",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/256843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-16-2026",
+   "path": "local/iasi/fantanele/2026/16",
+   "short": "HCL Fântânele nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 16/2026 privind aprobarea execuției bugetare pe secțiunea de dezvoltare ale bugetului local al comunei pe anul 2025",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/256844",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/256844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-19-2026",
+   "path": "local/iasi/fantanele/2026/19",
+   "short": "HCL Fântânele nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 19/2026 privind aprobarea participării Comunei Fântânele în cadrul Anunțului de lansare a Asociației ''Grupul de Acțiune Locală Microregiunea Belcești-Focuri'' prin Intervenția 3 Sesiunea 2 lansată ''Susținerea investițiilor publice locale și a serviciilor comunitare''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/257584",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/257584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-2-2026",
+   "path": "local/iasi/fantanele/2026/2",
+   "short": "HCL Fântânele nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 2/2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare din excedentul bugetului local în sumă de 1.032.783,55 lei",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250942",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-22-2026",
+   "path": "local/iasi/fantanele/2026/22",
+   "short": "HCL Fântânele nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 22/2026 privind aprobarea actualizării indicatorilor tehnico-economici, a cheltuielilor și a devizelor pentru proiectul ''Construire Corp nou la Școala Profesională din comuna Fântânele, județul Iași'', conform prevederilor legislative în vigoare referitoare la actualizarea cotelor TVA",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/260676",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/260676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-27-2026",
+   "path": "local/iasi/fantanele/2026/27",
+   "short": "HCL Fântânele nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 27/2026 privind reorganizarea aparatului de specialitate al primarului comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/264360",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/264360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-28-2026",
+   "path": "local/iasi/fantanele/2026/28",
+   "short": "HCL Fântânele nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 28/2026 privind stabilirea și aprobarea taxei de închiriere a utilajului - buldoexcavator, aflat în patrimoniul comunei Fântânele, județul Iași",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/264362",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/264362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-29-2026",
+   "path": "local/iasi/fantanele/2026/29",
+   "short": "HCL Fântânele nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 29/2026 privind implementarea proiectului ''Construire parc de joacă pentru tineret''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/264367",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/264367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-3-2026",
+   "path": "local/iasi/fantanele/2026/3",
+   "short": "HCL Fântânele nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 3/2026 privind aprobarea Planului de acțiuni și de lucrări de interes local pentru anul 2026 ce se vor efectua de beneficiarii Legii nr. 196/2016 privind Venitul minim de incluziune",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250944",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-30-2026",
+   "path": "local/iasi/fantanele/2026/30",
+   "short": "HCL Fântânele nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 30/2026 privind transfer excedent bugetar",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/264368",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/264368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-32-2026",
+   "path": "local/iasi/fantanele/2026/32",
+   "short": "HCL Fântânele nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 32/2026 privind aprobarea bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2026 și estimările pentru anii 2027-2029",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/268741",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/268741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-33-2026",
+   "path": "local/iasi/fantanele/2026/33",
+   "short": "HCL Fântânele nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 33/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, în cadrul Programului pentru școli al României, pentru anul 2026-2027",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/268743",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/268743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-35-2026",
+   "path": "local/iasi/fantanele/2026/35",
+   "short": "HCL Fântânele nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 35/2026 privind stabilirea datelor de ședință pentru trimestrul III Iulie-August-Septembrie 2026 și stabilirea președintelui de ședință",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/276838",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/276838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-36-2026",
+   "path": "local/iasi/fantanele/2026/36",
+   "short": "HCL Fântânele nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 36/2026 privind aprobarea modificării bugetului general de venituri și cheltuieli al comunei Fântânele pentru anul 2026, trimestrul II",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/276845",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/276845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-37-2026",
+   "path": "local/iasi/fantanele/2026/37",
+   "short": "HCL Fântânele nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 37/2026 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici la faza PTH, a devizului general și a cheltuielilor de realizare a proiectului de investiții ''Sistem integrat de colectare și valorificare a gunoiului de grajd în comuna Fântânele, județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/276846",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/276846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-39-2026",
+   "path": "local/iasi/fantanele/2026/39",
+   "short": "HCL Fântânele nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 39/2026 privind aprobarea solicitării transferului proprietății de la UAT Județul Iași - Consiliul Județean Iași către UAT Comuna Fântânele a bunurilor achiziționate prin proiectul ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniveristar și a unităților conexe din Județul Iași'' cod - F-PNRR - Dotări 2023-0426, finanțat prin PNRR - Competența C15 Educație",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/279236",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/279236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-4-2026",
+   "path": "local/iasi/fantanele/2026/4",
+   "short": "HCL Fântânele nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 4/2026 privind darea în folosință gratuită, către Școala Profesională Fântânele, din comuna Fântânele, jud. Iași, a bunurilor achiziționate prin proiectul ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași'', cod - F-PNRR - Dotări - 2023-0426, finanțat prin Planul Național de Redresare și Reziliență - Componenta C15 Educație, pentru perioada de implementare a Proiectului",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250946",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-40-2026",
+   "path": "local/iasi/fantanele/2026/40",
+   "short": "HCL Fântânele nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 40/2026 privind darea în folosință gratuită, către Școala Profesională Fântânele, din comuna Fântânele, județul Iași, a bunurilor achiziționate prin proiectul ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași'', cod F-PNRR - Dotări - 2023-0426, finanțat prin Planul Național de Redresare și reziliență - Componenta C15 Educație, pentru perioada de implementare a proiectului",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/279237",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/279237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-41-2026",
+   "path": "local/iasi/fantanele/2026/41",
+   "short": "HCL Fântânele nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 41/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Fântânele din data de 30.07.2026",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/281867",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/281867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-42-2026",
    "path": "local/iasi/fantanele/2026/42",
    "short": "HCL Fântânele nr. 42/2026",
@@ -273,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--fantanele-6-2026",
+   "path": "local/iasi/fantanele/2026/6",
+   "short": "HCL Fântânele nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 6/2026 privind aprobarea utilizării domeniului public pentru implementarea obiectivului de investiții 'Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote și Fântânele, din județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250948",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250948",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--fantanele-60-2026",
    "path": "local/iasi/fantanele/2026/60",
    "short": "HCL Fântânele nr. 60/2026",
@@ -298,6 +643,36 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/fantanele-is/registru-hcl/296150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-8-2026",
+   "path": "local/iasi/fantanele/2026/8",
+   "short": "HCL Fântânele nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 8/2026 privind aprobarea Studiului de fezabilitate și a actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție ''Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote și Fântânele din județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250957",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--fantanele-9-2026",
+   "path": "local/iasi/fantanele/2026/9",
+   "short": "HCL Fântânele nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fântânele nr. 9/2026 privind aprobarea inițierii procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comuna Fântânele, județul Iași în cadrul proiectului ''Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote și Fântânele din județul Iași''",
+   "url": "https://emol.ro/fantanele-is/registru-hcl/250958",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fantanele-is/registru-hcl/250958",
      "sha256": null
     }
    ]

@@ -3,6 +3,111 @@
  "shard": "local/iasi/lungani/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--lungani-1-2024",
+   "path": "local/iasi/lungani/2024/1",
+   "short": "HCL Lungani nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 1/2024 privind aprobarea propunerii rețelei școlare ce va funcționa în comuna Lungani în anul școlar 2024-2025",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172309",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-10-2024",
+   "path": "local/iasi/lungani/2024/10",
+   "short": "HCL Lungani nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 10/2024 privind aprobarea indicatorilor tehnico-economici actualizați la faza PTH și a cheltuielilor legate de proiect pentru obiectivul ,,Dezvoltarea infrastructurii pentru biciclete în comuna Lungani, județul Iași”",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172331",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-12-2024",
+   "path": "local/iasi/lungani/2024/12",
+   "short": "HCL Lungani nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 12/2024 privind constatarea și îndreptarea erorii de înregistrare a hotărârilor consiliului local Lungani, adoptate în ședințele din datele de 08.02.2024 și 23.02.2024",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172337",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-16-2024",
+   "path": "local/iasi/lungani/2024/16",
+   "short": "HCL Lungani nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 16/2024 privind alegerea președintelui de ședință pentru perioada lunilor mai-iulie",
+   "url": "https://emol.ro/lungani-is/registru-hcl/178937",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/178937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-2-2024",
+   "path": "local/iasi/lungani/2024/2",
+   "short": "HCL Lungani nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 2/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 5",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172310",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-21-2024",
+   "path": "local/iasi/lungani/2024/21",
+   "short": "HCL Lungani nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 21/2024 privind aprobarea documentației de atribuire pentru delegare ADIS",
+   "url": "https://emol.ro/lungani-is/registru-hcl/179126",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/179126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-26-2024",
+   "path": "local/iasi/lungani/2024/26",
+   "short": "HCL Lungani nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 26/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/lungani-is/registru-hcl/180117",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/180117",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--lungani-27-2024",
    "path": "local/iasi/lungani/2024/27",
    "short": "HCL Lungani nr. 27/2024",
@@ -43,6 +148,21 @@
      "from": "2024-08-27",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/180430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-3-2024",
+   "path": "local/iasi/lungani/2024/3",
+   "short": "HCL Lungani nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 3/2024 privind ajustarea prețului pentru apa industrială pentru întreaga arie de operare a APAVITAL S.A",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172311",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172311",
      "sha256": null
     }
    ]
@@ -298,6 +418,51 @@
      "from": "2024-12-05",
      "units": 1,
      "source_url": "https://emol.ro/lungani-is/registru-hcl/190289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-5-2024",
+   "path": "local/iasi/lungani/2024/5",
+   "short": "HCL Lungani nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 5/2024 privind alegerea președintelui de ședință pentru perioada februarie - aprilie 2024",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172314",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-7-2024",
+   "path": "local/iasi/lungani/2024/7",
+   "short": "HCL Lungani nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 7/2024 privind aprobarea bugetului local al comunei Lungani pentru anul 2024",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172316",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--lungani-8-2024",
+   "path": "local/iasi/lungani/2024/8",
+   "short": "HCL Lungani nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lungani nr. 8/2024 privind aprobarea valorii rezultate în urma reevaluării activelor fixe de natura terenurilor și construcțiilor aflate în domeniul public și privat al comunei Lungani",
+   "url": "https://emol.ro/lungani-is/registru-hcl/172319",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lungani-is/registru-hcl/172319",
      "sha256": null
     }
    ]

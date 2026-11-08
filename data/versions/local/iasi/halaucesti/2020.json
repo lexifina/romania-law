@@ -3,6 +3,156 @@
  "shard": "local/iasi/halaucesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--halaucesti-15-2020",
+   "path": "local/iasi/halaucesti/2020/15",
+   "short": "HCL Hălăucești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 15/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Hălăucești pe anul 2020 prin virarea de credite",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/6787",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/6787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-18-2020",
+   "path": "local/iasi/halaucesti/2020/18",
+   "short": "HCL Hălăucești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 18/2020 privind modificarea bugetului de venituri și cheltuieli al comunei Hălăucești pe anul 2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/6791",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/6791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-26-2020",
+   "path": "local/iasi/halaucesti/2020/26",
+   "short": "HCL Hălăucești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 26/2020 privind redistribuirea de fonduri între proiectele de investiții înscrise bugetul de venituri si cheltuieli al comunei Hălăucești pe anul 2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/7277",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/7277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-31-2020",
+   "path": "local/iasi/halaucesti/2020/31",
+   "short": "HCL Hălăucești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 31/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/7282",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/7282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-34-2020",
+   "path": "local/iasi/halaucesti/2020/34",
+   "short": "HCL Hălăucești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 34/2020 privind aprobarea indicatorilor tehnico - economici ai obiectivului de investiții: „MODERNIZAREA PRIN ASFALTARE DRUMURI SĂTEŞTI ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/7315",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/7315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-35-2020",
+   "path": "local/iasi/halaucesti/2020/35",
+   "short": "HCL Hălăucești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 35/2020 privind aprobarea Raportului de execuţie bugetara a veniturilor şi cheltuielilor la data de 30.06.2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/8308",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/8308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-36-2020",
+   "path": "local/iasi/halaucesti/2020/36",
+   "short": "HCL Hălăucești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 36/2020 privind rectificarea bugetului de venituri si cheltuieli al comunei Hălăucești pe anul 2020 prin suplimentarea de credite",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/8309",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/8309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-37-2020",
+   "path": "local/iasi/halaucesti/2020/37",
+   "short": "HCL Hălăucești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 37/2020 privindneasumarea responsabilităţii organizării şi derulării procedurii de atribuire a contractului/acordului-cadru pentru achiziţia publică a produselor aferente Programului pentru şcoli al României în comuna Hălăucești, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/8310",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/8310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-39-2020",
+   "path": "local/iasi/halaucesti/2020/39",
+   "short": "HCL Hălăucești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 39/2020 privind validarea modificarii bugetului de venituri si cheltuieli al comunei Hălăuceşti pe anul 2020 , aprobat prin Dispoziţia nr. 199 din 04.09.2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/10174",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/10174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-40-2020",
+   "path": "local/iasi/halaucesti/2020/40",
+   "short": "HCL Hălăucești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 40/2020 privind modificarea bugetului de venituri si cheltuieli pe anul 2020 prin virarea de credite bugetare",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/10175",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/10175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-41-2020",
    "path": "local/iasi/halaucesti/2020/41",
    "short": "HCL Hălăucești nr. 41/2020",
@@ -133,6 +283,21 @@
      "from": "2020-11-21",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-5-2020",
+   "path": "local/iasi/halaucesti/2020/5",
+   "short": "HCL Hălăucești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 5/2020 privind aprobarea categoriilor de lucrări de interes local propuse a se realiza cu persoanele sancționate cu - prestarea unei munci în folosul comunității - în anul 2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/6773",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/6773",
      "sha256": null
     }
    ]
@@ -288,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--halaucesti-6-2020",
+   "path": "local/iasi/halaucesti/2020/6",
+   "short": "HCL Hălăucești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 6/2020 privind aprobarea bugetului local de venituri și cheltuieli al comunei Hălăucești pe anul 2020 precum și pentru activitățile extrabugetare - sursa E și estimările pe anii 2021-2023",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/6774",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/6774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-60-2020",
    "path": "local/iasi/halaucesti/2020/60",
    "short": "HCL Hălăucești nr. 60/2020",
@@ -298,6 +478,21 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-7-2020",
+   "path": "local/iasi/halaucesti/2020/7",
+   "short": "HCL Hălăucești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 7/2020 privind aprobarea - Programului anual de achiziții publice al comunei Hălăucești pentru anul 2020",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/6775",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/6775",
      "sha256": null
     }
    ]

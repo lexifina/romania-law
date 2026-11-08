@@ -3,6 +3,216 @@
  "shard": "local/iasi/halaucesti/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--halaucesti-13-2021",
+   "path": "local/iasi/halaucesti/2021/13",
+   "short": "HCL Hălăucești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 13/2021 privind implementarea proiectului ” Execuție platforme colectare selectivă deșeuri” în comuna Hălăucești, județul Iași",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33367",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-15-2021",
+   "path": "local/iasi/halaucesti/2021/15",
+   "short": "HCL Hălăucești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 15/2021 privind implementarea proiectului ”Modernizare și eficientizarea sistemului de iluminat public stradal din comuna Hălăucești, județul Iași”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33369",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-16-2021",
+   "path": "local/iasi/halaucesti/2021/16",
+   "short": "HCL Hălăucești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 16/2021 privind implementarea proiectului ”Amenajare parcare centru-blocuri, sat Hălăucești, comuna Hălăucești, județul Iași”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33370",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-17-2021",
+   "path": "local/iasi/halaucesti/2021/17",
+   "short": "HCL Hălăucești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 17/2021 privind implementarea proiectului ”Amenajare prin asfaltare drumuri sătești în comuna Hălăucești, județul Iași”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33371",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-18-2021",
+   "path": "local/iasi/halaucesti/2021/18",
+   "short": "HCL Hălăucești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 18/2021 privind implementarea proiectului ”Amenajare scurgere ape (șanțuri, rigole și trotuare) în satele Luncași și Halaucești, comuna Hălăucești, județul Iași” în cadrul Programului Național de Construcții de interes public sau social, subprogramul ”Drumuri de interes local și drumuri de interes județean”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33372",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-19-2021",
+   "path": "local/iasi/halaucesti/2021/19",
+   "short": "HCL Hălăucești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 19/2021 privind implementarea proiectului ”Achiziție: tablete+abonamente internet 24 luni silaptop-uri pentru desfășurarea activităților de învățare online în comuna Hălăucești, județul Iași aferent Programului Operațional Competitivitate-Axă Prioritară 2 ”Tehnologia informației și comunicațiilor (TIC) pentru o economie digitală competitivă”, Obiectivului Specific 2.4.-Creșterea gradului de utilizare a internetului",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33373",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-21-2021",
+   "path": "local/iasi/halaucesti/2021/21",
+   "short": "HCL Hălăucești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 21/2021 privind implementarea proiectului \"AMENAJARE ALEE PIETONALĂ ÎN TREPTE, ZONA BIRTUM-PETRILA,SAT HĂLĂUCEȘTI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33375",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-22-2021",
+   "path": "local/iasi/halaucesti/2021/22",
+   "short": "HCL Hălăucești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 22/2021 privind implementarea proiectului ACHIZITIE : UTILAJ DE SPĂLARE ȘI STROPIRE CAROSABIL",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33376",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-23-2021",
+   "path": "local/iasi/halaucesti/2021/23",
+   "short": "HCL Hălăucești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 23/2021 privind implementarea proiectului ACHIZITIE :TOCĂTOR DE CRENGI ȘI RESTURI VEGETALE",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33377",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-31-2021",
+   "path": "local/iasi/halaucesti/2021/31",
+   "short": "HCL Hălăucești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 31/2021 privind aprobarea PLANULUI DE AMENAJAMENT PASTORAL AL COMUNEI HĂLĂUCEȘTI Consiliul local al comunei Hălăuceşti, judeţul Iaşi;",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33386",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-34-2021",
+   "path": "local/iasi/halaucesti/2021/34",
+   "short": "HCL Hălăucești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 34/2021 privind modificarea denumirii proiectului \"AMENAJARE PRIN ASFALTARE DRUMURI SĂTEȘTI ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI” aprobat prin Hotărârea Consiliului local al comunei Hălăucești nr. 17 din 31.03.2021 , care va avea următorul cuprins \"MODERNIZARE PRIN ASFALTARE DRUMURI SĂTEȘTI ÎN COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33389",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-39-2021",
+   "path": "local/iasi/halaucesti/2021/39",
+   "short": "HCL Hălăucești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 39/2021 privind suplimentarea valorii proiectului ”AMENAJARE PARCARE CENTRU-BLOCURI, SAT HĂLĂUCEȘTI, COMUNA HĂLĂUCEȘTI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33394",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-40-2021",
+   "path": "local/iasi/halaucesti/2021/40",
+   "short": "HCL Hălăucești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 40/2021 privind aprobarea Studiului de Fezabilitate pentru obiectivul de investiții „AMENAJARE PARCARE CENTRU-BLOCURI, SAT HĂLĂUCEȘTI, COMUNA HĂLĂUCEȘTI , JUDEȚUL IASI”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/33395",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/33395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--halaucesti-43-2021",
+   "path": "local/iasi/halaucesti/2021/43",
+   "short": "HCL Hălăucești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Hălăucești nr. 43/2021 privind suplimentarea valorii proiectului ”Modernizare și eficientizarea sistemului de iluminat public stradal din comuna Hălăucești, județul Iași”",
+   "url": "https://emol.ro/halaucesti-is/registru-hcl/34953",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/halaucesti-is/registru-hcl/34953",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--halaucesti-49-2021",
    "path": "local/iasi/halaucesti/2021/49",
    "short": "HCL Hălăucești nr. 49/2021",
