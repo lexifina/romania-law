@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/delesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--delesti-1-2022",
+   "path": "local/vaslui/delesti/2022/1",
+   "short": "HCL Delești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 1/2022 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat care va functiona in anul scolar 2022 – 2023 la nivelul comunei Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69235",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-12-2022",
+   "path": "local/vaslui/delesti/2022/12",
+   "short": "HCL Delești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 12/2022 privind modificarea Hotararii Consiliului local nr.2/2022 pentru modificarea taxei speciale de salubrizare la nivelul comunei Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69258",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-13-2022",
+   "path": "local/vaslui/delesti/2022/13",
+   "short": "HCL Delești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 13/2022 privind stabilirea si organizarea manifestarilor ocazionate de ziua comunei Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69259",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-14-2022",
+   "path": "local/vaslui/delesti/2022/14",
+   "short": "HCL Delești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 14/2022 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri supuse dezbaterii şi aprobării Consiliului local al comunei Delești, juetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69260",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-15-2022",
+   "path": "local/vaslui/delesti/2022/15",
+   "short": "HCL Delești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 15/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui, etapa I-a, aprilie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69261",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-16-2022",
+   "path": "local/vaslui/delesti/2022/16",
+   "short": "HCL Delești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 16/2022 privind aprobarea contului de executie a bugetului local al comunei Delesti, judetul Vaslui pentru anul 2021",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69262",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-17-2022",
+   "path": "local/vaslui/delesti/2022/17",
+   "short": "HCL Delești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 17/2022 privind aprobarea incheierii Acordului de Parteneriat, pentru realizarea investitiei ,,Infiintare sistem de distributie inteligent a gazelor naturale in comunele OSESTI, DELESTI si COZMESTI judetul Vaslui”",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71360",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-18-2022",
+   "path": "local/vaslui/delesti/2022/18",
+   "short": "HCL Delești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 18/2022 privind aprobarea implementarii obiectivului de investiții: “Infiintare sistem de distributie inteligent a gazelor naturale in comunele OSESTI, DELESTI si COZMESTI judetul VASLUI",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71361",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-19-2022",
+   "path": "local/vaslui/delesti/2022/19",
+   "short": "HCL Delești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 19/2022 privind aprobarea depunerii proiectului: „DEZVOLTAREA SISTEMULUI DE MANAGEMENT LOCAL PRIN IMPLEMENTAREA UNUI SISTEM DE MONITORIZARE SI SIGURANTA A SPATIULUI PUBLIC LA NIVELUL COMUNEI DELESTI, JUDETUL VASLUI”",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71362",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-2-2022",
+   "path": "local/vaslui/delesti/2022/2",
+   "short": "HCL Delești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 2/2022 privind modificarea cuantumului taxei speciale de salubrizare la nivelul comunei Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69236",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-21-2022",
+   "path": "local/vaslui/delesti/2022/21",
+   "short": "HCL Delești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 21/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui, etapa a II-a, iunie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71397",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-23-2022",
+   "path": "local/vaslui/delesti/2022/23",
+   "short": "HCL Delești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 23/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui, etapa a III-a, iulie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71409",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-24-2022",
+   "path": "local/vaslui/delesti/2022/24",
+   "short": "HCL Delești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 24/2022 privind aprobarea indicatorilor tehnico-economici actalizati pentru realizarea obiectivului de investitie ,,Alimentare cu apa si amenajare poduri si podete in localitatile Delesti, Albesti, Harsova, Fundatura si Manastirea, comuna Delesti, judetul Vaslui’’",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71410",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-25-2022",
+   "path": "local/vaslui/delesti/2022/25",
+   "short": "HCL Delești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 25/2022 privind asigurarea cofinantarii de la bugetul local pentru realizarea obiectivului de investitie ,,Alimentare cu apa si amenajare poduri si podete in localitatile Delesti, Albesti, Harsova, Fundatura si Manastirea, comuna Delesti, judetul Vaslui’’",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/71411",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/71411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-26-2022",
+   "path": "local/vaslui/delesti/2022/26",
+   "short": "HCL Delești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 26/2022 privind participarea la Programul privind cresterea eficientei energetice a infrastructurii de iluminat public a comunei Delesti pentru proiectul ,,EFICIENTIZAREA SISTEMULUI DE ILUMINAT PUBLIC DIN COMUNA DELESTI, JUDETUL VASLUI”",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110694",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-29-2022",
+   "path": "local/vaslui/delesti/2022/29",
+   "short": "HCL Delești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 29/2022 privind aprobarea studiului de fezabilitate pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a cotei parti de cofinanțare a cheltuielilor eligibile ale proiectului",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110751",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-30-2022",
+   "path": "local/vaslui/delesti/2022/30",
+   "short": "HCL Delești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 30/2022 privind punerea la dispozitia proiectului “Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014-2020” a terenurilor pentru constructia/extinderea/reabilitarea investitiilor aferente acestuia",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110752",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-31-2022",
+   "path": "local/vaslui/delesti/2022/31",
+   "short": "HCL Delești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 31/2022 privind aprobarea inscrierii comunei Delesti, judetul Vaslui in Asociația de Dezvoltare Intercomunitară pentru Digitalizare și Dezvoltare Durabilă a județului Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110753",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-32-2022",
+   "path": "local/vaslui/delesti/2022/32",
+   "short": "HCL Delești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 32/2022 privind aprobarea documentatiei de dezmebrare a terenului inscris in cartea funciara nr.70779 (DC 105) aflat in domeniul public al comunei Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110754",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-33-2022",
+   "path": "local/vaslui/delesti/2022/33",
+   "short": "HCL Delești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 33/2022 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al comunei Delesti, judetul Vaslui pentru trimestrul II 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110755",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-34-2022",
+   "path": "local/vaslui/delesti/2022/34",
+   "short": "HCL Delești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 34/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui, etapa a IV-a, septembrie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110756",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-35-2022",
+   "path": "local/vaslui/delesti/2022/35",
+   "short": "HCL Delești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 35/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui etapa a V-a, septembrie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110757",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-37-2022",
+   "path": "local/vaslui/delesti/2022/37",
+   "short": "HCL Delești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 37/2022 privind aprobarea indicatorilor tehnico-economici actalizati pentru realizarea obiectivului de investitie ,,Alimentare cu apa si amenajare poduri si podete in localitatile Delesti, Albesti, Harsova, Fundatura si Manastirea, comuna Delesti, judetul Vaslui’’",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110761",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-38-2022",
+   "path": "local/vaslui/delesti/2022/38",
+   "short": "HCL Delești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 38/2022 privind asigurarea cofinantarii de la bugetul local pentru realizarea obiectivului de investitie ,,Alimentare cu apa si amenajare poduri si podete in localitatile Delesti, Albesti, Harsova, Fundatura si Manastirea, comuna Delesti, judetul Vaslui’’",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110762",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-39-2022",
+   "path": "local/vaslui/delesti/2022/39",
+   "short": "HCL Delești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 39/2022 privind stabilirea normativelor proprii pentru consumul mediu lunar de carburanti al autovehiculelor si utilajelor aflate in dotare la nivelul UAT comuna Delesti, judetul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/110763",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/110763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-41-2022",
+   "path": "local/vaslui/delesti/2022/41",
+   "short": "HCL Delești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 41/2022 privind rectificarea bugetului local al comunei Delești, județul Vaslui etapa a VI-a, noiembrie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113740",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-42-2022",
+   "path": "local/vaslui/delesti/2022/42",
+   "short": "HCL Delești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 42/2022 privind aprobarea contului de execuție al bugetului local de venituri și cheltuieli al comunei Delești, județul Vaslui, pentru trimestrul III 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113741",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-46-2022",
+   "path": "local/vaslui/delesti/2022/46",
+   "short": "HCL Delești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 46/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui, etapa a VII-a decembrie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113745",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-47-2022",
+   "path": "local/vaslui/delesti/2022/47",
+   "short": "HCL Delești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 47/2022 privind stabilirea impozitelor si taxelor locale la nivelul comunei Delesti, judetul Vaslui, pentru anul fiscal 2023",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113746",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-48-2022",
+   "path": "local/vaslui/delesti/2022/48",
+   "short": "HCL Delești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 48/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui etapa a VIII-a, decembrie 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113779",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-49-2022",
+   "path": "local/vaslui/delesti/2022/49",
+   "short": "HCL Delești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 49/2022 privind rectificarea bugetului local al comunei Delesti, judetul Vaslui etapa a IX-a",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/113780",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/113780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-6-2022",
+   "path": "local/vaslui/delesti/2022/6",
+   "short": "HCL Delești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 6/2022 privind aprobarea utilizarii excedentului bugetului local al comunei Delesti, judetul Vaslui, inregistrat la data de 31 decembrie 2021",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69240",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-7-2022",
+   "path": "local/vaslui/delesti/2022/7",
+   "short": "HCL Delești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 7/2022 privind aprobarea bugetului local al comunei Delesti, judetul Vaslui pe anul 2022",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/69241",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/69241",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/vaslui/falciu/2020",
+"acts": [
+{
+"slug": "hcl-vaslui--falciu-1-2020",
+"path": "local/vaslui/falciu/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 1/2020 privind alegerea președintelui de ședință pentru ședința extraordinară din data de 08 ianuarie 2020",
+"short": "HCL Fălciu nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-08",
+"latest": "2020-01-08",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/1613",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-2-2020",
+"path": "local/vaslui/falciu/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 2/2020 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare înregistrat la încheierea exercițiului bugetar al anului 2019",
+"short": "HCL Fălciu nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-08",
+"latest": "2020-01-08",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/1614",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-3-2020",
+"path": "local/vaslui/falciu/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 3/2020 privind alegerea viceprimarului comunei Fălciu, județul Vaslui",
+"short": "HCL Fălciu nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-08",
+"latest": "2020-01-08",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/1615",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-4-2020",
+"path": "local/vaslui/falciu/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 4/2020 privind însușirea analizei stadiului de înscriere a datelor în registrul agricol pe semestrul II al anului 2019 și aprobarea Programului de măsuri pentru remedierea deficiențelor constatate privind înscrierea datelor în registrul agricol",
+"short": "HCL Fălciu nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-27",
+"latest": "2020-01-27",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/2343",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-5-2020",
+"path": "local/vaslui/falciu/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 5/2020 privind organizarea rețelei școlare a unităților de învățământ din comuna Fălciu în anul școlar 2020-2021",
+"short": "HCL Fălciu nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-27",
+"latest": "2020-01-27",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/2344",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-16-2020",
+"path": "local/vaslui/falciu/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 16/2020 privind aprobarea taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici și a „Regulamentului de instituire și administrare a taxei speciale de salubrizare SIMDS, comuna Fălciu, județul Vaslui",
+"short": "HCL Fălciu nr. 16/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/2358",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-17-2020",
+"path": "local/vaslui/falciu/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 17/2020 privind aprobarea bugetului comunei Fălciu, județul Vaslui pe anul 2020",
+"short": "HCL Fălciu nr. 17/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/2359",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-23-2020",
+"path": "local/vaslui/falciu/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 23/2020 privind aprobarea Statutului Comunei Fălciu, județul Vaslui",
+"short": "HCL Fălciu nr. 23/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/2365",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-40-2020",
+"path": "local/vaslui/falciu/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 40/2020 privind rectificarea bugetului comunei Fălciu , județul Vaslui pe anul 2020,etapa a III a",
+"short": "HCL Fălciu nr. 40/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/6596",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-57-2020",
+"path": "local/vaslui/falciu/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 57/2020 privind stabilirea impozitelor și taxelor locale,precum și a taxelor speciale pentru anul 2021",
+"short": "HCL Fălciu nr. 57/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/12768",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

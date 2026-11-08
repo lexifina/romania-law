@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Delești nr. 22/2026 privind asigurarea cofinanțării de la bugetul local pentru realizarea obiectivului de investiție " Alimentarea cu apă și amenajare poduri și podețe în localitatile Delești, Albești, Rădoiesti, horșova, Fundatura și Mânăstirea, comuna Delești, județul Vaslui-Sectiunea alimentară cu apă
+
+HCL Delești nr. 22/2026 · 1 versions, from 2026-05-25 (latest in force: 2026-05-25) · <https://emol.ro/delesti-vs/registru-hcl/269931>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-vaslui--delesti-22-2026` (tags `hcl-vaslui--delesti-22-2026/<day>`; `python tools/on.py <day> hcl-vaslui--delesti-22-2026`).
+
+## Decisions made by hand
+
+- HCL Delești nr. 22/2026: listed from Consiliul Local al Comunei Delești (emol.ro); metadata only for now: no document of it is held.
+- HCL Delești nr. 22/2026: dated from 25 May 2026, the day the council's register gives it as published (adopted 29 April 2026).
+- HCL Delești nr. 22/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

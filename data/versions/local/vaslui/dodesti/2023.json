@@ -3,6 +3,261 @@
  "shard": "local/vaslui/dodesti/2023",
  "acts": [
   {
+   "slug": "hcl-vaslui--dodesti-63-2023",
+   "path": "local/vaslui/dodesti/2023/63",
+   "short": "HCL Dodești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 63/2023 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Dodesti pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul III, anul 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60530",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-64-2023",
+   "path": "local/vaslui/dodesti/2023/64",
+   "short": "HCL Dodești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 64/2023 Privind rectificarea a-IX –a, a bugetului local al comunei Dodesti pe anul 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60531",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-65-2023",
+   "path": "local/vaslui/dodesti/2023/65",
+   "short": "HCL Dodești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 65/2023 privind aprobarea ,,Programului de deszapezire si combatere a poleiului pe drumurile din administrarea comunei Dodesti, in perioada de iarna 1 noiembrie 2023-31 martie 2024”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60532",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-66-2023",
+   "path": "local/vaslui/dodesti/2023/66",
+   "short": "HCL Dodești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 66/2023 privind alegerea preşedintelui de şedinţă pentru lunile: noiembrie, decembrie 2023, ianuarie 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60533",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#60533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-67-2023",
+   "path": "local/vaslui/dodesti/2023/67",
+   "short": "HCL Dodești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 67/2023 privind rectificarea a-X –a, a bugetului local al comunei Dodesti pe anul 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63282",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-68-2023",
+   "path": "local/vaslui/dodesti/2023/68",
+   "short": "HCL Dodești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 68/2023 pentru stabilirea impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63283",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-69-2023",
+   "path": "local/vaslui/dodesti/2023/69",
+   "short": "HCL Dodești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 69/2023 privind acordarea unui mandatul special reprezentantului UAT DODEȘTI, în Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din Municipiile Vaslui, Barlad, Husi si Orasul Negresti - judetul Vaslui ( APC VASLUI)",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63284",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-70-2023",
+   "path": "local/vaslui/dodesti/2023/70",
+   "short": "HCL Dodești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 70/2023 privind acordarea unui mandat special reprezentantului legal al UAT Dodești, membru al Asociației pentru Dezvoltare Intercomunitara a județului Vaslui, pentru exprimarea votului în AGA ADIV",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63285",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-71-2023",
+   "path": "local/vaslui/dodesti/2023/71",
+   "short": "HCL Dodești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 71/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-72-2023",
+   "path": "local/vaslui/dodesti/2023/72",
+   "short": "HCL Dodești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 72/2023 privind modificarea organigramei și a statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Dodești, județul Vaslui, începând cu 01.11.2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63287",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-73-2023",
+   "path": "local/vaslui/dodesti/2023/73",
+   "short": "HCL Dodești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 73/2023 privind aprobarea depunerii și implementării proiectului cu titlul ”Construire parc fotovoltaic la nivelul comunei Dodesti”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63288",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-74-2023",
+   "path": "local/vaslui/dodesti/2023/74",
+   "short": "HCL Dodești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 74/2023 privind aprobarea Studiului de Fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiție ”Construire parc fotovoltaic la nivelul comunei Dodesti”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63289",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#63289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-75-2023",
+   "path": "local/vaslui/dodesti/2023/75",
+   "short": "HCL Dodești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 75/2023 privind aprobarea contractului pentru acordarea de servicii social-medicale specializate oferite de Asociația Centrul Diecezan Caritas Iași și alocarea de fonduri din bugetul local pentru anul 2023, necesar pentru asigurarea sustenabilității serviciilor socio-medicale și socio-educaționale pe raza comunei Dodești în conformitate cu prevederile cererii de finanțare a proiectului „Înființarea şi funcționarea Centrului comunitar integrat din com Dodeşti, jud Vaslui” Cod SMIS: 130201",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#64116",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#64116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-76-2023",
+   "path": "local/vaslui/dodesti/2023/76",
+   "short": "HCL Dodești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 76/2023 privind rectificarea a-XI –a, a bugetului local al comunei Dodesti pe anul 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#64121",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#64121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-77-2023",
+   "path": "local/vaslui/dodesti/2023/77",
+   "short": "HCL Dodești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 77/2023 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul IV al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65363",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-78-2023",
+   "path": "local/vaslui/dodesti/2023/78",
+   "short": "HCL Dodești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 78/2023 privind actualizarea Programului Anual al Achizitiilor Publice 2023 al Comunei Dodești, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65364",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-79-2023",
+   "path": "local/vaslui/dodesti/2023/79",
+   "short": "HCL Dodești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 79/2023 privind aprobarea Strategiei anuale de achiziţii publice a comunei Dodești, judeţul Vaslui, pentru anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65365",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#65365",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-80-2023",
    "path": "local/vaslui/dodesti/2023/80",
    "short": "HCL Dodești nr. 80/2023",

@@ -1,0 +1,726 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/cozmesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--cozmesti-17-2020",
+   "path": "local/vaslui/cozmesti/2020/17",
+   "short": "HCL Cozmești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 17/2020 privind reglementarea acordării ajutoarelor de urgență și ajutoarelor de înmormântare",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/1071",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/1071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-19-2020",
+   "path": "local/vaslui/cozmesti/2020/19",
+   "short": "HCL Cozmești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 19/2020 privind aprobarea burselor școlare și cuantumul acestora pentru anul bugetar 2020 pntru elevii din unitățile de învățământ din comuna Cozmești",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/1073",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/1073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-2-2020",
+   "path": "local/vaslui/cozmesti/2020/2",
+   "short": "HCL Cozmești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 2/2020 privind actualizarea și completarea impozitelor și taxelor locale, pentru anul 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/1056",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/1056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-20-2020",
+   "path": "local/vaslui/cozmesti/2020/20",
+   "short": "HCL Cozmești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 20/2020 privind înființarea Serviciului Voluntar pentru Situații de Urgență de tip V1 din Comuna Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7710",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-21-2020",
+   "path": "local/vaslui/cozmesti/2020/21",
+   "short": "HCL Cozmești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 21/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a I a martie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7711",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-22-2020",
+   "path": "local/vaslui/cozmesti/2020/22",
+   "short": "HCL Cozmești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 22/2020 privind aprobarea regulamentului, al caietului de sarcini și a contractului pentru serviciul de iluminat public cu gestiune delegata",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7712",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-23-2020",
+   "path": "local/vaslui/cozmesti/2020/23",
+   "short": "HCL Cozmești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 23/2020 privind completarea Hotărârii nr. 40 din 2014 privind aprobarea înființării unor puncte de colectare a deșeurilor pe raza comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7713",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-25-2020",
+   "path": "local/vaslui/cozmesti/2020/25",
+   "short": "HCL Cozmești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 25/2020 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe anul 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7719",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-26-2020",
+   "path": "local/vaslui/cozmesti/2020/26",
+   "short": "HCL Cozmești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 26/2020 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul I, al anului 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7718",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-27-2020",
+   "path": "local/vaslui/cozmesti/2020/27",
+   "short": "HCL Cozmești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 27/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a II a mai 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7717",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-28-2020",
+   "path": "local/vaslui/cozmesti/2020/28",
+   "short": "HCL Cozmești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 28/2020 privind aprobarea actualizării indicatorilor tehnico-economici pentru investiția ''Modernizare Drumuri în satele Bălești și Fâstâci Comuna Cozmești, județul Vaslui''",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7716",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-29-2020",
+   "path": "local/vaslui/cozmesti/2020/29",
+   "short": "HCL Cozmești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 29/2020 privind cofinanțarea proiectului ''Modernizarea drumuri în satele Bălești și Fâstâci, comuna Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7715",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-30-2020",
+   "path": "local/vaslui/cozmesti/2020/30",
+   "short": "HCL Cozmești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 30/2020 privind aprobarea implementării proiectului ''Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale'' cod SMIS 126924",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/7714",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/7714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-31-2020",
+   "path": "local/vaslui/cozmesti/2020/31",
+   "short": "HCL Cozmești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 31/2020 privind aprobarea rectficării bugetului local al comunei Cozmești, județul Vaslui, etapa a III a iunie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13816",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-32-2020",
+   "path": "local/vaslui/cozmesti/2020/32",
+   "short": "HCL Cozmești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 32/2020 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului local al comunei Cozmești, pentru perioada 2020-2024 pentru obiectivul de investiții ”Modernizare drumuri de interes local în comuna Cozmești, județul Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13817",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-33-2020",
+   "path": "local/vaslui/cozmesti/2020/33",
+   "short": "HCL Cozmești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 33/2020 privind stabilirea locurilor de vaccinare a animalelor pe raza UAT Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13818",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-34-2020",
+   "path": "local/vaslui/cozmesti/2020/34",
+   "short": "HCL Cozmești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 34/2020 privind scoaterea din evidențele fiscale ale Comunei Cozmești a unor procese-verbale de contravenție și scăderea sumelor reprezentând amenzi contravenționale ale debitorilor decedați",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13819",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-35-2020",
+   "path": "local/vaslui/cozmesti/2020/35",
+   "short": "HCL Cozmești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 35/2020 privind însușirea dezmembrării terenului în suprafață de 9255 mp, situat în intravilan sat Balesti și extravilan Comuna, aparțonând domeniului privat al comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13820",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-36-2020",
+   "path": "local/vaslui/cozmesti/2020/36",
+   "short": "HCL Cozmești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 36/2020 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul II, al anului 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13827",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-37-2020",
+   "path": "local/vaslui/cozmesti/2020/37",
+   "short": "HCL Cozmești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 37/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a IV a iulie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13828",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-39-2020",
+   "path": "local/vaslui/cozmesti/2020/39",
+   "short": "HCL Cozmești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 39/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a V a august 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13844",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-40-2020",
+   "path": "local/vaslui/cozmesti/2020/40",
+   "short": "HCL Cozmești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 40/2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13845",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-41-2020",
+   "path": "local/vaslui/cozmesti/2020/41",
+   "short": "HCL Cozmești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 41/2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13846",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-43-2020",
+   "path": "local/vaslui/cozmesti/2020/43",
+   "short": "HCL Cozmești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 43/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a VI a septembrie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13900",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-44-2020",
+   "path": "local/vaslui/cozmesti/2020/44",
+   "short": "HCL Cozmești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 44/2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13901",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-45-2020",
+   "path": "local/vaslui/cozmesti/2020/45",
+   "short": "HCL Cozmești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 45/2020 privind aprobarea modului de întocmire a Registrului agricol la nivelul comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13902",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-46-2020",
+   "path": "local/vaslui/cozmesti/2020/46",
+   "short": "HCL Cozmești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 46/2020 privind aprobarea Regulamentului pentru eliberarea avizului program și a autorizației de funcționare pentru desfășurarea activităților comerciale în comuna Cozmești",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13903",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-47-2020",
+   "path": "local/vaslui/cozmesti/2020/47",
+   "short": "HCL Cozmești nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 47/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a VII a septembrie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13912",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-48-2020",
+   "path": "local/vaslui/cozmesti/2020/48",
+   "short": "HCL Cozmești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 48/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13927",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-49-2020",
+   "path": "local/vaslui/cozmesti/2020/49",
+   "short": "HCL Cozmești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 49/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Cozmești în principalele domenii de activitate",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13928",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-50-2020",
+   "path": "local/vaslui/cozmesti/2020/50",
+   "short": "HCL Cozmești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 50/2020 privind alegerea viceprimarului comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13929",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-51-2020",
+   "path": "local/vaslui/cozmesti/2020/51",
+   "short": "HCL Cozmești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 51/2020 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul III, al anului 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13935",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-52-2020",
+   "path": "local/vaslui/cozmesti/2020/52",
+   "short": "HCL Cozmești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 52/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a VIII a noiembrie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13936",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-53-2020",
+   "path": "local/vaslui/cozmesti/2020/53",
+   "short": "HCL Cozmești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 53/2020 privind aprobarea Proiectului ”Înființare sistem inteligent de distribuție gaze naturale în comuna Cozmești, județul Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13937",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-54-2020",
+   "path": "local/vaslui/cozmesti/2020/54",
+   "short": "HCL Cozmești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 54/2020 privind aprobarea Programului de pregătire, deszăpezire și combatere a poleiului pe drumurile din administrarea comunei în perioada 01 decembrie 2020 - 15 martie 2021",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13938",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-55-2020",
+   "path": "local/vaslui/cozmesti/2020/55",
+   "short": "HCL Cozmești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 55/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13939",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-56-2020",
+   "path": "local/vaslui/cozmesti/2020/56",
+   "short": "HCL Cozmești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 56/2020 privind înființarea a zece posturi contractuale în cadrul Serviciului Publicc Local de Gospodărire Comunală la nivelul comunei Cozmești",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13940",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-59-2020",
+   "path": "local/vaslui/cozmesti/2020/59",
+   "short": "HCL Cozmești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 59/2020 privind aprobarea indicatorilor tehnico-economici după întocmirea Proiectului Tehnic pentru obiectivul de investiție: ”Modernizare drumuri de interes local în comuna Cozmești, județul Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13943",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-60-2020",
+   "path": "local/vaslui/cozmesti/2020/60",
+   "short": "HCL Cozmești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 60/2020 privind aprobarea criteriilor de angajament actualizate pentru acțiuni multianulae ale bugetului local al comunei Cozmești, pentru perioada 2020-2024 pentru obiectivul de investiții „Modernizare drumuri de interes local în comuna Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13944",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-61-2020",
+   "path": "local/vaslui/cozmesti/2020/61",
+   "short": "HCL Cozmești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 61/2020 privind aprobarea notei conceptual și temei de proiectare pentru obiectivul de investiție ”Construcție teren sportiv multifuncțional din Comuna Cozmești, jud. Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13945",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-62-2020",
+   "path": "local/vaslui/cozmesti/2020/62",
+   "short": "HCL Cozmești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 62/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a IX a decembrie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13947",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-63-2020",
+   "path": "local/vaslui/cozmesti/2020/63",
+   "short": "HCL Cozmești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 63/2020 privind stabilirea impozitelor și taxelor locale, pentru anul 2021",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13948",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-64-2020",
+   "path": "local/vaslui/cozmesti/2020/64",
+   "short": "HCL Cozmești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 64/2020 privind scoaterea din evidențele fiscale ale Comunei Cozmești a unor procese-verbale de contravenție și scăderea sumelor reprezentând amenzi contravenționale ale debitorilor decedați",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13949",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-65-2020",
+   "path": "local/vaslui/cozmesti/2020/65",
+   "short": "HCL Cozmești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 65/2020 privind aprobarea Regulamentului de organizare și funcționarea a aparatului de specialitate al primarului comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13950",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-66-2020",
+   "path": "local/vaslui/cozmesti/2020/66",
+   "short": "HCL Cozmești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 66/2020 privind aprobarea completării programului anual de achiziții publice a Comunei Cozmești pentru anul 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13951",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-67-2020",
+   "path": "local/vaslui/cozmesti/2020/67",
+   "short": "HCL Cozmești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 67/2020 privind aprobarea Acordului de Parteneriat al UAT Cozmești, Delești, Osești jud. Vaslui în vederea accesării programului de investiții POIM, privind dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13952",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-68-2020",
+   "path": "local/vaslui/cozmesti/2020/68",
+   "short": "HCL Cozmești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 68/2020 privind implementarea proiectului „Sistem inteligent de distribuție gaze naturale în comuna Cozmești, jud. Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/13953",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/13953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-69-2020",
+   "path": "local/vaslui/cozmesti/2020/69",
+   "short": "HCL Cozmești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 69/2020 privind aprobarea rectificării bugetului local al comunei Cozmești, județul Vaslui, etapa a X a decembrie 2020",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/14073",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/14073",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

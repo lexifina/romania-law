@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/bogdanita/2021",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--bogdanita-1-2021",
+   "path": "local/vaslui/bogdanita/2021/1",
+   "short": "HCL Bogdănița nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 1/2021 privind acoperirea definitiva din excedentul bugetului local al deficitului sectiunii de dezvoltare inregistrat la incheierea exercitiului bugetar al anului 2020",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56294",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-10-2021",
+   "path": "local/vaslui/bogdanita/2021/10",
+   "short": "HCL Bogdănița nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 10/2021 privind aprobarea întocmirii noului program de transport public judetean de persoane prin curse regulate la nivelul comunei BOGDANITA, județul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56303",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-11-2021",
+   "path": "local/vaslui/bogdanita/2021/11",
+   "short": "HCL Bogdănița nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 11/2021 privind aprobarea Nomenclaturii stradale a Comunei Bogdanita, Judetul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56304",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-12-2021",
+   "path": "local/vaslui/bogdanita/2021/12",
+   "short": "HCL Bogdănița nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 12/2021 privind insusirea Comisiei speciale pentru modificarea si completarea domeniului public al UAT Bogdanita",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56315",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-13-2021",
+   "path": "local/vaslui/bogdanita/2021/13",
+   "short": "HCL Bogdănița nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 13/2021 privind initierea demersurilor de actualizare a PUG si RLU al comunei Bogdanita, judetul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56316",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-14-2021",
+   "path": "local/vaslui/bogdanita/2021/14",
+   "short": "HCL Bogdănița nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 14/2021 privind aprobarea actualizării Planului de analiză si acoperire a riscurilor în domeniul situatiilor de urgenta al comunei Bogdanita, județul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56317",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-15-2021",
+   "path": "local/vaslui/bogdanita/2021/15",
+   "short": "HCL Bogdănița nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 15/2021 privind aprobarea contului de execuţie a bugetului de venituri şi cheltuieli al comunei Bogdanita pe anul 2020",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56318",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-16-2021",
+   "path": "local/vaslui/bogdanita/2021/16",
+   "short": "HCL Bogdănița nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 16/2021 privind aprobarea bugetului local pentru 2021",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56319",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-17-2021",
+   "path": "local/vaslui/bogdanita/2021/17",
+   "short": "HCL Bogdănița nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 17/2021 privind aprobarea Strategiei anuale de achizitii publice si Programului anual al achizitiilor publice pentru anul 2021",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56320",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-18-2021",
+   "path": "local/vaslui/bogdanita/2021/18",
+   "short": "HCL Bogdănița nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 18/2021",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56321",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-2-2021",
+   "path": "local/vaslui/bogdanita/2021/2",
+   "short": "HCL Bogdănița nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 2/2021 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Bogdanita",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56295",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-20-2021",
+   "path": "local/vaslui/bogdanita/2021/20",
+   "short": "HCL Bogdănița nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 20/2021 privind stabilirea normativelor proprii pentru consumul mediu lunar de carburanti al autovehiculelor si utilajelor aflate in dotarea proprie a U.A.T - comuna Bogdanita",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56339",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-21-2021",
+   "path": "local/vaslui/bogdanita/2021/21",
+   "short": "HCL Bogdănița nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 21/2021 privind aprobarea achizitionarii serviciilor juridice de consultantă, de asistentă si de reprezentare, pentru apararea intereselor comunei Bogdanita si ale autoritatii publice locale din comuna Bogdanita printr-un cabinet de avocatura",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56340",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-22-2021",
+   "path": "local/vaslui/bogdanita/2021/22",
+   "short": "HCL Bogdănița nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 22/2021 privind acordarea cu titlu gratuit a dreptului de uz si servitute catre SC DELGAZ GRID SA, pe durata existentei capacitatilor energetice, a terenului in suprafata de 8 mp, corespunzator unui numar de 7 stalpi, situat in extravilanul satelor Radaiesti,Coroiesti si Cirtibasi, comuna Bogdanita, judetul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56349",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-24-2021",
+   "path": "local/vaslui/bogdanita/2021/24",
+   "short": "HCL Bogdănița nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 24/2021 privind aprobarea rectificarii bugetului local pentru 2021",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56353",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-3-2021",
+   "path": "local/vaslui/bogdanita/2021/3",
+   "short": "HCL Bogdănița nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 3/2021 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Bogdanita,judetul Vaslui",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56296",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-4-2021",
+   "path": "local/vaslui/bogdanita/2021/4",
+   "short": "HCL Bogdănița nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 4/2021 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale şi amenzilor, pentru anul 2021",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56297",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-48-2021",
+   "path": "local/vaslui/bogdanita/2021/48",
+   "short": "HCL Bogdănița nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 48/2021 privind indexarea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56628",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanita-7-2021",
+   "path": "local/vaslui/bogdanita/2021/7",
+   "short": "HCL Bogdănița nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănița nr. 7/2021 privind aprobarea Planului de acţiuni si lucrări de interes local pe anul 2021 , ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/bogdanita-vs/registru-hcl/56300",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanita-vs/registru-hcl/56300",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

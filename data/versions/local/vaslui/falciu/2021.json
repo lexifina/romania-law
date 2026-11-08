@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/falciu/2021",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--falciu-32-2021",
+   "path": "local/vaslui/falciu/2021/32",
+   "short": "HCL Fălciu nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 32/2021 privind indexarea impozitelor și taxelor locale pentru anul fiscal 2022,cu rata inflației pentru anul fiscal anterior",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/22262",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/22262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--falciu-33-2021",
+   "path": "local/vaslui/falciu/2021/33",
+   "short": "HCL Fălciu nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 33/2021 privind aprobarea bugetului comunei Fălciu,județul Vaslui pe anul 2021",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/22263",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/22263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--falciu-77-2021",
+   "path": "local/vaslui/falciu/2021/77",
+   "short": "HCL Fălciu nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 77/2021 privind stabilirea impozitelor și taxelor locale,precum și a taxelor speciale pentru anul 2022",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/41187",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/41187",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

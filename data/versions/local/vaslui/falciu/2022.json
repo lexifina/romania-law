@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/falciu/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--falciu-11-2022",
+   "path": "local/vaslui/falciu/2022/11",
+   "short": "HCL Fălciu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 11/2022 privind alegerea președintelui de ședință pentru ședința extraordinară din data de 31 ianuarie 2022",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/49018",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/49018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--falciu-70-2022",
+   "path": "local/vaslui/falciu/2022/70",
+   "short": "HCL Fălciu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 70/2022 privind indexarea în funcție de rata de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2022 a sumelor prevăzute la art.470 alin.(5) și (6) din Legea nr.227/2015 privind Codul fiscal,cu modificările și completările ulterioare,pentru anul 2023",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/77029",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/77029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--falciu-88-2022",
+   "path": "local/vaslui/falciu/2022/88",
+   "short": "HCL Fălciu nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 88/2022 pentru modificarea Hotărârii Consiliului local al comunei Fălciu ,județul Vaslui nr.58 din 21.09.2022 privind stabilirea impozitelor și taxelor locale,precum și a taxelor speciale pentru anul 2023",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/84259",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/84259",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

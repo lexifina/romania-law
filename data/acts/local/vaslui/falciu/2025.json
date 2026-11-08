@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/vaslui/falciu/2025",
+"acts": [
+{
+"slug": "hcl-vaslui--falciu-20-2025",
+"path": "local/vaslui/falciu/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 20/2025 privind aprobarea bugetului local al comunei Fălciu,județul Vaslui pe anul 2025 și estimările pentru anii 2026 - 2028",
+"short": "HCL Fălciu nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/197024",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-34-2025",
+"path": "local/vaslui/falciu/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 34/2025 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Fălciu nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/205588",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

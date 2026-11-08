@@ -1,0 +1,1086 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/bogdanesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--bogdanesti-1-2021",
+   "path": "local/vaslui/bogdanesti/2021/1",
+   "short": "HCL Bogdănești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 1/2021 privind acoperirea definitivă a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/28998",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/28998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-10-2021",
+   "path": "local/vaslui/bogdanesti/2021/10",
+   "short": "HCL Bogdănești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 10/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29009",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-11-2021",
+   "path": "local/vaslui/bogdanesti/2021/11",
+   "short": "HCL Bogdănești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 11/2021 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi desfășurate în cursul anului 2021 de către beneficiarii Legii 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29015",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-12-2021",
+   "path": "local/vaslui/bogdanesti/2021/12",
+   "short": "HCL Bogdănești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 12/2021 privind avizarea întocmirii noului program de transport public județean de persoane prin curse regulate la nivelul comunei Bogdănești, județul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29016",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-13-2021",
+   "path": "local/vaslui/bogdanesti/2021/13",
+   "short": "HCL Bogdănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 13/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Modernizare prin asfaltare străzi în comuna Bogdănești, județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29017",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-14-2021",
+   "path": "local/vaslui/bogdanesti/2021/14",
+   "short": "HCL Bogdănești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 14/2021 privind modificarea indicatorilor tehnico-economici ai investiției „Modernizare drumuri de interes local în satele din Comuna Bogdănești, județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29018",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-15-2021",
+   "path": "local/vaslui/bogdanesti/2021/15",
+   "short": "HCL Bogdănești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 15/2021 privind însușirea constatărilor și măsurilor dispuse prin Decizia nr. 19/2 din 09.02.2021 a Camerei de Conturi a județului Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29019",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-16-2021",
+   "path": "local/vaslui/bogdanesti/2021/16",
+   "short": "HCL Bogdănești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 16/2021 privind aprobarea cantității de 1500 litri motorină și asigurarea accesului utilajelor la frontul de lucru în scopul decolmatării albiei minore a râului Bogdănești",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29020",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-17-2021",
+   "path": "local/vaslui/bogdanesti/2021/17",
+   "short": "HCL Bogdănești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 17/2021 privind aprobarea Planului de analiză și acoperire a riscurilor în domeniul situațiilor de urgență al comunei Bogdănești, județul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29021",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-18-2021",
+   "path": "local/vaslui/bogdanesti/2021/18",
+   "short": "HCL Bogdănești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 18/2021 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului local",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29022",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-19-2021",
+   "path": "local/vaslui/bogdanesti/2021/19",
+   "short": "HCL Bogdănești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 19/2021 privind aprobarea scutirii de la plata majorărilor de întârziere și a penalităților aferente obligațiilor bugetare, constând în impozite și taxe locale, redevențe, chirii și alte obligații de plată datorate bugetului local de către persoanele fizice care au calitatea de cotribuabili la bugetul local al Comunei Bogdănești",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29023",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-2-2021",
+   "path": "local/vaslui/bogdanesti/2021/2",
+   "short": "HCL Bogdănești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 2/2021 privind organizarea rețelei școlare din comuna Bogdănești pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29001",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-20-2021",
+   "path": "local/vaslui/bogdanesti/2021/20",
+   "short": "HCL Bogdănești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 20/2021 privind aprobarea contului de execuție a bugetului local al comunei Bogdănești la 31.12.2020",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29024",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-21-2021",
+   "path": "local/vaslui/bogdanesti/2021/21",
+   "short": "HCL Bogdănești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 21/2021 privind aprobarea Planului pentru asigurarea cu resurse umane, materiale și financiare în domeniul situațiilor de urgență la nivelul comunei Bogdănești, județul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29025",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-22-2021",
+   "path": "local/vaslui/bogdanesti/2021/22",
+   "short": "HCL Bogdănești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 22/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Extindere rețea de alimentare cu apă în satele Buda și Orgoiești, comuna Bogdănești, județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29026",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-24-2021",
+   "path": "local/vaslui/bogdanesti/2021/24",
+   "short": "HCL Bogdănești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 24/2021 privind aprobare bugetului local al comunei Bogdănești pe anul 2021 și a Programului obiectivelor de investiții",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29028",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-25-2021",
+   "path": "local/vaslui/bogdanesti/2021/25",
+   "short": "HCL Bogdănești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 25/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29029",
+   "versions": [
+    {
+     "from": "2021-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-26-2021",
+   "path": "local/vaslui/bogdanesti/2021/26",
+   "short": "HCL Bogdănești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 26/2021 privind aprobarea infiintarii serviciului public de alimentare cu apă, cu personalitate juridica, în subordinea Consiliului Local al comunei Bogdăneşti, judetul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29030",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-27-2021",
+   "path": "local/vaslui/bogdanesti/2021/27",
+   "short": "HCL Bogdănești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 27/2021 privind actualizarea cu rata inflaţiei şi stabilirea impozitelor şi taxelor locale, a altor taxe asimilate acestora, precum şi amenzile aplicabile în anul fiscal 2022",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29031",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-28-2021",
+   "path": "local/vaslui/bogdanesti/2021/28",
+   "short": "HCL Bogdănești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 28/2021 privind alocarea sumei de 30.000 de lei pentru continuarea lucrărilor de construire a unui lăcaş de cult din Parohia satului Bogdăneşti, comuna Bogdăneşti, judeţul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29032",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-3-2021",
+   "path": "local/vaslui/bogdanesti/2021/3",
+   "short": "HCL Bogdănești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 3/2021 privind punerea la dispoziția Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29002",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-31-2021",
+   "path": "local/vaslui/bogdanesti/2021/31",
+   "short": "HCL Bogdănești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 31/2021 privind actualizarea indicatorilor tehnico-economici ai proiectului „Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Bogdănești, județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29035",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-32-2021",
+   "path": "local/vaslui/bogdanesti/2021/32",
+   "short": "HCL Bogdănești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 32/2021 privind actulizare indicatorilor tehnico-economici ai proiectului „Dotarea unităților de învățământ din comuna Bogdănești, județul Vaslui cu echipamente specificie pentru gestionarea crizei sanitare cauzate de SARS-Cov-2”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29182",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-33-2021",
+   "path": "local/vaslui/bogdanesti/2021/33",
+   "short": "HCL Bogdănești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 33/2021 privind aprobarea contului de execuție a bugetului local al comunei Bogdănești la 31.03.2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29195",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-34-2021",
+   "path": "local/vaslui/bogdanesti/2021/34",
+   "short": "HCL Bogdănești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 34/2021 privind aprobarea dreptului de uz şi servitute către SC DELGAZ GRID SA pe durata existenţei capacităţii energetice, asupra unor terenuri proprietate publică a comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29193",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-35-2021",
+   "path": "local/vaslui/bogdanesti/2021/35",
+   "short": "HCL Bogdănești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 35/2021 privind înființarea serviciului de iluminat public, aprobarea Regulamentului de organizare și funcționare a serviciului de iluminat public la nivelul comunei Bogdanesti și stabilirea formei de gestiune a serviciului de iluminat public al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29194",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-36-2021",
+   "path": "local/vaslui/bogdanesti/2021/36",
+   "short": "HCL Bogdănești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 36/2021 privind aprobarea Regulamentului de organizare şi funcţionare al Compartimentului de asistenţă socială organizat la nivelul comunei Bogdăneşti, județul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29196",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-37-2021",
+   "path": "local/vaslui/bogdanesti/2021/37",
+   "short": "HCL Bogdănești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 37/2021 privind aprobarea „Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Bogdăneşti, județul Vaslui, pentru perioada 2021-2029”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29197",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-38-2021",
+   "path": "local/vaslui/bogdanesti/2021/38",
+   "short": "HCL Bogdănești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 38/2021 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Bogdăneşti, judeţul Vaslui, pentru anul 2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29198",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-39-2021",
+   "path": "local/vaslui/bogdanesti/2021/39",
+   "short": "HCL Bogdănești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 39/2021 privind aprobarea valorii de investiţie şi a solicitării unei Scrisori de garanţie în vederea acordării avansului pentru ”Dotarea serviciului de gospodărire comunală, comuna Bogdănești, județul Vaslui” finanțat în cadrul PNDR",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29199",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-40-2021",
+   "path": "local/vaslui/bogdanesti/2021/40",
+   "short": "HCL Bogdănești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 40/2021 privind aprobarea bugetului local al comunei BOGDĂNEŞTI pe anul 2021 şi a Programului obiectivelor de investiții",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29200",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-41-2021",
+   "path": "local/vaslui/bogdanesti/2021/41",
+   "short": "HCL Bogdănești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 41/2021 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29201",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-42-2021",
+   "path": "local/vaslui/bogdanesti/2021/42",
+   "short": "HCL Bogdănești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 42/2021 pentru aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/32106",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/32106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-43-2021",
+   "path": "local/vaslui/bogdanesti/2021/43",
+   "short": "HCL Bogdănești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 43/2021 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 329.915 lei",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/32107",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/32107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-44-2021",
+   "path": "local/vaslui/bogdanesti/2021/44",
+   "short": "HCL Bogdănești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 44/2021 privind acordarea mandatului special reprezentantului asociatului in vederea exprimarii votului in Adunarea Generala a Asociatilor a Asociatiei Pentru Dezvoltare Intercomunitara De Utilitati Publice Pentru Serviciul de Alimentare Cu Apa Si De Canalizare din Municipiile Vaslui, Barlad , Husi, si Orasul Negresti, Judetul Vaslui – APC VASLUI",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/32108",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/32108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-45-2021",
+   "path": "local/vaslui/bogdanesti/2021/45",
+   "short": "HCL Bogdănești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 45/2021 privind rectificarea bugetului local - august 2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33728",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-46-2021",
+   "path": "local/vaslui/bogdanesti/2021/46",
+   "short": "HCL Bogdănești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 46/2021 pentru modificarea Hotărârii Consiliului local Bogdăneşti nr. 75/18.11.2020 privind aprobarea Notei conceptuale şi a Temei de proiectare pentru obiectivul de investiţii ˮDezvoltarea reţelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vasluiˮ",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33729",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-47-2021",
+   "path": "local/vaslui/bogdanesti/2021/47",
+   "short": "HCL Bogdănești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 47/2021 pentru modificarea Hotărârii Consiliului local Bogdăneşti 76/18.11.2020 privind participarea la PARTENERIATUL PUBLIC ˮVALEA TUTOVEI 2020ˮ pentru realizarea obiectivului de investitii “Dezvoltarea reţelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33730",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-48-2021",
+   "path": "local/vaslui/bogdanesti/2021/48",
+   "short": "HCL Bogdănești nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 48/2021 pentru modificarea Hotărârii Consiliului local nr. 77/18.11.2020 privind aprobarea Studiului de fezabilitate pentru obiectivul de investiţii ˮ Dezvoltarea reţelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vasluiˮ",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33731",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-49-2021",
+   "path": "local/vaslui/bogdanesti/2021/49",
+   "short": "HCL Bogdănești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 49/2021 pentru modificarea Hotărârii Consiliului local nr. 81/10.12.2020 privind participarea Comunei Bogdăneşti la Programul Operaţional Infrastructura Mare (POIM), Axa Prioritară 8 Sisteme inteligente şi sustenabile de transport al energiei electrice şi gazelor naturale, Obiectivul Specific 8.2 Creşterea gradului de interconectare a Sistemului Naţional de Transport a gazelor naturale cu alte state vecine și pentru aprobarea indicatorilor tehnico-economici pentru proiectul „Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vasluiˮ",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33732",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-5-2021",
+   "path": "local/vaslui/bogdanesti/2021/5",
+   "short": "HCL Bogdănești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 5/2021 privind modificarea și completarea Hotărârii Consiliului local Bogdănești nr. 69/06.11.2020 privind aprobarea organigramei, a numărului de posturi și a statului de funcții pentru aparatul de specialitate al primarului comunei Bogdănești",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29004",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-50-2021",
+   "path": "local/vaslui/bogdanesti/2021/50",
+   "short": "HCL Bogdănești nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 50/2021 pentru modificarea Hotărârii Consiliului local nr. 90 din 29.12.2020 cu privire la aprobarea documentației Analiza cost-beneficiu (ACB) la obiectivul de investiţii „Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vasluiˮ",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33733",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-51-2021",
+   "path": "local/vaslui/bogdanesti/2021/51",
+   "short": "HCL Bogdănești nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 51/2021 pentru modificarea Hotărârii Consiliului local nr. 91 din 29.12.2020 cu privire la aprobarea documentației Analiza instituţională la obiectivul de investiţii „Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale în vederea creșterii nivelului de flexibilitate, siguranță, eficiență în operare, precum și de integrare a activităților de transport, distribuție și consum final consum final în comuna Bogdănești cu localitățile aparținătoare ( Bogdănești, Hupca, Ulea, Buda, Orgoiești, Vișinari, Vlădești, Unțești, Horoiata), județul Vasluiˮ",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33734",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-52-2021",
+   "path": "local/vaslui/bogdanesti/2021/52",
+   "short": "HCL Bogdănești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 52/2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33735",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-53-2021",
+   "path": "local/vaslui/bogdanesti/2021/53",
+   "short": "HCL Bogdănești nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 53/2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33736",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-54-2021",
+   "path": "local/vaslui/bogdanesti/2021/54",
+   "short": "HCL Bogdănești nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 54/2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33737",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-55-2021",
+   "path": "local/vaslui/bogdanesti/2021/55",
+   "short": "HCL Bogdănești nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 55/2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/33738",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/33738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-56-2021",
+   "path": "local/vaslui/bogdanesti/2021/56",
+   "short": "HCL Bogdănești nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 56/2021 pentru modificarea organigramei, a numărului de posturi şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/34722",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/34722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-57-2021",
+   "path": "local/vaslui/bogdanesti/2021/57",
+   "short": "HCL Bogdănești nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 57/2021 aprobarea Regulamentului de organizare şi funcţionare a Centrului de îngrijire de zi Stejarul pentru copii aflaţi în situaţii de risc",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/34723",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/34723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-58-2021",
+   "path": "local/vaslui/bogdanesti/2021/58",
+   "short": "HCL Bogdănești nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 58/2021 privind aprobarea contului de execuţie la data de 31 iunie 2021",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/34724",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/34724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-59-2021",
+   "path": "local/vaslui/bogdanesti/2021/59",
+   "short": "HCL Bogdănești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 59/2021 privind rectificarea bugetului local al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/35481",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/35481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-6-2021",
+   "path": "local/vaslui/bogdanesti/2021/6",
+   "short": "HCL Bogdănești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 6/2021 privind modificarea Hotărârii Consiliului local nr. 11/21.02.2020 pentru aprobarea Regulamentului de instituire și administrare a taxei speciale de",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29005",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-60-2021",
+   "path": "local/vaslui/bogdanesti/2021/60",
+   "short": "HCL Bogdănești nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 60/2021 privind aprobarea realizării serviciilor de realizare a hărţii digitale intravilan prin servicii de cartografiere digitală la nivelul comunei Bogdăneşti în vederea transferării acesteia în sistemul informaţional geografic (GIS) şi a registrului de evidență națională a nomenclaturilor stradale (RENNS)",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37885",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-61-2021",
+   "path": "local/vaslui/bogdanesti/2021/61",
+   "short": "HCL Bogdănești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 61/2021 privind aprobarea creditelor de angajament pentru acţiuni multianuale ale bugetului local",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37886",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-62-2021",
+   "path": "local/vaslui/bogdanesti/2021/62",
+   "short": "HCL Bogdănești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 62/2021 privind aprobarea cererii de finanțare şi a devizului general pentru obiectivul de investiții: „Înfiinţare sistem de canalizare şi staţie epurare în satele Ulea, Hupca şi Unţeşti, Comuna Bogdăneşti, judeţul Vaslui” în vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37887",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-63-2021",
+   "path": "local/vaslui/bogdanesti/2021/63",
+   "short": "HCL Bogdănești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 63/2021 privind aprobarea cererii de finanțare şi a devizului general pentru obiectivul de investiții: „Modernizare drumuri de interes local în satele din Comuna Bogdăneşti, judeţul Vaslui” în vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37888",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-64-2021",
+   "path": "local/vaslui/bogdanesti/2021/64",
+   "short": "HCL Bogdănești nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 64/2021 privind completarea inventarului bunurilor imobile ce aparţin domeniului privat al comunei Bogdăneşti, judeţul Vaslui",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37889",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-65-2021",
+   "path": "local/vaslui/bogdanesti/2021/65",
+   "short": "HCL Bogdănești nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 65/2021 privind aprobarea Programului de deszăpezire şi combatere a poleiului pe drumurile din administrarea comunei în perioada de iarnă 01 noiembrie 2021 – 31 martie 2022",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37890",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-66-2021",
+   "path": "local/vaslui/bogdanesti/2021/66",
+   "short": "HCL Bogdănești nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 66/2021 privind rectificarea bugetului local al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37891",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-67-2021",
+   "path": "local/vaslui/bogdanesti/2021/67",
+   "short": "HCL Bogdănești nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 67/2021 privind atribuirea cu titlu gratuit, a unor loturi de teren intravilan, în temeiul Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, ce fac parte din domeniul privat al comunei Bogdăneşti,",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37892",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-68-2021",
+   "path": "local/vaslui/bogdanesti/2021/68",
+   "short": "HCL Bogdănești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 68/2021 privind alegerea preşedintelui de şedinţă noiembrie 2021 - ianuarie 2022",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/37893",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/37893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-69-2021",
+   "path": "local/vaslui/bogdanesti/2021/69",
+   "short": "HCL Bogdănești nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 69/2021 privind aprobarea cererii de finanțare şi a devizului general pentru obiectivul de investiții: „Modernizare drumuri de interes local în satele din Comuna Bogdăneşti, judeţul Vaslui” în vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/39231",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/39231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-7-2021",
+   "path": "local/vaslui/bogdanesti/2021/7",
+   "short": "HCL Bogdănești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 7/2021 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Primarului comunei Bogdănești",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29006",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-73-2021",
+   "path": "local/vaslui/bogdanesti/2021/73",
+   "short": "HCL Bogdănești nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 73/2021 privind aprobarea realizării documentaţiilor necesare pentru realizarea studiului de fezabilitate pentru proiectul obiectivului de investiție “Modernizarea şi eficientizarea sistemului de iluminat public în comuna Bogdăneşti, judeţul Vaslui – etapa a II-a”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/40774",
+   "versions": [
+    {
+     "from": "2021-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/40774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-74-2021",
+   "path": "local/vaslui/bogdanesti/2021/74",
+   "short": "HCL Bogdănești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 74/2021 privind implementarea proiectului “ Modernizarea și eficientizarea sistemului de iluminat public în comuna Bogdănești, județul Vaslui – etapa II”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/41781",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/41781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-75-2021",
+   "path": "local/vaslui/bogdanesti/2021/75",
+   "short": "HCL Bogdănești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 75/2021 privind actualizarea salariilor personalului din cadrul aparatului de specialitate al primarului comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/44625",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/44625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-76-2021",
+   "path": "local/vaslui/bogdanesti/2021/76",
+   "short": "HCL Bogdănești nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 76/2021 privind rectificarea bugetului local al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/44626",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/44626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-77-2021",
+   "path": "local/vaslui/bogdanesti/2021/77",
+   "short": "HCL Bogdănești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 77/2021 privind transformarea unei funcţii publice ca urmare a promovării în grad",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/44627",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/44627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-78-2021",
+   "path": "local/vaslui/bogdanesti/2021/78",
+   "short": "HCL Bogdănești nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 78/2021 privind aprobarea unor lucrări auxiliare la conducta de apă din sat Unţeşti, comuna Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/44628",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/44628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-79-2021",
+   "path": "local/vaslui/bogdanesti/2021/79",
+   "short": "HCL Bogdănești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 79/2021 privind rectificarea bugetului local al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/45409",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/45409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-8-2021",
+   "path": "local/vaslui/bogdanesti/2021/8",
+   "short": "HCL Bogdănești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 8/2021 privind aprobarea indicatorilor tehnico-economici ai investiției „Amenajare teren sportiv multifuncțional în localitatea Bogdănești, comuna Bogdănești, județul Vaslui”",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/29007",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/29007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--bogdanesti-80-2021",
+   "path": "local/vaslui/bogdanesti/2021/80",
+   "short": "HCL Bogdănești nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 80/2021 privind rectificarea bugetului local al comunei Bogdăneşti",
+   "url": "https://emol.ro/bogdanesti-vs/registru-hcl/46140",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-vs/registru-hcl/46140",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

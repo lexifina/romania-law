@@ -1,0 +1,531 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/dragomiresti/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--dragomiresti-1-2022",
+   "path": "local/vaslui/dragomiresti/2022/1",
+   "short": "HCL Dragomirești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 1/2022 privind aprobarea rețelei școlare pentru anul școlar 2022 -2023 pe raza comunei Dragomirești , județul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78476",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-10-2022",
+   "path": "local/vaslui/dragomiresti/2022/10",
+   "short": "HCL Dragomirești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 10/2022 privind aprobarea Planului de formare profesionala a funcţionarilor publici din cadrul aparatului de specialitate al primarului comunei Dragomiresti pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78485",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-11-2022",
+   "path": "local/vaslui/dragomiresti/2022/11",
+   "short": "HCL Dragomirești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 11/2022 privind aprobarea Planului local pentru asigurarea resurselor umane , materiale si financiare necesare gestionarii Situaţiilor de Urgenta pentru anul 2022 al Comitetului Local pentru Situatii de Urgenta Dragomiresti , judeţul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78486",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-15-2022",
+   "path": "local/vaslui/dragomiresti/2022/15",
+   "short": "HCL Dragomirești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 15/2022 privind declararea unor imobile ca bunuri ce aparțin domeniului public de interes local al comunei Dragomirești, județul Vaslui - teren in suprafața de 168 mp situat in punctul Rampa",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78490",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-17-2022",
+   "path": "local/vaslui/dragomiresti/2022/17",
+   "short": "HCL Dragomirești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 17/2022 privind aprobarea devizului general actualizat și a indicatorilor economici actualizați pentru obiectivul de investiții „Extinderea și dotarea funcționalului din cadrul Liceului Tehnologic Vladia din comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78492",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-2-2022",
+   "path": "local/vaslui/dragomiresti/2022/2",
+   "short": "HCL Dragomirești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 2/2022 privind acoperirea definitiva a deficitului secțiunii de dezvoltare din excedentul bugetului local al comunei Dragomirești",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78477",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-20-2022",
+   "path": "local/vaslui/dragomiresti/2022/20",
+   "short": "HCL Dragomirești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 20/2022 privind aprobarea proiectului de investiții cu titlul „Achiziție echipamente medicale pentru sprijinirea sistemului educațional din comuna Dragomirești, județul Vaslui, in contextul pandemiei cu virusul COVID-19”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78495",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-22-2022",
+   "path": "local/vaslui/dragomiresti/2022/22",
+   "short": "HCL Dragomirești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 22/2022 privind constituirea dreptului de acces pe terenul proprietate privata a COMUNEI DRAGOMIRESTI pe o durata de 2 ani (doi ani), asupra unei suprafețe de 5 mp in vederea instalării, întreținerii, înlocuirii sau mutării echipamentelor de infrastructura necesare susținerii acesteia pentru HUB Comunicații in favoarea SC RCS & RRDS S.A",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78497",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-27-2022",
+   "path": "local/vaslui/dragomiresti/2022/27",
+   "short": "HCL Dragomirești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 27/2022 privind aprobarea înscrierii Comunei Dragomirești in Asociația de Dezvoltare Intercomunitară pentru Digitalizare și Dezvoltare Durabilă a Județului Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78502",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-28-2022",
+   "path": "local/vaslui/dragomiresti/2022/28",
+   "short": "HCL Dragomirești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 28/2022 privind stabilirea de situaţii deosebite pentru acordarea de ajutoare de urgenta altele decât situaţii de necesitate cauzate de calamitaţi naturale , incendii si accidente la comuna Dragomireşti –judeţul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78503",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-29-2022",
+   "path": "local/vaslui/dragomiresti/2022/29",
+   "short": "HCL Dragomirești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 29/2022 privind aprobarea contului de incheiere a exercitiului bugetar a bugetului local al comunei Dragomiresti , judeţul Vaslui pentru anul 2021",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78504",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-3-2022",
+   "path": "local/vaslui/dragomiresti/2022/3",
+   "short": "HCL Dragomirești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 3/2022 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru repartizarea orelor de munca ce urmează a fi efectuate de către persoanele apte de munca din cadrul beneficiarilor de ajutor social conform Legii nr. 416/2001 privind venitul minim garantat , modificata si completata ulterior - la comuna Dragomiresti , judeţul Vaslui pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78478",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-30-2022",
+   "path": "local/vaslui/dragomiresti/2022/30",
+   "short": "HCL Dragomirești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 30/2022 privind aprobarea contului de încheiere a exercițiului bugetar a bugetului local al comunei Dragomirești , județul Vaslui pentru trim. I / 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78505",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-31-2022",
+   "path": "local/vaslui/dragomiresti/2022/31",
+   "short": "HCL Dragomirești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 31/2022 privind stabilirea obligatiilor si responsabilitatilor privind gospodarirea localitatilor comunei Dragomiresti , judeţul Vaslui pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78506",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-34-2022",
+   "path": "local/vaslui/dragomiresti/2022/34",
+   "short": "HCL Dragomirești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 34/2022 privind aprobarea depunerii proiectului cu titlul „Ecosistem digital interconectat si integrat in cadrul Județului Vaslui” in cadrul apelului de proiecte PNRR/2022/C10/1.1./1.1.2. si a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78509",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-36-2022",
+   "path": "local/vaslui/dragomiresti/2022/36",
+   "short": "HCL Dragomirești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 36/2022 privind constituirea dreptului de acces pe terenul proprietate publica a COMUNEI DRAGOMIRESTI unde este amplasata aerian sau subteran FIBRA OPTICA , in vederea instalării, întreținerii, înlocuirii sau mutării echipamentelor de infrastructura necesare susținerii acesteia in favoarea SC RCS & RDS S.A",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78542",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-38-2022",
+   "path": "local/vaslui/dragomiresti/2022/38",
+   "short": "HCL Dragomirești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 38/2022 privind aprobarea alocării de sume din bugetul local al comunei Dragomirești pentru Parohia din satul Dragomirești si Parohia din satul Vladia comuna Dragomirești pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78546",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-4-2022",
+   "path": "local/vaslui/dragomiresti/2022/4",
+   "short": "HCL Dragomirești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 4/2022 privind actualizarea taxei speciale pentru salubrizare pentru anul 2022 la comuna Dragomirești , judeţul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78479",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-40-2022",
+   "path": "local/vaslui/dragomiresti/2022/40",
+   "short": "HCL Dragomirești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 40/2022 privind implementarea proiectului „Extinderea si creșterea eficientei energetice a infrastructurii de iluminat public in comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94894",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-41-2022",
+   "path": "local/vaslui/dragomiresti/2022/41",
+   "short": "HCL Dragomirești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 41/2022 privind aprobarea transmiterii fără plata si cu titlu gratuit din proprietatea privata a comunei Dragomirești in proprietatea Serviciului Public de Alimentare cu Apa si Canalizare a comunei Dragomirești , cu personalitate juridica , organizat in subordinea Consiliului local a unor bunuri–active fixe si obiecte de inventar - 1 autoturism OPEL",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94895",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-44-2022",
+   "path": "local/vaslui/dragomiresti/2022/44",
+   "short": "HCL Dragomirești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 44/2022 privind aprobarea devizului general actualizat, în vederea suplimentării valorii liniilor de lucrări ca urmare a creșterilor accelerate a prețurilor si indicilor de cost in construcții, pentru obiectivul de investiții „Extinderea și dotarea funcționalului din cadrul Liceului Tehnologic Vladia din comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94898",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-45-2022",
+   "path": "local/vaslui/dragomiresti/2022/45",
+   "short": "HCL Dragomirești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 45/2022 privind aprobarea rectificării a – VI - a , a bugetului local prin repartizarea de sume la comuna Dragomirești pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94899",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-52-2022",
+   "path": "local/vaslui/dragomiresti/2022/52",
+   "short": "HCL Dragomirești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 52/2022 privind aprobarea alocării unei sume de 4.500 lei din bugetul local Dragomirești pentru participarea Fanfarei la Festivalul –Concurs al fanfarelor, ediția XVI din Pădureni , județul Vaslui, 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94906",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-53-2022",
+   "path": "local/vaslui/dragomiresti/2022/53",
+   "short": "HCL Dragomirești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 53/2022 privind aprobarea solicitării de prelungire a Scrisorii de garanție nr. 425 / 22.08.2017 emisa de FNGCIMM SA IFN aferenta proiectului “Extinderea si dotarea funcționalului din cadrul Liceului Tehnologic Vladia din comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94935",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-54-2022",
+   "path": "local/vaslui/dragomiresti/2022/54",
+   "short": "HCL Dragomirești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 54/2022 privind aprobarea Programului de pregătire ,deszăpezire si combaterea poleiului pe drumurile comunale si a Comandamentului de iarna ale comunei Dragomirești , judeţul Vaslui , in perioada 01. noiembrie 2022 – 31. martie 2023",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94936",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-55-2022",
+   "path": "local/vaslui/dragomiresti/2022/55",
+   "short": "HCL Dragomirești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 55/2022 privind aprobare a depunerii proiectului: „Realizare sistem de supraveghere video in comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94937",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-56-2022",
+   "path": "local/vaslui/dragomiresti/2022/56",
+   "short": "HCL Dragomirești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 56/2022 privind aprobarea deblocării si utilizării excedentului la comuna Dragomirești pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94938",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-57-2022",
+   "path": "local/vaslui/dragomiresti/2022/57",
+   "short": "HCL Dragomirești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 57/2022 privind aprobarea rectificării a – VIII - a , a bugetului local prin repartizarea de sume la comuna Dragomirești pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94939",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-58-2022",
+   "path": "local/vaslui/dragomiresti/2022/58",
+   "short": "HCL Dragomirești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 58/2022 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități trim. III / 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94940",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-59-2022",
+   "path": "local/vaslui/dragomiresti/2022/59",
+   "short": "HCL Dragomirești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 59/2022 privind aprobarea revizuirii, modificarii și completarii Regulamentului de Organizare si Functionare a Consiliului Local al comunei Dragomiresti , judeţul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94941",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-6-2022",
+   "path": "local/vaslui/dragomiresti/2022/6",
+   "short": "HCL Dragomirești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 6/2022 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78481",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-60-2022",
+   "path": "local/vaslui/dragomiresti/2022/60",
+   "short": "HCL Dragomirești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 60/2022 privind aprobare a depunerii proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții “Reabilitare și modernizare clădire dispensar în Comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94942",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-61-2022",
+   "path": "local/vaslui/dragomiresti/2022/61",
+   "short": "HCL Dragomirești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 61/2022 privind aprobarea actualizarii Statutului comunei Dragomiresti , judeţul Vaslui",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/94943",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/94943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-8-2022",
+   "path": "local/vaslui/dragomiresti/2022/8",
+   "short": "HCL Dragomirești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 8/2022 privind implementarea proiectului „Realizare stații de încărcare pentru vehicule electrice în comuna Dragomirești, județul Vaslui”",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78483",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dragomiresti-9-2022",
+   "path": "local/vaslui/dragomiresti/2022/9",
+   "short": "HCL Dragomirești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dragomirești nr. 9/2022 privind adoptarea bugetului local al comunei Dragomirești, judeţul Vaslui pentru anul 2022",
+   "url": "https://emol.ro/dragomiresti-vs/registru-hcl/78484",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dragomiresti-vs/registru-hcl/78484",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

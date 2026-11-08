@@ -1,0 +1,1011 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/cozmesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--cozmesti-1-2022",
+   "path": "local/vaslui/cozmesti/2022/1",
+   "short": "HCL Cozmești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 1/2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/48191",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/48191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-10-2022",
+   "path": "local/vaslui/cozmesti/2022/10",
+   "short": "HCL Cozmești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 10/2022 privind anularea accesoriilor în cazul obligaţiilor bugetare restante la data de 31 martie 2020 datorate bugetului local al Comunei Cozmesti, judetul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51421",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-12-2022",
+   "path": "local/vaslui/cozmesti/2022/12",
+   "short": "HCL Cozmești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 12/2022 privind aprobarea bugetului local al comunei Cozmesti pe anul 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51423",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-13-2022",
+   "path": "local/vaslui/cozmesti/2022/13",
+   "short": "HCL Cozmești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 13/2022 privind aprobarea strategiei anuale a achizitiilor publice si a programului anual de achizitii publice a comunei Cozmesti pentru anul 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51424",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-16-2022",
+   "path": "local/vaslui/cozmesti/2022/16",
+   "short": "HCL Cozmești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 16/2022 privind aprobarea Planului de aigurare a resurselor umane, material si financiare necesare gestionării situațiilor de urgență pentru anul 2022 la nivelul comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55651",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-17-2022",
+   "path": "local/vaslui/cozmesti/2022/17",
+   "short": "HCL Cozmești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 17/2022 privind aprobarea Planului de analiza si acoperire a riscurilor a Comitetului Local pentru Situatii de Urgenta al comunei COZMESTI pentru anul 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55652",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-18-2022",
+   "path": "local/vaslui/cozmesti/2022/18",
+   "short": "HCL Cozmești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 18/2022 privind aprobarea achizitiei unor terenuri in suprafata totala de 7543 mp, necesare dezvoltarii infrastructurii si construirii unor obiective care sa imbunatateasca nivelul de trai al cetatenilor",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55653",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-19-2022",
+   "path": "local/vaslui/cozmesti/2022/19",
+   "short": "HCL Cozmești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 19/2022 privind reglementarea acordării ajutoarelor de urgență și a ajutoarelor de înmormantare",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55654",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-2-2022",
+   "path": "local/vaslui/cozmesti/2022/2",
+   "short": "HCL Cozmești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 2/2022 privind aprobarea Planului de actiuni si lucrări de interes local pentru repartizarea orelor de muncă ce vor fi efectuate de către beneficiarii Legii nr. 416/2001 privind venitul minim garantat, în cursul anului 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/48192",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/48192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-22-2022",
+   "path": "local/vaslui/cozmesti/2022/22",
+   "short": "HCL Cozmești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 22/2022 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55657",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-24-2022",
+   "path": "local/vaslui/cozmesti/2022/24",
+   "short": "HCL Cozmești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 24/2022 privind aprobarea proiectului \"CONSTRUIRE TEREN DE SPORT CU GAZON SINTETIC 30x16 M, COMUNA COZMESTI, JUDETUL VASLUI\"",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55659",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-25-2022",
+   "path": "local/vaslui/cozmesti/2022/25",
+   "short": "HCL Cozmești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 25/2022 privind actualizarea programului anual de achiziții publice a Comunei Cozmești pentru anul 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55660",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-26-2022",
+   "path": "local/vaslui/cozmesti/2022/26",
+   "short": "HCL Cozmești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 26/2022 privind aprobarea înființării funcției de conducere de administrator public la nivelul comunei Cozmesti",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55661",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-27-2022",
+   "path": "local/vaslui/cozmesti/2022/27",
+   "short": "HCL Cozmești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 27/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, judetul Vaslui, etapa a I a - martie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55662",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-28-2022",
+   "path": "local/vaslui/cozmesti/2022/28",
+   "short": "HCL Cozmești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 28/2022 privind aprobarea cheltuielilor eligibile si neeligibile, pentru “ CREAREA UNUI SISTEM INTELIGENT DE MANAGEMENT ÎN COMUNA COZMESTI PRIN INTEGRAREA DATELOR SPATIALE DIN TEREN INTR-O SOLUTIE GEOSPATIALA (G.I.S.)” PRIN PNRR/2022/C10 ACTIUNEA I.1.2",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55663",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-29-2022",
+   "path": "local/vaslui/cozmesti/2022/29",
+   "short": "HCL Cozmești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 29/2022 privind achizitionarea serviciilor juridice de consultanta, asistenta si reprezentare a comunei Cozmesti",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/55664",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/55664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-3-2022",
+   "path": "local/vaslui/cozmesti/2022/3",
+   "short": "HCL Cozmești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 3/2022 privind reorganizarea Serviciului public local de Gospodarie comunala la nivelul comunei COZMESTI , județul VASLUI",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/48193",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/48193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-30-2022",
+   "path": "local/vaslui/cozmesti/2022/30",
+   "short": "HCL Cozmești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 30/2022 privind însușirea rapoartelor de evaluare, constituirea comisiei de negociere și achizitia a imobilelor în suprafata de 1400 mp , respectiv 2800mp (real masurat 2843 mp)",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/57657",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/57657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-31-2022",
+   "path": "local/vaslui/cozmesti/2022/31",
+   "short": "HCL Cozmești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 31/2022 privind aprobarea incheierii unui Acord de Parteneriat, pentru realizarea investitiei “Infiintare sistem de distributie inteligent a gazelor naturale in comunele OSESTI, DELESTI, COZMESTI judetul VASLUI ”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/57658",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/57658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-32-2022",
+   "path": "local/vaslui/cozmesti/2022/32",
+   "short": "HCL Cozmești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 32/2022 privind aprobarea implementarii obiectivului de investiții: “Infiintare sistem de distributie inteligent a gazelor naturale in comunele OSESTI, DELESTI, COZMESTI judetul VASLUI ”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/57659",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/57659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-34-2022",
+   "path": "local/vaslui/cozmesti/2022/34",
+   "short": "HCL Cozmești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 34/2022 pentru adoptarea Declarației privind asumarea agendei de integritate organizațională",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61880",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-35-2022",
+   "path": "local/vaslui/cozmesti/2022/35",
+   "short": "HCL Cozmești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 35/2022 privind aprobarea Planului de integritate, aferent Strategiei Naționale Anticorupție, ciclul strategic 2021-2025",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61881",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-36-2022",
+   "path": "local/vaslui/cozmesti/2022/36",
+   "short": "HCL Cozmești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 36/2022 privind aprobarea înscrierii Comunei Cozmești în Asociația de Dezvoltare Intercomunitară pentru Digitalizare și Dezvoltare Durabilă a Județului Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61882",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-37-2022",
+   "path": "local/vaslui/cozmesti/2022/37",
+   "short": "HCL Cozmești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 37/2022 privind aprobarea numărului și cuantumului lunar al burselor acordate elevilor din unitățile de învățământ preuniversitar de stat din comuna Cozmesti, pentru semestrul al ll-lea al anului școlar 2021-2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61883",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-38-2022",
+   "path": "local/vaslui/cozmesti/2022/38",
+   "short": "HCL Cozmești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 38/2022 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul I al anului 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61884",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-39-2022",
+   "path": "local/vaslui/cozmesti/2022/39",
+   "short": "HCL Cozmești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 39/2022 privind actualizarea indicatorilor tehnico - economici al obiectivului de investiții „ AMENAJARE PARC ȘI SCENA MULTIFUNCȚIONALĂ SAT BĂLEȘTI, COMUNA COZMEȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61885",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-4-2022",
+   "path": "local/vaslui/cozmesti/2022/4",
+   "short": "HCL Cozmești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 4/2022 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual de la nivelul aparatului de specialitate al primarului comunei Cozmesti, judetul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/48194",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/48194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-40-2022",
+   "path": "local/vaslui/cozmesti/2022/40",
+   "short": "HCL Cozmești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 40/2022 privind actualizarea indicatorilor tehnico - economici al obiectivului de investiții „ CĂMIN CULTURAL SAT BĂLEȘTI, COMUNA COZMEȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61886",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-41-2022",
+   "path": "local/vaslui/cozmesti/2022/41",
+   "short": "HCL Cozmești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 41/2022 privind actualizarea indicatorilor tehnico - economici al obiectivului de investiții „ EXTINDERE SEDIU PRIMĂRIE COMUNA COZMEȘTI, SAT BĂLEȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61887",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-42-2022",
+   "path": "local/vaslui/cozmesti/2022/42",
+   "short": "HCL Cozmești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 42/2022 privind actualizarea indicatorilor tehnico - economici al obiectivului de investiții „ CĂMIN CULTURAL SAT FÂSTÂCI, COMUNA COZMEȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61888",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-43-2022",
+   "path": "local/vaslui/cozmesti/2022/43",
+   "short": "HCL Cozmești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 43/2022 privind aprobarea includerii în domeniul privat al comunei Cozmești a unor suprafețe de teren, situate în intravilanul și extravilanul comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61889",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-44-2022",
+   "path": "local/vaslui/cozmesti/2022/44",
+   "short": "HCL Cozmești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 44/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a II-a mai 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/61890",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/61890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-46-2022",
+   "path": "local/vaslui/cozmesti/2022/46",
+   "short": "HCL Cozmești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 46/2022 privind înregistrarea comunei Cozmești, județul Vaslui, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar, instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65213",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-48-2022",
+   "path": "local/vaslui/cozmesti/2022/48",
+   "short": "HCL Cozmești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 48/2022 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65215",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-49-2022",
+   "path": "local/vaslui/cozmesti/2022/49",
+   "short": "HCL Cozmești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 49/2022 privind actualizarea indicatorilor tehnico - economici ai proiectului „REABILITARE ȘI MODERNIZARE ȘCOALĂ PRIMARĂ BĂLEȘTI, SAT BĂLEȘTI, COMUNA COZMEȘTI JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65216",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-5-2022",
+   "path": "local/vaslui/cozmesti/2022/5",
+   "short": "HCL Cozmești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 5/2022 privind aprobarea inventarierii la nivelul Unitatii Administrativ Teritoriale comuna Cozmesti, judetul Vaslui a materiei impozabile pentru anul fiscal 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51416",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-50-2022",
+   "path": "local/vaslui/cozmesti/2022/50",
+   "short": "HCL Cozmești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 50/2022 privind actualizarea indicatorilor tehnico - economici ai proiectului „REABILITARE ȘI MODERNIZARE ȘCOALĂ CU CLASELE I - IV FÂSTÂCI, SAT FÂSTÂCI, COMUNA COZMEȘTI JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65217",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-51-2022",
+   "path": "local/vaslui/cozmesti/2022/51",
+   "short": "HCL Cozmești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 51/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a III-a iunie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65218",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-52-2022",
+   "path": "local/vaslui/cozmesti/2022/52",
+   "short": "HCL Cozmești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 52/2022 privind aprobarea organigramei şi a statului de funcţii din cadrul Serviciului Public Local de Gospodărie Comunală Cozmești",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/65219",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/65219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-53-2022",
+   "path": "local/vaslui/cozmesti/2022/53",
+   "short": "HCL Cozmești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 53/2022 privind acordarea de premii bănești elevilor care au obținut rezultate bune la învățătură în anul școlar 2021-2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/67979",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/67979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-55-2022",
+   "path": "local/vaslui/cozmesti/2022/55",
+   "short": "HCL Cozmești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 55/2022 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul II al anului 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/67981",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/67981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-56-2022",
+   "path": "local/vaslui/cozmesti/2022/56",
+   "short": "HCL Cozmești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 56/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a IV-a august 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/67982",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/67982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-57-2022",
+   "path": "local/vaslui/cozmesti/2022/57",
+   "short": "HCL Cozmești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 57/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea inceperii investitiei ”Modernizarea sistemului de iluminat public stradal, in comuna Cozmesti, judetul Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/68753",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/68753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-58-2022",
+   "path": "local/vaslui/cozmesti/2022/58",
+   "short": "HCL Cozmești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 58/2022 privind acordarea unui mandat special reprezentantului UAT COZMEȘTI în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din Municipiile Vaslui, Barlad, Huși și Orașul Negresti - judetul Vaslui ( APC VASLUI)",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/71153",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/71153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-59-2022",
+   "path": "local/vaslui/cozmesti/2022/59",
+   "short": "HCL Cozmești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 59/2022 privind aprobarea STUDIULUI DE FEZABILITATE pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014 - 2020”, a indicatorilor tehnico-economici ai proiectului si a părții cotei de co-finanțare a cheltuielilor eligibile ale proiectului",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/71154",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/71154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-60-2022",
+   "path": "local/vaslui/cozmesti/2022/60",
+   "short": "HCL Cozmești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 60/2022 privind punerea la dispoziția proiectului “Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014 - 2020” a terenurilor pentru construcția/extinderea/reabilitarea investitiilor aferente acestuia",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/71155",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/71155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-62-2022",
+   "path": "local/vaslui/cozmesti/2022/62",
+   "short": "HCL Cozmești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 62/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a V-a septembrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/71813",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/71813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-65-2022",
+   "path": "local/vaslui/cozmesti/2022/65",
+   "short": "HCL Cozmești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 65/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a VI-a septembrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/73494",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/73494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-67-2022",
+   "path": "local/vaslui/cozmesti/2022/67",
+   "short": "HCL Cozmești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 67/2022 privind actualizarea programului anual de achiziții publice a Comunei Cozmești pentru anul 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75553",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-68-2022",
+   "path": "local/vaslui/cozmesti/2022/68",
+   "short": "HCL Cozmești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 68/2022 privind completarea Hotărârii Consiliului Local Cozmești nr. 28 din 31.03.2022 privind aprobarea cheltuielilor eligibile si neeligibile, pentru “ SISTEM INTELIGENT DE MANAGEMENT IN COMUNA COZMEȘTI PENTRU INTEGRAREA DATELOR SPATIALE INTR-O SOLUTIE (G.I.S.) PRIN PNRR/2022/C10 ACTIUNEA I.1.2",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75554",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-69-2022",
+   "path": "local/vaslui/cozmesti/2022/69",
+   "short": "HCL Cozmești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 69/2022 privind aprobarea depunerii proiectului cu titlul “Ecosistem digital interconectat si integrat in cadrul Judetului Vaslui” în cadrul apelului de proiecte PNRR/2022/C10/ I.1 /I.1.2 și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75555",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-7-2022",
+   "path": "local/vaslui/cozmesti/2022/7",
+   "short": "HCL Cozmești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 7/2022 privind aprobarea contului de executie al bugetului local al Comunei Cozmesti pe trimestrul IV al anului 2021",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51418",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-70-2022",
+   "path": "local/vaslui/cozmesti/2022/70",
+   "short": "HCL Cozmești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 70/2022 privind declararea unor imobile ca bunuri ce aparțin domeniului public de interes local al comunei Cozmești, județul Vaslui",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75556",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-71-2022",
+   "path": "local/vaslui/cozmesti/2022/71",
+   "short": "HCL Cozmești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 71/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a VII-a octombrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75557",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-72-2022",
+   "path": "local/vaslui/cozmesti/2022/72",
+   "short": "HCL Cozmești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 72/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Modernizare drumuri de interes local în comuna Cozmești, județul Vaslui” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/75558",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/75558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-74-2022",
+   "path": "local/vaslui/cozmesti/2022/74",
+   "short": "HCL Cozmești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 74/2022 privind aprobarea numărului și cuantumului lunar al burselor acordate elevilor din unitățile de învățământ preuniversitar de stat din comuna Cozmești pentru anulu școlar 2022-2023",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80285",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-75-2022",
+   "path": "local/vaslui/cozmesti/2022/75",
+   "short": "HCL Cozmești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 75/2022 privind aprobarea Programului de pregătire, deszăpezire și combatere a poleiului pe drumurile din administrarea comunei în perioada 01 noimebrie 2022 - 31 martie 2023",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80286",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-76-2022",
+   "path": "local/vaslui/cozmesti/2022/76",
+   "short": "HCL Cozmești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 76/2022 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Cozmești spre adoptare",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80287",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-78-2022",
+   "path": "local/vaslui/cozmesti/2022/78",
+   "short": "HCL Cozmești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 78/2022 privind aprobarea contului de execuție al bugetului local al Comunei Cozmești pe trimestrul al III-lea al anului 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80289",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-79-2022",
+   "path": "local/vaslui/cozmesti/2022/79",
+   "short": "HCL Cozmești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 79/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a VIII-a noiembrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80290",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-8-2022",
+   "path": "local/vaslui/cozmesti/2022/8",
+   "short": "HCL Cozmești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 8/2022 privind aprobrea contului de incheiere a exercitiului bugetar al bugetului local pe anul 2021",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51419",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-80-2022",
+   "path": "local/vaslui/cozmesti/2022/80",
+   "short": "HCL Cozmești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 80/2022 privind aprobarea modificării și completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 1727/2010, încheiat între Asociația pentru Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare din Municipiile Vaslui, Bârlad, Huși și Orașul Negrești - Județul Vaslui ( APC VASLUI) și Operatorul Regional AQUAVAS SA, prin Actul Adițional nr. 13",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/80291",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/80291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-81-2022",
+   "path": "local/vaslui/cozmesti/2022/81",
+   "short": "HCL Cozmești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 81/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a IX-a decembrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/82308",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/82308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-84-2022",
+   "path": "local/vaslui/cozmesti/2022/84",
+   "short": "HCL Cozmești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 84/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2023",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/83213",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/83213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-86-2022",
+   "path": "local/vaslui/cozmesti/2022/86",
+   "short": "HCL Cozmești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 86/2022 privind aprobarea rectificării bugetului local al comunei Cozmesti, județul Vaslui, etapa a X-a decembrie 2022",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/83215",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/83215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-87-2022",
+   "path": "local/vaslui/cozmesti/2022/87",
+   "short": "HCL Cozmești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 87/2022 privind actualizarea devizului general al proiectului „Înființare centru de zi în satul Fâstâci,Comuna Cozmești, Județul Vaslui”",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/83216",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/83216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--cozmesti-9-2022",
+   "path": "local/vaslui/cozmesti/2022/9",
+   "short": "HCL Cozmești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cozmești nr. 9/2022 privind privind modificarea cuantumului taxei speciale de salubrizare SIMDS la nivelul comunei Cozmesti",
+   "url": "https://emol.ro/cozmesti-vs/registru-hcl/51420",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cozmesti-vs/registru-hcl/51420",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

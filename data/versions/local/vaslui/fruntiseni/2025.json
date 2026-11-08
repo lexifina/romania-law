@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/fruntiseni/2025",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--fruntiseni-15-2025",
+   "path": "local/vaslui/fruntiseni/2025/15",
+   "short": "HCL Fruntișeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 15/2025 privind aprobarea bugetului local pe anul 2025 şi estimarea bugetului de venituri şi cheltuieli pentru anii 2026-2028 al comunei Fruntișeni",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/199832",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/199832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-17-2025",
+   "path": "local/vaslui/fruntiseni/2025/17",
+   "short": "HCL Fruntișeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 17/2025 privind aprobarea Planului Urbanistic Zonal și Regulamentului local de urbanism aferent ”PUZ pentru suprafața de 15.530 mp teren arabil situat în extravilanul satului Fruntișeni, comuna Fruntișeni, județul Vaslui în vederea atribuirii locuri de casă pentru tinerii căsătoriți de pe raza comunei Fruntișeni”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/199834",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/199834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-36-2025",
+   "path": "local/vaslui/fruntiseni/2025/36",
+   "short": "HCL Fruntișeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 36/2025 privind instituirea unor taxe speciale pentru eliberarea în regim de urgență a unor documente solicitate de persoanele fizice și juridice",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/227652",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/227652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-37-2025",
+   "path": "local/vaslui/fruntiseni/2025/37",
+   "short": "HCL Fruntișeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 37/2025 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor de pe raza comunei Fruntișeni, care nu se supun înmatriculării",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/227653",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/227653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-63-2025",
+   "path": "local/vaslui/fruntiseni/2025/63",
+   "short": "HCL Fruntișeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 63/2025 privind stabilirea impozitelor și taxelor locale, alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2026",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/244527",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/244527",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

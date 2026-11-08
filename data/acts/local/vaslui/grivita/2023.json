@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-2-2023",
+"path": "local/vaslui/grivita/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 2/2023 privind modificarea Hotărârii Consiliului local al comunei Griviţa nr. 3/2020 pentru aprobarea instituirii taxei speciale de salubrizare, cu modificările şi completările ulterioare",
+"short": "HCL Grivița nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#39706",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-3-2023",
 "path": "local/vaslui/grivita/2023/3",
 "kind": "local",
@@ -1117,6 +1139,72 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-51-2023",
+"path": "local/vaslui/grivita/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 51/2023 privind aprobarea indicatorilor tehnico-economici pentru proiectul de investiţie „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Grivița, Județul Vaslui”",
+"short": "HCL Grivița nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#48019",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-52-2023",
+"path": "local/vaslui/grivita/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 52/2023 pentru aprobarea participării Comunei Griviţa, județul Vaslui la parteneriatul LEADER cu denumirea “Covurlui”",
+"short": "HCL Grivița nr. 52/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#48053",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-53-2023",
+"path": "local/vaslui/grivita/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 53/2023 privind aprobarea documentaţiei tehnico-economice şi a indicatorilor aferenti obiectivului de investiţii: „Achiziţia de pubele individuale pentru dezvoltarea infrastructurii de management al deşeurilor din comuna Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#48077",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-54-2023",
 "path": "local/vaslui/grivita/2023/54",
 "kind": "local",
@@ -1205,6 +1293,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-58-2023",
+"path": "local/vaslui/grivita/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 58/2023 pentru analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul I al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Grivița nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#50135",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1369,6 +1479,50 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-66-2023",
+"path": "local/vaslui/grivita/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 66/2023 pentru aprobarea programului de măsuri pentru întreţinerea drumurilor de interes local",
+"short": "HCL Grivița nr. 66/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#50438",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-67-2023",
+"path": "local/vaslui/grivita/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 67/2023 pentru aprobarea notei conceptuale, temei de proiectare şi a devizului general pentru obiectivul de investiţii „Foraj experimental în localitatea Odaia Bursucani, comuna Grivița, județul Vaslui și echipare cu țeavă PN10 în vederea exploatării puțului”",
+"short": "HCL Grivița nr. 67/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#50482",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-68-2023",
 "path": "local/vaslui/grivita/2023/68",
 "kind": "local",
@@ -1392,6 +1546,72 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-69-2023",
+"path": "local/vaslui/grivita/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 69/2023 privind atestarea apartenenţei unor terenuri la domeniul privat al comunei Griviţa",
+"short": "HCL Grivița nr. 69/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#52093",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-70-2023",
+"path": "local/vaslui/grivita/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 70/2023 pentru modificarea Anexei la Hotărârea Consiliului local al comunei Griviţa nr. 14/2001 privind însuşirea inventarului bunurilor ce aparţin domeniului public al comunei Griviţa",
+"short": "HCL Grivița nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#52114",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-71-2023",
+"path": "local/vaslui/grivita/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 71/2023 privind atestarea inventarului bunurilor care aparţin domeniului public al comunei Griviţa, judeţul Vaslui",
+"short": "HCL Grivița nr. 71/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#44142",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-72-2023",
 "path": "local/vaslui/grivita/2023/72",
 "kind": "local",
@@ -1411,6 +1631,160 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-73-2023",
+"path": "local/vaslui/grivita/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 73/2023 privind aprobarea devizului general final pentru obiectivul de investiţie \"Extindere reţea canalizare în comuna Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 73/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#52594",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-74-2023",
+"path": "local/vaslui/grivita/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 74/2023 privind atestarea apartenenţei terenului în suprafaţă de 10200 mp, situat în tarla nr. 108, parcela nr. 1999, categoria de folosinţă neproductiv, la domeniul privat al comunei Griviţa",
+"short": "HCL Grivița nr. 74/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#52591",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-75-2023",
+"path": "local/vaslui/grivita/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 75/2023 privind aprobarea devizului general final pentru obiectivul de investiţie „Modernizare şi extindere Şcoala gimnazială „Stroe Belloescu” sat Griviţa, comuna Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#52596",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-76-2023",
+"path": "local/vaslui/grivita/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 76/2023 privind aprobarea devizului general actualizat, la nivelul lunii iulie 2023, pentru obiectivul de investiţie “Înfiinţare sistem de distribuție inteligent gaze naturale în comuna Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 76/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#54281",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-77-2023",
+"path": "local/vaslui/grivita/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 77/2023 privind aprobarea devizului general şi a indicatorilor tehnico – economici pentru obiectivul de investiţie „Îmbunătăţirea elementelor de scurgere şi evacuarea apelor meteorice şi pluviale din localitatea Griviţa, judeţul Vaslui”",
+"short": "HCL Grivița nr. 77/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#54592",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-78-2023",
+"path": "local/vaslui/grivita/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 78/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiții „Modernizare drumuri de interes local în sat Odaia Bursucani, comuna Grivița, județul Vaslui”",
+"short": "HCL Grivița nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#54802",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-79-2023",
+"path": "local/vaslui/grivita/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 79/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru şcoli al României în perioada 2023-2029, pentru unitățile de învățământ din comuna Griviţa",
+"short": "HCL Grivița nr. 79/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#56069",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1458,6 +1832,72 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-82-2023",
+"path": "local/vaslui/grivita/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 82/2023 privind înființarea Serviciului pentru gestionarea câinilor fără stăpân din comuna Griviţa",
+"short": "HCL Grivița nr. 82/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#54252",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-83-2023",
+"path": "local/vaslui/grivita/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 83/2023 pentru modificarea hotărârii Consiliului local al comunei Griviţa nr. 24/31.05.2013 privind actualizarea componenţei Consiliului comunitar consultativ",
+"short": "HCL Grivița nr. 83/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#55231",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-84-2023",
+"path": "local/vaslui/grivita/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 84/2023 pentru analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul II al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Grivița nr. 84/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#56197",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-85-2023",
 "path": "local/vaslui/grivita/2023/85",
 "kind": "local",
@@ -1477,6 +1917,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-86-2023",
+"path": "local/vaslui/grivita/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 86/2023 pentru aprobarea regulamentului de acordare a înlesnirilor la plată pentru obligaţiile fiscale datorate bugetului local al comunei Grivița",
+"short": "HCL Grivița nr. 86/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#56649",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1546,6 +2008,50 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-90-2023",
+"path": "local/vaslui/grivita/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 90/2023 pentru aprobarea Strategiei de dezvoltare a serviciilor sociale din comuna Griviţa, pentru perioada 2023-2029",
+"short": "HCL Grivița nr. 90/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#59166",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-91-2023",
+"path": "local/vaslui/grivita/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 91/2023 privind aprobarea “Programului de deszăpezire şi combatere a poleiului pe drumurile din administrarea comunei, în perioada de iarnă 01 noiembrie 2023 – 31 martie 2024”",
+"short": "HCL Grivița nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#60695",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-92-2023",
 "path": "local/vaslui/grivita/2023/92",
 "kind": "local",
@@ -1565,6 +2071,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-93-2023",
+"path": "local/vaslui/grivita/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 93/2023 pentru analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul III al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Grivița nr. 93/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#60738",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1656,6 +2184,116 @@
 }
 },
 {
+"slug": "hcl-vaslui--grivita-98-2023",
+"path": "local/vaslui/grivita/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 98/2023 privind rectificarea bugetului local al comunei Griviţa, pe anul 2023, luna decembrie şi validarea dispoziţiei primarului comunei Griviţa nr. 256/2023 privind rectificarea bugetului local al comunei Griviţa pentru anul 2023, luna noiembrie",
+"short": "HCL Grivița nr. 98/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#64876",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-99-2023",
+"path": "local/vaslui/grivita/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 99/2023 privind stabilirea pentru anul 2024 a impozitului pentru autovehiculele de transport marfă cu masa totală autorizată egală sau mai mare de 12 tone",
+"short": "HCL Grivița nr. 99/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#60909",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-100-2023",
+"path": "local/vaslui/grivita/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 100/2023 pentru actualizarea cu rata inflaţiei si stabilirea impozitelor şi taxelor locale, a altor taxe asimilate acestora, precum şi amenzile, aplicabile în anul fiscal 2024",
+"short": "HCL Grivița nr. 100/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#60904",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-101-2023",
+"path": "local/vaslui/grivita/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 101/2023 privind acordarea unor înlesniri la plată, constând în scutirea de majorări de întârziere aferente obligaţiilor fiscale principale cuvenite bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al comunei Griviţa",
+"short": "HCL Grivița nr. 101/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#64844",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-102-2023",
+"path": "local/vaslui/grivita/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 102/2023 pentru aprobarea prelungirii duratei contractului de concesiune a spaţiului cu destinaţia cabinet medical, situat în satul Griviţa, comuna Griviţa, judeţul Vaslui",
+"short": "HCL Grivița nr. 102/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#64553",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vaslui--grivita-103-2023",
 "path": "local/vaslui/grivita/2023/103",
 "kind": "local",
@@ -1675,6 +2313,28 @@
 "council_name": "Consiliul Local al Comunei Grivița",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-104-2023",
+"path": "local/vaslui/grivita/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 104/2023 privind acordarea unui mandat special reprezentantului legal al Comunei Griviţa în adunarea generală a Asociatiei pentru Dezvoltare Intercomunitară de Utilităţi Publice pentru Serviciul de Alimentare cu Apă şi de Canalizare din Municipiile Vaslui, Bârlad, Huşi şi Orasul Negreşti - judeţul Vaslui",
+"short": "HCL Grivița nr. 104/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#63953",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1720,6 +2380,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--grivita-107-2023",
+"path": "local/vaslui/grivita/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 107/2023 pentru aprobarea Regulamentului privind normele de gospodărire comunală pe teritoriul comunei Griviţa, judetul Vaslui",
+"short": "HCL Grivița nr. 107/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://grivita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/11878#65193",
+"council": "vaslui/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
 }
 },
 {

@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/vaslui/delesti/2021",
+"acts": [
+{
+"slug": "hcl-vaslui--delesti-4-2021",
+"path": "local/vaslui/delesti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 4/2021 privind aprobarea cuantumului taxei speciale de salubrizare la nivelul comunei Delesti, judetul Vaslui",
+"short": "HCL Delești nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/18805",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--delesti-6-2021",
+"path": "local/vaslui/delesti/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 6/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Delesti, judetul Vaslui",
+"short": "HCL Delești nr. 6/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/69187",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--delesti-17-2021",
+"path": "local/vaslui/delesti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 17/2021 privind aprobarea utilizarii excedentului bugetului local al Comunei Delesti, judetul Vaslui la 31.12.2020",
+"short": "HCL Delești nr. 17/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/69198",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--delesti-20-2021",
+"path": "local/vaslui/delesti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 20/2021 privind aprobarea contului de execuție bugetara pe anul 2021",
+"short": "HCL Delești nr. 20/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/69201",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--delesti-24-2021",
+"path": "local/vaslui/delesti/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 24/2021 privind alegerea presedintelui de sedinta a Consiliului local al comunei Delesti, judetul Vaslui",
+"short": "HCL Delești nr. 24/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-26",
+"latest": "2021-07-26",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/69205",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--delesti-35-2021",
+"path": "local/vaslui/delesti/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Delești nr. 35/2021 privind atribuirea denumirilor strazilor din comuna Delești, judetul Vaslui",
+"short": "HCL Delești nr. 35/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-08",
+"latest": "2021-10-08",
+"portal": "https://emol.ro/delesti-vs/registru-hcl/69223",
+"council": "vaslui/delesti",
+"council_name": "Consiliul Local al Comunei Delești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

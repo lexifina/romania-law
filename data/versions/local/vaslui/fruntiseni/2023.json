@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/fruntiseni/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--fruntiseni-1-2023",
+   "path": "local/vaslui/fruntiseni/2023/1",
+   "short": "HCL Fruntișeni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 1/2023 privind aprobarea organizarii reţelei şcolare pentru anul şcolar 2023-2024 la nivelul comunei Fruntişeni, jud. Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86767",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-10-2023",
+   "path": "local/vaslui/fruntiseni/2023/10",
+   "short": "HCL Fruntișeni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 10/2023 privind aprobarea planului de măsuri pentru întreţinerea drumurilor de interes local de pe raza comunei Fruntişeni pentru anul 2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86776",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-11-2023",
+   "path": "local/vaslui/fruntiseni/2023/11",
+   "short": "HCL Fruntișeni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 11/2023 cu privire la actualizarea Strategiei de dezoltare locala a comunei Fruntiseni - perioada 2021 - 2027",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/90316",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/90316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-12-2023",
+   "path": "local/vaslui/fruntiseni/2023/12",
+   "short": "HCL Fruntișeni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 12/2023 privind aprobarea indicatorilor proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din comuna Fruntișeni, județul Vaslui”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/92221",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/92221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-14-2023",
+   "path": "local/vaslui/fruntiseni/2023/14",
+   "short": "HCL Fruntișeni nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 14/2023 privind aprobarea prețului la apă și tarifului pentru apa uzată în comuna Fruntișeni, județul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/92223",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/92223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-15-2023",
+   "path": "local/vaslui/fruntiseni/2023/15",
+   "short": "HCL Fruntișeni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 15/2023 privind declararea unor terenuri ca bunuri de uz și de interes public local în comuna Fruntișeni, județul Vaslui - 3",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/92224",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/92224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-16-2023",
+   "path": "local/vaslui/fruntiseni/2023/16",
+   "short": "HCL Fruntișeni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 16/2023 privind actualizarea datelor tehnice a unor drumuri de exploatare cuprinse în inventarul bunurilor care aparțin domeniului public al UAT Comuna Fruntișeni însușit de Consiliul local prin HCL nr. 20/2008",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/97643",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/97643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-17-2023",
+   "path": "local/vaslui/fruntiseni/2023/17",
+   "short": "HCL Fruntișeni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 17/2023 privind aprobarea contului de execuţie a bugetului local al comunei Fruntişeni şi a bugetului de venituri proprii pentru trimestrul IV - 2022",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/97644",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/97644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-19-2023",
+   "path": "local/vaslui/fruntiseni/2023/19",
+   "short": "HCL Fruntișeni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 19/2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/98851",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/98851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-20-2023",
+   "path": "local/vaslui/fruntiseni/2023/20",
+   "short": "HCL Fruntișeni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 20/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect \"ÎNFIINȚARE CENTRU SOCIAL DE ZI ÎN SATUL GRĂJDENI, COMUNA FRUNTIȘENI, JUDEȚUL VASLUI\"",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/98852",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/98852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-21-2023",
+   "path": "local/vaslui/fruntiseni/2023/21",
+   "short": "HCL Fruntișeni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 21/2023 cu privire la actualizarea Strategiei de dezoltare locala a comunei Fruntiseni - perioada 2021 - 2027",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/98853",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/98853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-22-2023",
+   "path": "local/vaslui/fruntiseni/2023/22",
+   "short": "HCL Fruntișeni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 22/2023 aprobarea participării Comunei Fruntișeni, Județul Vaslui la Parteneriatul LEADER cu denumirea ”COVURLUI”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/101997",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/101997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-24-2023",
+   "path": "local/vaslui/fruntiseni/2023/24",
+   "short": "HCL Fruntișeni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 24/2023 privind modificarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Fruntișeni, județul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/101999",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/101999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-25-2023",
+   "path": "local/vaslui/fruntiseni/2023/25",
+   "short": "HCL Fruntișeni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 25/2023 privind implementarea proiectului „Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Fruntișeni, Județul Vaslui”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/102000",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/102000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-26-2023",
+   "path": "local/vaslui/fruntiseni/2023/26",
+   "short": "HCL Fruntișeni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 26/2023 privind aprobarea indexării impozitelor și taxelor locale cu rata inflației pentru anul 2024",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/102001",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/102001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-29-2023",
+   "path": "local/vaslui/fruntiseni/2023/29",
+   "short": "HCL Fruntișeni nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 29/2023 privind însușirea variantei finale a proiectului de stemă a comunei Fruntișeni, județul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/106131",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/106131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-30-2023",
+   "path": "local/vaslui/fruntiseni/2023/30",
+   "short": "HCL Fruntișeni nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 30/2023 pentru modificarea Hotărârii consiliului local al comunei Fruntișeni cu numărul 16/2023 privind actualizarea datelor tehnice a unor drumuri de exploatare cuprinse în inventarul bunurilor care aparțin domeniului public al UAT Comuna Fruntișeni însușit de Consiliul local prin HCL nr. 20/2008",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/106132",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/106132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-31-2023",
+   "path": "local/vaslui/fruntiseni/2023/31",
+   "short": "HCL Fruntișeni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 31/2023 privind rectificarea bugetului local al comunei Fruntișeni pe anul 2023 – etapa 1",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/106133",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/106133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-34-2023",
+   "path": "local/vaslui/fruntiseni/2023/34",
+   "short": "HCL Fruntișeni nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 34/2023 pentru modificarea Hotărârii consiliului local al comunei Fruntișeni cu numărul 53 din 30.09.2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “ASFALTARE DRUMURI DE INTERES LOCAL ÎN COMUNA FRUNTIȘENI, JUDEȚUL VASLUI” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/108585",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/108585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-39-2023",
+   "path": "local/vaslui/fruntiseni/2023/39",
+   "short": "HCL Fruntișeni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 39/2023 privind aprobarea proiectului de buget de venituri și cheltuieli pentru anul 2024",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/111216",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/111216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-4-2023",
+   "path": "local/vaslui/fruntiseni/2023/4",
+   "short": "HCL Fruntișeni nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 4/2023 privind aprobarea organigramei, a numărului de posturi şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Fruntişeni, judeţul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86770",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-42-2023",
+   "path": "local/vaslui/fruntiseni/2023/42",
+   "short": "HCL Fruntișeni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 42/2023 privind aprobarea Planului Urbanistic Zonal pentru obiectivul ,,REVIZUIRE PLAN URBANISTIC ZONAL PENTRU CONSTRUIRE PARC EOLIAN FRUNTIȘENI, COM. FRUNTIȘENI, COM. ZORLENI, JUD. VASLUI” în comuna FRUNTISENI, judetul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/111219",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/111219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-47-2023",
+   "path": "local/vaslui/fruntiseni/2023/47",
+   "short": "HCL Fruntișeni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 47/2023 privind rectificarea bugetului local al comunei Fruntișeni pe anul 2023 – etapa 2",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/116846",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/116846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-5-2023",
+   "path": "local/vaslui/fruntiseni/2023/5",
+   "short": "HCL Fruntișeni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 5/2023 pentru aprobarea cuantumului taxei speciale de salubrizare în comuna Fruntișeni începând cu anul 2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86771",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-58-2023",
+   "path": "local/vaslui/fruntiseni/2023/58",
+   "short": "HCL Fruntișeni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 58/2023 privind rectificarea bugetului local al comunei Fruntișeni pe anul 2023 – etapa 3",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/122097",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/122097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-6-2023",
+   "path": "local/vaslui/fruntiseni/2023/6",
+   "short": "HCL Fruntișeni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 6/2023 privind inventarierea materiei impozabile pentru anul fiscal 2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86772",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-63-2023",
+   "path": "local/vaslui/fruntiseni/2023/63",
+   "short": "HCL Fruntișeni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 63/2023 privind aprobarea Programului de deszăpezire și combatere a poleiului pe drumurile din administrarea comunei Fruntișeni în perioada de iarnă 1 noiembrie 2023– 31 martie 2024",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/126037",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/126037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-69-2023",
+   "path": "local/vaslui/fruntiseni/2023/69",
+   "short": "HCL Fruntișeni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 69/2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137792",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-7-2023",
+   "path": "local/vaslui/fruntiseni/2023/7",
+   "short": "HCL Fruntișeni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 7/2023 privind aprobarea bugetului local pe anul 2023 şi estimarea bugetului de venituri şi cheltuieli pentru anii 2024-2026 al comunei Fruntișeni",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86773",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-70-2023",
+   "path": "local/vaslui/fruntiseni/2023/70",
+   "short": "HCL Fruntișeni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 70/2023 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării sau gestionării necontrolate a deşeurilor pe raza Comunei Fruntișeni, Judetul Vaslui",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137793",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-71-2023",
+   "path": "local/vaslui/fruntiseni/2023/71",
+   "short": "HCL Fruntișeni nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 71/2023 privind rectificarea bugetului local al comunei Fruntişeni pe anul 2023 – etapa a IV-a",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137794",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-72-2023",
+   "path": "local/vaslui/fruntiseni/2023/72",
+   "short": "HCL Fruntișeni nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 72/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Fruntișeni, judeţul Vaslui, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137795",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-73-2023",
+   "path": "local/vaslui/fruntiseni/2023/73",
+   "short": "HCL Fruntișeni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 73/2023 privind aprobarea unor cheltuieli reprezentând costul pentru acordarea de cadouri copiilor care frecventează cursurile de învăţământ şcolar şi preşcolar în comuna Fruntişeni",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137796",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-74-2023",
+   "path": "local/vaslui/fruntiseni/2023/74",
+   "short": "HCL Fruntișeni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 74/2023 privind aprobarea indicatorilor proiectului „Eficientizare Energetică a Școlii Gimnaziale Fruntișeni, comuna Fruntișeni, județul Vaslui”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137798",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-75-2023",
+   "path": "local/vaslui/fruntiseni/2023/75",
+   "short": "HCL Fruntișeni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 75/2023 privind aprobarea indicatorilor proiectului „Eficientizare Energetică a Școlii Gimnaziale Grăjdeni, comuna Fruntișeni, județul Vaslui”",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137799",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-76-2023",
+   "path": "local/vaslui/fruntiseni/2023/76",
+   "short": "HCL Fruntișeni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 76/2023 privind înlocuirea preşedintelui de şedinţă,",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137800",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-77-2023",
+   "path": "local/vaslui/fruntiseni/2023/77",
+   "short": "HCL Fruntișeni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 77/2023 privind trecerea din domeniul privat in domeniul public al Comunei Fruntiseni a imobilului -cladire administrativa cu nr cadastral 70432 si introducerea in domeniul public a acestuia , situat in comuna Fruntiseni",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137801",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-78-2023",
+   "path": "local/vaslui/fruntiseni/2023/78",
+   "short": "HCL Fruntișeni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 78/2023 privind aprobarea Regulamentului de informare și consultare a publicului cu privire la elaborarea sau revizuirea planurilor de amenajare a teritoriului si de urbanism",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137802",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-86-2023",
+   "path": "local/vaslui/fruntiseni/2023/86",
+   "short": "HCL Fruntișeni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 86/2023",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137844",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-87-2023",
+   "path": "local/vaslui/fruntiseni/2023/87",
+   "short": "HCL Fruntișeni nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 87/2023 privind privind alegerea preşedintelui de şedinţă pentru perioada ianuarie 2024 - februarie 2024",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/137845",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/137845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--fruntiseni-9-2023",
+   "path": "local/vaslui/fruntiseni/2023/9",
+   "short": "HCL Fruntișeni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fruntișeni nr. 9/2023 privind declararea unor terenuri ca bunuri de uz și de interes public local în comuna Fruntișeni, județul Vaslui - 2",
+   "url": "https://emol.ro/fruntiseni-vs/registru-hcl/86775",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/fruntiseni-vs/registru-hcl/86775",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

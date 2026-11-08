@@ -1,0 +1,1161 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/feresti/2024",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--feresti-1-2024",
+   "path": "local/vaslui/feresti/2024/1",
+   "short": "HCL Ferești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 1/2024 privind aprobarea organizarii reţelei unitatilor de invatamant preuniversitar de stat pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/137655",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/137655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-10-2024",
+   "path": "local/vaslui/feresti/2024/10",
+   "short": "HCL Ferești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 10/2024 privind aprobarea Programului anual al achiziţiilor publice pentru anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144048",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-11-2024",
+   "path": "local/vaslui/feresti/2024/11",
+   "short": "HCL Ferești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 11/2024 privind aprobarea programului de intretinere si reparatii pentru anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144049",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-12-2024",
+   "path": "local/vaslui/feresti/2024/12",
+   "short": "HCL Ferești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 12/2024 privind aprobarea programului de investitii pentru anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144050",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-13-2024",
+   "path": "local/vaslui/feresti/2024/13",
+   "short": "HCL Ferești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 13/2024 privind aprobarea planului de acţiuni sau de lucrări de interes local pe anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144051",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-14-2024",
+   "path": "local/vaslui/feresti/2024/14",
+   "short": "HCL Ferești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 14/2024 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144052",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-16-2024",
+   "path": "local/vaslui/feresti/2024/16",
+   "short": "HCL Ferești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 16/2024 privind aprobarea decontării contravalorii cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Ferești, județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144054",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-18-2024",
+   "path": "local/vaslui/feresti/2024/18",
+   "short": "HCL Ferești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 18/2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144275",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-19-2024",
+   "path": "local/vaslui/feresti/2024/19",
+   "short": "HCL Ferești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 19/2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/147089",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/147089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-2-2024",
+   "path": "local/vaslui/feresti/2024/2",
+   "short": "HCL Ferești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 2/2024 cu privire la aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici cu devizul general aferent pentru Proiect ”CENTRU COMUNITAR INTEGRAT ÎN LOCALITATEA FEREȘTI, COMUNA FEREȘTI, JUDEȚUL VASLUI” PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ Pilonul V: Sănătate și reziliență instituțională COMPONENTA: 12 - Sănătate INVESTIȚIA: 1. Dezvoltarea infrastructurii medicale prespitalicești Investiția specifică: I1.4: Centre Comunitare Integrate",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/137656",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/137656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-20-2024",
+   "path": "local/vaslui/feresti/2024/20",
+   "short": "HCL Ferești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 20/2024 Privind aprobarea indicatorior tehnico-economici, PTh, P.O.E, P.A.C si a devizelor pentru proiectul „AMPLASARE STALPI DE ILUMINAT STRADALI FOTOVOLTAICI INTELIGENTI PE DRUMUL COMUNAL, COMUNA FERESTI, JUDETUL VASLUI” Mobilitate urbana verde – ITS/alte infrastructuri TIC din cadrul \"PLANULUI NATIONAL DE REDRESARE SI REZILIENTA IN CADRUL APELULUI DE PROIECTE PNRR/2022/C10/I.1.2\"",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/147090",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/147090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-21-2024",
+   "path": "local/vaslui/feresti/2024/21",
+   "short": "HCL Ferești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 21/2024 privind aprobarea Contului anual de execuţie şi a Situaţiei financiare anuale pe anul 2023",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/149572",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/149572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-22-2024",
+   "path": "local/vaslui/feresti/2024/22",
+   "short": "HCL Ferești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 22/2024 privind aprobarea actualizării Planului de analiză si acoperire a riscurilor în domeniul situațiilor de urgenta al comunei Feresti, județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/152567",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/152567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-23-2024",
+   "path": "local/vaslui/feresti/2024/23",
+   "short": "HCL Ferești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 23/2024 privind modificarea anexei 2 - statul de funcţii ale aparatului de specialitate al primarului comunei Feresti și serviciilor publice de interes local din subordinea Consiliului Local al comunei Feresti , județul Vaslui, aprobat prin H.C.L.nr.77/2023",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/152568",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/152568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-24-2024",
+   "path": "local/vaslui/feresti/2024/24",
+   "short": "HCL Ferești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 24/2024 privind aprobarea valorii totale a proiectului de investiție ,, Poarta intrare in comuna Ferești”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/152569",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/152569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-25-2024",
+   "path": "local/vaslui/feresti/2024/25",
+   "short": "HCL Ferești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 25/2024 privind înregistrarea Primăriei Comunei Ferești în Sistemul Naţional Electronic de Plată online a taxelor şi impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/152570",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/152570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-27-2024",
+   "path": "local/vaslui/feresti/2024/27",
+   "short": "HCL Ferești nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 27/2024 privind aprobarea rectificarea bugetului local pe anul 2024al comunei Fereşti, judeţul Vaslui -etapa I- virari de credite",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/153447",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/153447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-28-2024",
+   "path": "local/vaslui/feresti/2024/28",
+   "short": "HCL Ferești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 28/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Feresti, județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/153448",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/153448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-3-2024",
+   "path": "local/vaslui/feresti/2024/3",
+   "short": "HCL Ferești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 3/2024 privind aprobarea suplimentarii numărului de posturi pentru asistenţii personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/137657",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/137657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-30-2024",
+   "path": "local/vaslui/feresti/2024/30",
+   "short": "HCL Ferești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 30/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa II- virari de credite",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/156918",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/156918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-31-2024",
+   "path": "local/vaslui/feresti/2024/31",
+   "short": "HCL Ferești nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 31/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Ferești pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul I, anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/156919",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/156919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-32-2024",
+   "path": "local/vaslui/feresti/2024/32",
+   "short": "HCL Ferești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 32/2024 privind aprobarea elaborarii de studii tehnice pentru obiectivul de investitie “EFICIENTIZAREA CONSUMULUI DE ENERGIE ELECTRICA LA UAT COMUNA FERESTI, JUD. VASLUI PRIN INSTALARE DE PANOURI FOTOVOLTAICE CU PUTEREA DE 180 KW”,, în vederea finanțării acestuia în cadrul apelului Programul-cheie 1: Surse regenerabile de energie și stocarea energiei - Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice, finanțat prin Fondul pentru Modernizare",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/156920",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/156920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-33-2024",
+   "path": "local/vaslui/feresti/2024/33",
+   "short": "HCL Ferești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 33/2024 privind aprobarea fondului de premiere a elevilor din învățământul preuniversitar, care au obținut rezultate foarte bune la invatatura in anul scolar 2023-2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/156921",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/156921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-34-2024",
+   "path": "local/vaslui/feresti/2024/34",
+   "short": "HCL Ferești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 34/2024 privind aprobarea devizului general final pentru cheltuielile de capital necesare realizării obiectivului de investiții „MODERNIZARE INFRASTRUCTURA RUTIERĂ ÎN COMUNA FEREȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/159024",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/159024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-35-2024",
+   "path": "local/vaslui/feresti/2024/35",
+   "short": "HCL Ferești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 35/2024 privind aprobarea modului de utilizare a microbuzului școlar destinat transportului elevilor, la nivelul comunei Ferești",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/162079",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/162079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-36-2024",
+   "path": "local/vaslui/feresti/2024/36",
+   "short": "HCL Ferești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 36/2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/162080",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/162080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-37-2024",
+   "path": "local/vaslui/feresti/2024/37",
+   "short": "HCL Ferești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 37/2024 cu privire la aprobarea documentatiei tehnico-economica, P.T.H, D.A.T.C, D.T.O.E a indicatorilor tehnico-economici si a devizelor aferente pentru Proiect ”CENTRU COMUNITAR INTEGRAT ÎN LOCALITATEA FEREȘTI, COMUNA FEREȘTI, JUDEȚUL VASLUI”,PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ Pilonul V: Sănătate și reziliență instituțională, COMPONENTA: 12 - Sănătate INVESTIȚIA: 1. Dezvoltarea infrastructurii medicale prespitalicești Investiția specifică: I1.4: Centre Comunitare Integrate",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/162081",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/162081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-39-2024",
+   "path": "local/vaslui/feresti/2024/39",
+   "short": "HCL Ferești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 39/2024 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activități pentru trimestrul II 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/163110",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/163110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-4-2024",
+   "path": "local/vaslui/feresti/2024/4",
+   "short": "HCL Ferești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 4/2024 privind aprobarea instituirii taxei speciale de salubrizare pentru anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/137658",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/137658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-40-2024",
+   "path": "local/vaslui/feresti/2024/40",
+   "short": "HCL Ferești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 40/2024 privind modificarea organigramei şi a statului de funcţii ale aparatului de specialitate al primarului comunei Feresti și serviciilor publice de interes local din subordinea Consiliului Local al comunei Feresti , județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/163111",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/163111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-41-2024",
+   "path": "local/vaslui/feresti/2024/41",
+   "short": "HCL Ferești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 41/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Feresti, județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/163112",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/163112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-42-2024",
+   "path": "local/vaslui/feresti/2024/42",
+   "short": "HCL Ferești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 42/2024 privind organizarea turneului de fotbal,,Simon Cup 2024” in comuna Feresti",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/163113",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/163113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-43-2024",
+   "path": "local/vaslui/feresti/2024/43",
+   "short": "HCL Ferești nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 43/2024 privind aprobarea valorii totale a proiectului de investiție ,, Montare sistem de supraveghere in comuna Ferești”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/163114",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/163114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-44-2024",
+   "path": "local/vaslui/feresti/2024/44",
+   "short": "HCL Ferești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 44/2024 privind aprobarea contului de executie si situatiile financiare ale bugetului local pentru trimestrul II, anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/168114",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/168114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-45-2024",
+   "path": "local/vaslui/feresti/2024/45",
+   "short": "HCL Ferești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 45/2024 privind instituirea unor facilitati fiscale si aprobarea procedurii de anulare accesoriilor aferente obligatiilor fiscale si nefiscale principale restante la data de 31.12.2023 inclusiv, datorate la bugetul local de catre contribuabilii de pe raza UAT Feresti",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/168115",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/168115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-47-2024",
+   "path": "local/vaslui/feresti/2024/47",
+   "short": "HCL Ferești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 47/2024 privind abrobarea Regulamentului de organizare si functionare a serviciului de transport public local cu vehicule speciale destinate serviciilor funerare de pe raza UAT Feresti",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/168117",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/168117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-48-2024",
+   "path": "local/vaslui/feresti/2024/48",
+   "short": "HCL Ferești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 48/2024 privind introducerea obiectivului de investiție Furnizarea de autoturisme electrice, prin intermediul „Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2020-2024”, în Programul anual de investiții al Comunei Ferești – 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/168562",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/168562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-49-2024",
+   "path": "local/vaslui/feresti/2024/49",
+   "short": "HCL Ferești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 49/2024 privind aprobarea rectificarii bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa III- a",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/170951",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/170951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-50-2024",
+   "path": "local/vaslui/feresti/2024/50",
+   "short": "HCL Ferești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 50/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic și a principalilor indicatori tehnico-economici pentru proiectul „Modernizare prin asfaltare drumuri de interes local în Comuna Ferești, Județul Vaslui”, aprobat pentru finanțare prin Programul Național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/170952",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/170952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-51-2024",
+   "path": "local/vaslui/feresti/2024/51",
+   "short": "HCL Ferești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 51/2024 privind aprobarea “Regulamentului de acordare a stimulentelor financiare necesare pentru recompensarea elevilor și profesorilor coordonatori cu rezultate deosebite în domeniul performanțelor școlare obținute la olimpiade și concursuri școlare naționale și internaționale, examenul de evaluare națională și examenul de bacalaureat și pentru participarea la olimpiade, concursuri sau tabere școlare de excelență academică la nivel național și internațional”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/170953",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/170953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-52-2024",
+   "path": "local/vaslui/feresti/2024/52",
+   "short": "HCL Ferești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 52/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui-etapa IV",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/170954",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/170954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-53-2024",
+   "path": "local/vaslui/feresti/2024/53",
+   "short": "HCL Ferești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 53/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa V",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173548",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-54-2024",
+   "path": "local/vaslui/feresti/2024/54",
+   "short": "HCL Ferești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 54/2024 privind aprobarea STUDIULUI DE FEZABILITATE pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui”, a indicatorilor tehnico-economici ai proiectului si a părții cotei de co-finanțare a cheltuielilor eligibile ale proiectului",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173549",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-55-2024",
+   "path": "local/vaslui/feresti/2024/55",
+   "short": "HCL Ferești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 55/2024 privind aprobarea programului de deszapezire si combatere a poleiului pe drumurile din administrarea comunei Feresti, judetul Vaslui in perioada 01 noiembrie 2024 – 31 martie 2025",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173550",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-56-2024",
+   "path": "local/vaslui/feresti/2024/56",
+   "short": "HCL Ferești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 56/2024 privind introducerea unor imobile la domeniul public al comunei Feresti, judeţul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173551",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-58-2024",
+   "path": "local/vaslui/feresti/2024/58",
+   "short": "HCL Ferești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 58/2024 privind instituirea unor facilităţi fiscale si aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale restante la data de 31.08.2024 inclusiv, datorate bugetului local de către contribuabili de pe raza unităţii administrativ-teritoriale a comunei Ferești, judeţul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173553",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-59-2024",
+   "path": "local/vaslui/feresti/2024/59",
+   "short": "HCL Ferești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 59/2024 privind aprobarea valorii totale a proiectului de investiție ,,Rest de executat gradinita cu 3 sali de clasa in sat Ferești, comuna Ferești, judetul Vaslui”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173554",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-6-2024",
+   "path": "local/vaslui/feresti/2024/6",
+   "short": "HCL Ferești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 6/2024 privind aprobarea indicatorilor privind finantarea investitiei “Actualizare Plan urbanistic general si Regulament local de urbanism al Comunei Ferești, județul Vaslui”, proiect derulat prin Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/141370",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/141370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-60-2024",
+   "path": "local/vaslui/feresti/2024/60",
+   "short": "HCL Ferești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 60/2024 privind aprobarea valorii totale a proiectului de investiție „Dispensar” in sat Ferești, comuna Ferești, judetul Vaslui”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/173555",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/173555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-61-2024",
+   "path": "local/vaslui/feresti/2024/61",
+   "short": "HCL Ferești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 61/2024 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177340",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-62-2024",
+   "path": "local/vaslui/feresti/2024/62",
+   "short": "HCL Ferești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 62/2024 privind constituirea comisiilor de specialitate",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177341",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-63-2024",
+   "path": "local/vaslui/feresti/2024/63",
+   "short": "HCL Ferești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 63/2024 privind alegerea viceprimarului comunei Ferești , județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177342",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-65-2024",
+   "path": "local/vaslui/feresti/2024/65",
+   "short": "HCL Ferești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 65/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa VI",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177344",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-66-2024",
+   "path": "local/vaslui/feresti/2024/66",
+   "short": "HCL Ferești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 66/2024 Privind declararea utilității publice și de interes public local pentru obiectivul de investitie “EFICIENTIZAREA CONSUMULUI DE ENERGIE ELECTRICA LA UAT COMUNA FERESTI, JUD. VASLUI PRIN INSTALARE DE PANOURI FOTOVOLTAICE CU PUTEREA DE 180 KW”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177345",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-67-2024",
+   "path": "local/vaslui/feresti/2024/67",
+   "short": "HCL Ferești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 67/2024 pentru modificarea HCL nr. 37/02.07.2024 cu privire la aprobarea documentatiei tehnico-economica, P.T.H, D.A.T.C, D.T.O.E a indicatorilor tehnico-economici si a devizelor aferente pentru Proiect ”CENTRU COMUNITAR INTEGRAT ÎN LOCALITATEA FEREȘTI, COMUNA FEREȘTI, JUDEȚUL VASLUI”,PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ Pilonul V: Sănătate și reziliență instituțională, COMPONENTA: 12 - Sănătate INVESTIȚIA: 1. Dezvoltarea infrastructurii medicale prespitalicești Investiția specifică: I1.4: Centre Comunitare Integrate",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177346",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-68-2024",
+   "path": "local/vaslui/feresti/2024/68",
+   "short": "HCL Ferești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 68/2024 privind aprobarea valorii totale a proiectului de investiție ,, Modernizare infrastructura rutiera in comuna Feresti, judetul Vaslui”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177347",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-69-2024",
+   "path": "local/vaslui/feresti/2024/69",
+   "short": "HCL Ferești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 69/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa VII",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177348",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-7-2024",
+   "path": "local/vaslui/feresti/2024/7",
+   "short": "HCL Ferești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 7/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Feresti, județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/141371",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/141371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-70-2024",
+   "path": "local/vaslui/feresti/2024/70",
+   "short": "HCL Ferești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 70/2024 pentru participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobare Documentația de Avizare a Lucrărilor de Intervenții (D.A.L.I.) pentru proiectul „Modernizare și eficientizarea sistemului de iluminat public în comuna Ferești, județul Vaslui”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/177793",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/177793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-71-2024",
+   "path": "local/vaslui/feresti/2024/71",
+   "short": "HCL Ferești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 71/2024 privind aprobarea contului de executie si situatiile financiare ale bugetului local pentru trimestrul III, anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181170",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-72-2024",
+   "path": "local/vaslui/feresti/2024/72",
+   "short": "HCL Ferești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 72/2024 privind aprobarea organizarii reţelei unitatilor de invatamant preuniversitar de stat pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181171",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-73-2024",
+   "path": "local/vaslui/feresti/2024/73",
+   "short": "HCL Ferești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 73/2024 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activități pentru trimestrul III 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181172",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-75-2024",
+   "path": "local/vaslui/feresti/2024/75",
+   "short": "HCL Ferești nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 75/2024 privind aprobarea Regulamentului de organizare şi funcţionare a aparatului de specialitate al primarului comunei Feresti, judeţul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181174",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-76-2024",
+   "path": "local/vaslui/feresti/2024/76",
+   "short": "HCL Ferești nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 76/2024 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local Feresti",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181175",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-77-2024",
+   "path": "local/vaslui/feresti/2024/77",
+   "short": "HCL Ferești nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 77/2024 privind aprobarea valorii totale a investiției ,, Grădiniță cu 3 Săli de clasă, sat Ferești, comuna Ferești, judetul Vaslui”",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181176",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-78-2024",
+   "path": "local/vaslui/feresti/2024/78",
+   "short": "HCL Ferești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 78/2024 privind modificarea organigramei şi a statului de funcţii ale aparatului de specialitate al primarului comunei Feresti și serviciilor publice de interes local din subordinea Consiliului Local al comunei Feresti , județul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181177",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-79-2024",
+   "path": "local/vaslui/feresti/2024/79",
+   "short": "HCL Ferești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 79/2024 privind indexarea impozitelor si taxelor locale",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181178",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-8-2024",
+   "path": "local/vaslui/feresti/2024/8",
+   "short": "HCL Ferești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 8/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Ferești pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul IV, anul 2023",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144046",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-80-2024",
+   "path": "local/vaslui/feresti/2024/80",
+   "short": "HCL Ferești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 80/2024 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2025, la nivelul comunei Feresti, judetul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181179",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-81-2024",
+   "path": "local/vaslui/feresti/2024/81",
+   "short": "HCL Ferești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 81/2024 privind aprobarea incheierii unui contract de comodat pentru un spaţiu în incinta Cāminului cultural Ferești, judetul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181180",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-82-2024",
+   "path": "local/vaslui/feresti/2024/82",
+   "short": "HCL Ferești nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 82/2024 privind organizarea activităților cu ocazia sărbătorile de iarnă și promovarea obiceiurilor locale în anul 2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181181",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-84-2024",
+   "path": "local/vaslui/feresti/2024/84",
+   "short": "HCL Ferești nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 84/2024 privind modificarea Hotărârii Consiliului local nr. 58 / 16.10.2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024, modificată prin OUG nr. 132 / 22.11.2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/181183",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/181183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-85-2024",
+   "path": "local/vaslui/feresti/2024/85",
+   "short": "HCL Ferești nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 85/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa VIII",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/183972",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/183972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-86-2024",
+   "path": "local/vaslui/feresti/2024/86",
+   "short": "HCL Ferești nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 86/2024 privind aprobarea rectificarea bugetului local pe anul 2024 al comunei Fereşti, judeţul Vaslui -etapa IX-a",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/183973",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/183973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-87-2024",
+   "path": "local/vaslui/feresti/2024/87",
+   "short": "HCL Ferești nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 87/2024",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/183974",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/183974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-88-2024",
+   "path": "local/vaslui/feresti/2024/88",
+   "short": "HCL Ferești nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 88/2024 pentru modificarea HCL nr.62/2024, privind constituirea comisiilor de specialitate",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/183975",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/183975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--feresti-9-2024",
+   "path": "local/vaslui/feresti/2024/9",
+   "short": "HCL Ferești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ferești nr. 9/2024 privind aprobarea bugetului local initial centralizat pe anul 2024 al comunei Fereşti, judeţul Vaslui",
+   "url": "https://emol.ro/feresti-vs/registru-hcl/144047",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/feresti-vs/registru-hcl/144047",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

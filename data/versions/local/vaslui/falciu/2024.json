@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/falciu/2024",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--falciu-10-2024",
+   "path": "local/vaslui/falciu/2024/10",
+   "short": "HCL Fălciu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 10/2024 privind aprobarea bugetului local al comunei Fălciu,județul Vaslui pe anul 2024 și estimările pentru anii 2025 - 2027",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/141948",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/141948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--falciu-29-2024",
+   "path": "local/vaslui/falciu/2024/29",
+   "short": "HCL Fălciu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 29/2024 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2025",
+   "url": "https://emol.ro/falciu-vs/registru-hcl/153832",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/falciu-vs/registru-hcl/153832",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

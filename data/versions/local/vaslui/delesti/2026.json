@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/delesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--delesti-11-2026",
+   "path": "local/vaslui/delesti/2026/11",
+   "short": "HCL Delești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 11/2026 privind aprobarea utilizării excedentului bugetului local al comunei Delești, înregistrat la data de 31.12.2025",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261724",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-12-2026",
+   "path": "local/vaslui/delesti/2026/12",
+   "short": "HCL Delești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 12/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261733",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-13-2026",
+   "path": "local/vaslui/delesti/2026/13",
+   "short": "HCL Delești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 13/2026 privind aprobarea inventarierii materiei impozabile la nivelul comunei Delești, județul Vaslui pentru anul fiscal 2026",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269910",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-14-2026",
+   "path": "local/vaslui/delesti/2026/14",
+   "short": "HCL Delești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 14/2026 privind analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul IV al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269911",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-19-2026",
+   "path": "local/vaslui/delesti/2026/19",
+   "short": "HCL Delești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 19/2026 privind reorganizarea aparatului de specialitate al primarului comunei Delești, județul Vaslui, al instituțiilor și serviciilor publice subordonate Consiliului Local al comunei Delești, în conformitate cu prevederile art.X și art. XL din OUG nr.7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor masuri pentru cresterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269919",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-2-2026",
+   "path": "local/vaslui/delesti/2026/2",
+   "short": "HCL Delești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 2/2026 privind stabilirea unor situații deosebite pentru acordarea unor ajutoare de urgență la nivelul comunei delești, județul Vaslui în anul 2026",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261713",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-20-2026",
+   "path": "local/vaslui/delesti/2026/20",
+   "short": "HCL Delești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 20/2026 privind alegerea presedintelui de sedință al consiliului local al comunei Delești, județul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269920",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-21-2026",
+   "path": "local/vaslui/delesti/2026/21",
+   "short": "HCL Delești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 21/2026 privind aprobarea indicatorilor tehnico-economici actualizati pentru realizarea obiectivului de investiție \" Alimentarea cu apă și amenajare poduri și podețe în lacalitățiile Delești, Albești, Rădăoiești, Harsova, Fundătura și Mânăstirea, comuna Delești, județul Vaslui-Secțiunea alimentare cu apă",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269925",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-22-2026",
+   "path": "local/vaslui/delesti/2026/22",
+   "short": "HCL Delești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 22/2026 privind asigurarea cofinanțării de la bugetul local pentru realizarea obiectivului de investiție \" Alimentarea cu apă și amenajare poduri și podețe în localitatile Delești, Albești, Rădoiesti, horșova, Fundatura și Mânăstirea, comuna Delești, județul Vaslui-Sectiunea alimentară cu apă",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269931",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-23-2026",
+   "path": "local/vaslui/delesti/2026/23",
+   "short": "HCL Delești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 23/2026 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deseurilor inerte provenite din activitățile de construcții și demolari de pe raza comunei Delești, județul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269933",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-25-2026",
+   "path": "local/vaslui/delesti/2026/25",
+   "short": "HCL Delești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 25/2026 privind aprobarea bugetului local al comunei Delești, județul Vaslui pe anul 2026",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/269935",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/269935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-3-2026",
+   "path": "local/vaslui/delesti/2026/3",
+   "short": "HCL Delești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 3/2026 privind stabilirea cuantumului taxei speciale de salubrizare și aprobarea regulamentului cadru de instituire și administrare a taxei speciale de salubrizare la nivelul comunei Delești, județul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261714",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-4-2026",
+   "path": "local/vaslui/delesti/2026/4",
+   "short": "HCL Delești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 4/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2026 conform Legii nr. 196/2016 la nivelul comunei Delești, județul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261715",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-5-2026",
+   "path": "local/vaslui/delesti/2026/5",
+   "short": "HCL Delești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 5/2026 privind aprobarea contului de execuție al bugetului local al comunei Delești, județul Vaslui, aferent trimestrului IV al anului 2025",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261716",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-6-2026",
+   "path": "local/vaslui/delesti/2026/6",
+   "short": "HCL Delești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 6/2026 privind atestatarea inventarului bunurilor care aparțin doemniului public al comunei Delești, județul Vaslui",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261717",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-7-2026",
+   "path": "local/vaslui/delesti/2026/7",
+   "short": "HCL Delești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 7/2026 privind aprobarea Programului anual al achizițiilor publice la nivelul comunei Delești, județul Vaslui pe anul 2026",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261718",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--delesti-9-2026",
+   "path": "local/vaslui/delesti/2026/9",
+   "short": "HCL Delești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Delești nr. 9/2026 privind transmiterea în direct și înregistrarea ședințelor Consiliului local al comunei Delești",
+   "url": "https://emol.ro/delesti-vs/registru-hcl/261722",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/delesti-vs/registru-hcl/261722",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

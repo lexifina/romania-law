@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/botesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--botesti-1-2023",
+   "path": "local/vaslui/botesti/2023/1",
+   "short": "HCL Boțești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 1/2023 privind modificarea Hotărârii Consiliului local Boțești nr. 45/2020 privind organizarea Comisiilor de specialitate din cadrul Consiliului local al comunei Boţeşti, județul Vaslui",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89024",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-10-2023",
+   "path": "local/vaslui/botesti/2023/10",
+   "short": "HCL Boțești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 10/2023 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici actualizaţi şi a devizului general actualizat pentru obiectivul de investiţii „MODERNIZARE DRUMURI DE INTERES LOCAL IN COMUNA BOTESTI, JUDETUL VASLUI”, prin Programul Național de Investiții ”Anghel Saligny”, precum şi a sumei reprezentând categoriile de cheltuieli finanţate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92228",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-11-2023",
+   "path": "local/vaslui/botesti/2023/11",
+   "short": "HCL Boțești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 11/2023 privind aprobarea unui protocol de colaborare între UAT Boțești și Ministerul Muncii și Solidarității Sociale",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92229",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-12-2023",
+   "path": "local/vaslui/botesti/2023/12",
+   "short": "HCL Boțești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 12/2023 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiţii „ TEREN DE SPORT ÎN SAT BOȚEȘTI, COMUNA BOȚEȘTI, JUDETUL VASLUI”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92230",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-13-2023",
+   "path": "local/vaslui/botesti/2023/13",
+   "short": "HCL Boțești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 13/2023 privind darea în folosinta gratuită catre Asociația Filantropia Ortodoxă Huși a unui imobil în suprafață de 43,902 mp și a terenului aferent",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/95238",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/95238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-14-2023",
+   "path": "local/vaslui/botesti/2023/14",
+   "short": "HCL Boțești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 14/2023 privind aprobarea Programului de măsuri pentru gospodărirea și înfrumusețarea comunei Boțești în anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102857",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-15-2023",
+   "path": "local/vaslui/botesti/2023/15",
+   "short": "HCL Boțești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 15/2023 privind rectificarea bugetului local al comunei Boțești, etapa - aprilie 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102858",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-16-2023",
+   "path": "local/vaslui/botesti/2023/16",
+   "short": "HCL Boțești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 16/2023 privind analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul I al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102859",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-17-2023",
+   "path": "local/vaslui/botesti/2023/17",
+   "short": "HCL Boțești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 17/2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102860",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-18-2023",
+   "path": "local/vaslui/botesti/2023/18",
+   "short": "HCL Boțești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 18/2023 privind aprobarea documentaţieia tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiție „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Boțești, Județul Vaslui”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102861",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-2-2023",
+   "path": "local/vaslui/botesti/2023/2",
+   "short": "HCL Boțești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 2/2023 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89025",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-20-2023",
+   "path": "local/vaslui/botesti/2023/20",
+   "short": "HCL Boțești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 20/2023 privind aprobarea parteneriatului LEADER Movila lui Burcel Vaslui Nord prin includerea teritoriului comunei Boțești in teritoriul eligibil LEADER al acestuia",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/102863",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/102863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-21-2023",
+   "path": "local/vaslui/botesti/2023/21",
+   "short": "HCL Boțești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 21/2023 privind alegerea preşedintelui de şedinţă pentru perioada iunie - august 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108107",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-22-2023",
+   "path": "local/vaslui/botesti/2023/22",
+   "short": "HCL Boțești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 22/2023 privind aprobarea contului de executie bugetară pentru trimestrul I – 2023 al comunei Boțești",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108108",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-23-2023",
+   "path": "local/vaslui/botesti/2023/23",
+   "short": "HCL Boțești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 23/2023 privind rectificarea bugetului local, etapa a II a - mai 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108109",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-24-2023",
+   "path": "local/vaslui/botesti/2023/24",
+   "short": "HCL Boțești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 24/2023 privind implementare sistemului electronic de încasare a impozitelor și taxelor locale a primăriei comuei Boțești, județul Vaslui prin achiziționarea platformei InfoPay – servicii de plată electronica a impozitelor și taxelor locale",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108110",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-25-2023",
+   "path": "local/vaslui/botesti/2023/25",
+   "short": "HCL Boțești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 25/2023 privind aprobarea înregistrării comunei Boțești, județul Vaslui în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar (SNEP)",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108111",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-26-2023",
+   "path": "local/vaslui/botesti/2023/26",
+   "short": "HCL Boțești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 26/2023 privind instituirea unor facilităţi fiscale şi aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale restante, datorate bugetului local",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108112",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-27-2023",
+   "path": "local/vaslui/botesti/2023/27",
+   "short": "HCL Boțești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 27/2023 privind aprobarea dreptului de uz şi servitute către SC DELGAZ GRID SA pe durata existenţei capacităţii energetice, asupra suprafeței de 98 mp teren aparținând domeniului public al comunei Boțești, județul Vaslui",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/108113",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/108113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-28-2023",
+   "path": "local/vaslui/botesti/2023/28",
+   "short": "HCL Boțești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 28/2023 privind aprobarea studiului de fezabilitate, devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiție “ TEREN DE SPORT, SAT BOTESTI, COMUNA BOTESTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/112403",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/112403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-29-2023",
+   "path": "local/vaslui/botesti/2023/29",
+   "short": "HCL Boțești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 29/2023 privind implementarea proiectului “TEREN DE SPORT, SAT BOTESTI, COMUNA BOTESTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/112987",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/112987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-3-2023",
+   "path": "local/vaslui/botesti/2023/3",
+   "short": "HCL Boțești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 3/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Botesti , judetul Vaslui, în anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89026",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-30-2023",
+   "path": "local/vaslui/botesti/2023/30",
+   "short": "HCL Boțești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 30/2023 privind aprobarea contului de executie bugetară pentru trimestrul II – 2023 al comunei Boțești",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/115166",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/115166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-31-2023",
+   "path": "local/vaslui/botesti/2023/31",
+   "short": "HCL Boțești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 31/2023 privind rectificarea bugetului local - iulie 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/115167",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/115167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-32-2023",
+   "path": "local/vaslui/botesti/2023/32",
+   "short": "HCL Boțești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 32/2023 privind înfiinţarea serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul comunei Boțești, județul Vaslui",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119080",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-33-2023",
+   "path": "local/vaslui/botesti/2023/33",
+   "short": "HCL Boțești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 33/2023 privind analiza stadiului de înscriere a datelor în registrul agricol, în trimestrul al II-lea al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119081",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-34-2023",
+   "path": "local/vaslui/botesti/2023/34",
+   "short": "HCL Boțești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 34/2023 privind neasumarea responsabilităţii organizării și derulării procedurilor de atribuire a contractelor/acordurilor –cadru pentru achiziţia produselor și a contractelor/acordurilor –cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru şcoli al României în perioada 2023-2029 pentru unitățile de învățământ din comuna Boțești, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119082",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-35-2023",
+   "path": "local/vaslui/botesti/2023/35",
+   "short": "HCL Boțești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 35/2023 privind aprobarea structurii organizatorice și a statului de funcţii cu numărul de personal, din cadrul UAT Comuna BOȚEȘTI, respectiv a aparatului de specialitate al Primarului comunei Boțești, judeţul Vaslui si al serviciilor publice din subordinea consiliului local",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119083",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-37-2023",
+   "path": "local/vaslui/botesti/2023/37",
+   "short": "HCL Boțești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 37/2023 privind rectificarea bugetului local - august 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119085",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-38-2023",
+   "path": "local/vaslui/botesti/2023/38",
+   "short": "HCL Boțești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 38/2023 privind alegerea preşedintelui de şedinţă pentru perioada septembrie - noiembrie 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119086",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-39-2023",
+   "path": "local/vaslui/botesti/2023/39",
+   "short": "HCL Boțești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 39/2023 privind actualizarea indicatorilor proiectului „Extinderea și creşterea eficienţei energetice a infrastructurii de iluminat public în comuna Boțești, Județul Vaslui”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/119087",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/119087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-4-2023",
+   "path": "local/vaslui/botesti/2023/4",
+   "short": "HCL Boțești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 4/2023 privind aprobarea „Planului de analiză şi acoperire a riscurilor” comuna Botesti, judeţul Vaslui, pentru anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89027",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-40-2023",
+   "path": "local/vaslui/botesti/2023/40",
+   "short": "HCL Boțești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 40/2023 privind alegerea preşedintelui de şedinţă pentru perioada octombrie - decembrie 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/125417",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/125417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-41-2023",
+   "path": "local/vaslui/botesti/2023/41",
+   "short": "HCL Boțești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 41/2023 pentru constatarea încetării de drept a mandatului de consilier local înainte de expirarea duratei normale a mandatului",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/125418",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/125418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-42-2023",
+   "path": "local/vaslui/botesti/2023/42",
+   "short": "HCL Boțești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 42/2023 privind rectificarea bugetului local - octombrie - 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/125419",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/125419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-43-2023",
+   "path": "local/vaslui/botesti/2023/43",
+   "short": "HCL Boțești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 43/2023 privind aprobarea contului de executie bugetară al comunei Boțești, pentru trimestrul al III –lea, anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/125420",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/125420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-5-2023",
+   "path": "local/vaslui/botesti/2023/5",
+   "short": "HCL Boțești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 5/2023 privind excedentul anului 2022 si folosirea excedentului anului 2021",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89028",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-6-2023",
+   "path": "local/vaslui/botesti/2023/6",
+   "short": "HCL Boțești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 6/2023 privind aprobarea bugetului local al comunei Botesti, pentru anul 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/89029",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/89029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-7-2023",
+   "path": "local/vaslui/botesti/2023/7",
+   "short": "HCL Boțești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 7/2023 privind alegerea preşedintelui de şedinţă pentru perioada martie -mai 2023",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92225",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-8-2023",
+   "path": "local/vaslui/botesti/2023/8",
+   "short": "HCL Boțești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 8/2023 privind aprobarea contului de executie bugetară pentru trimestrul IV – 2022 al comunei Boțești",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92226",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--botesti-9-2023",
+   "path": "local/vaslui/botesti/2023/9",
+   "short": "HCL Boțești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boțești nr. 9/2023 privind aprobarea indicatorilor proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din comuna Boțești, județul Vaslui”",
+   "url": "https://emol.ro/botesti-vs/registru-hcl/92227",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/botesti-vs/registru-hcl/92227",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

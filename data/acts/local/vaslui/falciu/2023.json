@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/vaslui/falciu/2023",
+"acts": [
+{
+"slug": "hcl-vaslui--falciu-8-2023",
+"path": "local/vaslui/falciu/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 8/2023 privind aprobarea bugetului local al comunei Fălciu,județul Vaslui pe anul 2023 și estimările pentru anii 2024-2026",
+"short": "HCL Fălciu nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/87920",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-23-2023",
+"path": "local/vaslui/falciu/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 23/2023 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2024",
+"short": "HCL Fălciu nr. 23/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/101361",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-28-2023",
+"path": "local/vaslui/falciu/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 28/2023 privind disponibilizarea din patrimoniul privat al comunei Fălciu a autoturismului Dacia Logan MCV înmatriculat cu număr VS 02 PRF și transmiterea acestuia fără plată către Liceul Tehnologic Dimitrie Cantemir Fălciu",
+"short": "HCL Fălciu nr. 28/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/101366",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-51-2023",
+"path": "local/vaslui/falciu/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 51/2023 privind aprobarea Nomenclatorului stradal al comunei Fălciu,județul Vaslui",
+"short": "HCL Fălciu nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/117751",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--falciu-83-2023",
+"path": "local/vaslui/falciu/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fălciu nr. 83/2023 privind aprobarea prelungirii valabilității Planului Urbanistic General al Comunei Fălciu cu Regulamentul Local de Urbanism aferent acestuia",
+"short": "HCL Fălciu nr. 83/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/falciu-vs/registru-hcl/134686",
+"council": "vaslui/falciu",
+"council_name": "Consiliul Local al Comunei Fălciu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

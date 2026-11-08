@@ -3,6 +3,141 @@
  "shard": "local/vaslui/dodesti/2024",
  "acts": [
   {
+   "slug": "hcl-vaslui--dodesti-1-2024",
+   "path": "local/vaslui/dodesti/2024/1",
+   "short": "HCL Dodești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 1/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-10-2024",
+   "path": "local/vaslui/dodesti/2024/10",
+   "short": "HCL Dodești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 10/2024 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual, din aparatul de specialitate a primarului comunei Dodesti, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68968",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-11-2024",
+   "path": "local/vaslui/dodesti/2024/11",
+   "short": "HCL Dodești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 11/2024 privind aprobarea decontării contravalorii cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Dodești, județul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68969",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-12-2024",
+   "path": "local/vaslui/dodesti/2024/12",
+   "short": "HCL Dodești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 12/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Dodesti pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul IV, anul 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68970",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-13-2024",
+   "path": "local/vaslui/dodesti/2024/13",
+   "short": "HCL Dodești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 13/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli anual al Comunei Dodesti",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68971",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-14-2024",
+   "path": "local/vaslui/dodesti/2024/14",
+   "short": "HCL Dodești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 14/2024 privind aprobarea bugetului local pe anul 2024 si estimarile pe anii 2025-2027",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68972",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-16-2024",
+   "path": "local/vaslui/dodesti/2024/16",
+   "short": "HCL Dodești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 16/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-17-2024",
+   "path": "local/vaslui/dodesti/2024/17",
+   "short": "HCL Dodești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 17/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-18-2024",
+   "path": "local/vaslui/dodesti/2024/18",
+   "short": "HCL Dodești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 18/2024 privind aprobarea Devizului general actualizat si a principalilor indicatori tehnico-economici actualizati pentru proiectul „MODERNIZARE DRUM COMUNAL DC55 ȘI DRUMURI SĂTEȘTI ÎN COMUNA DODEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#69680",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#69680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-19-2024",
    "path": "local/vaslui/dodesti/2024/19",
    "short": "HCL Dodești nr. 19/2024",
@@ -13,6 +148,81 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-20-2024",
+   "path": "local/vaslui/dodesti/2024/20",
+   "short": "HCL Dodești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 20/2024 privind aprobarea taxei de închiriere a utilajului buldoexcavator aflat în patrimoniul comunei Dodești, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#71346",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#71346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-21-2024",
+   "path": "local/vaslui/dodesti/2024/21",
+   "short": "HCL Dodești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 21/2024 privind aprobarea Contractului de voluntariat ce se va încheia între persoanele voluntare din cadrul Serviciului Voluntar pentru Situații de Urgență și Consiliul local al comunei Dodești ca beneficiar al voluntariatului, precum și acordarea de compensații în bani membrilor SVSU Dodești pentru timpul efectiv de lucru prestat la intervenții și la alte activități prevăzute în programul serviciului",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#71347",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#71347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-22-2024",
+   "path": "local/vaslui/dodesti/2024/22",
+   "short": "HCL Dodești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 22/2024 privind rectificarea a-I-a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#73313",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#73313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-25-2024",
+   "path": "local/vaslui/dodesti/2024/25",
+   "short": "HCL Dodești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 25/2024 privind înființarea Serviciului pentru gestionarea câinilor fără stăpân din comuna Dodești",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#73316",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#73316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-26-2024",
+   "path": "local/vaslui/dodesti/2024/26",
+   "short": "HCL Dodești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 26/2024 privind aprobarea Planului local de analiză și acoperire a riscurilor pe teritoriul comunei Dodești, județul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75440",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75440",
      "sha256": null
     }
    ]
@@ -33,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--dodesti-28-2024",
+   "path": "local/vaslui/dodesti/2024/28",
+   "short": "HCL Dodești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 28/2024 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul I al anului 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75442",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-29-2024",
+   "path": "local/vaslui/dodesti/2024/29",
+   "short": "HCL Dodești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 29/2024 privind rectificarea a-II–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75443",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75443",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-3-2024",
    "path": "local/vaslui/dodesti/2024/3",
    "short": "HCL Dodești nr. 3/2024",
@@ -43,6 +283,201 @@
      "from": "2024-01-31",
      "units": 1,
      "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-30-2024",
+   "path": "local/vaslui/dodesti/2024/30",
+   "short": "HCL Dodești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 30/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Dodesti pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul I, anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75444",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#75444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-33-2024",
+   "path": "local/vaslui/dodesti/2024/33",
+   "short": "HCL Dodești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 33/2024 privind aprobarea Regulamentului de stabilire a criteriilor de identificare a cladirilor si terenurilor neingrijite situate in intravilanul Comunei Dodesti, in vederea aplicarii prevederilor art. 489 din Legea nr. 227/2015 privind Codul fiscal, cu modificarile si completarile ulterioare",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77145",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-34-2024",
+   "path": "local/vaslui/dodesti/2024/34",
+   "short": "HCL Dodești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 34/2024 privind rectificarea a-III–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77286",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-35-2024",
+   "path": "local/vaslui/dodesti/2024/35",
+   "short": "HCL Dodești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 35/2024 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ”Dezvoltarea sistemului de management local prin implimentarea unui ~Sistem de monitorizare și siguranță a spațiului public~ la nivelul Comunei Dodesti, judetul Vaslui” finanțat prin PNRR/2022/C10/I.1.2.-Componenta 10",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77287",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-36-2024",
+   "path": "local/vaslui/dodesti/2024/36",
+   "short": "HCL Dodești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 36/2024 privind aprobarea Devizului general actualizat și a principalilor indicatori tehnico-economici actualizați pentru proiectul „MODERNIZARE DRUM COMUNAL DC55 ȘI DRUMURI SĂTEȘTI ÎN COMUNA DODEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77400",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#77400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-37-2024",
+   "path": "local/vaslui/dodesti/2024/37",
+   "short": "HCL Dodești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 37/2024 privind aprobarea inventarului materiei impozabile pentru anul 2025",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78280",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-38-2024",
+   "path": "local/vaslui/dodesti/2024/38",
+   "short": "HCL Dodești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 38/2024 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual, din aparatul de specialitate a primarului comunei Dodesti, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78281",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-39-2024",
+   "path": "local/vaslui/dodesti/2024/39",
+   "short": "HCL Dodești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 39/2024 privind aprobarea PLANULUI URBANISTIC ZONAL PRIVIND PARCUL EOLIAN PROWIND 9 și a Regulamentului Local de Urbanism aferent",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78282",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-4-2024",
+   "path": "local/vaslui/dodesti/2024/4",
+   "short": "HCL Dodești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 4/2024 privind stabilirea situaţiilor deosebite pentru care se pot acorda ajutoare de urgenţă din bugetul local, începând cu anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68943",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-40-2024",
+   "path": "local/vaslui/dodesti/2024/40",
+   "short": "HCL Dodești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 40/2024 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78283",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-41-2024",
+   "path": "local/vaslui/dodesti/2024/41",
+   "short": "HCL Dodești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 41/2024 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul II al anului 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78284",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-42-2024",
+   "path": "local/vaslui/dodesti/2024/42",
+   "short": "HCL Dodești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 42/2024 privind rectificarea a-IV–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78875",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-43-2024",
+   "path": "local/vaslui/dodesti/2024/43",
+   "short": "HCL Dodești nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 43/2024 privind modificarea organigramei și a statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Dodești, județul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78876",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#78876",
      "sha256": null
     }
    ]
@@ -63,6 +498,111 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--dodesti-45-2024",
+   "path": "local/vaslui/dodesti/2024/45",
+   "short": "HCL Dodești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 45/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Dodesti pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul II, anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#80016",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#80016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-46-2024",
+   "path": "local/vaslui/dodesti/2024/46",
+   "short": "HCL Dodești nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 46/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-47-2024",
+   "path": "local/vaslui/dodesti/2024/47",
+   "short": "HCL Dodești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 47/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-48-2024",
+   "path": "local/vaslui/dodesti/2024/48",
+   "short": "HCL Dodești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 48/2024 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual, din aparatul de specialitate a primarului comunei Dodesti, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#80019",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#80019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-49-2024",
+   "path": "local/vaslui/dodesti/2024/49",
+   "short": "HCL Dodești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 49/2024 privind aprobarea finantarii obiectivului de investitii „Executie 2 foraje de alimentare cu apa(F4, F5) si retea de aductiune apa in localitatea Dodesti, comuna Dodesti, judetul Vaslui”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#81107",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#81107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-50-2024",
+   "path": "local/vaslui/dodesti/2024/50",
+   "short": "HCL Dodești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 50/2024 pentru aprobarea dezmembrării terenului aparţinând domeniului privat al comunei Dodești, înscris în cartea funciară nr. 73550 a localităţii Dodești",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#81179",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#81179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-51-2024",
+   "path": "local/vaslui/dodesti/2024/51",
+   "short": "HCL Dodești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 51/2024 privind aprobarea documentatiei tehnico-economice actualizate pentru investitia: „Construire și dotare dispensar uman, sat Dodești, T 55, P 215, comuna Dodești, județul Vaslui”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83662",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-52-2024",
    "path": "local/vaslui/dodesti/2024/52",
    "short": "HCL Dodești nr. 52/2024",
@@ -78,6 +618,66 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--dodesti-53-2024",
+   "path": "local/vaslui/dodesti/2024/53",
+   "short": "HCL Dodești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 53/2024 privind modificarea organigramei și a statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Dodești, județul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83664",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-54-2024",
+   "path": "local/vaslui/dodesti/2024/54",
+   "short": "HCL Dodești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 54/2024 privind privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul III al anului 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83665",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-55-2024",
+   "path": "local/vaslui/dodesti/2024/55",
+   "short": "HCL Dodești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 55/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Dodești",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83666",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#83666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-57-2024",
+   "path": "local/vaslui/dodesti/2024/57",
+   "short": "HCL Dodești nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 57/2024 privind rectificarea a-V–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84046",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84046",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-58-2024",
    "path": "local/vaslui/dodesti/2024/58",
    "short": "HCL Dodești nr. 58/2024",
@@ -88,6 +688,66 @@
      "from": "2024-10-18",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-59-2024",
+   "path": "local/vaslui/dodesti/2024/59",
+   "short": "HCL Dodești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 59/2024 privind aprobarea ,,Programului de deszapezire si combatere a poleiului pe drumurile din administrarea comunei Dodesti, in perioada de iarna 1 noiembrie 2024-31 martie 2025”",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84810",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-6-2024",
+   "path": "local/vaslui/dodesti/2024/6",
+   "short": "HCL Dodești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 6/2024 pentru aprobarea Regulamentului privind autorizarea şi funcţionarea agentilor economici care desfasoara activitati comerciale pe raza UAT Comuna Dodesti, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68949",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-60-2024",
+   "path": "local/vaslui/dodesti/2024/60",
+   "short": "HCL Dodești nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 60/2024 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Dodești, județul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84811",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-61-2024",
+   "path": "local/vaslui/dodesti/2024/61",
+   "short": "HCL Dodești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 61/2024 privind aprobarea contului de executie al bugetului local de venituri si cheltuieli al Comunei Dodesti pe cele doua sectiuni: de functionare si dezvoltare pentru trimestrul III, anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84812",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#84812",
      "sha256": null
     }
    ]
@@ -138,6 +798,66 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--dodesti-65-2024",
+   "path": "local/vaslui/dodesti/2024/65",
+   "short": "HCL Dodești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 65/2024 pentru aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Dodești",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85573",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-66-2024",
+   "path": "local/vaslui/dodesti/2024/66",
+   "short": "HCL Dodești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 66/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"Reabilitarea termica si energetica a obiectivului educational Scoala Generala Urdesti, Localitatea Urdesti, Comuna Dodesti, Judetul Vaslui\"",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85574",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-67-2024",
+   "path": "local/vaslui/dodesti/2024/67",
+   "short": "HCL Dodești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 67/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"Extindere cu grupuri sanitare Scoala Generala Urdesti, Localitatea Urdesti, Comuna Dodesti, Judetul Vaslu\"",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85575",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-68-2024",
+   "path": "local/vaslui/dodesti/2024/68",
+   "short": "HCL Dodești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 68/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"Reabilitare și modernizare drumuri de interes local în satul Dodești, comuna Dodești, județul Vaslui\"",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85576",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85576",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--dodesti-69-2024",
    "path": "local/vaslui/dodesti/2024/69",
    "short": "HCL Dodești nr. 69/2024",
@@ -148,6 +868,201 @@
      "from": "2024-11-07",
      "units": 1,
      "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#85577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-7-2024",
+   "path": "local/vaslui/dodesti/2024/7",
+   "short": "HCL Dodești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 7/2024 privind aprobarea sumelor necesare organizarii manifestarilor cultural- artistice, sportive, educative si sustinerea cultelor în comuna Dodesti în anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68964",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-70-2024",
+   "path": "local/vaslui/dodesti/2024/70",
+   "short": "HCL Dodești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 70/2024 privind rectificarea a-VI–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#86121",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#86121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-71-2024",
+   "path": "local/vaslui/dodesti/2024/71",
+   "short": "HCL Dodești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 71/2024 privind rectificarea a-VII–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#88659",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#88659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-72-2024",
+   "path": "local/vaslui/dodesti/2024/72",
+   "short": "HCL Dodești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 72/2024 pentru stabilirea impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89136",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-73-2024",
+   "path": "local/vaslui/dodesti/2024/73",
+   "short": "HCL Dodești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 73/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-74-2024",
+   "path": "local/vaslui/dodesti/2024/74",
+   "short": "HCL Dodești nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 74/2024 privind declararea unor bunuri de uz și interes public local",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89139",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-75-2024",
+   "path": "local/vaslui/dodesti/2024/75",
+   "short": "HCL Dodești nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 75/2024 privind actualizarea Programului Anual al Achizitiilor Publice 2024 al Comunei Dodești, judetul Vaslui",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89140",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-76-2024",
+   "path": "local/vaslui/dodesti/2024/76",
+   "short": "HCL Dodești nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 76/2024 privind aprobarea Strategiei anuale de achiziţii publice a comunei Dodești, judeţul Vaslui, pentru anul 2025",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89141",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-77-2024",
+   "path": "local/vaslui/dodesti/2024/77",
+   "short": "HCL Dodești nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 77/2024 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru trimestrul IV al anului 2024 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89142",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-78-2024",
+   "path": "local/vaslui/dodesti/2024/78",
+   "short": "HCL Dodești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 78/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-79-2024",
+   "path": "local/vaslui/dodesti/2024/79",
+   "short": "HCL Dodești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 79/2024 privind rectificarea a-VIII–a, a bugetului local al comunei Dodesti pe anul 2024",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89819",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#89819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-8-2024",
+   "path": "local/vaslui/dodesti/2024/8",
+   "short": "HCL Dodești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 8/2024 privind aprobarea Planului de întreținere, curățenie, înfrumusețare și bună gospodărire a comunei Dodești",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68966",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--dodesti-9-2024",
+   "path": "local/vaslui/dodesti/2024/9",
+   "short": "HCL Dodești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dodești nr. 9/2024 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2023",
+   "url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68967",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://dodesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/43967#68967",
      "sha256": null
     }
    ]

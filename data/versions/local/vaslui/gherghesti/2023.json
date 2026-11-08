@@ -1,0 +1,1371 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/gherghesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--gherghesti-1-2023",
+   "path": "local/vaslui/gherghesti/2023/1",
+   "short": "HCL Gherghești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 1/2023 privind acoperirea definitivă a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109727",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-10-2023",
+   "path": "local/vaslui/gherghesti/2023/10",
+   "short": "HCL Gherghești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 10/2023 privind dizolvarea și radierea din registrul Comerțului a SC Servicii Comunale Gherghești SRL",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109736",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-101-2023",
+   "path": "local/vaslui/gherghesti/2023/101",
+   "short": "HCL Gherghești nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 101/2023 privind aprobarea Programului de deszăpezire si combatere a poleiului pe drumurile comunale din administrarea comunei, in perioada de iarna 1 noiembrie 2023 -31 martie 2024",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166971",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-105-2023",
+   "path": "local/vaslui/gherghesti/2023/105",
+   "short": "HCL Gherghești nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 105/2023 privind aprobarea documentatiei tehnico-economice a obiectivului de investitii “ÎNFIINȚAREA UNUI CENTRU DE COLECTARE A DEȘEURILOR PRIN APORT VOLUNTAR ÎN COMUNA GHERGHEȘTI, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166975",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-106-2023",
+   "path": "local/vaslui/gherghesti/2023/106",
+   "short": "HCL Gherghești nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 106/2023 privind aprobarea documentatiei tehnico-economice a obiectivului de investitii „Înființare platformă comunală pentru gunoi de grajd în comuna Gherghești, județul Vaslui”",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166976",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-11-2023",
+   "path": "local/vaslui/gherghesti/2023/11",
+   "short": "HCL Gherghești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 11/2023 privind însusțirea Raportului de follow-up nr. 10133/03.02.2023 emisă de Curtea de Conturi Vaslui în urma misiunii de verificare amodului de implementare a recomndarilor dispuse în decizia Camerei de Conturi nr.35 din 31.10.2016",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109737",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-111-2023",
+   "path": "local/vaslui/gherghesti/2023/111",
+   "short": "HCL Gherghești nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 111/2023 privind \"Aprobarea condiţiilor în care se realizează/accesul pe proprietatea publică sau privată a Comunei Gherghești în vedere instalării, întreţinerii, înlocuirii sau mutării reţelelor de comunicaţii electronice sau a elementelor de infrastructură necesare susţinerii acestora, modul de utilizare partajată a elementelor de infrastructură, precum si măsurile privind construirea de reţele de comunicaţii electronice \"",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166981",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-112-2023",
+   "path": "local/vaslui/gherghesti/2023/112",
+   "short": "HCL Gherghești nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 112/2023 privind aprobarea numărului maxim de posturi pentru anul 2023 la nivelul Unității Administrativ-Teritoriale a Comunei Gherghești, județul Vaslui în vederea încadrării în prevederile Legii nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166982",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-113-2023",
+   "path": "local/vaslui/gherghesti/2023/113",
+   "short": "HCL Gherghești nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 113/2023 privind aprobarea bugetului ”Serviciului public de alimentare cu apă și de gospodărire al comunei Gherghești”, județul Vaslui pentru anul 2023-lunile noiembrie și decembrie",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166983",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-115-2023",
+   "path": "local/vaslui/gherghesti/2023/115",
+   "short": "HCL Gherghești nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 115/2023 privind modificarea organigramei și statului de funcții a aparatului de specialitate al primarului comunei Gherghești, județul Vaslui și a organigramei și statului de funcții a structurii organizatorice cu personalitate juridice”serviciul public de alimentare cu apă și gospodărire al comunei Gherghești”, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167021",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-117-2023",
+   "path": "local/vaslui/gherghesti/2023/117",
+   "short": "HCL Gherghești nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 117/2023 privind rectificarea bugetului",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167023",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-12-2023",
+   "path": "local/vaslui/gherghesti/2023/12",
+   "short": "HCL Gherghești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 12/2023 privind aprobarea înfințării Serviciului de iluminat public din Comuna Gherghești, județul Vaslui, a Regulamentului de Organizarea și funcționare al serviciului de iluminat public, a Caietului de Sarcini al Serviciului de iluminat public, a Caietului de sarcini al Serviciului de iluminat public, a draftului de contact de delegare a gestiunii serviciului de iluminat public, a Studiului de oportunitate și a modalității de gestiune a acestuia",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109738",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-123-2023",
+   "path": "local/vaslui/gherghesti/2023/123",
+   "short": "HCL Gherghești nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 123/2023 privind aprobarea tarifelor și prețurilor practicate de către ''serviciul public de alimentare cu apă și gospodărire al comunei Gherghești''",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167032",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-126-2023",
+   "path": "local/vaslui/gherghesti/2023/126",
+   "short": "HCL Gherghești nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 126/2023 privind aprobarea rectificării Programului de deszăpezire și combatere a poleiului pe drumurile comunale din administrarea comunei, în perioada de iarnă 1 noiembrie 2023 - 31 martie 2024",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167038",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-128-2023",
+   "path": "local/vaslui/gherghesti/2023/128",
+   "short": "HCL Gherghești nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 128/2023 privind aprobarea continuării implementării proiectului după data de 31.12.2023 ''Construire Centru Comunitar Integrat în localitatea Gherghești, județul Vaslui''",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167040",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-13-2023",
+   "path": "local/vaslui/gherghesti/2023/13",
+   "short": "HCL Gherghești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 13/2023 privind aprobarea unor situații deosebite pentru acordarea unor ajutoare de urgență, Situații care motivează acordarea ajutoarelor de urgență, altele decăt cele stabilite de art.28, cauzate de calamitățile naturale, incendii, accidente",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109739",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-131-2023",
+   "path": "local/vaslui/gherghesti/2023/131",
+   "short": "HCL Gherghești nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 131/2023 privind aprobarea acordării de cadouri pentru preșcolarii și elevii din cadrul unităților de învățământ din comuna Gherghești, cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167043",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-134-2023",
+   "path": "local/vaslui/gherghesti/2023/134",
+   "short": "HCL Gherghești nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 134/2023 privind aprobarea rețelei școlare de pe raza comunei Gherghești, aferente anului școlar 2024-2025",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167046",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-135-2023",
+   "path": "local/vaslui/gherghesti/2023/135",
+   "short": "HCL Gherghești nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 135/2023 privind aprobarea Programului anual de achiziții publice și a programului de reparare a drumurilor de pe raza comunei Gherghești, pe anul 2024",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167047",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-136-2023",
+   "path": "local/vaslui/gherghesti/2023/136",
+   "short": "HCL Gherghești nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 136/2023 privind stabilirea consumului lunar de carburanți pentru autoturismele și utilajele care deservesc Primăria Gherghești, județul Vaslui pe anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167048",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-137-2023",
+   "path": "local/vaslui/gherghesti/2023/137",
+   "short": "HCL Gherghești nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 137/2023 privind aprobarea Planului de acțiuni și lucrări de interes local pentru beneficiarii de venit minim de incluziune de pe raza comunei Gherghești, județul Vaslui, pe anul 2024",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167049",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-139-2023",
+   "path": "local/vaslui/gherghesti/2023/139",
+   "short": "HCL Gherghești nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 139/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/167050",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/167050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-14-2023",
+   "path": "local/vaslui/gherghesti/2023/14",
+   "short": "HCL Gherghești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 14/2023 privind aprobarea achiziționării servicilor juridice de consultanță, de asistență si/sau reprezentare în dosarele civile aflate pe rolul instantelor de judecată, precum și achiziționarea serviciului de consultanță în domeniul IT/fiscalitate",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109740",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-15-2023",
+   "path": "local/vaslui/gherghesti/2023/15",
+   "short": "HCL Gherghești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 15/2023 privind anularea creanțelor fiscale mai mici de 40 de lei, aflate în sold la data de 31.12.2022",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109741",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-16-2023",
+   "path": "local/vaslui/gherghesti/2023/16",
+   "short": "HCL Gherghești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 16/2023 privind aprobarea trecerii unui teren din domeniul privat în domeniul public al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109742",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-17-2023",
+   "path": "local/vaslui/gherghesti/2023/17",
+   "short": "HCL Gherghești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 17/2023 privind însușirea raportului follow-up transmis de Camera de Conturi a Județului Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109743",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-18-2023",
+   "path": "local/vaslui/gherghesti/2023/18",
+   "short": "HCL Gherghești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 18/2023 privind aprobarea modelului Contractului-cadru de furnizare a serviciului de alimentare cu apă a comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109744",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-19-2023",
+   "path": "local/vaslui/gherghesti/2023/19",
+   "short": "HCL Gherghești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 19/2023 privind aprobarea metodologiei de inventariere a domeniului public al comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109745",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-2-2023",
+   "path": "local/vaslui/gherghesti/2023/2",
+   "short": "HCL Gherghești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 2/2023 privind aprobarea Bugetului local pentru anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109728",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-20-2023",
+   "path": "local/vaslui/gherghesti/2023/20",
+   "short": "HCL Gherghești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 20/2023 privind aprobarea depunerii și implementării proiectului Înfințarea de servicii complementare de educație timpurie de tip ludotecă în comuna Gherghești, sat Gherghești și sat Chetrosu în cadrul Planului Național de Redresare și Reziliență Componenta 15-Educație-Apel de finanțare-Dezvoltarea serviciilor de educație timpurie complementare",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109766",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-21-2023",
+   "path": "local/vaslui/gherghesti/2023/21",
+   "short": "HCL Gherghești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 21/2023 privind aprobarea contractelor de comodat pentru darea în folosință gratuită a terenurilor aparținând Consiliului Local Gherghești, din localitățile sat Chetrosu și sat Gherghești, către Școala Gimnazială nr.1-Gherghești, necesare depunerii și implementarii proiectului Înfințarea de servicii complementare de educație timpurie de tip ludotecă în comuna Gherghești, sat Gherghești și sat Chetrosu în cadrul Planului Național de Redresare și Reziliență, Componenta 15-Educație -Apel de finanațare-Dezvoltarea serviciilor de educație timpurie complementare",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109767",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-22-2023",
+   "path": "local/vaslui/gherghesti/2023/22",
+   "short": "HCL Gherghești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 22/2023 privind aprobarea încredințării directe a executării în continuare a lucrărilor de betoane a drumului vicinal dintre localitățile Chetrosu și Fundu Văii",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109768",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-23-2023",
+   "path": "local/vaslui/gherghesti/2023/23",
+   "short": "HCL Gherghești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 23/2023 privind aprobarea utilizării Fondului de rulament pentru finanațarea cheltuielilor secțiuni de dezvoltare",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109769",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-24-2023",
+   "path": "local/vaslui/gherghesti/2023/24",
+   "short": "HCL Gherghești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 24/2023 privind aprobarea reparării și reabiltării drumurilor comunale și județene, de pe raza comunei Gherghești, deteriorate în urma introducerii rețelei de apă și achiziția de refuz de piatră și lidonit",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109770",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-26-2023",
+   "path": "local/vaslui/gherghesti/2023/26",
+   "short": "HCL Gherghești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 26/2023 privind aprobarea înfințării serviciului public de alimentare cu apă, cu personalitate juridică, în subordinea Consiliului Local al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109820",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-27-2023",
+   "path": "local/vaslui/gherghesti/2023/27",
+   "short": "HCL Gherghești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 27/2023 privind rectificarea bugetului pe anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109821",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-29-2023",
+   "path": "local/vaslui/gherghesti/2023/29",
+   "short": "HCL Gherghești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 29/2023 privind înfințarea Serviciului pentru gestionarea câinilor fără stăpân Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109841",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-3-2023",
+   "path": "local/vaslui/gherghesti/2023/3",
+   "short": "HCL Gherghești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 3/2023 privind actualizarea Inventarului bunurilor care alcătuiesc domeniul public al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109729",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-32-2023",
+   "path": "local/vaslui/gherghesti/2023/32",
+   "short": "HCL Gherghești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 32/2023 privind aprobarea temporară, până la obținerea autorizațiilor de la ISU și DSP, a reluării desfășurării cursurilor școlare în spațiilor din școlile și creșele reabilitate de pe raza comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109844",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-35-2023",
+   "path": "local/vaslui/gherghesti/2023/35",
+   "short": "HCL Gherghești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 35/2023 privind revocarea Hotărârii Consiliului Local Gherghești nr28/24.03.2023 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109915",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-36-2023",
+   "path": "local/vaslui/gherghesti/2023/36",
+   "short": "HCL Gherghești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 36/2023 privind aprobarea menținerii comunei Gherghești Județul Vaslui la parteneriatul tip DLRC/LEADER a Asociației \" VALEA TUTOVEI ȘI ZELETINULUII \"",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109916",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-37-2023",
+   "path": "local/vaslui/gherghesti/2023/37",
+   "short": "HCL Gherghești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 37/2023 privind aprobarea construirii de către Consiliul Local al comunei Gherghești, județul Vaslui a unui imobil cu destinație garaj pentru microbuze electrice și alte autovehicule din dotarea UAT Gherghești și racordarea acestuia la rețeaua de energie electrică prin branșament trifazic",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109917",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-39-2023",
+   "path": "local/vaslui/gherghesti/2023/39",
+   "short": "HCL Gherghești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 39/2023 privind aprobarea documentației de avizare a lucrărilor de investiții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \" Modernizare drumuri de interes local în comuna Gherghești, Județul Vaslui, aprobat pentru finanațarea prin Programul național de investiții \" Anghel Saligny\" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109918",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-4-2023",
+   "path": "local/vaslui/gherghesti/2023/4",
+   "short": "HCL Gherghești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 4/2023 privind stabilirea salariilor de bază pentru funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Gherghești, județul Vaslui, începând cu luna martie 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109730",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-40-2023",
+   "path": "local/vaslui/gherghesti/2023/40",
+   "short": "HCL Gherghești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 40/2023 privind aprobarea contractelor de comodat pentru utilizarea unui microbuz și a unui autocar aparținând Consiliului Local Gherghești, către Școala Gimnazială nr.1 Gherghești, necesare transportului elevilor la cursuri de remediere școlară, clubul toleranței, activități de sprijin a absolvenților din ciclul gimnazial, acordarea de stimulente pentru elevii aflați în risc de abandon școlar",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109921",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-42-2023",
+   "path": "local/vaslui/gherghesti/2023/42",
+   "short": "HCL Gherghești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 42/2023 privind aprobarea modificării HCL nr.26/24.03.2023 de înfințare a serviciului public de alimentare cu apă, cu personalitate juridică, în subordinea Consiliului Local al comunei Gherghești, Județul Vaslui, prin comasarea în cadrul acestui serviciu a Compartimentului Gospodăresc, sub noua denumire de serviciul public de alimentare cu apă și gospodărire al comunei Gherghești și modificarea organigramei și statului de funcții în consecință",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109923",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-43-2023",
+   "path": "local/vaslui/gherghesti/2023/43",
+   "short": "HCL Gherghești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 43/2023 privind aprobarea abrogării HCL nr. 98/29.10/2021 datorită întreruperii prescripției prevăzute în această hotărâre prin efectuarea de plăți de către debitori",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109924",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-44-2023",
+   "path": "local/vaslui/gherghesti/2023/44",
+   "short": "HCL Gherghești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 44/2023 privind aprobarea completari HCL nr. 95/29.12.2022 privind aprobarea planului de achiziții publice și a programului de reparare a drumurilor de pe raza comunei Gherghești, pe anul 2023, prin introducerea unui capitol de achiziții privind achiziția de servicii de consultanță pentru obtinerea autorizațiilor aferente proiectelor finanațate",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109943",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-45-2023",
+   "path": "local/vaslui/gherghesti/2023/45",
+   "short": "HCL Gherghești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 45/2023 privind aprobarea ofertei de achiziție a unui sistem de supraveghere video din partea firmei SC Raumand Security SRL",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109944",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-46-2023",
+   "path": "local/vaslui/gherghesti/2023/46",
+   "short": "HCL Gherghești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 46/2023 privind aprobarea contractării unui împrumut în conformitate cu prevederile art.1 din Ordonanța de urgență Guvernului nr.24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109945",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-47-2023",
+   "path": "local/vaslui/gherghesti/2023/47",
+   "short": "HCL Gherghești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 47/2023 privind transferul activului fix autoturism din dotarea Primăriei comunei Gherghești către Serviciul Voluntar pentru Situații de Urgență al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109946",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-49-2023",
+   "path": "local/vaslui/gherghesti/2023/49",
+   "short": "HCL Gherghești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 49/2023 privind aprobarea achiziției de piatră, astfel beton, refuz de sort de ciur, lidonit necesar reparării și reabilitării drumurilor comunale și vecinale, de pe raza comunei Gherghești, deteriorate în urma introducerii rețelei de apă",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109985",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-5-2023",
+   "path": "local/vaslui/gherghesti/2023/5",
+   "short": "HCL Gherghești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 5/2023 privind aprobarea trecerii pe \"Venituri\" a sumelor prescrise datorate de SC Servicii Comunale Gherghești SRL catre terți",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109731",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-51-2023",
+   "path": "local/vaslui/gherghesti/2023/51",
+   "short": "HCL Gherghești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 51/2023 privind aprobarea Nomenclatorului stradal al Comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109987",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-52-2023",
+   "path": "local/vaslui/gherghesti/2023/52",
+   "short": "HCL Gherghești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 52/2023 privind aprobarea documentației de dezmembrare a unui imobil -teren înscris în C.F nr.70915, proprietatea Comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109988",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-53-2023",
+   "path": "local/vaslui/gherghesti/2023/53",
+   "short": "HCL Gherghești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 53/2023 privind aprobarea încheierii unui protocol de colaborare pentru realizarea proiectului \"Dotarea cu microbuze electrice a unităților școlare din mediul rural județul Vaslui \"",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/110006",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/110006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-54-2023",
+   "path": "local/vaslui/gherghesti/2023/54",
+   "short": "HCL Gherghești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 54/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/114805",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/114805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-55-2023",
+   "path": "local/vaslui/gherghesti/2023/55",
+   "short": "HCL Gherghești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 55/2023 privind aprobarea Regulamentului pentru acordarea de premii elevilor/tinerilor/sportivilor care au obținut rezultate școlare deosebite sau medalii de aur, argint, bronz la faza națională sau internațională a Olimpiadelor școlare, Concursurilor sau Competițiilor",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/114806",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/114806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-56-2023",
+   "path": "local/vaslui/gherghesti/2023/56",
+   "short": "HCL Gherghești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 56/2023 privind rectificarea bugetului pe anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/114807",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/114807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-57-2023",
+   "path": "local/vaslui/gherghesti/2023/57",
+   "short": "HCL Gherghești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 57/2023 privind privind modificarea și completarea HCL 29/07.04.2023 de înființare a Serviciului public de gestionare a câinilor fără stăpân, în cadrul comunei Gherghești, judeţul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/115267",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/115267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-58-2023",
+   "path": "local/vaslui/gherghesti/2023/58",
+   "short": "HCL Gherghești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 58/2023 privind actualizarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghesti, judetul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/115268",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/115268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-59-2023",
+   "path": "local/vaslui/gherghesti/2023/59",
+   "short": "HCL Gherghești nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 59/2023 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/115340",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/115340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-6-2023",
+   "path": "local/vaslui/gherghesti/2023/6",
+   "short": "HCL Gherghești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 6/2023 privind aprobarea scutirii de la plata majorărilor de întârziere aferente impozitelor și taxelor locale, chiriilor, redeventelor și a altor onligați de plată datorate bugetului local de către persoanele fizice care au calitate de contribuabili la bugetului local al UAT Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109732",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-63-2023",
+   "path": "local/vaslui/gherghesti/2023/63",
+   "short": "HCL Gherghești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 63/2023 privind .actualizarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghesti, judetul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/115468",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/115468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-67-2023",
+   "path": "local/vaslui/gherghesti/2023/67",
+   "short": "HCL Gherghești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 67/2023 Privind actualizarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghesti, judetul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137448",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-68-2023",
+   "path": "local/vaslui/gherghesti/2023/68",
+   "short": "HCL Gherghești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 68/2023 privind aprobarea modificarea HCL nr.58/09.06.2023, prin aprobarea modificării punctului 57 din Planul Anual de Achiziții sub noua sintagmă”Achiziție aparatură IT, birotică și aparatură de tip etilotest”",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137449",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-69-2023",
+   "path": "local/vaslui/gherghesti/2023/69",
+   "short": "HCL Gherghești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 69/2023 privind abrogarea HCL nr.58/09.06.2023 referitor la gestionarea direct a serviciului public de gestionare a câinilor fără stăpân, în cadrul comunei Gherghești, judeţul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137450",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-7-2023",
+   "path": "local/vaslui/gherghesti/2023/7",
+   "short": "HCL Gherghești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 7/2023 privind dizolvarea și radierea din registrul Comerțului a SC Servicii Comunale Gherghești SRL",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109733",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-70-2023",
+   "path": "local/vaslui/gherghesti/2023/70",
+   "short": "HCL Gherghești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 70/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei GHERGHEȘTI, pentru perioada AUGUST 2023 - OCTOMBRIRE2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137451",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-71-2023",
+   "path": "local/vaslui/gherghesti/2023/71",
+   "short": "HCL Gherghești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 71/2023 Privind actualizarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Gherghesti, judetul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137452",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-72-2023",
+   "path": "local/vaslui/gherghesti/2023/72",
+   "short": "HCL Gherghești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 72/2023 privind revocarea Hotărârii Consiliului Local GHERGHEȘTI nr.32/07.04.2023 privind aprobarea temporară, până la obținerea autorzațiilor de la ISU și DSP, a reluării desfășurării cursurilor școlare în spațiile din școlile și creșele reabilitate de pe raza comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137453",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-73-2023",
+   "path": "local/vaslui/gherghesti/2023/73",
+   "short": "HCL Gherghești nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 73/2023 privind modificarea Planului anual de achiziții",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137454",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-74-2023",
+   "path": "local/vaslui/gherghesti/2023/74",
+   "short": "HCL Gherghești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 74/2023 privind probare rectificarea bugetara",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/137455",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/137455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-75-2023",
+   "path": "local/vaslui/gherghesti/2023/75",
+   "short": "HCL Gherghești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 75/2023 privind aprobarea Regulamentului privind condițiile de supraimpozitare a taxelor si impozitelor pentru cladirile si terenurile neingrijite",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166929",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-76-2023",
+   "path": "local/vaslui/gherghesti/2023/76",
+   "short": "HCL Gherghești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 76/2023 privind nesumarea responsabilitatilor organizarii si derularii la nivel local a procedurilor de atribuire a contractului/acord cadru pentru achizitia produselor si a contractelor/acord cadru de prestare a serviciilor derularea masurilor educative, aferente Programului pentru școli al Romaniei, pentru anii școlari 2023 – 2024 și 2023 - 2029",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166930",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-77-2023",
+   "path": "local/vaslui/gherghesti/2023/77",
+   "short": "HCL Gherghești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 77/2023 privind modificarea Nomenclatorului stradal al comunei Gherghești, județul Vaslui, prin modificarea denumirii unor străzi de pe teritoriul satului Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166931",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-78-2023",
+   "path": "local/vaslui/gherghesti/2023/78",
+   "short": "HCL Gherghești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 78/2023 privind privind rectificarea bugetului",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166932",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-8-2023",
+   "path": "local/vaslui/gherghesti/2023/8",
+   "short": "HCL Gherghești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 8/2023 privind aprobarea modificării și completării Organigramei și a statului de funcții al aparatului de specialitate al Primarului comunei Gherghești",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/109734",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/109734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-82-2023",
+   "path": "local/vaslui/gherghesti/2023/82",
+   "short": "HCL Gherghești nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 82/2023 privind aprobarea achiziționării serviciilor de dezinfecție, dezinsecție și deratizare pentru instituțiile publice și spațiile aparținând domeniului public și privat al comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166936",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-83-2023",
+   "path": "local/vaslui/gherghesti/2023/83",
+   "short": "HCL Gherghești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 83/2023 privind aprobarea achiziției serviciilor de ignifugare a șarpantelor sediilor instituțiilor publice aparținând comunei Gherghești, județul Vaslui și aprobarea caietului de sarcini pentru această achiziție",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166937",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-86-2023",
+   "path": "local/vaslui/gherghesti/2023/86",
+   "short": "HCL Gherghești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 86/2023 de aprobare a Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale în muncă neremunerată în folosul comunității",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166947",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-87-2023",
+   "path": "local/vaslui/gherghesti/2023/87",
+   "short": "HCL Gherghești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 87/2023 privind modificarea structurii organizatorice a aparatului de specialitate al primarului comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166948",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-88-2023",
+   "path": "local/vaslui/gherghesti/2023/88",
+   "short": "HCL Gherghești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 88/2023 privind aprobarea achiziției publice pentru servicii de elaborare a unui proiect tehnic pentru obiectivul de investiție, precum și construire a acestuia ”Magazii pentru lemne, pentru unitățile școlare de pe raza comunei Gherghești”",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166949",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-89-2023",
+   "path": "local/vaslui/gherghesti/2023/89",
+   "short": "HCL Gherghești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 89/2023 privind aprobarea modificării și completării Planului Anual de Achiziţii publice pe anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166950",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-92-2023",
+   "path": "local/vaslui/gherghesti/2023/92",
+   "short": "HCL Gherghești nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 92/2023 privind aprobarea indicatorilor tehnico-economici, a devizului general si a cererii de finantare pentru obiectivul de investitii: “EXTINDERE REȚEA CANALIZARE ÎN SATUL GHERGHEȘTI - TRUP MICEȘTI, COMUNA GHERGHEȘTI, JUDEȚUL VASLUI”, in vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166953",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-93-2023",
+   "path": "local/vaslui/gherghesti/2023/93",
+   "short": "HCL Gherghești nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 93/2023 privind aprobarea indicatorilor tehnico-economici, a devizului general si a cererii de finantare pentru obiectivul de investitii: “ÎNFIINȚARE REȚEA CANALIZARE ÎN SATUL CHETROSU, COMUNA GHERGHEȘTI, JUDEȚUL VASLUI”, in vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166954",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-94-2023",
+   "path": "local/vaslui/gherghesti/2023/94",
+   "short": "HCL Gherghești nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 94/2023 privind aprobarea indicatorilor tehnico-economici, a devizului general si a cererii de finantare pentru obiectivul de investitii: “ÎNFIINȚARE REȚEA CANALIZARE ÎN SATUL LUNCA, COMUNA GHERGHEȘTI, JUDEȚUL VASLUI”, in vederea finanțării din surse legal constituite, prin Programul național de investiții “Anghel Saligny”, din buget local, alte fonduri guvernamentale, fonduri europene nerambursabile",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166955",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-95-2023",
+   "path": "local/vaslui/gherghesti/2023/95",
+   "short": "HCL Gherghești nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 95/2023 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Gherghești, județul Vaslui",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166956",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-96-2023",
+   "path": "local/vaslui/gherghesti/2023/96",
+   "short": "HCL Gherghești nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 96/2023 privind rectificarea bugetului",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166957",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-97-2023",
+   "path": "local/vaslui/gherghesti/2023/97",
+   "short": "HCL Gherghești nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 97/2023 privind aprobarea Regulamentului de acordarea a sprijinului financiar, de la bugetul Comunei GHERGHEȘTI, unităţilor de cult din Comuna GHERGHEȘTI aparţinând cultelor religioase recunoscute din România",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166958",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--gherghesti-98-2023",
+   "path": "local/vaslui/gherghesti/2023/98",
+   "short": "HCL Gherghești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gherghești nr. 98/2023 privind aprobarea completării Planului Anual de Achiziţii publice pe anul 2023",
+   "url": "https://emol.ro/gherghesti-vs/registru-hcl/166959",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gherghesti-vs/registru-hcl/166959",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
