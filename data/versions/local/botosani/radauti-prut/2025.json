@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/radauti-prut/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--radauti-prut-1-2025",
+   "path": "local/botosani/radauti-prut/2025/1",
+   "short": "HCL Rădăuți-Prut nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 1/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.1%20din%2031.01.2025.pdf",
+     "sha256": "55c74251be4ec409a1e18906f6811a16ea1dab1827a1fefb2b15caac839a1077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-10-2025",
+   "path": "local/botosani/radauti-prut/2025/10",
+   "short": "HCL Rădăuți-Prut nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 10/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/03/HCL%20nr.10%20din%2026.03.2025.pdf",
+     "sha256": "a831481bbe6d315331f0d337a2776093d8582469d75d90b9c60845f7b2f29213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-11-2025",
+   "path": "local/botosani/radauti-prut/2025/11",
+   "short": "HCL Rădăuți-Prut nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 11/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/03/HCL%20nr.11%20din%2026.03.2025.pdf",
+     "sha256": "4a40adf11d6b1d595f6f9a6bd5c8c23e32bdeb760f14bebb2cf6c2211246ecdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-12-2025",
+   "path": "local/botosani/radauti-prut/2025/12",
+   "short": "HCL Rădăuți-Prut nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 12/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/03/HCL%20nr.12%20din%2026.03.2025.pdf",
+     "sha256": "77f6e4a3883b556a646923a5617bfdba3eb1ba8cdbd66d7cf91bc92d4947053c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-13-2025",
+   "path": "local/botosani/radauti-prut/2025/13",
+   "short": "HCL Rădăuți-Prut nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 13/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/03/HCL%20nr.13%20din%2026.03.2025.pdf",
+     "sha256": "710c78ba2ba5600212f5bcbaaeb3bcdc94bb7e14b0f153d6062fd065081b5b26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-14-2025",
+   "path": "local/botosani/radauti-prut/2025/14",
+   "short": "HCL Rădăuți-Prut nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 14/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/04/HCL%20nr.14%20din%2025.04.2025.pdf",
+     "sha256": "b2c700b8ab9b765dd865a6afc893d5bb012ee3a62de6a4bce37ea520f93869f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-15-2025",
+   "path": "local/botosani/radauti-prut/2025/15",
+   "short": "HCL Rădăuți-Prut nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 15/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/04/HCL%20nr.15%20din%2025.04.2025.pdf",
+     "sha256": "9a2734864d94d5b97f411c783f7ff7b6ca3edbdfbfccc6959ce36587a6a78088"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-16-2025",
+   "path": "local/botosani/radauti-prut/2025/16",
+   "short": "HCL Rădăuți-Prut nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 16/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/04/HCL%20nr.16%20din%2025.04.2025.pdf",
+     "sha256": "dcb82fab9b7354635e7887602ab20326af521652153381980172b5b27469ec61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-17-2025",
+   "path": "local/botosani/radauti-prut/2025/17",
+   "short": "HCL Rădăuți-Prut nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 17/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/05/HCL%20nr.17%20din%2030.05.2025.pdf",
+     "sha256": "a901912d595d6214c0cf2efc02c4f6a5776844aef6a332d314ac92a62b3cbc99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-18-2025",
+   "path": "local/botosani/radauti-prut/2025/18",
+   "short": "HCL Rădăuți-Prut nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 18/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/05/HCL%20nr.18%20din%2030.05.2025.pdf",
+     "sha256": "25ac33a34c4e2229af53ff0594421cd822d8b65b9557fd4e099494b09513b192"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-19-2025",
+   "path": "local/botosani/radauti-prut/2025/19",
+   "short": "HCL Rădăuți-Prut nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 19/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/05/HCL%20nr.19%20din%2030.05.2025.pdf",
+     "sha256": "ab47c8d7c8b6687a0f29575f14cab3c7eda731c027d3f3fca8d980998a4ada54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-2-2025",
+   "path": "local/botosani/radauti-prut/2025/2",
+   "short": "HCL Rădăuți-Prut nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 2/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.2%20din%2031.01.2025.pdf",
+     "sha256": "aefed849381bc2bb947b6cb3f9d9add70838f14ea90c56115d55de06737b22d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-20-2025",
+   "path": "local/botosani/radauti-prut/2025/20",
+   "short": "HCL Rădăuți-Prut nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 20/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/05/HCL%20nr.20%20din%2030.05.2025.pdf",
+     "sha256": "3bc9dbc4ecb95535f6d89bfef18b34120287fe1e24c533743e99aea2218dd2e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-21-2025",
+   "path": "local/botosani/radauti-prut/2025/21",
+   "short": "HCL Rădăuți-Prut nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 21/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/06/HCL%20nr.21%20din%2030.06.2025.pdf",
+     "sha256": "84dae5797b92fc20dee177eeb7ed837e85f22de85d8068dbdb1b92fef8e28d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-22-2025",
+   "path": "local/botosani/radauti-prut/2025/22",
+   "short": "HCL Rădăuți-Prut nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 22/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/06/HCL%20nr.22%20din%2030.06.2025.pdf",
+     "sha256": "a1359259610b24c3a7b68144523754a2f849049f360c694a4ef661036419e23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-23-2025",
+   "path": "local/botosani/radauti-prut/2025/23",
+   "short": "HCL Rădăuți-Prut nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 23/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2023%20DIN%2030.07.2025%20DE%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "912bc31a558fdb293ceb6a24610e7d34cad585c84f81b7d5af30fc258a63ff9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-24-2025",
+   "path": "local/botosani/radauti-prut/2025/24",
+   "short": "HCL Rădăuți-Prut nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 24/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2024%20DIN%2030.07.2025%20DE%20APROBARE%20INDICATORI%20TEHNICO%20ECONOMICI%20CONSTRUIRE%20TROTUARE%20SAT%20REDIU.pdf",
+     "sha256": "e61f52f2d8fad815534bedc12554847b73d57d88c14ad6c3d0b9f3a3542d6c60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-25-2025",
+   "path": "local/botosani/radauti-prut/2025/25",
+   "short": "HCL Rădăuți-Prut nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 25/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2025%20DIN%2030.07.2025%20DE%20APROBARE%20INDICATORI%20TEHNICO%20ECONOMICI%20PARC.pdf",
+     "sha256": "c50412728c3d87ba86fa852b4f0e90708da49f21296fb07abd48b25fb8629637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-26-2025",
+   "path": "local/botosani/radauti-prut/2025/26",
+   "short": "HCL Rădăuți-Prut nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 26/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2026%20DIN%2030.07.2025%20DE%20STABILIRE%20PRESEDINTE%20DE%20SEDINTA.pdf",
+     "sha256": "baaa0e2efe0c3263b1a4bafff712218dc1bf22ca3c2e7fc115c85669fd36aea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-27-2025",
+   "path": "local/botosani/radauti-prut/2025/27",
+   "short": "HCL Rădăuți-Prut nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 27/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2027%20DIN%2025.08.2025%20DE%20APROBARE%20AMPLASAMENT%20STOCARE%20TEMPORARA%20DESEURI%20PERICULOASE.pdf",
+     "sha256": "07900d0988c2c04300717cc5458c6704f232dcc04fa3bd87c43026de926e3dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-28-2025",
+   "path": "local/botosani/radauti-prut/2025/28",
+   "short": "HCL Rădăuți-Prut nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 28/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2028%20DIN%2025.08.2025%20DE%20APROBASTRUCTURA%20ORGANIZATORICA.pdf",
+     "sha256": "0880198d65a1deecd60274a8a241d9fd95eb3a73d24ab2d33170ede33893b1bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-29-2025",
+   "path": "local/botosani/radauti-prut/2025/29",
+   "short": "HCL Rădăuți-Prut nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 29/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2029%20DIN%2015.09.2025%20DE%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "667f1ba17b42e721efe60c0ae0ff04848f5b567ccd9dee5e1451e9d9864df290"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-3-2025",
+   "path": "local/botosani/radauti-prut/2025/3",
+   "short": "HCL Rădăuți-Prut nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 3/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.3%20din%2031.01.2025.pdf",
+     "sha256": "5387a46c74b8bb5e3fced0fdce36d384bfb493c1edfeba68afce7fdc6e0389d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-30-2025",
+   "path": "local/botosani/radauti-prut/2025/30",
+   "short": "HCL Rădăuți-Prut nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 30/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2030%20DIN%2015.09.2025%20DE%20APROBARE%20INDICATORI%20TEHNICO%20ECONOMICI%20ACTUALIZATILA%20OBIECTIVUL%20LOCUINTE%20NZEB.pdf",
+     "sha256": "7656fb07f0f5a96651033cd7ea4c9c561c89a8f775aa3b82740d3b54a57578d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-33-2025",
+   "path": "local/botosani/radauti-prut/2025/33",
+   "short": "HCL Rădăuți-Prut nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 33/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2033%20DIN%2017.10.2025%20DE%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "a346e8bb233e4dba2b5e1715a0db2c3b01d98b60a3abba793cf892b3c3daacbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-34-2025",
+   "path": "local/botosani/radauti-prut/2025/34",
+   "short": "HCL Rădăuți-Prut nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 34/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+     "sha256": "33ce5181e13fcc7def00aae9a0dcbfea3459b7cc46983f9eb7508c8979db8cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-35-2025",
+   "path": "local/botosani/radauti-prut/2025/35",
+   "short": "HCL Rădăuți-Prut nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 35/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2035%20DIN%2031.10.2025%20DE%20APROBARE%20MODIFICARE%20STRUCTURA%20ORGANIZATORICA.pdf",
+     "sha256": "2bb35e95d77d5230a73bb1023f68f228c1d8ab97928f6dc751221da648b378bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-36-2025",
+   "path": "local/botosani/radauti-prut/2025/36",
+   "short": "HCL Rădăuți-Prut nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 36/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2036%20DIN%2031.10.2025%20DE%20STABILIRE%20PRESEDINTE%20DE%20SEDINTA.pdf",
+     "sha256": "fb0ba33dcf39a88b9cf8b9818052ec3719d0f3cbe036bad1303c72c1ae315b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-37-2025",
+   "path": "local/botosani/radauti-prut/2025/37",
+   "short": "HCL Rădăuți-Prut nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 37/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2037%20DIN%2031.10.2025%20DE%20MODICARE%20HCL%2032%20DIN%202025.pdf",
+     "sha256": "55a248a6960d5e4c899bd661cf4152bc92bbb0f0808a673007f813d1c8afa978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-38-2025",
+   "path": "local/botosani/radauti-prut/2025/38",
+   "short": "HCL Rădăuți-Prut nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 38/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2038%20DIN%2031.10.2025%20DE%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "dab1de9b8efc87400dce12c4016054253d4c67cd6f53ecdcd00fe79e5a03898f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-39-2025",
+   "path": "local/botosani/radauti-prut/2025/39",
+   "short": "HCL Rădăuți-Prut nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 39/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2039%20DIN%2028.11.2025%20DE%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "da45391847223d41e8533df907790ffe368fbdc8f564ed4a61979352c0332f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-4-2025",
+   "path": "local/botosani/radauti-prut/2025/4",
+   "short": "HCL Rădăuți-Prut nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 4/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.4%20din%2031.01.2025.pdf",
+     "sha256": "b1780c701d24c3732aab120e1a74d9ef55e442d753e945d1f38b4d2130593a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-40-2025",
+   "path": "local/botosani/radauti-prut/2025/40",
+   "short": "HCL Rădăuți-Prut nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 40/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2040%20DIN%2008.12.2025%20RECTIFICARE%20BUGET%20LOCAL.pdf",
+     "sha256": "f9d635d8e8674f1bca441c7e7a79e59a3f65a8108ae53b9788933290feff42f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-41-2025",
+   "path": "local/botosani/radauti-prut/2025/41",
+   "short": "HCL Rădăuți-Prut nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 41/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2041%20DIN%2029.12.2025%20DE%20ACTUALIZARE%20INDICATORI%20TEHNICO-ECONOMICI%20OBIECTIVUL%20DE%20INVESTITII%20CONSTRUIRE%20TROTUARE%20REDIU.pdf",
+     "sha256": "98a23da6f8d8f142cf771175359fb762bda44b63cf9987e6c0efbdd76451f282"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-42-2025",
+   "path": "local/botosani/radauti-prut/2025/42",
+   "short": "HCL Rădăuți-Prut nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 42/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2042%20DIN%2029.12.2025%20DE%20APROBARE%20RETEA%20SCOLARA.pdf",
+     "sha256": "e234dd328805fb9cbe0022269b47f6b7ef6499ce8811cc751eaccfd037033e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-43-2025",
+   "path": "local/botosani/radauti-prut/2025/43",
+   "short": "HCL Rădăuți-Prut nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 43/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/hcl/HCL%2043%20DIN%2029.12.2025%20DE%20STABILIRE%20IMPOZITE%20SI%20TAXE%20LOCALE%20PENTRU%20ANUL%202026.pdf",
+     "sha256": "af8839c397a45c95aef4125c6dd6021cc3965f34dee09b53c488cf323e7558ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-5-2025",
+   "path": "local/botosani/radauti-prut/2025/5",
+   "short": "HCL Rădăuți-Prut nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 5/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.5%20din%2031.01.2025.pdf",
+     "sha256": "cdaa6c63c881cfb31178443ce4e986d5215680a7d9fd1e8bce98272ac9eb932d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-6-2025",
+   "path": "local/botosani/radauti-prut/2025/6",
+   "short": "HCL Rădăuți-Prut nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 6/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.6%20din%2031.01.2025.pdf",
+     "sha256": "1b5d740d6c61c2e8a461f0fc0cc768ecae276398b68598a471efdbf79e06c985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-7-2025",
+   "path": "local/botosani/radauti-prut/2025/7",
+   "short": "HCL Rădăuți-Prut nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 7/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/01/HCL%20nr.7%20din%2031.01.2025.pdf",
+     "sha256": "fc86fe4681c5345fda62811c7d29a00359e6721c0629c17ad94e6c4c9ed3bbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-8-2025",
+   "path": "local/botosani/radauti-prut/2025/8",
+   "short": "HCL Rădăuți-Prut nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 8/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/02/HCL%20nr.8%20din%2028.02.2025.pdf",
+     "sha256": "b2d6f0bc399a0e5bcf5a0e3df7963a35dd0f5981db12df86cf7eba12ac70da7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-9-2025",
+   "path": "local/botosani/radauti-prut/2025/9",
+   "short": "HCL Rădăuți-Prut nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 9/2025",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/134-hotarari-anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2025/02/HCL%20nr.9%20din%2028.02.2025.pdf",
+     "sha256": "a63779317b7b5b4ae694706456deb3bb8f8c0a245e79e905deabc6db57e5c346"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/bistrita/2020",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--bistrita-181-2020",
+   "path": "local/bistrita-nasaud/bistrita/2020/181",
+   "short": "HCL Bistrița nr. 181/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 181/2020",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/11/Bistrita-HCL-181-din-23.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/11/Bistrita-HCL-181-din-23.12.2020.pdf",
+     "sha256": "6de9d42a8e4fc0b62a73612f8779e6ee82ed523abfeb87400c2ad1731c1f72a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--bistrita-20-2020",
    "path": "local/bistrita-nasaud/bistrita/2020/20",
    "short": "HCL Bistrița nr. 20/2020",

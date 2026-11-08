@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/teaca/2020",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--teaca-206-2020",
+"path": "local/bistrita-nasaud/teaca/2020/206",
+"kind": "local",
+"year": "2020",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 206/2020",
+"short": "HCL Teaca nr. 206/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-14",
+"latest": "2020-01-14",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

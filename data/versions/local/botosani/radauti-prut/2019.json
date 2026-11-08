@@ -3,6 +3,186 @@
  "shard": "local/botosani/radauti-prut/2019",
  "acts": [
   {
+   "slug": "hcl-botosani--radauti-prut-32-2019",
+   "path": "local/botosani/radauti-prut/2019/32",
+   "short": "HCL Rădăuți-Prut nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 32/2019 privind aprobarea organigramei, numarului de personal si a statului de functii al aparatului de specialitate al primarului si al serviciilor publice de interes local din comuna Radauti-Prut, judetul Botosani",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/07/7HCL%2032.pdf",
+     "sha256": "71074738762db8b16174e67093db6e10ed12673b5f992b6707a8ec00cc7185be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-33-2019",
+   "path": "local/botosani/radauti-prut/2019/33",
+   "short": "HCL Rădăuți-Prut nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 33/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/07/7HCL%2033.pdf",
+     "sha256": "80acf1970594e47e1686144c048fca610572e98ec81e99870afdad889c746664"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-34-2019",
+   "path": "local/botosani/radauti-prut/2019/34",
+   "short": "HCL Rădăuți-Prut nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 34/2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/07/7HCL%2034.pdf",
+     "sha256": "b701e4d4014ee69b8f42a098dd0aab9332cf4bb4b6653c4047723c98f02abd2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-35-2019",
+   "path": "local/botosani/radauti-prut/2019/35",
+   "short": "HCL Rădăuți-Prut nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 35/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/08/HCL%20nr.35.pdf",
+     "sha256": "ee91314234825675b2b4faf8052c08346bcf7ce62d366b7c682eb7eefe6ee3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-36-2019",
+   "path": "local/botosani/radauti-prut/2019/36",
+   "short": "HCL Rădăuți-Prut nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 36/2019 privind stabilirea presedintelui de sedinta pentru perioada 01.09.2019 - 30.11.2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-09-09",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/09/HCL%20nr.36.pdf",
+     "sha256": "4dfb42c623fb83fb8b42b466f5c5f3c037d5e978cd0fd3b23a0d17d950c60e1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-37-2019",
+   "path": "local/botosani/radauti-prut/2019/37",
+   "short": "HCL Rădăuți-Prut nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 37/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-09-09",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/09/HCL%2037.pdf",
+     "sha256": "6e2f73c3c48cef8f83bba98c51d7916805c88c8951c2ef4aed348cc6602899cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-38-2019",
+   "path": "local/botosani/radauti-prut/2019/38",
+   "short": "HCL Rădăuți-Prut nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 38/2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-09-09",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/09/HCL%20nr.38.pdf",
+     "sha256": "1618a37851040ac54c87a6bcd3abd1c920bb810baa6b0e7dc3cd78daf8f9a672"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-40-2019",
+   "path": "local/botosani/radauti-prut/2019/40",
+   "short": "HCL Rădăuți-Prut nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 40/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/09/HCL%2040.pdf",
+     "sha256": "26950a0b213e15874a04201b35d90d45c62d380137cedf4cb58cfb3e4a39b857"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-41-2019",
+   "path": "local/botosani/radauti-prut/2019/41",
+   "short": "HCL Rădăuți-Prut nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 41/2019 privind desemnarea reprezentantilor Consiliului local in Consiliul de administratie al Scolii Gimnaziale nr. 1 Radauti-Prut",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/09/HCL%2041.pdf",
+     "sha256": "d43e87e154e4d9cb2817f76d41e97209bcfff3794003e8606183e16fdedd5f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-42-2019",
+   "path": "local/botosani/radauti-prut/2019/42",
+   "short": "HCL Rădăuți-Prut nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 42/2019 privind aprobarea structurii organizatorice a aparatului de specialitate a primarului comunei Radauti-Prut, judetul Botosani",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%2042.pdf",
+     "sha256": "dd1e9e9ec1c40d13be68612ca258da49f7f83138a798600d05462a91d063310b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-43-2019",
+   "path": "local/botosani/radauti-prut/2019/43",
+   "short": "HCL Rădăuți-Prut nr. 43/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 43/2019 privind aprobarea modului de exercitare a dreptului de acces al furnizorilor de retele de comunicatii electronice pe proprietatea publica si privata a Comunei Radauti-Prut",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%2043.pdf",
+     "sha256": "694ae70c8b47a8be2d4a7fd116f1414512d5521fcb0d78a921b1c53bb36410e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-44-2019",
+   "path": "local/botosani/radauti-prut/2019/44",
+   "short": "HCL Rădăuți-Prut nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 44/2019 privind aprobarea Strategiei de dezvoltare a Compartimentului de asistenta sociala pentru perioada 2019-2023 si a Planului anual de actiune privind serviciile sociale acordate in cadrul compartimentului de asistenta sociala pentru anul 2020",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%20nr.44.pdf",
+     "sha256": "97646820c13881cf7f908524d559e17b73be0cf03788b0e87a8c3cf964875da9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--radauti-prut-46-2019",
    "path": "local/botosani/radauti-prut/2019/46",
    "short": "HCL Rădăuți-Prut nr. 46/2019",
@@ -14,6 +194,111 @@
      "units": 1,
      "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%2046.pdf",
      "sha256": "803f0f9d19bf4ffa4b5aeb4cc2e8d93df3e5813e73c48ffa0f3c70881fef99c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-47-2019",
+   "path": "local/botosani/radauti-prut/2019/47",
+   "short": "HCL Rădăuți-Prut nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 47/2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/10/HCL%2047.pdf",
+     "sha256": "3542cff6d2eb254cca54999ff7eb9a92aea79a96007adfb5dfcc8977a5a1848f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-48-2019",
+   "path": "local/botosani/radauti-prut/2019/48",
+   "short": "HCL Rădăuți-Prut nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 48/2019 privind aprobarea dosarelor de insolvabilitate la data de 19.11.2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/11/HCL48.pdf",
+     "sha256": "c53e4e0e4a4f1de79ba65ae2491a6f5b900f04505674449966d5847aef8935b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-49-2019",
+   "path": "local/botosani/radauti-prut/2019/49",
+   "short": "HCL Rădăuți-Prut nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 49/2019 privind instituirea unor facilitati fiscale si aprobarea procedurii de anulare a accesoriilor aferente obligatiilor bugetare principale restante la data de 31.12.2018 inclusiv, datorate bugetului local de catre contribuabili de pe raza administrativ",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/11/HCL%20nr.49.pdf",
+     "sha256": "63a524d027df389c6aa6a7bf324237ea282c194cf78870cc35419d32dd023ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-50-2019",
+   "path": "local/botosani/radauti-prut/2019/50",
+   "short": "HCL Rădăuți-Prut nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 50/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/11/HCL%2050.pdf",
+     "sha256": "99f1f1bd395f372afef7a5a72b4ce29ec19bb61d6d818d55b162ca03167500aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-51-2019",
+   "path": "local/botosani/radauti-prut/2019/51",
+   "short": "HCL Rădăuți-Prut nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 51/2019 privind stabilirea presedintelui de sedinta pentru perioada 01.12.2019 - 29.02.2020",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/12/HCL%2051.pdf",
+     "sha256": "3cd3deb8181d9fed0dfb568522041b8634fd90d34d40c85722d8a5c002f59c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-52-2019",
+   "path": "local/botosani/radauti-prut/2019/52",
+   "short": "HCL Rădăuți-Prut nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 52/2019 privind rectificarea bugetului local al Comunei Radauti-Prut, pentru anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/12/HCL%2052.pdf",
+     "sha256": "9c6f18a3c3f059f016a250dea7ec4dc50023a35996b9ff786b2013d09f626c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-53-2019",
+   "path": "local/botosani/radauti-prut/2019/53",
+   "short": "HCL Rădăuți-Prut nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 53/2019 privind aprobarea organizarii retelei scolare de invatamant preuniversitar de stat de pe raza comunei Radauti-Prut si aprobarea de denumire pentru unitatile de invatamant de stat in anul scolar 2020-2021",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/17-hotarari-anul-2019",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2019/12/HCL%2053.pdf",
+     "sha256": "6c6533981b40706a640bec5e09276a51c537fe171791e2a3a78099948224d88d"
     }
    ]
   }

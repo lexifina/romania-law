@@ -3,6 +3,96 @@
  "shard": "local/botosani/candesti/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--candesti-1-2026",
+   "path": "local/botosani/candesti/2026/1",
+   "short": "HCL Cândești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 1/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-1-din-29-ian-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-1-din-29-ian-2026.pdf",
+     "sha256": "40360d4176096e3011ac2e2651c1eee661b15478d0dbe17d3576850b034ee315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-10-2026",
+   "path": "local/botosani/candesti/2026/10",
+   "short": "HCL Cândești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 10/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/05/hcl-nr-10-din-15_05_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/05/hcl-nr-10-din-15_05_2026.pdf",
+     "sha256": "db3ebf575ed06b7ea484e716437884e9b3aa6331f9be6a7d8d0e076f0bbfafb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-11-2026",
+   "path": "local/botosani/candesti/2026/11",
+   "short": "HCL Cândești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 11/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/05/hcl-nr-11-din-15_05_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/05/hcl-nr-11-din-15_05_2026.pdf",
+     "sha256": "17e98d89cd9461db20c3de2752dc526e3855e1042e7b2009172f883bc2127a25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-14-2026",
+   "path": "local/botosani/candesti/2026/14",
+   "short": "HCL Cândești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 14/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-14-din-08-iunie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-14-din-08-iunie-2026.pdf",
+     "sha256": "093fe6bfb5b6126bb55aeb1c6b0b7d534a7fa287352a0cb3f4024b4e5f6a726c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-15-2026",
+   "path": "local/botosani/candesti/2026/15",
+   "short": "HCL Cândești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 15/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-15-din-08-iunie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-15-din-08-iunie-2026.pdf",
+     "sha256": "fc729647e84356017502f18493367b41888148b5ba87a42b53b4d4df2c9a832f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-2-2026",
+   "path": "local/botosani/candesti/2026/2",
+   "short": "HCL Cândești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 2/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-2-din-29-ian-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-2-din-29-ian-2026.pdf",
+     "sha256": "47996e0c72266908bd256ded75f44e6d3dfe04b27eb53243917e9aa2783b8b30"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--candesti-21-2026",
    "path": "local/botosani/candesti/2026/21",
    "short": "HCL Cândești nr. 21/2026",
@@ -14,6 +104,36 @@
      "units": 1,
      "source_url": "https://candestibt.ro/wp-content/uploads/2026/10/Hotararea-nr.-21-din-29.09.2026-privind-aprobarea-tarifelor-aferente-utilizarii-statiilor-de-incarcare-vehicule-electrice.pdf",
      "sha256": "59b45fa2135bb998cb8ef6602c8908997e8c4fd066a4f6dc536e43c7ff56935b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-3-2026",
+   "path": "local/botosani/candesti/2026/3",
+   "short": "HCL Cândești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 3/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-3-din-29-ian-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-3-din-29-ian-2026.pdf",
+     "sha256": "02dafa5c7ed1ba3ea642829ea662fb873d4156c8959b1fdf2a5907466606bfca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-4-2026",
+   "path": "local/botosani/candesti/2026/4",
+   "short": "HCL Cândești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 4/2026",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-4-din-29-ian-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/02/HCL-nr-4-din-29-ian-2026.pdf",
+     "sha256": "ad04d74336fb935f26c84cbdb8d60936f4f7f311822ab23bd91dcebf1b5996dd"
     }
    ]
   }

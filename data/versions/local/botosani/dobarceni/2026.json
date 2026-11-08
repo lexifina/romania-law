@@ -3,6 +3,96 @@
  "shard": "local/botosani/dobarceni/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--dobarceni-11-2026",
+   "path": "local/botosani/dobarceni/2026/11",
+   "short": "HCL Dobârceni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 11/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-11-din-data-de-26-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/Pages-from-HCL-7-11-din-26.02.2026_compressed.pdf",
+     "sha256": "b093221e9e95bdb94e5d5df9097748abea2f883e85ed39fb9060130803de3268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-12-2026",
+   "path": "local/botosani/dobarceni/2026/12",
+   "short": "HCL Dobârceni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 12/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-12-din-data-de-09-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/Pages-from-HCL-12-13-din-09.03.2026_compressed.pdf",
+     "sha256": "74018f866fdea8de9385ecdc2ebd2b2d390db9ef61001814d4c675d850c19a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-13-2026",
+   "path": "local/botosani/dobarceni/2026/13",
+   "short": "HCL Dobârceni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 13/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-13-din-data-de-09-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/Pages-from-HCL-12-13-din-09.03.2026_compressed-2.pdf",
+     "sha256": "412f838e1428cd61981f0ee809508ed900779109fb0a3a6bf43b3eecfeaf590f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-14-2026",
+   "path": "local/botosani/dobarceni/2026/14",
+   "short": "HCL Dobârceni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 14/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-14-din-data-de-31-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/HCL-14-16-din-31.03.2026_compressed-1.pdf",
+     "sha256": "3faebdfca268953ce32b4eae759f2315e863e6a5c6e54ca533c566099e3ab898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-16-2026",
+   "path": "local/botosani/dobarceni/2026/16",
+   "short": "HCL Dobârceni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 16/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-16-din-data-de-31-03-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/HCL-14-16-din-31.03.2026_compressed-3.pdf",
+     "sha256": "c469723ac5d35ac5ef7a33446515cd08582c028e980a3cf10c32a25925c95583"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-17-2026",
+   "path": "local/botosani/dobarceni/2026/17",
+   "short": "HCL Dobârceni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 17/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-17-din-data-de-28-04-2026/",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/HCL-17-20-din-28.04.2026_compressed-1.pdf",
+     "sha256": "89655fb7dc539f0bad6276ea5685e875ac6c2831e53d949630aa9617d65ca1ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dobarceni-20-2026",
    "path": "local/botosani/dobarceni/2026/20",
    "short": "HCL Dobârceni nr. 20/2026",
@@ -104,6 +194,21 @@
      "units": 1,
      "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/HCL-28-29-din-10.07.2026_compressed-2.pdf",
      "sha256": "769b7d5849ae48cbb370dc69a6e480bd383a5dac22c0e683488247612aaad2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-7-2026",
+   "path": "local/botosani/dobarceni/2026/7",
+   "short": "HCL Dobârceni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 7/2026",
+   "url": "https://comunadobarceni.ro/hotararea-nr-7-din-data-de-26-02-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2026/08/HCL-7-11-din-26.02.2026_compressed-1.pdf",
+     "sha256": "d1613f054ae53dabc100b23f1f00984c65dea72052605f582ae09539ba1f08bc"
     }
    ]
   }

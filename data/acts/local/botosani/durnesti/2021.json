@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/durnesti/2021",
+"acts": [
+{
+"slug": "hcl-botosani--durnesti-18-2021",
+"path": "local/botosani/durnesti/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 18/2021",
+"short": "HCL Durnești nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-18-22.04.2021.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--durnesti-34-2021",
+"path": "local/botosani/durnesti/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 34/2021",
+"short": "HCL Durnești nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-34-26.08.2021.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--durnesti-57-2021",
+"path": "local/botosani/durnesti/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 57/2021",
+"short": "HCL Durnești nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-24",
+"latest": "2021-12-24",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-57-24.12.2021.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

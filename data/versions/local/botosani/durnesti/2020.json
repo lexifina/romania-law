@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/durnesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-botosani--durnesti-11-2020",
+   "path": "local/botosani/durnesti/2020/11",
+   "short": "HCL Durnești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 11/2020",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-11-24.03.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-11-24.03.2020.pdf",
+     "sha256": "993d371a4c6643447313c5f46416b87f61a10afda28b966b489a39bbec5c35c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-40-2020",
+   "path": "local/botosani/durnesti/2020/40",
+   "short": "HCL Durnești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 40/2020",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-40-23.09.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-40-23.09.2020.pdf",
+     "sha256": "c6af2a5c49fdb0dd60588ae44021279132148ad52644107c63d7fab36e7be9df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-7-2020",
+   "path": "local/botosani/durnesti/2020/7",
+   "short": "HCL Durnești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 7/2020",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-7-20.02.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-7-20.02.2020.pdf",
+     "sha256": "baf36a0b28db72dea5f91257230dca509f5780828a9bcde621d3db62821bed84"
+    }
+   ]
+  }
+ ]
+}

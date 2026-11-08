@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/cristesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--cristesti-12-2025",
+   "path": "local/botosani/cristesti/2025/12",
+   "short": "HCL Cristești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cristești nr. 12/2025",
+   "url": "https://primariacristesti.ro/",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariacristesti.ro/wp-content/uploads/2025/03/SKM_C22725032712410.pdf",
+     "sha256": "7259fb6406679f4d4edb28f87bc149e09b16b64dcd6d6339ac51aaa67ff9d502"
+    }
+   ]
+  }
+ ]
+}

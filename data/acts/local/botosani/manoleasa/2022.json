@@ -3,6 +3,72 @@
 "shard": "local/botosani/manoleasa/2022",
 "acts": [
 {
+"slug": "hcl-botosani--manoleasa-36-2022",
+"path": "local/botosani/manoleasa/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 36/2022 privind aprobarea SF Modernizare drumuri de interes local in comuna Manoleasa",
+"short": "HCL Manoleasa nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-37-2022",
+"path": "local/botosani/manoleasa/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 37/2022 privind rectificare buget trim IV",
+"short": "HCL Manoleasa nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-40-2022",
+"path": "local/botosani/manoleasa/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 40/2022 privind analiza situatiei la nivel local cu privire la stabilirea zonelor unde se presteaza serviciul public de canalizare",
+"short": "HCL Manoleasa nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--manoleasa-41-2022",
 "path": "local/botosani/manoleasa/2022/41",
 "kind": "local",
@@ -47,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-botosani--manoleasa-43-2022",
+"path": "local/botosani/manoleasa/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 43/2022 privind angajare avocat",
+"short": "HCL Manoleasa nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--manoleasa-44-2022",
 "path": "local/botosani/manoleasa/2022/44",
 "kind": "local",
@@ -66,6 +154,116 @@
 "council_name": "Consiliul Local al Comunei Manoleasa",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-45-2022",
+"path": "local/botosani/manoleasa/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 45/2022 privind actualizarea indicatorilor tehnico-economici si asigurarea cofinantarii pentru obiectivul de investitii Infiintare retea de apa si canalizare in comuna Manoleasa",
+"short": "HCL Manoleasa nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-46-2022",
+"path": "local/botosani/manoleasa/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 46/2022 privind aprobarea Regulamentului pentru acordarea titlului Cetatean de onoare",
+"short": "HCL Manoleasa nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-47-2022",
+"path": "local/botosani/manoleasa/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 47/2022 privind aprobarea acordarii titlului de CETATEAN DE ONOARE",
+"short": "HCL Manoleasa nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-48-2022",
+"path": "local/botosani/manoleasa/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 48/2022 privind rectificare buget",
+"short": "HCL Manoleasa nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--manoleasa-49-2022",
+"path": "local/botosani/manoleasa/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 49/2022 privind reorganizarea retelei scolare",
+"short": "HCL Manoleasa nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2022",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,171 @@
  "shard": "local/botosani/todireni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--todireni-1-2024",
+   "path": "local/botosani/todireni/2024/1",
+   "short": "HCL Todireni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 1/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Todireni, județul Botoșani, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/137181",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/137181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-10-2024",
+   "path": "local/botosani/todireni/2024/10",
+   "short": "HCL Todireni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 10/2024 privind aprobarea indicatorilor tehnico-economici, conform devizului general actualizat după atribuire, pentru obiectivul de investiții ”Reabilitare drumuri de interes local în comuna Todireni, județul Botoșani”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/143546",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/143546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-11-2024",
+   "path": "local/botosani/todireni/2024/11",
+   "short": "HCL Todireni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 11/2024 privind aprobarea Strategiei anuale de achiziții publice a comunei Todireni, pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/145500",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/145500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-12-2024",
+   "path": "local/botosani/todireni/2024/12",
+   "short": "HCL Todireni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 12/2024 privind validarea Dispoziției primarului comunei Todireni nr. 30 din 26.02.2024 privind rectificarea bugetului local al comunei Todireni, prin virarea de credite de la un articol la altul în cadrul aceluiași capitol, emisă prin autorizarea dată de Consiliul Local cu Hotărârea nr. 8 din 31 ianuarie 2024 privind aprobarea bugetului local al comunei Todireni, pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/145501",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/145501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-13-2024",
+   "path": "local/botosani/todireni/2024/13",
+   "short": "HCL Todireni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 13/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/145502",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/145502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-14-2024",
+   "path": "local/botosani/todireni/2024/14",
+   "short": "HCL Todireni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 14/2024 privind aprobarea indicatorilor tehnico-economici, conform devizului general actualizat după proiectare, pentru obiectivul de investiție-”Realizare pistă de biciclete în Comuna Todireni, județul Botoșani” în cadrul Planului Național de Redresare și Reziliență, Componenta 10 – Fondul Local, Investiția I.1.4",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/147637",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/147637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-15-2024",
+   "path": "local/botosani/todireni/2024/15",
+   "short": "HCL Todireni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 15/2024 privind revocarea Hotărârii Consiliului Local Todireni nr.111/28.12.2023 privind aprobarea vânzării cu drept de preempțiune a unor imobile – terenuri, situate în intravilanul satului Todireni, comuna Todireni, județul Botoșani, PC 364 lot 4 și lot 5, înscris în CF 51722 și CF 51723, aferente imobilelor de locuit, aflate în proprietatea privată a Comunei Todireni",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/147638",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/147638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-16-2024",
+   "path": "local/botosani/todireni/2024/16",
+   "short": "HCL Todireni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 16/2024 privind aprobarea vânzării cu drept de preempțiune a unor imobile – terenuri, situate în intravilanul satului Todireni, comuna Todireni, județul Botoșani, PC 364 lot 4 și lot 5, înscris în CF 51722 și CF 51723, aferente imobilelor de locuit, aflate în proprietatea privată a Comunei Todireni",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/147639",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/147639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-17-2024",
+   "path": "local/botosani/todireni/2024/17",
+   "short": "HCL Todireni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 17/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150917",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-18-2024",
+   "path": "local/botosani/todireni/2024/18",
+   "short": "HCL Todireni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 18/2024 privind aprobarea contului anual de execuţie al bugetului local pe anul 2023",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150918",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-19-2024",
+   "path": "local/botosani/todireni/2024/19",
+   "short": "HCL Todireni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 19/2024 privind aprobarea Planului de măsuri pentru gospodărirea comunei Todireni pentru anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150919",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150919",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-2-2024",
    "path": "local/botosani/todireni/2024/2",
    "short": "HCL Todireni nr. 2/2024",
@@ -13,6 +178,96 @@
      "from": "2024-10-01",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/140067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-20-2024",
+   "path": "local/botosani/todireni/2024/20",
+   "short": "HCL Todireni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 20/2024 privind acordarea unui mandat special reprezentantului Consiliului Local Todireni, județul Botoșani în Adunarea Generală a Asociaților „ Aqua Botoșani ”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150920",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-21-2024",
+   "path": "local/botosani/todireni/2024/21",
+   "short": "HCL Todireni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 21/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150921",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-22-2024",
+   "path": "local/botosani/todireni/2024/22",
+   "short": "HCL Todireni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 22/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150922",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-23-2024",
+   "path": "local/botosani/todireni/2024/23",
+   "short": "HCL Todireni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 23/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150923",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-24-2024",
+   "path": "local/botosani/todireni/2024/24",
+   "short": "HCL Todireni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 24/2024 privind aprobarea concesionării prin licitație publică a suprafeței de 168,47 ha pajiște permanentă aflată în proprietatea publică a Comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/150924",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/150924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-25-2024",
+   "path": "local/botosani/todireni/2024/25",
+   "short": "HCL Todireni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 25/2024 privind participarea COMUNEI TODIRENI, JUDEȚUL BOTOȘANI la: „Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/151491",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/151491",
      "sha256": null
     }
    ]
@@ -33,6 +288,306 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-27-2024",
+   "path": "local/botosani/todireni/2024/27",
+   "short": "HCL Todireni nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 27/2024 privind actualizarea elementelor de identificare a unor imobile care aparțin domeniului public al comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/155083",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/155083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-28-2024",
+   "path": "local/botosani/todireni/2024/28",
+   "short": "HCL Todireni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 28/2024 privind includerea unui bun imobil în inventarul domeniului public al comunei Todireni, județul Botoșani, în vederea intabulării / înscrierii dreptului de proprietate în evidențele de cadastru și carte funciară",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/155084",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/155084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-29-2024",
+   "path": "local/botosani/todireni/2024/29",
+   "short": "HCL Todireni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 29/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/155085",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/155085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-3-2024",
+   "path": "local/botosani/todireni/2024/3",
+   "short": "HCL Todireni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 3/2024 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/140068",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/140068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-30-2024",
+   "path": "local/botosani/todireni/2024/30",
+   "short": "HCL Todireni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 30/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor următoare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/155086",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/155086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-31-2024",
+   "path": "local/botosani/todireni/2024/31",
+   "short": "HCL Todireni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 31/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/158239",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/158239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-32-2024",
+   "path": "local/botosani/todireni/2024/32",
+   "short": "HCL Todireni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 32/2024 privind aprobarea concesionării prin licitație publică a suprafeței de 8,0 ha pajiște permanentă aflată în proprietatea publică a Comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/158240",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/158240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-33-2024",
+   "path": "local/botosani/todireni/2024/33",
+   "short": "HCL Todireni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 33/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Todireni, începând cu data de 01 iunie 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/158241",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/158241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-34-2024",
+   "path": "local/botosani/todireni/2024/34",
+   "short": "HCL Todireni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 34/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare (R.O.F.) al aparatului de specialitate al Primarului Comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/160524",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/160524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-35-2024",
+   "path": "local/botosani/todireni/2024/35",
+   "short": "HCL Todireni nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 35/2024 privind aprobarea modificării Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Todireni , județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/160525",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/160525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-36-2024",
+   "path": "local/botosani/todireni/2024/36",
+   "short": "HCL Todireni nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 36/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/164280",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/164280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-37-2024",
+   "path": "local/botosani/todireni/2024/37",
+   "short": "HCL Todireni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 37/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/164281",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/164281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-38-2024",
+   "path": "local/botosani/todireni/2024/38",
+   "short": "HCL Todireni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 38/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor următoare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/164282",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/164282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-39-2024",
+   "path": "local/botosani/todireni/2024/39",
+   "short": "HCL Todireni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 39/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/167628",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/167628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-4-2024",
+   "path": "local/botosani/todireni/2024/4",
+   "short": "HCL Todireni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 4/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/140069",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/140069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-40-2024",
+   "path": "local/botosani/todireni/2024/40",
+   "short": "HCL Todireni nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 40/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/167629",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/167629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-41-2024",
+   "path": "local/botosani/todireni/2024/41",
+   "short": "HCL Todireni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 41/2024 privind aprobarea implementării proiectului ,,SISTEM INFORMATIC PENTRU TRANSFORMAREA DIGITALĂ A COMUNEI TODIRENI, JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/167630",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/167630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-42-2024",
+   "path": "local/botosani/todireni/2024/42",
+   "short": "HCL Todireni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 42/2024 privind stabilirea obligațiilor financiare pentru funcționarea activității de audit public intern",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/167631",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/167631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-43-2024",
+   "path": "local/botosani/todireni/2024/43",
+   "short": "HCL Todireni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 43/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/170986",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/170986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-44-2024",
+   "path": "local/botosani/todireni/2024/44",
+   "short": "HCL Todireni nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 44/2024 privind desemnarea reprezentanților Consiliului local Todireni în Consiliul de Administrație al Liceului Tehnologic Todireni, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/170987",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/170987",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-45-2024",
    "path": "local/botosani/todireni/2024/45",
    "short": "HCL Todireni nr. 45/2024",
@@ -48,6 +603,81 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-46-2024",
+   "path": "local/botosani/todireni/2024/46",
+   "short": "HCL Todireni nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 46/2024 pentru modificarea și completarea Hotărârii Consiliului local nr. 33/31.05.2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Todireni, începând cu data de 01 iunie 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/170989",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/170989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-47-2024",
+   "path": "local/botosani/todireni/2024/47",
+   "short": "HCL Todireni nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 47/2024 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Todireni , județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/170990",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/170990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-48-2024",
+   "path": "local/botosani/todireni/2024/48",
+   "short": "HCL Todireni nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 48/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/172637",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/172637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-49-2024",
+   "path": "local/botosani/todireni/2024/49",
+   "short": "HCL Todireni nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 49/2024 privind aprobarea indicatorilor tehnico-economici, conform devizului general actualizat în urma licitației, pentru obiectivul de investiție - „Extindere rețea de canalizare în comuna Todireni, Județul Botoșani”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/172918",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/172918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-5-2024",
+   "path": "local/botosani/todireni/2024/5",
+   "short": "HCL Todireni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 5/2024 privind aprobarea proiectului si a cheltuielilor legate de proiectul “Centru de zi pentru copii - comuna Todireni, județul Botoșani”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/140070",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/140070",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-50-2024",
    "path": "local/botosani/todireni/2024/50",
    "short": "HCL Todireni nr. 50/2024",
@@ -58,6 +688,111 @@
      "from": "2024-11-11",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/174507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-51-2024",
+   "path": "local/botosani/todireni/2024/51",
+   "short": "HCL Todireni nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 51/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor următoare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/176665",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/176665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-52-2024",
+   "path": "local/botosani/todireni/2024/52",
+   "short": "HCL Todireni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 52/2024 privind organizarea comisiilor de specialitate ale Consiliului local Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/176666",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/176666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-53-2024",
+   "path": "local/botosani/todireni/2024/53",
+   "short": "HCL Todireni nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 53/2024 privind alegerea viceprimarului comunei Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/176945",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/176945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-54-2024",
+   "path": "local/botosani/todireni/2024/54",
+   "short": "HCL Todireni nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 54/2024 privind APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE FAZA Pth ȘI A INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI pentru obiectivul de investiție- “Modernizare corp B al Liceului Tehnologic Todireni, comuna Todireni, județul Botoșani”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/176946",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/176946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-55-2024",
+   "path": "local/botosani/todireni/2024/55",
+   "short": "HCL Todireni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 55/2024 privind ACTUALIZAREA VALORILOR PROIECTULUI “Modernizare corp B al Liceului Tehnologic Todireni, comuna Todireni, județul Botoșani”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/176947",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/176947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-56-2024",
+   "path": "local/botosani/todireni/2024/56",
+   "short": "HCL Todireni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 56/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Todireni, județul Botoșani, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178800",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-57-2024",
+   "path": "local/botosani/todireni/2024/57",
+   "short": "HCL Todireni nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 57/2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/178801",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/178801",
      "sha256": null
     }
    ]
@@ -88,6 +823,21 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/178803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-6-2024",
+   "path": "local/botosani/todireni/2024/6",
+   "short": "HCL Todireni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 6/2024 privind aprobarea documentației tehnico-economice si a indicatorilor tehnico-economici aferente proiectului “CENTRU DE ZI PENTRU COPII, COMUNA TODIRENI, JUDETUL BOTOSANI”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/140071",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/140071",
      "sha256": null
     }
    ]
@@ -243,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-7-2024",
+   "path": "local/botosani/todireni/2024/7",
+   "short": "HCL Todireni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 7/2024 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/140072",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/140072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-70-2024",
    "path": "local/botosani/todireni/2024/70",
    "short": "HCL Todireni nr. 70/2024",
@@ -373,6 +1138,21 @@
      "from": "2024-02-09",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/142163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-9-2024",
+   "path": "local/botosani/todireni/2024/9",
+   "short": "HCL Todireni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 9/2024 privind aprobarea Planului de activități culturale, organizate la nivelul comunei Todireni în anul 2024",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/142164",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/142164",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/runcu-salvei/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-10-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/10",
+   "short": "HCL Runcu Salvei nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 10/2023 privind aprobarea Devizului general și a Indicatorilor Tehnico-Economici aferenți proiectului: ”Modernizare drum Dealul Bisericii, Runcu Salvei, Județul Bistrița-Năsăud”",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.10_31.03.2023_.pdf",
+     "sha256": "c5c20c21ca3626681b9d1740c1083fdb006ea9bc52ac7f700dca76cf1491c75b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-11-2023",
    "path": "local/bistrita-nasaud/runcu-salvei/2023/11",
    "short": "HCL Runcu Salvei nr. 11/2023",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-12-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/12",
+   "short": "HCL Runcu Salvei nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 12/2023 privind aprobarea operațiunii cadastrale de înscriere în cartea funciară, actualizare date și de rectificare a suprafeței și limitelor unor imobile",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.12_31.03.2023_.pdf",
+     "sha256": "c6fbcca32323e849aee46a0bea8dcd1327e2447a4634229ffdb0704c4d7d6993"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-14-2023",
    "path": "local/bistrita-nasaud/runcu-salvei/2023/14",
    "short": "HCL Runcu Salvei nr. 14/2023",
@@ -29,6 +59,126 @@
      "units": 1,
      "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.14_24.04.2023_.pdf",
      "sha256": "04de5a1600fcfa001480f08a9d6fa6d240bb011aaa5e46b057bd5e3e5fe25b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-15-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/15",
+   "short": "HCL Runcu Salvei nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 15/2023 privind împuternicirea și mandatarea inspectorilor din cadrul Corpului de control al A.D.I",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.15_24.04.2023_.pdf",
+     "sha256": "2a28ff08da451e961954e0fbfec9a3801011e93a2bfbbb8c0424616459b9565f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-16-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/16",
+   "short": "HCL Runcu Salvei nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 16/2023 privind stabilirea salariilor de bază pentru funcționarii publici, personalul contractual din cadrul aparatului de specialitate al primarului comunei Runcu Salvei și a indemnizației consilierilor locali începând cu 01.05.2023",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.16_24.04.2023_.pdf",
+     "sha256": "3b1fa63d077b48a22c3ebf6aa3a48e0caf66b10b9ff497c14f2fee2cc78e2b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-20-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/20",
+   "short": "HCL Runcu Salvei nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 20/2023 privind aprobarea participării Comunei Runcu Salvei, Județul Bistrița-Năsăud la Parteneriatul LEADER cu denumirea ASOCIAȚIA PARTENERIAT GAL ȚINUTUL HAIDUCILOR",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.20_10.05.2023_.pdf",
+     "sha256": "edc60934f10386d3d9c102ac41dd6f2743db815ffe3315b4fa3cf2ce86dc65a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-21-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/21",
+   "short": "HCL Runcu Salvei nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 21/2023 privind declararea unor imobile categorie de folosință drumuri, situate în extravilanul și intravilanul comunei Runcu Salvei, proprietate a comunei Runcu-Salvei ca bunuri de uz și de interes public local",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.21_10.05.2023_.pdf",
+     "sha256": "5208c19d3e0db7f82057fa05c0995827ff4e0a5c0afad081982819d84c7b0b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-22-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/22",
+   "short": "HCL Runcu Salvei nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 22/2023 privind schimbarea categoriei de folosință a unor drumuri în categoria funcțională drumuri de exploatare agricolă, situate pe teritoriul unității administrative Runcu Salvei, județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.22_10.05.2023_.pdf",
+     "sha256": "4282f2ac20df07f821b581868052a78f257273209dc99d383f12300d3a8e8628"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-23-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/23",
+   "short": "HCL Runcu Salvei nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 23/2023 privind aprobarea Acordului de parteneriat între Județul Bistrița-Năsăud și unitățile administrativ - teritoriale din județ în vederea implementării proiectului ”Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Bistrița-Năsăud, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.23_06.06.2023_aprobare_ap.pdf",
+     "sha256": "69188157727b18d0bb1ca52c4a045d12a6cc5a5c51da4ce37d324333d6c1e460"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-26-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/26",
+   "short": "HCL Runcu Salvei nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 26/2023 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.26_08.06.2023_aprobare_mod_statut_adibn.pdf",
+     "sha256": "0f858ccee64ec969f28379783667a53faabd2a810e2010ff5dd804088853a3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-27-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/27",
+   "short": "HCL Runcu Salvei nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 27/2023 privind însușirea Documentației cadastrale de primă înscriere în sistemul integrat de cadastru și carte funciară a imobilului ”Teren pe Podereie”, în suprafață de 1145 mp., categorie de folosință fânaț, situat în intravilanul comunei Runcu Salvei și declararea imobilului ca bun de uz și de interes public local",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_prh.nr.27_09.06.2023_.pdf",
+     "sha256": "9c4f96b6cc26a763b16453ca5fc1e8be70b2e66d4b191875879ea0fddd5aea3e"
     }
    ]
   },
@@ -93,6 +243,81 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-32-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/32",
+   "short": "HCL Runcu Salvei nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 32/2023 privind aprobarea înființării Serviciului de iluminat public stradal fără personalitate juridică și a delegării gestiunii prin concesiune a Serviciului de iluminat public al Comunei Runcu Salvei, județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.32_18.08.2023_infiintare_sips.pdf",
+     "sha256": "935afdf471365e49684a4b8ae099096e4c4bfcfb6afd449d115760b9f4ed39db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-33-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/33",
+   "short": "HCL Runcu Salvei nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 33/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și al contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României pentru perioada septembrie 2023 - septembrie 2026 la nivelul unităților de învățământ din comuna Runcu Sa",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.33_24.08.2023_neasumare_r.pdf",
+     "sha256": "b9f6c4f49338ac02eab57a91d7b6c3f601feeea683c2a31be99c169260813378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-35-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/35",
+   "short": "HCL Runcu Salvei nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 35/2023 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Runcu Salvei, județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.35_13.10.2023_atestare_inventar.pdf",
+     "sha256": "8fe832caab409a446023f0fbb136b0698e84cfefe3550aeb7ac998e9e6c915e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-39-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/39",
+   "short": "HCL Runcu Salvei nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 39/2023 privind solicitarea operatorului S.C",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_prh.nr.39_01.11.2023_solicitare_operator.pdf",
+     "sha256": "626f88c976407b1e920ba89b9407e4a63af096fcb4a9adc7fba1910fca3de6d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-4-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/4",
+   "short": "HCL Runcu Salvei nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 4/2023 privind aprobarea Memoriului tehnico-economic și a indicatorilor tehnico-economici ai proiectului ”Recipiente de colectare a deșeurilor pentru Dezvoltarea și Modernizarea Sistemului de Management Integrat al Deșeurilor din Județul Bistrița-Năsăud” în vederea finanțării prin POIM 2014-2020",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.04_30.01.2023_.pdf",
+     "sha256": "be83ca109fd1b8fee8a2c258b47d7077f7c501f9d4e33034d650a528595b1103"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--runcu-salvei-44-2023",
    "path": "local/bistrita-nasaud/runcu-salvei/2023/44",
    "short": "HCL Runcu Salvei nr. 44/2023",
@@ -104,6 +329,81 @@
      "units": 1,
      "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_hcl.nr.44_22.12.2023_aprobare_concesionare.pdf",
      "sha256": "2cf582bd9ed5691af9a6348af70165ec4cecbced802cbfea332c5b0491886a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-5-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/5",
+   "short": "HCL Runcu Salvei nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 5/2023 privind aprobarea modificării Statului și a Actului constitutiv al Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.05_30.01.2023_.pdf",
+     "sha256": "8acb23c479199b85b87547289bf38c0d2fed1921b639e623fb0fe18133b2dc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-6-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/6",
+   "short": "HCL Runcu Salvei nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 6/2023 privind aprobarea organizării rețelei școlare din comuna Runcu Salvei, pentru anul școlar 2023-2024",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.06_30.01.2023_.pdf",
+     "sha256": "7df270644fa0fbc9b057350c29c9a052e27a4f120267d7b7e87c556ef85e7e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-7-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/7",
+   "short": "HCL Runcu Salvei nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 7/2023 privind declararea imobilului ”Teren”, categorie de folosință neproductiv, situat în extravilanul comunei Rebrișoara, proprietate a comunei Runcu-Salvei ca bun de uz și de interes public local",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.07_30.01.2023_.pdf",
+     "sha256": "572a92ea50b8f9c5b49123ef1af2460d9cbc8b6eb242caf6c40d97ed41e1df47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-8-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/8",
+   "short": "HCL Runcu Salvei nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 8/2023 privind aprobarea încheierii unui protocol de colaborare între Ministerul Muncii și Solidarității Sociale și U.A.T",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_hcl.nr.08_28.02.2023_.pdf",
+     "sha256": "b0919b0f40259b4c69aacd2e63634e79b38f41184adff6483bcd8bebb0e57d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--runcu-salvei-9-2023",
+   "path": "local/bistrita-nasaud/runcu-salvei/2023/9",
+   "short": "HCL Runcu Salvei nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Runcu Salvei nr. 9/2023 privind aprobarea încheierii unui protocol de colaborare între Ministerul Muncii și Solidarității Sociale și U.A.T",
+   "url": "https://primariaruncusalvei.ro/registru_hcl23.html",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://primariaruncusalvei.ro/documente/hcl/uat_runcu_salvei_prh.nr.09_08.02.2023_.pdf",
+     "sha256": "96a8498f3368308b66011d2562d5d5446a3b8443245b689a523d1839bc8493e3"
     }
    ]
   }

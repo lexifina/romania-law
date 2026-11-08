@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/hanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--hanesti-1-2026",
+   "path": "local/botosani/hanesti/2026/1",
+   "short": "HCL Hănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 1/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL1%2030.01.2026.pdf",
+     "sha256": "d6cb30a5543f55fd784504281cc8a707395e827df601daee2c5e7ccd7f9453aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-10-2026",
+   "path": "local/botosani/hanesti/2026/10",
+   "short": "HCL Hănești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 10/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL10%2027.02.2026.pdf",
+     "sha256": "70a0c09d4bb02fc19be4bbbcd6424a51663ffda780b7e034c62d73a8bd5b6b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-11-2026",
+   "path": "local/botosani/hanesti/2026/11",
+   "short": "HCL Hănești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 11/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL11%2006.03.2026.pdf",
+     "sha256": "37c3133b049fab61277380d8cb4acebacc2079019f3ccb26c2c8865b5ccc558b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-12-2026",
+   "path": "local/botosani/hanesti/2026/12",
+   "short": "HCL Hănești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 12/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL12%2030.03.2026.pdf",
+     "sha256": "93c6a8494dbc2609fa80763d3b2091bc41c5e355acf8bdc1491454108c40ba28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-13-2026",
+   "path": "local/botosani/hanesti/2026/13",
+   "short": "HCL Hănești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 13/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL13%2030.03.2026.pdf",
+     "sha256": "5b14524504a8162974909d2546ddcc628485248bdb18cb2e6950c788816c96c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-14-2026",
+   "path": "local/botosani/hanesti/2026/14",
+   "short": "HCL Hănești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 14/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL14%2030.03.2026.pdf",
+     "sha256": "685395923fdeba926ad4cac9e966898cbf127ef49827b8e14389013f3ea04da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-15-2026",
+   "path": "local/botosani/hanesti/2026/15",
+   "short": "HCL Hănești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 15/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL15%2015.04.2026.pdf",
+     "sha256": "9bc759c675ec330f26399cb04bfcdb2407228923f505b06064287e0edf607cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-16-2026",
+   "path": "local/botosani/hanesti/2026/16",
+   "short": "HCL Hănești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 16/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL16%2011.05.2026.pdf",
+     "sha256": "c01f8c3a63aafdc161745d9c6f5c96aca241d30ecd4afae2fc56b45441865d0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-17-2026",
+   "path": "local/botosani/hanesti/2026/17",
+   "short": "HCL Hănești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 17/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL17%2011.05.2026.pdf",
+     "sha256": "0d097bd69eb2ac4ad68452d256c36e7b513486659084fbc48c8b87f4a522f7c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-18-2026",
+   "path": "local/botosani/hanesti/2026/18",
+   "short": "HCL Hănești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 18/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL18%2011.05.2026.pdf",
+     "sha256": "d2e150b65b10b0c140d34a109f810998d15da26e5ad32279bb84192c0cdb6a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-19-2026",
+   "path": "local/botosani/hanesti/2026/19",
+   "short": "HCL Hănești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 19/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL19%2008.06.2026.pdf",
+     "sha256": "a52114eaad2397de2517569bf95c6699f749a1af0cd284bb27c0940c0d07a408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-2-2026",
+   "path": "local/botosani/hanesti/2026/2",
+   "short": "HCL Hănești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 2/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL2%2030.01.2026.pdf",
+     "sha256": "3c7455b5c788841b5ff2874fb27166588bd703689cd38b83467954f8143c9ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-20-2026",
+   "path": "local/botosani/hanesti/2026/20",
+   "short": "HCL Hănești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 20/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL20%2008.06.2026.pdf",
+     "sha256": "31a3008cba87abd3bb0c63f2a610380193ced3ccbbdb71ecf6ca0bfe7233ecc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-21-2026",
+   "path": "local/botosani/hanesti/2026/21",
+   "short": "HCL Hănești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 21/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL21%2008.06.2026.pdf",
+     "sha256": "38ad402b7a0567435f32c8df60ba3848fb15e7fa9564a2256ca465b4f7faf501"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-22-2026",
+   "path": "local/botosani/hanesti/2026/22",
+   "short": "HCL Hănești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 22/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL22%2025.06.2026.pdf",
+     "sha256": "6ce629d4a8ce98d6df6083d60bb161a3810a26291855a0c707c6a5546e05ecef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-23-2026",
+   "path": "local/botosani/hanesti/2026/23",
+   "short": "HCL Hănești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 23/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL23%2025.06.2026.pdf",
+     "sha256": "f94896e32ae0ba01a53b868ab436830503a84d9eca330d771b3e5e3480878834"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-24-2026",
+   "path": "local/botosani/hanesti/2026/24",
+   "short": "HCL Hănești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 24/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL24%2014.07.2026.pdf",
+     "sha256": "1f5f27c8095e69285fd364cd987dbc313f1c2e7017cbe5b59de5fc85d252a901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-25-2026",
+   "path": "local/botosani/hanesti/2026/25",
+   "short": "HCL Hănești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 25/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_25_31.07.2026.pdf",
+     "sha256": "f039829aa71b8f2d83f6ab67e289e79d39f100684e49ddf83064f3030b3d8d55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-26-2026",
+   "path": "local/botosani/hanesti/2026/26",
+   "short": "HCL Hănești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 26/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_26_31.07.2026.pdf",
+     "sha256": "8cdaef5adfcf60bf60b5ff35a3cb38680b98b8c5eecabe3a734d29cba7d4358c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-27-2026",
+   "path": "local/botosani/hanesti/2026/27",
+   "short": "HCL Hănești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 27/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_27_31.07.2026.pdf",
+     "sha256": "b3b08e0c752bff0a021c9e27a8fec1c5415a5a181301f9a131a5077da08c2023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-28-2026",
+   "path": "local/botosani/hanesti/2026/28",
+   "short": "HCL Hănești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 28/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_28_31.07.2026.pdf",
+     "sha256": "8f21cb7b2252260cb6a0e6481c66116d570b770f9892fbba8c03a7e41a9c6d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-29-2026",
+   "path": "local/botosani/hanesti/2026/29",
+   "short": "HCL Hănești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 29/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_29_17.08.2026.pdf",
+     "sha256": "6bbc9bd09b7d228b324b8f5fdf08207199458e9f8725df2a600d20488adf9102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-3-2026",
+   "path": "local/botosani/hanesti/2026/3",
+   "short": "HCL Hănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 3/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL3%2030.01.2026.pdf",
+     "sha256": "1580cfa6f15da23a911156dcf62dc5b619867a4b74ce63cf0305252df8b6b259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-30-2026",
+   "path": "local/botosani/hanesti/2026/30",
+   "short": "HCL Hănești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 30/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_30_17.08.2026.pdf",
+     "sha256": "325c15ab5c07a04acd4e25dd4c475afe23022cdf4c4b26145f7deb4990055914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-31-2026",
+   "path": "local/botosani/hanesti/2026/31",
+   "short": "HCL Hănești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 31/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_31_28.08.2026.pdf",
+     "sha256": "f032ef5fd91cde34135011b27568b9a3870c4d760f13485866b3ef55151f4a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-32-2026",
+   "path": "local/botosani/hanesti/2026/32",
+   "short": "HCL Hănești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 32/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/hot_32_28.08.2026.pdf",
+     "sha256": "361a76ded8464e5619a44567625ce2de7075fbe77ea44ff239bc698014a3a86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-4-2026",
+   "path": "local/botosani/hanesti/2026/4",
+   "short": "HCL Hănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 4/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL4%2030.01.2026.pdf",
+     "sha256": "8ae0dfc8ffbae87b829ab1e390fff5f0b1a1f19bc25d5defbd69da7acbbdf45a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-5-2026",
+   "path": "local/botosani/hanesti/2026/5",
+   "short": "HCL Hănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 5/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL5%2027.02.2026.pdf",
+     "sha256": "c8349f55a7433c0f1a8bcf89942676830ae9b116e1c5ce6d1e70661427e9f029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-6-2026",
+   "path": "local/botosani/hanesti/2026/6",
+   "short": "HCL Hănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 6/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL6%2027.02.2026.pdf",
+     "sha256": "7998e350a080d9bcb4e963ecadc967620754edb1b3a7c8d2136ada791c124207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-7-2026",
+   "path": "local/botosani/hanesti/2026/7",
+   "short": "HCL Hănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 7/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL7%2027.02.2026.pdf",
+     "sha256": "b65eabfff3aa4011241f153193498f264875bce0be140bc490db020a334e2bc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-8-2026",
+   "path": "local/botosani/hanesti/2026/8",
+   "short": "HCL Hănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 8/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL8%2027.02.2026.pdf",
+     "sha256": "2550f3485d097797ab522dc05f45406b31cd7a622600413b438f9f65e4ee7cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-9-2026",
+   "path": "local/botosani/hanesti/2026/9",
+   "short": "HCL Hănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 9/2026",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2026/hcl/HCL9%2027.02.2026.pdf",
+     "sha256": "0fa340b3cda9be1ba2a14ae409aa1c786a2c36467add7229fcf55a652d069a50"
+    }
+   ]
+  }
+ ]
+}

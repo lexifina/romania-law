@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/saveni/2019",
+ "acts": [
+  {
+   "slug": "hcl-botosani--saveni-11-2019",
+   "path": "local/botosani/saveni/2019/11",
+   "short": "HCL Săveni nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 11/2019",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/94/",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2018/Oferta_vanzare_nr.11_din_05.02.2019.pdf",
+     "sha256": "94bd549d85e13e24645fc264b0618c05ba67d6d052a2781c87b60dc286e153ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-5-2019",
+   "path": "local/botosani/saveni/2019/5",
+   "short": "HCL Săveni nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 5/2019",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/94/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2018/Oferta_vanzare_nr.5_din_28.01.2019.pdf",
+     "sha256": "e9d2821948ce10790cd4b8bccd228be60abf4abae68245a3a6d8f90800773fc8"
+    }
+   ]
+  }
+ ]
+}

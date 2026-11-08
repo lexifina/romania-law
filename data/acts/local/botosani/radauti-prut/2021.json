@@ -23,6 +23,72 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-botosani--radauti-prut-21-2021",
+"path": "local/botosani/radauti-prut/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 21/2021 privind atestarea Inventarului bunurilor care apartin domeniului public",
+"short": "HCL Rădăuți-Prut nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/47-hotarari-anul-2021",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-767-2021",
+"path": "local/botosani/radauti-prut/2021/767",
+"kind": "local",
+"year": "2021",
+"number": "767",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 767/2021 privind aprobarea indicatorilor tehnico-economici ai investitiei \"Lucrari de reparatii la obiectiv Camin cultural localitatea Rediu, comuna Radauti-Prut, judetul Botosani\"",
+"short": "HCL Rădăuți-Prut nr. 767/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/47-hotarari-anul-2021",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-770-2021",
+"path": "local/botosani/radauti-prut/2021/770",
+"kind": "local",
+"year": "2021",
+"number": "770",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 770/2021 privind aprobarea indicatorilor tehnico-economici ai investitiei \"Lucrari de reparatii la sala de sport localitatea Miorcani, comuna Radauti-Prut, judetul Botosani\"",
+"short": "HCL Rădăuți-Prut nr. 770/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/47-hotarari-anul-2021",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

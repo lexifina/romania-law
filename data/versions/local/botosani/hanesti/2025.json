@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/hanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--hanesti-10-2025",
+   "path": "local/botosani/hanesti/2025/10",
+   "short": "HCL Hănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 10/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H10-25.03.2025.pdf",
+     "sha256": "91ee917e99716a1ed207ef381ccfe3c585cd5437620f03043b1ccc93603e6afb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-11-2025",
+   "path": "local/botosani/hanesti/2025/11",
+   "short": "HCL Hănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 11/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL11.pdf",
+     "sha256": "88000a9abbdba0291595493f8bc1907375da8d8d93aac0868f0f25f1d26b69ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-12-2025",
+   "path": "local/botosani/hanesti/2025/12",
+   "short": "HCL Hănești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 12/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2012.pdf",
+     "sha256": "4598376b4ba4a2ff0311d7fb4a6fd5533d72814eb00e20546d6cfe568bdb9478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-13-2025",
+   "path": "local/botosani/hanesti/2025/13",
+   "short": "HCL Hănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 13/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2013_1.pdf",
+     "sha256": "5cc902705803ca69a7b9c2de8c97f8aed0f100e8446f29fe3c4aeea0386cb709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-14-2025",
+   "path": "local/botosani/hanesti/2025/14",
+   "short": "HCL Hănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 14/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2014.pdf",
+     "sha256": "681afc8a6151b5684c7ff19dbdbef04fcdccc55fed882ca5c444dce597d53745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-15-2025",
+   "path": "local/botosani/hanesti/2025/15",
+   "short": "HCL Hănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 15/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2015.pdf",
+     "sha256": "0f2be6e418835591b40997c8abf2496eefd085e818a747f080f86ab17a17a873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-16-2025",
+   "path": "local/botosani/hanesti/2025/16",
+   "short": "HCL Hănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 16/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2016.pdf",
+     "sha256": "e3758fc01c3200a913bf169702352e1649e6c916ac05a1a369162e5e454ad0f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-17-2025",
+   "path": "local/botosani/hanesti/2025/17",
+   "short": "HCL Hănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 17/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2017.pdf",
+     "sha256": "5c4905b38e07a9078e042b9d81731eb6db69c9ca24093df264323bf619388ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-18-2025",
+   "path": "local/botosani/hanesti/2025/18",
+   "short": "HCL Hănești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 18/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2018.pdf",
+     "sha256": "0050c0aae6bb1c5c04854cda4b911d9165b7a5d50875c6d84394d064f8544a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-19-2025",
+   "path": "local/botosani/hanesti/2025/19",
+   "short": "HCL Hănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 19/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2019.pdf",
+     "sha256": "426507f59cf3e9bc108a0e83909d43d8449f2ae63a533552bc92eeacea621287"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-2-2025",
+   "path": "local/botosani/hanesti/2025/2",
+   "short": "HCL Hănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 2/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H2-22.01.2025.pdf",
+     "sha256": "c8fece4a1290e0ffe30d8ee8492dd1f822ad34bbd7a87379259c906649c80786"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-20-2025",
+   "path": "local/botosani/hanesti/2025/20",
+   "short": "HCL Hănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 20/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2020.pdf",
+     "sha256": "426b38117cee5f4c515d378840beb4d0798481b0eedbf422bb9e3519e777a59d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-21-2025",
+   "path": "local/botosani/hanesti/2025/21",
+   "short": "HCL Hănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 21/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2021.pdf",
+     "sha256": "2153602de2b7ae2dcef6ba616d4133e16102bae99063b65206bcc23b00b0b406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-22-2025",
+   "path": "local/botosani/hanesti/2025/22",
+   "short": "HCL Hănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 22/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2022.pdf",
+     "sha256": "baefe46a5c74b107bac43d3160656223263ababbd2d188955ed8f3c088a1afbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-23-2025",
+   "path": "local/botosani/hanesti/2025/23",
+   "short": "HCL Hănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 23/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2023.pdf",
+     "sha256": "b08e0cecca70b96f539de9c5f24f079fa72d1fc1ad8b0d09a12d7e54631260f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-24-2025",
+   "path": "local/botosani/hanesti/2025/24",
+   "short": "HCL Hănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 24/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2024.pdf",
+     "sha256": "50b008a94c7548e527ce6ba306c74ab4773835bc80dce7c83b7bd31c0a83ef8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-25-2025",
+   "path": "local/botosani/hanesti/2025/25",
+   "short": "HCL Hănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 25/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2025.pdf",
+     "sha256": "06bb5d57ca28d3d9a3f73a9a1f4dbaa8ac1b2a9213ac2749c6900bdd50bccc14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-26-2025",
+   "path": "local/botosani/hanesti/2025/26",
+   "short": "HCL Hănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 26/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2026.pdf",
+     "sha256": "13314f7502d9c5f354030e7501cd705612ee1fcd80b07c6ce135c09f9c46101a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-27-2025",
+   "path": "local/botosani/hanesti/2025/27",
+   "short": "HCL Hănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 27/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2027.pdf",
+     "sha256": "c631323e0ce33dd3cb180af53a7341d8fb15db6a18b9ee62e627864d93151128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-28-2025",
+   "path": "local/botosani/hanesti/2025/28",
+   "short": "HCL Hănești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 28/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2028.pdf",
+     "sha256": "5fd144bc778f7c4e7a31108edecca18f1f502878bb78b3534c8e50d7be8be17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-29-2025",
+   "path": "local/botosani/hanesti/2025/29",
+   "short": "HCL Hănești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 29/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2029.pdf",
+     "sha256": "9387cf98290b68435f32caaa8513f4413e921b081a0db06d8779b64bea5a7bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-30-2025",
+   "path": "local/botosani/hanesti/2025/30",
+   "short": "HCL Hănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 30/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2030.pdf",
+     "sha256": "732a9d3ca923045ebbfc571df5f08287e76da617c984c8f6e3ca19e905164ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-31-2025",
+   "path": "local/botosani/hanesti/2025/31",
+   "short": "HCL Hănești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 31/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2031.pdf",
+     "sha256": "cec57c1d632f9f1cc9284f3b3e3bab2dc4ebc22326d4b3dc61f4085e8122fbc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-32-2025",
+   "path": "local/botosani/hanesti/2025/32",
+   "short": "HCL Hănești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 32/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2032.pdf",
+     "sha256": "05da79bb0c8309a4fe72cde9ac4f708017ddd54473cb54cf59851fec08042dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-33-2025",
+   "path": "local/botosani/hanesti/2025/33",
+   "short": "HCL Hănești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 33/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2033.pdf",
+     "sha256": "eca554a78e114b213cd22fd6a1a5d8fd03f254442df83f39ce8f23eaa2b21eec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-34-2025",
+   "path": "local/botosani/hanesti/2025/34",
+   "short": "HCL Hănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 34/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2034.pdf",
+     "sha256": "956050369bfba4e8397d8d5683155942d718c71eb07d88a21063b7e628b1bd3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-35-2025",
+   "path": "local/botosani/hanesti/2025/35",
+   "short": "HCL Hănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 35/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2035.pdf",
+     "sha256": "a8063da7d4c7659cf8389c2ef3adccecd7aadf8ad00172237428d1f48c26fcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-36-2025",
+   "path": "local/botosani/hanesti/2025/36",
+   "short": "HCL Hănești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 36/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/HCL%2036.pdf",
+     "sha256": "c6e115b6fb1ccc3639b829b586614111bc980bfee1e9c77c53829e92cc99640d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-4-2025",
+   "path": "local/botosani/hanesti/2025/4",
+   "short": "HCL Hănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 4/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H4-20.02.2025.pdf",
+     "sha256": "4158aa46364ff1bed285cd595082a86c14f23cf64ff0c83ce483905c2c32a970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-5-2025",
+   "path": "local/botosani/hanesti/2025/5",
+   "short": "HCL Hănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 5/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H5-20.02.2025.pdf",
+     "sha256": "e1041d41d3b01344e0723497f812bfebe8e4a2e5ec7675f5e1811173a75fff4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-6-2025",
+   "path": "local/botosani/hanesti/2025/6",
+   "short": "HCL Hănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 6/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H6-20.02.2025.pdf",
+     "sha256": "da5af7843e49f6d1095aae89131d25d232a2c6c9e80e7957243d02b78ac037bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-7-2025",
+   "path": "local/botosani/hanesti/2025/7",
+   "short": "HCL Hănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 7/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H7-20.02.2025.pdf",
+     "sha256": "f513cab7e5066df4b9c8f07cc47a378e30e295110be9df95dfa1a29711c91f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-8-2025",
+   "path": "local/botosani/hanesti/2025/8",
+   "short": "HCL Hănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 8/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H8-05.03.2025.pdf",
+     "sha256": "63234d009d556f86b8700817c563c523635ea3c59d4f5017ee96aba1391cfaf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--hanesti-9-2025",
+   "path": "local/botosani/hanesti/2025/9",
+   "short": "HCL Hănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hănești nr. 9/2025",
+   "url": "https://www.comunahanesti.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.comunahanesti.ro/alldocs/hcl/2025/hcl/H9-25.03.2025.pdf",
+     "sha256": "175d08d70261c3955b6a52a065602896a7fcc496347376e0138d579430525542"
+    }
+   ]
+  }
+ ]
+}

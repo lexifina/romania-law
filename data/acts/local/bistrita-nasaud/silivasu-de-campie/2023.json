@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-11-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 11/2023 privind aprobare ataxelor speciale datorate de persoanele fizice si juridice din comuna Silivasu de Campie, pentru anul 2023",
+"short": "HCL Silivașu de Câmpie nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/97525",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--silivasu-de-campie-12-2023",
 "path": "local/bistrita-nasaud/silivasu-de-campie/2023/12",
 "kind": "local",
@@ -177,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-18-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 18/2023 privind Privind aprobarea aprobare documentației tehnico-economice - Studiului de fezabilitate şi a indicatorilor tehnico-economici pentru obiectivul de investiții “CONSTRUIRE CENTRU DE ZI PENTRU CONSILIERE SI SPRIJIN PARINTI SI COPII IN LOCALITATEA SILIVASU DE CAMPIE, COMUNA SILIVASU DE CAMPIE, JUDETUL BISTRITA NASAUD”",
+"short": "HCL Silivașu de Câmpie nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/99592",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +356,72 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-25-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 25/2023 Privind vânzarea prin licitație publica deschisă a materialelor provenite din demolarea mijlocului fix,,Cladire în regim parter- Baraca melatica,, proprietatea Primariei Silivasu de Câmpie,judetul Bistrita-Năsăud",
+"short": "HCL Silivașu de Câmpie nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/106540",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-26-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 26/2023 privind aprobarea Acordului de Parteneriat între Județul Bistrița-Năsăud și unitatile administrativ-teritoriale din județ în vederea implementării proiectului,,Realizarea,implementarea,utilizarea si administrarea sistemelor informatice de înaltă performanță, la nivelul judetului Bistrita-Năsăud,dezvoltate si găzduite prin sistemul Cloud Regional Nord-Vest,,",
+"short": "HCL Silivașu de Câmpie nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/106541",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-27-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 27/2023 privind aprobarea radierii dreptului de folosință din Extrasele de Carte Funciară nr. 26225,26226,26223,26228,26224 si 26227 - UAT Silivașu de Câmpie,județul Bistrița-Năsăud a Cooperativei de Consum Milaș",
+"short": "HCL Silivașu de Câmpie nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-09",
+"latest": "2023-06-09",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/106542",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--silivasu-de-campie-28-2023",
 "path": "local/bistrita-nasaud/silivasu-de-campie/2023/28",
 "kind": "local",
@@ -353,6 +463,72 @@
 "council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-30-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 30/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Silivasu de Câmpie,judetul Bistrița-Năsăud",
+"short": "HCL Silivașu de Câmpie nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/111697",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-31-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 31/2023 privind modificarea Hotărârii Consiliului Local nr. 11 din 23.03.2023 privind stabilirea taxelor speciale, datorate de către persoanele fizice şi juridice din comuna SILIVASU DE CÂMPIE , pentru anul 2023",
+"short": "HCL Silivașu de Câmpie nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/111698",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--silivasu-de-campie-32-2023",
+"path": "local/bistrita-nasaud/silivasu-de-campie/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 32/2023 privind aprobarea de diminuare din trimestrul IV cu suma de 47 mii lei si majorare in trimestrul II cu suma de 47 mii lei in Bugetul iniţial de venituri şi cheltuieli al comunei Silivaşu de Câmpie, jud. Bistriţa-Năsăud , pe anul bugetar 2023",
+"short": "HCL Silivașu de Câmpie nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://emol.ro/silivasudecampie-bn/registru-hcl/114851",
+"council": "bistrita-nasaud/silivasu-de-campie",
+"council_name": "Consiliul Local al Comunei Silivașu de Câmpie",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

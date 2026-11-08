@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-11-2026",
+   "path": "local/botosani/corlateni/2026/11",
+   "short": "HCL Corlăteni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 11/2026",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/269962",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-12-2026",
    "path": "local/botosani/corlateni/2026/12",
    "short": "HCL Corlăteni nr. 12/2026",
@@ -148,6 +163,21 @@
      "from": "2026-05-26",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-2-2026",
+   "path": "local/botosani/corlateni/2026/2",
+   "short": "HCL Corlăteni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 2/2026 privind aprobarea documentației tehnice de dezmembrare a imobilului înscris în CF 53511 - CORLĂTENI, în suprafață de 293.700 mp, P.C.493,P.C.494,P.C.496 extravilan sat Vlădeni, comuna Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/269953",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269953",
      "sha256": null
     }
    ]
@@ -348,6 +378,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-4-2026",
+   "path": "local/botosani/corlateni/2026/4",
+   "short": "HCL Corlăteni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 4/2026 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/269955",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-5-2026",
+   "path": "local/botosani/corlateni/2026/5",
+   "short": "HCL Corlăteni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 5/2026",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/269956",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269956",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-6-2026",
    "path": "local/botosani/corlateni/2026/6",
    "short": "HCL Corlăteni nr. 6/2026",
@@ -373,6 +433,21 @@
      "from": "2026-05-26",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-8-2026",
+   "path": "local/botosani/corlateni/2026/8",
+   "short": "HCL Corlăteni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 8/2026",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/269959",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/269959",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/botosani/calarasi/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--calarasi-27-2024",
+   "path": "local/botosani/calarasi/2024/27",
+   "short": "HCL Călărași nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 27/2024 privind stabilirea salariilor de bază aferente funcțiilor publice și funcțiilor contractuale",
+   "url": "https://primariacalarasibt.ro/wp-content/uploads/2024/12/Hotarare-nr.-27-29.03.2024-privind-stabilirea-salariilor-de-baza-aferente-functiilor-publice-si-functiilor-contractuale.pdf",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://primariacalarasibt.ro/wp-content/uploads/2024/12/Hotarare-nr.-27-29.03.2024-privind-stabilirea-salariilor-de-baza-aferente-functiilor-publice-si-functiilor-contractuale.pdf",
+     "sha256": "03e20ad8e47dd9a172aafbb04256760caa62541df301793b8251e29d180bc841"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--calarasi-76-2024",
    "path": "local/botosani/calarasi/2024/76",
    "short": "HCL Călărași nr. 76/2024",

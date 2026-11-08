@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/durnesti/2024",
+"acts": [
+{
+"slug": "hcl-botosani--durnesti-1-2024",
+"path": "local/botosani/durnesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 1/2024 privind admiterea depunerii de candidați pentru consilieri locali &#8211; PAUR",
+"short": "HCL Durnești nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2024/04/Hotararea-nr.-1-24.04.2024-privind-admiterea-depunerii-de-candidati-pentru-consilieri-locali-PAUR.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

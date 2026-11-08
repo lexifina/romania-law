@@ -3,6 +3,94 @@
 "shard": "local/bistrita-nasaud/romuli/2023",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--romuli-1-2023",
+"path": "local/bistrita-nasaud/romuli/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 1/2023 privind organizarea reţelei școlare a unităţilor de învăţământ preuniversitar de stat de pe raza Comunei Romuli pentru anul şcolar 2023-2024",
+"short": "HCL Romuli nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98636",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-2-2023",
+"path": "local/bistrita-nasaud/romuli/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 2/2023 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Romuli, serviciilor publice comunale sub autoritatea consiliului local, şi a asistenţilor personali, pentru anul 2023",
+"short": "HCL Romuli nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98637",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-3-2023",
+"path": "local/bistrita-nasaud/romuli/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 3/2023 privind stabilirea salariilor de bază pentru demnitari, funcționarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Romuli începând cu data de 01.01.2023",
+"short": "HCL Romuli nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98638",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-4-2023",
+"path": "local/bistrita-nasaud/romuli/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 4/2023 privind aprobarea bugetului de venituri şi cheltuieli al Comunei Romuli pe anul 2023 şi estimat pe anii 2024-2026",
+"short": "HCL Romuli nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98639",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-5-2023",
 "path": "local/bistrita-nasaud/romuli/2023/5",
 "kind": "local",
@@ -22,6 +110,94 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-6-2023",
+"path": "local/bistrita-nasaud/romuli/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 6/2023 privind aprobarea bugetului de venituri şi cheltuieli al Ocolului Silvic Comunal Romuli R.A pentru anul 2023",
+"short": "HCL Romuli nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98641",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-7-2023",
+"path": "local/bistrita-nasaud/romuli/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 7/2023 privind aprobarea cuantumului cotizaţiei pentru anul 2023 a Comunei Romuli pentru asociațiile și grupurile de acțiune locală la care comuna Romuli este membru sau din care face parte",
+"short": "HCL Romuli nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98642",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-8-2023",
+"path": "local/bistrita-nasaud/romuli/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 8/2023 privind aprobarea Raportului semestrial aferent semestrului II din 2022 al Compartimentului de asistență socială și autoritate tutelară al comunei Romuli referitor la activitatea asistenților personali pentru persoane cu handicap grav",
+"short": "HCL Romuli nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98643",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-9-2023",
+"path": "local/bistrita-nasaud/romuli/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 9/2023 privind aprobarea planului de acțiuni sau de lucrări de interes local pe anul 2023 pentru persoanele beneficiare de prevederile legii 416/2001 privind venitul minim garantat care prestează ore de muncă",
+"short": "HCL Romuli nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98644",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -66,6 +242,50 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-12-2023",
+"path": "local/bistrita-nasaud/romuli/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 12/2023 privind aprobarea modificării Statutului și a Actului constitutiv al Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+"short": "HCL Romuli nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98647",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-13-2023",
+"path": "local/bistrita-nasaud/romuli/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 13/2023 privind modificarea şi completarea Anexei nr. 1 la Hotărârea Consiliului Local Romuli nr. 3 din 30.01.2023 referitoare la stabilirea salariilor de bază pentru demnitari, funcționarii publici, personalul contractual din cadrul aparatului de specialitate al primarului comunei Romuli precum şi pentru asistenţii personali",
+"short": "HCL Romuli nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/98754",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +465,50 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--romuli-22-2023",
+"path": "local/bistrita-nasaud/romuli/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 22/2023 privind alegerea de către Consiliul Local al comunei Romuli, a preşedintelui de şedinţă, pe o perioadă de trei luni, începând cu luna MARTIE 2023",
+"short": "HCL Romuli nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/100699",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-23-2023",
+"path": "local/bistrita-nasaud/romuli/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 23/2023 privind aprobarea participării Comunei Romuli la apelul de proiecte finanțat din “Componenta C15: Educație, prin Planul Național de Redresare și Reziliență\", \"DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE ROMULI",
+"short": "HCL Romuli nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/100700",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-24-2023",
 "path": "local/bistrita-nasaud/romuli/2023/24",
 "kind": "local",
@@ -289,6 +553,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--romuli-26-2023",
+"path": "local/bistrita-nasaud/romuli/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 26/2023 privind aprobarea încheierii Actului adițional nr. 6 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+"short": "HCL Romuli nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/103057",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-27-2023",
 "path": "local/bistrita-nasaud/romuli/2023/27",
 "kind": "local",
@@ -308,6 +594,29 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-28-2023",
+"path": "local/bistrita-nasaud/romuli/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 28/2023",
+"short": "HCL Romuli nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/103059",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -353,6 +662,28 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-31-2023",
+"path": "local/bistrita-nasaud/romuli/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 31/2023 privind aprobarea actului adiţional nr. 5 la Contractul de închiriere nr. 1635 din 02.05.2018 încheiat între Comuna Romuli şi Asociaţia Crescătorilor de Taurine Romuli",
+"short": "HCL Romuli nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/103062",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -551,6 +882,28 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-41-2023",
+"path": "local/bistrita-nasaud/romuli/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 41/2023 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+"short": "HCL Romuli nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-03",
+"latest": "2023-07-03",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/110398",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

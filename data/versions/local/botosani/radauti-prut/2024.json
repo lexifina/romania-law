@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/radauti-prut/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--radauti-prut-12-2024",
+   "path": "local/botosani/radauti-prut/2024/12",
+   "short": "HCL Rădăuți-Prut nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 12/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/02/HCL%20nr.12%20din%2007.02.2024.pdf",
+     "sha256": "dc2992182f3ae194f636e48ab79fa38196c6a0bbc2d0d87dc852cfba568186e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-13-2024",
+   "path": "local/botosani/radauti-prut/2024/13",
+   "short": "HCL Rădăuți-Prut nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 13/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/03/HCL%20nr.13%20din%2004.03.2024.pdf",
+     "sha256": "f7d5f5c8bd5c07ea02eff04146fb3925cdfe570e3b64b0b736147e65faa9b88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-14-2024",
+   "path": "local/botosani/radauti-prut/2024/14",
+   "short": "HCL Rădăuți-Prut nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 14/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/03/HCL%20nr.14%20din%2004.03.2024.pdf",
+     "sha256": "9e6c3f2fd8fcdd2e4574f854f2720c7038153d27b01687dbb92d33de7a7149f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-15-2024",
+   "path": "local/botosani/radauti-prut/2024/15",
+   "short": "HCL Rădăuți-Prut nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 15/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/04/HCL%20nr.15%20din%2026.04.2024.pdf",
+     "sha256": "e262ac22df1354524872918a231deab807650056e064db04fd1f8e4075e62ec6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-16-2024",
+   "path": "local/botosani/radauti-prut/2024/16",
+   "short": "HCL Rădăuți-Prut nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 16/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/04/HCL%20nr.16%20din%2026.04.2024.pdf",
+     "sha256": "bae892ed3a389f915f8c28b3fbde7870e50712837fba1692860b3c3ceebba5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-17-2024",
+   "path": "local/botosani/radauti-prut/2024/17",
+   "short": "HCL Rădăuți-Prut nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 17/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/04/HCL%20nr.17%20din%2026.04.2024.pdf",
+     "sha256": "7f399a2c0127be55fa8a5ebb88c80ec14cf044bde50b3fb932cd32008de0cfaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-18-2024",
+   "path": "local/botosani/radauti-prut/2024/18",
+   "short": "HCL Rădăuți-Prut nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 18/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/04/HCL%20nr.18%20din%2026.04.2024.pdf",
+     "sha256": "cca71ed6d295188d668b55601353ef46a2a84c236b2a145a4c2c1f111e26a69b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-2-2024",
+   "path": "local/botosani/radauti-prut/2024/2",
+   "short": "HCL Rădăuți-Prut nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 2/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/01/HCL%20nr.2%20din%2019.01.2024.pdf",
+     "sha256": "03ab1238d035a54847f09b81861894dfd3f4df7b6809d8d1a38459a5fdc7a57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-3-2024",
+   "path": "local/botosani/radauti-prut/2024/3",
+   "short": "HCL Rădăuți-Prut nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 3/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/01/HCL%20nr.3%20din%2019.01.2024.pdf",
+     "sha256": "c7cf65b865ec38d5db25a54f90146c05f771aab5b517a8c96442778277b4076a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-34-2024",
+   "path": "local/botosani/radauti-prut/2024/34",
+   "short": "HCL Rădăuți-Prut nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 34/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/11/HCL%20nr.34%20din%2015.11.2024.pdf",
+     "sha256": "4d6571ab434001fa7f5ca0791f8c2c29fa13b7248271a60398968afe511d2cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-35-2024",
+   "path": "local/botosani/radauti-prut/2024/35",
+   "short": "HCL Rădăuți-Prut nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 35/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/11/HCL%20nr.35%20din%2015.11.2024.pdf",
+     "sha256": "8287b1b53f711f634faae3d47eec2f651bb527545fa4ca60c9e490ea87937b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-38-2024",
+   "path": "local/botosani/radauti-prut/2024/38",
+   "short": "HCL Rădăuți-Prut nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 38/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/12/HCL%20nr.38%20din%2010.12.2024.pdf",
+     "sha256": "396d46f46a8b9d2e164b7595f1bb6dd20d1142b97d23a7e834aaa591eda7335b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-39-2024",
+   "path": "local/botosani/radauti-prut/2024/39",
+   "short": "HCL Rădăuți-Prut nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 39/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/12/HCL%20nr.39%20din%2010.12.2024.pdf",
+     "sha256": "0f85e0c683230066f1286352e00a819ce99573451292e0b39cd1dbe1730b0dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-4-2024",
+   "path": "local/botosani/radauti-prut/2024/4",
+   "short": "HCL Rădăuți-Prut nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 4/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/01/HCL%20nr.4%20din%2019.01.2024.pdf",
+     "sha256": "f53417e1d7f5b650ffc84eef43c075aed9dce21f48aa434ee23b41ae1d0efd1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-42-2024",
+   "path": "local/botosani/radauti-prut/2024/42",
+   "short": "HCL Rădăuți-Prut nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 42/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/12/HCL%20nr.42%20din%2010.12.2024.pdf",
+     "sha256": "1f5ca4928027c05f4a89fd1635505ed61e944456c36cadc1883fff084fc8eae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-43-2024",
+   "path": "local/botosani/radauti-prut/2024/43",
+   "short": "HCL Rădăuți-Prut nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 43/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/12/HCL%20nr.43%20din%2016.12.2024.pdf",
+     "sha256": "d69047519d91c63bedbae9dc9f7bfe66baa0009900a2571bbd015abb2451232f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-5-2024",
+   "path": "local/botosani/radauti-prut/2024/5",
+   "short": "HCL Rădăuți-Prut nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 5/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/01/HCL%20nr.5%20din%2019.01.2024.pdf",
+     "sha256": "82e77903faac1bc53961298bce3ac63c02ce5323d45e13f94f097363a0a78806"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-6-2024",
+   "path": "local/botosani/radauti-prut/2024/6",
+   "short": "HCL Rădăuți-Prut nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 6/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/02/HCL%20nr.6%20din%2007.02.2024.pdf",
+     "sha256": "d9d559d6051a0aa8c6b119931bb052b4fbea5156cf423d01025aa61aac904f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-7-2024",
+   "path": "local/botosani/radauti-prut/2024/7",
+   "short": "HCL Rădăuți-Prut nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 7/2024",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/135-hotarari-anul-2024",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2024/02/HCL%20nr.7%20din%2007.02.2024.pdf",
+     "sha256": "a161aa74dd6e4a5e8bbf9c5e0435422a00c8014f0767aa627f6c3b0f37722a5b"
+    }
+   ]
+  }
+ ]
+}

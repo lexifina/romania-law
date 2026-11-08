@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/teaca/2025",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-136-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/136",
+   "short": "HCL Teaca nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 136/2025 pentru data de 30.06.2025, ora 15:00 în Sala de ședințe de la sediul Primăriei",
+   "url": "https://primariateaca.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/dispo/uat_teaca_dispo.nr.136_24.06.2025_so_30.06.2025_15oo_CONV.pdf",
+     "sha256": "50e19f60d1decc871336220ce4b1e3f0b00e0606ffaaae0395f8bb4e3c100c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-149-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/149",
+   "short": "HCL Teaca nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 149/2025",
+   "url": "https://primariateaca.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/dispo/uat_teaca_dispo.nr.149_27.06.2025_suplimentare_ODZ_30.06.2025.pdf",
+     "sha256": "4d695dae1f88ec9fbfd334be5aa0dcab76f4f75f6b0b0b752e13d3921831fd51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-157-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/157",
+   "short": "HCL Teaca nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 157/2025 pentru data de 11.07.2025, ora 08:00 în Sala de ședințe de la sediul Primăriei",
+   "url": "https://primariateaca.ro/monitorul_oficial_local.html",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/dispo/uat_teaca_dispo.nr.157_04.07.2025_so_11.07.2025_08oo_CONV.pdf",
+     "sha256": "680b3cb3bcd0a311d057bf37d81a0c8af3606704ccc7a23b8b85613490734939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-1940-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/1940",
+   "short": "HCL Teaca nr. 1940/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 1940/2025 pentru ocuparea postului vacant MUNCITOR NECALIFICAT, COD COR 93101 (muncitor necal",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.1940_10.03.2025_pv_dosare.pdf",
+     "sha256": "21cbd3534f668bda314c96ea67c3ed95d4695660eb281113418e8f0fdae43d95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-1943-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/1943",
+   "short": "HCL Teaca nr. 1943/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 1943/2025 pentru ocuparea postului vacant MUNCITOR NECALIFICAT, COD COR 931202 (îngrijitor spații verzi) (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.1943_10.03.2025_pv_dosare.pdf",
+     "sha256": "2c9ebfa7ddbf07b04e517efd854c16a66a9bb0565312edc99e455207097acc27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-1944-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/1944",
+   "short": "HCL Teaca nr. 1944/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 1944/2025 pentru ocuparea postului vacant MUNCITOR CALIFICAT, COD COR 752201 (tâmplar universal) (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.1944_10.03.2025_pv_dosare.pdf",
+     "sha256": "cf0e702a093c6d50ec8f09cb0c777e154960425e666e4739dccd1fac2056ca86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2343-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2343",
+   "short": "HCL Teaca nr. 2343/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2343/2025 pentru postul vacant muncitor calificat (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2343_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "8cd7afdb1b8ff1267458fc68b157dfaef94d5789fd3acc4ab569a0c635a2e2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2345-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2345",
+   "short": "HCL Teaca nr. 2345/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2345/2025 pentru postul vacant muncitor calificat (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2345_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "74d230de462e392c72e0108a494068b1f73bd68862e3dfcf27c07402a8bf67df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2348-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2348",
+   "short": "HCL Teaca nr. 2348/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2348/2025 pentru postul vacant muncitor necalificat 931202 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2348_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "115f9020d99e4c09596873b8b51bba2a6d097c68ac42cb3a9910d7ece0eec201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2350-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2350",
+   "short": "HCL Teaca nr. 2350/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2350/2025 pentru postul vacant muncitor necalificat 931202 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2350_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "b6eb2b03fef26a1604952c95834cdd17a9d76978d48a8f1be7974299f1c74e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2352-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2352",
+   "short": "HCL Teaca nr. 2352/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2352/2025 pentru postul vacant muncitor necalificat 931301 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2352_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "0ed399d380e9c512b6e2582277031a82fbead69ce943a3abf3811461ffc6ab67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2354-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2354",
+   "short": "HCL Teaca nr. 2354/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2354/2025 pentru ocuparea postului vacant contractual de execuție tâmplar universal din 17.03.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2354_17.03.2025_centralizator_nominal.pdf",
+     "sha256": "d013b7e103ecd98ee29c3629d628107b2c791e2365e4968c806919de9738b003"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2400-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2400",
+   "short": "HCL Teaca nr. 2400/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2400/2025 pentru ocuparea postului vacant contractual de execuție muncitor necalificat 931301 din 17.03.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2400_18.03.2025_centralizator_final.pdf",
+     "sha256": "902a3719559d42065b588d889802733122436fad44a7b5a02e2264f2b2db8c83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2401-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2401",
+   "short": "HCL Teaca nr. 2401/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2401/2025 pentru ocuparea postului vacant contractual de execuție muncitor necalificat 931202 din 17.03.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2401_18.03.2025_centralizator_final.pdf",
+     "sha256": "5d88813252dbfeb53a64e106a0a6c10e64c3ebbdab753c0dc673e3bb0fc17b82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2951-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/2951",
+   "short": "HCL Teaca nr. 2951/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2951/2025",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2951_02.04.2025_rezultat_selectie_dosare.pdf",
+     "sha256": "62185100fafeaffde3d314f94b517c4b3b2e676761665ac7b7a03d7a2c949d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-735-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/735",
+   "short": "HCL Teaca nr. 735/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 735/2025 pentru ocuparea postului contractual de execuție vacant de buldoexcavatorist în cadrul Serviciului gospodărire comunală din 12.02.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.735_05.02.2025_rad_ce.pdf",
+     "sha256": "005aee9a57c00c3c8bf92344c0648fe4a61e38049536325fdb0db2a734165060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-736-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/736",
+   "short": "HCL Teaca nr. 736/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 736/2025 pentru ocuparea postului contractual de execuție vacant de muncitor calificat în cadrul Serviciului gospodărire comunală din 12.02.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.736_05.02.2025_rad_ce.pdf",
+     "sha256": "c8ff061c9a8395dd8e28087729e807b9115a79c1ae4014042204ae5162b956dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-956-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/956",
+   "short": "HCL Teaca nr. 956/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 956/2025 pentru postul vacant buldoexcavatorist (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.956_12.02.2025_centralizator_nominal_pp.pdf",
+     "sha256": "e92a02bf7aef1af52149f48d6fd48994f183ce09a3092af030deef24bb84d0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-958-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/958",
+   "short": "HCL Teaca nr. 958/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 958/2025 pentru postul vacant buldoexcavatorist (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.958_12.02.2025_centralizator_nominal_int.pdf",
+     "sha256": "8d2c5c3f73558fe9a81d9b09ac8401114807e95ddf8daf6a1545f9f95e1a333e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-974-2025",
+   "path": "local/bistrita-nasaud/teaca/2025/974",
+   "short": "HCL Teaca nr. 974/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 974/2025 pentru ocuparea postului vacant contractual de execuție BULDOEXCAVATORIST din 12.02.2025 (detalii în documentul atașat)",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.974_13.02.2025_centralizator_final_punctaje_concurs.pdf",
+     "sha256": "77a08df7ad447823b5b01bbf5085a274f41128d8bd257a0f84da258c16362f9c"
+    }
+   ]
+  }
+ ]
+}

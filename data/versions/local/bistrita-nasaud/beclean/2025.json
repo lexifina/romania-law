@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--beclean-117-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/117",
+   "short": "HCL Beclean nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 117/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-117-din-04-noiembrie-2025.pdf",
+     "sha256": "a4a1900cbe1016ab49e126f80ca908810d34f788a1799ecd790c6aa1e85a8ddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-118-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/118",
+   "short": "HCL Beclean nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 118/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-118-din-04-noiembrie-2025.pdf",
+     "sha256": "bde27a5669e6ed39e6d02346de2b157ad6edd08e6844cf63d580cbdfec190f10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-119-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/119",
+   "short": "HCL Beclean nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 119/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-119-din-04-noiembrie-2025.pdf",
+     "sha256": "24b5aa2f8e592c038562a451d4bb8eb67cafc1280cd6614b65c804b80308a692"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--beclean-12-2025",
    "path": "local/bistrita-nasaud/beclean/2025/12",
    "short": "HCL Beclean nr. 12/2025",
@@ -59,6 +104,51 @@
      "units": 1,
      "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/03/HCL-nr-12-din-28-februarie-2025_.pdf",
      "sha256": "4c89cf63883309c4089be3c18f0690bde1909d95c2f58e927c03a7a000f3ada1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-120-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/120",
+   "short": "HCL Beclean nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 120/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-120-din-04-noiembrie-2025.pdf",
+     "sha256": "e5da8ce12a2919fc776f2a64ba391fa0da55c194107e534713ac74e395b1265f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-121-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/121",
+   "short": "HCL Beclean nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 121/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-121-din-04-noiembrie-2025_pag-1-20.pdf",
+     "sha256": "4203c936e41be09f397d6bab93eace4bbc336e696a0e692679a4d4ab73552ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-123-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/123",
+   "short": "HCL Beclean nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 123/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/11/HCL-nr-123-din-04-noiembrie-2025.pdf",
+     "sha256": "f8fb86ec55a5987cb7ef7bceb0b6680a099ad06f388053e6bc547bf049ce1507"
     }
    ]
   },
@@ -434,6 +524,21 @@
      "units": 1,
      "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2025/02/HCL-nr-8-din-27-ianuarie-2025.pdf",
      "sha256": "35802027b2bc325bc7159f5764d3c27023489fe188efd4c10acebcdd66612f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--beclean-86-2025",
+   "path": "local/bistrita-nasaud/beclean/2025/86",
+   "short": "HCL Beclean nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Beclean nr. 86/2025",
+   "url": "http://primariabeclean.ro/web/consiliu-local/hotarari-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "http://primariabeclean.ro/web/wp-content/uploads/2026/07/HCL-nr-86-din-27-august-2025.pdf",
+     "sha256": "9796d3a4efaf554bbf0f8c11bc6f2c09c884735f842991cbbf5f6a6b61fd92b2"
     }
    ]
   },

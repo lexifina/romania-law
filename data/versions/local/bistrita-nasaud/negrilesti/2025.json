@@ -3,6 +3,36 @@
  "shard": "local/bistrita-nasaud/negrilesti/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--negrilesti-1-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/1",
+   "short": "HCL Negrilești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 1/2025 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al comunei Negrilești, județul Bistrița-Năsăud",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/188270",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/188270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-10-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/10",
+   "short": "HCL Negrilești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 10/2025 privind aprobarea acordului de participare a comunei Negrilesti,jud Bistrita-Nasaud in cadrul Programului privind acordarea de sprijin in vederea achizitionarii de aparate pentru incalzirea locuintelor, pentru localitatile din zona montana",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/200954",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/200954",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--negrilesti-11-2025",
    "path": "local/bistrita-nasaud/negrilesti/2025/11",
    "short": "HCL Negrilești nr. 11/2025",
@@ -33,6 +63,111 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--negrilesti-13-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/13",
+   "short": "HCL Negrilești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 13/2025 privind actualizarea devizului general pentru obiectivul de investitii \"Reabilitarea moderata a cladirii publice Scoala Gimnaziala Negrilesti pentru imbunatatirea serviciilor publice prestate la nivelul UAT Negrilesti”",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/206895",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/206895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-14-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/14",
+   "short": "HCL Negrilești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 14/2025 privind aprobarea inchirierii prin “licitatie publica” a unui spaţiu cu destinaţia CABINET MEDICINĂ GENERALĂ ÎN LOCALITATEA NEGRILEȘTI, JUDEȚUL BISTRIȚA-NĂSĂUD",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/207526",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/207526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-15-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/15",
+   "short": "HCL Negrilești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 15/2025 privind privind aprobarea inchirierii prin “licitatie publica” a unui spaţiu cu destinaţia - CABINET STOMATOLOGIC ÎN LOCALITATEA NEGRILEȘTI, JUDEȚUL BISTRIȚA-NĂSĂUD",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/207527",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/207527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-16-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/16",
+   "short": "HCL Negrilești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 16/2025 pentru aprobarea contului anual de execuţie bugetară a bugetului local al comunei Negrilești pe anul 2024",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/207528",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/207528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-17-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/17",
+   "short": "HCL Negrilești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 17/2025 privind aprobarea primei rectificări a bugetului comunei Negrilești , pe anul 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/207529",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/207529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-18-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/18",
+   "short": "HCL Negrilești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 18/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/218024",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/218024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-19-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/19",
+   "short": "HCL Negrilești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 19/2025 privind aprobarea contului de execuţiei al bugetului local de venituri şi cheltuieli a Comunei Negrilesti pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/218025",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/218025",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--negrilesti-2-2025",
    "path": "local/bistrita-nasaud/negrilesti/2025/2",
    "short": "HCL Negrilești nr. 2/2025",
@@ -43,6 +178,21 @@
      "from": "2025-03-11",
      "units": 1,
      "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/194819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-20-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/20",
+   "short": "HCL Negrilești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 20/2025 privind aprobarea Regulamentului de organizare şi funcţionare al Compartimentului de asistenţă socială organizat la nivelul comunei Negrilești județul Bistrița-Năsăud",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/223127",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/223127",
      "sha256": null
     }
    ]
@@ -348,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--negrilesti-4-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/4",
+   "short": "HCL Negrilești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 4/2025 Privind modul de valorificare si stabilirea pretului pentru 5276,75 mc masa lemnoasa din fondul forestier proprietatea publica a comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/194821",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/194821",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--negrilesti-40-2025",
    "path": "local/bistrita-nasaud/negrilesti/2025/40",
    "short": "HCL Negrilești nr. 40/2025",
@@ -358,6 +523,81 @@
      "from": "2026-01-08",
      "units": 1,
      "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/242998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-5-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/5",
+   "short": "HCL Negrilești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 5/2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/194822",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/194822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-6-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/6",
+   "short": "HCL Negrilești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 6/2025 privind aprobarea Programului de acțiuni comunitare pentru anul 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/197964",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/197964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-7-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/7",
+   "short": "HCL Negrilești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 7/2025 privind aprobarea bugetului comunei Negrilești , județul Bistrița- Năsăud, pe anul 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/197965",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/197965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-8-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/8",
+   "short": "HCL Negrilești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 8/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/197966",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/197966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-9-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/9",
+   "short": "HCL Negrilești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 9/2025 privind aprobarea actualizarea devizului general si a indicatorilor pentru obiectivul de investiții „Modernizarea infrastructurii rutiere locale în Comuna Negrilești, jud. Bistrița-Năsăud”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/200953",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/200953",
      "sha256": null
     }
    ]

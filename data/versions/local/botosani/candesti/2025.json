@@ -3,6 +3,111 @@
  "shard": "local/botosani/candesti/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--candesti-1-2025",
+   "path": "local/botosani/candesti/2025/1",
+   "short": "HCL Cândești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 1/2025 privind aprobarea utilizarii excedentului bugetar din anul 2022 in anul 2024",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-1-din-28.01.2025-privind-aprobarea-utilizarii-excedentului-bugetar-din-anul-2022-in-anul-2024.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-1-din-28.01.2025-privind-aprobarea-utilizarii-excedentului-bugetar-din-anul-2022-in-anul-2024.pdf",
+     "sha256": "651fc83808561ea27d6f7862530cb23b5c8f5c636df2f6132cb9b83b482c6fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-18-2025",
+   "path": "local/botosani/candesti/2025/18",
+   "short": "HCL Cândești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 18/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general actualizat pentru Infiintare sistem de alimentara cu apa in Comuna Candesti",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/06/Hotararea-nr.-18-din-29.05.2025-privind-aprobarea-indicatorilor-tehnico-economici-si-a-devizului-general-actualizat-pentru-22Infiintare-sistem-de-alimentara-cu-apa-in-Comuna-Candesti22.pdf",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/06/Hotararea-nr.-18-din-29.05.2025-privind-aprobarea-indicatorilor-tehnico-economici-si-a-devizului-general-actualizat-pentru-22Infiintare-sistem-de-alimentara-cu-apa-in-Comuna-Candesti22.pdf",
+     "sha256": "8df168bede3751039460e2cfb4ae68f448598581699c13e5adac2f214b172b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-2-2025",
+   "path": "local/botosani/candesti/2025/2",
+   "short": "HCL Cândești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 2/2025 privind stabilirea spatiului de depozitare provizorie, necesar pentru colectarea deseurilor",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-2-din-28.01.2025-privind-stabilirea-spatiului-de-depozitare-provizorie-necesar-pentru-colectarea-deseurilor.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-2-din-28.01.2025-privind-stabilirea-spatiului-de-depozitare-provizorie-necesar-pentru-colectarea-deseurilor.pdf",
+     "sha256": "dc9bafbbe1cece9a6acbd418a8a3b7dbcff99ca295331c2306e26c0ace1ee9d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-28-2025",
+   "path": "local/botosani/candesti/2025/28",
+   "short": "HCL Cândești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 28/2025",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/10/Hotararea-nr.-28-din-30.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/10/Hotararea-nr.-28-din-30.09.2025.pdf",
+     "sha256": "7cf62030c8ad5961b17478cb895399aefccbebdf2bb6657f6927bad5752cb138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-29-2025",
+   "path": "local/botosani/candesti/2025/29",
+   "short": "HCL Cândești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 29/2025",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-29-din-23-oct-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-29-din-23-oct-2025.pdf",
+     "sha256": "46587b803b7bd494d85653a9a30ef3448423c4c53d255db73aeb25d42309e563"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-3-2025",
+   "path": "local/botosani/candesti/2025/3",
+   "short": "HCL Cândești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 3/2025 privind aprobarea Planului de actiuni de interes local pe anul 2025",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-3-din-28.01.2025-privind-aprobarea-Planului-de-actiuni-de-interes-local-pe-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-3-din-28.01.2025-privind-aprobarea-Planului-de-actiuni-de-interes-local-pe-anul-2025.pdf",
+     "sha256": "ba6c8bea794c37484ebf1814b73c596d86299125faa3364cff01b58703f8f0cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-30-2025",
+   "path": "local/botosani/candesti/2025/30",
+   "short": "HCL Cândești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 30/2025",
+   "url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-30-din-23-oct-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2026/06/hcl-nr-30-din-23-oct-2025.pdf",
+     "sha256": "2752c5d73c57ce5c87d0faa22505e9b96e5a74eb2e45f815eb8b65d155019cb4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--candesti-37-2025",
    "path": "local/botosani/candesti/2025/37",
    "short": "HCL Cândești nr. 37/2025",
@@ -18,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--candesti-4-2025",
+   "path": "local/botosani/candesti/2025/4",
+   "short": "HCL Cândești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 4/2025 privind alegerea viceprimarului comunei Candesti",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-4-din-28.01.2025-privind-alegerea-viceprimarului-comunei-Candesti.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-4-din-28.01.2025-privind-alegerea-viceprimarului-comunei-Candesti.pdf",
+     "sha256": "0c8b53adae5c77e880edce2312f6366ca8f90888b1d37325bae60884438ae3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-6-2025",
+   "path": "local/botosani/candesti/2025/6",
+   "short": "HCL Cândești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 6/2025 privind stabilirea situatiilor deosebite si modalitatea de acordare a ajutoarelor",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-6-din-27.02.2025-privind-stabilirea-situatiilor-deosebite-si-modalitatea-de-acordare-a-ajutoarelor.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-6-din-27.02.2025-privind-stabilirea-situatiilor-deosebite-si-modalitatea-de-acordare-a-ajutoarelor.pdf",
+     "sha256": "2675290459e599f2597dc9b188d7ca0c389bcabea0d5ce89ee36f1d28c82a8f3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--candesti-7-2025",
    "path": "local/botosani/candesti/2025/7",
    "short": "HCL Cândești nr. 7/2025",
@@ -29,6 +164,21 @@
      "units": 1,
      "source_url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-7-din-27.02.2025-privind-aprobarea-Procedurii-de-publicare-a-listei-debiturilor-care-inregistreaza-obligatii-fiscale-restante.pdf",
      "sha256": "8278a23e4b545c33645494e1fd8ae5b76c994e0afd7e6b24f452badc0ba5ae47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--candesti-9-2025",
+   "path": "local/botosani/candesti/2025/9",
+   "short": "HCL Cândești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cândești nr. 9/2025 privind aprobarea Planului de asistenta medicala comunitara pentru anul 2025",
+   "url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-9-din-27.02.2025-privind-aprobarea-Planului-de-asistenta-medicala-comunitara-pentru-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://candestibt.ro/wp-content/uploads/2025/03/Hotararea-nr.-9-din-27.02.2025-privind-aprobarea-Planului-de-asistenta-medicala-comunitara-pentru-anul-2025.pdf",
+     "sha256": "e34924cde025a74407b12f2956c0e6dcf509f99cf43de7d2bdce4559063e0ffa"
     }
    ]
   }

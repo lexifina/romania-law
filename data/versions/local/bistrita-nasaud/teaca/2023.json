@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/teaca/2023",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2746-2023",
+   "path": "local/bistrita-nasaud/teaca/2023/2746",
+   "short": "HCL Teaca nr. 2746/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2746/2023",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2746_20.03.2023_centralizator_nominal.pdf",
+     "sha256": "8d70ac586b6fe9191d08e51c8c3d7122ed3ec1516720f66c2e28a81c84fc7a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2747-2023",
+   "path": "local/bistrita-nasaud/teaca/2023/2747",
+   "short": "HCL Teaca nr. 2747/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2747/2023",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2747_20.03.2023_centralizator_nominal.pdf",
+     "sha256": "1e891b9233fbbd535492a8d46662afbf179b5298647648dbba60717d939a7701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-2748-2023",
+   "path": "local/bistrita-nasaud/teaca/2023/2748",
+   "short": "HCL Teaca nr. 2748/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2748/2023 pentru promovarea în grad imediat superior ( detalii în documentul atașat )",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.2748_20.03.2023_centralizator_final.pdf",
+     "sha256": "a97d0721559b48aa7bb50e34b0e815c2f543310ca919de1d9d8a50b5fdec4a17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-48-2023",
+   "path": "local/bistrita-nasaud/teaca/2023/48",
+   "short": "HCL Teaca nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 48/2023 pentru activitățile culturale și administrative ale comunei",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/uat_teaca_hcl.nr.48_29.06.2023_co_ct.pdf",
+     "sha256": "2520b45f9c3457ae1e99448cb6622677e6855cfcbb17ff59deea6e033cf2701e"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,246 @@
  "shard": "local/botosani/saveni/2020",
  "acts": [
   {
+   "slug": "hcl-botosani--saveni-11-2020",
+   "path": "local/botosani/saveni/2020/11",
+   "short": "HCL Săveni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 11/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/93/",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Covid-19/Hotararea-nr.-11-17.03.2020.pdf",
+     "sha256": "87010a7988da9164dcd67df83f5c317971fa05340b4e52891c99a4835b2dada5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-12-2020",
+   "path": "local/botosani/saveni/2020/12",
+   "short": "HCL Săveni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 12/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.12_din_05.02.2020.pdf",
+     "sha256": "bc38e2a65f0032b69a6da9c567f53a6b1731410684ba98f90ace9ac16cfedec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-13-2020",
+   "path": "local/botosani/saveni/2020/13",
+   "short": "HCL Săveni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 13/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.13_din_14.02.2020.pdf",
+     "sha256": "ee6d72a038e86e7c21ec210b65b92a619a1faa3bcb3de0cfe112c44f93e99866"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-133-2020",
+   "path": "local/botosani/saveni/2020/133",
+   "short": "HCL Săveni nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 133/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Documente-si-informatii-financiare/Impozite-si-taxe-locale/2020/HCLnr.133-din20.10.2020.pdf",
+     "sha256": "b657465ca468326830d71c3bace034688890f3a60037ebb1d2202f85f5b300d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-14-2020",
+   "path": "local/botosani/saveni/2020/14",
+   "short": "HCL Săveni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 14/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.14_din_20.02.2020.pdf",
+     "sha256": "30bff6acb68f5f4806012ab2c6f31c06a53dde1c7daf08865d6bd139efd63993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-15-2020",
+   "path": "local/botosani/saveni/2020/15",
+   "short": "HCL Săveni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 15/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.15_din_25.02.2020.pdf",
+     "sha256": "653cc298190523943438202e267e64f7431149afbaba2c9523eefba86efeb4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-16-2020",
+   "path": "local/botosani/saveni/2020/16",
+   "short": "HCL Săveni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 16/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.16_din_27.02.2020.pdf",
+     "sha256": "17f45e270b792ebfc0cd3379ca9429b10860a477a57138fedc5a2759b047cfcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-17-2020",
+   "path": "local/botosani/saveni/2020/17",
+   "short": "HCL Săveni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 17/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.17_din_04.03.2020.pdf",
+     "sha256": "8098104155fa31b8ae1a21a0bf07abd891e08ec5947a0854a17d975b6d753864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-19-2020",
+   "path": "local/botosani/saveni/2020/19",
+   "short": "HCL Săveni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 19/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.19_din_05.03.2020.pdf",
+     "sha256": "72daab6f97774d977195dc63e85e135efd64cfe2729f48c37d2aa8a123db94d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-20-2020",
+   "path": "local/botosani/saveni/2020/20",
+   "short": "HCL Săveni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 20/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.20_din_11.03.2020.pdf",
+     "sha256": "e20b1a064e7353466b8d8c13cc421315555017e969a0b659679266d6beafbddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-21-2020",
+   "path": "local/botosani/saveni/2020/21",
+   "short": "HCL Săveni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 21/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.21_din_12.03.2020.pdf",
+     "sha256": "983cd908dc85d09a6ac10c325486324f83ec53d5cbd07969b6c44a24ab1afd5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-23-2020",
+   "path": "local/botosani/saveni/2020/23",
+   "short": "HCL Săveni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 23/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/93/",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Covid-19/Anexa-la-hotararea-nr.-23-30.03.2020.pdf",
+     "sha256": "17d814d637c72b5428e91d09ceb8dcc559efa6e77956f96283d5b1031e9dc072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-26-2020",
+   "path": "local/botosani/saveni/2020/26",
+   "short": "HCL Săveni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 26/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-04-23",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.26_din_23.04.2020.pdf",
+     "sha256": "f23e7f895e9e2201d35ad5cf5198fe56ad67156314dd0e51489a878e4ea3a3b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-30-2020",
+   "path": "local/botosani/saveni/2020/30",
+   "short": "HCL Săveni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 30/2020 privind aprobarea bugetului de venituri și cheltuieli",
+   "url": "https://primariasaveni.ro/documente/hotararea-nr-30-20-02-2020-privind-aprobarea-bugetului-de-venituri-si-cheltuieli/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Documente-si-informatii-financiare/Buget/Hotararea-nr.-30-20.02.2020-privind-aprobarea-bugetului-de-venituri-si-cheltuieli.pdf",
+     "sha256": "fa8d656658773d078b6f076825f33954436b3ea42e62841d7f36b32c864412cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-32-2020",
+   "path": "local/botosani/saveni/2020/32",
+   "short": "HCL Săveni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 32/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/92/",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Monitorul-oficial-local/Alte-documente/Anunturi/Vanzari-terenuri/2020/Comunicare_acceptare_nr.32_din_04.06.2020.pdf",
+     "sha256": "1279e9fab25b96537bc3557ccd003ffc0a3985341a6af09bd42e57c91e3c0135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-5-2020",
+   "path": "local/botosani/saveni/2020/5",
+   "short": "HCL Săveni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 5/2020",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/93/",
+   "versions": [
+    {
+     "from": "2020-03-22",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Covid-19/Anexa-la-hotararea-nr.-5-22.03.2020.pdf",
+     "sha256": "a860cc324e5bc32404abf1d5b40cfb3c5517baa6a72afe118bfd9acd4737dd9d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--saveni-69-2020",
    "path": "local/botosani/saveni/2020/69",
    "short": "HCL Săveni nr. 69/2020",

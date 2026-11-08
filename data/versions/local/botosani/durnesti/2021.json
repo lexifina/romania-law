@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/durnesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--durnesti-18-2021",
+   "path": "local/botosani/durnesti/2021/18",
+   "short": "HCL Durnești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 18/2021",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-18-22.04.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-18-22.04.2021.pdf",
+     "sha256": "e389a974ef4a093fffe21d98d7c65b78c0a3633fd6e610d3907b0c6de7227b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-34-2021",
+   "path": "local/botosani/durnesti/2021/34",
+   "short": "HCL Durnești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 34/2021",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-34-26.08.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-34-26.08.2021.pdf",
+     "sha256": "ddb92eee0e2ffb891f459458622ffd20d7c9e2b59e49ed3c6a8b34331e578527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-57-2021",
+   "path": "local/botosani/durnesti/2021/57",
+   "short": "HCL Durnești nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 57/2021",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-57-24.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-24",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-57-24.12.2021.pdf",
+     "sha256": "4610e43d8063487ede039fe9c5468ddb6fd6361dbd826c7ac67c0236ec8b4eee"
+    }
+   ]
+  }
+ ]
+}

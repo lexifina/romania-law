@@ -3,6 +3,66 @@
  "shard": "local/botosani/radauti-prut/2023",
  "acts": [
   {
+   "slug": "hcl-botosani--radauti-prut-1-2023",
+   "path": "local/botosani/radauti-prut/2023/1",
+   "short": "HCL Rădăuți-Prut nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 1/2023 privind aprobarea bugetului local",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/01/HCL%20NR.1%20din%2027.01.2023%20-privind%20aprobarea%20bugetului%20local.pdf",
+     "sha256": "a141e8fc18fe3d98fd8cd33a765a73a46a2a63785fd17c96fbac4ef7d19b894c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-11-2023",
+   "path": "local/botosani/radauti-prut/2023/11",
+   "short": "HCL Rădăuți-Prut nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 11/2023 privind dotarea cu mobilier, materiale didactice si echipamente digitale a unitatilor de invatamant",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/02/HCL%20NR.11%20DIN%2024.02.2023.pdf",
+     "sha256": "f613e4b779c413f919d19185d640d011f43e8c17ba3ca8dd27471b4fa9e6837b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-13-2023",
+   "path": "local/botosani/radauti-prut/2023/13",
+   "short": "HCL Rădăuți-Prut nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 13/2023 privind rectificare buget local",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/03/HCL%20NR.13%20din%2006.03.2023-privind%20rectificare%20buget%20local.pdf",
+     "sha256": "3e6dca0d3804ed1bca6df3d8a4cfdf77144016dba9ed07aa4b133b0cc7909859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-14-2023",
+   "path": "local/botosani/radauti-prut/2023/14",
+   "short": "HCL Rădăuți-Prut nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 14/2023 privind aprobarea bugetului local",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/03/HCL%20NR.14%20din%2031.03.2023-%20privind%20aprobarea%20bugetului%20local.pdf",
+     "sha256": "d5275a0ce277de5f985e4322c57ff8d28b7d64aeeb7415d20f82893a61f58f4c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--radauti-prut-15-2023",
    "path": "local/botosani/radauti-prut/2023/15",
    "short": "HCL Rădăuți-Prut nr. 15/2023",
@@ -14,6 +74,246 @@
      "units": 1,
      "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/03/Hotararea%20nr.15%20din%2031.03.2023%20privind%20aprobarea%20proceduriide%20acordare%20a%20inlesnirii%20la%20plata%20sub%20forma%20unor%20scutiri.pdf",
      "sha256": "96871f64dc736348ba4fa174c64500e7b6e8de0ea7f8d93d4371d88a438104eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-19-2023",
+   "path": "local/botosani/radauti-prut/2023/19",
+   "short": "HCL Rădăuți-Prut nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 19/2023 privind \"Modernizare infrastructura rutiera in comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-04-21",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/04/HCL%20NR.19%20DIN%2021.04.2023.pdf",
+     "sha256": "5c5ecc9459af979ae4a992c59dec3c1f08289723d3845e642b384c0573d2efcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-22-2023",
+   "path": "local/botosani/radauti-prut/2023/22",
+   "short": "HCL Rădăuți-Prut nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 22/2023 privind aprobarea bugetului local",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/05/HCL%20NR.22%20din%2026.05.2023%20-privind%20aprobarea%20bugetului%20local.pdf",
+     "sha256": "1a31e946bb541deefb13355055405e95d47c276dfa00026cfd1b46afd3de5c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-24-2023",
+   "path": "local/botosani/radauti-prut/2023/24",
+   "short": "HCL Rădăuți-Prut nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 24/2023 privind \"Achizitia unei autospeciale de stins incendii de mica capacitate, comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/05/HCL%20NR.24%20DIN%2026.05.2023.pdf",
+     "sha256": "8ff5f1722a49e6654d67b9a4d337a59ce2fd76d2cd2f35eed1b6af7290427997"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-28-2023",
+   "path": "local/botosani/radauti-prut/2023/28",
+   "short": "HCL Rădăuți-Prut nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 28/2023 privind \"Implementare sistem de supraveghere video stradal prin montare camere video in localitatea Rediu, comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/06/HCL%20NR.28%20DIN%2030.06.2023.pdf",
+     "sha256": "04b7052019fb55a20a1ada9a10e6e8535d76565a5a8e20a7bef1d353db89851e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-3-2023",
+   "path": "local/botosani/radauti-prut/2023/3",
+   "short": "HCL Rădăuți-Prut nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 3/2023 privind \"Modernizare infrastructura rutiera in comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/01/HCL%20NR.3%20DIN%2027.01.2023.pdf",
+     "sha256": "2ddce467be785a6715cd847dc9d603906c55b79539ab784cdb0932443f9c897b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-30-2023",
+   "path": "local/botosani/radauti-prut/2023/30",
+   "short": "HCL Rădăuți-Prut nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 30/2023 privind aprobarea documentatiei DALI - DRUMURI",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/07/HCL%20NR.30%20din%2019.07.2023-privind%20aprobarea%20doc%20DALI%20-%20DRUMURI.pdf",
+     "sha256": "16072f30d4fb3bb5537c3f64a96c31d40662cea07cc74a33e2572ce1873fe819"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-31-2023",
+   "path": "local/botosani/radauti-prut/2023/31",
+   "short": "HCL Rădăuți-Prut nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 31/2023 privind HUB de servicii MMSS-SII MMSS",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/08/HCL%20NR.31%20DIN%2030.08.2023.pdf",
+     "sha256": "8f852c4ee2b439dd72586c9402e412a7ad633eebe9daba3203084ab0166c238b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-33-2023",
+   "path": "local/botosani/radauti-prut/2023/33",
+   "short": "HCL Rădăuți-Prut nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 33/2023 privind rectificare buget",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/08/HCL%20NR.33%20din%2030.08.2023-privind%20rectificare%20buget.pdf",
+     "sha256": "9de5ff48cf424814557bc0aace85017416c405b0933d0b1b14099c9da0c6e204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-36-2023",
+   "path": "local/botosani/radauti-prut/2023/36",
+   "short": "HCL Rădăuți-Prut nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 36/2023 privind modificare indicatori Reabilitare Scoala",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/09/HCL%20NR.36%20din%2004.09.2023%20-%20modificare%20indicatori%20REABILITARE%20SCOALA.pdf",
+     "sha256": "d9cd7828c19376dba3d1f900c20119b6d47b086d89d9b93c3b37b6177faa5bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-37-2023",
+   "path": "local/botosani/radauti-prut/2023/37",
+   "short": "HCL Rădăuți-Prut nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 37/2023 privind \"Achizitia unei autospeciale de stins incendii de mica capacitate, comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/09/HCL%20NR.37%20DIN%2004.09.2023.pdf",
+     "sha256": "79bb494e4d76aa0b170c0598879687ff90bedc9a87ceebe9a90f50d6597ca6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-40-2023",
+   "path": "local/botosani/radauti-prut/2023/40",
+   "short": "HCL Rădăuți-Prut nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 40/2023 privind rectificare buget",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/09/HCL%20NR.40%20din%2029.09.2023-privind%20rectificare%20buget.pdf",
+     "sha256": "3254c043c7f8254459de163b86b779bb5c58df1a4e8348955772192d7e078be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-44-2023",
+   "path": "local/botosani/radauti-prut/2023/44",
+   "short": "HCL Rădăuți-Prut nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 44/2023 privind aprobare indicatori locuinte nZEB",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/10/HCL%20NR.44%20din%2010.10.2023-privind%20aprobare%20indicatori%20-locuinte%20n%20zeb.pdf",
+     "sha256": "ec33d46af4aa8cd5bec6cc4271a7ac2d1cbd7e439389bc2373f84096ac1c7b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-46-2023",
+   "path": "local/botosani/radauti-prut/2023/46",
+   "short": "HCL Rădăuți-Prut nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 46/2023 privind rectificare buget",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/11/HCL%20NR.46%20din%2023.11.2023%20-privind%20rectificare%20buget.pdf",
+     "sha256": "2b6f4ae77aeba2d7ff9de98966abc73bf6b26eee5134d662ed9f226a409f8259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-47-2023",
+   "path": "local/botosani/radauti-prut/2023/47",
+   "short": "HCL Rădăuți-Prut nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 47/2023 privind \"Construire locuinte nZEB plus - pentru tineri in comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/11/HCL%20NR.47%20DIN%2023.11.2023.pdf",
+     "sha256": "6262fe0c7adc80edc29373b5b84ec5a623f4ca56a4aa058b723b816777b11881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-49-2023",
+   "path": "local/botosani/radauti-prut/2023/49",
+   "short": "HCL Rădăuți-Prut nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 49/2023 privind rectificare buget",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/12/HCL%20NR.49%20din%2012.12.2023-privind%20rectificare%20buget.pdf",
+     "sha256": "2770db78ab5828268caee19fa5c4e2094da215e4e98a919ea35064bf7aa2679b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-5-2023",
+   "path": "local/botosani/radauti-prut/2023/5",
+   "short": "HCL Rădăuți-Prut nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 5/2023 privind dotarea cu mobilier, materiale didactice si echipamente digitale a unitatilor de invatamant",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/99-hotarari-anul-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2023/01/HCL%20NR.5%20DIN%2027.01.2023.pdf",
+     "sha256": "af990031dee8c24665881c795da6c37ea344518ad1e0e71169964f83bce1a47a"
     }
    ]
   }

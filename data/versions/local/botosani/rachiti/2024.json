@@ -3,6 +3,51 @@
  "shard": "local/botosani/rachiti/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--rachiti-100-2024",
+   "path": "local/botosani/rachiti/2024/100",
+   "short": "HCL Răchiți nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 100/2024 privind finanțele publice locale cu modificările și completările ulterioare,  art.129 alin.(14) din OUG nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare,  art.7 din Legea nr. 52/2003 privind transparența decizională, actualizată; în temeiul prevederilor:  art.139,alin.(1) și art.196,alin.(1), litera ”a” din OUG nr.57/2019 privind Codul Administrativ, cu modific",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_100_21.11.2024.pdf",
+     "sha256": "d2b5d3e32fe41442ac28ed4a461075da8a3beb3ecdfc577c392637ea3943d8c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-101-2024",
+   "path": "local/botosani/rachiti/2024/101",
+   "short": "HCL Răchiți nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 101/2024 Privind rectificarea bugetului de venituri si cheltuieli pe anul 2024 Consiliul Local al comunei Răchiți, întrunit în ședința ordinara în data de 21.11.2024, Analizând: - Referatul de aprobare al primarului comunei Răchiți privind rectificarea bugetului local al comune Rachiti pentru anul 2024 înregistrat sub nr.43 din 20.11.2024, - Raportul de specialitate al compartimentului de resort înregistra",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_101_21.11.2024.pdf",
+     "sha256": "ab73473e3dc50b6811a351ce961ec547ace6c30bfa0efb2cd3e9030eaa4bf365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-102-2024",
+   "path": "local/botosani/rachiti/2024/102",
+   "short": "HCL Răchiți nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 102/2024 privind aprobarea Strategiei de dezvoltare locală a Comunei Răchiți, județul Botoșani pentru perioada 2021-2027, actualizată Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară la data de 06.12.2024, Având în vedere:  Referatul de aprobare nr.46/20.11.2024 a primarului comunei Răchiți,  Raportul de specialitate nr.47/20.11.2024 întocmit de compartimentul de specialitate al prim",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_102_06.12.2024.pdf",
+     "sha256": "b8d0c30e4166823fd0a9b1459438bf4819dd48756b14d2e097c96c8c51e376f4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--rachiti-103-2024",
    "path": "local/botosani/rachiti/2024/103",
    "short": "HCL Răchiți nr. 103/2024",
@@ -33,6 +78,171 @@
    ]
   },
   {
+   "slug": "hcl-botosani--rachiti-105-2024",
+   "path": "local/botosani/rachiti/2024/105",
+   "short": "HCL Răchiți nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 105/2024 Privind aprobarea Documentatiei tehnice si Devizului General pentru obiectivul „Realizare sistem de supraveghere video in comuna Rachiti, judetul Botosani” Având în vedere temeiurile juridice, respectiv prevederile: Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară la data de 06.12.2024, Având în vedere: -Referatul de aprobare nr.58/26.11.2024 a primarului comunei Răchiți, -Rap",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_105_06.12.2024.pdf",
+     "sha256": "30a8c548ace30d86bfd67e28062e9a864652350e6a6ab6b17d28c09705048e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-106-2024",
+   "path": "local/botosani/rachiti/2024/106",
+   "short": "HCL Răchiți nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 106/2024 pentru aprobarea protocolului de colaborare interinstituțională cu Agenția Națională a Funcționarilor Publici pentru dezvoltarea competențelor digitale avansate ale funcționarilor publici din aparatul de specialitate al Primarului Consiliul Local al Comunei Răchiți, județul Botoșani, întrunit în ședință extraordinară, astăzi,06.12.2024, Analizând referatul de aprobare nr. 61/26.11.2024 al Primarul",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_106_06.12.2024.pdf",
+     "sha256": "24961c71dc075f06213d2686bfde4abf368a11444a1013ab6b14964fe083d91c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-107-2024",
+   "path": "local/botosani/rachiti/2024/107",
+   "short": "HCL Răchiți nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 107/2024 Privind constituirea Comisiei de evaluare a ofertelor pentru concesionarea prin licitatie publica a bunurilor apartinand domeniului public si privat al Comunei Răchiți” Consiliul Local al comunei Răchiți, intrunit in sedinta extraordinara din data de 06.12.2024, avand in vedere: - referatul de aprobare al primarului comunei Răchiți înregistrat la nr.66/26.11.2024 -raportul de specialitate al compa",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_107_06.12.2024.pdf",
+     "sha256": "9b1b8ad758d1b1bb745c1681a462cc9f0e5d529faa5b966da98b2254137fa8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-108-2024",
+   "path": "local/botosani/rachiti/2024/108",
+   "short": "HCL Răchiți nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 108/2024 Privind aprobarea procedurii de acordare a înlesnirii la plată sub forma scutirii unei cote de 100% din majorările de întârziere aferente obligațiilor fiscale restante datorate bugetului local al comunei Răchiți de către persoanele fizice și juridice Consiliul Local al Răchiți , întrunit în ședința din data de 06.12.2024, Analizând Referatul de aprobare înregistrat cu nr. 9553 din 31.10.2024 întoc",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_108_06.12.2024.pdf",
+     "sha256": "b5f04d61979b2f5f23270a8815ae44081a14347d9bc799d026ee2e224dc36bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-109-2024",
+   "path": "local/botosani/rachiti/2024/109",
+   "short": "HCL Răchiți nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 109/2024 privind aprobarea navetei cadrelor didactice de la Școala Gimnazială nr. 1 Răchiți, pentru luna noiembrie 2024 Consiliul Local al comunei Răchiți, întrunit în ședință ordinară, astăzi,20.12.2024, analizând:  Referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre nr.67/09.12.2024, având în vedere :  Raportul de specialitate al compartimentului de",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_109_20.12.2024.pdf",
+     "sha256": "eeb96977d61966a76f500122fa8dbbb65fb71bd75a5b745a8d46b81fdd0c3c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-110-2024",
+   "path": "local/botosani/rachiti/2024/110",
+   "short": "HCL Răchiți nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 110/2024 Privind aprobarea documentației cadastrale cu propunerea de dezmembrarea imobilului cu numărul cadastral 50018 situat în intravilanul satului Răchiți, comuna Răchiți Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință ordinară, astăzi 20.12.2024, analizând:  referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre, înregistrat",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_110_20.12.2024.pdf",
+     "sha256": "8e0f4dd4d7952e2cb1826c83899291c09e9ee45dd41a9b3012e3b2e78682c3e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-111-2024",
+   "path": "local/botosani/rachiti/2024/111",
+   "short": "HCL Răchiți nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 111/2024 Privind validarea și însușirea Dispoziției Primarului nr.320 din 11.12.2024 Consiliul Local al comunei Răchiți, întrunit în ședință ordinară, astăzi,20.12.2024 , analizând:  Referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre nr.85/11.12.2024, având în vedere :  Raportul de specialitate al compartimentului de resort nr. 86/11.12.2024,  Avizul",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_111_20.12.2024.pdf",
+     "sha256": "6fa5bca2e59b7569fb9a84df125377fa4f2945f6a7304ed4d96529b4d55e3239"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-112-2024",
+   "path": "local/botosani/rachiti/2024/112",
+   "short": "HCL Răchiți nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 112/2024 Privind acordarea unui stimulent financiar la constituirea familiei Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință ordinară astăzi, 20.12.2024, analizând: -referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre, înregistrat la nr..70 din 09.12.2024, având în vedere: -raportul de specialitate al compartimentului de resort",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_112_20.12.2024.pdf",
+     "sha256": "be7e179ab06b33728d592422c00276bd1e0d73f3f9cd388f54793556a5c1778c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-113-2024",
+   "path": "local/botosani/rachiti/2024/113",
+   "short": "HCL Răchiți nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 113/2024 Privind acordarea unui stimulent financiar pentru nou-născuți Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință ordinară , astăzi 24.12.2024, analizând: - referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre, înregistrat la nr.76/09.12.2024, având în vedere: - raportul de specialitate al compartimentului de resort nr.77/09",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_113_20.12.2024.pdf",
+     "sha256": "1eeb0497b3027a0d96067409952cd2a8260c3540caca95e1cc153165ad270d31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-114-2024",
+   "path": "local/botosani/rachiti/2024/114",
+   "short": "HCL Răchiți nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 114/2024 Privind acordarea „Diplomei de Onoare” familiilor care au împlinit 50 de anide căsătorie Consiliul Local al comunei Răchiți, întrunit în ședință ordinară, astăzi, 20.12. 2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_114_20.12.2024.pdf",
+     "sha256": "bd8cd1d5a99415ce7c881b367992a89633f4a648c8fbd9dafd38399c7a8e90a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-115-2024",
+   "path": "local/botosani/rachiti/2024/115",
+   "short": "HCL Răchiți nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 115/2024 Privind acordarea de tichete sociale în vederea achiziționării de alimente de bază, cu ocazia sărbătorilor pascale Consiliul Local al comunei Răchiți, întrunit în ședință ordinară, astăzi, 20.12.2024 Având în vedere: - referatul de aprobare al inițiatorului proiectului nr. 87/11.12.2024 - raportul de specialitate al compartimentului de resort nr.88/11.12.2024, -avizul favorabil al comisiilor de sp",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_115_20.12.2024.pdf",
+     "sha256": "2dd312209bcf952da3bb042d81a4f07b6ae10ab84eb5bf4db0402ab5e2adc719"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--rachiti-116-2024",
    "path": "local/botosani/rachiti/2024/116",
    "short": "HCL Răchiți nr. 116/2024",
@@ -59,6 +269,306 @@
      "units": 1,
      "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_117_20.12.2024.pdf",
      "sha256": "91edca64f554a5eafe9535dc123931edf635dfb8be530612869b02f93d58bd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-118-2024",
+   "path": "local/botosani/rachiti/2024/118",
+   "short": "HCL Răchiți nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 118/2024 Privind aprobarea emiterii avizului pentru desfasurarea activitatilor de prestari servicii funerare de către I.I",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_118_20.12.2024.pdf",
+     "sha256": "f3b8b8ce13650ea7aea47a26369a3576d889ae1f216b3e3ed60e70edc2998fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-119-2024",
+   "path": "local/botosani/rachiti/2024/119",
+   "short": "HCL Răchiți nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 119/2024 Privind achiziționarea de cadouri pentru copii cu ocazia sărbătorilor de iarnă Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință ordinară astăzi 20.12.2024 analizând: -referatul de aprobare al primarului comunei Răchiți, în calitate de inițiator al proiectului de hotărâre, înregistrat la nr.93/11.12.2024, având în vedere: -raportul de specialitate al compartimentului de res",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/12/hot_119_20.12.2024.pdf",
+     "sha256": "b445128aff1a6fdf073a5d2292bf97160b3f7961e18e791c0349f9698e293568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-74-2024",
+   "path": "local/botosani/rachiti/2024/74",
+   "short": "HCL Răchiți nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 74/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_74_27.09.2024.pdf",
+     "sha256": "f6dd44bf4bc75db68125b88cb30ee5e3df14b4cd24df408583b2f0459b7979df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-75-2024",
+   "path": "local/botosani/rachiti/2024/75",
+   "short": "HCL Răchiți nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 75/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_75_27.09.2024.pdf",
+     "sha256": "e1004428c74b8c98f8388070e43e8814b5208224c883a9dd07c2b4aaf8d01706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-76-2024",
+   "path": "local/botosani/rachiti/2024/76",
+   "short": "HCL Răchiți nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 76/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_76_27.09.2024.pdf",
+     "sha256": "51f535d921227a157d81ba2f101b28ed4f5c5470b3b60c9529c218dd2f969cae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-77-2024",
+   "path": "local/botosani/rachiti/2024/77",
+   "short": "HCL Răchiți nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 77/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_77_27.09.2024.pdf",
+     "sha256": "e447fc34038fccc364dfc4056898efa7a1068da7a4366f9e0640b527f08ea3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-78-2024",
+   "path": "local/botosani/rachiti/2024/78",
+   "short": "HCL Răchiți nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 78/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_78_27.09.2024.pdf",
+     "sha256": "c435655042900c643c45ac741be1f81ff8cc9e9e48dae470b2d49075bbd4e463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-79-2024",
+   "path": "local/botosani/rachiti/2024/79",
+   "short": "HCL Răchiți nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 79/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_79_27.09.2024.pdf",
+     "sha256": "ae3e8f3f42fa690d35f9c95f73f2d68f19864abbca8d060109c0d862ee349515"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-81-2024",
+   "path": "local/botosani/rachiti/2024/81",
+   "short": "HCL Răchiți nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 81/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_81_27.09.2024.pdf",
+     "sha256": "5371c40843e5fbed573c6fc9228d4f7f1b67c1555d15e00ca462ec0e879950fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-82-2024",
+   "path": "local/botosani/rachiti/2024/82",
+   "short": "HCL Răchiți nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 82/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/09/hot_82_27.09.2024.pdf",
+     "sha256": "f263bd43fe5778d09ce55e6f91b20961e2ccd483c20a56f4f3ceb0b4ba907c93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-83-2024",
+   "path": "local/botosani/rachiti/2024/83",
+   "short": "HCL Răchiți nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 83/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_83_21.10.2024.pdf",
+     "sha256": "c2900f30df0a0c26d7be2ccc6911ef9b5ea2fa420e61586f26b8ccd6455b6b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-85-2024",
+   "path": "local/botosani/rachiti/2024/85",
+   "short": "HCL Răchiți nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 85/2024",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_85_21.10.2024.pdf",
+     "sha256": "368dfb30e2640cb385a820a7da47e5417a93c8c7e3cdba76870c0ae67cc4ee16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-86-2024",
+   "path": "local/botosani/rachiti/2024/86",
+   "short": "HCL Răchiți nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 86/2024 Privind alegerea președintelui de ședință pe o perioadă de 3 luni Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară, astăzi 31.10. 2024, Având în vedere : -Încheierea civilă din data de 16.10.2024 a Judecătoriei Botoșani, dosar nr.14588/193/2024, - Ordinul Prefectului nr. 601 din 25.10.2024 privind constatarea îndeplinirii condițiilor legale de constituire a Consiliului local a",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_86_31.10.2024.pdf",
+     "sha256": "a81d17546afa5f3df90a5268f3787be0512707ab81a16ba385aa8bd9893de680"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-87-2024",
+   "path": "local/botosani/rachiti/2024/87",
+   "short": "HCL Răchiți nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 87/2024 Privind componența comisiilor de specialitate ale Consiliului local Răchiți Consiliul local al comunei Răchiți, întrunit în ședință extraordinară astăzi, 31.10.2024, Având în vedere : -Încheierea civilă din data de 16 10.2024 a Judecătoriei Botoșani, dosar nr.14588/193/2024, - Ordinul Prefectului nr.601 din 25.10.2024 privind constatarea îndeplinirii condițiilor legale de constituire a Consiliului",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_87_31.10.2024.pdf",
+     "sha256": "68148541fa5b7a7afb464ed7bf62dd253cdfde7fa711588b06a5c01d139117ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-88-2024",
+   "path": "local/botosani/rachiti/2024/88",
+   "short": "HCL Răchiți nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 88/2024 Privind aprobarea Regulamentului de organizare si funcționare al Consiliului local al comunei Răchiți Consiliul Local al comunei Răchiți, întrunit în ședință extraordinară astăzi, 31.10. 2024, Având în vedere -Încheierea civilă din data de 16 10.2024 a Judecătoriei Botoșani, dosar nr.14588/193/2024, -Ordinul Prefectului nr.601 din 25.10.2024 privind constatarea îndeplinirii condițiilor legale de c",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_88_31.10.2024.pdf",
+     "sha256": "24b52719ecc6a9ad313e7d7e320f9550acf016f3e37038c1a7303ffa0ab47848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-89-2024",
+   "path": "local/botosani/rachiti/2024/89",
+   "short": "HCL Răchiți nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 89/2024 Privind alegerea Comisiei de numărare a voturilor secrete prevăzute în legislația în vigoare, precum și în cazurile în care Consiliul local stabilește adoptarea unor hotarâri prin vot secret în mandatul 2024-2028 Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință extraordinară, astăzi 31.10.2024, Având în vedere : -Încheierea civilă din data de 16 10.2024 a Judecătoriei Boto",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_89_31.10.2024.pdf",
+     "sha256": "dd43bf5565efefc50bb20606378cf322eec1ecc5d1b923866eeb13113554a10b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-90-2024",
+   "path": "local/botosani/rachiti/2024/90",
+   "short": "HCL Răchiți nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 90/2024 Privind alegerea viceprimarului comunei Răchiți, județul Botoșani Consiliul Local al comunei Răchiți, județul Botoșani, întrunit în ședință extraordinară, astăzi 31.10.2024, Având în vedere: -Încheierea civilă din data de 16 10.2024 a Judecătoriei Botoșani, dosarnr.14588/193/2024, - Ordinul Prefectului nr.601 din 25.10.2024 privind constatarea îndeplinirii condițiilor legale de constituire a Consi",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/10/hot_90_31.10.2024.pdf",
+     "sha256": "66ad2f33935010ef881a9936daecb94a54699919a41eb0245e4022898af9e8ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-91-2024",
+   "path": "local/botosani/rachiti/2024/91",
+   "short": "HCL Răchiți nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 91/2024 privind completarea comisiilor de specialitate ale Consiliului local Răchiți Consiliul local al comunei Răchiți, județul Botoșani, întrunit în ședință ordinară astăzi, 21.11.2024, avand in vedere: - Încheierea din ședința Camerei de Consiliu din 04.11.2024 a Judecatoriei Botoșani având ca obiect, validare mandat consilier, -Referatul de aprobare al viceprimarului comunei Răchiți, cu delegare atrib",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_91_21.11.2024.pdf",
+     "sha256": "c7b59bd5f289617200cb63ea7574e564906a23a24ba8e11d13159983a474389e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-92-2024",
+   "path": "local/botosani/rachiti/2024/92",
+   "short": "HCL Răchiți nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 92/2024 Privind desemnarea reprezentanților Consiliului local Răchiți în Consiliul de Administrație al Școlii Gimnaziale nr.1 Răchiți pentru anul școlar 2024/2025 Consiliul local al comunei Răchiți, întrunit în ședință ordinară astăzi , 21.11.2024, avand in vedere: -Referatul de aprobare al viceprimarului comunei Răchiți,cu delegare atribuții primar , înregistrat la nr.19 din 11.11.2024, -Raportul de spec",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_92_21.11.2024.pdf",
+     "sha256": "61aea0eb2d4bf16a64882c834defa9208a5e434dfe02e9f0f8b7c15a8ce871e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-94-2024",
+   "path": "local/botosani/rachiti/2024/94",
+   "short": "HCL Răchiți nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 94/2024 Privind organizarea rețelei școlare pentru anul școlar 2025-2026 Consiliul Local al comunei Răchiți, întrunit în ședință astăzi, 21.11.2024 având în vedere: - Referatul de aprobare al primarului comunei Răchiți în calitate de inițiator al proiectului de hotărâre, înregistrată la nr.245/18.10.2024, - Raportul de specialitate al compartimentului de resort înregistrat la nr.246/18.10.2024, - Adresa n",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2024/11/hot_94_21.11.2024.pdf",
+     "sha256": "9e74879f43e16b88ee54edced296701f01fabc491ea1be97a4b90e0b8891a374"
     }
    ]
   },

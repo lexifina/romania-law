@@ -3,6 +3,126 @@
  "shard": "local/bihor/valea-lui-mihai/2011",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-1-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/1",
+   "short": "HCL Valea lui Mihai nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 1/2011 privind aprobarea procesului verbal al ședinței ordinare din 14 decembrie 2010 și a Ordinii de zi a ședinței extraordinare din 11 ianuarie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se apro",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.01-din-11.01.2011.pdf",
+     "sha256": "b1c2019e37bfd9825e1ea0930af76ef76e4db14fdb4a7259f85e41904ba34390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-10-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/10",
+   "short": "HCL Valea lui Mihai nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 10/2011",
+   "url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.nr-10-din-23.02.2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.nr-10-din-23.02.2011.pdf",
+     "sha256": "616e726d197a8db1431a6af86160040494d5e8707bd209b0fc7c6e03a4545c74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-11-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/11",
+   "short": "HCL Valea lui Mihai nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 11/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.11-din-23.02.2011.pdf",
+     "sha256": "e2b70f5e0110bba6f9c3dae144e8f6e5f6d014f95f21c716123572b75f9f92c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-12-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/12",
+   "short": "HCL Valea lui Mihai nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 12/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.12-din-23.02.2011.pdf",
+     "sha256": "327edaa9c8a2464e06601b98dde5594f2ebbbd43bfb543cfd772b7052bff7666"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-13-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/13",
+   "short": "HCL Valea lui Mihai nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 13/2011 privind aprobarea procesului verbal al ședinței extraordinare din 23 februarie 2011 și a Ordinii de zi a ședinței extraordinare din 04 martie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se a",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-03-04",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.13-din-04.03.2011.pdf",
+     "sha256": "29aae9927f36850a2fbd19b103520f61f2f92e1ffa95784c029f54e0429544ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-14-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/14",
+   "short": "HCL Valea lui Mihai nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 14/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-04",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.14-din-04.03.2011.pdf",
+     "sha256": "498557345341e1122834ac3fe8476f2c86771b1343519ec1e47ca6458dffa001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-15-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/15",
+   "short": "HCL Valea lui Mihai nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2011 privind aprobarea procesului verbal al ședinței extraordinare din 04 martie 2011 și a Ordinii de zi a ședinței ordinare din 29 martie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă pr",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.15-din-29.03.2011.pdf",
+     "sha256": "0f8f2a8790826b5166fe73bb4a02a8f49350ae951b108556be9eb78ea2401ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-16-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/16",
+   "short": "HCL Valea lui Mihai nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 16/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.16-din-29.03.2011.pdf",
+     "sha256": "e4def158c10cc34e1a2dda6ad9830194c3ea9ca1a81870d68dff9054cd27acf7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-17-2011",
    "path": "local/bihor/valea-lui-mihai/2011/17",
    "short": "HCL Valea lui Mihai nr. 17/2011",
@@ -18,6 +138,621 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-18-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/18",
+   "short": "HCL Valea lui Mihai nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 18/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.18-din-29.03.2011.pdf",
+     "sha256": "a694549e974a7562d19c9970bdcbb8271567abf502bc2452550e8e1bc123296a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-19-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/19",
+   "short": "HCL Valea lui Mihai nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 19/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.19-din-29.03.2011.pdf",
+     "sha256": "c100e2f706480ca19249e655726b541dd6c6a566a287e4c0699efc00cedc0960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-2-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/2",
+   "short": "HCL Valea lui Mihai nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 2/2011 privind transferul managementului asistenței medicale al Centrului de sănătate – Valea lui Mihai către Consiliul Local al Municipiului Marghita, în vederea reorganizării acestuia ca secție exterioară a Spitalului Municipal „Dr",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.02-din-11.01.2011.pdf",
+     "sha256": "cae59b154b22031de55826d29e5d2f5dd4153534495ff2bb35310f12cd1fa436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-20-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/20",
+   "short": "HCL Valea lui Mihai nr. 20/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 20/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.20-din-29.03.2011.pdf",
+     "sha256": "5a9b0c71e7b032387bae22c52052feda91b4a159f5df4bf8ea2c5aef375bbf12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-22-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/22",
+   "short": "HCL Valea lui Mihai nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 22/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.22-din-29.03.2011.pdf",
+     "sha256": "e25d01e632677121fa6f20aa0cec0a161fa2bc779c90baa4184e80a238785445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-23-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/23",
+   "short": "HCL Valea lui Mihai nr. 23/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2011 privind acordul pentru promovarea unei Hotărâri de Guvern prin care să se aloce orașului Valea lui Mihai suma de 3.750 mii lei, (respectiv 3.024 mii lei fără TVA) reprezentând sumă de echilibrare pentru cofinanțarea cheltuielilor curente și de capital aflate la dispoziția Guvernului, destinată finalizării lucrărilor de investiții aflate în derulare pe raza orașului Valea lui Mihai Consiliul Local",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.23-din-29.03.2011.pdf",
+     "sha256": "29fc4ee245b22b9837aae444c63236d2f53f39d5a53b45e93ba81a8751eebc81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-24-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/24",
+   "short": "HCL Valea lui Mihai nr. 24/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 24/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.24-din-29.03.2011.pdf",
+     "sha256": "16f4b62f07b9d84526b4a72b52a487ab64d940f6b37c1d9668c4829bad73522e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-25-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/25",
+   "short": "HCL Valea lui Mihai nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 25/2011 privind aprobarea procesului verbal al ședinței ordinare din 29 martie 2011 și a Ordinii de zi a ședinței ordinare din 19 aprilie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă proces",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.25-din-19.04.2011.pdf",
+     "sha256": "a0bd66d002664df63e080fe315886657bcbdb07a4a03a2ca5d2d0f0ee1921646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-26-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/26",
+   "short": "HCL Valea lui Mihai nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.26-din-19.04.2011.pdf",
+     "sha256": "8ac5e2624933268bb2a3c33cda2192733b23c6f34f6e8d6c87d8b9077e219e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-27-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/27",
+   "short": "HCL Valea lui Mihai nr. 27/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 27/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.27-din-19.04.2011.pdf",
+     "sha256": "801ce8e916e51f216f799b9b2ac601f7f065fa00774899694ba833e6c5f0e070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-3-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/3",
+   "short": "HCL Valea lui Mihai nr. 3/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 3/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.03-din-08.02.2011.pdf",
+     "sha256": "75cbb28e901546b8ea671e05e4037d5f2db6517c69e493480ab8bc904e11b655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-30-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/30",
+   "short": "HCL Valea lui Mihai nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.30-din-19.04.2011.pdf",
+     "sha256": "6db16f4a3db97e2af45e664cb47aeb0a287660fb4d230f56ea30449914dca224"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-31-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/31",
+   "short": "HCL Valea lui Mihai nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 31/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.31-din-19.04.2011.pdf",
+     "sha256": "34c4ba144225445a07418d05bfe3e6582ea287247e9fdb87b533ac36b65c3394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-32-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/32",
+   "short": "HCL Valea lui Mihai nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 32/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.32-din-10.05.2011.pdf",
+     "sha256": "d45bdb71f532acd64ee7519cc3109436545ad3715918d23bd9adf25cdbaf6d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-33-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/33",
+   "short": "HCL Valea lui Mihai nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 33/2011 privind aprobarea procesului verbal al ședinței ordinare din 19 aprilie 2011 și a Ordinii de zi a ședinței ordinare din 10 mai 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.33-din-10.05.2011.pdf",
+     "sha256": "c01c0862e4d91edab0b413f5e5c3c3a414a1349736870e74b6e653b10f0b844c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-34-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/34",
+   "short": "HCL Valea lui Mihai nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 34/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.34-din-10.05.2011.pdf",
+     "sha256": "3f29f546e22cc8ec442ec14119d03a3e977604c286c81713fad42914bbf0a595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-35-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/35",
+   "short": "HCL Valea lui Mihai nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 35/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.35-din-10.05.2011.pdf",
+     "sha256": "89dc7fa40aafcb1cb65ef8ca55b810376fcde84fad355c283aaa7ab156394864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-36-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/36",
+   "short": "HCL Valea lui Mihai nr. 36/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 36/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.36-din-10.05.2011.pdf",
+     "sha256": "c23a0c7b1b3c443d3a834f15e67856744fd8d477cf27a1b717a4ad152265c64e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-37-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/37",
+   "short": "HCL Valea lui Mihai nr. 37/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 37/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.37-din-10.05.2011.pdf",
+     "sha256": "bde6a93ae3cd217de5b58e8b46322152424b6128eaf522619c77dc431b9b0635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-38-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/38",
+   "short": "HCL Valea lui Mihai nr. 38/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 38/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.38-din-10.05.2011.pdf",
+     "sha256": "7cd75dedc90f9146214da2d37f5cd599165d2b4a9f7314b7c58e007be11494cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-39-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/39",
+   "short": "HCL Valea lui Mihai nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 39/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.39-din-10.05.2011.pdf",
+     "sha256": "3388959fcf198bba39e96db7a20ee9b68db12a28c2c501f7e4173dcf74ecb6bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-4-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/4",
+   "short": "HCL Valea lui Mihai nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 4/2011 privind aprobarea procesului verbal al ședinței extraordinare din 11 ianuarie 2011 și a Ordinii de zi a ședinței ordinare din 08 februarie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se apro",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.04-din-08.02.2011.pdf",
+     "sha256": "29831c8da999a62da7d23a63bd8be1ef76e5cd8789908e4b66a636f4f3e7ba04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-40-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/40",
+   "short": "HCL Valea lui Mihai nr. 40/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 40/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-05-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.40-din-10.05.2011.pdf",
+     "sha256": "aacd0247d54bf5285f40a9e3ddab3dffa7bcec8ca0dff77fb1607d4fa300b344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-41-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/41",
+   "short": "HCL Valea lui Mihai nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 41/2011 privind aprobarea procesului verbal al ședinței ordinare din 10 mai 2011 și a Ordinii de zi a ședinței ordinare din 21 iunie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul ve",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.41-din-21.06.2011.pdf",
+     "sha256": "37922118b7c2ac9623c108887f6dc1b2f803888e9c01913d866bc3b691a8e50e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-42-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/42",
+   "short": "HCL Valea lui Mihai nr. 42/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 42/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.42-din-21.06.2011.pdf",
+     "sha256": "867cfd7a0e6acf0aba07df31a0a37ff5234eb2b838cadffef7a60e369f7887e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-44-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/44",
+   "short": "HCL Valea lui Mihai nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 44/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.44-din-21.06.2011.pdf",
+     "sha256": "5595cc8543f39df33584b9bc217272d158ca3675f19771fbd8ed1ce52da7b5c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-45-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/45",
+   "short": "HCL Valea lui Mihai nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 45/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.45-din-21.06.2011.pdf",
+     "sha256": "15c07a27e367484366c38096f6e5b764da2fb2534e6e1430a1b89f9acfcb8011"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-46-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/46",
+   "short": "HCL Valea lui Mihai nr. 46/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 46/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.46-din-21.06.2011.pdf",
+     "sha256": "0e24463dc0efbd1160a5005887ae86ab6a4987ca80a45a73ca0982604dd0c76a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-47-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/47",
+   "short": "HCL Valea lui Mihai nr. 47/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 47/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.47-din-21.06.2011.pdf",
+     "sha256": "d4bdd857e5e22c985bcc20500fefc9039fcf571516016956862160f283c9d38f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-48-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/48",
+   "short": "HCL Valea lui Mihai nr. 48/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 48/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.48-din-21.06.2011.pdf",
+     "sha256": "e2247f477b9d842742ba9f2542f9941261246dab9c0e2db9a3550c71715268fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-49-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/49",
+   "short": "HCL Valea lui Mihai nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 49/2011 privind aprobarea procesului verbal al ședinței ordinare din 21 iunie 2011 și a Ordinii de zi a ședinței ordinare din 19 iulie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.49-din-19.07.2011.pdf",
+     "sha256": "837c856722d74e34f6dafc3f6fccc1be6a4001c34716fbbbfcada9724eca75b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-5-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/5",
+   "short": "HCL Valea lui Mihai nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 5/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.05-din-08.02.2011.pdf",
+     "sha256": "7f30ce0daa7d25b231f2244d8f76fb6ff204ff0541cca366912d16cd19c3cd07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-50-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/50",
+   "short": "HCL Valea lui Mihai nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 50/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.50-din-19.07.2011.pdf",
+     "sha256": "6ae9aabfb14470cef51a51cfa1a2df54c107cd93e9f4318eeafc81f771c07a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-51-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/51",
+   "short": "HCL Valea lui Mihai nr. 51/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 51/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.51-din-30.08.2011.pdf",
+     "sha256": "6e7f2bcdd879cdefef2b48d39e520e645e998429277f72ef09f55235f1c565f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-52-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/52",
+   "short": "HCL Valea lui Mihai nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 52/2011 privind aprobarea procesului verbal al ședinței ordinare din 19 iulie 2011 și a Ordinii de zi a ședinței ordinare din 30 august 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.52-din-30.08.2011.pdf",
+     "sha256": "edab01a133fba24222f648deb5ad5f8cb5f46d1bd1858b351501baf3f1390ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-53-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/53",
+   "short": "HCL Valea lui Mihai nr. 53/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 53/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.53-din-30.08.2011.pdf",
+     "sha256": "c83bd6695309da34263023d83ce3652a755c35d3cbf0f7d59b6b07326e5513bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-54-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/54",
+   "short": "HCL Valea lui Mihai nr. 54/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 54/2011 privind aprobarea documentației și numirea comisiei de evaluare a ofertelor în vederea atribuirii contractului de achiziție publică de furnizare a produselor de panificație pentru elevii din clasele I – VIII din învățământul de stat și privat, precum și pentru copiii preșcolari din grădinițele de stat și private cu program normal de 4 ore din orașul Valea lui Mihai, în anul școlar 2011 – 2012 Cons",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.54-din-30.08.2011.pdf",
+     "sha256": "f949db87d03c9f4b47e23f5aa28dc0bb0c48829f0cd39eb1d21634c146df28dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-56-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/56",
+   "short": "HCL Valea lui Mihai nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.56-din-30.08.2011.pdf",
+     "sha256": "7285cff07190b536ef300f26da0d15a85b5e793fca5cb5510dc4f3bf33db414d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-57-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/57",
+   "short": "HCL Valea lui Mihai nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 57/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.57-din-30.08.2011.pdf",
+     "sha256": "1006202cce76d72876ff9d6d2ac7218672187bbb6d1afbcdf4e384d7745b77ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-58-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/58",
+   "short": "HCL Valea lui Mihai nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 58/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.58-din-30.08.2011.pdf",
+     "sha256": "03e24135060273f8a4c2935629a0240e8d956d9d9bcd0732eb36cc52fa02e364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-59-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/59",
+   "short": "HCL Valea lui Mihai nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 59/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.59-din-30.08.2011.pdf",
+     "sha256": "114ff43b4c4e572b27b124664f6ef2f74a15bdcb5cb691f39a1f67b3bdaf30d7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-6-2011",
    "path": "local/bihor/valea-lui-mihai/2011/6",
    "short": "HCL Valea lui Mihai nr. 6/2011",
@@ -29,6 +764,486 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.06-din-08.02.2001.pdf",
      "sha256": "6a4a626264f875cbe6bc14c297701abc10602529c07ca49b5149d0bf5fec6e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-60-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/60",
+   "short": "HCL Valea lui Mihai nr. 60/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 60/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.60-din-20.09.2011.pdf",
+     "sha256": "efd85f101ce15432376673e584cc066c5a9d6bc6aae1fe9fd1594c1bd9828c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-61-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/61",
+   "short": "HCL Valea lui Mihai nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 61/2011 privind aprobarea procesului verbal al ședinței ordinare din 30 august 2011 și a Ordinii de zi a ședinței ordinare din 20 septembrie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă pro",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.61-din-20.09.2011.pdf",
+     "sha256": "a58f4fc17bac1cb17a34aaccac53a9540a2c916f8ce5fd3c973314e0fd7467f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-62-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/62",
+   "short": "HCL Valea lui Mihai nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 62/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.62-din-20.09.2011.pdf",
+     "sha256": "1ba1306d0e5a198e68d07f4df6504b96e8dfaba65fcb008aa5debc5def0b8950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-63-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/63",
+   "short": "HCL Valea lui Mihai nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 63/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.63-din-20.09.2011.pdf",
+     "sha256": "922206afd87d34c99431fa4e896708e5fa13cc2cb0400502a43a31331dd772a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-64-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/64",
+   "short": "HCL Valea lui Mihai nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 64/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.64-din-20.09.2011.pdf",
+     "sha256": "aa5ba1370bae7c16ca1a7e5cd5cd343a0421df0413ddead9285b569ea123973c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-65-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/65",
+   "short": "HCL Valea lui Mihai nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 65/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.65-din-20.09.2011.pdf",
+     "sha256": "ac2d72eac2cbfa79feac725b01cd7f43e00991020882c6b05bcd2fd811b9d041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-66-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/66",
+   "short": "HCL Valea lui Mihai nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 66/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.66-din-20.09.2011.pdf",
+     "sha256": "1bf922dc3ff9bc9659c666e815497b52d353ef9911dfb88e9911224ee6b4d43a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-67-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/67",
+   "short": "HCL Valea lui Mihai nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2011 privind aprobarea procesului verbal al ședinței ordinare din 20 septembrie 2011 și a Ordinii de zi a ședinței ordinare din 18 octombrie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.67-din-18.10.2011.pdf",
+     "sha256": "51df566368bb48ec18ddb9491a2e26966aa45f5ecb98e91f3e0259e482336d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-68-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/68",
+   "short": "HCL Valea lui Mihai nr. 68/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.68-din-18.10.2011.pdf",
+     "sha256": "fb69ca598374684b494bdec44180c5eda728566c8635ade6b102954e89c08fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-69-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/69",
+   "short": "HCL Valea lui Mihai nr. 69/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 69/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.69-din-18.10.2011.pdf",
+     "sha256": "973fe220dc1f0f7f7c7ce1049af404ba8663e3b0b5b1577410f8697f848a102d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-7-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/7",
+   "short": "HCL Valea lui Mihai nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 7/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.07-din-08.02.2011.pdf",
+     "sha256": "fa8b980e37d32140b104e62ae0c60abd1b3c77ca90845f89ed9a8ec84e83bba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-70-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/70",
+   "short": "HCL Valea lui Mihai nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 70/2011 privind aprobarea încheierii Contractului de închiriere a unei părți din imobilul situat în Valea lui Mihai str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.70-din-18.10.2011.pdf",
+     "sha256": "dc2312703637675565dc096cd28cf71de091f3b35eb891a8e1ea0f0f4b79a963"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-71-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/71",
+   "short": "HCL Valea lui Mihai nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 71/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.71din-18.10.2011.pdf",
+     "sha256": "d3838256976c3bf56e00eaba66dc10989448a561618510c07763e61ffc2fb762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-72-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/72",
+   "short": "HCL Valea lui Mihai nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 72/2011 privind aprobarea procesului verbal al ședinței ordinare din 18 octombrie 2011 și a Ordinii de zi a ședinței ordinare din 22 noiembrie 2011 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă p",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.72-din-22.11.2011.pdf",
+     "sha256": "8b793f1b9b113fa54a636546568f6ece50e9cb628f90fe5a098f8a93fc49cdc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-73-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/73",
+   "short": "HCL Valea lui Mihai nr. 73/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.73-din-22.11.2011.pdf",
+     "sha256": "fc99dd7111f623d98c29283769889b4332a6eaf2cc402bc21aeed14a7038e647"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-74-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/74",
+   "short": "HCL Valea lui Mihai nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 74/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.74-din-22.11.2011.pdf",
+     "sha256": "a070abbf5459ee02edfde00c7c0b599880770f0a1fd33369799882a630ff4a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-75-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/75",
+   "short": "HCL Valea lui Mihai nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 75/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.75-din-22.11.2011.pdf",
+     "sha256": "59c11ed5bb4807294ae647da2a1b815e543436eb88943110dd8c6dfc7c98f5fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-76-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/76",
+   "short": "HCL Valea lui Mihai nr. 76/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.76-din-22.11.2011.pdf",
+     "sha256": "cc398aa3034456d5a01a03d418aa1636a458d537457cd8653eade8890eeea5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-77-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/77",
+   "short": "HCL Valea lui Mihai nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 77/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.77-din-22.11.2011.pdf",
+     "sha256": "f2f196b705a0e5c9de04922b2aa7c2429c74610576d26e46155e65d0b1ac7d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-78-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/78",
+   "short": "HCL Valea lui Mihai nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 78/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.78-din-22.11.2011.pdf",
+     "sha256": "77ca09211b5497c9b339cd35eef81b6313e2e1503fce6e06c8e434f051efb6da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-79-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/79",
+   "short": "HCL Valea lui Mihai nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 79/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.79-din-22.11.2011.pdf",
+     "sha256": "8823c0849a8ad9f73085191613a566858cc31ced3072ce834a9a0a12b964e608"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-8-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/8",
+   "short": "HCL Valea lui Mihai nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 8/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.08-din-08.02.2011.pdf",
+     "sha256": "1115afb9fe7f67faf15956b826b800ab96832f57545fe9bc82ba09a668e94f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-80-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/80",
+   "short": "HCL Valea lui Mihai nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 80/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.80-din-22.11.2011-1.pdf",
+     "sha256": "1146c2e9f24ffa3070e427b5ce764f08cf0815a61d251c40e9c767ac03b33771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-81-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/81",
+   "short": "HCL Valea lui Mihai nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.81-din-20.12.2011.pdf",
+     "sha256": "51fb7a005478560714bf779fddc70c5ad2c51afc07e94a87dbc26d3ac5b8a485"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-82-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/82",
+   "short": "HCL Valea lui Mihai nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 82/2011 privind aprobarea procesului verbal al ședinței ordinare din 22 noiembrie 2011 și a Ordinii de zi a ședinței ordinare din 20 decembrie 2011 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă p",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.82-din-20.12.2011.pdf",
+     "sha256": "839c9f0418afa66be41dd366a566711fd07ccf4c99fcdf74026b7b159dbebdfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-83-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/83",
+   "short": "HCL Valea lui Mihai nr. 83/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 83/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.83-din-20.12.2011.pdf",
+     "sha256": "01a4b704134cc4eeca2462891bab364cf53b3a707ffdcbcd2daf2de42414ff70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-84-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/84",
+   "short": "HCL Valea lui Mihai nr. 84/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 84/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.84-din-20.12.2011.pdf",
+     "sha256": "3c8108fe1201f4e0717f33564b965290fe02a6dcee6f051c9e321b384402c20e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-85-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/85",
+   "short": "HCL Valea lui Mihai nr. 85/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 85/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.85-din-20.12.2011.pdf",
+     "sha256": "2eec98f39349174bc5504c0083dbfaec3659270ef51bfeb4d2275031ca0a1a62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-86-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/86",
+   "short": "HCL Valea lui Mihai nr. 86/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 86/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.86-din-20.12.2011.pdf",
+     "sha256": "f6c8d59e773aacaeccb9be64aa300ff18721627becb8ff7fc9c30ae9c8fe92ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-87-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/87",
+   "short": "HCL Valea lui Mihai nr. 87/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 87/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.87-din-20.12.2011.pdf",
+     "sha256": "bc641654164097209fe6c04b3a17f976d1f5e7de3f3ab7d770aac86b6928ca5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-88-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/88",
+   "short": "HCL Valea lui Mihai nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 88/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.88-din-20.12.2011.pdf",
+     "sha256": "9caf1ccd5c99c584bb170571946f120f36e32453bfe5395fe126a8d477a4c9ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-9-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/9",
+   "short": "HCL Valea lui Mihai nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 9/2011 privind aprobarea procesului verbal al ședinței ordinare din 08 februarie 2011 și a Ordinii de zi a ședinței extraordinare din 23 februarie 2011 Consiliul local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se apr",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.09-din-23.02.2011.pdf",
+     "sha256": "da421fdcaa0861af0e2e68a6485682e35a00461297c460242842b4077170d25c"
     }
    ]
   }

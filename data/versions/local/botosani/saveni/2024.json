@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/saveni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--saveni-1-2024",
+   "path": "local/botosani/saveni/2024/1",
+   "short": "HCL Săveni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 1/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-1-din-17.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-1-din-17.04.2024.pdf",
+     "sha256": "c6761567eb49286d58674999bf8323133bb43a34d0978452a2f281c33093a402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-2-2024",
+   "path": "local/botosani/saveni/2024/2",
+   "short": "HCL Săveni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 2/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-2-din-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-2-din-29.04.2024.pdf",
+     "sha256": "7efc6fb262830a517a750a945d58a3412408a32b404d47bf99ee46c808dbc559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-3-2024",
+   "path": "local/botosani/saveni/2024/3",
+   "short": "HCL Săveni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 3/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-3-din-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-3-din-29.04.2024.pdf",
+     "sha256": "256dc4cf2e4f9a6f2dba6ab7d00ab4182049cb79ce008a3fd4a194ad0b0d08da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-4-2024",
+   "path": "local/botosani/saveni/2024/4",
+   "short": "HCL Săveni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 4/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-4-din-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-4-din-29.04.2024.pdf",
+     "sha256": "c1ab5eddef4375e63a46b252edb519d30178b97d327196b306c56b1d749b7654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-5-2024",
+   "path": "local/botosani/saveni/2024/5",
+   "short": "HCL Săveni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 5/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-5-din-29.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-5-din-29.04.2024.pdf",
+     "sha256": "354fdc350c654efc277542ce61f91f88769a5e90722b845cbb73d7c4fe857f53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-6-2024",
+   "path": "local/botosani/saveni/2024/6",
+   "short": "HCL Săveni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 6/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-6-din-01.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-BEC-nr.-6-din-01.05.2024.pdf",
+     "sha256": "c2818b0aea41174e232f0c2081a0c5799a3fb12b3b96ca5fc5e2beae0c5f1d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-7-2024",
+   "path": "local/botosani/saveni/2024/7",
+   "short": "HCL Săveni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 7/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-7-din-15.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-7-din-15.05.2024.pdf",
+     "sha256": "b5f15258553021bde3c919af91583ccf629faba750fb653922f5b664756bc78d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-8-2024",
+   "path": "local/botosani/saveni/2024/8",
+   "short": "HCL Săveni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 8/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-8-din-22.05.2024-1.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-8-din-22.05.2024-1.pdf",
+     "sha256": "882af19098112b05182448929dee2ae51f51ab9adbf782f71bbb2ca625877f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-9-2024",
+   "path": "local/botosani/saveni/2024/9",
+   "short": "HCL Săveni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 9/2024",
+   "url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-9-din-23.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-9-din-23.05.2024.pdf",
+     "sha256": "39fc74547bfc19ad88a3b28682bc87516e46c4fd9b4d16c8a66dcc912ecc4878"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-93-2024",
+   "path": "local/botosani/saveni/2024/93",
+   "short": "HCL Săveni nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 93/2024 privind stabilirea salariilor de bază",
+   "url": "https://primariasaveni.ro/wp-content/uploads/HCL-nr.93-din-27.06.2024-privind-stabilirea-salariilor-de-baza.pdf",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/HCL-nr.93-din-27.06.2024-privind-stabilirea-salariilor-de-baza.pdf",
+     "sha256": "64ec15e8587067954c78fcb0e5441cdb31576144a679494f9c56e3c4f46d9761"
+    }
+   ]
+  }
+ ]
+}

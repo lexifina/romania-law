@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/saveni/2023",
+ "acts": [
+  {
+   "slug": "hcl-botosani--saveni-20-2023",
+   "path": "local/botosani/saveni/2023/20",
+   "short": "HCL Săveni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 20/2023",
+   "url": "https://primariasaveni.ro/documente/hcl-nr-20/",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/HCL-nr.-20-din-09.02.2023.pdf",
+     "sha256": "40dff2b2b625e1208dbea7e1ed3be38077dbc404732e43666b99c3882d46a5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-21-2023",
+   "path": "local/botosani/saveni/2023/21",
+   "short": "HCL Săveni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 21/2023",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/44/",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Cerere-inregistrare-oferta-de-cumparare-nr.-21-din-06.12.2023.pdf",
+     "sha256": "f60af46178bfcd5ac9bffe03c76e87c85656a8265f3c42d5ee4c58c9ff24d0a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-22-2023",
+   "path": "local/botosani/saveni/2023/22",
+   "short": "HCL Săveni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 22/2023",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/44/",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Cerere-inregistrare-oferta-de-cumparare-nr.-22-din-06.12.2023.pdf",
+     "sha256": "a4273e41d41a437d23bb0a6aab4d38c5c901f361158560b757f11cdb581ac82e"
+    }
+   ]
+  }
+ ]
+}

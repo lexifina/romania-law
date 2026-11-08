@@ -3,6 +3,28 @@
 "shard": "local/botosani/manoleasa/2026",
 "acts": [
 {
+"slug": "hcl-botosani--manoleasa-1-2026",
+"path": "local/botosani/manoleasa/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 1/2026 privind aprobare PAAR 2026",
+"short": "HCL Manoleasa nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2026",
+"council": "botosani/manoleasa",
+"council_name": "Consiliul Local al Comunei Manoleasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--manoleasa-2-2026",
 "path": "local/botosani/manoleasa/2026/2",
 "kind": "local",

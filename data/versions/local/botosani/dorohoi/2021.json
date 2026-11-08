@@ -31,6 +31,21 @@
      "sha256": "1116e726d96f4fa28a60fa7e39918954885d3dab27a2bb6bd23ddd350a9008d9"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-463-2021",
+   "path": "local/botosani/dorohoi/2021/463",
+   "short": "HCL Dorohoi nr. 463/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 463/2021 privind aprobarea cheltuielilor proiectului ca urmare a actualizarii devizului general petru obiectivul de investiții extraordinara la data 12.01.2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/1.SEDINTA%2012012022/HCL/HCL_006_12_01_2022.pdf",
+     "sha256": "133962b155cd8a2fb3d3630b7ffa8fab77fbce1be04b60495bb7682bf09c8ab0"
+    }
+   ]
   }
  ]
 }

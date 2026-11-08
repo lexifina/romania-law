@@ -18,6 +18,276 @@
    ]
   },
   {
+   "slug": "hcl-botosani--manoleasa-11-2024",
+   "path": "local/botosani/manoleasa/2024/11",
+   "short": "HCL Manoleasa nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 11/2024 privind Luna curateniei Aprilie",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/03/HCL%2011%20CURATENIE.pdf",
+     "sha256": "d1691f752daaa79224ed6d9eb9887e73960f564eabcb26e8bb84229da9b2c67b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-12-2024",
+   "path": "local/botosani/manoleasa/2024/12",
+   "short": "HCL Manoleasa nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 12/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "344c2fa080d1d56e5144b68e2998445828c5fd37843b13f8aca43623a9d05620"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-13-2024",
+   "path": "local/botosani/manoleasa/2024/13",
+   "short": "HCL Manoleasa nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 13/2024 privind aprobarea aderarii Comunei Manoleasa la FLAG",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/04/HCL%20nr.13%20privind%20aprobarea%20aderarii%20Comunei%20Manoleasa%20la%20FLAG.pdf",
+     "sha256": "34759b2ae4f13d4089b646e64a3d2cbf92070c41f53ebb4b83f922b17aeabc55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-14-2024",
+   "path": "local/botosani/manoleasa/2024/14",
+   "short": "HCL Manoleasa nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 14/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/05/HCL%20nr.14%20privind%20rectificare%20buget.pdf",
+     "sha256": "e141951be6f7e45b55e27a3756fcdc9867d5d5e7709d61393a748bf5407bd88d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-15-2024",
+   "path": "local/botosani/manoleasa/2024/15",
+   "short": "HCL Manoleasa nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 15/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/05/HCL%20nr.15%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "aae319b9d7efc35862ff1efc957c3f57a777261700c6603fb1a9ea2ab8db2848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-16-2024",
+   "path": "local/botosani/manoleasa/2024/16",
+   "short": "HCL Manoleasa nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 16/2024",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-16-aprobare-indicatori-Reabilitare-moderata-sediu---Copie.pdf",
+     "sha256": "1dfd208b0898939e9098d42a5f418e8c490162101be00324223e48650f31a57a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-17-2024",
+   "path": "local/botosani/manoleasa/2024/17",
+   "short": "HCL Manoleasa nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 17/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-17-privind-rectificare-buget.pdf",
+     "sha256": "ac3cb4581d960a4d8a1dbbac167ba3ccf66f0a857a45b506bce828b584bf3b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-18-2024",
+   "path": "local/botosani/manoleasa/2024/18",
+   "short": "HCL Manoleasa nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 18/2024 privind stabilirea salariilor",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-18-privind-stabilirea-salariilor.pdf",
+     "sha256": "b2f6239cab9f00af6781570470970919db94dec5d3d2c9f864f060e225d8077d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-19-2024",
+   "path": "local/botosani/manoleasa/2024/19",
+   "short": "HCL Manoleasa nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 19/2024 privind declararea de uz si de utilitate publica a imobilelor",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2019%20privind%20declararea%20de%20uz%20si%20de%20utilitate%20publica%20a%20imobilelor.pdf",
+     "sha256": "8ec5ddef332f1057c19af5f2d3a815779ab1b94ec531404da95bd6746b6b0d1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-2-2024",
+   "path": "local/botosani/manoleasa/2024/2",
+   "short": "HCL Manoleasa nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 2/2024 privind aprobarea bugetului local pe anul 2024",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/01/HCL%202%20privind%20aprobarea%20bugetului%20local%20pe%20anul%202024.pdf",
+     "sha256": "568a1751cdb56ace186f424bc43e212e9c2a439f97e71e809eeec56fb1c21698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-20-2024",
+   "path": "local/botosani/manoleasa/2024/20",
+   "short": "HCL Manoleasa nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 20/2024 privind actualizarea indicatorilor tehnico-economici aferent obiectului de investitii \"Infiintare retea de alimentare cu apa si canalizare in sat Manoleasa-Prut\"",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2020%20privind%20actualizarea%20indicatorilor%20tehnico-economici%20aferent%20obiectului%20de%20investitii%20Infiintare%20retea%20de%20alimentare%20cu%20apa%20si%20canalizare%20in%20sat%20Manoleasa-Prut.pdf",
+     "sha256": "1a14784fb1d88ee34dafff5f12fe976698454a78bde7317a7ea6b0131bbe68a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-21-2024",
+   "path": "local/botosani/manoleasa/2024/21",
+   "short": "HCL Manoleasa nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 21/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2021%20privind%20rectificare%20buget.pdf",
+     "sha256": "67f9f0a8f9b33af59f1a9811d5962ba96695fd8e417d1b30b3b136e3dd300eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-24-2024",
+   "path": "local/botosani/manoleasa/2024/24",
+   "short": "HCL Manoleasa nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 24/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-24-privind-rectificare-buget.pdf",
+     "sha256": "8c174001d3a527e27bce75c390f821d66661ab1e77f65aff4926d546c2becdac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-26-2024",
+   "path": "local/botosani/manoleasa/2024/26",
+   "short": "HCL Manoleasa nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 26/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-26-privind-rectificare-bugett.pdf",
+     "sha256": "225ac7ba0fed41f86d9a3d43d9e1210b13e5e1f1400b7a2ea7293ca7365c4cc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-27-2024",
+   "path": "local/botosani/manoleasa/2024/27",
+   "short": "HCL Manoleasa nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 27/2024 privind punerea in aplicare a OUG 107",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-27-privind-punerea-in-aplicare-a-OUG-107.pdf",
+     "sha256": "87b25de8e41ba988d41bdecc0d489cd92b4101cc4b828e23eca16b8918de22d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-28-2024",
+   "path": "local/botosani/manoleasa/2024/28",
+   "short": "HCL Manoleasa nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 28/2024 privind aprobarea incheierii protocolului de colaborare RO eID",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-28-privind-aprobarea-incheierii-protocolului-de-colaborare-RO-eID.pdf",
+     "sha256": "45587bf341817d1c0caee7d82b5c2ad227b4ba3ea72aadfc28d98ec16d6a2189"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-29-2024",
+   "path": "local/botosani/manoleasa/2024/29",
+   "short": "HCL Manoleasa nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 29/2024 privind aprobare mod de intocmire a registrului agricol in format electronic",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-29-privind-aprobare-mod-de-intocmire-a-registrului-agricol-in-format-electronic.pdf",
+     "sha256": "adb9c278c286d2d2eead28a3efb715e0a4a9f97f534d2453c35b17a752c76ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-3-2024",
+   "path": "local/botosani/manoleasa/2024/3",
+   "short": "HCL Manoleasa nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 3/2024 privind majorare salarii",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/01/HCL%203%20privind%20majorare%20salarii.pdf",
+     "sha256": "d86e41f5e856dc91cf8bc69df970f407d46bdaa00afeb0656d875ff8c9b62cd9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-30-2024",
    "path": "local/botosani/manoleasa/2024/30",
    "short": "HCL Manoleasa nr. 30/2024",
@@ -48,6 +318,171 @@
    ]
   },
   {
+   "slug": "hcl-botosani--manoleasa-32-2024",
+   "path": "local/botosani/manoleasa/2024/32",
+   "short": "HCL Manoleasa nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 32/2024 privind inregistrarea comunei in SNEP",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-32-privind-inregistrarea-comunei-in-SNEP.pdf",
+     "sha256": "f8d3cb3da4ec71e4bf4d47f8aabd1a95750c181cc0b473559090ef0d895ab492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-33-2024",
+   "path": "local/botosani/manoleasa/2024/33",
+   "short": "HCL Manoleasa nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 33/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-33-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "dc7f0e0f4f7fa215831b31236a78e7e7780420b03cc0de7112c4e1a90a409218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-34-2024",
+   "path": "local/botosani/manoleasa/2024/34",
+   "short": "HCL Manoleasa nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 34/2024 privind alegerea comisiilor de specialitate",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-34-privind-alegerea-comisiilor-de-specialitate.pdf",
+     "sha256": "b64dbe79c0e766851675e35d0e2a2bf25819a616bc9ff512b50685eb46b3ac9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-35-2024",
+   "path": "local/botosani/manoleasa/2024/35",
+   "short": "HCL Manoleasa nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 35/2024 privind alegerea viceprimarului",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL-35-privind-alegerea-viceprimarului.pdf",
+     "sha256": "c9844097a6cdf779908b79983a9b7722e18b2095286bb2e4483438925941b5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-36-2024",
+   "path": "local/botosani/manoleasa/2024/36",
+   "short": "HCL Manoleasa nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 36/2024 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2036%20privind%20rectificare%20buget%20(2).pdf",
+     "sha256": "8f2001e3b584966e4e660705f96ccb64ec19eef7308ed2b0c6cf4c45a1bdd53b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-37-2024",
+   "path": "local/botosani/manoleasa/2024/37",
+   "short": "HCL Manoleasa nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 37/2024 privind organizarea retelei scolare pentru anul 2025-2026",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2037%20privind%20organizarea%20retelei%20scolare%20pentru%20anul%202025-2026.pdf",
+     "sha256": "50bce484ae5a2a7b2c0b1c20c1096b733c0e2c09ec830c31e1055af4e8ecc270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-38-2024",
+   "path": "local/botosani/manoleasa/2024/38",
+   "short": "HCL Manoleasa nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 38/2024 privind aprobarea participarii la Programul Piste",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2038%20privind%20aprobarea%20participarii%20la%20Programul%20Piste.pdf",
+     "sha256": "21afc1954ed0af85048127d9660d8309d8373e1ad0086ad907873957b935f19f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-39-2024",
+   "path": "local/botosani/manoleasa/2024/39",
+   "short": "HCL Manoleasa nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 39/2024 privind rectificare HCL 25",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2039%20privind%20rectificare%20HCL%2025.pdf",
+     "sha256": "3b542102f44b41c08763fd081edae2cdafdeaa92ec590966741b0aabd7377e41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-4-2024",
+   "path": "local/botosani/manoleasa/2024/4",
+   "short": "HCL Manoleasa nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 4/2024 privind apropare PAAP si a Strategiei anuale de achizitii publice",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/01/HCL%204%20privind%20apropare%20PAAP%20si%20a%20Strategiei%20anuale%20de%20achizitii%20publice.pdf",
+     "sha256": "78992cbba8a87308bb638ee47220badc25e0bb31bdb7b38077b394d25c2d5399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-40-2024",
+   "path": "local/botosani/manoleasa/2024/40",
+   "short": "HCL Manoleasa nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 40/2024 privind aprobare actualizare SDL",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2040%20privind%20aprobare%20actualizare%20SDL.pdf",
+     "sha256": "76056f8e452d77a2532df6f66e372700f72744915dd86f184d61e1d7679554ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-41-2024",
+   "path": "local/botosani/manoleasa/2024/41",
+   "short": "HCL Manoleasa nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 41/2024 privind rectificare de buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2041%20privind%20rectificare%20de%20buget.pdf",
+     "sha256": "b15317c679770a1548c73e2ff14d18988edd0fbd7a61376f794b8e25180bf19f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-42-2024",
    "path": "local/botosani/manoleasa/2024/42",
    "short": "HCL Manoleasa nr. 42/2024",
@@ -59,6 +494,111 @@
      "units": 1,
      "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2042%20privind%20stabilirea%20impozitelor%20si%20taxelor%20pentru%20anul%202025.pdf",
      "sha256": "95c4b2de1bbf73c8115dd58d5d3643345706281f03b3c5d51cd317b0ef1db757"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-43-2024",
+   "path": "local/botosani/manoleasa/2024/43",
+   "short": "HCL Manoleasa nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 43/2024 privind acordul CL pentru servicii juridice",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2043%20privind%20acordul%20CL%20pentru%20servicii%20juridice.pdf",
+     "sha256": "a6400b05f22090c2750bb4217a99a4bb45a60f70fafd75c031f28093e5abfcd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-44-2024",
+   "path": "local/botosani/manoleasa/2024/44",
+   "short": "HCL Manoleasa nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 44/2024 privind aprobarea si actualizarea indicatorilor pt Reabilitare sediu",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2024/hot/HCL%2044%20privind%20aprobarea%20si%20actualizarea%20indicatorilor%20pt%20Reabilitare%20sediu.pdf",
+     "sha256": "257f8ccaa550debe2dbec134078f4f86d5698df8d84e03ae1fac07a080e0aa38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-5-2024",
+   "path": "local/botosani/manoleasa/2024/5",
+   "short": "HCL Manoleasa nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 5/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/01/HCL%205%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "314752bd03328eefb4458591fa691c12fe88f2c84537796c81570ed17ece653b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-6-2024",
+   "path": "local/botosani/manoleasa/2024/6",
+   "short": "HCL Manoleasa nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 6/2024 privind decontare cheltuieli transport",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/02/HCL%20nr.6%20privind%20decontare%20cheltuieli%20transport.pdf",
+     "sha256": "c2f44079abd027f1037d5c7feda5b8efff09529d17f5be484cc285c56ae5ba61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-7-2024",
+   "path": "local/botosani/manoleasa/2024/7",
+   "short": "HCL Manoleasa nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 7/2024 privind indicatori modernizare drumuri locale",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/03/HCL%207%20INDICATORI%20MODERNIZARE%20DRUMURI%20LOCALE.pdf",
+     "sha256": "ff19910aea708e6afb6f2017ff4c9f1edc819e6763f5cdc6c051991a26c58612"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-8-2024",
+   "path": "local/botosani/manoleasa/2024/8",
+   "short": "HCL Manoleasa nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 8/2024 privind SC MITOC PARTENERS SRL",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2024/03/HCL%208%20SC%20MITOC%20PARTENERS%20SRL.pdf",
+     "sha256": "889ca81c404f82ed81d1f27b88c4130cb9e44bd453aca08819cf7d0f07b8d7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-9-2024",
+   "path": "local/botosani/manoleasa/2024/9",
+   "short": "HCL Manoleasa nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 9/2024",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2024",
+     "sha256": "77dbe445df05992bd2b4296b21628d430fa805fc312939aa6d073458f6bb6572"
     }
    ]
   }

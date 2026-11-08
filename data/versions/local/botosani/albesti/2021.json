@@ -3,6 +3,21 @@
  "shard": "local/botosani/albesti/2021",
  "acts": [
   {
+   "slug": "hcl-botosani--albesti-1-2021",
+   "path": "local/botosani/albesti/2021/1",
+   "short": "HCL Albești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 1/2021 privind decontarea/plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru lunile octombrie si noiembrie 2020",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/19765",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/19765",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-10-2021",
    "path": "local/botosani/albesti/2021/10",
    "short": "HCL Albești nr. 10/2021",
@@ -18,6 +33,156 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-100-2021",
+   "path": "local/botosani/albesti/2021/100",
+   "short": "HCL Albești nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 100/2021 privind desemnarea reprezentaților Consiliului Local al comunei Albești în Consiliulul de Administrație al Școlii Gimnaziale nr. 2 Tudor Vladimirescu",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41412",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-101-2021",
+   "path": "local/botosani/albesti/2021/101",
+   "short": "HCL Albești nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 101/2021 privind aprobarea documentației tehnice pentru lucrări de reparații drumuri afectate de calamități naturale",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41413",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-102-2021",
+   "path": "local/botosani/albesti/2021/102",
+   "short": "HCL Albești nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 102/2021 privind aprobarea rectificării bugetului local pe anul 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41612",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-103-2021",
+   "path": "local/botosani/albesti/2021/103",
+   "short": "HCL Albești nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 103/2021 privind aprobarea actualizării indicatorilor Tehnico-Economici pentru Investiția ”Construire școală, sat Mascateni, comuna Albești, județul Botoșani”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41613",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-104-2021",
+   "path": "local/botosani/albesti/2021/104",
+   "short": "HCL Albești nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 104/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41659",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-105-2021",
+   "path": "local/botosani/albesti/2021/105",
+   "short": "HCL Albești nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 105/2021 privind desemnarea reprezentantului Consiliului Local al comunei Albești în Comisia de Asigurare și Evaluarea Calității din cadrul Școlii Gimnaziale nr.1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41660",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-106-2021",
+   "path": "local/botosani/albesti/2021/106",
+   "short": "HCL Albești nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 106/2021 privind desemnarea reprezentantului Consiliului Local al comunei Albești în Comisia de Asigurare și Evaluare Calității din cadrul Școlii Gimnaziale nr.2 Tudor Vladimirescu",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41661",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-107-2021",
+   "path": "local/botosani/albesti/2021/107",
+   "short": "HCL Albești nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 107/2021 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Albești în Grupul de acțiune antibullying al Școlii Gimnaziale nr.1 Albești, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41662",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-108-2021",
+   "path": "local/botosani/albesti/2021/108",
+   "short": "HCL Albești nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 108/2021 privind desemnarea a doi reprezentanți ai Consiliului local al comunei Albești în Grupul de acțiune antibullying al Școlii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41663",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-109-2021",
+   "path": "local/botosani/albesti/2021/109",
+   "short": "HCL Albești nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 109/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41664",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41664",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-11-2021",
    "path": "local/botosani/albesti/2021/11",
    "short": "HCL Albești nr. 11/2021",
@@ -28,6 +193,36 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-110-2021",
+   "path": "local/botosani/albesti/2021/110",
+   "short": "HCL Albești nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 110/2021 privind aprobarea Regulamentului privind procedura pentru înregistrarea și radierea vehiculelor pentru care nu există obligația înmatriculării",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41665",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-111-2021",
+   "path": "local/botosani/albesti/2021/111",
+   "short": "HCL Albești nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 111/2021 privind desemnarea unui cabinet de avocatură care să reprezinte interesele Comunei Albești în Dosarul nr. 8495/193/2021 înregistrat pe rolul Judecătoriei Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41666",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41666",
      "sha256": null
     }
    ]
@@ -63,6 +258,66 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-114-2021",
+   "path": "local/botosani/albesti/2021/114",
+   "short": "HCL Albești nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 114/2021 privind aprobarea Devizului general la obiectivul de investiții „Imprejmuire teren și amenajare alee la Școala Gimnazială nr.2 Tudor Vladimirescu, comuna Albești, județul Botoșani”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41669",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-115-2021",
+   "path": "local/botosani/albesti/2021/115",
+   "short": "HCL Albești nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 115/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41670",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-116-2021",
+   "path": "local/botosani/albesti/2021/116",
+   "short": "HCL Albești nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 116/2021 privind alegerea Președintelui de ședință pentru lunile noiembrie, decembrie 2021 și ianuarie 2022",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41671",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-117-2021",
+   "path": "local/botosani/albesti/2021/117",
+   "short": "HCL Albești nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 117/2021 privind decontarea/plata costurilor de transport la și de la locul de muncă a cadrelor didactice navetiste din unitățile de învățământ din comuna Albești pentru luna septembrie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41672",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-118-2021",
    "path": "local/botosani/albesti/2021/118",
    "short": "HCL Albești nr. 118/2021",
@@ -88,6 +343,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/44690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-12-2021",
+   "path": "local/botosani/albesti/2021/12",
+   "short": "HCL Albești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2021 privind aprobarea elaborarii lucrarii ,,Zestrea satelor comunei Albesti, judetul Botosani''",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32828",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32828",
      "sha256": null
     }
    ]
@@ -243,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-13-2021",
+   "path": "local/botosani/albesti/2021/13",
+   "short": "HCL Albești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2021 privind aprobarea concesionarii prin licitatie a suprafetei de 200 m.p.teren situat in intravilanul satului Tudor Vladimirescu, p.c. nr. 346",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32829",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-130-2021",
    "path": "local/botosani/albesti/2021/130",
    "short": "HCL Albești nr. 130/2021",
@@ -358,6 +643,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/49367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-14-2021",
+   "path": "local/botosani/albesti/2021/14",
+   "short": "HCL Albești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 14/2021 privind aprobarea achizitionarii unei statii de motorina necesara pentru buna functionare a utilajelor aflate in dotarea Primariei comunei Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32830",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32830",
      "sha256": null
     }
    ]
@@ -528,6 +828,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-25-2021",
+   "path": "local/botosani/albesti/2021/25",
+   "short": "HCL Albești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 25/2021 privind aprobarea prelungirii valabilitatii scrisorii de garantie pentru restituirea avansului din partea Fondului de Garantare a Creditului Rural",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32841",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-26-2021",
+   "path": "local/botosani/albesti/2021/26",
+   "short": "HCL Albești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 26/2021 privind desemnarea consilierilor locali din cadrul Consiliului Local al comunei Albesti care vor face parte din Comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Albesti si stabilirea calitatii de evaluatori pentru evaluarea performantelor functionarilor publici (de conducere si executie) si ale personalului contractual care fac parte din aparatul de specialitate al Primarului comunei Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32856",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32856",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-27-2021",
    "path": "local/botosani/albesti/2021/27",
    "short": "HCL Albești nr. 27/2021",
@@ -543,6 +873,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-28-2021",
+   "path": "local/botosani/albesti/2021/28",
+   "short": "HCL Albești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 28/2021 privind decontarea/plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru lunile ianuarie si februarie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32858",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-29-2021",
+   "path": "local/botosani/albesti/2021/29",
+   "short": "HCL Albești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 29/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32859",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-3-2021",
    "path": "local/botosani/albesti/2021/3",
    "short": "HCL Albești nr. 3/2021",
@@ -553,6 +913,21 @@
      "from": "2021-01-28",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/19767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-30-2021",
+   "path": "local/botosani/albesti/2021/30",
+   "short": "HCL Albești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 30/2021 privind suplimentarea Serviciului de ordine si paza al comunei Albesti cu un numar de doua posturi contractuale de agent de paza",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32860",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32860",
      "sha256": null
     }
    ]
@@ -588,6 +963,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-33-2021",
+   "path": "local/botosani/albesti/2021/33",
+   "short": "HCL Albești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 33/2021 privind constituirea echipei mobile pentru interventia de urgenta in cazurile de violenta domestica la nivelul comunei Albesti, judetul Botosani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32863",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-34-2021",
+   "path": "local/botosani/albesti/2021/34",
+   "short": "HCL Albești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2021 privind privind aprobarea infiintarii Structurii Comunitare Consultative la nivelul comunei Albesti, judetul Botosani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32864",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32864",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-35-2021",
    "path": "local/botosani/albesti/2021/35",
    "short": "HCL Albești nr. 35/2021",
@@ -613,6 +1018,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-37-2021",
+   "path": "local/botosani/albesti/2021/37",
+   "short": "HCL Albești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 37/2021 privind aprobarea platii lunare de 9.015 lei pentru organizarea si functionarea Serviciului de ordine si paza al comunei Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32867",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32867",
      "sha256": null
     }
    ]
@@ -723,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-44-2021",
+   "path": "local/botosani/albesti/2021/44",
+   "short": "HCL Albești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 44/2021 privind alegerea unui nou Presedinte de sedinta pentru lunile mai, iunie si iulie",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32874",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32874",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-45-2021",
    "path": "local/botosani/albesti/2021/45",
    "short": "HCL Albești nr. 45/2021",
@@ -763,6 +1198,21 @@
      "from": "2021-05-31",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-48-2021",
+   "path": "local/botosani/albesti/2021/48",
+   "short": "HCL Albești nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2021 privind aprobarea decontarii navetei cadrelor didactice pentru luna martie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32898",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32898",
      "sha256": null
     }
    ]
@@ -918,6 +1368,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-58-2021",
+   "path": "local/botosani/albesti/2021/58",
+   "short": "HCL Albești nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 58/2021 privind aprobarea acordarii calificativului pentru activitatea desfasurata in anul 2020 de catre Secretarul general al comunei Albesti,judetul Botosani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32908",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-59-2021",
+   "path": "local/botosani/albesti/2021/59",
+   "short": "HCL Albești nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 59/2021 privind decontarea navetei cadrelor didactice pentru luna mai 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32909",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-6-2021",
    "path": "local/botosani/albesti/2021/6",
    "short": "HCL Albești nr. 6/2021",
@@ -933,6 +1413,66 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-60-2021",
+   "path": "local/botosani/albesti/2021/60",
+   "short": "HCL Albești nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 60/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32910",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-61-2021",
+   "path": "local/botosani/albesti/2021/61",
+   "short": "HCL Albești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 61/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32911",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-62-2021",
+   "path": "local/botosani/albesti/2021/62",
+   "short": "HCL Albești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 62/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32912",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-63-2021",
+   "path": "local/botosani/albesti/2021/63",
+   "short": "HCL Albești nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 63/2021 privind aprobarea trecerii din domeniul public in domeniul privat al comunei Albesti a imobilului ,,Atelier Scoala nr. 1 Albesti in vederea desfiintarii",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32913",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-64-2021",
    "path": "local/botosani/albesti/2021/64",
    "short": "HCL Albești nr. 64/2021",
@@ -943,6 +1483,21 @@
      "from": "2021-06-30",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-65-2021",
+   "path": "local/botosani/albesti/2021/65",
+   "short": "HCL Albești nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 65/2021 privind necesitatea si oportunitatea realizarii Proiectului ,,Construire blocuri de locuinte pentru tineri destinate inchirierii in comuna Albesti, judetul Botosani''",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32915",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32915",
      "sha256": null
     }
    ]
@@ -973,6 +1528,51 @@
      "from": "2021-06-30",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-68-2021",
+   "path": "local/botosani/albesti/2021/68",
+   "short": "HCL Albești nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 68/2021 privind aprobarea trecerii din domeniul public in domeniul privat al Comunei Albesti a terenului situat in p.c. nr. 786 sat Albesti, in vederea construirii de locuinte",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32918",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-69-2021",
+   "path": "local/botosani/albesti/2021/69",
+   "short": "HCL Albești nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 69/2021 privind privind aprobarea decontarii navetei cadrelor didactice pentru luna iunie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32919",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-7-2021",
+   "path": "local/botosani/albesti/2021/7",
+   "short": "HCL Albești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 7/2021 privind alegerea unui nou Presedinte de sedinta pentru lunile februarie, martie si aprilie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/19770",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/19770",
      "sha256": null
     }
    ]
@@ -1038,6 +1638,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-74-2021",
+   "path": "local/botosani/albesti/2021/74",
+   "short": "HCL Albești nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 74/2021 privind constituirea Grupului de lucru in vederea identificarii asezarilor informale, evaluarii situatiei acestora si stabilirii masurilor necesare la nivelul comunei Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32924",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-75-2021",
+   "path": "local/botosani/albesti/2021/75",
+   "short": "HCL Albești nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 75/2021 privind alegerea unui nou Presedinte de sedinta pentru lunile august, septembrie si octombrie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/32925",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/32925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-76-2021",
    "path": "local/botosani/albesti/2021/76",
    "short": "HCL Albești nr. 76/2021",
@@ -1048,6 +1678,51 @@
      "from": "2021-08-13",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/33447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-77-2021",
+   "path": "local/botosani/albesti/2021/77",
+   "short": "HCL Albești nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 77/2021 privind abrobarea contului de execuție a bugetului de venituri și cheltuieli la 30 iunie 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35383",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-78-2021",
+   "path": "local/botosani/albesti/2021/78",
+   "short": "HCL Albești nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 78/2021 privind aprobarea rectificării bugetului local pe anul 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35384",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-79-2021",
+   "path": "local/botosani/albesti/2021/79",
+   "short": "HCL Albești nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 79/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35385",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35385",
      "sha256": null
     }
    ]
@@ -1068,6 +1743,156 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-80-2021",
+   "path": "local/botosani/albesti/2021/80",
+   "short": "HCL Albești nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 80/2021 privind necesitatea și oportunitatea realizării proiectului ”Modernizare Dv 199, strada Tineretului sat Albești, comuna Albești județul Botoșani”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35386",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-81-2021",
+   "path": "local/botosani/albesti/2021/81",
+   "short": "HCL Albești nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 81/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Amenajarea centru civic sat Tudor Vladimirescu, comuna Albești, jud. Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35387",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-82-2021",
+   "path": "local/botosani/albesti/2021/82",
+   "short": "HCL Albești nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 82/2021 privind revocarea Hotărârii Consiliului Local al comunei Albești nr. 68 din 30.06.2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35388",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-83-2021",
+   "path": "local/botosani/albesti/2021/83",
+   "short": "HCL Albești nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 83/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ”Reparații pe suprafețe izolate și întinse pe drumul comunal DC 52 A, comuna Albești, județul Botoșani”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35389",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-84-2021",
+   "path": "local/botosani/albesti/2021/84",
+   "short": "HCL Albești nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 84/2021 privind aprobarea executării lucrării ” Intreținere drumuri de interes local în comuna Albești prin împietruire” precum și indicatorii tehnico-econimici pentru această lucrare",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35390",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-85-2021",
+   "path": "local/botosani/albesti/2021/85",
+   "short": "HCL Albești nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 85/2021 privind aprobarea preluării și administrarea a două piese de artilerie ( tunuri anititanc cal.76 mm,md 1942) proprietate privată a Statului Român, din administrarea Ministerului Apărării Naționale",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/35391",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/35391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-86-2021",
+   "path": "local/botosani/albesti/2021/86",
+   "short": "HCL Albești nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 86/2021 privind aprobarea acordării unor facilități în ce privește transportul elevilor școlarizați la Liceul „Demostene Botez” din localitatea Trușești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41398",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-87-2021",
+   "path": "local/botosani/albesti/2021/87",
+   "short": "HCL Albești nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 87/2021 privind aprobarea actualizării indicatorilor tehnico-economici pentru investiția ”Construire școală, sat Mascateni, comuna Albești, județul Botoșani”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41399",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-88-2021",
+   "path": "local/botosani/albesti/2021/88",
+   "short": "HCL Albești nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 88/2021 privind aprobarea rectificării bugetului local pe anul 2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41400",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-89-2021",
+   "path": "local/botosani/albesti/2021/89",
+   "short": "HCL Albești nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 89/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drum vicinal DC 199, str. Tineretului-sat Albești, comuna Albesi, județul Botoșani, faza D.T.A.C.”",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41401",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41401",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-9-2021",
    "path": "local/botosani/albesti/2021/9",
    "short": "HCL Albești nr. 9/2021",
@@ -1078,6 +1903,156 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/32825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-90-2021",
+   "path": "local/botosani/albesti/2021/90",
+   "short": "HCL Albești nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 90/2021 privind aprobarea întocmirii documentației topografice pentru drumuri de interes local aflate în domeniul public și privat al comunei Albești, în vederea modernizării acestora",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41402",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-91-2021",
+   "path": "local/botosani/albesti/2021/91",
+   "short": "HCL Albești nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 91/2021 privind aprobarea Cererii de finanțare și a Devizului general estimativ la obiectivul de investiții „Rețea de alimentare cu apă sat Tudor Vladimirescu, comuna Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41403",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-92-2021",
+   "path": "local/botosani/albesti/2021/92",
+   "short": "HCL Albești nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 92/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41404",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-93-2021",
+   "path": "local/botosani/albesti/2021/93",
+   "short": "HCL Albești nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 93/2021 privind aprobarea Raportului de evaluare și a Studiului de oportunitate pentru Concesionarea suprafeței de 2917 mp, teren situat în PC 672 extravilan sat Albești, comuna Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41405",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-94-2021",
+   "path": "local/botosani/albesti/2021/94",
+   "short": "HCL Albești nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 94/2021 privind aprobarea Regulamentului pentru acordarea de premii elevilor, tinerilor care au obținut rezultate deosebite la concursuri, competiții sportive și cultural-artistice",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41406",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-95-2021",
+   "path": "local/botosani/albesti/2021/95",
+   "short": "HCL Albești nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 95/2021 privind aprobarea decontării lucrărilor de înlocuire instalații electrice și de încălzire la Școala primară nr.1 Albești și la Școala primară nr.4 Jijia",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41407",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-96-2021",
+   "path": "local/botosani/albesti/2021/96",
+   "short": "HCL Albești nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 96/2021 privind aprobarea decontării lucrărilor de izolare termică la Școala Gimnazială nr.1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41408",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-97-2021",
+   "path": "local/botosani/albesti/2021/97",
+   "short": "HCL Albești nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 97/2021 privind aprobarea branșării localității Sarata, comuna Românești la Rețeaua de alimentare cu apă a satului Tudor Vladimirescu, comuna Albești, județul Botoșani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41409",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-98-2021",
+   "path": "local/botosani/albesti/2021/98",
+   "short": "HCL Albești nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 98/2021",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41410",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-99-2021",
+   "path": "local/botosani/albesti/2021/99",
+   "short": "HCL Albești nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 99/2021 privind desemnarea reprezentanților Consiliului Local al comunei Albești în Consiliul de Administrație al Școlii Gimnaziale nr.1 Albești",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/41411",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/41411",
      "sha256": null
     }
    ]

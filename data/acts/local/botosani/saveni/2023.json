@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/saveni/2023",
+"acts": [
+{
+"slug": "hcl-botosani--saveni-20-2023",
+"path": "local/botosani/saveni/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 20/2023",
+"short": "HCL Săveni nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-09",
+"latest": "2023-02-09",
+"portal": "https://primariasaveni.ro/documente/hcl-nr-20/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--saveni-21-2023",
+"path": "local/botosani/saveni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 21/2023",
+"short": "HCL Săveni nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/44/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--saveni-22-2023",
+"path": "local/botosani/saveni/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 22/2023",
+"short": "HCL Săveni nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/44/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,28 @@
 "shard": "local/botosani/nicseni/2026",
 "acts": [
 {
+"slug": "hcl-botosani--nicseni-44-2026",
+"path": "local/botosani/nicseni/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nicșeni nr. 44/2026 privind aprobarea devizului general al obiectivului de investiție “Construire școală verde în sat Dacia, Com.Nicșeni, Jud.Botoșani prin demolarea construcției existente” CONSILIUL LOCAL AL COMUNEI NICȘENI Întrunit în ședința ordinară din data de 31.08.2026, analizând referatul de aprobare al inițiatorului proiectului nr.5442/ 24.08.2026, urmare a raportului de specialitate nr. 5443/24.08.2026 luân",
+"short": "HCL Nicșeni nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://primarianicseni.ro/wp-content/uploads/2026/09/HCL-44-31.08.2026-Aprobare-deviz-scoala-verde-Dacia.pdf",
+"council": "botosani/nicseni",
+"council_name": "Consiliul Local al Comunei Nicșeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--nicseni-45-2026",
 "path": "local/botosani/nicseni/2026/45",
 "kind": "local",

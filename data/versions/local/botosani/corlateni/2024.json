@@ -3,6 +3,81 @@
  "shard": "local/botosani/corlateni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--corlateni-1-2024",
+   "path": "local/botosani/corlateni/2024/1",
+   "short": "HCL Corlăteni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 1/2024 privind aprobarea ,,Planului de acţiuni si lucrări de interes local ” pentru anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151137",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-10-2024",
+   "path": "local/botosani/corlateni/2024/10",
+   "short": "HCL Corlăteni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 10/2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203860",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-11-2024",
+   "path": "local/botosani/corlateni/2024/11",
+   "short": "HCL Corlăteni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 11/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203861",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-12-2024",
+   "path": "local/botosani/corlateni/2024/12",
+   "short": "HCL Corlăteni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 12/2024 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului Comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203862",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-13-2024",
+   "path": "local/botosani/corlateni/2024/13",
+   "short": "HCL Corlăteni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 13/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenta familiilor si persoanelor singure care se afla in situatii de necesitate cauzate de calamitati naturale, incendii, accidente precum si pentru alte situatii deosebite",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203863",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203863",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-14-2024",
    "path": "local/botosani/corlateni/2024/14",
    "short": "HCL Corlăteni nr. 14/2024",
@@ -33,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-16-2024",
+   "path": "local/botosani/corlateni/2024/16",
+   "short": "HCL Corlăteni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 16/2024 privind rectificarea bugetului local al comunei Corlăteni pentru anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203866",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-17-2024",
+   "path": "local/botosani/corlateni/2024/17",
+   "short": "HCL Corlăteni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 17/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupațională ,,Administrație“ din cadrul primăriei comunei Corlăteni, județul Botoșani, începând cu data de 01.06.2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203891",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203891",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-18-2024",
    "path": "local/botosani/corlateni/2024/18",
    "short": "HCL Corlăteni nr. 18/2024",
@@ -43,6 +148,81 @@
      "from": "2024-06-20",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-19-2024",
+   "path": "local/botosani/corlateni/2024/19",
+   "short": "HCL Corlăteni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 19/2024 privind completarea inventarului bunurilor imobile din domeniul privat al Comunei Corlăteni la data de 01.06.2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203893",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-2-2024",
+   "path": "local/botosani/corlateni/2024/2",
+   "short": "HCL Corlăteni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 2/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupațională ,,Administrație“ din cadrul primăriei comunei Corlăteni, județul Botoșani, începând cu data de 01.01.2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151138",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-20-2024",
+   "path": "local/botosani/corlateni/2024/20",
+   "short": "HCL Corlăteni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 20/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203894",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-21-2024",
+   "path": "local/botosani/corlateni/2024/21",
+   "short": "HCL Corlăteni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 21/2024 privind rectificarea bugetului local al comunei Corlăteni pentru anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203895",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-22-2024",
+   "path": "local/botosani/corlateni/2024/22",
+   "short": "HCL Corlăteni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 22/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupațională ,,Administrație“ din cadrul primăriei comunei Corlăteni, județul Botoșani, începând cu data de 01.07.2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203896",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203896",
      "sha256": null
     }
    ]
@@ -73,6 +253,21 @@
      "from": "2024-08-30",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-25-2024",
+   "path": "local/botosani/corlateni/2024/25",
+   "short": "HCL Corlăteni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 25/2024 privind aprobarea Regulamentului de decontare a cheltuielilor de transport pentru personalul din cadrul aparatului de specialitate al primarului comunei Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203909",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203909",
      "sha256": null
     }
    ]
@@ -303,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-4-2024",
+   "path": "local/botosani/corlateni/2024/4",
+   "short": "HCL Corlăteni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 4/2024 privind aprobarea documentației de atribuire pentru licitația organizată în vederea închirierii unui imobil aflat în domeniul public al comunei Corlăteni, pentru desfășurararea activității de farmacie, în cadrul clădirii Dispensarului Uman din sat Corlăteni, comuna Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151140",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151140",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-40-2024",
    "path": "local/botosani/corlateni/2024/40",
    "short": "HCL Corlăteni nr. 40/2024",
@@ -388,6 +598,81 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-5-2024",
+   "path": "local/botosani/corlateni/2024/5",
+   "short": "HCL Corlăteni nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 5/2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151141",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-6-2024",
+   "path": "local/botosani/corlateni/2024/6",
+   "short": "HCL Corlăteni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 6/2024 privind înfiinţarea Serviciului public de alimentare cu apă și aprobarea demarării procedurii de delegare a gestiunii prin concesiune a serviciului public de alimentare cu apă în Comuna Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151142",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-7-2024",
+   "path": "local/botosani/corlateni/2024/7",
+   "short": "HCL Corlăteni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 7/2024 privind aprobarea utilizarii excedentului bugetar din anul 2023 în anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151150",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-8-2024",
+   "path": "local/botosani/corlateni/2024/8",
+   "short": "HCL Corlăteni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 8/2024 privind aprobarea bugetului local al Comunei Corlăteni pe anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151151",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-9-2024",
+   "path": "local/botosani/corlateni/2024/9",
+   "short": "HCL Corlăteni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 9/2024 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2023",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203859",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203859",
      "sha256": null
     }
    ]

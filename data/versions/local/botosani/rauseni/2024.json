@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/rauseni/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--rauseni-42-2024",
+   "path": "local/botosani/rauseni/2024/42",
+   "short": "HCL Răuseni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 42/2024",
+   "url": "https://rausenibt.ro/consiliul-local/comisii-de-specialitate/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2025/06/H.C.L.-nr.-42-din-14.11.2024-Organizare-comisii-de-specialitate-Consiliul-local-Rauseni.pdf",
+     "sha256": "bc18b29813b8d35e321c6502e8cb51f4db361e14706cb46041aa4b058dee9b40"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/bihor/viisoara/2026",
 "acts": [
 {
+"slug": "hcl-bihor--viisoara-1-2026",
+"path": "local/bihor/viisoara/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 1/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Viișoara nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/251975",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--viisoara-2-2026",
 "path": "local/bihor/viisoara/2026/2",
 "kind": "local",
@@ -69,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-bihor--viisoara-5-2026",
+"path": "local/bihor/viisoara/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 5/2026 privind aprobarea Planului de acţiuni sau lucrări de interes local pe anul 2026, pentru stabilirea activităţilor desfăşurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr.196/2016 privind venitul minim de incluziune şi de către părinţii apţi de muncă obligaţi la întreţinerea copilului în condiţiile stabilite de Codul civil",
+"short": "HCL Viișoara nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/251979",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-6-2026",
+"path": "local/bihor/viisoara/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 6/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate de la bugetul local pentru anul 2026",
+"short": "HCL Viișoara nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/251980",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--viisoara-7-2026",
 "path": "local/bihor/viisoara/2026/7",
 "kind": "local",
@@ -110,6 +176,72 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-9-2026",
+"path": "local/bihor/viisoara/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 9/2026 privind implementarea proiectului „Amenajare teren de sport în Comuna Viișoara, Județul Bihor”",
+"short": "HCL Viișoara nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/257715",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-10-2026",
+"path": "local/bihor/viisoara/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 10/2026 privind raportul anual pe perioada 2024-2025 privind activitatea consilierilor locali",
+"short": "HCL Viișoara nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/257716",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-11-2026",
+"path": "local/bihor/viisoara/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 11/2026 privind raportul anual al primarului pe perioada 2024-2025 privind starea economica , sociala si de mediu",
+"short": "HCL Viișoara nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/257717",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-bihor--viisoara-14-2026",
+"path": "local/bihor/viisoara/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 14/2026 Privind aprobarea actualizării indicatorilor tehnico – economici aferent obiectivului de investiţie „Reabilitare drumuri şi străzi în comuna Viişoara, judeţul Bihor”,",
+"short": "HCL Viișoara nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/259092",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-15-2026",
+"path": "local/bihor/viisoara/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 15/2026 privind Completare si actualizare HCL nr 54 din29.12. 2025 , privind stabilirea impozitelor si taxelor locale pentru anul 2026 , acordarea unor scutiri sau reduceri a impozitului taxei pe clădiri , a impozitului taxei pe teren si a mijloacelor de transport de natura celor ce se pot acorda de catre Consiliul Local conform OUG 9/2026",
+"short": "HCL Viișoara nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/259093",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--viisoara-16-2026",
 "path": "local/bihor/viisoara/2026/16",
 "kind": "local",
@@ -198,6 +374,72 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-18-2026",
+"path": "local/bihor/viisoara/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 18/2026 privind aprobarea reorganizării aparatului de specialitate al Primarului Comunei Viisoara şi aprobarea organigramei şi statului de funcţii",
+"short": "HCL Viișoara nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/264963",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-19-2026",
+"path": "local/bihor/viisoara/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 19/2026 Privind aprobarea contului de executie al bugetului local al comunei viisoara , judetul Bihor , pe trimestrul IV al anului 2025",
+"short": "HCL Viișoara nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/264964",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-20-2026",
+"path": "local/bihor/viisoara/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 20/2026 privind aprobarea Planului de Asigurare cu resurse financiare,materiale și umane necesare pentru gestionarea Situațiilor de Urgență în anul 2026 în Comuna VIISOARA",
+"short": "HCL Viișoara nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/264965",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +550,28 @@
 "council_name": "Consiliul Local al Comunei Viișoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--viisoara-26-2026",
+"path": "local/bihor/viisoara/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2026 privind aprobarea privind constituirea Echipei Mobile pentru intervenția de urgență în cazurile de violență domestică",
+"short": "HCL Viișoara nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/viisoara-bh/registru-hcl/269247",
+"council": "bihor/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

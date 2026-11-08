@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/saveni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--saveni-3-2025",
+"path": "local/botosani/saveni/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 3/2025",
+"short": "HCL Săveni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://primariasaveni.ro/wp-content/uploads/HCL-nr.3-din-30.01.2025-de-aprobare-a-Organigramei-si-a-Statului-de-functii.pdf",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--saveni-54-2025",
+"path": "local/botosani/saveni/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 54/2025",
+"short": "HCL Săveni nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://primariasaveni.ro/wp-content/uploads/Hot.Nr_.54-din-28.05.2025-de-aprobare-a-Statului-de-functii.pdf",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/botosani/saveni/2019",
+"acts": [
+{
+"slug": "hcl-botosani--saveni-5-2019",
+"path": "local/botosani/saveni/2019/5",
+"kind": "local",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 5/2019",
+"short": "HCL Săveni nr. 5/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-28",
+"latest": "2019-01-28",
+"portal": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/94/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--saveni-11-2019",
+"path": "local/botosani/saveni/2019/11",
+"kind": "local",
+"year": "2019",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Săveni nr. 11/2019",
+"short": "HCL Săveni nr. 11/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-05",
+"latest": "2019-02-05",
+"portal": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/94/",
+"council": "botosani/saveni",
+"council_name": "Consiliul Local al Orașului Săveni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

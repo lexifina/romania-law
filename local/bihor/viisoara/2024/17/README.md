@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Viișoara nr. 17/2024 privind planul anual al privind aprobarea Planului de acţiuni sau lucrări de interes local pe anul 2024, pentru stabilirea activităţilor desfăşurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr.196/2016 privind venitul minim de incluziune şi de către părinţii apţi de muncă obligaţi la întreţinerea copilului în condiţiile stabilite de Codul civil
+
+HCL Viișoara nr. 17/2024 · 1 versions, from 2024-03-15 (latest in force: 2024-03-15) · <https://emol.ro/viisoara-bh/registru-hcl/147049>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-bihor--viisoara-17-2024` (tags `hcl-bihor--viisoara-17-2024/<day>`; `python tools/on.py <day> hcl-bihor--viisoara-17-2024`).
+
+## Decisions made by hand
+
+- HCL Viișoara nr. 17/2024: listed from Consiliul Local al Comunei Viișoara (emol.ro); an individual decision: metadata only.
+- HCL Viișoara nr. 17/2024: dated from 15 March 2024, the day the council's register gives it as published (adopted 26 February 2024).
+- HCL Viișoara nr. 17/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

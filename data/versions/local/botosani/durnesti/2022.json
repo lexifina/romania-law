@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/durnesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-botosani--durnesti-29-2022",
+   "path": "local/botosani/durnesti/2022/29",
+   "short": "HCL Durnești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 29/2022",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-29-20.07.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-29-20.07.2022.pdf",
+     "sha256": "13c9cfbb0265c1d5e3ef779358ea87b1578f0a5f1d31529f5bdf8f4a0519c05b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-33-2022",
+   "path": "local/botosani/durnesti/2022/33",
+   "short": "HCL Durnești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 33/2022",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-33-23.09.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-33-23.09.2022.pdf",
+     "sha256": "48e8c32089941869c611c3b889a096b01d7416d2dfe30aadeb85668ee0288904"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-57-2022",
+   "path": "local/botosani/durnesti/2022/57",
+   "short": "HCL Durnești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 57/2022",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-57-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-57-28.12.2022.pdf",
+     "sha256": "698e8425b2ecd576755ecb5cd816a077cde5753715ffdd9ce8e1b24994d81c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--durnesti-9-2022",
+   "path": "local/botosani/durnesti/2022/9",
+   "short": "HCL Durnești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Durnești nr. 9/2022",
+   "url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-9-10.02.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-9-10.02.2022.pdf",
+     "sha256": "f4eb37c817e923cb89ef9ab234d2e6971f7d359b948a3e2c7b2833de2c171386"
+    }
+   ]
+  }
+ ]
+}

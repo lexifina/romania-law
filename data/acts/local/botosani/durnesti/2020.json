@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/botosani/durnesti/2020",
+"acts": [
+{
+"slug": "hcl-botosani--durnesti-7-2020",
+"path": "local/botosani/durnesti/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 7/2020",
+"short": "HCL Durnești nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-7-20.02.2020.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--durnesti-11-2020",
+"path": "local/botosani/durnesti/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 11/2020",
+"short": "HCL Durnești nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-11-24.03.2020.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--durnesti-40-2020",
+"path": "local/botosani/durnesti/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 40/2020",
+"short": "HCL Durnești nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2023/05/HCL-nr.-40-23.09.2020.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

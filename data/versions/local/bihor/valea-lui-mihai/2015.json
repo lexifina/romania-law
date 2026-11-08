@@ -3,6 +3,186 @@
  "shard": "local/bihor/valea-lui-mihai/2015",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-1-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/1",
+   "short": "HCL Valea lui Mihai nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 1/2015 privind aprobarea procesului verbal al ședinței din 30 decembrie 2014 și a Ordinii de zi a ședinței extraordinare din 09 ianuarie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă proces",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.001-din-09.01.2015.pdf",
+     "sha256": "56a15038e6388619bd11a511d61fd2e44e0f0c1fe4d075012527c1c178bd1025"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-10-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/10",
+   "short": "HCL Valea lui Mihai nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 10/2015 privind aprobarea procesului verbal al ședinței din 30 ianuarie 2015 și a Ordinii de zi a ședinței de îndată din 09 februarie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul v",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-010-din-09.02.2015.pdf",
+     "sha256": "b36bc2a77b8b0b01ac69c064f8a0c397cd012e6242de442bdf5e4cd2a96e4947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-100-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/100",
+   "short": "HCL Valea lui Mihai nr. 100/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 100/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.100-din-23.12.2015.pdf",
+     "sha256": "59d3dd50b05c1b7091150991d6159f36893dfae305dafe1dc4731081f8bd37ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-101-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/101",
+   "short": "HCL Valea lui Mihai nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 101/2015 privind aprobarea procesului verbal al ședinței din 25 noiembrie 2015 și a Ordinii de zi a ședinței ordinare din 23 decembrie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul v",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.101-din-23.12.2015.pdf",
+     "sha256": "4355bfc5afc18bcebd2bddbcc729cc48b15f95bac994cd19771f27f9d94835fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-102-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/102",
+   "short": "HCL Valea lui Mihai nr. 102/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 102/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.102-din-23.12.2015.pdf",
+     "sha256": "cf79dff011cad18238d0214e51d8f167e6dbe00b92539c938feb825577b8cdfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-103-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/103",
+   "short": "HCL Valea lui Mihai nr. 103/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 103/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.103-din-23.12.2015.pdf",
+     "sha256": "8732096d7df5bae04e5eec78b8615a919515cdd73e60182f9561db647528b846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-104-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/104",
+   "short": "HCL Valea lui Mihai nr. 104/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 104/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.104-din-23.12.2015.pdf",
+     "sha256": "eec8088789bd219a4c88e9e7d976903cc1d783a025ff76a2f179f737b249d7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-105-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/105",
+   "short": "HCL Valea lui Mihai nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 105/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.105-din-23.12.2015.pdf",
+     "sha256": "3a78a659f70e2dc82c826a316b6adc4044163ae6ba2a755bab46febcdd93451c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-106-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/106",
+   "short": "HCL Valea lui Mihai nr. 106/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 106/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.106-din-23.12.2015.pdf",
+     "sha256": "759598a9370886043c7418740cd1734ddf75ec5e853389b426f2efc6a75f8d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-107-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/107",
+   "short": "HCL Valea lui Mihai nr. 107/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 107/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-23",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.107-din-23.12.2015.pdf",
+     "sha256": "b8da5444df5d0bbedb8f1b5c9087ba5d8e76308790ad12e1ad390381f9a34dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-11-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/11",
+   "short": "HCL Valea lui Mihai nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 11/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-011-din-09.02.2015.pdf",
+     "sha256": "c5b8c8ec285b4c71d778254d608c0992c730d9523483b9f28a703be2fa79f9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-12-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/12",
+   "short": "HCL Valea lui Mihai nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 12/2015 privind aprobarea procesului verbal al ședinței din 09 februarie 2015 și a Ordinii de zi a ședinței ordinare din 27 februarie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul v",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.012-din-27.02.2015.pdf",
+     "sha256": "ccda9dbd78dfa46ba2654de8bafc6bafc47028c3e4413d81ca013b42b01badbe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-14-2015",
    "path": "local/bihor/valea-lui-mihai/2015/14",
    "short": "HCL Valea lui Mihai nr. 14/2015",
@@ -14,6 +194,66 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.014-din-27.02.2015.pdf",
      "sha256": "a38fb4676013153714d721cc617a3603761b2619ad27c20392ded99896e21d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-15-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/15",
+   "short": "HCL Valea lui Mihai nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 15/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.015-din-27.02.2015.pdf",
+     "sha256": "8817000e9130a7f3f155d9d6146ada7931ef226682db445a45266a36523d2894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-16-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/16",
+   "short": "HCL Valea lui Mihai nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 16/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.016-din-27.02.2015.pdf",
+     "sha256": "3c40eab8372e2c91e8b9fad613e22362673b73c23e4037bfc0776810a6af570d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-17-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/17",
+   "short": "HCL Valea lui Mihai nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 17/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.017-din-27.02.2015.pdf",
+     "sha256": "0267df0b9a2432d90514bf478d785cd8ac85f9fc61283b7cb2150a03c9763e7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-18-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/18",
+   "short": "HCL Valea lui Mihai nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 18/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.018-din-27.02.2015.pdf",
+     "sha256": "06b8cae39a3f85204da2f429f95bf442bb0b69daacb6f203683d3eee0373c9fd"
     }
    ]
   },
@@ -33,6 +273,231 @@
    ]
   },
   {
+   "slug": "hcl-bihor--valea-lui-mihai-2-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/2",
+   "short": "HCL Valea lui Mihai nr. 2/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 2/2015 privind aprobarea utilizării din excedentul bugetar al anului 2014, a sumei de 552.780,13 lei pentru acoperirea definitivă a deficitului secțiunii de dezvoltare și utilizarea excedentului bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii din anul 2014 ca sursă de finanțare a cheltuielilor secțiunii de funcționare și secțiunii de dezvoltare în anul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.002-din-09.01.2015.pdf",
+     "sha256": "c925490fa02383319670f2bcb212619c5fd3b4cac2f03a40f7a586bb96af64e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-20-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/20",
+   "short": "HCL Valea lui Mihai nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 20/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.020-din-27.02.2015.pdf",
+     "sha256": "8136c5e9cb701d7980e9da2a2fa2d202677deda589a6ac0ab97c52911f2107cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-21-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/21",
+   "short": "HCL Valea lui Mihai nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 21/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.021-din-27.02.2015-.pdf",
+     "sha256": "4535e2a9beb3b7a649e024e5e6acb081f882471357e1f4f334873457c3ea70b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-22-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/22",
+   "short": "HCL Valea lui Mihai nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 22/2015 privind aprobarea listei de soluționare a cererilor de locuințe și stabilirea ordinii de prioritate pentru repartizarea locuințelor pentru tineri, construite prin programul ANL destinate închirierii în orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.022-din-27.02.2015.pdf",
+     "sha256": "f97481138442084ef9e2a50b24f8204d6df6802226bc21b2e39669cda1d3ae0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-23-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/23",
+   "short": "HCL Valea lui Mihai nr. 23/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 23/2015 privind prelungirea unor contracte de închiriere locuințe tip ANL și rezilierea unui contract de închiriere locuință tip A.N.L",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.023-din-27.02.2015.pdf",
+     "sha256": "8ed8e1f8a25d88656fab43b6a9840d2114eae328bcee171c59dbac5bc5f2bb4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-24-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/24",
+   "short": "HCL Valea lui Mihai nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 24/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.024-din-27.02.2015-.pdf",
+     "sha256": "b74aa8b8eb935f838fde8fc96b56b73a16c1ff9700d5f2922812881d4757f2d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-25-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/25",
+   "short": "HCL Valea lui Mihai nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 25/2015 privind aprobarea procesului verbal al ședinței din 27 februarie 2015 și a Ordinii de zi a ședinței ordinare din 30 martie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verb",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.025-din-30.03.2015.pdf",
+     "sha256": "756412c78f2bb098a2f1a316771ffec237cce9a652c82055dc48a3564cf49f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-26-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/26",
+   "short": "HCL Valea lui Mihai nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.026-din-30.03.2015.pdf",
+     "sha256": "c77a3c51180bbc5dbd3f88474c1b7c77f2113c9c37a41ce5a57d3070362b4136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-27-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/27",
+   "short": "HCL Valea lui Mihai nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 27/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.027-din-30.03.2015.pdf",
+     "sha256": "843888024e7461c78db913c235976da1615b4a7d9383581da8b48933719674d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-28-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/28",
+   "short": "HCL Valea lui Mihai nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 28/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.028-din-30.03.2015I.pdf",
+     "sha256": "c6f421f878c51f765634737934f24ba570cfcce4d7ddbc3d857d22e48b4e033e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-29-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/29",
+   "short": "HCL Valea lui Mihai nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 29/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.029-din-30.03.2015.pdf",
+     "sha256": "7687d70907febaf97d4401b2ff451e972807238a54aa3671fe88cde14b8707ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-3-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/3",
+   "short": "HCL Valea lui Mihai nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 3/2015 privind aprobarea procesului verbal al ședinței din 09 ianuarie 2015 și a Ordinii de zi a ședinței ordinare din 30 ianuarie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul ver",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-003-din-30.01.2015.pdf",
+     "sha256": "6fa345071fb8d4c5a818a8e4c7408c79301972c5e73c2d47c2c28c81b1415333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-30-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/30",
+   "short": "HCL Valea lui Mihai nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.030-din-30.03.2015.pdf",
+     "sha256": "969243c18d6e35d939f67d55e4587250dbf7afe14aa172dda4509fe53a3161d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-31-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/31",
+   "short": "HCL Valea lui Mihai nr. 31/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 31/2015 privind aprobarea procesului verbal al ședinței din 30 martie 2015 și a Ordinii de zi a ședinței ordinare din 29 aprilie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verbal",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.031-din-29.04.2015.pdf",
+     "sha256": "d58421e8f486958cc25fdbf4b20ec4ed1297177532a7d7bc4e3b2e37bf5a7347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-32-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/32",
+   "short": "HCL Valea lui Mihai nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 32/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.032-din-29.04.2015.pdf",
+     "sha256": "ed2364f0799078d1ad89f5b5267915299cf08ccd9b7c11d819d759669d06dc98"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-33-2015",
    "path": "local/bihor/valea-lui-mihai/2015/33",
    "short": "HCL Valea lui Mihai nr. 33/2015",
@@ -44,6 +509,1026 @@
      "units": 1,
      "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.033-din-29.04.2015.pdf",
      "sha256": "3f4077516b874a3d74c51957a47f4ff4b1af500e89635bb678f0556d9726782c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-34-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/34",
+   "short": "HCL Valea lui Mihai nr. 34/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 34/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.034-din-29.04.2015.pdf",
+     "sha256": "d2eb4a7b87cb53871894024b836a1230dac435b1700a21c1f6463fdac4bc4152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-36-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/36",
+   "short": "HCL Valea lui Mihai nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 36/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.036-din-29.04.2015.pdf",
+     "sha256": "ffc143531f4c0c811f6b37e1b131e35b1112ef4894f38fb4affca4f2d5734b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-37-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/37",
+   "short": "HCL Valea lui Mihai nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 37/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.037-din-29.04.2015.pdf",
+     "sha256": "3116615ccb8b7a245c787132e7ec864b74952a9cdf71d4edac0ccb0996221892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-38-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/38",
+   "short": "HCL Valea lui Mihai nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 38/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.038-din-29.04.2015.pdf",
+     "sha256": "68e947a5b14aba839417afe06bf1657d7622c7abc544f311fc56d08660341b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-39-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/39",
+   "short": "HCL Valea lui Mihai nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 39/2015 privind aprobarea procesului verbal al ședinței din 29 aprilie 2015 și a Ordinii de zi a ședinței ordinare din 28 mai 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verbal al",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.039-din-28.05.2015.pdf",
+     "sha256": "b091131f9440a3a6a4c71b9ca6fddf4132783815f44e4875f84fcf9c21351662"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-4-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/4",
+   "short": "HCL Valea lui Mihai nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 4/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-004-din-30.01.2015.pdf",
+     "sha256": "e161f3dd77e5478ba341ab46aef214e4c10cf3b99d274fe412c8b58b9eb7e4c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-40-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/40",
+   "short": "HCL Valea lui Mihai nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 40/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.040-din-28.05.2015.pdf",
+     "sha256": "2b4f5b638ac10f5d3953b5785a6cb2517a1870931f4161b608b626b4346e19f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-41-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/41",
+   "short": "HCL Valea lui Mihai nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 41/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.041-din-28.05.2015.pdf",
+     "sha256": "773ff823d05d12958e2cb71a4e1020df3a8e805b98cc8cbb3966e34fddb308b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-42-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/42",
+   "short": "HCL Valea lui Mihai nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 42/2015 privind numirea a doi consilieri locali care să facă parte din comisia de cercetare administrativă pentru stabilirea responsabilității persoanelor care prin activitatea necorespunzătoare a condus la acțiuni în instanță cu consecințe asupra efectuării unor plăți în baza Sentinței nr.910/CA/2010 pronunțată de Tribunalul Bihor – Oradea, în dos. nr.2348/111/2010 rămasă definitivă prin Decizia nr.2246/",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.042-din-28.05.2015.pdf",
+     "sha256": "62ebbbecec32f1285c46f5058a4176f9295e1806642e63d70baf8333206e06d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-43-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/43",
+   "short": "HCL Valea lui Mihai nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 43/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.043-din-28.05.2015.pdf",
+     "sha256": "1d2e9a5fd18c8930a607633054022e99bda62ba91a53b516db584b17305a875c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-44-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/44",
+   "short": "HCL Valea lui Mihai nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 44/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.044-din-28.05.2015.pdf",
+     "sha256": "f744b3c6e4d1e9f9aeaa39543ac3658ca69ef2923849308d5f8546e04a827d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-45-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/45",
+   "short": "HCL Valea lui Mihai nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 45/2015 privind aprobarea procesului verbal al ședinței din 28 mai 2015 și a Ordinii de zi a ședinței ordinare din 30 iunie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verbal al ș",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.045-din-30.06.2015.pdf",
+     "sha256": "cbbde9c0a509bef5081d5e83d85eb9719ee35dcbccb88e722505a25af1874256"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-46-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/46",
+   "short": "HCL Valea lui Mihai nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 46/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.046-din-30.06.2015.pdf",
+     "sha256": "6cefaf31fcfd54c4e31383e0f074f7fe5ec8129ece6edb29a0e92ea9fb72340f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-47-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/47",
+   "short": "HCL Valea lui Mihai nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 47/2015 privind aprobarea închirierii, prin licitație publică a unui spațiu – proprietate publică a orașului Valea lui Mihai, din imobilul situat pe str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.047-din-30.06.2015.pdf",
+     "sha256": "626668568b1ea0c625cbd69db4c6be703638a63afe4264dc75e6e6dffe78303e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-48-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/48",
+   "short": "HCL Valea lui Mihai nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 48/2015 privind aprobarea listei de soluționare a cererilor de locuințe și stabilirea ordinii de prioritate pentru repartizarea locuințelor pentru tineri, construite prin programul ANL destinate închirierii în orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.048-din-30.05.2015-.pdf",
+     "sha256": "4b2c143aa46de4725412e25fdb5f4fbe629e623c17cd8f3b8ebe16ac02b461ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-49-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/49",
+   "short": "HCL Valea lui Mihai nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 49/2015 privind prelungirea unui contract de închiriere locuință tip ANL, rezilierea unui contract de închiriere locuință tip ANL și repartizarea unor locuințe tip ANL situate în Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.049-din-30.06.2015.pdf",
+     "sha256": "9582bbf22dfbe6b5642f7e0279eda81a6c744aede1472c068ee3966e8876a916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-5-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/5",
+   "short": "HCL Valea lui Mihai nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 5/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-005-din-30.01.2015.pdf",
+     "sha256": "6a63fa41f854e30dde651bff229fb0c36be78c49b9ce065a0641a8a1adfca1c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-50-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/50",
+   "short": "HCL Valea lui Mihai nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 50/2015 privind prelungirea unor contracte de închiriere locuință socială",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.050-din-30.06.2015..pdf",
+     "sha256": "65daccd0dde640dea04eae7e9ea546ce6cba96953b6572498f1bfe598eac366a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-51-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/51",
+   "short": "HCL Valea lui Mihai nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 51/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.051-din-30.06.2015.pdf",
+     "sha256": "8651416de358141ea049cf543fd7faf64f3e677a2a473b25c111f6355a685820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-52-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/52",
+   "short": "HCL Valea lui Mihai nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 52/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.052-din-30.06.2015.pdf",
+     "sha256": "dd6e5129af4a5544dc892baacf82a873b21f7a60aca9cf7eee0be54b42e79735"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-53-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/53",
+   "short": "HCL Valea lui Mihai nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 53/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.053-din-30.06.2015.pdf",
+     "sha256": "2c679312c3ea73fc13fd6b105b5c77dec4ef23ff8754409dd316171ebdf19736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-54-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/54",
+   "short": "HCL Valea lui Mihai nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 54/2015 privind aprobarea procesului verbal al ședinței din 30 iunie 2015 și a Ordinii de zi a ședinței ordinare din 31 iulie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verbal al",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.054-din-31.07.2015.pdf",
+     "sha256": "63395e6b1b58b8df21663c000f0a8d08aab2849c3bda8743bd18af674b45aa0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-55-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/55",
+   "short": "HCL Valea lui Mihai nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 55/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.055-din-31.07.2015.pdf",
+     "sha256": "0d95d9489f71c2c96035481c6c2e971cf0db510bb3f4e4ef92198002a5350a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-56-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/56",
+   "short": "HCL Valea lui Mihai nr. 56/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.056-din-31.07.2015.pdf",
+     "sha256": "9d8b4a006d85f2b6ec888509fc54c84bcddf8f003a9c208256e86fbf82c27189"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-57-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/57",
+   "short": "HCL Valea lui Mihai nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 57/2015 privind aprobarea listei de soluționare a cererilor de locuințe și stabilirea ordinii de prioritate pentru repartizarea locuințelor pentru tineri, construite prin programul ANL destinate închirierii în orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.057-din-31.07.2015.pdf",
+     "sha256": "f257f6b4a87b2fa56393d093294118ac730a5d5fb1b3c30ab2072064bdee13ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-58-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/58",
+   "short": "HCL Valea lui Mihai nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 58/2015 privind rezilierea unor contracte de închiriere locuință tip ANL și repartizarea unor locuințe tip ANL situate în Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.058-din-31.07.2015.pdf",
+     "sha256": "6ec9a34fda66207fb8080bd06973c004819027b72a1a2e501b00ba28f3449f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-59-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/59",
+   "short": "HCL Valea lui Mihai nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 59/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.059-din-31.07.2015..pdf",
+     "sha256": "eed69e0ecfbc28dc875e5356cd4e8643cdcb2029dddf48a583b3276e69b0771f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-6-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/6",
+   "short": "HCL Valea lui Mihai nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-006-din-30.01.2015.pdf",
+     "sha256": "e6372fe5653f51761a438e1f6abd30549982ff58264c46bff176750a123720c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-60-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/60",
+   "short": "HCL Valea lui Mihai nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 60/2015 privind aprobarea procesului verbal al ședinței din 31 iulie 2015 și a Ordinii de zi a ședinței ordinare din 28 august 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul verbal a",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.060-din-28.08.2015.pdf",
+     "sha256": "0766aaa6df23ae60a53ff73fa9a0b2d83824c7978cf8c6551730f1c84486f60c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-61-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/61",
+   "short": "HCL Valea lui Mihai nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 61/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.061-din-28.08.2015.pdf",
+     "sha256": "24fe2d3ac1e672d4acad337e97b7d678ef75160ca44b377e51b08aa3f77881be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-62-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/62",
+   "short": "HCL Valea lui Mihai nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 62/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.062-din-28.08.2015.pdf",
+     "sha256": "8150c523c2e41cdd7767ccfe52563100ae2f9f03c93dbc1a709616fded1868fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-63-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/63",
+   "short": "HCL Valea lui Mihai nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 63/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.063-din-28.08.2015.pdf",
+     "sha256": "8fc8cead1ee716609baeb8862e760cda93678e7853dbd7c93ec852cc5ac9cdb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-64-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/64",
+   "short": "HCL Valea lui Mihai nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 64/2015 privind aprobarea prelungirii Contractului de închiriere nr.2995/2012, pentru imobilul situat în Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.064-din-28.08.2015.pdf",
+     "sha256": "8a8ae1b245192c5bd52f3472b5521abf52c05238bfe69e4a5c4e06ded2fcce26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-65-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/65",
+   "short": "HCL Valea lui Mihai nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 65/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.065-din-29.08.2015.pdf",
+     "sha256": "c31b8c4584a2ccb25add1c9579e9871fd0809738b638277b8560f767edf53959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-66-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/66",
+   "short": "HCL Valea lui Mihai nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 66/2015 privind aprobarea procesului verbal al ședinței din 28 august 2015 și a Ordinii de zi a ședinței de îndată din 16 septembrie 2015 Consiliul Local al Orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul ve",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.066-din-16.09.2015.pdf",
+     "sha256": "72da568e0458ef51ac12cbbd4d61491209d5d3903570f9cc4997550cbad44505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-67-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/67",
+   "short": "HCL Valea lui Mihai nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.067-din-16.09.2015.pdf",
+     "sha256": "04e3448ca93936ad702f665c2c5bf3cf13926999883d5042a26b8747453f66d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-68-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/68",
+   "short": "HCL Valea lui Mihai nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 68/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.068-din-16.09.2015.pdf",
+     "sha256": "8ec0bbe4603c16c0942fe73b04ed676b47ca9803591e8bde8574f14c45ea89f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-69-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/69",
+   "short": "HCL Valea lui Mihai nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 69/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.069-din-16.09.2015.pdf",
+     "sha256": "0927b7d876a93c73ac355c9b05119e994b3f8292829a61a6c6360b4a2a29e05f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-7-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/7",
+   "short": "HCL Valea lui Mihai nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 7/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-007-din-30.01.2015.doc",
+     "sha256": "2fdbbd50777d73782a5a02d619dab4fc88532cfdb56352de78f36e6a9bc12f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-70-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/70",
+   "short": "HCL Valea lui Mihai nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 70/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-16",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.070-din-16.09.2015.pdf",
+     "sha256": "ce3972eb2094aa652ad810949be343d8087cb26fde4b2f7a5cffa4b0c2075acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-71-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/71",
+   "short": "HCL Valea lui Mihai nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 71/2015 privind aprobarea procesului verbal al ședinței din 16 septembrie 2015 și a Ordinii de zi a ședinței ordinare din 30 septembrie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.071-din-30.09.2015.pdf",
+     "sha256": "f81c3ac32f5e80882df14c4a9e8b46003f271c8db7fab92d9fae36f7ef134e66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-72-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/72",
+   "short": "HCL Valea lui Mihai nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 72/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.072-din-30.09.2015.pdf",
+     "sha256": "7d5c1fe3cc216f6486179d83e74a317eebb732f885afc2670239d9b3cbaefd63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-73-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/73",
+   "short": "HCL Valea lui Mihai nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 73/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.073-din-30.09.2015-.pdf",
+     "sha256": "8f267eda1d8d257683e6f137a7f95dcb652fc0721576ba64ef5aed035dc68e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-74-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/74",
+   "short": "HCL Valea lui Mihai nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 74/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.074-din-30.09.2015.pdf",
+     "sha256": "a13ff48917bdd51bf84b9d91f9f0437d93ab6880560b35742c25e30d7d527d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-75-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/75",
+   "short": "HCL Valea lui Mihai nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 75/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.075-din-30.09.2015.pdf",
+     "sha256": "8e9e28e3125d7f04aa021cbb5c25ac52a3690785febac14d84204ca41a69f80c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-76-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/76",
+   "short": "HCL Valea lui Mihai nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.076-din-30.09.2015.pdf",
+     "sha256": "b8efab7061c2bb5ee21e08094fda99e6bf6f013b7a1ab1e96ac2369ca9fc7c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-77-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/77",
+   "short": "HCL Valea lui Mihai nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 77/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.077-din-30.09.2015.pdf",
+     "sha256": "70f70bc0e205afabd1a0ef9235a180b14cce3670a3006b95ee09d8599983da9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-78-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/78",
+   "short": "HCL Valea lui Mihai nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 78/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.078-din-30.09.2015.pdf",
+     "sha256": "d78642580f53e6b0979a4a26f8916317e33357d26340e1b34c6bb98a4cd03a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-79-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/79",
+   "short": "HCL Valea lui Mihai nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 79/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.079-din-30.09.2015.pdf",
+     "sha256": "b080da0a65b5a72b4715c802297e9166c1b430d0bd6b8a72f8bdea07d6277695"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-8-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/8",
+   "short": "HCL Valea lui Mihai nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 8/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/07/hot.-008-din-30.01.2015.pdf",
+     "sha256": "2e4360abf3206b26f99f45310d9de2ec581a7cadb0661b4a126dd7efec21b907"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-80-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/80",
+   "short": "HCL Valea lui Mihai nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 80/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.080-din-30.09.2015-.pdf",
+     "sha256": "76cddbc2cfc8e3b0db746c49a6ebdd433572cd685b5a4608ab351b924300751e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-81-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/81",
+   "short": "HCL Valea lui Mihai nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 81/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.081-din-30.09.2015.pdf",
+     "sha256": "a48c64c036d135acc6b93a94550603e0c314c3fc47b8b0f9d4d276f5c4bb6c16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-82-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/82",
+   "short": "HCL Valea lui Mihai nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 82/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.082-din-30.09.2015.pdf",
+     "sha256": "2a8968ff4973bac133d75b9d3c630cfee5ff4bf46f4e0f95ca401126396cf04e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-83-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/83",
+   "short": "HCL Valea lui Mihai nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 83/2015 privind aprobarea procesului verbal al ședinței din 30 septembrie 2015 și a Ordinii de zi a ședinței ordinare din 30 octombrie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.083-din-30.10.2015.pdf",
+     "sha256": "857e7e80482be01bc3a1b2c83ce1bcf8549b6de40345281ad5a2628e75f3fd40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-85-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/85",
+   "short": "HCL Valea lui Mihai nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 85/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.085-din-30.10.2015-.pdf",
+     "sha256": "633a93aa56b0c3bcc1b92392940943aeb69d26b17ae00a0ce1c8a4af17e7584b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-86-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/86",
+   "short": "HCL Valea lui Mihai nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 86/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.086-din-30.10.2015.pdf",
+     "sha256": "7a513fb5c4a47d0b367c3c504d00f74f4e046bcf41593b43b9e7a998f7c77ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-87-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/87",
+   "short": "HCL Valea lui Mihai nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 87/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.087-din-30.10.2015.pdf",
+     "sha256": "dd575eb98430a3325fd8695ce5b1a94e65740c26c9885a542b4c398b6aefc0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-88-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/88",
+   "short": "HCL Valea lui Mihai nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 88/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.088-din-30.10.2015.pdf",
+     "sha256": "f79508c1a4f60cb69971135311e525bfab8e2e1cff774974a9d604df1195dfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-89-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/89",
+   "short": "HCL Valea lui Mihai nr. 89/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 89/2015 privind aprobarea procesului verbal al ședinței din 30 octombrie 2015 și a Ordinii de zi a ședinței extraordinare din 10 noiembrie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă proce",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.089-din-10.11.2015.pdf",
+     "sha256": "d9cf34171042447a07a0fd13899489351023da82ff1590acdef97a7ae9045a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-91-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/91",
+   "short": "HCL Valea lui Mihai nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 91/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.091-din-10.11.2015.pdf",
+     "sha256": "f74b252e07e13e0930569d8347e28c119686cdea12913cb05967a2170a64c71d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-92-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/92",
+   "short": "HCL Valea lui Mihai nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 92/2015 privind aprobarea procesului verbal al ședinței din 10 noiembrie 2015 și a Ordinii de zi a ședinței ordinare din 25 noiembrie 2015 Consiliul Local al orașului Valea lui Mihai, În baza art.42 alin.(5), art.43, art.45 alin.(1) și art.115 alin.(1) lit. b din Legea administrației publice locale nr.215/2001 – republicată, cu modificările și completările ulterioare, HOTĂRĂȘTE Art.1: Se aprobă procesul v",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.092-din-25.11.2015.pdf",
+     "sha256": "cfccc7570a51dd8c02b03a36fd7bc251cc96c6a27d1ca833172d2d948cc8e512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-93-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/93",
+   "short": "HCL Valea lui Mihai nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 93/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.093-din-25.11.2015.pdf",
+     "sha256": "3e505c10cfe0ccd58bc7ebc7e9965c155ea40a74ec5fb5dba76651bb05c4dbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-94-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/94",
+   "short": "HCL Valea lui Mihai nr. 94/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 94/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.094-din-25.11.2015.pdf",
+     "sha256": "b8d8daf2e82779cd5fc5b54a6ee138fb291466cdcd647a9db57e6a2873b8ae8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-95-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/95",
+   "short": "HCL Valea lui Mihai nr. 95/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 95/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.095-din-25.11.2015.pdf",
+     "sha256": "ea82fe59b7754f607c64c127c1f661769aceb099c7225c68d2be90dcad69ca5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-96-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/96",
+   "short": "HCL Valea lui Mihai nr. 96/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 96/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.096-din-25.11.2015.pdf",
+     "sha256": "144d22adb27f9be4337183ebcba0d44816b3664b81bbf536ee4236e6c19cc05d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-97-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/97",
+   "short": "HCL Valea lui Mihai nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 97/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.097-din-25.11.2015.pdf",
+     "sha256": "2dfd93d0c3a684a6333e4e8f26c99652d850cd41e5b779cf68034510ddc0d256"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-98-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/98",
+   "short": "HCL Valea lui Mihai nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 98/2015 privind rezilierea și prelungirea unor contracte de închiriere locuințe tip ANL destinate închirierii,situate în Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.098-din-25.11.2015-.pdf",
+     "sha256": "9689a48da5fd485ef4603a6f9106bfe56afc68564c7f9efbe9be16c949d7cf99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-99-2015",
+   "path": "local/bihor/valea-lui-mihai/2015/99",
+   "short": "HCL Valea lui Mihai nr. 99/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 99/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/08/hot.099-din-25.11.2015.pdf",
+     "sha256": "c8b1b4b190e74bea4afd1d318248c793164d3c564735a64c952983525b7e61b9"
     }
    ]
   }

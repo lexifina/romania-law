@@ -575,6 +575,50 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--romuli-27-2025",
+"path": "local/bistrita-nasaud/romuli/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 27/2025 privind aprobarea actului adiţional nr. 7 la Contractul de închiriere nr. 1635 din 02.05.2018 încheiat între Comuna Romuli şi Asociaţia Crescătorilor de Taurine Romuli",
+"short": "HCL Romuli nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/219825",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-28-2025",
+"path": "local/bistrita-nasaud/romuli/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 28/2025 privind punerea la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii, în cadrul obiectivului de investiții „Înfințare distribuție gaze naturale în comunele Salva, Coșbuc, Telciu, Runcu-Salvei și Romuli, județul Bistrița-Năsăud. Sisteme inteligente de alimentare cu gaze naturale” - aprobat pentru finantare prin Programul National de Investitii ,, Anghel Saligny”",
+"short": "HCL Romuli nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/219826",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--romuli-29-2025",
 "path": "local/bistrita-nasaud/romuli/2025/29",
 "kind": "local",
@@ -638,6 +682,52 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-32-2025",
+"path": "local/bistrita-nasaud/romuli/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 32/2025",
+"short": "HCL Romuli nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/219833",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-33-2025",
+"path": "local/bistrita-nasaud/romuli/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 33/2025",
+"short": "HCL Romuli nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/219834",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -946,6 +1036,28 @@
 "council_name": "Consiliul Local al Comunei Romuli",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--romuli-48-2025",
+"path": "local/bistrita-nasaud/romuli/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Romuli nr. 48/2025 privind modificarea si completarea Hotărârii Consiliului local Romuli nr. 28 din 30.09.2025 privind punerea la dispoziția concesionarului a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii, în cadrul obiectivului de investiții „Înfințare distribuție gaze naturale în comunele Salva, Coșbuc, Telciu, Runcu-Salvei și Romuli, județul Bistrița-Năsăud. Sisteme inteligente de alimentare cu gaze naturale” - aprobat pentru finantare prin Programul National de Investitii ,, Anghel Saligny”",
+"short": "HCL Romuli nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/romuli-bn/registru-hcl/237639",
+"council": "bistrita-nasaud/romuli",
+"council_name": "Consiliul Local al Comunei Romuli",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

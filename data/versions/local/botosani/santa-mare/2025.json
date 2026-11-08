@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/santa-mare/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--santa-mare-1-2025",
+   "path": "local/botosani/santa-mare/2025/1",
+   "short": "HCL Santa Mare nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 1/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.1-din-30.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.1-din-30.01.2025.pdf",
+     "sha256": "8fa0ff93e62194e9f8ccd38de3e52e663efe5db2730481fd2d88b13b5dbc8e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-10-2025",
+   "path": "local/botosani/santa-mare/2025/10",
+   "short": "HCL Santa Mare nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 10/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.10-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.10-din-27.02.2025.pdf",
+     "sha256": "cd7015ee9cfc57305c9f2c9f9a7d7d97028246819ac2838c1eccb01a265a2f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-11-2025",
+   "path": "local/botosani/santa-mare/2025/11",
+   "short": "HCL Santa Mare nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 11/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.11-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.11-din-21.03.2025.pdf",
+     "sha256": "bc14a33d4421617d9afcd4f6d45558f4d00a7b25f52bbfb343ec67df29a419a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-12-2025",
+   "path": "local/botosani/santa-mare/2025/12",
+   "short": "HCL Santa Mare nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 12/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.12-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.12-din-21.03.2025.pdf",
+     "sha256": "935bac9f81436eb5bfe268f242fbd5432e07635f2e5e03c918131094bd066745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-13-2025",
+   "path": "local/botosani/santa-mare/2025/13",
+   "short": "HCL Santa Mare nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 13/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.13-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.13-din-21.03.2025.pdf",
+     "sha256": "67b3f28ddd7711bb286261235f6addd75679675d7831f1367a64c0d908fc5389"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-14-2025",
+   "path": "local/botosani/santa-mare/2025/14",
+   "short": "HCL Santa Mare nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 14/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.14-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.14-din-21.03.2025.pdf",
+     "sha256": "7853a6906bc5f5ad6036ed266caa2c39c3b5b7f5c6226b3500f81c41f141fe91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-15-2025",
+   "path": "local/botosani/santa-mare/2025/15",
+   "short": "HCL Santa Mare nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 15/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.15-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.15-din-21.03.2025.pdf",
+     "sha256": "2f2e8d860e2725a29f2f3fb03263022b0aae70ab8a544ed6a7fe5f2620522748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-16-2025",
+   "path": "local/botosani/santa-mare/2025/16",
+   "short": "HCL Santa Mare nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 16/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.16-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.16-din-16.04.2025.pdf",
+     "sha256": "59b78dd0ab71fcf42f7cecc8a257b17ac53986778082e09a761a9d2f8b5f8d3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-17-2025",
+   "path": "local/botosani/santa-mare/2025/17",
+   "short": "HCL Santa Mare nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 17/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.17-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.17-din-16.04.2025.pdf",
+     "sha256": "ef21bb785ca2020b079d8b4917146917e3a17a4ede3a102f0400ab2f276e72db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-18-2025",
+   "path": "local/botosani/santa-mare/2025/18",
+   "short": "HCL Santa Mare nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 18/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.18-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.18-din-16.04.2025.pdf",
+     "sha256": "5ec922a1f3d4321c32f38f7851625515f5885d45dd824c9928053220a366623f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-19-2025",
+   "path": "local/botosani/santa-mare/2025/19",
+   "short": "HCL Santa Mare nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 19/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.19-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.19-din-16.04.2025.pdf",
+     "sha256": "3bdfcbd82be4df9ffb6f3b3bc00b0caf453a4e83a19b34b5d0941bd62198e804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-2-2025",
+   "path": "local/botosani/santa-mare/2025/2",
+   "short": "HCL Santa Mare nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 2/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.2-din-30.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.2-din-30.01.2025.pdf",
+     "sha256": "a11ee396a8dc7e2736a8ad7388df3606a4d0b27396e43168049f71b1275d78eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-20-2025",
+   "path": "local/botosani/santa-mare/2025/20",
+   "short": "HCL Santa Mare nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 20/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.20-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.20-din-16.04.2025.pdf",
+     "sha256": "c0a4639c10473c03ef6c483ff1534ab335b5da9a71ac449c31f3e8c74591edf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-21-2025",
+   "path": "local/botosani/santa-mare/2025/21",
+   "short": "HCL Santa Mare nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 21/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.21-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.21-din-16.04.2025.pdf",
+     "sha256": "28623c41d04613bd0f55f69429b3c020362b8e6257068fd2bb6b8392f428ef91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-22-2025",
+   "path": "local/botosani/santa-mare/2025/22",
+   "short": "HCL Santa Mare nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 22/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.22-din-16.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.22-din-16.04.2025.pdf",
+     "sha256": "edea7d0f79b82bb2f31bcb4710450360f33476ea0ff9b7680e3668d27c7d6cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-23-2025",
+   "path": "local/botosani/santa-mare/2025/23",
+   "short": "HCL Santa Mare nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 23/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.23-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.23-din-30.05.2025.pdf",
+     "sha256": "6588ae64150c59840d0f18f8559978ba6eb268b3bc9bfd5b76af5fab05bf89a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-24-2025",
+   "path": "local/botosani/santa-mare/2025/24",
+   "short": "HCL Santa Mare nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 24/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.24-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.24-din-30.05.2025.pdf",
+     "sha256": "5527759e417277d7e2a575e687e2a1c1e042027b749730e3ad861d10cc3bc272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-25-2025",
+   "path": "local/botosani/santa-mare/2025/25",
+   "short": "HCL Santa Mare nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 25/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.25-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.25-din-30.05.2025.pdf",
+     "sha256": "e1785b81aff55cb1cdb5687d3f4f8cafca9b01f9115039f4d6fb17e382c80e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-26-2025",
+   "path": "local/botosani/santa-mare/2025/26",
+   "short": "HCL Santa Mare nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 26/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.26-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.26-din-30.05.2025.pdf",
+     "sha256": "9006380a75e6c3bf2399f7a2bcb891c784ee5039d3f70525540cf8bbebae5815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-27-2025",
+   "path": "local/botosani/santa-mare/2025/27",
+   "short": "HCL Santa Mare nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 27/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.27-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.27-din-30.05.2025.pdf",
+     "sha256": "c323379327d40822d29e8d2d1ce290fd16c182995cf68353e278e3df0c66e4f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-3-2025",
+   "path": "local/botosani/santa-mare/2025/3",
+   "short": "HCL Santa Mare nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 3/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.3-din-30.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.3-din-30.01.2025.pdf",
+     "sha256": "912fc7e4a2ae7c78f68a4378b52210d7cdd62d4b5f0019223476fbbe8969e59d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-4-2025",
+   "path": "local/botosani/santa-mare/2025/4",
+   "short": "HCL Santa Mare nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 4/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.4-din-30.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.4-din-30.01.2025.pdf",
+     "sha256": "67099ef2fcc62ef075c8457c00284c165872ef45a28d88ee19b03322fa96374c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-5-2025",
+   "path": "local/botosani/santa-mare/2025/5",
+   "short": "HCL Santa Mare nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 5/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.5-din-30.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.5-din-30.01.2025.pdf",
+     "sha256": "f50b05f7e6346f13eca4faa7bf0d0f5e441fba1f2d33f6ce47e7649fff419a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-6-2025",
+   "path": "local/botosani/santa-mare/2025/6",
+   "short": "HCL Santa Mare nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 6/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.6-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.6-din-27.02.2025.pdf",
+     "sha256": "cdf64ff4e2cce48fa51e53727ba6946037179f3ec0e98166ee47b4834d0425f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-7-2025",
+   "path": "local/botosani/santa-mare/2025/7",
+   "short": "HCL Santa Mare nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 7/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.7-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.7-din-27.02.2025.pdf",
+     "sha256": "3270a61ac410d1487678e42b3bc3343b25d3793f4de120076bbc096863a8d5d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-8-2025",
+   "path": "local/botosani/santa-mare/2025/8",
+   "short": "HCL Santa Mare nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 8/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.8-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.8-din-27.02.2025.pdf",
+     "sha256": "ab66a43def1b6d8c3b346d586ab9538153047e0c0b284a3b415d2b6fe60bd1ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-83-2025",
+   "path": "local/botosani/santa-mare/2025/83",
+   "short": "HCL Santa Mare nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 83/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/12/HCL-Nr.-83-din-22.12.2025-Stabilire-impozite-si-taxe-locale-2026.pdf",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/12/HCL-Nr.-83-din-22.12.2025-Stabilire-impozite-si-taxe-locale-2026.pdf",
+     "sha256": "6ff82fd0d8c1c5799a2e04ca13a80cdea5d661c2491948514892d9af474770e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--santa-mare-9-2025",
+   "path": "local/botosani/santa-mare/2025/9",
+   "short": "HCL Santa Mare nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Santa Mare nr. 9/2025",
+   "url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.9-din-27.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://santamare.ro/wp-content/uploads/2025/07/HOTARAREA-Nr.9-din-27.02.2025.pdf",
+     "sha256": "45b5bf03fd51f07c40177b4658190a3bf0b32dc0e168eb56708986231ac4651c"
+    }
+   ]
+  }
+ ]
+}

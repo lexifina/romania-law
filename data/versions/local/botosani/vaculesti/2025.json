@@ -3,6 +3,111 @@
  "shard": "local/botosani/vaculesti/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--vaculesti-1-2025",
+   "path": "local/botosani/vaculesti/2025/1",
+   "short": "HCL Văculești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 1/2025 Privind aprobarea Planului de Analiză și Acoperire a Riscurilor ( P.A.A.R.) al Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188921",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-10-2025",
+   "path": "local/botosani/vaculesti/2025/10",
+   "short": "HCL Văculești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 10/2025 privind schimbarea președintelui de ședință pentru ședințele Consiliului Local al Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188930",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-11-2025",
+   "path": "local/botosani/vaculesti/2025/11",
+   "short": "HCL Văculești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 11/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/192913",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/192913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-12-2025",
+   "path": "local/botosani/vaculesti/2025/12",
+   "short": "HCL Văculești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 12/2025 privind aprobarea amplasării și instalării Display-ului interactiv Meeting Board achiziționat în cadrul proiectului „Inovare și promovare în teritoriul GAL Codrii de Aramă“, în sediul primăriei comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/192914",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/192914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-13-2025",
+   "path": "local/botosani/vaculesti/2025/13",
+   "short": "HCL Văculești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 13/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna ianuarie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/194015",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/194015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-14-2025",
+   "path": "local/botosani/vaculesti/2025/14",
+   "short": "HCL Văculești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 14/2025 privind aprobarea Planului de asistență medicală comunitară pentru anul 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/194016",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/194016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-15-2025",
+   "path": "local/botosani/vaculesti/2025/15",
+   "short": "HCL Văculești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 15/2025 privind aprobarea studiul de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Înființare rețea distribuție gaze naturale în comuna Văculești, județul Botoșani”, aprobat pentru finanțare prin Programul Național de investiții ,,Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/194017",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/194017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-16-2025",
    "path": "local/botosani/vaculesti/2025/16",
    "short": "HCL Văculești nr. 16/2025",
@@ -18,6 +123,171 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vaculesti-17-2025",
+   "path": "local/botosani/vaculesti/2025/17",
+   "short": "HCL Văculești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 17/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al comunei Văculești, judeţul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207252",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-18-2025",
+   "path": "local/botosani/vaculesti/2025/18",
+   "short": "HCL Văculești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 18/2025 privind aprobarea înființării Serviciului Social ,,Centru de Zi pentru Copiii aflați în Situații de Risc'' de pe raza comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207253",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-19-2025",
+   "path": "local/botosani/vaculesti/2025/19",
+   "short": "HCL Văculești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 19/2025 privind accesarea Proiectului ,,Furnizarea de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207254",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-2-2025",
+   "path": "local/botosani/vaculesti/2025/2",
+   "short": "HCL Văculești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 2/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025, pentru repartizarea orelor de muncă către beneficiarii de ajutor social și contravenienții cărora li s-a înlocuit sancțiunea pecuniară prin sentință judecătorească în ore de muncă în folosul comunității",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188922",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-20-2025",
+   "path": "local/botosani/vaculesti/2025/20",
+   "short": "HCL Văculești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 20/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna februarie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207255",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-21-2025",
+   "path": "local/botosani/vaculesti/2025/21",
+   "short": "HCL Văculești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 21/2025 privind aprobarea contului de execuție pe venituri și cheltuieli a bugetului comunei Văculești existent la data de 31 decembrie 2024",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207256",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-22-2025",
+   "path": "local/botosani/vaculesti/2025/22",
+   "short": "HCL Văculești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 22/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207257",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-23-2025",
+   "path": "local/botosani/vaculesti/2025/23",
+   "short": "HCL Văculești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 23/2025 privind aprobarea organizării „Balului Gospodarului” în incinta Căminului Cultural al comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207258",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-24-2025",
+   "path": "local/botosani/vaculesti/2025/24",
+   "short": "HCL Văculești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 24/2025 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al primarului comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207266",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-25-2025",
+   "path": "local/botosani/vaculesti/2025/25",
+   "short": "HCL Văculești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 25/2025 privind actualizarea Organigramei și a Statului de funcţii pentru aparatul de specialitate al Primarului Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207267",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-26-2025",
+   "path": "local/botosani/vaculesti/2025/26",
+   "short": "HCL Văculești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 26/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna martie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207268",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-27-2025",
    "path": "local/botosani/vaculesti/2025/27",
    "short": "HCL Văculești nr. 27/2025",
@@ -28,6 +298,336 @@
      "from": "2025-04-29",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-28-2025",
+   "path": "local/botosani/vaculesti/2025/28",
+   "short": "HCL Văculești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 28/2025 privind aprobarea concesionării prin licitație publică a pășunii, proprietate publică a comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207270",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-29-2025",
+   "path": "local/botosani/vaculesti/2025/29",
+   "short": "HCL Văculești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 29/2025 privind aprobarea concesionării prin licitație publică a terenului și a clădirii ( fostului sediu C.A.P.) situate în PC. 262/1, proprietate publică a comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207271",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-3-2025",
+   "path": "local/botosani/vaculesti/2025/3",
+   "short": "HCL Văculești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 3/2025 privind aprobarea ,,Procedurii de publicare a listei debitorilor persoane juridice care înregistrează obligații fiscale restante și a Procedurii de publicare a persoanelor juridice care nu înregistrează obligații fiscale restante”",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188923",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-30-2025",
+   "path": "local/botosani/vaculesti/2025/30",
+   "short": "HCL Văculești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 30/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207272",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-31-2025",
+   "path": "local/botosani/vaculesti/2025/31",
+   "short": "HCL Văculești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 31/2025 privind schimbarea președintelui de ședință pentru ședințele Consiliului Local al Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207273",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-32-2025",
+   "path": "local/botosani/vaculesti/2025/32",
+   "short": "HCL Văculești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 32/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna aprilie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/210355",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/210355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-33-2025",
+   "path": "local/botosani/vaculesti/2025/33",
+   "short": "HCL Văculești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 33/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/210356",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/210356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-34-2025",
+   "path": "local/botosani/vaculesti/2025/34",
+   "short": "HCL Văculești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 34/2025 privind aprobarea organigramei și statutului de funcții aferente Serviciului – Centrul de zi pentru copiii aflați în situații de risc",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/210357",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/210357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-35-2025",
+   "path": "local/botosani/vaculesti/2025/35",
+   "short": "HCL Văculești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 35/2025 privind aprobarea Organizării apărării împotriva incendiilor în comuna Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/210358",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/210358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-36-2025",
+   "path": "local/botosani/vaculesti/2025/36",
+   "short": "HCL Văculești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 36/2025 privind aprobarea Raportului de evaluare a capacității de apărare împotrivam incendiilor pe anul 2024, semestrul II și stabilirea măsurilor de optimizare a capacității de apărare împotriva incendiilor pentru anul 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/210359",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/210359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-37-2025",
+   "path": "local/botosani/vaculesti/2025/37",
+   "short": "HCL Văculești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 37/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna mai 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/213164",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/213164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-38-2025",
+   "path": "local/botosani/vaculesti/2025/38",
+   "short": "HCL Văculești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 38/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/213165",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/213165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-39-2025",
+   "path": "local/botosani/vaculesti/2025/39",
+   "short": "HCL Văculești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 39/2025 privind aprobarea obiectivului de investiții „Construire capacitate de producere a energiei electrice din surse regenerabile (panouri fotovoltaice) pentru autoconsum – comuna Văculești”",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/213166",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/213166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-4-2025",
+   "path": "local/botosani/vaculesti/2025/4",
+   "short": "HCL Văculești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 4/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna decembrie 2024",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188924",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-40-2025",
+   "path": "local/botosani/vaculesti/2025/40",
+   "short": "HCL Văculești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 40/2025 privind concesionarea pășunii „Imaș Fundoaia”, în suprafață de 16,95 ha, aflată în domeniul privat al comunei Văculești, în vederea pășunatului",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/213167",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/213167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-41-2025",
+   "path": "local/botosani/vaculesti/2025/41",
+   "short": "HCL Văculești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 41/2025 cu privire la declararea ca bunuri de uz și de interes public local a unor imobile și introducerea în inventarului domeniului public al comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/215678",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/215678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-42-2025",
+   "path": "local/botosani/vaculesti/2025/42",
+   "short": "HCL Văculești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 42/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna iunie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/219178",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/219178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-43-2025",
+   "path": "local/botosani/vaculesti/2025/43",
+   "short": "HCL Văculești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 43/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/219179",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/219179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-44-2025",
+   "path": "local/botosani/vaculesti/2025/44",
+   "short": "HCL Văculești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 44/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/219180",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/219180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-45-2025",
+   "path": "local/botosani/vaculesti/2025/45",
+   "short": "HCL Văculești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 45/2025 privind schimbarea președintelui de ședință pentru ședințele Consiliului Local al Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/219181",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/219181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-46-2025",
+   "path": "local/botosani/vaculesti/2025/46",
+   "short": "HCL Văculești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 46/2025 privind aprobarea contului de execuție pe venituri și cheltuieli a bugetului comunei Văculești existent la data de 30 iunie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/219182",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/219182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-47-2025",
+   "path": "local/botosani/vaculesti/2025/47",
+   "short": "HCL Văculești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 47/2025 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice și personalului didactic auxiliar din învățământul preuniversitar, pentru luna iulie 2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/223067",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/223067",
      "sha256": null
     }
    ]
@@ -58,6 +658,21 @@
      "from": "2025-08-31",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/223069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-5-2025",
+   "path": "local/botosani/vaculesti/2025/5",
+   "short": "HCL Văculești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 5/2025 privind aprobarea devizului general, anexa 2.2.e actualizată, indicatorii tehnico-economici, studiul de fezabilitate și valoarea cofinanțării de la bugetul local pentru obiectivul de investiții ,,Înființare rețea distribuție gaze naturale în comuna Văculești, județul Botoșani”",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188925",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188925",
      "sha256": null
     }
    ]
@@ -213,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vaculesti-6-2025",
+   "path": "local/botosani/vaculesti/2025/6",
+   "short": "HCL Văculești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 6/2025 privind aprobarea sumelor necesare realizării unui număr de 100 sterilizări",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188926",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-60-2025",
    "path": "local/botosani/vaculesti/2025/60",
    "short": "HCL Văculești nr. 60/2025",
@@ -328,6 +958,51 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/245271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-7-2025",
+   "path": "local/botosani/vaculesti/2025/7",
+   "short": "HCL Văculești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 7/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188927",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-8-2025",
+   "path": "local/botosani/vaculesti/2025/8",
+   "short": "HCL Văculești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 8/2025 privind înființarea unei platforme provizorii pentru depozitarea deșeurilor provenite de la lucrările pentru care nu este necesarăemiterea unei autorizații de construire/desființare din construcții/ demolări",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188928",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-9-2025",
+   "path": "local/botosani/vaculesti/2025/9",
+   "short": "HCL Văculești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 9/2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/188929",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/188929",
      "sha256": null
     }
    ]

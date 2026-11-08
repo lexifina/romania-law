@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-botosani--durnesti-28-2026",
+"path": "local/botosani/durnesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Durnești nr. 28/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru proiectul ”Creșterea eficienței energetice și gestionarea inteligentă a energiei la Școala Gimnazială Nr. 2 Guranda, sat Guranda, Comuna Durnești, Județul Botoșani” Consiliul Local al comunei Durnești, întrunit în ședința ordinară astăzi 25 august 2026, Având în vedere temeiurile juridice, respectiv prevederile: - a",
+"short": "HCL Durnești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://www.primariadurnesti.ro/wp-content/uploads/2026/08/HCL-nr.-28-din-25.08.2026-pnrr-guranda.pdf",
+"council": "botosani/durnesti",
+"council_name": "Consiliul Local al Comunei Durnești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

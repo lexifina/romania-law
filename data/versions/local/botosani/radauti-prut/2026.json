@@ -3,6 +3,21 @@
  "shard": "local/botosani/radauti-prut/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--radauti-prut-1-2026",
+   "path": "local/botosani/radauti-prut/2026/1",
+   "short": "HCL Rădăuți-Prut nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 1/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%201%20DIN%2028.01.2026%20ACHIZITIE%20AUTOUTILITARA.pdf",
+     "sha256": "49bf8a4399d3d4c40dd9ed8e71ac20ad509b359112295b8b0ed5cc6959a1d8b3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--radauti-prut-10-2026",
    "path": "local/botosani/radauti-prut/2026/10",
    "short": "HCL Rădăuți-Prut nr. 10/2026",
@@ -149,6 +164,21 @@
      "units": 1,
      "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2019%20DIN%2030.04.2026%20ACHIZITIE%20STATII%20INCARCARE.pdf",
      "sha256": "211d4207b5fb790a3fdeea6ff1d62fb0264899adc0c8db3bd7e18e09b6a88028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-2-2026",
+   "path": "local/botosani/radauti-prut/2026/2",
+   "short": "HCL Rădăuți-Prut nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 2/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%202%20DIN%2028.01.2026%20APROBARE%20PLAN%20DE%20ACTIUNI%20DE%20INTERES%20LOCAL.pdf",
+     "sha256": "efcb45189c577eb123ff79fb39955977bb586f69203e0a263154340b33c40d63"
     }
    ]
   },
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--radauti-prut-3-2026",
+   "path": "local/botosani/radauti-prut/2026/3",
+   "short": "HCL Rădăuți-Prut nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 3/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%203%20DIN%2028.01.2026%20PLAN%20ACTIUNI%20OG%2055%20DIN%202002.pdf",
+     "sha256": "11760c73e2467531a6628d55b41fae9a578c8acef52f5af71bd4f32d13f96137"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--radauti-prut-30-2026",
    "path": "local/botosani/radauti-prut/2026/30",
    "short": "HCL Rădăuți-Prut nr. 30/2026",
@@ -419,6 +464,36 @@
      "units": 1,
      "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%2038%20DIN%2029.08.2026%20DOMENIU%20PRIVAT%20NZEB.pdf",
      "sha256": "203c16046389aa611cab7794db02832ee04b5c9874b61fde680ea8a8373084d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-4-2026",
+   "path": "local/botosani/radauti-prut/2026/4",
+   "short": "HCL Rădăuți-Prut nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 4/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%204%20DIN%2028.01.2026%20PLAN%20ASISTENTA%20SOCIALA.pdf",
+     "sha256": "13cd41c51875efb893629f4c81f30c16c8ccd084c41291d2f50180aee34563e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-5-2026",
+   "path": "local/botosani/radauti-prut/2026/5",
+   "short": "HCL Rădăuți-Prut nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 5/2026",
+   "url": "https://www.primariaradauti-prut.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2026/hcl/HCL%205%20DIN%2028.01.2026%20PLAN%20ANALIZA%20SI%20ACOPERIRE%20RISCURI.pdf",
+     "sha256": "32cbab104490d250eaa497e3ae23e29ecd9bd23d3ebd0744c86755c957b0ae41"
     }
    ]
   },

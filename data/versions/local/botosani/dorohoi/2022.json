@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-1044-2022",
+   "path": "local/botosani/dorohoi/2022/1044",
+   "short": "HCL Dorohoi nr. 1044/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1044/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/2.SEDINTA%20CL%2027012022/HOT/HCL_NR_008_27012022.pdf",
+     "sha256": "5d0ec6a105311bcc532b4e6742ce165f56e074d17821beffe2d180d989f64a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-1045-2022",
+   "path": "local/botosani/dorohoi/2022/1045",
+   "short": "HCL Dorohoi nr. 1045/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1045/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/2.SEDINTA%20CL%2027012022/HOT/HCL_NR_016_27012022.pdf",
+     "sha256": "bc0abaddb468355ad98ca05efa570b26d7ae0339a928937254c46f47423068d0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-108-2022",
    "path": "local/botosani/dorohoi/2022/108",
    "short": "HCL Dorohoi nr. 108/2022",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-1508-2022",
+   "path": "local/botosani/dorohoi/2022/1508",
+   "short": "HCL Dorohoi nr. 1508/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1508/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/13.SEDINTA%2026052022/HCL_130_26052022.pdf",
+     "sha256": "429a5f9a58dabb1b447df281470d483947f9608937920253cd122330485ea72d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-164-2022",
    "path": "local/botosani/dorohoi/2022/164",
    "short": "HCL Dorohoi nr. 164/2022",
@@ -104,6 +149,51 @@
      "units": 1,
      "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/16.sedinta%2007072022/hcl_165_07072022.pdf",
      "sha256": "861bdcb9cb0128a7c6549bf1ff6ad399e1c69e6a9f395155bd36575a1941d840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-18-2022",
+   "path": "local/botosani/dorohoi/2022/18",
+   "short": "HCL Dorohoi nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 18/2022 pentru aprobarea Planului Urbanistic de Detaliu — privind CONSTRUIRE LOCUINȚĂ P+M și ÎMPREJMUIRE generat de terenul inscris în CF 50620, municipiul Dorohoi, Localitatea Componentă Dealu Mare fn ordinară, în data de 27.10.2022,",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/25.sedinta%2027102022/hcl/hcl_253_27102022.pdf",
+     "sha256": "5cdeec4e8b92c0c8b3a09ae123240e0f8dce0bd3edf58c237610186a22d22d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-19-2022",
+   "path": "local/botosani/dorohoi/2022/19",
+   "short": "HCL Dorohoi nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 19/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/25.sedinta%2027102022/hcl/hcl_254_27102022.pdf",
+     "sha256": "dde5643af1dea1dd5966f11de9f45600260fb096ecb38b59b1ae173cc8b8b05c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-1917-2022",
+   "path": "local/botosani/dorohoi/2022/1917",
+   "short": "HCL Dorohoi nr. 1917/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 1917/2022 privind atribuirea autorizațici taxi pe rază Municipiului Dorohoi",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/3.SEDINTA%2010022022/hcl_022_10022022.pdf",
+     "sha256": "40638a78b18ee684475e7c1670ecf4c5263dad48aa9ee3cd6dfda08e1e42e82a"
     }
    ]
   },
@@ -153,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-2142-2022",
+   "path": "local/botosani/dorohoi/2022/2142",
+   "short": "HCL Dorohoi nr. 2142/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2142/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/25.sedinta%2027102022/hcl/hcl_248_27102022.pdf",
+     "sha256": "626fb4d1c630766d26a4ed8a2bb8f227e2bf07202302e412cb6513e1ceca1858"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-235-2022",
    "path": "local/botosani/dorohoi/2022/235",
    "short": "HCL Dorohoi nr. 235/2022",
@@ -168,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-2401-2022",
+   "path": "local/botosani/dorohoi/2022/2401",
+   "short": "HCL Dorohoi nr. 2401/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2401/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_032_24022022.pdf",
+     "sha256": "2162688405055cbe17d3d66d4c116fb83a3db28ed29e9f653349c1e08919b862"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-25-2022",
    "path": "local/botosani/dorohoi/2022/25",
    "short": "HCL Dorohoi nr. 25/2022",
@@ -179,6 +299,21 @@
      "units": 1,
      "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_025_24022022.pdf",
      "sha256": "47b743a35aa48eb98d1e4cf40982db0d7636b0f212153e5abd6a218dcca5c862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-250-2022",
+   "path": "local/botosani/dorohoi/2022/250",
+   "short": "HCL Dorohoi nr. 250/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 250/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/28.sedinta%2014122022/HCL_301_15122022.pdf",
+     "sha256": "7d0e357711d8c80c9f03326dd19680d7124553172041aa413adae6677aae9917"
     }
    ]
   },
@@ -224,6 +359,126 @@
      "units": 1,
      "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/27.sedint%2024112022/HCL/HCL_287_24112022.pdf",
      "sha256": "44d4ad7e10fe65f966264899533a5b2d497550dc879c3cc402c5e7fca567cf15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-2913-2022",
+   "path": "local/botosani/dorohoi/2022/2913",
+   "short": "HCL Dorohoi nr. 2913/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2913/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_051_24022022.pdf",
+     "sha256": "3b3836edddd55969784d1e6cca004442b59745715e4e3e0107d45f6ed1620d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-2979-2022",
+   "path": "local/botosani/dorohoi/2022/2979",
+   "short": "HCL Dorohoi nr. 2979/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2979/2022 privind aprobarea documentației tehnico — economice (faza Proiect Tehnic) și a indicatorilor tehnico-economici pentru obiectivul de investiții „REALIZARE ZID ordinara la data 24.02.2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_055_24022022.pdf",
+     "sha256": "efeae63b8dbc7b702cdbc0289ca1fa444878e04e54d06f67751e2386163cdc85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-2988-2022",
+   "path": "local/botosani/dorohoi/2022/2988",
+   "short": "HCL Dorohoi nr. 2988/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 2988/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/13.SEDINTA%2026052022/HCL_133_26052022.pdf",
+     "sha256": "f29abd71fa8369be8acdd17f7dcc96a967ded2cdb1cbd9708f3a42e68801a2a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-3-2022",
+   "path": "local/botosani/dorohoi/2022/3",
+   "short": "HCL Dorohoi nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 3/2022 pentru Planul Urbanistic de Detaliu — Schimbare destinație apartament in spatiu \" comercial și concesionare teren pentru amenajare acces, pe teren inscris in Cartea Funciara cu nr.57314 ordinară, în data de 24.02.2022,",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_030_24022022.pdf",
+     "sha256": "f87960ae18caf7a83ac8f6b08b006af491ae0ca6266c0d128e0050a5063b17b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-4-2022",
+   "path": "local/botosani/dorohoi/2022/4",
+   "short": "HCL Dorohoi nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 4/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/24.SEDINTA%2013102022/HCL_240_13102022.pdf",
+     "sha256": "23f8cf6196790991623b5dddd6d3fe0c36568f95a725b5b3da637083818521e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-52-2022",
+   "path": "local/botosani/dorohoi/2022/52",
+   "short": "HCL Dorohoi nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 52/2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-12-11",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/30.SEDINTA%2028122022/hcl/HCL_305_28122022.pdf",
+     "sha256": "a8fa8b0ddfd7ee0697309354ba34d0983af0944c116b19b6697f4692a5835bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-700-2022",
+   "path": "local/botosani/dorohoi/2022/700",
+   "short": "HCL Dorohoi nr. 700/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 700/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_046_24022022.pdf",
+     "sha256": "21028630b4d48f2c9b6593da54f6d9f0622b7b5cf8b091cefa5f8d803bdee432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-9-2022",
+   "path": "local/botosani/dorohoi/2022/9",
+   "short": "HCL Dorohoi nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 9/2022 privind acordarea unui sprijin financiar in suma de 14.000 lei Parohiei ,, Biserica Romano Catolica Dorohoi „ pentru lucrarile de invelitori din table, hidroizolație la rece și tencuieli exterioare ; 26.35.2022;",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-04-23",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/13.SEDINTA%2026052022/HCL_132_26052022.pdf",
+     "sha256": "0e7722993b0a9478d5a53c5fce470c92a40c170b94c829e7d2fe4636a0835d73"
     }
    ]
   }

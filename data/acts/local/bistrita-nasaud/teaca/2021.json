@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/teaca/2021",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--teaca-15-2021",
+"path": "local/bistrita-nasaud/teaca/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 15/2021 pentru merite deosebite în întreaga activitate desfășurată, în cadrul Școlii Generale Ocnița",
+"short": "HCL Teaca nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-16-2021",
+"path": "local/bistrita-nasaud/teaca/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 16/2021 pentru implicarea și contribuția la devoltarea și modernizarea Comunei Teaca",
+"short": "HCL Teaca nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-17-2021",
+"path": "local/bistrita-nasaud/teaca/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 17/2021 pentru merite deosebite în întreaga activitate desfășurată în folosul cetățenilor Comunei Teaca",
+"short": "HCL Teaca nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-35-2021",
+"path": "local/bistrita-nasaud/teaca/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 35/2021 pentru merite deosebite în întreaga activitate desfășurată în folosul comunei",
+"short": "HCL Teaca nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-2980-2021",
+"path": "local/bistrita-nasaud/teaca/2021/2980",
+"kind": "local",
+"year": "2021",
+"number": "2980",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 2980/2021",
+"short": "HCL Teaca nr. 2980/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-24",
+"latest": "2021-03-24",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

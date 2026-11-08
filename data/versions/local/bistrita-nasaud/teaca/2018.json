@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/teaca/2018",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-82-2018",
+   "path": "local/bistrita-nasaud/teaca/2018/82",
+   "short": "HCL Teaca nr. 82/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 82/2018 pentru întreaga activitate și promovarea continuă a valorilor culturale și tradiționale aducând prestigiu Comunei Teaca",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/uat_teaca_hcl.nr.82_29.11.2018_cetatean_onoare.pdf",
+     "sha256": "745c5dc0c264c35166dfb5b0f6de1f1f09f1d45b9c75b6b7807fb7e0b1bf5b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-83-2018",
+   "path": "local/bistrita-nasaud/teaca/2018/83",
+   "short": "HCL Teaca nr. 83/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 83/2018 pentru întreaga activitate și contribuția adusă la sporirea patrimoniului cultural și spiritual, aducând prestigiu Comunei Teaca",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/uat_teaca_hcl.nr.83_29.11.2018_cetatean_onoare.pdf",
+     "sha256": "783d1d4220366f226a6cd8e99824fecbebc1324284dfae1885afdcb2d5f25e29"
+    }
+   ]
+  }
+ ]
+}

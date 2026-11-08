@@ -3,6 +3,73 @@
 "shard": "local/botosani/albesti/2023",
 "acts": [
 {
+"slug": "hcl-botosani--albesti-1-2023",
+"path": "local/botosani/albesti/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 1/2023 privind aprobarea taxei speciale de salubrizare pentru utilizatorii casnici și utilizatoriii noncasnici din UAT Albești",
+"short": "HCL Albești nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93097",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-2-2023",
+"path": "local/botosani/albesti/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 2/2023 privind aprobarea organizării rețelei școlare a unităților de învățământ din comuna Albești pentru anul școlar 2023-2023",
+"short": "HCL Albești nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93098",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-3-2023",
+"path": "local/botosani/albesti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 3/2023",
+"short": "HCL Albești nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93099",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--albesti-4-2023",
 "path": "local/botosani/albesti/2023/4",
 "kind": "local",
@@ -22,6 +89,72 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-5-2023",
+"path": "local/botosani/albesti/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 5/2023 privind aprobarea bugetului local de venituri și cheltuieli pentru anul 2023",
+"short": "HCL Albești nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93181",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-6-2023",
+"path": "local/botosani/albesti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 6/2023 privind utilizarea excedentului bugetului local rezultat la încheierea exercițiului bugetar la anului 2022 pentru finanțarea cheltuielilor secțiunii de dezvoltare în anul 2023",
+"short": "HCL Albești nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93182",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-7-2023",
+"path": "local/botosani/albesti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 7/2023 privind decontarea/plata costurilor de transport la și de la locul de muncă a cadrelor didactice navetiste din unitățile de învățământ din comuna Albești pentru lunile noiembrie și decembrie 2022",
+"short": "HCL Albești nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93183",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +180,182 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-9-2023",
+"path": "local/botosani/albesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 9/2023 privind aprobarea menținerii comunei Albești, județul Botoșani, ca membru fondator în cadrul parteneriatului tip Grup de Acțiune Locală (GAL) ''ASOCIAȚIA LEADER COLINELE MOLDOVEI''",
+"short": "HCL Albești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93185",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-10-2023",
+"path": "local/botosani/albesti/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 10/2023 privind aprobarea Planului de acțiuni și lucrări de interes local",
+"short": "HCL Albești nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93186",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-11-2023",
+"path": "local/botosani/albesti/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 11/2023 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ''Modernizare drum de interes local în localitatea Costiugeni, comuna Albești, județul Botoșani (str. Principală - Dv 12)''",
+"short": "HCL Albești nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93187",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-12-2023",
+"path": "local/botosani/albesti/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2023 privind aprobarea plății lunare de 14093 lei pentru organizarea și funcționarea Serviciului de ordine și pază al comunei Albești",
+"short": "HCL Albești nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93188",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-13-2023",
+"path": "local/botosani/albesti/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2023 privind alegerea Președintelui de ședință pentru lunile februarie, martie și aprilie 2023",
+"short": "HCL Albești nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93189",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-14-2023",
+"path": "local/botosani/albesti/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 14/2023 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli la 31 decembrie 2022",
+"short": "HCL Albești nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93253",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-15-2023",
+"path": "local/botosani/albesti/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2023 privind aprobarea Programului anual de achiziții publice la nivelul comunei Albești, județul Botoșani, pentru anul 2023",
+"short": "HCL Albești nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93254",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-16-2023",
+"path": "local/botosani/albesti/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 16/2023 privind decontarea/plata costurilor de transport la și de la locul de muncă a cadrelor didactice navetiste din unitățile de învățământ din comuna Albești pentru luna ianuarie 2023",
+"short": "HCL Albești nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93255",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-17-2023",
 "path": "local/botosani/albesti/2023/17",
 "kind": "local",
@@ -66,6 +375,139 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-18-2023",
+"path": "local/botosani/albesti/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 18/2023 privind aprobarea Planului de Analiză și Acoperire a Riscurilor pe teritoriul comunei Albești pentru anul 2023",
+"short": "HCL Albești nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93257",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-19-2023",
+"path": "local/botosani/albesti/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 19/2023 privind înființarea serviciului de asistență comunitară și aprobarea Regulamentului de organizare și funcționare al acestuia",
+"short": "HCL Albești nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93258",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-20-2023",
+"path": "local/botosani/albesti/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 20/2023 privind trecerea dn domeniul public în domeniul privat al comunei Albești a unor imobile și aprobarea demolării acestora",
+"short": "HCL Albești nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93259",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-21-2023",
+"path": "local/botosani/albesti/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 21/2023",
+"short": "HCL Albești nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93260",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-22-2023",
+"path": "local/botosani/albesti/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 22/2023 privind aprobarea premierii sportivei TRANDAC Adelina-Gabriela pentru rezultate deosebite la concursuri și competiții sportive",
+"short": "HCL Albești nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/93261",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-23-2023",
+"path": "local/botosani/albesti/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 23/2023 privind decontarea /plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru luna februarie 2023",
+"short": "HCL Albești nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/101864",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +731,28 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-34-2023",
+"path": "local/botosani/albesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2023 privind decontarea /plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru luna martie 2023",
+"short": "HCL Albești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/102727",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-35-2023",
 "path": "local/botosani/albesti/2023/35",
 "kind": "local",
@@ -358,6 +822,28 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-38-2023",
+"path": "local/botosani/albesti/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 38/2023 privind aprobarea decontarii cheltuielilor de transport elevi si profesori din cadrul Scolii Gimnaziale nr. 1 Albesti, participanti in cadrul Proiectului Erasmus + KA229 ,, WE ARE BETTER WITH STEAM’’",
+"short": "HCL Albești nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/102731",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-39-2023",
 "path": "local/botosani/albesti/2023/39",
 "kind": "local",
@@ -402,6 +888,73 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-41-2023",
+"path": "local/botosani/albesti/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 41/2023 privind aprobarea Organigramei, a Statului de funcţii si a numarului de personal pentru aparatul de specialitate al Primarului comunei Albesti , judetul Botosani",
+"short": "HCL Albești nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/104101",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-42-2023",
+"path": "local/botosani/albesti/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 42/2023 privind privind modificarea Hotararii Consiliului Local al comunei Albesti nr. 4 din data de 18.01.2023 privind stabilirea salariilor de baza pentru personalul din cadrul aparatului de specialitate al primarului si pentru serviciile publice din subordine, valabile incepand cu data de 1.01.2023",
+"short": "HCL Albești nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/104102",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-43-2023",
+"path": "local/botosani/albesti/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 43/2023",
+"short": "HCL Albești nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/108276",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--albesti-44-2023",
 "path": "local/botosani/albesti/2023/44",
 "kind": "local",
@@ -421,6 +974,517 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-45-2023",
+"path": "local/botosani/albesti/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2023 privind decontarea /plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru luna aprilie 2023",
+"short": "HCL Albești nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/108285",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-46-2023",
+"path": "local/botosani/albesti/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 46/2023 privind aprobarea Acordului de colaborare și delegarea de către UAT Comuna Albesti - Consiliul Local al Comunei Albesti către UAT Județul Botoșani – Consiliul Județean Botoșani, a dreptului de depunere a aplicației de finanțare pentru proiectul „Îmbunătățirea condițiilor de transport pentru elevii din Județul Botoșani, prin achiziționarea de microbuze școlare ”verzi”, finanțat prin Programul Național de Redresare și Reziliență - Componenta C15 Educație",
+"short": "HCL Albești nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/108286",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-47-2023",
+"path": "local/botosani/albesti/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 47/2023 privind alegerea unui nou Presedinte de sedinta pentru lunile iunie, iulie si august 2023",
+"short": "HCL Albești nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/108287",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-48-2023",
+"path": "local/botosani/albesti/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2023 privind aprobarea inchirierii, prin licitatie publica, a unor spatii comerciale din Piata Agroalimentara Albesti, in scopul desfasurarii de activitati comerciale",
+"short": "HCL Albești nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/108288",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-49-2023",
+"path": "local/botosani/albesti/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 49/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Albești nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-17",
+"latest": "2023-06-17",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/109454",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-50-2023",
+"path": "local/botosani/albesti/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 50/2023 privind aprobarea modificării Regulamentului consolidat al serviciilor de alimentare cu apă și de canalizare din județul Botoșani și acordarea unui mandat special reprezentantului CL Albesti pentru aprobarea acestei modificari",
+"short": "HCL Albești nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111600",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-51-2023",
+"path": "local/botosani/albesti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 51/2023",
+"short": "HCL Albești nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111601",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-52-2023",
+"path": "local/botosani/albesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 52/2023",
+"short": "HCL Albești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111602",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-53-2023",
+"path": "local/botosani/albesti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 53/2023 privind aprobarea Studiului de Fezabilitate (SF) si a indicatorilor tehnico-economici pentru obiectivul de investitii „INFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA ALBESTI, JUDETUL BOTOSANI”",
+"short": "HCL Albești nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111603",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-54-2023",
+"path": "local/botosani/albesti/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 54/2023 privind aprobarea Regulamentului privind procedura pentru inregistrarea si radierea vehiculelor pentru care nu exista obligatia inmatricularii",
+"short": "HCL Albești nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111604",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-55-2023",
+"path": "local/botosani/albesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 55/2023 privind angajarea unui avocat pentru reprezentarea intereselor Comunei Albesti in fata instantei de judecata a Judecatoriei Botosani, dosar nr. 29/193/2023",
+"short": "HCL Albești nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111605",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-56-2023",
+"path": "local/botosani/albesti/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 56/2023 privind aprobarea platii din bugetul local al UAT Albesti a cotizatiei de membru al Asociatiei Leader ,,Colinele Moldovei’’, aferenta anului 2023",
+"short": "HCL Albești nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111606",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-57-2023",
+"path": "local/botosani/albesti/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 57/2023 privind aprobare buget pentru Proiectul ,,Servicii integrate si sociale pentru dezvoltarea persoanelor defavorizate''",
+"short": "HCL Albești nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-12",
+"latest": "2023-07-12",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/111867",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-58-2023",
+"path": "local/botosani/albesti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 58/2023 privind aprobarea rectificarii bugetului local pe anul 2023",
+"short": "HCL Albești nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/113512",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-59-2023",
+"path": "local/botosani/albesti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 59/2023 privind decontarea /plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru luna mai 2023",
+"short": "HCL Albești nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/113513",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-60-2023",
+"path": "local/botosani/albesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 60/2023 privind aprobare necesitate si oportunitate Proiect de investitii ,, Eficientizare energetica si modernizare scoala Tudor Vladimirescu , corp A, comuna Albesti, judetul Botosani''",
+"short": "HCL Albești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/113514",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-61-2023",
+"path": "local/botosani/albesti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 61/2023",
+"short": "HCL Albești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/113515",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-62-2023",
+"path": "local/botosani/albesti/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 62/2023",
+"short": "HCL Albești nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/113516",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-63-2023",
+"path": "local/botosani/albesti/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 63/2023 privind decontarea / plata costurilor de transport la si de la locul de munca a cadrelor didactice navetiste din unitatile de invatamant din comuna Albesti pentru luna iulie 2023",
+"short": "HCL Albești nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/117230",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-64-2023",
+"path": "local/botosani/albesti/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 64/2023",
+"short": "HCL Albești nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/117231",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--albesti-65-2023",
+"path": "local/botosani/albesti/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 65/2023 privind aprovizionarea cu apa pentru animale si pentru uz intern a gospodariilor cetatenilor din localitatile Tudor Vladimirescu,Mascateni si Costiugeni,comuna Albesti,cu autospeciala MAN si cu autospeciala PSI din dotarea Primariei comunei Albesti,ca urmare a secetei prelungite din aceasta perioada",
+"short": "HCL Albești nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/117232",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-66-2023",
+"path": "local/botosani/albesti/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 66/2023 privind acordarea unor diplome de fidelitate si premii familiilor care au implinit 50 de ani de la casatorie",
+"short": "HCL Albești nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/117233",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-67-2023",
+"path": "local/botosani/albesti/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 67/2023 privind neasumarea responsabilităţii organizări şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru scoli al României în perioada 2023-2029",
+"short": "HCL Albești nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/117234",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -490,6 +1554,28 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-71-2023",
+"path": "local/botosani/albesti/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 71/2023 privind trecerea unui imobil – teren situat in intravilanul localitatii Albesti, in suprafata de 4300 mp, din proprietatea Statului Roman in domeniul public al comunei Albesti, judetul Botosani",
+"short": "HCL Albești nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122197",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--albesti-72-2023",
 "path": "local/botosani/albesti/2023/72",
 "kind": "local",
@@ -512,6 +1598,51 @@
 }
 },
 {
+"slug": "hcl-botosani--albesti-73-2023",
+"path": "local/botosani/albesti/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 73/2023 privind aprobarea actualizării indicatorilor tehnico-economici, devizului general Anexa 2.1. și Indicatorii tehnici – Anexa 2.2 și aprobarea cofinanțării de la bugetul local pentru obiectivul \" ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE SULIȚA, ALBEȘTI, TRUȘEȘTI, JUDEȚUL BOTOȘANI \"",
+"short": "HCL Albești nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122199",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-74-2023",
+"path": "local/botosani/albesti/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 74/2023",
+"short": "HCL Albești nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122954",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--albesti-75-2023",
 "path": "local/botosani/albesti/2023/75",
 "kind": "local",
@@ -531,6 +1662,94 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-76-2023",
+"path": "local/botosani/albesti/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 76/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Albesti in Consiliul de Administratie al Scolii Gimnaziale nr. 2 Tudor Vladimirescu",
+"short": "HCL Albești nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122956",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-77-2023",
+"path": "local/botosani/albesti/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 77/2023 privind desemnarea reprezentantului Consiliului Local al comunei Albesti in Comisia de Evaluare si Asigurare a Calitatii din cadrul Scolii Gimnaziale nr . 2 Tudor Vladimirescu",
+"short": "HCL Albești nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122957",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-78-2023",
+"path": "local/botosani/albesti/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 78/2023 privind privind desemnarea a doi reprezentanti ai Consiliului local al comunei Albesti in Grupul de actiune antibullying al Scolii Gimnaziale nr. 2 Tudor Vladimirescu, pentru anul scolar 2023 – 2024",
+"short": "HCL Albești nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122958",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--albesti-79-2023",
+"path": "local/botosani/albesti/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 79/2023 cu privire la actualizarea componentei echipei mobile pentru interventia de urgenta in cazurile de violenta domestica la nivelul comunei Albesti, judetul Botosani",
+"short": "HCL Albești nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122959",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -576,6 +1795,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--albesti-82-2023",
+"path": "local/botosani/albesti/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 82/2023 privind alegerea unui nou Presedinte de sedinta pentru lunile octombrie, noiembrie si decembrie 2023",
+"short": "HCL Albești nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-23",
+"latest": "2023-10-23",
+"portal": "https://emol.ro/albesti-bt/registru-hcl/122962",
+"council": "botosani/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-185-2024",
+   "path": "local/botosani/botosani/2024/185",
+   "short": "HCL Botoșani nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 185/2024 privind modificarea poziției nr. 100 din Hotărârea Consiliului Local al Municipiului Botoșani nr. 246/2010 privind aprobarea inventarului bunurilor din domeniul public al Municipiului Botoșani",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/185_24.pdf",
+     "sha256": "4d0e786eaccc0210aebfa4e61272cc5a6699d3d2c6f41d3165cac2c2dd650582"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-190-2024",
    "path": "local/botosani/botosani/2024/190",
    "short": "HCL Botoșani nr. 190/2024",
@@ -449,6 +464,21 @@
      "units": 1,
      "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/422_24.pdf",
      "sha256": "a7e9bc18c6750af1d6015d5fa0d58696ff683bb4ad7a7fe70d263472fa89f962"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--botosani-423-2024",
+   "path": "local/botosani/botosani/2024/423",
+   "short": "HCL Botoșani nr. 423/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 423/2024 pentru modificarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 61 din 29 martie 2012, cu modificările și completările ulterioare, privind aprobarea asocierii, a actului constitutiv, precum și a statutului ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „ZONA METROPOLITANĂ BOTOȘANI”",
+   "url": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/423_24.pdf",
+     "sha256": "b9289197f4f8a07c769fe889299a3bb528161d1c326d2e6ce4ae9b82604e59c1"
     }
    ]
   },

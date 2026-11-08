@@ -47,6 +47,51 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-3-2025",
+"path": "local/botosani/corlateni/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 3/2025",
+"short": "HCL Corlăteni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/251964",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--corlateni-4-2025",
+"path": "local/botosani/corlateni/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 4/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Corlăteni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/251965",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-5-2025",
 "path": "local/botosani/corlateni/2025/5",
 "kind": "local",
@@ -292,6 +337,29 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-16-2025",
+"path": "local/botosani/corlateni/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 16/2025",
+"short": "HCL Corlăteni nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/252000",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-17-2025",
 "path": "local/botosani/corlateni/2025/17",
 "kind": "local",
@@ -358,6 +426,28 @@
 }
 },
 {
+"slug": "hcl-botosani--corlateni-20-2025",
+"path": "local/botosani/corlateni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 20/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Corlăteni nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/252004",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--corlateni-21-2025",
 "path": "local/botosani/corlateni/2025/21",
 "kind": "local",
@@ -377,6 +467,28 @@
 "council_name": "Consiliul Local al Comunei Corlăteni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--corlateni-22-2025",
+"path": "local/botosani/corlateni/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 22/2025 privind aprobarea utilizării sumei de 10 mii lei rămasă neutilizată din excedentul bugetar din anul 2024 în anul 2025 pentru finanțarea cheltuielilor secțiunii de dezvoltare a bugetului local al Comunei Corlăteni",
+"short": "HCL Corlăteni nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/252014",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +533,29 @@
 "council_name": "Consiliul Local al Comunei Corlăteni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--corlateni-25-2025",
+"path": "local/botosani/corlateni/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 25/2025",
+"short": "HCL Corlăteni nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/corlateni-bt/registru-hcl/252017",
+"council": "botosani/corlateni",
+"council_name": "Consiliul Local al Comunei Corlăteni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

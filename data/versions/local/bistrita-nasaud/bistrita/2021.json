@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--bistrita-165-2021",
+   "path": "local/bistrita-nasaud/bistrita/2021/165",
+   "short": "HCL Bistrița nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bistrița nr. 165/2021 privind înființarea Compartimentului \"Centrul de zi pentru persoane vârstnice”, cod serviciu social 8810CZ-V II, în cadrul Direcției de Asistență Socială Bistrița",
+   "url": "https://primariabistrita.ro/wp-content/uploads/2025/12/1.Hotararea-de-infiintare-a-centrului-165din-28.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariabistrita.ro/wp-content/uploads/2025/12/1.Hotararea-de-infiintare-a-centrului-165din-28.10.2021.pdf",
+     "sha256": "a985eaf943ee814d083245da9e207ee992ce0b494caf47dd639f39e3d0484fa0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--bistrita-206-2021",
    "path": "local/bistrita-nasaud/bistrita/2021/206",
    "short": "HCL Bistrița nr. 206/2021",

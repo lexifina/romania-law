@@ -3,6 +3,141 @@
  "shard": "local/bistrita-nasaud/sieut/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--sieut-1-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/1",
+   "short": "HCL Șieuț nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 1/2025 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192053",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-10-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/10",
+   "short": "HCL Șieuț nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 10/2025 privind aprobarea documentației tehnice de dezmembrare a imobilului înscris în CF 28291 Șieuț, în suprafată de 306539 mp, situat în extravilanul localității Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/201002",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/201002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-11-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/11",
+   "short": "HCL Șieuț nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 11/2025 privind aprobarea Ofertei de donaţie a terenului în suprafaţă de 87 mp. înscris în CF nr.31532 Şieuţ având număr cadastral 31432, în scopul realizari unor investiții de interes local",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/201003",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/201003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-12-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/12",
+   "short": "HCL Șieuț nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 12/2025 privind reorganizarea „Serviciul public de apă și canal” fără personalitate juridică, în „Serviciul public de alimentare cu apă şi canalizare al comunei Șieuț”, cu personalitate juridică",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/201004",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/201004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-13-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/13",
+   "short": "HCL Șieuț nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 13/2025 privind actualizare date, a imobilului „Drum de exploatare agricolă – Lunca Sieu - extravilan din localitatea Lunca, comuna Șieuț”, înscris în Cartea funciară nr.25260, nr. cadastral 25260, prin majorareaa suprafeței de la 26425 mp. la 26636 mp",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/201005",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/201005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-14-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/14",
+   "short": "HCL Șieuț nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 14/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/209190",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/209190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-15-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/15",
+   "short": "HCL Șieuț nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 15/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/209191",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/209191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-16-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/16",
+   "short": "HCL Șieuț nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 16/2025 privind acordul cu privire la participarea comunei Șieuț în cadrul-Programului privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/209192",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/209192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-17-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/17",
+   "short": "HCL Șieuț nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 17/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/214871",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/214871",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--sieut-18-2025",
    "path": "local/bistrita-nasaud/sieut/2025/18",
    "short": "HCL Șieuț nr. 18/2025",
@@ -13,6 +148,381 @@
      "from": "2025-07-01",
      "units": 1,
      "source_url": "https://emol.ro/sieut-bn/registru-hcl/214872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-19-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/19",
+   "short": "HCL Șieuț nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 19/2025 privind indexarea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/214873",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/214873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-2-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/2",
+   "short": "HCL Șieuț nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 2/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192054",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-20-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/20",
+   "short": "HCL Șieuț nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 20/2025 privind stabilirea taxei speciale, pentru refacerea avariilor la conducta de distributie apă în localitatea Șieuț, în urma lucrărilor de execuția la obiectivul de investiții „Modernizare DJ 154, Km 17+000 - 51+720, limita judet Mures-Sarata-DN 17, judetul Bistrita-Nasaud\",",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/214874",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/214874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-21-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/21",
+   "short": "HCL Șieuț nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 21/2025 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217540",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-22-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/22",
+   "short": "HCL Șieuț nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 22/2025 privind aprobarea înființării unei societăți comerciale AQUA ȘIEUȚ SRL cu răspundere limitată cu asociat unic Comuna Șieuț prin Consiliul Local al comunei Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217541",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-23-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/23",
+   "short": "HCL Șieuț nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 23/2025 privind aprobarea preţurilor de pornire la licitaţie pentru masa lemnosă pe picior destinată vânzării, prin licitație publică cu strigare, către agenți economici",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217542",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-24-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/24",
+   "short": "HCL Șieuț nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 24/2025 privind aprobarea unui protocol de colaborare cu Administraţia Bazinală Apă Someş-Tisa prin Sistemul de Gospodărire a apelor Bistrița-Năsăud pentru realizarea lucrărilor de tăieri de vegetaţie, recalibrare şi reprofilare-decolmatare a cursului de apă Valea Şieului , de pe teritoriul Comunei Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217543",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-25-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/25",
+   "short": "HCL Șieuț nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 25/2025 privind modificarea și completarea Hotărârii nr.22/08.05.2025 privind aprobarea înființării societății AQUA ȘIEUȚ SRL cu răspundere limitată cu asociat unic Comuna Șieuț prin Consiliul Local al comunei Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217552",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-26-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/26",
+   "short": "HCL Șieuț nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 26/2025 privind rectificarea nr.1 a Bugetului comunei Șieuț pe anul 2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217553",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-27-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/27",
+   "short": "HCL Șieuț nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 27/2025 privind actualizarea componenţei Comisiilor de specialitate ale Consiliului Local al Comunei Șieuț, judeţul Bistriţa-Năsăud",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/217554",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/217554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-28-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/28",
+   "short": "HCL Șieuț nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 28/2025 privind darea în administrare și exploatare a Sistemului public de alimentare cu apă şi canalizare a comunei ȘIEUȚ, judeţul BISTRIȚA-NĂSĂUD, către Societatea „AQUA ȘIEUȚ” SRL societate cu răspundere limitată cu asociat unic Comuna Șieuț prin Consiliul Local al comunei Șieuț, Judetul BISTRIȚA-NĂSĂUD,",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/220287",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/220287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-29-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/29",
+   "short": "HCL Șieuț nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 29/2025 privind aprobarea preţurilor de pornire la licitaţie pentru masa lemnosă pe picior destinată vânzării, prin licitație cu strigare, către agenți economici",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/220288",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/220288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-3-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/3",
+   "short": "HCL Șieuț nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 3/2025 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025 - 2029",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192055",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-30-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/30",
+   "short": "HCL Șieuț nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 30/2025 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/229327",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/229327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-31-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/31",
+   "short": "HCL Șieuț nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 31/2025 privind rectificarea nr. 2, a Bugetului comunei Șieuț, pe anul 2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/229328",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/229328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-32-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/32",
+   "short": "HCL Șieuț nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 32/2025 privind reorganizarea Serviciului Voluntar pentru Situații de Urganță al comunei Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/229329",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/229329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-33-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/33",
+   "short": "HCL Șieuț nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 33/2025 privind majorarea suprafeței de teren de la 500mp la 1282mp (diferență 782mp), din intravilanul localității Șieuț, \"La magazin în centru\", în scopul înscrierii în cartea funciară și a realizării unor învestiții de interes local",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/229330",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/229330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-34-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/34",
+   "short": "HCL Șieuț nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 34/2025 privind aprobarea ajustării tarifelor aferente Contractului de concesiune nr. 1277/2018 privind delegarea prin concesiune a serviciului public de salubrizare, respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud, precum și a tarifelor distincte pentru gestionarea deșeurilor de pe raza județului Bistrița-Năsăud",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/229331",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/229331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-35-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/35",
+   "short": "HCL Șieuț nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 35/2025 privind avizarea Caietului de sarcini, pentru a) colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat; b) transferul deșeurilor municipale în stații de transfer, inclusiv transportul separat al deșeurilor reziduale la depozitele de deșeuri nepericuloase și/sau la instalațiile integrate de tratare, al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stațiile de sortare și al biodeșeurilor la instalațiile de compostare și/sau de digestie anaerobă;",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230501",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-36-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/36",
+   "short": "HCL Șieuț nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 36/2025 privind avizarea Regulamentului de organizare și funcționare a serviciului public de salubrizare, respectiv activitățile de colectare, transport, stocare temporară, transfer, sortare, tratare, neutralizare depozitare a deșeurilor municipale, inclusiv deseuri periculoase din deșeuri menajere, managementul Stațiilor de Transfer, al Centrelor de Colectare și Managementul şi Operarea Centrului de Management Integrat al Deşeurilor Tărpiu din județul Bistrița-Năsăud, forma consolidată 2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230502",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-37-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/37",
+   "short": "HCL Șieuț nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 37/2025 Privind aprobarea Actului adițional nr. 8 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230503",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-38-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/38",
+   "short": "HCL Șieuț nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 38/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230504",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-39-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/39",
+   "short": "HCL Șieuț nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 39/2025 privind amenajarea unei zone de picnic la ieșirea din localitatea Rustior, comuna Șieuț, jud. Bistrița-Năsăud",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230505",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-4-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/4",
+   "short": "HCL Șieuț nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 4/2025 privind închirere unor suprafețe de pășune comunală aparținând domeniului public al comunei Șieuț, aflate în administrarea Consiliului local Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192056",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-40-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/40",
+   "short": "HCL Șieuț nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 40/2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/230506",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/230506",
      "sha256": null
     }
    ]
@@ -148,6 +658,21 @@
      "from": "2025-12-11",
      "units": 1,
      "source_url": "https://emol.ro/sieut-bn/registru-hcl/239192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-5-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/5",
+   "short": "HCL Șieuț nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 5/2025 privind aprobarea preţurilor de pornire la licitaţie pentru masa lemnosă pe picior destinată vânzării, prin licitație publică, către agenți economici",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192057",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192057",
      "sha256": null
     }
    ]
@@ -303,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--sieut-6-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/6",
+   "short": "HCL Șieuț nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 6/2025 privind aprobarea utilizării excedentelor bugetului local, realizate la finele anului 2024, pentru acoperirea deficitelor secţiunii de funcționare și dezvoltare pe anul 2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/192058",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/192058",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--sieut-60-2025",
    "path": "local/bistrita-nasaud/sieut/2025/60",
    "short": "HCL Șieuț nr. 60/2025",
@@ -313,6 +853,51 @@
      "from": "2026-01-19",
      "units": 1,
      "source_url": "https://emol.ro/sieut-bn/registru-hcl/245688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-7-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/7",
+   "short": "HCL Șieuț nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 7/2025 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/195283",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/195283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-8-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/8",
+   "short": "HCL Șieuț nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 8/2025 privind aprobarea planului de analiză şi acoperire a riscurilor în comuna Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/195284",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/195284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--sieut-9-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/9",
+   "short": "HCL Șieuț nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 9/2025 privind aprobarea bugetului de venituri şi cheltuieli al comunei Șieuț pe anul 2025",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/201001",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/201001",
      "sha256": null
     }
    ]

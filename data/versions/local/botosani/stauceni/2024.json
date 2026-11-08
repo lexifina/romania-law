@@ -3,6 +3,51 @@
  "shard": "local/botosani/stauceni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--stauceni-10-2024",
+   "path": "local/botosani/stauceni/2024/10",
+   "short": "HCL Stăuceni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 10/2024 privind solicitarea de înlocuire din funcția de locțiitor al BESV",
+   "url": "https://comunastauceni.ro/wp-content/uploads/2024/05/Hotararea-nr.-10H-22.05.2024-privind-solicitarea-de-inlocuire-din-functia-de-loctiitor-al-BESV.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://comunastauceni.ro/wp-content/uploads/2024/05/Hotararea-nr.-10H-22.05.2024-privind-solicitarea-de-inlocuire-din-functia-de-loctiitor-al-BESV.pdf",
+     "sha256": "7d33c009c7a2b26dfaf6a2bc484310c62adb094904830e7fdfd247c5b551b0fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stauceni-11-2024",
+   "path": "local/botosani/stauceni/2024/11",
+   "short": "HCL Stăuceni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 11/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bed6c7095ac638bec82b613fda09b538e788d99939a1530c5071b38ff0b6549f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--stauceni-15-2024",
+   "path": "local/botosani/stauceni/2024/15",
+   "short": "HCL Stăuceni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stăuceni nr. 15/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2116a3b54a4caa6578607c2d2ec6830b691decfafc8d0785e98367472cf54cd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--stauceni-22-2024",
    "path": "local/botosani/stauceni/2024/22",
    "short": "HCL Stăuceni nr. 22/2024",

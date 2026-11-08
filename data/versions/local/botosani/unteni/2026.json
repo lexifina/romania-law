@@ -3,6 +3,216 @@
  "shard": "local/botosani/unteni/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--unteni-1-2026",
+   "path": "local/botosani/unteni/2026/1",
+   "short": "HCL Unțeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 1/2026 privind acoperirea definitivă a excedentului bugetului local al deficitului secțiunii de dezvoltare la comuna Unțeni, pe anul 2025",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/1_2026_1774346641.pdf",
+     "sha256": "3d8d4630b9faccffcff0e7657fda4fa303ccd343d102f76fda8cdb6f3edb5180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-10-2026",
+   "path": "local/botosani/unteni/2026/10",
+   "short": "HCL Unțeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 10/2026 privind aprobarea Planului anual de acţiune privind Serviciile Sociale la nivelul comunei Unțeni pentru anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/10_2026_1774346712.pdf",
+     "sha256": "57d4986440941d437aac8f1746f0d90a04f30476f5b541258c03473bf840620b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-11-2026",
+   "path": "local/botosani/unteni/2026/11",
+   "short": "HCL Unțeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 11/2026 privind aprobarea devizului general actualizat, aprobarea actualizarii indicatorilor economici și a cofinanțării bugetului local ca urmare a finalizarii lucrarilor pentru obiectivul de investiții: ” Modernizare drum comunal DC29 Burlești-Unțeni și DN-29 Minastir",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/11_2026_1774347147.pdf",
+     "sha256": "f41d31142dde4329e0cb21f6d376019e7ccb2226250c582b3f64501cd9c82868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-12-2026",
+   "path": "local/botosani/unteni/2026/12",
+   "short": "HCL Unțeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 12/2026 privind aprobarea devizului general actualizat, aprobarea actualizarii indicatorilor economici și a valorii alocate de la bugetul local ca urmare a finalizarii lucrarilor pentru obiectivul de investiții: „Modernizare drum comunal DC360, comuna Unțeni, județul Bo",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/12_2026_1774346842.pdf",
+     "sha256": "b12794e4b4cfa288d3c2235143399c37eca9eac90da6cdd3424c71cce68f487a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-14-2026",
+   "path": "local/botosani/unteni/2026/14",
+   "short": "HCL Unțeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 14/2026 privind aprobarea Programului de acțiune comunitară la nivelul comunei Unțeni pentru anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/14_2026_1774351728.pdf",
+     "sha256": "54b7c590168ec31aa4c374df57714cd9790d8e2a2c67d7e71e39ccd6a65cc99a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-15-2026",
+   "path": "local/botosani/unteni/2026/15",
+   "short": "HCL Unțeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 15/2026 privind aprobarea Planului de asistență medicală comunitară pentru anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/15_2026_1774346913.pdf",
+     "sha256": "1d6b9472398a03810da311706124eadeb23d4c773c25bec2914ec4e66b5eed54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-16-2026",
+   "path": "local/botosani/unteni/2026/16",
+   "short": "HCL Unțeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 16/2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/16_2026_1774347328.pdf",
+     "sha256": "94673a8cf3b5028e6efc4384f809d8cdb647c87c5e465a232e203f1845ee8af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-17-2026",
+   "path": "local/botosani/unteni/2026/17",
+   "short": "HCL Unțeni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 17/2026 privind abrogarea Hotărârii Consiliului Local nr.39 / 22.09.2025 privind aprobarea prețului de încasare pentru închiriere buldoexcavator aflat în patrimoniul comunei Unțeni",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/17_2026_1774347048.pdf",
+     "sha256": "764604f3672e3f6f80a1f2d0ba2e8597e70f072d29eb9a23d3175c32acdc74b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-18-2026",
+   "path": "local/botosani/unteni/2026/18",
+   "short": "HCL Unțeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 18/2026 privind aprobarea modificării organigramei şi a statului de funcţii a aparatului de specialitate a Primarului comunei Unțeni , judeţul Botoşani",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/18_2026_1774351557.pdf",
+     "sha256": "2338498761e715d807fefaf3aa75d6b9ffcf2530afdd9c4725125beb7d3631ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-19-2026",
+   "path": "local/botosani/unteni/2026/19",
+   "short": "HCL Unțeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 19/2026 privind actualizarea Planului de analiză şi acoperire a riscurilor pe teritoriul comunei Unţeni în anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/19_2026_1774351640.pdf",
+     "sha256": "ca2b43ad9d6630247e4963f7e2a7a0365bf85216be1b39e536d7ab353d4408fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-2-2026",
+   "path": "local/botosani/unteni/2026/2",
+   "short": "HCL Unțeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 2/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Comunei Unțeni județul Botoșani",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/2_2026_1774346478.pdf",
+     "sha256": "01bd233ebf88baad794e0cbe63bd01377e073c32e252b821cfd9d70b5c8d13e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-20-2026",
+   "path": "local/botosani/unteni/2026/20",
+   "short": "HCL Unțeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 20/2026 privind aprobarea Strategiei de Dezvoltare Locală (SDL) a Asociației de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus pentru perioada 2026-2035",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/20_2026_1774351461.pdf",
+     "sha256": "bca3aadf5c3a0d6c50664adea74f3ec9c5f66c774987842d5a2bd2e704a3d973"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-21-2026",
+   "path": "local/botosani/unteni/2026/21",
+   "short": "HCL Unțeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 21/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe lini",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/21_2026_1774940374.pdf",
+     "sha256": "55b22c06c148e26c077883a25a57e378b284fbbee950b9e21f6c2a7a3bf5c929"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-22-2026",
+   "path": "local/botosani/unteni/2026/22",
+   "short": "HCL Unțeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 22/2026 privind declararea perioadei 1 aprilie - 30 aprilie 2026 „Luna curăţeniei” pe raza comunei Unțeni, judeţul Botoşani",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/22_2026_1774940468.pdf",
+     "sha256": "996c8fd553d1aee489ef18d6d28655191744059ded6ef3502d0d6b08ae55985a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--unteni-23-2026",
    "path": "local/botosani/unteni/2026/23",
    "short": "HCL Unțeni nr. 23/2026",
@@ -18,6 +228,81 @@
    ]
   },
   {
+   "slug": "hcl-botosani--unteni-24-2026",
+   "path": "local/botosani/unteni/2026/24",
+   "short": "HCL Unțeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 24/2026 privind alegerea preşedintelui de şedinţă pentru lunile mai,iunie și iulie",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/24_2026_1776941222.pdf",
+     "sha256": "9934895a7b02afa584d315f9d1ffcfe198db40554a4acb3e12c525cb3a07ccc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-25-2026",
+   "path": "local/botosani/unteni/2026/25",
+   "short": "HCL Unțeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 25/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Unțeni, județul Botoșani, conform prevederilor OUG nr.7/2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/25_2026_1779173587.pdf",
+     "sha256": "a2fcf5705eeb171c75f686e7020e326e8784e5a6fa5b7425094c5d47339bc623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-26-2026",
+   "path": "local/botosani/unteni/2026/26",
+   "short": "HCL Unțeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 26/2026 privind aprobarea bugetului local al comunei Unțeni pe anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/26_2026_1782978099.pdf",
+     "sha256": "a42d7ebbf6f47c980eb609fbfdb5691b906fbe3cf216a12ab4038c399439ccce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-27-2026",
+   "path": "local/botosani/unteni/2026/27",
+   "short": "HCL Unțeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 27/2026 privind aprobarea contului anual de execuţie al bugetului local al comunei Unteni şi al bugetului activităţilor finanţate integral din venituri proprii, precum şi a situaţiilor financiare la 31.12.2025",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/27_2026_1778575700.pdf",
+     "sha256": "5913a7eb4ec3b775489e675892a19318fc39ed97a4ff39d19932ad1702a6ee1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-28-2026",
+   "path": "local/botosani/unteni/2026/28",
+   "short": "HCL Unțeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 28/2026 cu privire la aprobarea unei plăți către SC ARLAND SRL reprezentând cheltuieli de judecată și contravaloarea materialelor și transportului aferente lucrărilor de consolidare a rutei alternative",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/28_2026_1781676848.pdf",
+     "sha256": "c25c166c0daea43be43577089338cd96dfe72c9543c85132157f5c19d71cf1f7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--unteni-29-2026",
    "path": "local/botosani/unteni/2026/29",
    "short": "HCL Unțeni nr. 29/2026",
@@ -29,6 +314,291 @@
      "units": 1,
      "source_url": "https://primariaunteni.ro/admin/documente/hotarari/29_2026_1782977624.pdf",
      "sha256": "db86629d5b56b3ad0c7a7cd050fa86798d3a2baf7e3c0beed8b2319913cc1e2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-3-2026",
+   "path": "local/botosani/unteni/2026/3",
+   "short": "HCL Unțeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 3/2026 privind modificarea și completarea Anexei la Hotărârea nr.52 din 28 octombrie 2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Unțeni",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/3_2026_1774346131.pdf",
+     "sha256": "1b6e7ca1f5b2aab78571b4680efaa91c619969eb227427e2ddd64166597c1691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-31-2026",
+   "path": "local/botosani/unteni/2026/31",
+   "short": "HCL Unțeni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 31/2026 privind aprobarea suportării din bugetul local și trecerea pe cheltuieli a sumei de 35.000 lei, reprezentând sancțiuni contravenționale dispuse de Garda Națională de Mediu, prin Procesele-verbale seria GNM nr. 019713 și 026269 , neexistând fapte sau împrejurări pentru",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/31_2026_1782977728.pdf",
+     "sha256": "bee77082b1769e422f7dcaed82564b969dffa3d8b7101cb5f4577bd6754fec66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-32-2026",
+   "path": "local/botosani/unteni/2026/32",
+   "short": "HCL Unțeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 32/2026 privind aprobarea modificării organigramei şi a statului de funcţii a aparatului de specialitate a Primarului comunei Unțeni , judeţul Botoşani",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/32_2026_1782977772.pdf",
+     "sha256": "2eb09d84d9460dd655e32c768ea9df2f38435f586af082a26641f89d34aefc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-33-2026",
+   "path": "local/botosani/unteni/2026/33",
+   "short": "HCL Unțeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 33/2026 privind alegerea preşedintelui de şedinţă pentru lunile august,septembrie și octombrie",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/33_2026_1786512330.pdf",
+     "sha256": "cea5f7e51cf9fbc36d6acd3db8f9deda754744f5635d599d37258e6f9fc8b7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-34-2026",
+   "path": "local/botosani/unteni/2026/34",
+   "short": "HCL Unțeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 34/2026 privind însuşirea unei informări",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/34_2026_1786512385.pdf",
+     "sha256": "1cd5d5822a7f874c7de67be82a66ec7340e8f1cdc8dfe7bc7b67adfcc1c80c43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-36-2026",
+   "path": "local/botosani/unteni/2026/36",
+   "short": "HCL Unțeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 36/2026 privind aprobarea devizului general actualizat, aprobarea actualizarii indicatorilor economici și a cofinanțării bugetului local ca urmare a finalizarii lucrarilor pentru obiectivul de investiții “ Modernizare drumuri locale în localitățile Mânăstireni și Unțen",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/36_2026_1786512547.pdf",
+     "sha256": "06af24b33bc06b53d0097a12593453b459131ce8d0bdd7250747ac6af910f44e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-37-2026",
+   "path": "local/botosani/unteni/2026/37",
+   "short": "HCL Unțeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 37/2026",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/37_2026_1788412607.pdf",
+     "sha256": "5721a7810eddcb3c2da6131e24594aba05c5d8b7c02c0f1ca21729eabaeed5f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-38-2026",
+   "path": "local/botosani/unteni/2026/38",
+   "short": "HCL Unțeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 38/2026 privind desemnarea reprezentantului Consiliului Local al comunei Unţeni în Consiliul de Administraţie al Şcolii Gimnaziale nr.1 Unţeni",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/38_2026_1788412656.pdf",
+     "sha256": "f2635056ff1b5c670dae410d4b6b7c9930da83b1f6eeabd7b95ec12cfc716362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-39-2026",
+   "path": "local/botosani/unteni/2026/39",
+   "short": "HCL Unțeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 39/2026 privind desemnarea reprezentantului Consiliului Local al comunei Unţeni în Comisia pentru evaluarea şi asigurarea calităţii a Şcolii Gimnaziale nr.1 Unţeni",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/39_2026_1788412709.pdf",
+     "sha256": "9e47a219b2c90398a873d0fae68244a932ffba61bed200d3bc27df7a9b76ba82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-4-2026",
+   "path": "local/botosani/unteni/2026/4",
+   "short": "HCL Unțeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 4/2026 privind întocmirea PLANULUI DE LUCRĂRI în vederea repartizării orelor de muncă stabilite conform Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările şi completările ulterioare, pentru anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/4_2026_1774345528.pdf",
+     "sha256": "0d10c275ded23b1d059e3e00c6bd09e012ea824feed78096fbb1b395148897ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-40-2026",
+   "path": "local/botosani/unteni/2026/40",
+   "short": "HCL Unțeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 40/2026 privind rectificarea bugetului local si al bugetului de venituri proprii al scolii la comuna Unțeni, pe anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/40_2026_1790318731.pdf",
+     "sha256": "6a3666fa77d7264d129ce7383bf00500300cae729e87f83a84e287431b1548c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-42-2026",
+   "path": "local/botosani/unteni/2026/42",
+   "short": "HCL Unțeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 42/2026 privind rectificarea bugetului local si al bugetului de venituri proprii al scolii la comuna Unțeni, pe anul 2026",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/42_2026_1790665864.pdf",
+     "sha256": "7684f2c75949182c6dc1ddf2af62d644ab838fc269f9be4bd1b74783d178b47c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-43-2026",
+   "path": "local/botosani/unteni/2026/43",
+   "short": "HCL Unțeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 43/2026 privind desemnarea unui reprezentant al Consiliului local al comunei Unțeni în Comisia județeană de evaluare a probei de interviu a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/43_2026_1790666041.pdf",
+     "sha256": "19448699c5a3177dd0a5e223e182442671b63cd77f409bf88da9865768561980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-44-2026",
+   "path": "local/botosani/unteni/2026/44",
+   "short": "HCL Unțeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 44/2026 Privind aprobarea modificării organigramei şi a statului de funcţii a aparatului de specialitate a Primarului comunei Unțeni,judeţul Botoşani",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/44_2026_1790666107.pdf",
+     "sha256": "3104448cefd2f3035377a8bec4387a9dece59b51b987342f87e9873b4c9d1597"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-45-2026",
+   "path": "local/botosani/unteni/2026/45",
+   "short": "HCL Unțeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 45/2026 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie si decembrie anul 2026 și ianuarie 2027",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/45_2026_1793256329.pdf",
+     "sha256": "b7e7a58dfb2148dfcf161a1998a26c516ef445d147a843a2bbd59445669f87d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-46-2026",
+   "path": "local/botosani/unteni/2026/46",
+   "short": "HCL Unțeni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 46/2026",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/46_2026_1793256386.docx",
+     "sha256": "33317a2f94ec3b34ac243e94c0980b47ad411fb6004f9bed4a73a72fee2af0b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-47-2026",
+   "path": "local/botosani/unteni/2026/47",
+   "short": "HCL Unțeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 47/2026 privind aprobarea modificării organigramei şi a statului de funcţii a aparatului de specialitate a Primarului comunei Unțeni , judeţul Botoşani",
+   "url": "https://primariaunteni.ro/hotarari.php",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/47_2026_1793256431.pdf",
+     "sha256": "d903a6965577cc33c2d67a76cf656a3a9f43710dc4682e3a81ad0c9a77442ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-5-2026",
+   "path": "local/botosani/unteni/2026/5",
+   "short": "HCL Unțeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 5/2026 privind însuşirea unei informări",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/5_2026_1774345611.pdf",
+     "sha256": "0f9d8e55796301b6250922d07dfe5d7dc7000bbb9e9d48a47a3b45dae28ed17b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--unteni-7-2026",
+   "path": "local/botosani/unteni/2026/7",
+   "short": "HCL Unțeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unțeni nr. 7/2026 privind alegerea preşedintelui de şedinţă pentru lunile februarie,martie și aprilie",
+   "url": "https://primariaunteni.ro/hotarari.php?pagina=2",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaunteni.ro/admin/documente/hotarari/7_2026_1774345692.pdf",
+     "sha256": "f00bab64a93a0ae9c5db11d494fafc5038937198acb6dc005b1bd370ca48b9bf"
     }
    ]
   }

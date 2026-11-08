@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/micestii-de-campie/2022",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-537-2022",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2022/537",
+   "short": "HCL Miceștii de Câmpie nr. 537/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 537/2022",
+   "url": "https://micestiidecampie.ro/registru_hcl2022.html",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/uat_micestii_de_campie_prh_nr.538_14.03.2022_solicitare_supercom.pdf",
+     "sha256": "d3cc629d87959ae4a544c0beb4992ba7292becc510323ec3298cf39c6bcba37a"
+    }
+   ]
+  }
+ ]
+}

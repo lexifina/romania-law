@@ -3,6 +3,66 @@
  "shard": "local/bistrita-nasaud/teaca/2026",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--teaca-1-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/1",
+   "short": "HCL Teaca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 1/2026 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă efectuate de beneficiarii de venit minim de incluziune în anul 2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.01_27.01.2026.pdf",
+     "sha256": "83281432965cc8ac7654847bc1e2f5af5dbd45e63577dd00c0f9cb47bb81c92b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-11-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/11",
+   "short": "HCL Teaca nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 11/2026 privind aprobarea fondului de accesibilitate a pădurilor, a fondului de conservare și regenerare a pădurilor și a prețului de pornire la licitație pentru masa lemnoasă fasonată destinată vânzării din fondul forestier-proprietaea publică a Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.11_26.02.2026.pdf",
+     "sha256": "fe75d58a727ca9e11cdb3daecccaa5685284de50864774b73e2c45d180f9ad8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-12-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/12",
+   "short": "HCL Teaca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 12/2026 privind schimbarea destinației imobilului situat în satul Teaca, nr.348E din Centru Local de Informare Turistică în Comuna Teaca și Proximități, Dezvoltare și Marketing Turistic în clădire administrativă",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.12_26.02.2026.pdf",
+     "sha256": "48c24cdc0a007a083b8630e9fceb37cc62db1bcc5359fd947714538dae096a31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-14-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/14",
+   "short": "HCL Teaca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 14/2026 privind alegerea președintelui de ședință al Consiliului local al Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.14_26.02.2026.pdf",
+     "sha256": "c6979d32d07d0563125de060391f177c320b5b8e0b74e87da37d87c770182d64"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--teaca-15-2026",
    "path": "local/bistrita-nasaud/teaca/2026/15",
    "short": "HCL Teaca nr. 15/2026",
@@ -18,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--teaca-18-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/18",
+   "short": "HCL Teaca nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 18/2026 pentru aprobarea Strategiei Satului Inteligent al Comunei Teaca pentru perioada 2025-2029",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.18_26.03.2026.pdf",
+     "sha256": "a32b01ffa9f9d67732813048a7d7d594d476dc7cf08c0d64dd69f76cfede72b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-19-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/19",
+   "short": "HCL Teaca nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 19/2026 privind aprobarea alipirii imobilelor-terenuri înscrise în Cartea Funciară nr.28756 Teaca și Cartea Funciară nr.28756 Teaca și Cartea Funciară nr.28757 Teaca, situate în localitatea Teaca nr.94, proprietatea publică a Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.19_26.03.2026.pdf",
+     "sha256": "4e68f35e3693209a60b5e2a16c789f9a1a9a9f117f372d2736f1a6b15103e80a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--teaca-242-2026",
    "path": "local/bistrita-nasaud/teaca/2026/242",
    "short": "HCL Teaca nr. 242/2026",
@@ -29,6 +119,126 @@
      "units": 1,
      "source_url": "https://primariateaca.ro/documente/cariera/uat_teaca_nr.242_16.01.2026_rsdi.pdf",
      "sha256": "e1204d16d0bee8c6868b2c457503d7ec5d71eaf456dac756b0eea19a7023b49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-26-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/26",
+   "short": "HCL Teaca nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 26/2026 privind alegerea președintelui de ședință al Consiliului local al Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.26_11.05.2026.pdf",
+     "sha256": "cb3afea2920bc9ef2dd148ca3bdfab399ecf81ccc8c82bb708946bd895d2ac25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-27-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/27",
+   "short": "HCL Teaca nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 27/2026 privind majorarea contribuției lunare de întreținere datorată Unității de Asistență Medico-Socială Teaca de către persoanele internate sau susținătorii legali ai acestora",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.27_11.05.2026.pdf",
+     "sha256": "38f66e8ff36a124fa96669ebf06474f852ec398466a4ef696f01eee12d23e390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-28-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/28",
+   "short": "HCL Teaca nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 28/2026 privind aprobarea bugetului de venituri și cheltuieli al Comunei Teaca pentru anul 2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.28_11.05.2026.pdf",
+     "sha256": "e5ef53832d1ecf989f8b672486cd617800d7d7274fda0695f6572f60404f597e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-29-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/29",
+   "short": "HCL Teaca nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 29/2026 privind stabilirea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.29_09.06.2026.pdf",
+     "sha256": "4995902be9775d15f9c20a8092d7a924bba9e877693c371ffa12867c81147f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-3-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/3",
+   "short": "HCL Teaca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 3/2026 privind aprobarea prețului de referință al masei lemnoase pe picior, a prețului de vânzare directă către beneficiari și a volumului maxim de masă lemnoasă care se recoltează din fondul forestier - proprietatea publică a Comunei Teaca în anul 2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.03_27.01.2026.pdf",
+     "sha256": "ab6131d232a040bfaa497916f91692e0e12c5df8d4d9a9e2f77867f36f693c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-30-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/30",
+   "short": "HCL Teaca nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 30/2026 privind aprobarea accesării schemei de ajutor de stat ”Silvo-mediu și climă” aferentă intervenției DR-07 ”Silvo-mediu și climă” din cadrul Planului strategic PAC 2023 - 2027, Pachet I - Asigurarea zonei de liniște pentru pădurile proprietatea publică a comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.30_09.06.2026.pdf",
+     "sha256": "96c094fb65bf3411ce32a4d2e5e42e687f44efbf5b024caa9c1f3a64a8185871"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-33-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/33",
+   "short": "HCL Teaca nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 33/2026 privind aprobarea organigramei și a statului de funcții pentru implementarea proiectului: ”Furnizarea de servicii de îngrijire la domiciliu pentru persoanele vârstnice din Comuna Teaca, județul Bistrița-Năsăud”",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.33_16.06.2026.pdf",
+     "sha256": "0420e94785b6446579ce41aeffab8836fdafe431627a61224d63b78964be0367"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-34-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/34",
+   "short": "HCL Teaca nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 34/2026 privind asumarea/neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.34_03.07.2026.pdf",
+     "sha256": "c5c3b1ceb6e61f62309a60e8691fd9bb7e73f793b9dd13ebc552aff5b03aa113"
     }
    ]
   },
@@ -78,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--teaca-37-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/37",
+   "short": "HCL Teaca nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 37/2026 privind aprobarea prețului de pornire la licitație pentru masa lemnoasă fasonată destinată vânzării din fondul forestier-proprietatea publică a Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.37_20.07.2026.pdf",
+     "sha256": "7b2134acf04ac1401d4f75ad854da508ebaf4d06b6cadfb118ac532bbb0c3788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-4-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/4",
+   "short": "HCL Teaca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 4/2026 privind aderarea la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Bistrița-Năsăud a Asociației Comunelor din România",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.04_27.01.2026.pdf",
+     "sha256": "8b3d2ac6d84f10c3f94af6a9188081cc4726514d48b97c885adde247007c9639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-40-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/40",
+   "short": "HCL Teaca nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 40/2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/registru_hcl.html",
+     "sha256": "7d9491bc63d40800125b873b5140700a9fccaa3d3b3e44c3a173b18aabcab254"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--teaca-42-2026",
    "path": "local/bistrita-nasaud/teaca/2026/42",
    "short": "HCL Teaca nr. 42/2026",
@@ -89,6 +344,126 @@
      "units": 1,
      "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.42_28.08.2026.pdf",
      "sha256": "1f6d7812ef1a0c8c646743c7d335e2fd880e570b893a6651a61a48126071a55e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-47-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/47",
+   "short": "HCL Teaca nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 47/2026 privind aprobarea depunerii proiectului ”DEZVOLTAREA UNEI CAPACITĂȚI HIBRIDE DE PRODUCȚIE ȘI STOCARE A ENERGIEI ELECTRICE DIN SURSE REGENERABILE PENTRU ASIGURAREA AUTOCONSUMULUI COMUNEI TEACA” , și a cheltuielilor legate de acest proiect, în vederea finanțării în cadrul Fondului pentru Modernizare - Programul-cheie 1: Surse regenerabile de energie și stocarea energiei - ”Sprijinirea investițiilor",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl_nr.47_28.09.2026.pdf",
+     "sha256": "32f380298d4c7bb23b58f433b8f3a4c30ff4598edad2a22273792106df2e1019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-48-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/48",
+   "short": "HCL Teaca nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 48/2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/registru_hcl.html",
+     "sha256": "b51871730a6d5fe2a9b1b96575493869840f307b5d8e2c8958c8a5256690c550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-49-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/49",
+   "short": "HCL Teaca nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 49/2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/registru_hcl.html",
+     "sha256": "ba46fbd44cb22f10d458a0423ee3eb28ef8da62e0df88426acaf7bde5d6c8238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-5-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/5",
+   "short": "HCL Teaca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 5/2026 privind alegerea președintelui de ședință al Consiliului local al Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.05_27.01.2026.pdf",
+     "sha256": "a40c0504579c9444f0e8d21edb190895f6ce37b85785d7a291c5941220354e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-50-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/50",
+   "short": "HCL Teaca nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 50/2026 privind alegerea președintelui de ședință al Consiliului local al Comunei Teaca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl_nr.50_28.09.2026.pdf",
+     "sha256": "7cc2537a03a4680c7864c3968e5e5032f15c60fcc4636a37346f609549d97212"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-51-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/51",
+   "short": "HCL Teaca nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 51/2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/registru_hcl.html",
+     "sha256": "58345632929071b663e70d00bfc77841ce6897795f8eec483e510d3406e57d94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-6-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/6",
+   "short": "HCL Teaca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 6/2026 privind aprobarea proiectului tehnic și a detaliilor de execuție, a indicatorior tehnico-economici pentru obiectivul de investiții ”Rețea de alimentare cu apa potabilă în localitatea Budurleni, comuna Teaca, județul Bistrița-Năsăud”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul loca",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.06_13.02.2026.pdf",
+     "sha256": "bbeb9fbe74f0237c37483778ceb42b390208e7a737382ffb64d4487101d6ebbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-7-2026",
+   "path": "local/bistrita-nasaud/teaca/2026/7",
+   "short": "HCL Teaca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 7/2026 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul comunei Teaca pentru anul 2026",
+   "url": "https://primariateaca.ro/registru_hcl.html",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/hcl/uat_teaca_hcl.nr.07_26.02.2026.pdf",
+     "sha256": "896a8a3d89c28b3ea1e988a2ddbeae0e2ef0ea251c9207de7944468e1a2ce0f0"
     }
    ]
   }

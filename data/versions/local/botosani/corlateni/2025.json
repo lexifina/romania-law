@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-16-2025",
+   "path": "local/botosani/corlateni/2025/16",
+   "short": "HCL Corlăteni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 16/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252000",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252000",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-17-2025",
    "path": "local/botosani/corlateni/2025/17",
    "short": "HCL Corlăteni nr. 17/2025",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-20-2025",
+   "path": "local/botosani/corlateni/2025/20",
+   "short": "HCL Corlăteni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 20/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252004",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-21-2025",
    "path": "local/botosani/corlateni/2025/21",
    "short": "HCL Corlăteni nr. 21/2025",
@@ -178,6 +208,21 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-22-2025",
+   "path": "local/botosani/corlateni/2025/22",
+   "short": "HCL Corlăteni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 22/2025 privind aprobarea utilizării sumei de 10 mii lei rămasă neutilizată din excedentul bugetar din anul 2024 în anul 2025 pentru finanțarea cheltuielilor secțiunii de dezvoltare a bugetului local al Comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252014",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252014",
      "sha256": null
     }
    ]
@@ -208,6 +253,21 @@
      "from": "2025-06-30",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-25-2025",
+   "path": "local/botosani/corlateni/2025/25",
+   "short": "HCL Corlăteni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 25/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252017",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252017",
      "sha256": null
     }
    ]
@@ -268,6 +328,21 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-3-2025",
+   "path": "local/botosani/corlateni/2025/3",
+   "short": "HCL Corlăteni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 3/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251964",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251964",
      "sha256": null
     }
    ]
@@ -418,6 +493,21 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-4-2025",
+   "path": "local/botosani/corlateni/2025/4",
+   "short": "HCL Corlăteni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 4/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251965",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251965",
      "sha256": null
     }
    ]

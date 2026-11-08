@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/rachiti/2025",
+ "acts": [
+  {
+   "slug": "hcl-botosani--rachiti-100-2025",
+   "path": "local/botosani/rachiti/2025/100",
+   "short": "HCL Răchiți nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 100/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_100_28.11.2025.pdf",
+     "sha256": "5c5db2a14cf027fe14375ce27c2a7a50b411002f0674b684076f1762490b9094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-101-2025",
+   "path": "local/botosani/rachiti/2025/101",
+   "short": "HCL Răchiți nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 101/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_101_28.11.2025.pdf",
+     "sha256": "1ca14a78c165456471d02e17aba980382d6d6a4acca13b96ca408b23a0c119e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-102-2025",
+   "path": "local/botosani/rachiti/2025/102",
+   "short": "HCL Răchiți nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 102/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_102_12.12.2025.pdf",
+     "sha256": "96756911cda60ef8e4a46e00c56fed625502f72416d3a63eaf97fb75ac428d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-103-2025",
+   "path": "local/botosani/rachiti/2025/103",
+   "short": "HCL Răchiți nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 103/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_103_12.12.2025.pdf",
+     "sha256": "b230f700e22e6590ab120c0fe029e23121ef16be467dbff66ba7d09387893a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-104-2025",
+   "path": "local/botosani/rachiti/2025/104",
+   "short": "HCL Răchiți nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 104/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_104_12.12.2025.pdf",
+     "sha256": "bd2cb87cbd5c9b8e18f39790de72cacc63cd1e08ce2dd4eeccd3cbf7c4560916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-105-2025",
+   "path": "local/botosani/rachiti/2025/105",
+   "short": "HCL Răchiți nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 105/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_105_19.12.2025.pdf",
+     "sha256": "d741b7f243aea85db8e1ba967cd385315b7d33cfa5ca05cb533bd856ff2ae1b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-106-2025",
+   "path": "local/botosani/rachiti/2025/106",
+   "short": "HCL Răchiți nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 106/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_106_19.12.2025.pdf",
+     "sha256": "49598c389c380f1273b391b6969997872ef7a7694eb53e44d2a4d0d57b26f52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-107-2025",
+   "path": "local/botosani/rachiti/2025/107",
+   "short": "HCL Răchiți nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 107/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_107_19.12.2025.pdf",
+     "sha256": "449c59e7e9fc468c3b3446a398681161a9af066001726037c91e35366deb1c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-108-2025",
+   "path": "local/botosani/rachiti/2025/108",
+   "short": "HCL Răchiți nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 108/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_108_19.12.2025.pdf",
+     "sha256": "3db9ef2d54f1f3621c32947ee6e3e2db86603d287da0aa26bd260b6b0ddbe472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-109-2025",
+   "path": "local/botosani/rachiti/2025/109",
+   "short": "HCL Răchiți nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 109/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_109_19.12.2025.pdf",
+     "sha256": "ef91490560dad9cd8d75227e974c9725eb7fbd3c4a4418b2150401a0e00e941c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-110-2025",
+   "path": "local/botosani/rachiti/2025/110",
+   "short": "HCL Răchiți nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 110/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_110_19.12.2025.pdf",
+     "sha256": "ea3d505bfb85998bb54f1f26a31f78902f5ceb6c185dc1eb26e49c82c44223eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-111-2025",
+   "path": "local/botosani/rachiti/2025/111",
+   "short": "HCL Răchiți nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 111/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_111_19.12.2025.pdf",
+     "sha256": "8de7477066e181a6270a9b469acd957f10cae7821ac0a55529906feb79cc9456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-112-2025",
+   "path": "local/botosani/rachiti/2025/112",
+   "short": "HCL Răchiți nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 112/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_112_19.12.2025.pdf",
+     "sha256": "5826762110327dab79d72dc4c286d3d7cf604eff6e77e1af18d0ae3f83d35741"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-113-2025",
+   "path": "local/botosani/rachiti/2025/113",
+   "short": "HCL Răchiți nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 113/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_113_29.12.2025.pdf",
+     "sha256": "d50424ac0cf1b9aa5d6f9f84df2baa100b979e09a4dc5771dc87587010f08dc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-114-2025",
+   "path": "local/botosani/rachiti/2025/114",
+   "short": "HCL Răchiți nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 114/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/12/hot_114_29.12.2025.pdf",
+     "sha256": "ad171bc68772aff977b41359bcfe397ac59f16fa6938f2a4bdadd46c0e369d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-73-2025",
+   "path": "local/botosani/rachiti/2025/73",
+   "short": "HCL Răchiți nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 73/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_73_29.08.2025.pdf",
+     "sha256": "632d9abf169246c44f0a06c794731156c7e3f6b3a11675a9bc9e4dadf39ef7f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-74-2025",
+   "path": "local/botosani/rachiti/2025/74",
+   "short": "HCL Răchiți nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 74/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_74_29.08.2025.pdf",
+     "sha256": "359ed048fa4db7b16de8b3f43683b0eeea59fb20a8ce7e4fe75742088ea6c09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-75-2025",
+   "path": "local/botosani/rachiti/2025/75",
+   "short": "HCL Răchiți nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 75/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_75_29.08.2025.pdf",
+     "sha256": "e47a0b80ab25b9b6dcb66c76ea8771f4b64076aab783d297346bc6c1cc2a980b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-76-2025",
+   "path": "local/botosani/rachiti/2025/76",
+   "short": "HCL Răchiți nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 76/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_76_29.08.2025.pdf",
+     "sha256": "328aa1ffb21c1a7d90ae3516e1b58566055c219a870f0df76251d4dd45157733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-77-2025",
+   "path": "local/botosani/rachiti/2025/77",
+   "short": "HCL Răchiți nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 77/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_77_29.08.2025.pdf",
+     "sha256": "110b7d2f95face2316617bc4059f145a296eb6fc6fd949f2d27e351eb04ecc13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-78-2025",
+   "path": "local/botosani/rachiti/2025/78",
+   "short": "HCL Răchiți nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 78/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/08/hot_78_29.08.2025.pdf",
+     "sha256": "f850dac13d89b378360c75e7a180433b3bb14f3b24ceaf22e94547dbff7615c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-79-2025",
+   "path": "local/botosani/rachiti/2025/79",
+   "short": "HCL Răchiți nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 79/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_79_22.09.2025.pdf",
+     "sha256": "4b40395bb486a0535f9788762f0cbd6fecbd4554f44a1b5a5eff3a3ae4dd94a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-80-2025",
+   "path": "local/botosani/rachiti/2025/80",
+   "short": "HCL Răchiți nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 80/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_80_22.09.2025.pdf",
+     "sha256": "8d2fdf2c38fc8a958be54779d85a51d75e5a24e20626debeb54b510c00b93f37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-81-2025",
+   "path": "local/botosani/rachiti/2025/81",
+   "short": "HCL Răchiți nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 81/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_81_22.09.2025.pdf",
+     "sha256": "34b03391da029fa10d087533d72ba9c8de8b3e46686f4fdd0f74ae82ef2a9610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-82-2025",
+   "path": "local/botosani/rachiti/2025/82",
+   "short": "HCL Răchiți nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 82/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_82_29.09.2025.pdf",
+     "sha256": "0b463c41dc44489a5a6378719bdef1a1c42cc19e215478a9eb6d38004029884c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-83-2025",
+   "path": "local/botosani/rachiti/2025/83",
+   "short": "HCL Răchiți nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 83/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_83_29.09.2025.pdf",
+     "sha256": "1fb17a70e57c25b6e25b1846d62b95eef73b9065640860cc1bc4669cc1e7b6da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-84-2025",
+   "path": "local/botosani/rachiti/2025/84",
+   "short": "HCL Răchiți nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 84/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_84_29.09.2025.pdf",
+     "sha256": "4869acebc4359f984c6fe2f8305508c214fedad92c2dbd49ab2737a94eee856e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-85-2025",
+   "path": "local/botosani/rachiti/2025/85",
+   "short": "HCL Răchiți nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 85/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_85_29.09.2025.pdf",
+     "sha256": "40e54d8526bd6d43e37a459791ecaa84aee4e6ebad5d4dba06737da72fb64db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-86-2025",
+   "path": "local/botosani/rachiti/2025/86",
+   "short": "HCL Răchiți nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 86/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_86_29.09.2025.pdf",
+     "sha256": "2b940cfdd683c7f72f9927bbb912978be46b562a4929dbc1d87e40dd6fff9c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-87-2025",
+   "path": "local/botosani/rachiti/2025/87",
+   "short": "HCL Răchiți nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 87/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_87_29.09.2025.pdf",
+     "sha256": "791273232058ad303675c7662bc3df333efb0547998a9d1bfe92d5527b0d97d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-88-2025",
+   "path": "local/botosani/rachiti/2025/88",
+   "short": "HCL Răchiți nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 88/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/09/hot_88_29.09.2025.pdf",
+     "sha256": "38f78e79a3ddb7301dfece0a52bc5d4e4946c5ee3f52002565a6494c016706bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-89-2025",
+   "path": "local/botosani/rachiti/2025/89",
+   "short": "HCL Răchiți nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 89/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/10/hot_89_16.10.2025.pdf",
+     "sha256": "64fb5a3f468f61d3513b278bd828cdafd6a463b2ccd89cb06ba554815c2763ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-90-2025",
+   "path": "local/botosani/rachiti/2025/90",
+   "short": "HCL Răchiți nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 90/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_90_14.11.2025.pdf",
+     "sha256": "b5da7a74794d3d0da3451efdfd157425d65ad0250a52c59cedc0481031ce1970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-91-2025",
+   "path": "local/botosani/rachiti/2025/91",
+   "short": "HCL Răchiți nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 91/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/Completare%20la%20HCL%20Nr.%2091%20din%2028.11.2025%20prin%20HCL%20nr.%209%20din%2029.01.2026.pdf",
+     "sha256": "0782bcdd32277d4a1a5d1d5ceafad5ae25dc9c371ec019b34ed812576b9ff637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-92-2025",
+   "path": "local/botosani/rachiti/2025/92",
+   "short": "HCL Răchiți nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 92/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_92_28.11.2025.pdf",
+     "sha256": "98c866d36556c9aa7f33fb4fa6441d2486c99e60880e7a8a270f31ef5ab8774a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-93-2025",
+   "path": "local/botosani/rachiti/2025/93",
+   "short": "HCL Răchiți nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 93/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_93_28.11.2025.pdf",
+     "sha256": "0f86f7f7208ccf013bae2c054de4e3e6a479a3ed4565c7483112280eaf935c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-94-2025",
+   "path": "local/botosani/rachiti/2025/94",
+   "short": "HCL Răchiți nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 94/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_94_28.11.2025.pdf",
+     "sha256": "18916d7b52df07ac38ea62dee2a2c9329fe3fa8492fa4b425e3d99fb8e2be916"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-95-2025",
+   "path": "local/botosani/rachiti/2025/95",
+   "short": "HCL Răchiți nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 95/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_95_28.11.2025.pdf",
+     "sha256": "5003eb5ac3fb416cb8e9d73c4d750401da733ed69750d4d921abb272f6287804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-96-2025",
+   "path": "local/botosani/rachiti/2025/96",
+   "short": "HCL Răchiți nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 96/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_96_28.11.2025.pdf",
+     "sha256": "7f10c00dcf9afa61fd22d02efc052a5e2d67be36de48cb184544ccff1b35fb0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-97-2025",
+   "path": "local/botosani/rachiti/2025/97",
+   "short": "HCL Răchiți nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 97/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_97_28.11.2025.pdf",
+     "sha256": "fc7a3299118a19c8a6085a995f9380de13c826944383372a811b819690d99b4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-98-2025",
+   "path": "local/botosani/rachiti/2025/98",
+   "short": "HCL Răchiți nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 98/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_98_28.11.2025.pdf",
+     "sha256": "e4c91597556af4df7838173ba629fd845e6aa4011535cde476a35d7c00d89893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rachiti-99-2025",
+   "path": "local/botosani/rachiti/2025/99",
+   "short": "HCL Răchiți nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiți nr. 99/2025",
+   "url": "https://www.primariarachiti.ro/index.php/hotararile-autoritatii-deliberative/hotarari-consiliu-local-rachiti-2025",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariarachiti.ro/alldata/2025/11/hot_99_28.11.2025.pdf",
+     "sha256": "557651ab16d8a138f165bd4780f66bc9ac46ccd53a3ca5bedaf447025a3415a4"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,72 @@
 "shard": "local/botosani/radauti-prut/2022",
 "acts": [
 {
+"slug": "hcl-botosani--radauti-prut-4-2022",
+"path": "local/botosani/radauti-prut/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 4/2022 privind Planul de acțiuni și lucrări de interes local pe anul 2022 ce vor fi executate de către beneficiarii de lucrări de ajutor social",
+"short": "HCL Rădăuți-Prut nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-6-2022",
+"path": "local/botosani/radauti-prut/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 6/2022 privind aprobarea bugetului local al Comunei Rădăuți-Prut pe anul 2022",
+"short": "HCL Rădăuți-Prut nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-9-2022",
+"path": "local/botosani/radauti-prut/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 9/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-10",
+"latest": "2022-03-10",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--radauti-prut-12-2022",
 "path": "local/botosani/radauti-prut/2022/12",
 "kind": "local",
@@ -22,6 +88,270 @@
 "council_name": "Consiliul Local al Comunei Rădăuți-Prut",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-19-2022",
+"path": "local/botosani/radauti-prut/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 19/2022 privind declararea perioadei 1 aprilie - 30 aprilie 2022 ''LUNA CURĂȚENIEI",
+"short": "HCL Rădăuți-Prut nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-23-2022",
+"path": "local/botosani/radauti-prut/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 23/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-13",
+"latest": "2022-05-13",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-24-2022",
+"path": "local/botosani/radauti-prut/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 24/2022 privind atestarea modificarii inventarului bunurilor care alcatuiesc domeniul public",
+"short": "HCL Rădăuți-Prut nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-26-2022",
+"path": "local/botosani/radauti-prut/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 26/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-13",
+"latest": "2022-07-13",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-27-2022",
+"path": "local/botosani/radauti-prut/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 27/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-12",
+"latest": "2022-08-12",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-35-2022",
+"path": "local/botosani/radauti-prut/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 35/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-07",
+"latest": "2022-09-07",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-38-2022",
+"path": "local/botosani/radauti-prut/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 38/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-44-2022",
+"path": "local/botosani/radauti-prut/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 44/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-45-2022",
+"path": "local/botosani/radauti-prut/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 45/2022 privind aprobarea structurii organizatorice a Aparatului de Specialitate al primarului",
+"short": "HCL Rădăuți-Prut nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-51-2022",
+"path": "local/botosani/radauti-prut/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 51/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-52-2022",
+"path": "local/botosani/radauti-prut/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 52/2022 privind modificarea și completarea HCL nr. 15 din 29.04.2022",
+"short": "HCL Rădăuți-Prut nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-16",
+"latest": "2022-12-16",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--radauti-prut-55-2022",
+"path": "local/botosani/radauti-prut/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 55/2022 privind rectificarea bugetului local al Comunei Rădăuți-Prut",
+"short": "HCL Rădăuți-Prut nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/86-hotarari-anul-2022",
+"council": "botosani/radauti-prut",
+"council_name": "Consiliul Local al Comunei Rădăuți-Prut",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

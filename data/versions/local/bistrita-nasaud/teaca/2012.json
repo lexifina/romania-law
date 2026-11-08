@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/teaca/2012",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-18-2012",
+   "path": "local/bistrita-nasaud/teaca/2012/18",
+   "short": "HCL Teaca nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 18/2012 pentru meritele deosebite și contribuția adusă la promovarea folclorului autentic românesc și imaginea deosebită făcută zonei folclorice a Comunei Teaca",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/uat_teaca_hcl.nr.18_22.03.2012_cetatean_onoare.pdf",
+     "sha256": "15afea56f3a5397a714678991e1ffa2e6eb8bb2957d56bfc57b376707ae78687"
+    }
+   ]
+  }
+ ]
+}

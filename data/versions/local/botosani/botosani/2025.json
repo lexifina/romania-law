@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-131-2025",
+   "path": "local/botosani/botosani/2025/131",
+   "short": "HCL Botoșani nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 131/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/131_25-1.pdf",
+     "sha256": "0d8d880946c46c3b46a111c5ca31a820398fdb074512d10ae5eb381135e49a35"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-144-2025",
    "path": "local/botosani/botosani/2025/144",
    "short": "HCL Botoșani nr. 144/2025",

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/rauseni/2026",
+ "acts": [
+  {
+   "slug": "hcl-botosani--rauseni-10-2026",
+   "path": "local/botosani/rauseni/2026/10",
+   "short": "HCL Răuseni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 10/2026",
+   "url": "https://rausenibt.ro/wp-content/uploads/2026/04/HCL-nr.-10-din-30.03.2026-Desemnare-consilieri-locali-evaluare-performante-perofesionale-2025-secretar-general-UAT-Rauseni-judetul-Botosani.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2026/04/HCL-nr.-10-din-30.03.2026-Desemnare-consilieri-locali-evaluare-performante-perofesionale-2025-secretar-general-UAT-Rauseni-judetul-Botosani.pdf",
+     "sha256": "0bfd28a0ce31223e3b024d4e2fa1b028ad92399acf35215b3cdb16c3b663d906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rauseni-24-2026",
+   "path": "local/botosani/rauseni/2026/24",
+   "short": "HCL Răuseni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 24/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8e1d5fe3793a68c79a433ce8a57164953288867736c4c64fd94e416d05b27db0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rauseni-25-2026",
+   "path": "local/botosani/rauseni/2026/25",
+   "short": "HCL Răuseni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 25/2026 privind aprobarea proiectului ,,lnstalare capacitate de producere a energiei din surse solare pentru autoconsrmrul Comunei Rduseni\" gi aprobarea achiziliei serviciilor de consultan!6, elaborare Studiu de Fezabilitate, in vederea depunerii pentru finanlare prin Ministerul Energiei - Fondul pentru Modernizare, Programul-cheie 1: Surse regenerabile de energie qi stocarea energiei Consiliul local al c",
+   "url": "https://rausenibt.ro/wp-content/uploads/2026/08/HCL-nr.-25-din-29.06.2026-Instalare-capacitate-producere-energie-din-surse-solare.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2026/08/HCL-nr.-25-din-29.06.2026-Instalare-capacitate-producere-energie-din-surse-solare.pdf",
+     "sha256": "2c889a8aa164a5fd39dfe7a0f824c24d780f318a8a5fff4431a9b53dd9ea493a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rauseni-30-2026",
+   "path": "local/botosani/rauseni/2026/30",
+   "short": "HCL Răuseni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 30/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c51eb5c00b30062f7bd5e0a0ed02acd80585c0cc9320db07d77aedcec5c81a8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--rauseni-6-2026",
+   "path": "local/botosani/rauseni/2026/6",
+   "short": "HCL Răuseni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Răuseni nr. 6/2026",
+   "url": "https://rausenibt.ro/wp-content/uploads/2026/04/HCL-nr.-6-din-30.03.2026-Aprobare-cont-executie-buget-local-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://rausenibt.ro/wp-content/uploads/2026/04/HCL-nr.-6-din-30.03.2026-Aprobare-cont-executie-buget-local-2025.pdf",
+     "sha256": "0b072ef392cce5481df9c456fd2d9c70d231e58277ee829f34c26bc5572cc92c"
+    }
+   ]
+  }
+ ]
+}

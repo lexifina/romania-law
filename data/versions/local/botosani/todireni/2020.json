@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-12-2020",
+   "path": "local/botosani/todireni/2020/12",
+   "short": "HCL Todireni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 12/2020 privind aprobare ROF Consiliu local",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6102",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6102",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-13-2020",
    "path": "local/botosani/todireni/2020/13",
    "short": "HCL Todireni nr. 13/2020",
@@ -58,6 +73,81 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/6103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-14-2020",
+   "path": "local/botosani/todireni/2020/14",
+   "short": "HCL Todireni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 14/2020 privind aprobarea Raportului privind starea economică, socială și de mediu",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6104",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-15-2020",
+   "path": "local/botosani/todireni/2020/15",
+   "short": "HCL Todireni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 15/2020 privind aprobarea Planului de achiziții publice /anul 2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6105",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-16-2020",
+   "path": "local/botosani/todireni/2020/16",
+   "short": "HCL Todireni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 16/2020 privind aprobare Planului de măsuri – Gospodărie comunală",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6106",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-17-2020",
+   "path": "local/botosani/todireni/2020/17",
+   "short": "HCL Todireni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 17/2020 privind alocare sumă achiziție măști pentru protecția feței",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6107",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-18-2020",
+   "path": "local/botosani/todireni/2020/18",
+   "short": "HCL Todireni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 18/2020 privind modificarea contractului unic de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6108",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6108",
      "sha256": null
     }
    ]
@@ -78,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-2-2020",
+   "path": "local/botosani/todireni/2020/2",
+   "short": "HCL Todireni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 2/2020 privind aprobare devizului general pentru obiectivul de investiții – „Amenajare grup sanitar Școala primară nr.3 Iurești”, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6093",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6093",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-20-2020",
    "path": "local/botosani/todireni/2020/20",
    "short": "HCL Todireni nr. 20/2020",
@@ -88,6 +193,51 @@
      "from": "2020-04-29",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/9116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-21-2020",
+   "path": "local/botosani/todireni/2020/21",
+   "short": "HCL Todireni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 21/2020 privind concesionarea prin licitație publică a suprafeței de 166 mp, PC 766-doeniu public",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9117",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-22-2020",
+   "path": "local/botosani/todireni/2020/22",
+   "short": "HCL Todireni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 22/2020 privind aprobarea implementării proiectului- „Măsuri pentru reducerea numărului de copii și tineri plasați în instituții prin furnizarea de servicii sociale la nivelul comunității în comuna Todireni, județul Botoșani \"",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9118",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-23-2020",
+   "path": "local/botosani/todireni/2020/23",
+   "short": "HCL Todireni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 23/2020 privind aprobarea bugetului și a contribuției proprii pentru proiectul - „Măsuri pentru reducerea numărului de copii și tineri plasați în instituții prin furnizarea de servicii sociale la nivelul comunității în comuna Todireni, județul Botoșani \"",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9119",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9119",
      "sha256": null
     }
    ]
@@ -133,6 +283,111 @@
      "from": "2020-05-20",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/9157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-27-2020",
+   "path": "local/botosani/todireni/2020/27",
+   "short": "HCL Todireni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 27/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9180",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-28-2020",
+   "path": "local/botosani/todireni/2020/28",
+   "short": "HCL Todireni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 28/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9181",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-29-2020",
+   "path": "local/botosani/todireni/2020/29",
+   "short": "HCL Todireni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 29/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9182",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-3-2020",
+   "path": "local/botosani/todireni/2020/3",
+   "short": "HCL Todireni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 3/2020 privind aprobarea Planului de activități culturale pe anul 2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6094",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-30-2020",
+   "path": "local/botosani/todireni/2020/30",
+   "short": "HCL Todireni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 30/2020 privind aprobarea regulamentului serviciului de canalizare în comuna Todireni, județul Botoșani",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9183",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-31-2020",
+   "path": "local/botosani/todireni/2020/31",
+   "short": "HCL Todireni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 31/2020 privind acordare mandat special reprezentantului UAT Comuna Todireni în AGA – ADI „Ecoproces” pentru aprobare Act adițional nr. 5",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9262",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-32-2020",
+   "path": "local/botosani/todireni/2020/32",
+   "short": "HCL Todireni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 32/2020 privind aprobare Organigramă și Stat funcții aparat specialitate/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9263",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9263",
      "sha256": null
     }
    ]
@@ -213,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-38-2020",
+   "path": "local/botosani/todireni/2020/38",
+   "short": "HCL Todireni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 38/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9269",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-39-2020",
    "path": "local/botosani/todireni/2020/39",
    "short": "HCL Todireni nr. 39/2020",
@@ -223,6 +493,21 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/9270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-4-2020",
+   "path": "local/botosani/todireni/2020/4",
+   "short": "HCL Todireni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 4/2020 privind aprobarea Planului de acțiuni/lucrări pentru beneficiarii de VMG/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6095",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6095",
      "sha256": null
     }
    ]
@@ -288,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-44-2020",
+   "path": "local/botosani/todireni/2020/44",
+   "short": "HCL Todireni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 44/2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15052",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-45-2020",
    "path": "local/botosani/todireni/2020/45",
    "short": "HCL Todireni nr. 45/2020",
@@ -318,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--todireni-47-2020",
+   "path": "local/botosani/todireni/2020/47",
+   "short": "HCL Todireni nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 47/2020 privind suplimentarea valorii de investiții pentru obiectivul „Construire teren de sport multifuncțional din gazon artificial”",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/15055",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/15055",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--todireni-48-2020",
    "path": "local/botosani/todireni/2020/48",
    "short": "HCL Todireni nr. 48/2020",
@@ -343,6 +658,21 @@
      "from": "2020-11-11",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/15061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-5-2020",
+   "path": "local/botosani/todireni/2020/5",
+   "short": "HCL Todireni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 5/2020 privind aprobare numărului asistenţilor personali şi încheierea contractelor individuale de muncă ale acestora în anul 2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6096",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6096",
      "sha256": null
     }
    ]
@@ -493,6 +823,21 @@
      "from": "2020-12-07",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/15071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-6-2020",
+   "path": "local/botosani/todireni/2020/6",
+   "short": "HCL Todireni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 6/2020 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Todireni, începând cu data de 01.01.2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6097",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6097",
      "sha256": null
     }
    ]
@@ -673,6 +1018,36 @@
      "from": "2020-12-30",
      "units": 1,
      "source_url": "https://emol.ro/todireni-bt/registru-hcl/15085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-8-2020",
+   "path": "local/botosani/todireni/2020/8",
+   "short": "HCL Todireni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 8/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/9065",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/9065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--todireni-9-2020",
+   "path": "local/botosani/todireni/2020/9",
+   "short": "HCL Todireni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Todireni nr. 9/2020 privind stabilirea nr. de burse pentru elevii Liceului Tehn. Todireni și cuantumul acestora pentru anul școlar 2019-2020",
+   "url": "https://emol.ro/todireni-bt/registru-hcl/6099",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/todireni-bt/registru-hcl/6099",
      "sha256": null
     }
    ]

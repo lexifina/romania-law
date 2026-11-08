@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/saveni/2021",
+ "acts": [
+  {
+   "slug": "hcl-botosani--saveni-124-2021",
+   "path": "local/botosani/saveni/2021/124",
+   "short": "HCL Săveni nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 124/2021",
+   "url": "https://primariasaveni.ro/documente/hcl-nr-124-din-05-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-124-05.11.2021-.pdf",
+     "sha256": "77eddab2339cc6bb40178d92bb3fcffea1b938a7af6a21dba4bb3502b45d8f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-125-2021",
+   "path": "local/botosani/saveni/2021/125",
+   "short": "HCL Săveni nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 125/2021",
+   "url": "https://primariasaveni.ro/documente/hcl-nr-125-din-05-11-2021/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Hotararea-nr.-125-05.11.2021.pdf",
+     "sha256": "2faba736e807ddeca9a7cb1820de2dfc531b9f30cdc79d4db1b0862adacef400"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-14-2021",
+   "path": "local/botosani/saveni/2021/14",
+   "short": "HCL Săveni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 14/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/79/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-14-din-04.12.2021.pdf",
+     "sha256": "9a694016768ece3677ffd09a68d34ea013a7d2b6c174d6531c34b697f272c714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-15-2021",
+   "path": "local/botosani/saveni/2021/15",
+   "short": "HCL Săveni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 15/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/79/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-15-din-04.12.2021.pdf",
+     "sha256": "f07de3c78adf309a422625570c63d56724e2973fad07a00f9cf7cedaf359373d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-16-2021",
+   "path": "local/botosani/saveni/2021/16",
+   "short": "HCL Săveni nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 16/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/78/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-16-din-04.12.2021.pdf",
+     "sha256": "4b6ce805eb68e64d18189eb0c88396658a2c82f24eed4f3df90b9c6b43e11bbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-17-2021",
+   "path": "local/botosani/saveni/2021/17",
+   "short": "HCL Săveni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 17/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/78/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-17-din-04.12.2021.pdf",
+     "sha256": "637062a7cb5cc73aeef94c5370571af682aa61e7faa8c5ba99bbeacddaea0e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-18-2021",
+   "path": "local/botosani/saveni/2021/18",
+   "short": "HCL Săveni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 18/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/78/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-18-din-04.12.2021.pdf",
+     "sha256": "d981a79183d04d3ed80a80f1f46c9a98428fa8eafd7eab6586d3088e9d9de175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-19-2021",
+   "path": "local/botosani/saveni/2021/19",
+   "short": "HCL Săveni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 19/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/78/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-19-din-04.12.2021.pdf",
+     "sha256": "b316563ba36bcb62bf44b238cce45999da4231b2cb19cd8e68c9f3a157e2e1a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--saveni-20-2021",
+   "path": "local/botosani/saveni/2021/20",
+   "short": "HCL Săveni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Săveni nr. 20/2021",
+   "url": "https://primariasaveni.ro/categorie-documente/monitorul-oficial-local/page/78/",
+   "versions": [
+    {
+     "from": "2021-12-04",
+     "units": 1,
+     "source_url": "https://primariasaveni.ro/wp-content/uploads/Notificare-oferta-vanzare-teren-nr.-20-din-04.12.2021.pdf",
+     "sha256": "cf68e9941ef7f5a64a7e8179c2c4a5d701de62d4c2e1aae29e4e5099a4dc5107"
+    }
+   ]
+  }
+ ]
+}

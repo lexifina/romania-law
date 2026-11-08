@@ -3,6 +3,156 @@
  "shard": "local/botosani/manoleasa/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--manoleasa-1-2025",
+   "path": "local/botosani/manoleasa/2025/1",
+   "short": "HCL Manoleasa nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 1/2025 privind aprobarea sumei de 408,00 lei din excedentul anului 2024",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL-nr-1-privind-aprobarea-sumei-de-40800-lei-din-excedentul-anului-2024.pdf",
+     "sha256": "d7f6516ba4c391c103e65d9039c6b9f1063ecc310542358747612f62beb833ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-10-2025",
+   "path": "local/botosani/manoleasa/2025/10",
+   "short": "HCL Manoleasa nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 10/2025 privind aprobarea contributiei lunare de intretinere pentru servicii furnizate de UAMS Saveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.10%20privind%20aprobarea%20contributiei%20lunare%20de%20intretinere%20pentru%20servicii%20furnizate%20de%20UAMS%20Saveni.pdf",
+     "sha256": "501336191fa930d3b8c5a1c2fe7e2aa1e174e0e842c264d3bc28498d44ce0349"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-11-2025",
+   "path": "local/botosani/manoleasa/2025/11",
+   "short": "HCL Manoleasa nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 11/2025 privind cheltuirea sumei de 397 primita din fonduri PNDL",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.11%20privind%20cheltuirea%20sumei%20de%20397%20primita%20din%20fonduri%20PNDL.pdf",
+     "sha256": "6d6b674dd4077ce13df031c8aeb8984c3698e2259bd633d76350a66bd142ff20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-12-2025",
+   "path": "local/botosani/manoleasa/2025/12",
+   "short": "HCL Manoleasa nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 12/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.12%20privind%20aprobarea%20Planului%20de%20ac%C8%9Biuni%20%C8%99i%20lucr%C4%83ri%20de%20interes%20local%20pe%20anul%202025.pdf",
+     "sha256": "e4d4162bd556c0363882ed9d61213f428ccaadff2be080e9c2afcecf5c163682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-13-2025",
+   "path": "local/botosani/manoleasa/2025/13",
+   "short": "HCL Manoleasa nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 13/2025 privind decontarea contravalorii cheltuielilor de transport",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.13%20privind%20decontarea%20contravalorii%20cheltuielilor%20de%20transport.pdf",
+     "sha256": "53fedadb4d68377b4d4107ea29cea46094f890d949f14d4ae360768b610cfae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-14-2025",
+   "path": "local/botosani/manoleasa/2025/14",
+   "short": "HCL Manoleasa nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 14/2025 privind aprobarea sumelor pentru amortizarea cheltuielilor cu consumul de apă",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.14%20privind%20aprobarea%20sumelor%20pentru%20amortizarea%20cheltuielilor%20cu%20consumul%20de%20ap%C4%83.pdf",
+     "sha256": "5d0c749e3d25ba870fb7ed8a694ca248473700858cf9fbc4079356a98171e2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-15-2025",
+   "path": "local/botosani/manoleasa/2025/15",
+   "short": "HCL Manoleasa nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 15/2025 privind aprobare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2015%20privind%20aprobare%20buget.pdf",
+     "sha256": "73c2cca95c9c0bb3e73d73af6f4eb4abf99b864474489c07e83601323ed68d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-16-2025",
+   "path": "local/botosani/manoleasa/2025/16",
+   "short": "HCL Manoleasa nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 16/2025 privind declararea lunii aprilie ”Luna curateniei”",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2016%20privind%20declararea%20lunii%20aprilie%20%E2%80%9DLuna%20curateniei%E2%80%9D.pdf",
+     "sha256": "db91be2cf7f6dcbbfa42a2e1a3105214783027c36c6a4437bd61c688864421c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-17-2025",
+   "path": "local/botosani/manoleasa/2025/17",
+   "short": "HCL Manoleasa nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 17/2025 privind constituirea Consiliului Comunar Consultativ",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2017%20privind%20constituirea%20Consiliului%20Comunar%20Consultativ.pdf",
+     "sha256": "a047791607c29dc12ff891b1ff244406e72c0fee3355891a524a5328b9b111da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-2-2025",
+   "path": "local/botosani/manoleasa/2025/2",
+   "short": "HCL Manoleasa nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 2/2025 privind alegerea președintelui de ședință",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.%202%20privind%20alegerea%20pre%C8%99edintelui%20de%20%C8%99edin%C8%9B%C4%83.pdf",
+     "sha256": "6c57bcf016e52aca01f42a14e2117a18d028993eef56fc5f272d862212dd1f8d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-20-2025",
    "path": "local/botosani/manoleasa/2025/20",
    "short": "HCL Manoleasa nr. 20/2025",
@@ -14,6 +164,291 @@
      "units": 1,
      "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2020%20privind%20indexare%20taxe%20si%20impozite.pdf",
      "sha256": "b201dadaed2511c6b4ccec28c435e5d391527f32d119658b60b827c5e8bd038a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-21-2025",
+   "path": "local/botosani/manoleasa/2025/21",
+   "short": "HCL Manoleasa nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 21/2025 privind aprobare deviz Infiintare retea de alimentare cu apa si canalizare Manoleasa Prut",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2021%20privind%20aprobare%20deviz%20Infiintare%20retea%20de%20alimentare%20cu%20apa%20si%20canalizare%20Manoleasa%20Prut.pdf",
+     "sha256": "38d5a146637e9090eb7504dbb6148b5f09c3a6600103663d1f8bb36d9884a8ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-22-2025",
+   "path": "local/botosani/manoleasa/2025/22",
+   "short": "HCL Manoleasa nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 22/2025 privind aprobare alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2022%20privind%20aprobare%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "0b30fdbf59a0aad6b955f54f8d0ce59a310e69bed2f8f0f8b5228d36477c5c47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-23-2025",
+   "path": "local/botosani/manoleasa/2025/23",
+   "short": "HCL Manoleasa nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 23/2025 privind actualizare indicatori tehnico-economici Scoala Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2023%20privind%20actualizare%20indicatori%20tehnico-economici%20Scoala%20Zahoreni.pdf",
+     "sha256": "d8a43cbce6f93991102d42c6edf83fbd187eff63cc781f099f4b5b34aee9f0c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-24-2025",
+   "path": "local/botosani/manoleasa/2025/24",
+   "short": "HCL Manoleasa nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 24/2025 privind aprobare documentatie si indicatori tehnico economici Teren sport Liveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2024%20privind%20aprobare%20documentatie%20si%20indicatori%20tehnico%20economici%20Teren%20sport%20Liveni.pdf",
+     "sha256": "796ead82a4c7547fc67c0d5aa3c06f3b05a635c0aa3c1eba68ab153963ce9939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-25-2025",
+   "path": "local/botosani/manoleasa/2025/25",
+   "short": "HCL Manoleasa nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 25/2025 privind aprobare indicatori tehnico-economici in urma atribuirii contractului de executie-Teren sport Liveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2025%20privind%20aprobare%20indicatori%20tehnico-economici%20in%20urma%20atribuirii%20contractului%20de%20executie-Teren%20sport%20Liveni.pdf",
+     "sha256": "b81287937303f75b30050b2ce469bb7a545caa988f20d1360b7cca026a7c55cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-26-2025",
+   "path": "local/botosani/manoleasa/2025/26",
+   "short": "HCL Manoleasa nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 26/2025 privind aprobare documentatie si indicatori tehnico economici Teren sport Sadoveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2026%20privind%20aprobare%20documentatie%20si%20indicatori%20tehnico%20economici%20Teren%20sport%20Sadoveni.pdf",
+     "sha256": "acb63bde99b2d4162e96215f1be8155287ab992f48ff5778069e80fe80d763fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-27-2025",
+   "path": "local/botosani/manoleasa/2025/27",
+   "short": "HCL Manoleasa nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 27/2025 privind aprobare indicatori tehnico-economici in urma atribuirii contractului de executie-Teren sport Sadoveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2027%20privind%20aprobare%20indicatori%20tehnico-economici%20in%20urma%20atribuirii%20contractului%20de%20executie-Teren%20sport%20Sadoveni.pdf",
+     "sha256": "4b437e26dfda2aa61cff7a9d10a0d9da737ae298dca5178300229e3235b2572d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-28-2025",
+   "path": "local/botosani/manoleasa/2025/28",
+   "short": "HCL Manoleasa nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 28/2025 privind aprobare documentatie si indicatori tehnico economici Teren sport Flondora",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2028%20privind%20aprobare%20documentatie%20si%20indicatori%20tehnico%20economici%20Teren%20sport%20Flondora.pdf",
+     "sha256": "e718efa08179860701bb87202aea898e394608c19047781d9f1496609e5ab630"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-29-2025",
+   "path": "local/botosani/manoleasa/2025/29",
+   "short": "HCL Manoleasa nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 29/2025 privind aprobare indicatori tehnico-economici in urma atribuirii contractului de executie-Teren sport Flondora",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2029%20privind%20aprobare%20indicatori%20tehnico-economici%20in%20urma%20atribuirii%20contractului%20de%20executie-Teren%20sport%20Flondora.pdf",
+     "sha256": "1d8d9857baa1877d2d819c92a7ce8334d2939a17eabd3aa8e50b6ba825abd5da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-3-2025",
+   "path": "local/botosani/manoleasa/2025/3",
+   "short": "HCL Manoleasa nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 3/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eb4fe2543945fafba589b3b7bb15fb89e2814e5fb6473b82d69e2de0db93a41b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-30-2025",
+   "path": "local/botosani/manoleasa/2025/30",
+   "short": "HCL Manoleasa nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 30/2025 privind aprobare documentatie si indicatori tehnico economici Teren sport Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2030%20privind%20aprobare%20documentatie%20si%20indicatori%20tehnico%20economici%20Teren%20sport%20Zahoreni.pdf",
+     "sha256": "538df695eb31d8adb01f2c9cdcae39583c2a4855d4861700f42a4ed725bf7995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-31-2025",
+   "path": "local/botosani/manoleasa/2025/31",
+   "short": "HCL Manoleasa nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 31/2025 privind aprobare indicatori tehnico-economici in urma atribuirii contractului de executie-Teren sport Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2031%20privind%20aprobare%20indicatori%20tehnico-economici%20in%20urma%20atribuirii%20contractului%20de%20executie-Teren%20sport%20Zahoreni.pdf",
+     "sha256": "b3a1829487fa36e4a223d89df597d2a904d5ed017ffef62cfbd9571f7873beff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-32-2025",
+   "path": "local/botosani/manoleasa/2025/32",
+   "short": "HCL Manoleasa nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 32/2025 privind infiintarea SVSU Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2032%20privind%20infiintarea%20SVSU%20Manoleasa.pdf",
+     "sha256": "71c6154f9bf3ba093fcfe3a9a7aafecb29548142daaaadb0d00a4dc98b5bf398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-33-2025",
+   "path": "local/botosani/manoleasa/2025/33",
+   "short": "HCL Manoleasa nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 33/2025 privind aprobare modificari tehnico-economice survenite in urma DS 1 obiectiv Modernizarea si dotarea caminelor culturale din localitatile Manoleasa si Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2033%20privind%20aprobare%20modificari%20tehnico-economice%20survenite%20in%20urma%20DS%201%20obiectiv%20Modernizarea%20si%20dotarea%20caminelor%20culturale%20din%20localitatile%20Manoleasa%20si%20Zahoreni.pdf",
+     "sha256": "5874689f9461b7382ca9aa24f2b620b640cf59b655160ecfa4461d78460aa67d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-34-2025",
+   "path": "local/botosani/manoleasa/2025/34",
+   "short": "HCL Manoleasa nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 34/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2034%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "664d7bd64027824143990e2a9767f066c3f71859eab69dff98cc71bcfe438878"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-35-2025",
+   "path": "local/botosani/manoleasa/2025/35",
+   "short": "HCL Manoleasa nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 35/2025 privind aprobarea manualului de Proceduri privind asigurarea calitatii in domeniul serviciilor sociale",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2035%20privind%20aprobarea%20manualului%20de%20Proceduri%20privind%20asigurarea%20calitatii%20in%20domeniul%20serviciilor%20sociale.pdf",
+     "sha256": "5cda4cd04d8102b98627bcc2c7de0c3282166f5a7c07f9537de848d8cea85344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-36-2025",
+   "path": "local/botosani/manoleasa/2025/36",
+   "short": "HCL Manoleasa nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 36/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale in comuna Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2036%20privind%20aprobarea%20Planului%20de%20dezvoltare%20a%20serviciilor%20sociale%20in%20comuna%20Manoleasa.pdf",
+     "sha256": "2189e4e91559da42d061a7c95508e3386a3bc1ccd52145d6f82c6e76dc2a1c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-37-2025",
+   "path": "local/botosani/manoleasa/2025/37",
+   "short": "HCL Manoleasa nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 37/2025",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2037%20rectificare%20buget.pdf",
+     "sha256": "faaabb041eb5c05a0024c31aa9ddd4c37751e1ec095c0c9d1e77fb713499af0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-38-2025",
+   "path": "local/botosani/manoleasa/2025/38",
+   "short": "HCL Manoleasa nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 38/2025 privind actualizare indicatori Modernizare drumuri de interes local",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2038%20privind%20actualizare%20indicatori%20Modernizare%20drumuri%20de%20interes%20local.pdf",
+     "sha256": "d5dd71f3fc915000c4b4893464fd44ab588109acc4c6758675f22f476e2cab3a"
     }
    ]
   },
@@ -33,6 +468,261 @@
    ]
   },
   {
+   "slug": "hcl-botosani--manoleasa-4-2025",
+   "path": "local/botosani/manoleasa/2025/4",
+   "short": "HCL Manoleasa nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 4/2025 privind aprobarea Strategiei anuale de Achiziții publice",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.4%20privind%20aprobarea%20Strategiei%20anuale%20de%20Achizi%C8%9Bii%20publice.pdf",
+     "sha256": "8b1ef707635f20712c509b8f569b1442fa64d4439b8c149b1d1b1b7d6de29cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-41-2025",
+   "path": "local/botosani/manoleasa/2025/41",
+   "short": "HCL Manoleasa nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 41/2025 privind actualizare indicatori tehnico-economici la nivelul anului 2025",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2041%20privind%20actualizare%20indicatori%20tehnico-economici%20la%20nivelul%20anului%202025.pdf",
+     "sha256": "37d150fbfbacc1ce4bf1abc69530375bb95471c63cf1844893888c888f9723a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-42-2025",
+   "path": "local/botosani/manoleasa/2025/42",
+   "short": "HCL Manoleasa nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 42/2025 privind schimbare destinatie imobil Gradinita Sadoveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2042%20privind%20schimbare%20destinatie%20imobil%20Gradinita%20Sadoveni.pdf",
+     "sha256": "c7945d557fce234819ac415094440659ea19666c3940f46eb092395eb5269eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-43-2025",
+   "path": "local/botosani/manoleasa/2025/43",
+   "short": "HCL Manoleasa nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 43/2025 privind Aprobare Acord",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2043%20privind%20Aprobare%20Acord.pdf",
+     "sha256": "2aab6915eef4dbca36e16f99c4ba4f74b91d4d4a67a7dc582b3b63472fd103f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-44-2025",
+   "path": "local/botosani/manoleasa/2025/44",
+   "short": "HCL Manoleasa nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 44/2025 privind actualizarea indicatorilor tehnico-economici Reabilitare si modernizare Scoala Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2044%20privind%20actualizarea%20indicatorilor%20tehnico-economici%20Reabilitare%20si%20modernizare%20Scoala%20Zahoreni.pdf",
+     "sha256": "2fc96f817184aca07ff1aba49dc0d97a920773f9f524d7ebc33cd3e196018fcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-45-2025",
+   "path": "local/botosani/manoleasa/2025/45",
+   "short": "HCL Manoleasa nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 45/2025 privind actualizarea indicatorilor tehnico-economici Dispensar medical Manoleasa",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2045%20privind%20actualizarea%20indicatorilor%20tehnico-economici%20Dispensar%20medical%20Manoleasa.pdf",
+     "sha256": "3c72fb0fd3b871b64b8889db12e8d5b7fab77cff00260b1ecb9a6a121a3f4dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-46-2025",
+   "path": "local/botosani/manoleasa/2025/46",
+   "short": "HCL Manoleasa nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 46/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2046%20privind%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "d8f79ca47a5059ee9acb495294481983e644d7c53b4e0ae190ac790ceb6f3d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-47-2025",
+   "path": "local/botosani/manoleasa/2025/47",
+   "short": "HCL Manoleasa nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 47/2025 privind actualizarea indicatorilor tehnico-economici Dispensar medical Liveni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2047%20privind%20actualizarea%20indicatorilor%20tehnico-economici%20Dispensar%20medical%20Liveni.pdf",
+     "sha256": "30380ae7b534314f96e55ce474f6b43d45203a6f9607749b5c43c98afcadd22c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-48-2025",
+   "path": "local/botosani/manoleasa/2025/48",
+   "short": "HCL Manoleasa nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 48/2025 privind actualizarea indicatorilor tehnico-economici Gradinita Loturi",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2048%20privind%20actualizarea%20indicatorilor%20tehnico-economici%20Gradinita%20Loturi.pdf",
+     "sha256": "41324271c3b1767731c071a428d09d017620d3262cc7a513aee6fd1de4e3ab96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-49-2025",
+   "path": "local/botosani/manoleasa/2025/49",
+   "short": "HCL Manoleasa nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 49/2025 privind ROF asistenta sociala",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2049%20privind%20ROF%20asistenta%20sociala.pdf",
+     "sha256": "f597a8a13c686b23e1d2d6e650dfffcaec6265f90894c3986d255378ebafaa86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-5-2025",
+   "path": "local/botosani/manoleasa/2025/5",
+   "short": "HCL Manoleasa nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 5/2025 privind aprobareaPlanului anual de acțiune privind serviciile sociale și Planul anual de asistență medicală comunitară",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.5%20privind%20aprobareaPlanului%20anual%20de%20ac%C8%9Biune%20privind%20serviciile%20sociale%20%C8%99i%20Planul%20anual%20de%20asisten%C8%9B%C4%83%20medical%C4%83%20comunitar%C4%83.pdf",
+     "sha256": "fe12ce4a93cc5a191c9862f1ffccf2720f25ee2f08caa78ed52cf649d8948aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-51-2025",
+   "path": "local/botosani/manoleasa/2025/51",
+   "short": "HCL Manoleasa nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 51/2025 privind rectificare buget",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2051%20privind%20rectificare%20buget.pdf",
+     "sha256": "2f9ba18e762d51c5800010e962684dbd24a4f7c7dcc177e0915bcaa7bc072da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-52-2025",
+   "path": "local/botosani/manoleasa/2025/52",
+   "short": "HCL Manoleasa nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 52/2025 privind reteaua scolara 2026-2027",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2052%20privind%20reteaua%20scolara%202026-2027.pdf",
+     "sha256": "2704f12374b1f043bfb64b6474dd73b3d572327e7d8fcedc37bbbd5601275f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-53-2025",
+   "path": "local/botosani/manoleasa/2025/53",
+   "short": "HCL Manoleasa nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 53/2025 privind actualizare indicatori tehnico-economici Scoala Zahoreni",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2053%20privind%20actualizare%20indicatori%20tehnico-economici%20Scoala%20Zahoreni.pdf",
+     "sha256": "6a7de4ea822bc41e687f974399493a6bb566c8d88144b69dcdb23e09f4ea8c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-54-2025",
+   "path": "local/botosani/manoleasa/2025/54",
+   "short": "HCL Manoleasa nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 54/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0d7390ece561b2888036dbe367638f895abb52d9e8e35909ac83f4d1875b0da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-55-2025",
+   "path": "local/botosani/manoleasa/2025/55",
+   "short": "HCL Manoleasa nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 55/2025 privind aprobare deviz general actualizat Infiintare retea de alimentare cu apa si canalizare in sat Manoleasa Prut",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2055%20privind%20aprobare%20deviz%20general%20actualizat%20Infiintare%20retea%20de%20alimentare%20cu%20apa%20si%20canalizare%20in%20sat%20Manoleasa%20Prut.pdf",
+     "sha256": "4f61fddde18117fe1dccf54a112929c13c33eff21577e1fc984dfcf27825782f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-56-2025",
+   "path": "local/botosani/manoleasa/2025/56",
+   "short": "HCL Manoleasa nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 56/2025 privind organizarea retelei scolare pentru anul scolar 2026-2027",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2056%20privind%20organizarea%20retelei%20scolare%20pentru%20anul%20scolar%202026-2027.pdf",
+     "sha256": "38eddd366205cb08a613b1f3795404799c3d1485bd445063616962658282bf46"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-57-2025",
    "path": "local/botosani/manoleasa/2025/57",
    "short": "HCL Manoleasa nr. 57/2025",
@@ -48,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--manoleasa-58-2025",
+   "path": "local/botosani/manoleasa/2025/58",
+   "short": "HCL Manoleasa nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 58/2025 privind contractarea de catre Comuna Manoleasa, judetul Botosani, de servicii juridice de consultanta, asistenta și reprezentare",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2058%20privind%20contractarea%20de%20catre%20Comuna%20Manoleasa,%20judetul%20Botosani,%20de%20servicii%20juridice%20de%20consultanta,%20asistenta%20%C8%99i%20reprezentare.pdf",
+     "sha256": "2476f3117f437dfc8d213342d880deaf420103c6367b80e22ffb3db04bd149af"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--manoleasa-59-2025",
    "path": "local/botosani/manoleasa/2025/59",
    "short": "HCL Manoleasa nr. 59/2025",
@@ -59,6 +764,51 @@
      "units": 1,
      "source_url": "https://www.comunamanoleasa.ro/alldocs/2025/hot/HCL%2059%20privind%20actualizare%20Aparat%20de%20Specialitate%20al%20Primarului.pdf",
      "sha256": "21ce5034c7b16669044a134b8329e82cd59c08fb5555a2249f49b2c7f7289a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-6-2025",
+   "path": "local/botosani/manoleasa/2025/6",
+   "short": "HCL Manoleasa nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 6/2025 privind aprobarea Planului de Analiză și Acoperire a Riscurilor",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.6%20privind%20aprobarea%20Planului%20de%20Analiz%C4%83%20%C8%99i%20Acoperire%20a%20Riscurilor.pdf",
+     "sha256": "eb804722eda38a71047ea8f79a9e9912f5b0db154546e7f58e31bd758e947292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-7-2025",
+   "path": "local/botosani/manoleasa/2025/7",
+   "short": "HCL Manoleasa nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 7/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "280930bc0fe91017cca1a7f8b27e60500fce862c74cc2c673ad1db73e9d127ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--manoleasa-8-2025",
+   "path": "local/botosani/manoleasa/2025/8",
+   "short": "HCL Manoleasa nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Manoleasa nr. 8/2025 privind aprobarea indicatorilor tehnico-economici in vederea atribuirii contractului de executie POR",
+   "url": "https://www.comunamanoleasa.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/anul-2025",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamanoleasa.ro/images/2025/hot/HCL%20nr.8%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20in%20vederea%20atribuirii%20contractului%20de%20executie%20%20POR.pdf",
+     "sha256": "aef09fc8b4579da4e22aa12f48489efaacb15a74e3a021ab7daf92e5bcfbc8bf"
     }
    ]
   },

@@ -3,6 +3,72 @@
 "shard": "local/bistrita-nasaud/negrilesti/2026",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--negrilesti-1-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 1/2026 privind aprobarea prețului de referință a masei lemnoase care se va valorifica în anul 2026 din fondul forestier proprietatea publică a UAT Negrilești și valorificarea prin vânzare directă a lemnului de lucru fasonat",
+"short": "HCL Negrilești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/248588",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-2-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 2/2026 privind modul de valorificare si stabilirea pretului pentru 5372,60 mc masa lemnoasa din fondul forestier proprietatea publica a comunei Negrilesti",
+"short": "HCL Negrilești nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/256900",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-3-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 3/2026 privind aprobarea Programului de acțiuni comunitare destinat prevenirii si combaterii riscului de marginalizare si excluziune socială la nivelul comunei Negrilesti,judetul Bistrița-Năsăud pentru anul 2026",
+"short": "HCL Negrilești nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-12",
+"latest": "2026-03-12",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/256901",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--negrilesti-4-2026",
 "path": "local/bistrita-nasaud/negrilesti/2026/4",
 "kind": "local",
@@ -22,6 +88,94 @@
 "council_name": "Consiliul Local al Comunei Negrilești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-5-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 5/2026 privind aprobarea înaintării unei cereri către Consiliul Județean Bistrița-Năsăud, de trecere a unui microbuz electric școlar achiziționat în cadrul proiectului „Transport durabil pentru elevii din județul Bistrița-Năsăud”, cod P_19, finanțat prin PNRR, din domeniul privat al Județului Bistrița-Năsăud în domeniul privat al Comunei ____",
+"short": "HCL Negrilești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/261435",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-6-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 6/2026 pentru aprobarea contului anual de execuţie bugetară a bugetului local al comunei Negrilești pe anul 2025",
+"short": "HCL Negrilești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/261436",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-7-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 7/2026 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Negrilesti",
+"short": "HCL Negrilești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/261437",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-8-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 8/2026 privind reoganizarea și stabilirea numărului de posturi pentru aparatul de specialitate al Primarului comunei Negrilești, aprobarea organigramei şi a statului de funcţii",
+"short": "HCL Negrilești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/262829",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

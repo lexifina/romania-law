@@ -3,6 +3,28 @@
 "shard": "local/bistrita-nasaud/milas/2020",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--milas-1-2020",
+"path": "local/bistrita-nasaud/milas/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 1/2020 privind alegerea președintelui de ședință al Consiliului local al comunei Milaș pentru lunile ianuarie - martie 2020",
+"short": "HCL Milaș nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--milas-3-2020",
 "path": "local/bistrita-nasaud/milas/2020/3",
 "kind": "local",
@@ -25,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-bistrita-nasaud--milas-5-2020",
+"path": "local/bistrita-nasaud/milas/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 5/2020 privind aprobarea rețelei școlare de pe raza comunei Milaș pentru anul școlar 2020 - 2021",
+"short": "HCL Milaș nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--milas-6-2020",
 "path": "local/bistrita-nasaud/milas/2020/6",
 "kind": "local",
@@ -44,6 +88,182 @@
 "council_name": "Consiliul Local al Comunei Milaș",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-8-2020",
+"path": "local/bistrita-nasaud/milas/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 8/2020 privind aprobarea execuției bugetului local al comunei Milaș pe trim. IV 2019",
+"short": "HCL Milaș nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-9-2020",
+"path": "local/bistrita-nasaud/milas/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 9/2020 privind aprobarea contului de execuție a bugetului local pe anul 2019",
+"short": "HCL Milaș nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-10-2020",
+"path": "local/bistrita-nasaud/milas/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 10/2020 privind modificarea Anexei 1 la HCL Nr. 12/08.02.2019 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Milaș",
+"short": "HCL Milaș nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-11-2020",
+"path": "local/bistrita-nasaud/milas/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 11/2020 privind aprobarea bugetului de venituri și cheltuieli al Comunei Milaș pe anul 2020",
+"short": "HCL Milaș nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-13-2020",
+"path": "local/bistrita-nasaud/milas/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 13/2020 privind stabilirea procedurii de desfășurare a ședințelor Consiliului local al comunei Milaș în situații excepționale, constatate de autoritățile abilitate",
+"short": "HCL Milaș nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-14-2020",
+"path": "local/bistrita-nasaud/milas/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 14/2020 privind alegerea președintelui de ședință al Consiliului local al comunei Milaș pentru lunile mai-iulie 2020",
+"short": "HCL Milaș nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-15-2020",
+"path": "local/bistrita-nasaud/milas/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 15/2020 privind aprobarea Organigramei și a Statului de funcții ale aparatului de specialitate al primarului comunei Milaș pentru anul 2020",
+"short": "HCL Milaș nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--milas-16-2020",
+"path": "local/bistrita-nasaud/milas/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Milaș nr. 16/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Milaș pe anul 2020",
+"short": "HCL Milaș nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://comunamilas.ro/registru_hcl2020.html",
+"council": "bistrita-nasaud/milas",
+"council_name": "Consiliul Local al Comunei Milaș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

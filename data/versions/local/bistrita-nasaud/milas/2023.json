@@ -3,6 +3,36 @@
  "shard": "local/bistrita-nasaud/milas/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--milas-1-2023",
+   "path": "local/bistrita-nasaud/milas/2023/1",
+   "short": "HCL Milaș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 1/2023 privind aprobarea reţelei şcolare de pe raza comunei Milaş pentru anul şcolar 2023-2024",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.01_31.01.2023_aprobare_rs.pdf",
+     "sha256": "3f0d7bb4832293cd2960fad6031a21984ed1289d581eae8ad71468b994ef9480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-10-2023",
+   "path": "local/bistrita-nasaud/milas/2023/10",
+   "short": "HCL Milaș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 10/2023 privind aprobarea încheierii unui protocol de colaborare între Ministerul Muncii şi Solidarităţii Sociale şi U.A.T",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.10_31.01.2023_aprobare_protocol.pdf",
+     "sha256": "43180edf111ff8cff58da16feed00fda3d419f0c1181d6759fb05e318b42e12e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-13-2023",
    "path": "local/bistrita-nasaud/milas/2023/13",
    "short": "HCL Milaș nr. 13/2023",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.13_28.02.2023_aprobare_plan_masuri.pdf",
      "sha256": "8d6f4a9771d7640786fb9e5bbbf15f9d242a50204df199cf213c7165bb916598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-14-2023",
+   "path": "local/bistrita-nasaud/milas/2023/14",
+   "short": "HCL Milaș nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 14/2023 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Milaş pentru lunile martie 2023 – mai 2023",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.14_15.03.2023_alegere_psd.pdf",
+     "sha256": "2e2ca480dea98f4bf16088c3d99849f3d0eaba413603c96b4fbf14ba438be800"
     }
    ]
   },
@@ -44,6 +89,51 @@
      "units": 1,
      "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.15_15.03.2023_aprobare_prml.pdf",
      "sha256": "8fe40b2111abf01a439901d291849b98b80451dcefb7ed783dc8e037b3e3a129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-18-2023",
+   "path": "local/bistrita-nasaud/milas/2023/18",
+   "short": "HCL Milaș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 18/2023 privind actualizarea datelor de carte funciară pentru imobilului \"Strada dosului–drum\" înscris sub CF 25187 cu suprafața (mp) de 12726 mp. la 13214 mp., aflat în proprietatea publică a comunei Milaș",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.18_27.03.2023_actualizare_dcf.pdf",
+     "sha256": "215f3e193db40cd9888f067bf20bd381a989a7dbfdf989fd8068531475c83578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-19-2023",
+   "path": "local/bistrita-nasaud/milas/2023/19",
+   "short": "HCL Milaș nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 19/2023 privind aprobarea încheierii Actului adițional nr. 6 la Contractul de concesiune nr. 1277 din 06.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul B",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.19_24.04.2023_aprobare_aa6.pdf",
+     "sha256": "9f488c4789c3cb02302029de2e7e156e74b127fa04d1c168e111edf6602500de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-2-2023",
+   "path": "local/bistrita-nasaud/milas/2023/2",
+   "short": "HCL Milaș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 2/2023 privind aprobarea Planului de acţiuni si lucrări de interes local aferent anului 2023 pentru persoanele apte de muncă beneficiare de ajutor social conform Legii nr.416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.02_31.01.2023_aprobare_pal.pdf",
+     "sha256": "d17d592daaae1275afce2525bc43bd046202c3e443c9c6d83db6c5e11bbee2fd"
     }
    ]
   },
@@ -89,6 +179,171 @@
      "units": 1,
      "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.24_24.04.2023_aprobare_ebl.pdf",
      "sha256": "92556b22075812fa23aca8d534c559ab4a3f76b44b17522ecec73a888dfed6ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-25-2023",
+   "path": "local/bistrita-nasaud/milas/2023/25",
+   "short": "HCL Milaș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 25/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul propriu al Primarului comunei Milaș începând cu 25.04.2023",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.25_24.04.2023_stabilire_salarii_fppc.pdf",
+     "sha256": "abce87be37af3dc4897d9d378ec81749359b83fc8514ab8aa9ec16431c305f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-27-2023",
+   "path": "local/bistrita-nasaud/milas/2023/27",
+   "short": "HCL Milaș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 27/2023 privind aprobarea documentației tehnico-economică documentația de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici ,devizul general al obiectivul de investiții „Modernizare drumuri de interes local în comuna Milaș, judeţul Bistrița-Năsăud”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.27_19.05.2023_aprobare_dox.pdf",
+     "sha256": "04a31b786031c1728c3d19409b6e71700ad81ec2e815c45af897f7603638cde7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-3-2023",
+   "path": "local/bistrita-nasaud/milas/2023/3",
+   "short": "HCL Milaș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 3/2023 privind aprobarea execuţiei bugetului local al comunei Milaş pe trim. IV 2022",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.03_31.01.2023_aprobare_ebl.pdf",
+     "sha256": "eb9cff8992005129a8d2d78ee8c15e22e402567e96af7a397da6d42152ecab26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-31-2023",
+   "path": "local/bistrita-nasaud/milas/2023/31",
+   "short": "HCL Milaș nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 31/2023 privind aprobarea Planului de analiza şi acoperire a riscurilor în comuna Milaş pe anul 2023",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.31_30.05.2023_aprobare_pacr.pdf",
+     "sha256": "6a91aea2ba39c1ad674d9d8fee6db33ee9272faddaa002aed3f1f4507cf6f247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-32-2023",
+   "path": "local/bistrita-nasaud/milas/2023/32",
+   "short": "HCL Milaș nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 32/2023 privind aprobarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al Primarului comunei Milaș pentru anul 2023",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.32_30.05.2023_aprobare_o_sf.pdf",
+     "sha256": "0797fc1e06d84855ccbecc8558ffcb0cd8f78cdc718ef8d0b57704b9f572d26e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-33-2023",
+   "path": "local/bistrita-nasaud/milas/2023/33",
+   "short": "HCL Milaș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 33/2023 privind aprobarea documentației cadastrale de dezmembrare a imobilului \"Strada Dosului – drum\", înscris în CF nr.25187 Milaș",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.33_30.05.2023_aprobare_dox.pdf",
+     "sha256": "16fcca0ec568800d4b26c03c503f4c83607fdfa7971d3dff8d541fad5ce223e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-34-2023",
+   "path": "local/bistrita-nasaud/milas/2023/34",
+   "short": "HCL Milaș nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 34/2023 privind declararea ca bun de uz și interes public local a unui imobil situat în intravilanul localității Orosfaia \"Strada Ciurgău I - drum\", proprietatea publică a comunei Milaș, județul Bistrița-Năsăud",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.34_30.05.2023_declarare_bun.pdf",
+     "sha256": "3c033545fc3b2fd6ad8aa9fa275770efdea63a1a58d7fe0204106278adf17967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-4-2023",
+   "path": "local/bistrita-nasaud/milas/2023/4",
+   "short": "HCL Milaș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 4/2023 privind aprobarea contului de execuţie a bugetului local pe anul 2022",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.04_31.01.2023_aprobare_ceb.pdf",
+     "sha256": "b5fc3cd104d29b2b9ed7b1562f7198afeb0b5523599fdeb92875352550254f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-5-2023",
+   "path": "local/bistrita-nasaud/milas/2023/5",
+   "short": "HCL Milaș nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 5/2023 privind aprobarea bugetului de venituri şi cheltuieli al Comunei Milaș pe anul 2023",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.05_31.01.2023_aprobare_bvc.pdf",
+     "sha256": "f7d6ba356884c54ed6b8cfb50f51ea6f9c9f74bb699f3ef511b4eda1b1a6c99f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-6-2023",
+   "path": "local/bistrita-nasaud/milas/2023/6",
+   "short": "HCL Milaș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 6/2023 privind aprobarea Actului Adițional nr. 1 la Contractul de Asociere încheiat între Județul Bistrița-Năsăud, municipiul Bistrița, orașele și comunele din județul Bistrița-Năsăud pentru realizarea proiectului „Management integrat al deșeurilor în județul Bistrița-Năsăud”, la data de 10.04.2008",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.06_31.01.2023_aprobare_aa1.pdf",
+     "sha256": "a48722780237e279aab0f705d116a025d783b2d86f106ac9b8adb405870ffcc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--milas-7-2023",
+   "path": "local/bistrita-nasaud/milas/2023/7",
+   "short": "HCL Milaș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 7/2023 privind aprobarea Memoriului tehnico-economic și a indicatorilor tehnico-economici ai proiectului „Recipiente de colectare a deșeurilor pentru Dezvoltarea și Modernizarea Sistemului de Management Integrat al Deșeurilor din Județul Bistrița-Năsăud” în vederea finanțării prin POIM 2014-2020",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.07_31.01.2023_aprobare_mte.pdf",
+     "sha256": "e27cdfd9fd4cb59c057bb55e614b57e3b8009ba943f76e0c5568da6be394c9a0"
     }
    ]
   },

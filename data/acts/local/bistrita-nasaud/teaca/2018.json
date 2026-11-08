@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bistrita-nasaud/teaca/2018",
+"acts": [
+{
+"slug": "hcl-bistrita-nasaud--teaca-82-2018",
+"path": "local/bistrita-nasaud/teaca/2018/82",
+"kind": "local",
+"year": "2018",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 82/2018 pentru întreaga activitate și promovarea continuă a valorilor culturale și tradiționale aducând prestigiu Comunei Teaca",
+"short": "HCL Teaca nr. 82/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-29",
+"latest": "2018-11-29",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--teaca-83-2018",
+"path": "local/bistrita-nasaud/teaca/2018/83",
+"kind": "local",
+"year": "2018",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Teaca nr. 83/2018 pentru întreaga activitate și contribuția adusă la sporirea patrimoniului cultural și spiritual, aducând prestigiu Comunei Teaca",
+"short": "HCL Teaca nr. 83/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-29",
+"latest": "2018-11-29",
+"portal": "https://primariateaca.ro/",
+"council": "bistrita-nasaud/teaca",
+"council_name": "Consiliul Local al Comunei Teaca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

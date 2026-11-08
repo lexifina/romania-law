@@ -3,6 +3,51 @@
  "shard": "local/botosani/pomarla/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--pomarla-1-2024",
+   "path": "local/botosani/pomarla/2024/1",
+   "short": "HCL Pomârla nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 1/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Pomârla pe anul 2024 -2025",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151740",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-10-2024",
+   "path": "local/botosani/pomarla/2024/10",
+   "short": "HCL Pomârla nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 10/2024 privind reactualizarea indicatorilor economici, a cofinanțării bugetului local și aprobarea devizului general actualizat pentru obiectivul de investiții: “Reabilitare și modernizarea Liceului Teoretic ”Anastasie Bașotă”, comuna Pomârla, județul Botoșani” conform OG 47/2022",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151765",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-11-2024",
+   "path": "local/botosani/pomarla/2024/11",
+   "short": "HCL Pomârla nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 11/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151804",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151804",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-12-2024",
    "path": "local/botosani/pomarla/2024/12",
    "short": "HCL Pomârla nr. 12/2024",
@@ -13,6 +58,21 @@
      "from": "2024-04-08",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-13-2024",
+   "path": "local/botosani/pomarla/2024/13",
+   "short": "HCL Pomârla nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 13/2024 privind aprobarea Regulamentului de stabilire a procedurii de adoptare a taxelor speciale la nivelul comunei Pomârla",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151806",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151806",
      "sha256": null
     }
    ]
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--pomarla-17-2024",
+   "path": "local/botosani/pomarla/2024/17",
+   "short": "HCL Pomârla nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 17/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/153292",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-18-2024",
    "path": "local/botosani/pomarla/2024/18",
    "short": "HCL Pomârla nr. 18/2024",
@@ -73,6 +148,201 @@
      "from": "2024-05-07",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-19-2024",
+   "path": "local/botosani/pomarla/2024/19",
+   "short": "HCL Pomârla nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 19/2024 privind organizarea activității de apărare împotriva incendiilor la nivelul comunei POMÂRLA",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/153861",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-2-2024",
+   "path": "local/botosani/pomarla/2024/2",
+   "short": "HCL Pomârla nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 2/2024 privind reactualizarea devizului general pentru obiectivul de investiții “Eficientizare energetică Atelier Liceu, sat Pomârla, comuna Pomârla, județul Botoșani”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151741",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-20-2024",
+   "path": "local/botosani/pomarla/2024/20",
+   "short": "HCL Pomârla nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 20/2024 privind aprobarea achiziționării serviciului de consultanță, asistență și reprezentare juridică în dosarul nr. 1238/222/2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/153862",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-21-2024",
+   "path": "local/botosani/pomarla/2024/21",
+   "short": "HCL Pomârla nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 21/2024 privind alegerea preşedintelui de şedinţă pentru perioada mai-iulie 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/153863",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-22-2024",
+   "path": "local/botosani/pomarla/2024/22",
+   "short": "HCL Pomârla nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 22/2024 privind aprobarea contului anual de execuție al bugetului local al comunei Pomârla pe anul 2023",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/160142",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/160142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-23-2024",
+   "path": "local/botosani/pomarla/2024/23",
+   "short": "HCL Pomârla nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 23/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei trimestrul I, pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/160143",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/160143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-24-2024",
+   "path": "local/botosani/pomarla/2024/24",
+   "short": "HCL Pomârla nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 24/2024 privind aprobarea solicitării prelungirii scrisorii de garanție pentru restituirea avansului nr. IG173301010/06.10.2017 din partea Fondului de Garantare a Creditului Rural IFN SA pentru proiectul ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, CANALIZARE ȘI STAȚIE DE EPURARE, ÎN COMUNA POMÂRLA JUDEȚUL BOTOȘANI",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/160144",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/160144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-25-2024",
+   "path": "local/botosani/pomarla/2024/25",
+   "short": "HCL Pomârla nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 25/2024 privind reactualizarea devizului general pentru obiectivul de investiții „Modernizare drumuri de interes lacal în comuna Pomârla”, prin Programul Național de Investiții „ Anghel Saligny”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/160145",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/160145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-26-2024",
+   "path": "local/botosani/pomarla/2024/26",
+   "short": "HCL Pomârla nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 26/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/160150",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/160150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-27-2024",
+   "path": "local/botosani/pomarla/2024/27",
+   "short": "HCL Pomârla nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 27/2024 privind alocarea din bugetul local a sumelor necesare desfășurării evenimentelor cultural artistice organizate în ziua de 30 iunie 2024 –Hramul Bisericii “Duminica Tuturor Sfinților”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/162941",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/162941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-28-2024",
+   "path": "local/botosani/pomarla/2024/28",
+   "short": "HCL Pomârla nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 28/2024 privind aprobarea majorării cu 10% față de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Pomârla, începând cu data de 1 iunie 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/162942",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/162942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-29-2024",
+   "path": "local/botosani/pomarla/2024/29",
+   "short": "HCL Pomârla nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 29/2024 privind darea în administrare către Liceul Teoretic Anastasie Bașotă Pomârla a unor imobile",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/162943",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/162943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-3-2024",
+   "path": "local/botosani/pomarla/2024/3",
+   "short": "HCL Pomârla nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 3/2024 privind reactualizarea devizului general pentru obiectivul de investiții “Eficientizare energetică clădire școală pentru clasele I-IV, sat Pomârla, comuna Pomârla, județul Botoșani”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151742",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151742",
      "sha256": null
     }
    ]
@@ -93,6 +363,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--pomarla-31-2024",
+   "path": "local/botosani/pomarla/2024/31",
+   "short": "HCL Pomârla nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 31/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164891",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-32-2024",
+   "path": "local/botosani/pomarla/2024/32",
+   "short": "HCL Pomârla nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 32/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164909",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-33-2024",
    "path": "local/botosani/pomarla/2024/33",
    "short": "HCL Pomârla nr. 33/2024",
@@ -103,6 +403,141 @@
      "from": "2024-08-06",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-34-2024",
+   "path": "local/botosani/pomarla/2024/34",
+   "short": "HCL Pomârla nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 34/2024 privind aprobarea contractării unui împrumut în valoare de 1.389.430 lei, în conformitate cu prevederile art. I din Ordonanţa de urgenţă a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum şi pentru modificarea şi completarea unor acte normative aferente reprezentării statului în litigiile arbitrale şi judiciare internaţionale şi concesionării proprietăţii publice a statului şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164911",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-35-2024",
+   "path": "local/botosani/pomarla/2024/35",
+   "short": "HCL Pomârla nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 35/2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164912",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-36-2024",
+   "path": "local/botosani/pomarla/2024/36",
+   "short": "HCL Pomârla nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 36/2024 privind alegerea preşedintelui de şedinţă pentru perioada august-octombrie 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164913",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-37-2024",
+   "path": "local/botosani/pomarla/2024/37",
+   "short": "HCL Pomârla nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 37/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164914",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-38-2024",
+   "path": "local/botosani/pomarla/2024/38",
+   "short": "HCL Pomârla nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 38/2024 privind reactualizarea indicatorilor economici, a cofinanțării bugetului local și aprobarea devizului general actualizat pentru obiectivul de investiții: “Reabilitare și modernizarea Liceului Teoretic ”Anastasie Bașotă”, comuna Pomârla, județul Botoșani” conform OUG 105/2023",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170277",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-39-2024",
+   "path": "local/botosani/pomarla/2024/39",
+   "short": "HCL Pomârla nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 39/2024 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului National Masă Sănătoasă",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170287",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-4-2024",
+   "path": "local/botosani/pomarla/2024/4",
+   "short": "HCL Pomârla nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 4/2024 privind alegerea preşedintelui de şedinţă pentru perioada februarie-aprilie 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151743",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-40-2024",
+   "path": "local/botosani/pomarla/2024/40",
+   "short": "HCL Pomârla nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 40/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170333",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-41-2024",
+   "path": "local/botosani/pomarla/2024/41",
+   "short": "HCL Pomârla nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 41/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei trimestrul II, pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170334",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170334",
      "sha256": null
     }
    ]
@@ -138,6 +573,81 @@
    ]
   },
   {
+   "slug": "hcl-botosani--pomarla-44-2024",
+   "path": "local/botosani/pomarla/2024/44",
+   "short": "HCL Pomârla nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 44/2024 privind aprobarea achiziționării serviciului de consultanță, asistență și reprezentare juridică în dosarul nr. 1196/40/2023 al Tribunalului Botosani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170337",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-45-2024",
+   "path": "local/botosani/pomarla/2024/45",
+   "short": "HCL Pomârla nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 45/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170341",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-46-2024",
+   "path": "local/botosani/pomarla/2024/46",
+   "short": "HCL Pomârla nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 46/2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/183908",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/183908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-47-2024",
+   "path": "local/botosani/pomarla/2024/47",
+   "short": "HCL Pomârla nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 47/2024 privind aprobarea solicitării prelungirii scrisorii de garanție pentru restituirea avansului nr. IG173301010/06.10.2017 din partea Fondului de Garantare a Creditului Rural IFN SA pentru proiectul ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, CANALIZARE ȘI STAȚIE DE EPURARE, ÎN COMUNA POMÂRLA JUDEȚUL BOTOȘANI",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/183910",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/183910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-48-2024",
+   "path": "local/botosani/pomarla/2024/48",
+   "short": "HCL Pomârla nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 48/2024 privind rectificarea bugetului imprumutului intern, în conformitate cu prevederile Ordonanţei de urgenţă a Guvernului nr. 35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum şi pentru modificarea şi completarea unor acte normative aferente reprezentării statului în litigiile arbitrale şi judiciare internaţionale şi concesionării proprietăţii publice a statului şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/183912",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/183912",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-49-2024",
    "path": "local/botosani/pomarla/2024/49",
    "short": "HCL Pomârla nr. 49/2024",
@@ -148,6 +658,21 @@
      "from": "2024-09-25",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/183919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-5-2024",
+   "path": "local/botosani/pomarla/2024/5",
+   "short": "HCL Pomârla nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 5/2024 privind aprobarea trecerii unor bunuri din domeniul public al Comunei Pomârla în domeniul public al Județului Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151744",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151744",
      "sha256": null
     }
    ]
@@ -303,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--pomarla-6-2024",
+   "path": "local/botosani/pomarla/2024/6",
+   "short": "HCL Pomârla nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 6/2024 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151745",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151745",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-60-2024",
    "path": "local/botosani/pomarla/2024/60",
    "short": "HCL Pomârla nr. 60/2024",
@@ -433,6 +973,51 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/187908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-7-2024",
+   "path": "local/botosani/pomarla/2024/7",
+   "short": "HCL Pomârla nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 7/2024 privind aprobarea majorării cu 5% a veniturilor salariale față de nivelul acordat pentru luna decembrie 2023, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate începând cu data de 01 ianuarie 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151746",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-8-2024",
+   "path": "local/botosani/pomarla/2024/8",
+   "short": "HCL Pomârla nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 8/2024 privind aprobarea bugetului local al comunei Pomârla, pentru anul 2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151763",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-9-2024",
+   "path": "local/botosani/pomarla/2024/9",
+   "short": "HCL Pomârla nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 9/2024",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151764",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151764",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/botosani/radauti-prut/2020",
  "acts": [
   {
+   "slug": "hcl-botosani--radauti-prut-1-2020",
+   "path": "local/botosani/radauti-prut/2020/1",
+   "short": "HCL Rădăuți-Prut nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 1/2020 privind aprobarea acoperirii definitive din excedentul bugetului local al anului 2019, a deficitului sectiunii de dezvoltare",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/01/HCL%20NR.1.pdf",
+     "sha256": "f439512faf66b3ddac71fe102a971660a1fcc68848fc06b16a6c100b148147f6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--radauti-prut-11-2020",
    "path": "local/botosani/radauti-prut/2020/11",
    "short": "HCL Rădăuți-Prut nr. 11/2020",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/04/HCL%20nr.11%20impozite%20si%20taxe%202021.pdf",
      "sha256": "da2bc9f2671840b3bd5c56874c5bfa72b9516279cfcfa4cdddaa7303fd8c7baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-2-2020",
+   "path": "local/botosani/radauti-prut/2020/2",
+   "short": "HCL Rădăuți-Prut nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 2/2020 privind aprobarea Amenajamentului Pastoral pentru pajistile aflate in proprietatea privata a comunei Radauti-Prut",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/01/HCL%20NR.2.pdf",
+     "sha256": "be7b47613130ce1e8640b66f5d0d323595594ba4723eb038acc2473108babba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-3-2020",
+   "path": "local/botosani/radauti-prut/2020/3",
+   "short": "HCL Rădăuți-Prut nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 3/2020 privind Planul de lucrari de interes local pentru repartizarea orelor de munca prestate de beneficiarii de ajutor social din comuna Radauti-Prut, judetul Botosani, pentru anul 2020",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/01/HCL%20NR.3.pdf",
+     "sha256": "5ebda3a19cfb8140df349f51f9b98230d92763694a4f4aca8b4dfff6b1667554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-4-2020",
+   "path": "local/botosani/radauti-prut/2020/4",
+   "short": "HCL Rădăuți-Prut nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 4/2020 privind aprobarea bugetului local al Comunei Radauti-Prut, pentru anul 2020",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/02/HCL%20NR.4.pdf",
+     "sha256": "1f434b4a1be3e6f5668c399018c311fb927067323908b08c0fbdb095491a8375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-5-2020",
+   "path": "local/botosani/radauti-prut/2020/5",
+   "short": "HCL Rădăuți-Prut nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 5/2020 privind aprobarea executiei bugetare pe sectiunea de functionare si sectiunea de dezvoltare ale bugetului local al comunei Radauti-Prut pe anul 2019",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/02/HCL%20NR.5.pdf",
+     "sha256": "f00772ef97a6cc28b45ad08a36aca70d5c436b5de945b786c4297e96bd5cf191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-7-2020",
+   "path": "local/botosani/radauti-prut/2020/7",
+   "short": "HCL Rădăuți-Prut nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 7/2020 privind stabilirea presedintelui de sedinta pentru perioada 01.03.2020 - 31.05.2020",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/02/HCL%20NR.7.pdf",
+     "sha256": "a8afea11d2ea1d29f7baccd21df8c120a33ff1d6fc5173926afe5498e20abfc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--radauti-prut-8-2020",
+   "path": "local/botosani/radauti-prut/2020/8",
+   "short": "HCL Rădăuți-Prut nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rădăuți-Prut nr. 8/2020 privind aprobarea indicatorilor tehnico-economici ai investitiei \"Infiintare retea de distributie gaze naturale in Comuna Radauti-Prut, judetul Botosani\"",
+   "url": "https://www.primariaradauti-prut.ro/index.php/primaria-2/primar-12/39-hotarari-anul-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primariaradauti-prut.ro/alldocs/2020/02/HCL%20nr.8gaz.pdf",
+     "sha256": "b0379e2b9236506c7d51fdd5cb0b7b81e3541202cca7589a7022459dae0a9d3b"
     }
    ]
   }

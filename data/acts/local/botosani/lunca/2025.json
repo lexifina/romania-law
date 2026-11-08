@@ -3,6 +3,50 @@
 "shard": "local/botosani/lunca/2025",
 "acts": [
 {
+"slug": "hcl-botosani--lunca-54-2025",
+"path": "local/botosani/lunca/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 54/2025 privind aprobarea procedurii de acordare a înlesnirii la plată sub forma scutirii unei cote de 75% din majorările de întârziere datorate bugetului local",
+"short": "HCL Lunca nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://primarialunca.ro/wp-content/uploads/2025/10/Hotararea-nr.-54-din-15.10.2025-privind-aprobarea-procedurii-de-acordare-a-inlesnirii-la-plata-sub-forma-scutirii-unei-cote-de-75-din-majorarile-de-intarziere-datorate-bugetului-local.pdf",
+"council": "botosani/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--lunca-55-2025",
+"path": "local/botosani/lunca/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca nr. 55/2025 privind stabilirea și compartimentarea spațiului de depozitare provizorie, necesar pentru colectarea separată a deșeurilor",
+"short": "HCL Lunca nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://primarialunca.ro/wp-content/uploads/2025/10/Hotararea-nr.-55-din-15.10.2025-privind-stabilirea-si-compartimentarea-spatiului-de-depozitare-provizorie-necesar-pentru-colectarea-separata-a-deseurilor.pdf",
+"council": "botosani/lunca",
+"council_name": "Consiliul Local al Comunei Lunca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--lunca-56-2025",
 "path": "local/botosani/lunca/2025/56",
 "kind": "local",

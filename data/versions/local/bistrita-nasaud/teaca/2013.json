@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bistrita-nasaud/teaca/2013",
+ "acts": [
+  {
+   "slug": "hcl-bistrita-nasaud--teaca-30-2013",
+   "path": "local/bistrita-nasaud/teaca/2013/30",
+   "short": "HCL Teaca nr. 30/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Teaca nr. 30/2013 pentru meritele deosebite și contribuția adusă la siguranța locuitorilor comunei Teaca și imaginea deosebită făcută Comunei Teaca în străinătate",
+   "url": "https://primariateaca.ro/",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 1,
+     "source_url": "https://primariateaca.ro/documente/uat_teaca_hcl.nr.30_17.05.2013_cetatean_onoare.pdf",
+     "sha256": "2d7bf9fc0f073e43c7cfe517a544edfb26955afc6d5e35f782236a92520ea3e4"
+    }
+   ]
+  }
+ ]
+}
