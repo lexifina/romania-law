@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-botosani--candesti-35-2024",
+"path": "local/botosani/candesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cândești nr. 35/2024 privind stabilirea impozitelor si taxelor locale in comuna Candesti pentru anul 2025",
+"short": "HCL Cândești nr. 35/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://candestibt.ro/wp-content/uploads/2025/01/Hotararea-nr.-35-din-18.12.2024-privind-stabilirea-impozitelor-si-taxelor-locale-in-comuna-Candesti-pentru-anul-2025.pdf",
+"council": "botosani/candesti",
+"council_name": "Consiliul Local al Comunei Cândești",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

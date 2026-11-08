@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/sinca/2020",
+ "acts": [
+  {
+   "slug": "hcl-brasov--sinca-11-2020",
+   "path": "local/brasov/sinca/2020/11",
+   "short": "HCL Șinca nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 11/2020 privind aprobarea ajustarii tarifelor pentru serviciile de salubrizare prestate in comuna Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 3,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-11-din-28-februarie-2020-privind-aprobarea-ajustarii-tarifelor-pentru-serviciile-de-salubrizare-prestate.pdf",
+     "sha256": "7ba8863d8b2f371e2a83c5ffce61193ecb5c280563504411e871352d8e54d7ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-5-2020",
+   "path": "local/brasov/sinca/2020/5",
+   "short": "HCL Șinca nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 5/2020 privind modificare si completarea HCL Sinca nr. 50 din 22.07.2019 privind aprobarea Regulamentului de aplicare a taxei speciale de salubritate pentru persoanele fizice si juridice care nu au incheiat un contract cu operatorul desemnat",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-5-din-31-ianuarie-2020-privind-modificare-si-completarea-HCL-Sinca-nr.-50-din-22.07.2019.pdf",
+     "sha256": "8a4c24823e5bbdc6ca4dbd7a8c29b6074366904353c28bd484b821e3167105d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-50-2020",
+   "path": "local/brasov/sinca/2020/50",
+   "short": "HCL Șinca nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 50/2020 privind aprobarea volumului de masa lemnoasa care se exploateaza anual din fondul forestier al comunei Sinca, a destinatiei acesteia si a preturilor de referinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 9,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-50-din-27-noiembrie-2020-2.pdf",
+     "sha256": "6eec88997ba4c5ce60dfaccee5ff3946c6c6b9d7cd92ab6c888304f39e99a7ca"
+    }
+   ]
+  }
+ ]
+}

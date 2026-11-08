@@ -3,6 +3,111 @@
  "shard": "local/braila/stancuta/2022",
  "acts": [
   {
+   "slug": "hcl-braila--stancuta-1-2022",
+   "path": "local/braila/stancuta/2022/1",
+   "short": "HCL Stăncuța nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 1/2022 privind încheierea exercițiului bugetar pe anul 2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79728",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-10-2022",
+   "path": "local/braila/stancuta/2022/10",
+   "short": "HCL Stăncuța nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 10/2022 privind modificarea bugetului local al comunei Stăncuța, județul Brăila pe anul 2022",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79840",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-11-2022",
+   "path": "local/braila/stancuta/2022/11",
+   "short": "HCL Stăncuța nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 11/2022 privind aprobarea Studiului de Fezabilitate precum și a devizului general aferent investiției '' Construire sală de evenimente , împrejmuire teren și sistematizare verticală, precum și desfințare corpuri C1, C2, C3 în Localitatea Cuza-vodă, comuna Stăncuța ''",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79841",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-12-2022",
+   "path": "local/braila/stancuta/2022/12",
+   "short": "HCL Stăncuța nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 12/2022 privind stabilirea formei de gestiune pentru Serviciul de Iluminat Public al comunei Stăncuța, județul Brăila, aprobarea regulamentului de organizare și funcționare al serviciului de iluminat public, al caietului de sarcini și al contractului de delegare a gestiunii",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79842",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-19-2022",
+   "path": "local/braila/stancuta/2022/19",
+   "short": "HCL Stăncuța nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 19/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate, a caietului de sarcini și stabilirea comisiei de licitație publică a suprafeței de 2.711 mp teren situat în T 123, parcela 12013/1, CF 77599, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79849",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-2-2022",
+   "path": "local/braila/stancuta/2022/2",
+   "short": "HCL Stăncuța nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 2/2022 privind acordarea burselor de ajutor social, de performanță, de merit și de studiu pentru elevii din învățămăntul preuniversitar de stat în anul școlar 2021-2022",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79729",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-20-2022",
+   "path": "local/braila/stancuta/2022/20",
+   "short": "HCL Stăncuța nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 20/2022 privind avizarea modificării și a formei actualizate a unor anexe la Caietele de Sarcini ale activității de captare a apei brute, de transport a apei potabile, de înmagazinare a apei potabile și de distribuție a apei potabile în Aria Delegată -Unitatea Administrativ Teritorială Comuna Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79850",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79850",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-21-2022",
    "path": "local/braila/stancuta/2022/21",
    "short": "HCL Stăncuța nr. 21/2022",
@@ -133,6 +238,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-3-2022",
+   "path": "local/braila/stancuta/2022/3",
+   "short": "HCL Stăncuța nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 3/2022 privind aprobarea consumului total de carburant pentru autovegiculele și utilajele aflate în dotarea Consiliului Local Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79730",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79730",
      "sha256": null
     }
    ]
@@ -288,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-4-2022",
+   "path": "local/braila/stancuta/2022/4",
+   "short": "HCL Stăncuța nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 4/2022 privind aprobarea organizării și funcționării rețelei școlare de pe raza localității Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79731",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79731",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-40-2022",
    "path": "local/braila/stancuta/2022/40",
    "short": "HCL Stăncuța nr. 40/2022",
@@ -298,6 +433,51 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-5-2022",
+   "path": "local/braila/stancuta/2022/5",
+   "short": "HCL Stăncuța nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 5/2022 privind alegerea presedintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79758",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-6-2022",
+   "path": "local/braila/stancuta/2022/6",
+   "short": "HCL Stăncuța nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 6/2022 privind adoptarea bugetului local al comunei Stăncuța pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79759",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-7-2022",
+   "path": "local/braila/stancuta/2022/7",
+   "short": "HCL Stăncuța nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 7/2022 privind definitivarea și aprobarea PROGRAMULUI ANUAL DE ACHIZIȚII PUBLICE",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79760",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79760",
      "sha256": null
     }
    ]

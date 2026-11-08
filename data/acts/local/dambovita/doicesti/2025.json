@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dambovita/doicesti/2025",
+"acts": [
+{
+"slug": "hcl-dambovita--doicesti-2-2025",
+"path": "local/dambovita/doicesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 2/2025 privind aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2025, initiat de primarul comunei Doicesti; inregistrat la nr.78/20.12.2024; Luand act de: - Adresa Asociatiei de Dezvoltare Intercomunitară ,,Mana",
+"short": "HCL Doicești nr. 2/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-2-DIN-31.01.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-3-2025",
+"path": "local/dambovita/doicesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 3/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2025, initiat de primarul comunei Doicesti; inregistrat la nr.79/20.12.2024; Luand act de: - Adresa Asociatiei de Dez",
+"short": "HCL Doicești nr. 3/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-3-DIN-31.01.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-44-2025",
+"path": "local/dambovita/doicesti/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 44/2025 privind aprobarea indicatorilor economici și cofinanțarea investiției „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LOCAL DE URBANISM AFERENT” al Comunei Doicești, Județul Dâmbovița CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizand: - Proiectul de hotarare privind aprobarea indicatorilor economici și cofinanțarea investiției „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LO",
+"short": "HCL Doicești nr. 44/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.44-2025-actualizare-PUG-.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--doicesti-61-2025",
+"path": "local/dambovita/doicesti/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 61/2025 privind actualizarea devizului general pentru obiectivul de investiție „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LOCAL DE URBANISM AFERENT” al Comunei Doicești, Județul Dâmbovița”, după modificarea cotei TVA la 21% începând cu 01.08.2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind actualizarea devizului general pentru obiectivul de inve",
+"short": "HCL Doicești nr. 61/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-61-din-27.10.2025.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2012",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-4-2012",
+   "path": "local/salaj/simleu-silvaniei/2012/4",
+   "short": "HCL Șimleu Silvaniei nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 4/2012 privind aprobarea ajustării tarifelor la serviciul public de colectare, transport și depozitarea gunoiului menajer prestat de SC Salubris SA Slatina Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică ordinară din data de 31 ianuarie 2012; Având în vedere adresa nr.35/2012 a SC Salubris SA Slatina, Expunerea de motive nr.940/2012 a Primarului orașului Șimleu Si",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2012/page/13/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_004_31012012.pdf",
+     "sha256": "9060c7b0f5c6af3b475fa9b88074bafcd5f8f2bcc1ef6a7b92a42952ecb635e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-86-2012",
+   "path": "local/salaj/simleu-silvaniei/2012/86",
+   "short": "HCL Șimleu Silvaniei nr. 86/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 86/2012 privind aprobarea unei taxe locale Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 28 noiembrie 2012; Având în vedere Expunerea de motive nr.12407/2012 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.12408/2012 al Direcției Economice și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2012/",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_086_28112012.pdf",
+     "sha256": "db3c0f78a6a8560b403cd8f0b3c13f3045d75245458f8bfc0d74ce4104a646e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-90-2012",
+   "path": "local/salaj/simleu-silvaniei/2012/90",
+   "short": "HCL Șimleu Silvaniei nr. 90/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 90/2012 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2013 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 20 decembrie 2012; Având în vedere Expunere",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2012/",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 14,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_090_20122012.pdf",
+     "sha256": "412dd76a8203fd917aaa033a47c745ac3a5ce79f7a5f4d09fecdb68f688cf202"
+    }
+   ]
+  }
+ ]
+}

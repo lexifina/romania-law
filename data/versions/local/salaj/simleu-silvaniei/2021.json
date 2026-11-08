@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2021",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-6-2021",
+   "path": "local/salaj/simleu-silvaniei/2021/6",
+   "short": "HCL Șimleu Silvaniei nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 6/2021 pentru modificarea Hotărârii Consiliului Local nr. 90/18.12.2020 privind stabilirea valorilor impozabile, a impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2021 Consiliul Local al orașului Șimleu Silvaniei, județul",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2021/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2021/04/HCL-nr.-6-din-28.01.2021.pdf",
+     "sha256": "5af2ffc3741acfd4ed0d2d638c0bd98be2b66ef5a5611a96c1eebda641e9a8b5"
+    }
+   ]
+  }
+ ]
+}

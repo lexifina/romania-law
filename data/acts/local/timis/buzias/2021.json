@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/timis/buzias/2021",
+"acts": [
+{
+"slug": "hcl-timis--buzias-1-2021",
+"path": "local/timis/buzias/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 1/2021",
+"short": "HCL Buziaș nr. 1/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": null,
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--buzias-2-2021",
+"path": "local/timis/buzias/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 2/2021 privind completarea Hotărârii Consiliului Local nr. 78/23.12.2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021 Având în vedere referatul de aprobare al initiatorului, înregistrat cu 320/ 21.01.2021, precum și raportul de specialitate al Serviciului contabilitate, buget – finante , impozite și taxe din cadrul Primăriei oraș Buzias , înregistrat cu nr. 321/21.01.2021, prin care",
+"short": "HCL Buziaș nr. 2/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://primariabuzias.ro/documente/hotarari-ale-consiliului-local-2021/",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-timis--buzias-79-2021",
+"path": "local/timis/buzias/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 79/2021",
+"short": "HCL Buziaș nr. 79/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": null,
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

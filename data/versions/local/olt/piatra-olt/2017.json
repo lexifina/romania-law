@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2017",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-92-2017",
+   "path": "local/olt/piatra-olt/2017/92",
+   "short": "HCL Piatra-Olt nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 92/2017 Cu privire la : stabilirea impozitelor si taxelor locale pentru anul 2018 Av6nd in vedere : -Raportul de specialitate al biroului I.T. Contabilitate venituri si cheltuieli nr. 19834115.09.2017 -Prevederile Legii nr.22712015 privind Codul fiscal, TITLUL lX,Impozite si Taxe Locale ,cu modificarile si completarile ulterioare -Prevederile art .7 din Legea 5212003,pivind transparentzdecizionala in administratia publica, cu modificarile si completarile ulterioare -Anuntul pentru dezbatere publica referitor la Proiectul de hotarare cu privire la stabilirea impozitelor si taxelor locale pentru anul 2018 nr.19835/15.09.2017 -Prevederile art. 27, art. 36,alin.2litera,,b,, si alin. litera,,c\" din Legea w. 21512001 privind administratia publica locala ,republicata cu modificarile si completarile ulterioare",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/92-2017.pdf",
+     "sha256": "c1c877b8cb9f1a8baa6c741032d96b6653ea536a835fc36dadd887d4308e8f75"
+    }
+   ]
+  }
+ ]
+}

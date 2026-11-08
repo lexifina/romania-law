@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-galati--cudalbi-16-2026",
+   "path": "local/galati/cudalbi/2026/16",
+   "short": "HCL Cudalbi nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 16/2026 Privind initierea demersurilor de actualizare a Planului Urbanistic General si Regulamentului Local de Urbanism al comunei CUDALBI, judetul GALATI Consiliul local al comunei Cudalbi, intrunit in sedinta extraordinară in data de 11.05.2026 Analizând temeiurile juridice - Art. 25 alin.(l) , art. 46 din Legea nr. 350/ 2001 privind amenajarea teritoriului și urbanismul, republicata , cu modificările ș",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2026/07/HCL-nr.-16_initierea-demersurilor-de-actualizare-a-Planului-Urbanistic-General-.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2026/07/HCL-nr.-16_initierea-demersurilor-de-actualizare-a-Planului-Urbanistic-General-.pdf",
+     "sha256": "c48715edd5ee758dbe611747d7d1e3c02989911303d368408c742defb46279fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-20-2026",
+   "path": "local/galati/cudalbi/2026/20",
+   "short": "HCL Cudalbi nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 20/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a73ca8c5e5d55c511f90aa78ecfabfb5ae804831a7295fc445394ffde82880f2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--cudalbi-30-2026",
    "path": "local/galati/cudalbi/2026/30",
    "short": "HCL Cudalbi nr. 30/2026",

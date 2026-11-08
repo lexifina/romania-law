@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/almaj/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--almaj-47-2021",
+   "path": "local/dolj/almaj/2021/47",
+   "short": "HCL Almăj nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Almăj nr. 47/2021 PRIVIND STABILIREA ŞI SANCŢIONAREA FAPTELOR CARE CONSTITUIE CONTRAVENŢII ÎN DOMENIUL EDILITAR-GOSPODĂRESC, A CURĂŢENIEI ŞI IGIENEI PUBLICE, A ÎNTREŢINERII TERENURILOR ŞI CURŢILOR, PRECUM ŞI A PROTECŢIEI MED",
+   "url": "http://primariaalmaj.ro/",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "http://primariaalmaj.ro/hot2021/H.47.PDF",
+     "sha256": "86acbec3be45a405649dcd4db3bd94cb8178fdcf7deb4766cca506d8fddb4f0f"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,36 @@
  "shard": "local/braila/faurei/2020",
  "acts": [
   {
+   "slug": "hcl-braila--faurei-3-2020",
+   "path": "local/braila/faurei/2020/3",
+   "short": "HCL Făurei nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 3/2020 privind prelungirea valabilității Planului Urbanistic General al orașului Făurei și a Regulamentului Local de Urbanism aferent aprobat prin Hotărârea Consiliului Local al orașului Făurei nr. 22 din 29.02.2008 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 ianuarie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul nr. 292/16.01",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-3-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-3-din-29.01.2020.pdf",
+     "sha256": "357caffbd3bf892046dc674b634a217ff442119ee0eaa6c82f345a40d7dd10be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-32-2020",
+   "path": "local/braila/faurei/2020/32",
+   "short": "HCL Făurei nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 32/2020 privind aprobarea indexării impozitelor și taxelor locale, respectiv actualizarea limitelor amenzilor prevăzute la alin. (3) și (4) ale art. 493 din Legea nr. 227/2015 privind Codul fiscal, pentru anul 2021 ținând cont de rata inflației",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-32-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-32-din-30.04.2020.pdf",
+     "sha256": "b09c3986466846bb312e9d830148391164aa8a862527013e3646378fecf6fac8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-59-2020",
    "path": "local/braila/faurei/2020/59",
    "short": "HCL Făurei nr. 59/2020",

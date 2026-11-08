@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/brasov/sinca/2024",
+"acts": [
+{
+"slug": "hcl-brasov--sinca-25-2024",
+"path": "local/brasov/sinca/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 25/2024 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2025, cu rata inflatiei de 10.4%",
+"short": "HCL Șinca nr. 25/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--sinca-31-2024",
+"path": "local/brasov/sinca/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 31/2024 privind aprobarea documentatiilor de urbanism Planul Urbanistic Zonal (PUZ) si Regulamentul Local de Urbanism (RLU) in vederea construirii de pensiune agroturistica, comuna Sinca, judetul Brasov",
+"short": "HCL Șinca nr. 31/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--sinca-52-2024",
+"path": "local/brasov/sinca/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 52/2024 privind aprobarea impozitelor pentru mijloacele de transport prevazute la art. 470, alin. 5 si 6 din Legea nr. 227/2015 pentru anul 2025",
+"short": "HCL Șinca nr. 52/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--sinca-69-2024",
+"path": "local/brasov/sinca/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 69/2024 privind aprobarea volumului de masa lemnoasa care se exploateaza anual din fondul forestier al comunei Sinca, a destinatiei acesteia si a preturilor de referinta",
+"short": "HCL Șinca nr. 69/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--sinca-71-2024",
+"path": "local/brasov/sinca/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 71/2024 privind aprobarea serviciului public de salubrizare al Comunei Sinca, a Studiului de oportunitate, a Caietului de sarcini si delegarea gestiunii serviciului de salubrizare",
+"short": "HCL Șinca nr. 71/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

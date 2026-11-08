@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2018",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-40-2018",
+   "path": "local/gorj/ticleni/2018/40",
+   "short": "HCL Țicleni nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 40/2018 privind indexarea valorilor impozabile, impozitelor și taxelor locale pe anul 2019",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/01/hcl-40-privind-indexarea-val.impozabile-impozite-si-taxe-pe-anul-2019.pdf",
+     "sha256": "039cd45545a05b965189c3aef7ad9f17992909ba8aba774ccfa2168951baa238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-47-2018",
+   "path": "local/gorj/ticleni/2018/47",
+   "short": "HCL Țicleni nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2018 privind aprobarea Regulamentului de organizare și utilizare a spatiilor publice de joacă pentru copii pe raza orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-47-aprobare-Regulament-organizare-si-utilizare-a-spa%C8%9Biilor-de-joaca-pentru-copii-pe-raza-orasului-%C8%9Aicleni.pdf",
+     "sha256": "4fc8c9c39860d0a96b6a3ab63586d8c82a342f04c2347cbe9e90c6637b6c4053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-78-2018",
+   "path": "local/gorj/ticleni/2018/78",
+   "short": "HCL Țicleni nr. 78/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 78/2018 privind prelungirea valabilității Planului Urbanistic General al Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-78-privind-prelungire-PUZ-al-Orasului-%C8%9Aicleni.pdf",
+     "sha256": "e3fe1e915cac34e9b110dc4f97ac2c4d6c8786f43b5e044483f38325cc26acc2"
+    }
+   ]
+  }
+ ]
+}

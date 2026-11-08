@@ -3,6 +3,94 @@
 "shard": "local/buzau/beceni/2026",
 "acts": [
 {
+"slug": "hcl-buzau--beceni-4-2026",
+"path": "local/buzau/beceni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 4/2026 privind aprobarea unui act adițional la Statutul Asociației de Dezvoltare Intercomunitară ”Eco Buzău 2009” și a Statutului actualizat",
+"short": "HCL Beceni nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-12",
+"latest": "2026-02-12",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/249327",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-11-2026",
+"path": "local/buzau/beceni/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 11/2026 privind acordarea unor facilități fiscale în comuna Beceni pentru anul 2026",
+"short": "HCL Beceni nr. 11/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/260290",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-20-2026",
+"path": "local/buzau/beceni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 20/2026 privind aprobarea contului de executie bugetara al comunei Beceni pentru trimestrul I al anului 2026",
+"short": "HCL Beceni nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/265668",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-21-2026",
+"path": "local/buzau/beceni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 21/2026 privind aprobarea bugetului local al comunei Beceni pe anul 2026 și a listei de investiţii pe anul 2026",
+"short": "HCL Beceni nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/267319",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--beceni-40-2026",
 "path": "local/buzau/beceni/2026/40",
 "kind": "local",

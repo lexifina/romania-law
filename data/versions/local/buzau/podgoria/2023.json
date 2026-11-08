@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/podgoria/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--podgoria-4-2023",
+   "path": "local/buzau/podgoria/2023/4",
+   "short": "HCL Podgoria nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 4/2023 pentru aprobarea Regulamentului de eliberare a Acordului de functionare privind activitățile comerciale ce se desfășoară pe raza comunei Podgoria , județul Buzău Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 31 ianuarie 2023; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 120/10.01.2023 intocmit in conform",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/06/HCL-4-31012023-Regulament-eliberare-acord-de-functionare-activitati-comerciale.pdf",
+     "sha256": "07db7f03d5df770deef844d69d08d1c02077a10b2b7dabf200e49893e11e3d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-41-2023",
+   "path": "local/buzau/podgoria/2023/41",
+   "short": "HCL Podgoria nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 41/2023 privind aprobarea tarifelor pentru prestarea unor servicii conexe serviciului public de alimentare cu apă şi de canalizare",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/12/41HCL.nr_.41-privind-aprobarea-tarifelor-pentru-prestarea-unor-servicii-conexe-serviciului-public-de-alimentare-cu-apa-si-de-canalizare-.pdf",
+     "sha256": "3d1f5931d1b1a1258ef42a04e2771c0d10279689e8b01ffa49a81898542e5d74"
+    }
+   ]
+  }
+ ]
+}

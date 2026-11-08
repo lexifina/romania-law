@@ -3,6 +3,94 @@
 "shard": "local/dambovita/lucieni/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--lucieni-20-2024",
+"path": "local/dambovita/lucieni/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 20/2024 pentru modificarea cuantumului taxei pentru eliberarea carnetului de comercializare a produselor din sectorul agricol, aprobată prin HCL nr. 94/19.12.2023 privind aprobarea impozitelor și taxelor locale în sarcina contribuabililor pentru anul fiscal 2024",
+"short": "HCL Lucieni nr. 20/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#73869",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-22-2024",
+"path": "local/dambovita/lucieni/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 22/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, mai - iulie 2024",
+"short": "HCL Lucieni nr. 22/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#74309",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-34-2024",
+"path": "local/dambovita/lucieni/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 34/2024 privind modificarea cuantumului taxei pentru eliberarea carnetului de comercializare a produselor din sectorul agricol, aprobată prin HCL nr. 20/29.04.2024",
+"short": "HCL Lucieni nr. 34/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-06-25",
+"latest": "2024-06-25",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#76547",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-42-2024",
+"path": "local/dambovita/lucieni/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 42/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, august - octombrie 2024",
+"short": "HCL Lucieni nr. 42/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#78874",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-43-2024",
 "path": "local/dambovita/lucieni/2024/43",
 "kind": "local",
@@ -68,6 +156,29 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-46-2024",
+"path": "local/dambovita/lucieni/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 46/2024",
+"short": "HCL Lucieni nr. 46/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-30",
+"latest": "2024-07-30",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
 "title_withheld": "personal_data"
 }
 },
@@ -233,6 +344,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-60-2024",
+"path": "local/dambovita/lucieni/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 60/2024 privind modificarea și completarea inventarului domeniului public și privat al comunei Lucieni, județul Dâmbovița",
+"short": "HCL Lucieni nr. 60/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-24",
+"latest": "2024-09-24",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#83218",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-62-2024",
 "path": "local/dambovita/lucieni/2024/62",
 "kind": "local",
@@ -321,6 +454,252 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-73-2024",
+"path": "local/dambovita/lucieni/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 73/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, noiembrie 2024 - ianuarie 2025",
+"short": "HCL Lucieni nr. 73/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85356",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-74-2024",
+"path": "local/dambovita/lucieni/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 74/2024 privind alegerea viceprimarului comunei Lucieni, județul Dâmbovița",
+"short": "HCL Lucieni nr. 74/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85369",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-75-2024",
+"path": "local/dambovita/lucieni/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 75/2024 privind organizarea comisiilor de specialitate din cadrul consiliului local al comunei Lucieni pe principalele domenii de activitate",
+"short": "HCL Lucieni nr. 75/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85376",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-76-2024",
+"path": "local/dambovita/lucieni/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 76/2024 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil aparținând domeniului privat al comunei Lucieni, județul Dâmbovița",
+"short": "HCL Lucieni nr. 76/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#86594",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-80-2024",
+"path": "local/dambovita/lucieni/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 80/2024 privind mandatarea specială a reprezentantului UAT Lucieni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,, Management Integrat al Deșeurilor în județul Dâmbovița”",
+"short": "HCL Lucieni nr. 80/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85549",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-81-2024",
+"path": "local/dambovita/lucieni/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 81/2024",
+"short": "HCL Lucieni nr. 81/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-83-2024",
+"path": "local/dambovita/lucieni/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 83/2024 privind aprobarea rețelei școlare de pe raza UAT Lucieni, județul Dâmbovița, pentru anul școlar 2025-2026",
+"short": "HCL Lucieni nr. 83/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#85511",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-84-2024",
+"path": "local/dambovita/lucieni/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 84/2024",
+"short": "HCL Lucieni nr. 84/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-86-2024",
+"path": "local/dambovita/lucieni/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 86/2024",
+"short": "HCL Lucieni nr. 86/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-92-2024",
+"path": "local/dambovita/lucieni/2024/92",
+"kind": "local",
+"year": "2024",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 92/2024 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav din comuna Lucieni, pentru anul 2025",
+"short": "HCL Lucieni nr. 92/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#88237",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-96-2024",
+"path": "local/dambovita/lucieni/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 96/2024",
+"short": "HCL Lucieni nr. 96/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
 "title_withheld": "personal_data"
 }
 }

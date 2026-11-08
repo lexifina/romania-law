@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ulmi/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--ulmi-1-2023",
+   "path": "local/dambovita/ulmi/2023/1",
+   "short": "HCL Ulmi nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 1/2023 privind stabilirea și aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru pentru anul 2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#35461",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2419FAoyB12E0spIFj91.Jz.qy4mazefzslR5e72RGhyRjzuTJ1jFYe/2348",
+     "sha256": "adb3c36f5f0fcca410b9ff5a5571cf968f51b3b96101371ed1704afdec2ad285"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-100-2023",
    "path": "local/dambovita/ulmi/2023/100",
    "short": "HCL Ulmi nr. 100/2023",
@@ -74,6 +89,21 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#58800",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-107-2023",
+   "path": "local/dambovita/ulmi/2023/107",
+   "short": "HCL Ulmi nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 107/2023 privind aprobarea scutirii de majorari si penalitati de intarziere pentru persoanale fizice care achita integral debitele catre bugetul local pana la 31,12,2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#59536",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24JxnrApwlCxf3JApA73PLHe45rAccAEroqm5EQAafT9V7385Nyr6Re/2348",
+     "sha256": "59329689064f059a52009d2e30b24a6eea493204c787e9cf8f809aa62f2efca0"
     }
    ]
   },
@@ -239,6 +269,21 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#60632",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-119-2023",
+   "path": "local/dambovita/ulmi/2023/119",
+   "short": "HCL Ulmi nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 119/2023 privind actualizarea indicatorilor tehnico-economici, a contributiei financiare proprii si a cheltuielilor neeligibile pentru proiectul “MODERNIZARE DISPENSAR SAT ULMI, COM ULMI IN VEDEREA CRESTERII EFICIENTEI ENERGETICE SI SI GESTIONARII INTELIGENTE A ENERGIEI” faza PT",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#60633",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%246lTq7ND4/1dkyJXftJwG7evO1lKoTnCe5uufjgn.u/E4qQG6wPZAC/2348",
+     "sha256": "26deccb03e057cb7d3c9411e65fd0ef5bc1e7bc7032efc9d3a8dd5cd6a2856d5"
     }
    ]
   },
@@ -438,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-137-2023",
+   "path": "local/dambovita/ulmi/2023/137",
+   "short": "HCL Ulmi nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 137/2023 privind stabilirea și aprobarea cuantumului taxei de habitat cu destinație specială de salubrizare pentru anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#62645",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24NIfSem891Ur66Aayj1NHtuQHdxe3VgfNeEQjiiebWxN0cELGyG0Ou/2348",
+     "sha256": "4ed38f98c7759cba6a82fb4a23481788f1782370204231061052b2447dfd98e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-138-2023",
    "path": "local/dambovita/ulmi/2023/138",
    "short": "HCL Ulmi nr. 138/2023",
@@ -569,6 +629,51 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#66026",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-39-2023",
+   "path": "local/dambovita/ulmi/2023/39",
+   "short": "HCL Ulmi nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 39/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d28acb0011e981978ee4270df676a9db60a1bfc5b6badefd0a531c76039cfa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-65-2023",
+   "path": "local/dambovita/ulmi/2023/65",
+   "short": "HCL Ulmi nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 65/2023 privind modificarea HCL nr. 57/2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#51307",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24c.nrysyd8xhhxFLcHkQTkeeaJIdiqO0fxbvxI..ZxZ7zmnDITQbUS/2348",
+     "sha256": "342b4bcb75f165e401e26fbe37340b805d2cadb8a90bff4176c1b7de91cf619d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-73-2023",
+   "path": "local/dambovita/ulmi/2023/73",
+   "short": "HCL Ulmi nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 73/2023 privind aprobarea documentului strategic „Plan de Mobilitate Urbană Durabilă pentru Municipiul Târgoviște 2021-2030”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#52454",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24q.XA2njqRKhyS1byYPNw4.slMA9fvDtzSxAPpMF97um4qeofE3Oya/2348",
+     "sha256": "90cc88c3cc020a5f0033569f112b0438a1e85da2aa735ef7454d0260e47908fb"
     }
    ]
   },

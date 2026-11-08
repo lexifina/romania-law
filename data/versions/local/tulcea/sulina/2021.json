@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2021",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-10-2021",
+   "path": "local/tulcea/sulina/2021/10",
+   "short": "HCL Sulina nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 10/2021 privind aprobarea actualizării listei cuprinzând persoanele care beneficiază de reducerea cu 50% a impozitelor pe clădiri și terenuri și a celorlalte taxe conform O.G nr.27/1996, republicată în 1997 și a Legii nr.26/2019 pentru modificarea și completarea O.G nr.2",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea10din28ian2021_actualizare_lista_reducere_taxe.pdf",
+     "sha256": "5482b61a4d102345d7af134bfe563d71c6205600d85c583cedde4f1c1a997219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-2-2021",
+   "path": "local/tulcea/sulina/2021/2",
+   "short": "HCL Sulina nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 2/2021 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea2din07ian2021_taxe_impozite.pdf",
+     "sha256": "bb53bd0bb660de3cbfbebeb4e78bbff71c6ef2f7670a21e96c1eb1ccf8e02f76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-3-2021",
+   "path": "local/tulcea/sulina/2021/3",
+   "short": "HCL Sulina nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 3/2021 privind stabilirea taxelor de autorizare pentru organizarea și desfășurarea unor activități economice, de turism și agrement pe teritoriul Rezervației Biosferei „Delta Dunării“, pe raza de competență a orașului Sulina, pentru anul 2021",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea3din07ian2021_taxe_autorizare.pdf",
+     "sha256": "ab029046fa637d5bec8102de7145aa2ec3ac35eb642894d00f2da73532d80eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-34-2021",
+   "path": "local/tulcea/sulina/2021/34",
+   "short": "HCL Sulina nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 34/2021 privind aprobarea stabilirii taxelor la Casa de Cultură Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea34din31mar2021_taxe_cultura.pdf",
+     "sha256": "265e0eb7928d4f5c6c07a469af445f639a7717ecc5b56f5b574edc13615e91c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-48-2021",
+   "path": "local/tulcea/sulina/2021/48",
+   "short": "HCL Sulina nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 48/2021 privind aprobarea indexării impozitelor și taxelor locale, precum și a taxelor speciale, în anul 2022",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea48din29apr2021_indexare_impozite.pdf",
+     "sha256": "3816acb300f573f0b0e4e70644bc948d71553531ed63350d9464d6f302849c10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-55-2021",
+   "path": "local/tulcea/sulina/2021/55",
+   "short": "HCL Sulina nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 55/2021 privind aprobarea actualizării listei cuprinzând persoanele care beneficiază de reducerea cu 50% a impozitelor pe clădiri și terenuri și a celorlalte taxe conform O.G nr.27/1996, republicată în 1997 și a Legii nr.26/2019 pentru modificarea și completarea O.G nr.27",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea55din29apr2021_reducere_taxe.pdf",
+     "sha256": "a71d8c075a4cc0baa371dc81734c9d328b4381f6032fc55f89f82e6eb9750344"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-62-2021",
+   "path": "local/tulcea/sulina/2021/62",
+   "short": "HCL Sulina nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 62/2021 privind aprobarea actualizării listei cuprinzând persoanele care beneficiază de reducerea cu 50% a impozitelor pe clădiri și terenuri și a celorlalte taxe conform O.G nr.27/1996, republicată în 1997 și a Legii nr.26/2019 pentru modificarea și completarea O.G nr.27/199",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea62din27mai2021_reducere_taxe.pdf",
+     "sha256": "fddd8911d4f395504ed362b9023457fba4d0b3e762dbf16637f5546ecb99bab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-67-2021",
+   "path": "local/tulcea/sulina/2021/67",
+   "short": "HCL Sulina nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 67/2021",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+     "sha256": "b8c59f5ef742c95529ca26fe5b369d32f1e1c67d68a9f8f23d6270f64c5feec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-76-2021",
+   "path": "local/tulcea/sulina/2021/76",
+   "short": "HCL Sulina nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 76/2021 privind aprobarea Regulamentului de atribuire și exploatare al construcțiilor plutitoare, caietului de sarcini, contractului cadru de închiriere al construcțiilor plutitoare și a tarifului minim acceptat în vederea închirierii prin licitație publică a construcțiilor",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea76din29iul2021_regulament_pontoane.pdf",
+     "sha256": "7bcaf184d778a6138ae43d67b0b2231edb484b8506ef4e834e3ebdc9e8491e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-92-2021",
+   "path": "local/tulcea/sulina/2021/92",
+   "short": "HCL Sulina nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 92/2021 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului orașului Sulina și a serviciilor subordonate fără personalitate juridică (conține anexe)",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea92din26aug2021_regulament_aparat_primar.pdf",
+     "sha256": "2f14a92d1858187e0fe8202784df4ac2f895de54782179eaf6df3635f54ee180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-99-2021",
+   "path": "local/tulcea/sulina/2021/99",
+   "short": "HCL Sulina nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 99/2021",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html",
+     "sha256": "a98d3034592cb7ac6f23c84652d83217490e7b31283695c0c3273d96db7870d4"
+    }
+   ]
+  }
+ ]
+}

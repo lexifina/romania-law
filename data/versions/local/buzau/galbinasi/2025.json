@@ -3,6 +3,111 @@
  "shard": "local/buzau/galbinasi/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--galbinasi-1-2025",
+   "path": "local/buzau/galbinasi/2025/1",
+   "short": "HCL Gălbinași nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 1/2025 privind validarea Dispoziției nr.4 din 13.01.2025 privind acoperirea definitivă a deficitului secțiunii de dezvoltare înregistrat la închidere exercițiului bugetar al anului 2024, în sumă de 2.930.188,62 lei, din excedentul bugetului local al anilor precedenți",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/190604",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/190604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-12-2025",
+   "path": "local/buzau/galbinasi/2025/12",
+   "short": "HCL Gălbinași nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 12/2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/194135",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/194135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-26-2025",
+   "path": "local/buzau/galbinasi/2025/26",
+   "short": "HCL Gălbinași nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 26/2025 privind aprobarea Procedurii de publicare a listei debitorilor persoane juridice care înregistrează obligații fiscale restante și a Procedurii de publicare a listei contribuabililor persoane juridice care nu înregistrează ogligații fiscale restante",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/206573",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/206573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-48-2025",
+   "path": "local/buzau/galbinasi/2025/48",
+   "short": "HCL Gălbinași nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 48/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul III, anul 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/218758",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/218758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-5-2025",
+   "path": "local/buzau/galbinasi/2025/5",
+   "short": "HCL Gălbinași nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 5/2025 privind aprobarea utilizării sumei de 568.106 lei din excedentul bugetului local al Comunei Gălbinași rezultat la sfârșitul exercițiului bugetar al anului 2024 , ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/190608",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/190608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-59-2025",
+   "path": "local/buzau/galbinasi/2025/59",
+   "short": "HCL Gălbinași nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 59/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul III, anul 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/226488",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/226488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--galbinasi-62-2025",
+   "path": "local/buzau/galbinasi/2025/62",
+   "short": "HCL Gălbinași nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gălbinași nr. 62/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Gălbinași, județul Buzău pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/galbinasi-bz/registru-hcl/233550",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/galbinasi-bz/registru-hcl/233550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--galbinasi-65-2025",
    "path": "local/buzau/galbinasi/2025/65",
    "short": "HCL Gălbinași nr. 65/2025",

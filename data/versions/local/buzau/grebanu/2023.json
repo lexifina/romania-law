@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--grebanu-3-2023",
+   "path": "local/buzau/grebanu/2023/3",
+   "short": "HCL Grebănu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 3/2023 proiect de hotărâre pentru modificarea hotărârii consiliului local al comunei Grebănu nr.42/27 decembrie 2022 privind stabilirea impozitelor și taxelor locale pe anul 2023",
+   "url": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#41402",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://grebanu.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24t6uKtbaM2nZcMx6glAubL.EvohgvPbsYK4hsOIj9HnMcG5nNjl7ha/24236",
+     "sha256": "1db882f277e063c7780ff265453280274593c2b500af89c7f29daa6b9da7a160"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--grebanu-30-2023",
    "path": "local/buzau/grebanu/2023/30",
    "short": "HCL Grebănu nr. 30/2023",

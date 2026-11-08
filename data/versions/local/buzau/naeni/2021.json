@@ -3,6 +3,336 @@
  "shard": "local/buzau/naeni/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--naeni-1-2021",
+   "path": "local/buzau/naeni/2021/1",
+   "short": "HCL Năeni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2021 privind aprobarea planului anual de acțiuni pentru lucrările de interes local ce se vor efectua de beneficiarii ajutorului social în anul 20201",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/20727",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/20727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-10-2021",
+   "path": "local/buzau/naeni/2021/10",
+   "short": "HCL Năeni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2021 privind revocarea Hotararilor Consiliului Local Naeni nr. 40/21.12.2021 si 3 /28.01.2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29959",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-11-2021",
+   "path": "local/buzau/naeni/2021/11",
+   "short": "HCL Năeni nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2021 privind desfiintarea postului de consilier personal al primarului si modificarea in acest sens a organigramei si a statului de functii al aparatului de specialitate al primarului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29960",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-12-2021",
+   "path": "local/buzau/naeni/2021/12",
+   "short": "HCL Năeni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 12/2021 privind aprobarea bugetului local initial, a listei de investitii si a bugetului Serviciului de Salubrizare al comunei Naeni pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29961",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-13-2021",
+   "path": "local/buzau/naeni/2021/13",
+   "short": "HCL Năeni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 13/2021 privind aprobarea statiilor de autobuze/microbuze pentru imbarcarea/debarcarea persoanelor transportate prin curse regulate judetene pe teritoriul Unitatii Administrativ-Teritoriale a comunei Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29962",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-14-2021",
+   "path": "local/buzau/naeni/2021/14",
+   "short": "HCL Năeni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 14/2021 privind stabilirea unor normative de cheltuieli ale Unitatii Administrativ Teritoriale Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29967",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-15-2021",
+   "path": "local/buzau/naeni/2021/15",
+   "short": "HCL Năeni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 15/2021 privind aprobarea salariilor de baza pentru personalul contractual din cadrul Serviciului de Salubrizare al comunei Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29963",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-16-2021",
+   "path": "local/buzau/naeni/2021/16",
+   "short": "HCL Năeni nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 16/2021 privind aprobarea alocarii sumei de 15.000 lei pentru lucrari de fotogrametrie aeriana necesara sectorizarii suprafetelor de padure si alte terenuri agricole",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29964",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-17-2021",
+   "path": "local/buzau/naeni/2021/17",
+   "short": "HCL Năeni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 17/2021 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29965",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-18-2021",
+   "path": "local/buzau/naeni/2021/18",
+   "short": "HCL Năeni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29966",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-19-2021",
+   "path": "local/buzau/naeni/2021/19",
+   "short": "HCL Năeni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2021 privind indexarea cu un procent de 2,6 %, reprezentand rata inflatiei, pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, aplicabile în anul fiscal 2022 în comuna Naeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29968",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-20-2021",
+   "path": "local/buzau/naeni/2021/20",
+   "short": "HCL Năeni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 20/2021 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29969",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-21-2021",
+   "path": "local/buzau/naeni/2021/21",
+   "short": "HCL Năeni nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 21/2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29970",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-22-2021",
+   "path": "local/buzau/naeni/2021/22",
+   "short": "HCL Năeni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 22/2021 privind darea în administrare şi exploatare a serviciului şi sistemului de salubrizare ale comunei NĂENI, judeţul BUZĂU către serviciul \"CONSILIUL LOCAL NĂENI – SERVICIUL SALUBRIZARE\", serviciu public de interes local, specializat, cu personalitate juridică, înfiinţat şi organizat în subordinea consiliului local al comunei NĂENI, judeţul BUZĂU",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29971",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-23-2021",
+   "path": "local/buzau/naeni/2021/23",
+   "short": "HCL Năeni nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 23/2021 privind stabilirea unei suprafețe de teren in vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei NĂENI, județul BUZĂU",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29972",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-24-2021",
+   "path": "local/buzau/naeni/2021/24",
+   "short": "HCL Năeni nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 24/2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29973",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-25-2021",
+   "path": "local/buzau/naeni/2021/25",
+   "short": "HCL Năeni nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 25/2021 privind rectificarea a I – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29974",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-26-2021",
+   "path": "local/buzau/naeni/2021/26",
+   "short": "HCL Năeni nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 26/2021 privind modificarea salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al primarului",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29975",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-27-2021",
+   "path": "local/buzau/naeni/2021/27",
+   "short": "HCL Năeni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 27/2021 privind acordarea unui mandat special reprezentantului UAT in Adunarea Generala a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” sa voteze aprobarea primirii comunei Catina in Asociatie",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29976",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-28-2021",
+   "path": "local/buzau/naeni/2021/28",
+   "short": "HCL Năeni nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 28/2021 privind acordarea unui mandat special reprezentantului in Adunarea Generala a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” sa voteze aprobarea retragerii comunei Valcelele din Asociatie",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29977",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-29-2021",
+   "path": "local/buzau/naeni/2021/29",
+   "short": "HCL Năeni nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 29/2021 privind aprobarea participării Unității Administrativ Teritoriale - Comuna Naeni în calitate de asociat – membru fondator la constituirea Asociației de Dezvoltare Intercomunitară ”Investiții Teritoriale Integrate Ținutul Buzăului, Prahovei și Vrancei”",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/33864",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/33864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-31-2021",
+   "path": "local/buzau/naeni/2021/31",
+   "short": "HCL Năeni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 31/2021 privind rectificarea a II – a a bugetului local pentru anul 2021",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/44880",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/44880",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-32-2021",
    "path": "local/buzau/naeni/2021/32",
    "short": "HCL Năeni nr. 32/2021",
@@ -118,6 +448,21 @@
      "from": "2021-10-27",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/44900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-4-2021",
+   "path": "local/buzau/naeni/2021/4",
+   "short": "HCL Năeni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 4/2021 privind indexarea cu un procent de 3,8% reprezentând rata inflației, pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, aplicabile în anul fiscal 2021 în comuna Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/20729",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/20729",
      "sha256": null
     }
    ]
@@ -273,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--naeni-5-2021",
+   "path": "local/buzau/naeni/2021/5",
+   "short": "HCL Năeni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2021 privind aprobarea utilizării excedentului din anul anterior (2020) pentru acoperirea golurilor temporare de casă ale secțiunii de funcționare",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/20732",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/20732",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-50-2021",
    "path": "local/buzau/naeni/2021/50",
    "short": "HCL Năeni nr. 50/2021",
@@ -298,6 +658,51 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/94087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-7-2021",
+   "path": "local/buzau/naeni/2021/7",
+   "short": "HCL Năeni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 7/2021 privind aprobarea închirierii prin licitație publică a pajiștilor din proprietatea privată a comunei Năeni,a Studiului de oportunitate privind inchirierea, aprobarea Regulamentului procedurii de licitație, Documentației de atribuire, Caietului de sarcini, cerințele minime de calificare ale ofertanților, Contractului de închiriere - model cadru, în vederea atribuirii contractelor de închiriere a pajiștilor, aflate în proprietatea privată a comunei Năeni",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/20733",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/20733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-8-2021",
+   "path": "local/buzau/naeni/2021/8",
+   "short": "HCL Năeni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 8/2021 privind închiderea exercițiului financiar bugetar la sfârșitul anului 2020",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/20734",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/20734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-9-2021",
+   "path": "local/buzau/naeni/2021/9",
+   "short": "HCL Năeni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 9/2021 privind neasumarea responsabilitatii UAT Naeni a organizarii si derularii procedurilor de atribuire a contractelor/acordurilor cadru pentru achizitia produselor, precum si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative, aferente Programului pentru scoli al Romaniei in perioada 2021-2023",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/29958",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/29958",
      "sha256": null
     }
    ]

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2021",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-43-2021",
+"path": "local/bihor/valea-lui-mihai/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 43/2021 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2022 ↓",
+"short": "HCL Valea lui Mihai nr. 43/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-44-2021",
+"path": "local/bihor/valea-lui-mihai/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 44/2021 privind aprobarea Regulamentului privind acordul administratorului drumului public local pentru realizarea în zona drumurilor publice de interes local a lucrărilor de branşamente şiracorduri sau de extindere a reţelelor existente pe domeniul public la infrastructur",
+"short": "HCL Valea lui Mihai nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

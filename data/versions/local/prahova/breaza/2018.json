@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2018",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-42-2018",
+   "path": "local/prahova/breaza/2018/42",
+   "short": "HCL Breaza nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 42/2018 pentru modificarea HCL nr. 42/2018 privind aprobarea documentatiei privind delegarea prin concesiune a serviciului de gestionare a cainilor fara stapan in orasul Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/05/hotarari-09-42-49-05-19-hcl-4.pdf",
+     "sha256": "9d0ca4ee4ec58426dfa11670b5ca13d013c7200beef56fc89428bdda431e3f07"
+    }
+   ]
+  }
+ ]
+}

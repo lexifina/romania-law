@@ -3,6 +3,36 @@
  "shard": "local/braila/rosiori/2026",
  "acts": [
   {
+   "slug": "hcl-braila--rosiori-23-2026",
+   "path": "local/braila/rosiori/2026/23",
+   "short": "HCL Roșiori nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 23/2026 privind redeventa, precum si formula de ajustare tarifara, avwate conform prin Avizul Conform nr.16238 din 04.03.2026 emis de catre Autoritatea Nationala de Reglementare pentru Serviciile Comunitare de Utilitati Publice (A.N.R'S'C'); - Avizul conform nr.1623g din 04.03.2026 pentru strategia de tarifare aferenta planului de afaceri pentru investitiile in infrastructura de apa si apa tzata dezvoltat",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-23-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-23-din-16.04.2026.pdf",
+     "sha256": "2889ab87ec888e241c0fc0d122db5c0844625724c543b4caf570bb6d3959ee5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-27-2026",
+   "path": "local/braila/rosiori/2026/27",
+   "short": "HCL Roșiori nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 27/2026 pentru aprobarea Normelor privind organizarca qi efectuarea inventarierii elementelor de natura activeloq datoriilor qi capitalurilor propriii. -prevederile art.I29 aIin.2lit.c gi art.289 alin.l din Codul administrativ, aprobat prin OUG nr.5712019; in temeiul art.I39 alin.3 lit g)qi aart.I96 alin.1 lit.a) din OUG nr.5712019 privind Codul Administrativ: HOTAnA$rE: Art.l-Se aprobd rezultatul inventa",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-27-din-11.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-27-din-11.05.2026.pdf",
+     "sha256": "197ecf7252fecc14f6d7707b6aefaf240eadfcd292e5f8de3fae6c724e4fcbb0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--rosiori-51-2026",
    "path": "local/braila/rosiori/2026/51",
    "short": "HCL Roșiori nr. 51/2026",

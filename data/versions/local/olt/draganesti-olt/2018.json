@@ -3,6 +3,21 @@
  "shard": "local/olt/draganesti-olt/2018",
  "acts": [
   {
+   "slug": "hcl-olt--draganesti-olt-64-2018",
+   "path": "local/olt/draganesti-olt/2018/64",
+   "short": "HCL Drăgănești-Olt nr. 64/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 64/2018 privind conditiile, criteriile si procedura de finantare a prog. – sustinerea si promovarea culturii scrise.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-64-din-28.09.2018---aprobarea-regulamentului-privind-conditiile--criteriile-si-procedura-de-finantare-a-prog.---sustinerea-si-promovarea-culturii-scrise.pdf",
+     "sha256": "8dd9f566f5c1afa139c2aefc5a98572d8e05990c65d901e0d08d8b8a7ced4a7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--draganesti-olt-71-2018",
    "path": "local/olt/draganesti-olt/2018/71",
    "short": "HCL Drăgănești-Olt nr. 71/2018",

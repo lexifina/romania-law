@@ -3,6 +3,831 @@
  "shard": "local/calarasi/belciugatele/2023",
  "acts": [
   {
+   "slug": "hcl-calarasi--belciugatele-1-2023",
+   "path": "local/calarasi/belciugatele/2023/1",
+   "short": "HCL Belciugatele nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 1/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/85365",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/85365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-11-2023",
+   "path": "local/calarasi/belciugatele/2023/11",
+   "short": "HCL Belciugatele nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 11/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/89559",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/89559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-12-2023",
+   "path": "local/calarasi/belciugatele/2023/12",
+   "short": "HCL Belciugatele nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 12/2023 privind aprobarea încheierii unui Acord de parteneriat între UAT Județul CĂLĂRAȘI și UAT Comuna Belciugatele pentru realizarea obiectivului de investiții „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN JUDEȚUL CĂLĂRAȘI”, în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/89560",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/89560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-13-2023",
+   "path": "local/calarasi/belciugatele/2023/13",
+   "short": "HCL Belciugatele nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 13/2023 cu privire la aprobarea exercițiului bugetar la sfârșitul anului 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95871",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-14-2023",
+   "path": "local/calarasi/belciugatele/2023/14",
+   "short": "HCL Belciugatele nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 14/2023 cu privire la aprobarea acordării în folosință gratuită a unor terenuri tinerilor îndreptățiți, conform Legii nr. 15/2003, domiciliați în comuna Belciugatele, județul Călărași, a căror cereri au fost aprobate prin Hotărârile Consiliului Local Belciugatele nr. 7/27.03.2008, 25/11.06.2009, 29/16.07.2009, 5/11.01.2010, 5/22.02.2011, 23/27.07.2012",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95872",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-15-2023",
+   "path": "local/calarasi/belciugatele/2023/15",
+   "short": "HCL Belciugatele nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 15/2023 privind acordarea unor sporuri reprezentând cadouri cu ocazia zilei de 8 Martie 2023, doamnelor din cadrul aparatului propriu de specialitate al primarului comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95873",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-16-2023",
+   "path": "local/calarasi/belciugatele/2023/16",
+   "short": "HCL Belciugatele nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 16/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95874",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-17-2023",
+   "path": "local/calarasi/belciugatele/2023/17",
+   "short": "HCL Belciugatele nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 17/2023 privind acordarea ajutoarelor de urgență și a ajutoarelor de înmormântare",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95875",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-18-2023",
+   "path": "local/calarasi/belciugatele/2023/18",
+   "short": "HCL Belciugatele nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 18/2023 privind aprobarea devizului general actualizat pentru obiectivul de investiții „Realizare și dotare grădiniță cu program prelungit în comuna Beciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/95876",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/95876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-2-2023",
+   "path": "local/calarasi/belciugatele/2023/2",
+   "short": "HCL Belciugatele nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 2/2023 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare sursa A din excedentul anilor precedenți, în sumă de 495.810,07 lei",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/85366",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/85366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-20-2023",
+   "path": "local/calarasi/belciugatele/2023/20",
+   "short": "HCL Belciugatele nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 20/2023 privind acordarea unor sporuri reprezentând cadouri cu ocazia sărbătorilor pascale, personalului din cadrul aparatului propriu de specialitate al primarului comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/100365",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/100365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-21-2023",
+   "path": "local/calarasi/belciugatele/2023/21",
+   "short": "HCL Belciugatele nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 21/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/100366",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/100366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-23-2023",
+   "path": "local/calarasi/belciugatele/2023/23",
+   "short": "HCL Belciugatele nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 23/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/100368",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/100368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-24-2023",
+   "path": "local/calarasi/belciugatele/2023/24",
+   "short": "HCL Belciugatele nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 24/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/100369",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/100369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-25-2023",
+   "path": "local/calarasi/belciugatele/2023/25",
+   "short": "HCL Belciugatele nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 25/2023 privind aprobarea declarării ca bun de uz și de interes local a imobilului teren în suprafață de 506 mp, teren aferent imobilului ,,Magazie Carburanți”, ce figurează la poziția 38, din Anexa nr. 8 - inventarul bunurilor care aparțin domeniului public al comunei Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102930",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-26-2023",
+   "path": "local/calarasi/belciugatele/2023/26",
+   "short": "HCL Belciugatele nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 26/2023 privind delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân de pe raza comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102931",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-27-2023",
+   "path": "local/calarasi/belciugatele/2023/27",
+   "short": "HCL Belciugatele nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 27/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102932",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-28-2023",
+   "path": "local/calarasi/belciugatele/2023/28",
+   "short": "HCL Belciugatele nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 28/2023 privind aprobarea devizului general final actualizat pentru obiectivul de investiții „Extindere și modernizare rețea de alimentare cu apă în comuna Belciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102933",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-3-2023",
+   "path": "local/calarasi/belciugatele/2023/3",
+   "short": "HCL Belciugatele nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 3/2023 privind aprobarea organizării rețelei unităților școlare din cadrul Unității Administrativ Teritoriale Belciugatele în anul școlar 2023 - 2024",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/85367",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/85367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-30-2023",
+   "path": "local/calarasi/belciugatele/2023/30",
+   "short": "HCL Belciugatele nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 30/2023 privind aprobarea devizului general și a listei cuprinzând cantitățile de lucrări pentru obiectivul de investiții „Realizare împrejmuire teren la Școala Cojești, în comuna Beciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102935",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-31-2023",
+   "path": "local/calarasi/belciugatele/2023/31",
+   "short": "HCL Belciugatele nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 31/2023 privind înlocuirea unui reprezentant al Consiliului Local Belciugatele în Consiliul de administrație al Școlii Gimnaziale nr.1 Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/102936",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/102936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-33-2023",
+   "path": "local/calarasi/belciugatele/2023/33",
+   "short": "HCL Belciugatele nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 33/2023 privind aprobarea modificării organigramei, a statului de funcții și a numărului de personal pentru aparatul de specialitate al primarului comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/105565",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/105565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-34-2023",
+   "path": "local/calarasi/belciugatele/2023/34",
+   "short": "HCL Belciugatele nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 34/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/105566",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/105566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-35-2023",
+   "path": "local/calarasi/belciugatele/2023/35",
+   "short": "HCL Belciugatele nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 35/2023 privind participarea comunei Belciugatele, județul Călărași la Asociația ,,GRUPUL DE ACȚIUNE LOCALĂ VALEA MOSTIȘTEI”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/105567",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/105567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-36-2023",
+   "path": "local/calarasi/belciugatele/2023/36",
+   "short": "HCL Belciugatele nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 36/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108925",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-37-2023",
+   "path": "local/calarasi/belciugatele/2023/37",
+   "short": "HCL Belciugatele nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 37/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108926",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-38-2023",
+   "path": "local/calarasi/belciugatele/2023/38",
+   "short": "HCL Belciugatele nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 38/2023 privind acordarea unor sporuri reprezentând cadouri cu ocazia zilei de 1 Iunie, funcționarilor publici și personalului contractual din cadrul aparatului propriu de specialitate al primarului comunei Belciugatele, județul Călărași, care au copii minori",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108927",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-39-2023",
+   "path": "local/calarasi/belciugatele/2023/39",
+   "short": "HCL Belciugatele nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 39/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108928",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-4-2023",
+   "path": "local/calarasi/belciugatele/2023/4",
+   "short": "HCL Belciugatele nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 4/2023 cu privire la aprobarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86917",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-40-2023",
+   "path": "local/calarasi/belciugatele/2023/40",
+   "short": "HCL Belciugatele nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 40/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108929",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-41-2023",
+   "path": "local/calarasi/belciugatele/2023/41",
+   "short": "HCL Belciugatele nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 41/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108930",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-42-2023",
+   "path": "local/calarasi/belciugatele/2023/42",
+   "short": "HCL Belciugatele nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 42/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/108931",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/108931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-43-2023",
+   "path": "local/calarasi/belciugatele/2023/43",
+   "short": "HCL Belciugatele nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 43/2023 privind aprobarea implementării proiectului „Modernizarea sistemului de iluminat public în comuna Belciugatele, județul Călărași”, din cadrul Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public, finanțat de Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/115173",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/115173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-44-2023",
+   "path": "local/calarasi/belciugatele/2023/44",
+   "short": "HCL Belciugatele nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 44/2023 privind aprobarea devizului general conform Proiectului Tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții „Amenajare zonă centrală în comuna Belciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/115174",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/115174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-46-2023",
+   "path": "local/calarasi/belciugatele/2023/46",
+   "short": "HCL Belciugatele nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 46/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/115176",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/115176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-47-2023",
+   "path": "local/calarasi/belciugatele/2023/47",
+   "short": "HCL Belciugatele nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 47/2023 privind atestarea apartenenței unui imobil-teren la domeniul privat al comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/115177",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/115177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-48-2023",
+   "path": "local/calarasi/belciugatele/2023/48",
+   "short": "HCL Belciugatele nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 48/2023 privind aprobarea devizului general conform Proiectului Tehnic pentru obiectivul de investiții „Realizare împrejmuire teren pentru Dispensar situat în comuna Belciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117115",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-49-2023",
+   "path": "local/calarasi/belciugatele/2023/49",
+   "short": "HCL Belciugatele nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 49/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117116",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-5-2023",
+   "path": "local/calarasi/belciugatele/2023/5",
+   "short": "HCL Belciugatele nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 5/2023 privind aprobarea Amenajamentului Pastoral pentru pajiștile din comuna Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86918",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-50-2023",
+   "path": "local/calarasi/belciugatele/2023/50",
+   "short": "HCL Belciugatele nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 50/2023 privind aprobarea implementării obiectivului de investiții ,,Surse regenerabile de energie și stocarea energiei - Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum”, la imobilele ce aparțin domeniului public și privat al comunei Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117117",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-51-2023",
+   "path": "local/calarasi/belciugatele/2023/51",
+   "short": "HCL Belciugatele nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 51/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziționarea produselor aferente Programului pentru școli al României pentru anii școlari 2023-2024",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117118",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-52-2023",
+   "path": "local/calarasi/belciugatele/2023/52",
+   "short": "HCL Belciugatele nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 52/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117119",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-53-2023",
+   "path": "local/calarasi/belciugatele/2023/53",
+   "short": "HCL Belciugatele nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 53/2023 privind aprobarea modificării organigramei, a statului de funcții și a numărului de personal pentru aparatul de specialitate al primarului comunei Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/117120",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/117120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-54-2023",
+   "path": "local/calarasi/belciugatele/2023/54",
+   "short": "HCL Belciugatele nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 54/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124062",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-55-2023",
+   "path": "local/calarasi/belciugatele/2023/55",
+   "short": "HCL Belciugatele nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 55/2023 privind aprobarea Protocolului de Colaborare între Serviciul Public pentru Gestionarea Câinilor fără Stăpân Călărași și Unitatea Administrativ Teritorială Belciugatele, în vederea prestării serviciului de gestionare a câinilor fără stăpân și a tarifelor practicate în desfășurarea activităților specifice",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124063",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-57-2023",
+   "path": "local/calarasi/belciugatele/2023/57",
+   "short": "HCL Belciugatele nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 57/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124065",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-58-2023",
+   "path": "local/calarasi/belciugatele/2023/58",
+   "short": "HCL Belciugatele nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 58/2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124066",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-59-2023",
+   "path": "local/calarasi/belciugatele/2023/59",
+   "short": "HCL Belciugatele nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 59/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat conform Studiului de Fezabilitate pentru obiectivul de investiții „Înființare sistem de canalizare în comuna Belciugatele, satele Belciugatele și Cândeasca”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124067",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-6-2023",
+   "path": "local/calarasi/belciugatele/2023/6",
+   "short": "HCL Belciugatele nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 6/2023 cu privire la închiderea unor roluri fiscale, anularea obligațiilor fiscale și actelor administrative aferente rolurilor respective",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86919",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-60-2023",
+   "path": "local/calarasi/belciugatele/2023/60",
+   "short": "HCL Belciugatele nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 60/2023 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții „Modernizare drumuri publice în comuna Belciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124068",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-61-2023",
+   "path": "local/calarasi/belciugatele/2023/61",
+   "short": "HCL Belciugatele nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 61/2023 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții „Înființare sistem de canalizare în comuna Belciugatele, satele Belciugatele și Cândeasca”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124069",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-62-2023",
+   "path": "local/calarasi/belciugatele/2023/62",
+   "short": "HCL Belciugatele nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 62/2023 cu privire la stabilirea impozitelor și taxelor locale, alte taxe asimilate acestora, precum și amenzile aplicabile începând cu anul fiscal 2024",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124070",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-65-2023",
+   "path": "local/calarasi/belciugatele/2023/65",
+   "short": "HCL Belciugatele nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 65/2023 privind modificarea HCL nr. 35/12.05.2022 privind aprobarea Studiului de Fezabilitate pentru ,,Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Călărași și Ialomița, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a indicatorilor tehnico-economici pentru Comuna Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/124073",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/124073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-66-2023",
+   "path": "local/calarasi/belciugatele/2023/66",
+   "short": "HCL Belciugatele nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 66/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat conform Studiului de Fezabilitate pentru obiectivul de investiții „Modernizare drumuri publice în comuna Belciugatele, județul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/125552",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/125552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-67-2023",
+   "path": "local/calarasi/belciugatele/2023/67",
+   "short": "HCL Belciugatele nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 67/2023 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/125553",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/125553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--belciugatele-68-2023",
    "path": "local/calarasi/belciugatele/2023/68",
    "short": "HCL Belciugatele nr. 68/2023",
@@ -28,6 +853,21 @@
      "from": "2023-12-13",
      "units": 1,
      "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/125555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-7-2023",
+   "path": "local/calarasi/belciugatele/2023/7",
+   "short": "HCL Belciugatele nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 7/2023 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru semestrul II al anului 2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86920",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86920",
      "sha256": null
     }
    ]
@@ -183,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--belciugatele-8-2023",
+   "path": "local/calarasi/belciugatele/2023/8",
+   "short": "HCL Belciugatele nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 8/2023 privind aprobarea planului de acţiuni și lucrări de interes local pe anul 2023, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86921",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--belciugatele-80-2023",
    "path": "local/calarasi/belciugatele/2023/80",
    "short": "HCL Belciugatele nr. 80/2023",
@@ -298,6 +1153,21 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/134263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-9-2023",
+   "path": "local/calarasi/belciugatele/2023/9",
+   "short": "HCL Belciugatele nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 9/2023 cu privire la aprobarea numărului asistenților personali pe anul 2023",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/86922",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/86922",
      "sha256": null
     }
    ]

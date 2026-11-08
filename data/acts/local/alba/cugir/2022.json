@@ -3,6 +3,50 @@
 "shard": "local/alba/cugir/2022",
 "acts": [
 {
+"slug": "hcl-alba--cugir-225-2022",
+"path": "local/alba/cugir/2022/225",
+"kind": "local",
+"year": "2022",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 225/2022 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2023 în baza amenajamentului silvic și al prețurilor de referință pe anul 2023 pentru masa lemnoasă care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 31 octombrie 2022; Luând în dezbatere: -Proiectul",
+"short": "HCL Cugir nr. 225/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--cugir-233-2022",
+"path": "local/alba/cugir/2022/233",
+"kind": "local",
+"year": "2022",
+"number": "233",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 233/2022 Privind aprobarea Regulamentului de organizare și funcționare al serviciului ÎNGRIJIRI MEDICALE ȘI PALIATIVE LA DOMICILIU din cadrul Biroului Asistență Medicală din subordinea Serviciului Public de Asistență Socială Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 31 octombrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobare",
+"short": "HCL Cugir nr. 233/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--cugir-262-2022",
 "path": "local/alba/cugir/2022/262",
 "kind": "local",

@@ -3,6 +3,36 @@
  "shard": "local/suceava/frasin/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--frasin-102-2025",
+   "path": "local/suceava/frasin/2025/102",
+   "short": "HCL Frasin nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 102/2025 privind constituirea Grupului de lucru pentru actualizarea Planului Urbanistic General (PUG) al UAT Frasin",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-102-din-28-07-2025-constituirea-grupului-de-lucru-pt-actualizarea-pug-al-uat-frasin/",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 3,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2025/09/HCL-nr.-102-din-28.07.2025-constituirea-Grupului-de-lucru-pt-actualizarea-PUG-al-UAT-Frasin.pdf",
+     "sha256": "761ab16ab8b298412cf23d3bb235446c1b389e4a0bbb35d242ed7f8371bae5c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-148-2025",
+   "path": "local/suceava/frasin/2025/148",
+   "short": "HCL Frasin nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 148/2025 privind modificarea și completarea H.C.L.nr.89 din 26.06.2025 privind aprobarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin, județul Suceava, precum și a Regulamentului privind instituirea și administrarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-148-din-17-12-2025-modif-si-complet-hcl-nr-89-din-26-06-2025-taxa-salubrizare-si-a-regulamentului/",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 7,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2026/02/HCL-nr.-148-din-17.12.2025-modif-si-complet-HCL-nr.-89-din-26.06.2025-taxa-salubrizare-si-a-Regulamentului.pdf",
+     "sha256": "c24d63be5113fbca34d28248381f04f751e65ac207d2150b861199a8b9c4c84e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--frasin-151-2025",
    "path": "local/suceava/frasin/2025/151",
    "short": "HCL Frasin nr. 151/2025",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2025/12/HCL-nr.-151-din-29.12.2025-completare-art1-HCL-nr-140-din-17.12.2025-impozite-si-taxe-locale-pt-an-2026-Frasin.pdf",
      "sha256": "e4e4e330990172761eed8384438c33398a305da50c1db7fd944d366ce2d8723f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-152-2025",
+   "path": "local/suceava/frasin/2025/152",
+   "short": "HCL Frasin nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 152/2025 privind modificarea și completarea H.C.L.nr.89 din 26.06.2025 privind aprobarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin județul Suceava, precum și a Regulamentului privind instituirea și administrarea taxei de salubrizare și a tarifului de separare incorectă pentru gestionarea deșeurilor în Orașul Frasin modificată și completată prin H.C.L.nr.148 din 17.12.2025",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-152-din-29-12-2025-modif-si-complet-hcl-nr-89_26-06-2025-taxa-de-salubrizare-si-a-tarif-de-separare-incorecta-deseuri-complet-prin-hcl-nr-148-_17-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 6,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2026/02/HCL-nr.152-din-29.12.2025-modif-si-complet-HCL-nr.-89_26.06.2025-taxa-de-salubrizare-si-a-tarif-de-separare-incorecta-deseuri-complet-prin-HCL-nr-148-_17.12.2025.pdf",
+     "sha256": "77045e7625d942368474b434b3cb397035868d3cfbbe5597ea8f16ffa6a1ffe7"
     }
    ]
   },
@@ -33,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--frasin-20-2025",
+   "path": "local/suceava/frasin/2025/20",
+   "short": "HCL Frasin nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 20/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a8366940cac25eb365e67d9f9cce96177201eda61d6a60daceeacc681ab3d0f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-21-2025",
+   "path": "local/suceava/frasin/2025/21",
+   "short": "HCL Frasin nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 21/2025 privind aprobarea documentatiei PUZ pt construire magazin PENNY MARKET",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-21-din-24-03-2025-privind-aprobarea-documentatiei-puz-pt-construire-magazin-penny-market/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2025/06/HCL-nr.-21-din-24.03.2025-privind-aprobarea-documentatiei-PUZ-pt-construire-magazin-PENNY-MARKET-.pdf",
+     "sha256": "7ca6369ad856cfeb247b3ee30b873e647daf8c747d25992caaa59860abf59023"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--frasin-75-2025",
    "path": "local/suceava/frasin/2025/75",
    "short": "HCL Frasin nr. 75/2025",
@@ -44,6 +119,21 @@
      "units": 1,
      "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2026/10/HCL-nr.-75-din-29.09.2026-desemnare-reprezentanti-CL-in-Consiliul-de-administratie-al-Scolii-Bucsoaia-an-scolar-2026-2027.pdf",
      "sha256": "48171f43f4647cf406972e499cab207906751dd0652fbd287f5adaf252023415"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-94-2025",
+   "path": "local/suceava/frasin/2025/94",
+   "short": "HCL Frasin nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 94/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0af2643416c08a2676becdccbb09065bf922b1569997e3fbbd3f8d46bcb0dd56"
     }
    ]
   }

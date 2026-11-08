@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-21-2026",
+   "path": "local/dambovita/ulmi/2026/21",
+   "short": "HCL Ulmi nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 21/2026 pentru modificarea art.1 al H.C.L nr.125/22.12.2025 privind stabilirea si aprobarea taxei de salubrizare pentru utilizatorii casnici,pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#117487",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24/BHZkQ8j.I1W4i7pUvqr8eOkHvvor4SiEMW.VSV5lcIhZfOljCKLO/2348",
+     "sha256": "0733dc251a00c32260673586ad9ad282cd922fa5680269b404fac5d6cf769ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-23-2026",
+   "path": "local/dambovita/ulmi/2026/23",
+   "short": "HCL Ulmi nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 23/2026 pentru modificarea și completarea HCL nr.123 din 22.12.2025 privind aprobarea taxelor și impozitelor locale în sarcina contribuabililor pentru anul fiscal 2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#117616",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2487plk2/H5fW1x/bLk3ZT7uq0TkK00nMazSzUqr3kjt8APB9GMbXu./2348",
+     "sha256": "99e235738c91f45445637a90acd0947e46a71dc3f4391f2926b55fbd6f33269b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-36-2026",
+   "path": "local/dambovita/ulmi/2026/36",
+   "short": "HCL Ulmi nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 36/2026 privind interzicerea organizării și exploatării jocurilor de noroc pe raza comunei Ulmi, județ Dâmbovița",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#119430",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24AWBjJQwOrMybGI1/evDizeAHF5vw6ojbxQdNwvWnYszqU1LgpAk56/2348",
+     "sha256": "852b44217162f1cff87a8762f7b6652421ed0429ca8d783e6d342d6c37cc3627"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-50-2026",
+   "path": "local/dambovita/ulmi/2026/50",
+   "short": "HCL Ulmi nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 50/2026 privind modificarea si completarea HCL Ulmi nr. 18/19.03.2025 privind aprobarea colaborarii interinstitutionale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#122968",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24vz5QoX2D6J88r5BDsmgfBep0PPXVr0P8pdRqkcYCdMdwc4tDtm0hS/2348",
+     "sha256": "4e56fd370fbacaca77710db831187fca126eaa14bee6b8b1eb65e5125f4e3836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-72-2026",
+   "path": "local/dambovita/ulmi/2026/72",
+   "short": "HCL Ulmi nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 72/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e97128e323e5194472529cd2e7bd9ed0ffc7a27a6bde4a4a99761520cf00cb1c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-74-2026",
    "path": "local/dambovita/ulmi/2026/74",
    "short": "HCL Ulmi nr. 74/2026",
@@ -254,6 +329,21 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#129431",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-91-2026",
+   "path": "local/dambovita/ulmi/2026/91",
+   "short": "HCL Ulmi nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 91/2026 privind aprobarea înlesnirilor la plată pentru obligatiile fiscale restante privind anul fiscal 2026",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#128853",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24pay56/5zsGEeLvu3I2dJ/OsLwe/eDxmFdm2eJVgbznY98lqS/sN22/2348",
+     "sha256": "8c778bf7efd40b0e889aafa6aeb9eaa5075c548ab65bbd86c8c8396e5c56c4bd"
     }
    ]
   },

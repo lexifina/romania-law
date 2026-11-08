@@ -16,6 +16,51 @@
      "sha256": "498c0e959ed1a5dbbcd45ed8681f66dd7f11bafac4eacc8a7c4997107a084461"
     }
    ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-125-2019",
+   "path": "local/olt/draganesti-olt/2019/125",
+   "short": "HCL Drăgănești-Olt nr. 125/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 125/2019 privind instituirea si administrarea taxei speciale de salubrizare pe anul 2020.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2019/hotararea-nr-125-din-23.12.2019---aprobarea-regulamentului-privind-instituirea-si-administrarea-taxei-speciale-de-salubrizare-pe-anul-2020.pdf",
+     "sha256": "d0e0be212b364fa608e7c53cf7510a0644fb5628406495317e3a49efbdc6f9ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-131-2019",
+   "path": "local/olt/draganesti-olt/2019/131",
+   "short": "HCL Drăgănești-Olt nr. 131/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 131/2019 privind criteriile de acces la locuinta si criteriile de ierarhizare stabilite prin punctaj pt cererile de locuinte.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2019/hotararea-nr-131-din-23.12.2019---aprobarea-propunerii-privind-criteriile-de-acces-la-locuinta-si-criteriile-de-ierarhizare-stabilite-prin-punctaj-pt-cererile-de-locuinte.pdf",
+     "sha256": "c62155ad61eb50ee0e7a315c9132d3d8238474f0417070cfcddbd85d964bd5ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-135-2019",
+   "path": "local/olt/draganesti-olt/2019/135",
+   "short": "HCL Drăgănești-Olt nr. 135/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 135/2019 privind aprobarea Regulamentului revizuit de org. si funct. al CL.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2019/hotararea-nr-135-din-23.12.2019---completarea-hcl-nr-120-din-12.11.2019-privind-aprobarea-regulamentului-revizuit-de-org.-si-funct.-al-cl.pdf",
+     "sha256": "13842227326b1e086d3eec15d6e9a9b7acedd40a34d7e2a60a3208c4e42545a8"
+    }
+   ]
   }
  ]
 }

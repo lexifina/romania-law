@@ -465,6 +465,227 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-olt--draganesti-olt-115-2021",
+"path": "local/olt/draganesti-olt/2021/115",
+"kind": "local",
+"year": "2021",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 115/2021 privind aprobarea tarifelor aferente prestarii activitatii de \"Curatarea si transportul zapezii de pe caile publice din orasul Draganesti-Olt si mentinerea in functiune a acestora pe timp de polei sau de inghet\" - componenta a serviciului de salubrizare de la nivelul",
+"short": "HCL Drăgănești-Olt nr. 115/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-116-2021",
+"path": "local/olt/draganesti-olt/2021/116",
+"kind": "local",
+"year": "2021",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 116/2021",
+"short": "HCL Drăgănești-Olt nr. 116/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": null,
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-117-2021",
+"path": "local/olt/draganesti-olt/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 117/2021 referitoare la \"aprobarea Planului Urbanistic Zonal - desfiintare corp C1 si construire spatiu comercial in Draganesti-Olt, Str.N.Titulescu, nr. 178, Jud",
+"short": "HCL Drăgănești-Olt nr. 117/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-134-2021",
+"path": "local/olt/draganesti-olt/2021/134",
+"kind": "local",
+"year": "2021",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 134/2021 privind aprobarea Caietului de sarcini al Serviciului de salubrizare a orasului Draganesti-Olt privind activitatea Maturatul, spalatul, stropirea si intretinerea cailor publice",
+"short": "HCL Drăgănești-Olt nr. 134/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-136-2021",
+"path": "local/olt/draganesti-olt/2021/136",
+"kind": "local",
+"year": "2021",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 136/2021 privind aprobarea tarifelor aferente desfasurarii Serviciului public de intretinere si reparare drumuri la nivelul U.A.T",
+"short": "HCL Drăgănești-Olt nr. 136/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-137-2021",
+"path": "local/olt/draganesti-olt/2021/137",
+"kind": "local",
+"year": "2021",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 137/2021 privind aprobarea tarifelor aferente desfasurarii Serviciului public de instalare, intretinere si functionare a sistemelor de semnalizare si dirijare a circulatiei urbane la nivelul U.A.T",
+"short": "HCL Drăgănești-Olt nr. 137/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-138-2021",
+"path": "local/olt/draganesti-olt/2021/138",
+"kind": "local",
+"year": "2021",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 138/2021 privind aprobarea tarifelor aferent desfasurarii Serviciului public de amenajare si intretinere a zonelor verzi, terenurilor de sport si a locurilor de joaca pentru copii la nivelul U.A.T",
+"short": "HCL Drăgănești-Olt nr. 138/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-139-2021",
+"path": "local/olt/draganesti-olt/2021/139",
+"kind": "local",
+"year": "2021",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 139/2021 privind aprobarea tarifelor aferente desfasurarii Serviciului public de montare si/sau intretinere a mobilierului urban si ambiental la nivelul U.A.T",
+"short": "HCL Drăgănești-Olt nr. 139/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-141-2021",
+"path": "local/olt/draganesti-olt/2021/141",
+"kind": "local",
+"year": "2021",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 141/2021 privind aprobarea tarifelor aferente desfasurarii Serviciului public de intretinere a cimitirelor la nivelul U.A.T",
+"short": "HCL Drăgănești-Olt nr. 141/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-145-2021",
+"path": "local/olt/draganesti-olt/2021/145",
+"kind": "local",
+"year": "2021",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 145/2021 referitoare la stabilirea impozitelor si taxelor locale pentru anul 2022",
+"short": "HCL Drăgănești-Olt nr. 145/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

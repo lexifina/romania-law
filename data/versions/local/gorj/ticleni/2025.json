@@ -3,6 +3,21 @@
  "shard": "local/gorj/ticleni/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-10-2025",
+   "path": "local/gorj/ticleni/2025/10",
+   "short": "HCL Țicleni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 10/2025 privind aprobarea tarifelor pentru activităţile prestate de S.C",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-10-din-28.02.2025-privind-aprobarea-tarifelor-pt-activitatile-prestate-de-SC-SALUBRIS-GILORT-SRL-conform-contractului-de-delegare-a-gestiunii-nr.485-din-17.06.2011-.pdf",
+     "sha256": "11d2b6e08738986cb624770d26fa23ab42db4b98c74ad8a6f2560b07593ba7c2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-25-2025",
    "path": "local/gorj/ticleni/2025/25",
    "short": "HCL Țicleni nr. 25/2025",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-32-din-30.04.2025-privind-desemnarea-reprez-UAT-oras-Ticleni-in-Adunarea-Generala-a-Asociatiei-de-Dezv-Intercomunitara-ADIA-Gorj-.pdf",
      "sha256": "570e538b4ca7558213ec2c0451182efff8fcd7c84a26b0042fef167a6a878249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-33-2025",
+   "path": "local/gorj/ticleni/2025/33",
+   "short": "HCL Țicleni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 33/2025 privind aprobarea şi indexarea impozitelor şi taxelor locale , precum şi a taxelor speciale, pe anul 2026",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-33-din-30.04.2025.pdf",
+     "sha256": "febacdee807dba5068363f7f9904e28f51c81191f665b7ca4b0e2108ed239399"
     }
    ]
   },

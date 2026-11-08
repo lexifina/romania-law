@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/vama-buzaului/2022",
+ "acts": [
+  {
+   "slug": "hcl-brasov--vama-buzaului-132-2022",
+   "path": "local/brasov/vama-buzaului/2022/132",
+   "short": "HCL Vama Buzăului nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 132/2022 privind aprobarea decontării cheltuielilor de transport aferente navetei și a Regulamentului pentru decontarea acestor cheltuieli, pentru salariații din cadrul aparatului de specialitate al Primarului comunei Vama Buzăului, județul Brașov Consiliul Local al comunei Vama Buzăului, Întrunit în ședință ordinară la data de 25.11.2022; Analizând proiectul de hotărâre inițiat de către Viceprimarul comun",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2022",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2022-11-25-132.pdf",
+     "sha256": "01a9da3e36a5d2c28a23035a7016c479d549615ce1ad734c7632a72580920b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-140-2022",
+   "path": "local/brasov/vama-buzaului/2022/140",
+   "short": "HCL Vama Buzăului nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 140/2022 nr. 140 din 23.12.2022 -privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Vama Buzăului, pentru anul 2023",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2022",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 7,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2022-12-23-140.pdf",
+     "sha256": "09652904ae9a8ab10c63137199e652dfab15c264dd1a77febbdd74fc2518a182"
+    }
+   ]
+  }
+ ]
+}

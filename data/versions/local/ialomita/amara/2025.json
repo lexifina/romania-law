@@ -16,6 +16,21 @@
      "sha256": "85273f383f7774e01fd7ba933b3daf205676064f6ad4fe12a09be37015b5299a"
     }
    ]
+  },
+  {
+   "slug": "hcl-ialomita--amara-1600-2025",
+   "path": "local/ialomita/amara/2025/1600",
+   "short": "HCL Amara nr. 1600/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Amara nr. 1600/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cad22c56c1fe33873e545dbbccc9505f123a2bf47c2e2d7f24fd69095d5cdace"
+    }
+   ]
   }
  ]
 }

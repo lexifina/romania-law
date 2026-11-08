@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2015",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-111-2015",
+   "path": "local/salaj/simleu-silvaniei/2015/111",
+   "short": "HCL Șimleu Silvaniei nr. 111/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 111/2015 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2016 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 noiembrie 2015; Având în vedere Expunere",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2015/",
+   "versions": [
+    {
+     "from": "2015-11-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.111-din-30.11.2015.pdf",
+     "sha256": "38a935a1bec7e8b30aff035d7c26e8585d15c059102d8d9954df873b3d640272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-83-2015",
+   "path": "local/salaj/simleu-silvaniei/2015/83",
+   "short": "HCL Șimleu Silvaniei nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 83/2015 privind aprobarea aderării ORAȘULUI ȘIMLEU SILVANIEI la CONVENȚIA PRIMARILOR Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședință publică în data de 30 septembrie 2015; Având în vedere Expunerea de motive nr.12771/2015 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.12772/2015 al Administratorului public, Avizul Comisiei pentru amenajarea teritoriului și urbanism",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2015/page/3/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.83-din-30.09.2015.pdf",
+     "sha256": "efb6dd3afd2da485ec83f8cef3c5847ff2a3b950e66f10fca80f9ade7dd73311"
+    }
+   ]
+  }
+ ]
+}

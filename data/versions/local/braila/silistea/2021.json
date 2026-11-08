@@ -3,6 +3,306 @@
  "shard": "local/braila/silistea/2021",
  "acts": [
   {
+   "slug": "hcl-braila--silistea-1-2021",
+   "path": "local/braila/silistea/2021/1",
+   "short": "HCL Siliștea nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 1/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Siliștea din lunile ianuarie-februarie și martie 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/15012",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/15012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-10-2021",
+   "path": "local/braila/silistea/2021/10",
+   "short": "HCL Siliștea nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 10/2021 privind modificarea Hotărârii nr. 8 din 05.02.2020 a Consiliului Local al Comunei Siliștea privind aprobarea Planului Anual de Evoluție a Prețurilor/Tarifelor Serviciilor, conform rezultatelor Anlizei Cost - Beneficiu din Studiul de Fezabilitate pentru Proiectul Regional de Dezvoltare a Infrastructurii de Apa și Apa Uzata din Județul Braila în perioada 2014-2020",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20737",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-11-2021",
+   "path": "local/braila/silistea/2021/11",
+   "short": "HCL Siliștea nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 11/2021 privind modificarea Hotărârii nr. 9 din 05.02.2020 a Consiliului Local al Comunei Siliștea privind aprobarea contribuției la cofinanțarea datorata de către Unitatea Administrativ Teritorială Comuna Siliștea, în calitate de Beneficiar direct al investițiilor în Proiectul Regional de Dezvoltare a Infrastructurii de Apa și Apa Uzata din Județul Braila în perioada 2014-2020, conform Studiului de Fezabilitate cu anexele aferente",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20738",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-12-2021",
+   "path": "local/braila/silistea/2021/12",
+   "short": "HCL Siliștea nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 12/2021 privind aprobarea Actului Adițional nr. 24 - privind modificarea și completarea unor prevederi ale Dispozițiilor Generale, Dispozițiilor Speciale - Partea Comuna, Dispozițiilor Speciale - Partea de Apa și Dispozițiilor Speciale - Partea de Canalizare - ale Contractului de Delegare a Gestiunii Serviciilor Publice de Alimentare cu Apa și de Canalizare nr. 670 din 10.09.2009, cu modificările și completările ulterioare - în baza Strategiei de Tarifare a Serviciilor pentru perioada 2021-2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20739",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-13-2021",
+   "path": "local/braila/silistea/2021/13",
+   "short": "HCL Siliștea nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 13/2021 privind aprobarea retragerii comunei Siliștea, județul Brăila din Asociția de Dezvoltare Intercomunitară de Utilitate Publică „BRAILA GAZ”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20740",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-14-2021",
+   "path": "local/braila/silistea/2021/14",
+   "short": "HCL Siliștea nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2021 privind aprobarea bugetului local multianual pentru repartizarea pe unități administrativ-teritoriale a limitelor pentru sumele defalcate din TVA și a sumelor alocate din cotele deffalcate din impozitul pe venit pentru echilibrarea bugetelor locale pentru proiectul de buget pe anul 2021 și a estimărilor pentru anii 2022-2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20741",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-15-2021",
+   "path": "local/braila/silistea/2021/15",
+   "short": "HCL Siliștea nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 15/2021 privind includerea în domeniul privat al comunei Siliștea a unor bunuri imobile ce aparțin comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20742",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-16-2021",
+   "path": "local/braila/silistea/2021/16",
+   "short": "HCL Siliștea nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 16/2021 privind completarea HCL nr. 68/2020, privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20743",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-17-2021",
+   "path": "local/braila/silistea/2021/17",
+   "short": "HCL Siliștea nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 17/2021 privind aprobarea „Regulamentului de pășunat pe teritoriul administrativ al comunei Siliștea, județul Brăila„",
+   "url": "https://emol.ro/silistea-br/registru-hcl/22811",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/22811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-19-2021",
+   "path": "local/braila/silistea/2021/19",
+   "short": "HCL Siliștea nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 19/2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/22813",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/22813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-2-2021",
+   "path": "local/braila/silistea/2021/2",
+   "short": "HCL Siliștea nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 2/2021 privind validarea Dispoziției Primarului Comunei Siliștea nr. 157/22.12.2020 privind rectificarea bugetului de venituri și cheltuieli al Comunei Siliștea pentru anul 2020",
+   "url": "https://emol.ro/silistea-br/registru-hcl/15013",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/15013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-21-2021",
+   "path": "local/braila/silistea/2021/21",
+   "short": "HCL Siliștea nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 21/2021 privind aprobarea bugetului local al comunei Siliştea pe anul 2021 şi estimarea pentru anii 2022, 2023, 2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/24311",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/24311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-22-2021",
+   "path": "local/braila/silistea/2021/22",
+   "short": "HCL Siliștea nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 22/2021 privind aprobarea \"Programului anual al achiziţiilor publice pentru anul 2021\"",
+   "url": "https://emol.ro/silistea-br/registru-hcl/24312",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/24312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-23-2021",
+   "path": "local/braila/silistea/2021/23",
+   "short": "HCL Siliștea nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2021 privind aprobarea bugetului de stat pentru război pe anul 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/25710",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/25710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-24-2021",
+   "path": "local/braila/silistea/2021/24",
+   "short": "HCL Siliștea nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 24/2021 privind aprobarea Planului de asigurare a resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2021 la nivelul comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/25711",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/25711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-25-2021",
+   "path": "local/braila/silistea/2021/25",
+   "short": "HCL Siliștea nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 25/2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/29644",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/29644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-26-2021",
+   "path": "local/braila/silistea/2021/26",
+   "short": "HCL Siliștea nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 26/2021 privind completarea Regulamentului de organizare și funcționare a serviciului de ilumiat public la nivelul Comunei Siliștea, aprobarea caietul de sarcini al serviciului de iluminat public și alegerea formei de gestiune a serviciului de iluminat public al Comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/29645",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/29645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-27-2021",
+   "path": "local/braila/silistea/2021/27",
+   "short": "HCL Siliștea nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 27/2021 privind validarea Dispoziției primarului nr. 53 din 25.05.2021 cu privire la rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/29646",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/29646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-28-2021",
+   "path": "local/braila/silistea/2021/28",
+   "short": "HCL Siliștea nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 28/2021 privind analiza și aprobarea situației financiare privind execuția bugetului local la 31 martie 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/29647",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/29647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-3-2021",
+   "path": "local/braila/silistea/2021/3",
+   "short": "HCL Siliștea nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 3/2021 privind organizarea rețelei școlare a unităților de învățământ din comuna Siliștea, Județul Brăila în anul școlar 2021-2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/15014",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/15014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-30-2021",
    "path": "local/braila/silistea/2021/30",
    "short": "HCL Siliștea nr. 30/2021",
@@ -153,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-4-2021",
+   "path": "local/braila/silistea/2021/4",
+   "short": "HCL Siliștea nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2021 privind aprobarea utilizării temporare, începând cu luna ianuarie 2021, a sumei de 220.000 lei din excedentul anilor precedenți pentru acoperirea golurilor de casă provenite din decalajele dintre venituri și cheltuieli",
+   "url": "https://emol.ro/silistea-br/registru-hcl/15015",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/15015",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-40-2021",
    "path": "local/braila/silistea/2021/40",
    "short": "HCL Siliștea nr. 40/2021",
@@ -298,6 +613,81 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/47370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-5-2021",
+   "path": "local/braila/silistea/2021/5",
+   "short": "HCL Siliștea nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 5/2021 privind aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al Comunei Siliștea pentru anul 2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/16955",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/16955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-6-2021",
+   "path": "local/braila/silistea/2021/6",
+   "short": "HCL Siliștea nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2021 privind aprobarea Planului de analiza și acoperire a riscurilor la nivelul comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/16956",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/16956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-7-2021",
+   "path": "local/braila/silistea/2021/7",
+   "short": "HCL Siliștea nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 7/2021 privind aprobarea modificării Organigramei și statului de funcții al aparatului de specialitate al primarului comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/16957",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/16957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-8-2021",
+   "path": "local/braila/silistea/2021/8",
+   "short": "HCL Siliștea nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 8/2021 privind modificarea Hotărârii nr. 5 din 05.02.2020 a Consiliului Local al Comunei Siliștea privind aprobarea Studiului de Fezabilitate pentru Proiectul Regional de Dezvoltare a Infrastructurii de Apa și Apa Uzata din Județul Braila în perioada 2014-2020 și a Indicatorilor tehnico-economici ai Proiectului - pentru UAT Comuna Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20735",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-9-2021",
+   "path": "local/braila/silistea/2021/9",
+   "short": "HCL Siliștea nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 9/2021 privind modificarea Hotărârii nr. 6 din 05.02.2020 a Consiliului Local al Comunei Siliștea privind aprobarea Listei de Investiții Prioritare pe Sistemele de Alimentare cu Apa și a Listei de Investiții Prioritare pe Sistemele de Apa Uzata, care se vor realiza privn Proiectul Regional de Dezvoltare a Infrastructurii de Apa și Apa Uzata din Județul Brăila în perioada 2020-2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/20736",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/20736",
      "sha256": null
     }
    ]

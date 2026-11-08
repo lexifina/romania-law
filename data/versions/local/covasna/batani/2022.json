@@ -16,6 +16,36 @@
      "sha256": "6502f84944599528cfb4fdf2dcf16c5d54e4f6c888988816fbb052d48b7532fb"
     }
    ]
+  },
+  {
+   "slug": "hcl-covasna--batani-44-2022",
+   "path": "local/covasna/batani/2022/44",
+   "short": "HCL Bățani nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 44/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b0a988eb24b3b6c9a740c79dcab1c053f11dc3db58aae2b00d19cb9ed39cb67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--batani-49-2022",
+   "path": "local/covasna/batani/2022/49",
+   "short": "HCL Bățani nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bățani nr. 49/2022 privind impozitele și taxele locale pe anul 2023.pdf",
+   "url": "https://nagybacon.ro/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://nagybacon.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202022/HCL%20nr.%2049%20din%2022%20decembrie%202022%20privind%20impozitele%20%C8%99i%20taxele%20locale%20pe%20anul%202023.pdf",
+     "sha256": "4d7031c4da2d755fd4420e10bea9b1b516e45e2acd1e9920760e8831086c4f4d"
+    }
+   ]
   }
  ]
 }

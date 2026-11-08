@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--aninoasa-73-2023",
+"path": "local/dambovita/aninoasa/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 73/2023 pentru modificarea și completarea Hotărârii Consiliului local al comunei Aninoasa nr.13/02.02.2023 privind aprobarea proiectului \"Sistem de Management Integrat al Deșeurilor din Județul Dâmbovița – OBIECTIV – Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga\" și a cheltuielilor aferente",
+"short": "HCL Aninoasa nr. 73/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#54819",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--aninoasa-82-2023",
 "path": "local/dambovita/aninoasa/2023/82",
 "kind": "local",
@@ -66,6 +88,116 @@
 "council_name": "Consiliul Local al Comunei Aninoasa",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--aninoasa-91-2023",
+"path": "local/dambovita/aninoasa/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 91/2023 privind privind aprobarea execuției bugetare pe secțiunile de funcționare și de dezvoltare ale bugetului local de venituri și cheltuieli al Comunei Aninoasa, județ Dâmbovița, în trimestrul III pe anul 2023",
+"short": "HCL Aninoasa nr. 91/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#59426",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--aninoasa-92-2023",
+"path": "local/dambovita/aninoasa/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 92/2023 privind stabilirea plafonului creanțelor fiscale restante administrate de organul fiscal local și datorate bugetului local de venituri și cheltuieli al Comunei Aninoasa, județ Dâmbovița, aflate în sold la data de 31 decembrie a anului 2023, care pot fi anulate",
+"short": "HCL Aninoasa nr. 92/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#59427",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--aninoasa-93-2023",
+"path": "local/dambovita/aninoasa/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 93/2023 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul III al anului 2023",
+"short": "HCL Aninoasa nr. 93/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#59428",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--aninoasa-95-2023",
+"path": "local/dambovita/aninoasa/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 95/2023 privind privind aprobarea schimbării categoriei de folosință a două imobile – terenuri, înscrise în inventarul bunurilor care aparţin domeniului public al comunei Aninoasa, judeţul Dâmboviţa, în suprafață de 796 mp. și respectiv 1710 mp., având numere cadastrale 70308 și respectiv 70309, din curți – construcții în drum, precum și alipirii acestora",
+"short": "HCL Aninoasa nr. 95/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#59783",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--aninoasa-96-2023",
+"path": "local/dambovita/aninoasa/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aninoasa nr. 96/2023 privind aprobarea închierii unui Acord de parteneriat între Consiliul local al comunei Aninoasa și Asociația Drept - Drepturi, Respect, Educație pentru Toți în vederea furnizării serviciilor sociale de tip – Servicii de zi",
+"short": "HCL Aninoasa nr. 96/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://aninoasa.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2980#59786",
+"council": "dambovita/aninoasa",
+"council_name": "Consiliul Local al Comunei Aninoasa",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

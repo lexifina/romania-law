@@ -3,6 +3,50 @@
 "shard": "local/covasna/ojdula/2025",
 "acts": [
 {
+"slug": "hcl-covasna--ojdula-8-2025",
+"path": "local/covasna/ojdula/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 8/2025 privind aprobarea participbrii Comunei Ojdula la Programul multianual privind frnan[area elabordrii qi/sau actualizdrii planurilor urbanistice generale ale localitalilor si a regulamentelor locale de urbanism, in perioada 2025-2028 Consiliul Local al Comunei Ojdula intrunit in gedinJa ordinard din data de 27 febmarie 2025 anahzdnd Referatul de aprobare aI primarului comunei Ojdula privind aprobare",
+"short": "HCL Ojdula nr. 8/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-covasna--ojdula-37-2025",
+"path": "local/covasna/ojdula/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 37/2025 pentru progranre de dezvoltare administrarea domeniului public qi privat al cornunei, agricultura, urbanism, gospoddrire cortunala, protec{ia rnediului, servicii si cclntrol, a cclmisia pentru administralie publica locala juridica, apdrarea ordinii si linistii publice, a dreptur:ilor cet[lenilor - Raportul final al examenului inregistrat sub nr.l:169125.07.2025 - Raportul final al examenului inreg",
+"short": "HCL Ojdula nr. 37/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/ojdula",
+"council_name": "Consiliul Local al Comunei Ojdula",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-covasna--ojdula-48-2025",
 "path": "local/covasna/ojdula/2025/48",
 "kind": "local",

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/murgeni/2023",
+"acts": [
+{
+"slug": "hcl-vaslui--murgeni-18-2023",
+"path": "local/vaslui/murgeni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 18/2023 privind actualizarea „PLANULUI DE EVACUARE IN SITUATII DE URGENTA” al orasului Murgeni CONSILIUL LOCAL AL ORAȘULUI MURGENI, JUDEȚUL VASLUI Având in vedere prevederile. art. 2, alin, (2) si ale ordinul art.12, alin,(1) din nr. 1184/2006 pentru aprobarea \" Normelor privind organizarea si asigurarea activitatii de evacuare in situatii de urgenta”; Analizând referatul de specialitate nr. 3640 din 29.0",
+"short": "HCL Murgeni nr. 18/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2023/03/Hotararea-nr-18-din-2023-03-31-b1b1657b64.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

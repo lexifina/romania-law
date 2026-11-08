@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/cobadin/2017",
+ "acts": [
+  {
+   "slug": "hcl-constanta--cobadin-1-2017",
+   "path": "local/constanta/cobadin/2017/1",
+   "short": "HCL Cobadin nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 1/2017 privind aprobarea prelungirii valabilității Planului Urbanistic General al Comunei Cobadin, jud. Constanța",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 5,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2017/03/HCL-28.02.2017-1.pdf",
+     "sha256": "2e662bb9f6164fef281f6c7eee3ea24fcf45f5760b7d0380c52ea686ec935938"
+    }
+   ]
+  }
+ ]
+}

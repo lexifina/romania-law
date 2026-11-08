@@ -648,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--lipova-16-2022",
+   "path": "local/arad/lipova/2022/16",
+   "short": "HCL Lipova nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 16/2022 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari/hcl%20nr.16%20-%20Copy.pdf",
+     "sha256": "d07e24edceaf3facecfafe4f4262168a3fcdebb8464f103db471dd5f6ad4a44a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-160-2022",
    "path": "local/arad/lipova/2022/160",
    "short": "HCL Lipova nr. 160/2022",
@@ -1049,6 +1064,81 @@
      "units": 1,
      "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202022/hcl%20nr.189.pdf",
      "sha256": "6a20bc694c9934fcd33cffd36644f15cbbe2a8f824f37d88fb7a52bf6d9f2df1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-32-2022",
+   "path": "local/arad/lipova/2022/32",
+   "short": "HCL Lipova nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 32/2022 privind prelungirea termenului de valabilitate a Planului Urbanistic General al Orașului Lipova. aprobat prin Hotărârea nr.64/30.03.2021 adoptată de Consiliul Local al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari/hcl%20nr.32.pdf",
+     "sha256": "c7a9404aadd5c986e6a217314b8730d8ea46266c28cb17cc010dc3677d512480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-47-2022",
+   "path": "local/arad/lipova/2022/47",
+   "short": "HCL Lipova nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 47/2022 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare pe teritoriul administrativ al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari/hcl%20nr.47.pdf",
+     "sha256": "230062a0a44619f03feb677623f514081fdd29e142aa65fe9567ab74d792e015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-68-2022",
+   "path": "local/arad/lipova/2022/68",
+   "short": "HCL Lipova nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 68/2022 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hcl%20nr.68.pdf",
+     "sha256": "c048870f24e847d50f96ea80b136a11d7d47155383f5404e32f2d13b3b085e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-7-2022",
+   "path": "local/arad/lipova/2022/7",
+   "short": "HCL Lipova nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 7/2022 privind înființarea unui Serviciu de Asistență Comunitară și al Regulamentului cadru de organizare și funcționare",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari/hcl%20nr.7.pdf",
+     "sha256": "eed926841365c1a5465416f103fc22187b7c9be692b77d30c2f841702de269d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-90-2022",
+   "path": "local/arad/lipova/2022/90",
+   "short": "HCL Lipova nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 90/2022 privind aprobarea Regulamentului propriu de organizare și funcționare -prezentat strict pentru activitățile de colectare și transport -al serviciului public de salubrizare al Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Ju",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202022/hcl%20nr.90.pdf",
+     "sha256": "ee3abbe39c785637cd42413adcd55f83a5598f5b42e20337d47e8294bde1eebb"
     }
    ]
   }

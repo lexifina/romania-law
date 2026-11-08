@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2020",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-56-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/56",
+   "short": "HCL Valea lui Mihai nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2020 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile alocate de la bugetul local al Orașului Valea lui Mihai pentru activități nonprofit de interes local ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-56-din-10.08.2020.pdf",
+     "sha256": "e1a22585ff0527efa6582bdd455bdd892d49f3aaa2c0695cad4cfb9bd3f31694"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-57-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/57",
+   "short": "HCL Valea lui Mihai nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 57/2020 privind instituirea unor facilități fiscale la plata impozitului anual pe clădiri sau a taxei lunare pe clădiri, la plata taxei și a chiriei datorate pentru ocuparea domeniului public pentru durata stării de urgenţă decretate în anul 2020, precum şi de anulare a ac",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-57-din-10.08.2020.pdf",
+     "sha256": "d03a4bef47dadda8b295f9431a10a703514fcc891f120880103cd04f74c87fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-58-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/58",
+   "short": "HCL Valea lui Mihai nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 58/2020 privind înregistrarea Oraşului Valea lui Mihai în Sistemul naţional electronic de plată (SNEP) online a taxelor şi impozitelor utilizând cardul bancar, instalarea unui terminal de plată (POS) precum şi stabilirea modului în care este suportat comisionul bancar ↓",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2020/09/hot.-58-din-10.08.2020.pdf",
+     "sha256": "f2f4755d5dd7c5bbf72f63de26f4f53a80b598d7eb579f347e79c372f8adeba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-86-2020",
+   "path": "local/bihor/valea-lui-mihai/2020/86",
+   "short": "HCL Valea lui Mihai nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 86/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/01/hot.-86-din-29.12.2020.pdf",
+     "sha256": "3087e6740c339f3d9380673d50b04f8c141fbb35d8f74b85b5166ce8651adea9"
+    }
+   ]
+  }
+ ]
+}

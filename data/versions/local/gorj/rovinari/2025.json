@@ -3,6 +3,21 @@
  "shard": "local/gorj/rovinari/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--rovinari-137-2025",
+   "path": "local/gorj/rovinari/2025/137",
+   "short": "HCL Rovinari nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 137/2025 privind aprobarea închirierii bicicletei de agrement de 12 persoane și a Regulamentului de închiriere a acesteia Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.137_din_29.07.2025.pdf",
+     "sha256": "47be82c8c1e7625c952a391f61894a11ae160ecf39982bf49d753446c7ea6e29"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-152-2025",
    "path": "local/gorj/rovinari/2025/152",
    "short": "HCL Rovinari nr. 152/2025",
@@ -1334,6 +1349,96 @@
      "units": 1,
      "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.247_din_18.12.2025.pdf",
      "sha256": "112b44e410120eaf7c85d2442b40aa966a8ff014ebf5335850208963d6ab0ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-49-2025",
+   "path": "local/gorj/rovinari/2025/49",
+   "short": "HCL Rovinari nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 49/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.49_din_26.03.2025.pdf",
+     "sha256": "588b0ddf8cd225c044db968e1659a30597471261689ef815fe279fd652a0aa48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-5-2025",
+   "path": "local/gorj/rovinari/2025/5",
+   "short": "HCL Rovinari nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 5/2025 privind aprobarea îndreptării erorilor materiale strecurate în anexa nr.l, art.465, alin.(4) la Hotărârea Consiliului Local Rovinari nr.242/28.11.2024 privind stabilirea nivelurilor pentru valorile impozabile, impozite și taxe locale pentru anul2025 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.5_din_29.01.2025.pdf",
+     "sha256": "e1a249f0540fb00dedc95e0c5ab084ef520bde388c45b36c27a0e3ba2c1b2c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-58-2025",
+   "path": "local/gorj/rovinari/2025/58",
+   "short": "HCL Rovinari nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 58/2025 privind aprobarea Regulamentului de acordare în anul 2025 a unor drepturi financiare sportivilor de performanță de la SecțiaFotbal și Sectia Box, legitimați la Clubul Sportiv „JIUL Rovinari 2016” Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.58_din_26.03.2025.pdf",
+     "sha256": "85a21726b340cde4567b8a8150e7ef3064071b9249113aa454984b039c76cc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-6-2025",
+   "path": "local/gorj/rovinari/2025/6",
+   "short": "HCL Rovinari nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 6/2025 privind aprobarea documentației „Planul de Mobilitate Durabilă al orașului Rovinari 2023-2030, Elaborarea în format GIS a Planului de Mobilitate Durabilă a orașului Rovinari„ Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.6_din_29.01.2025.pdf",
+     "sha256": "1cd102bcfa214366ef9cfbc2cab081191491c7761b44ff693fab44667745a3e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-66-2025",
+   "path": "local/gorj/rovinari/2025/66",
+   "short": "HCL Rovinari nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 66/2025 privind modificarea art.l din Hotărârea Consiliului Local nr.49/26.03.2025 privind indexarea impozitelor și taxelor locale pentru anul 2026 Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.66_din_24.04.2025.pdf",
+     "sha256": "bef7873534a4c8e9e046e02f07619b9ffbef07c4d2376085febecbc711d42f2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-77-2025",
+   "path": "local/gorj/rovinari/2025/77",
+   "short": "HCL Rovinari nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 77/2025 privind aprobarea tarifelor practicate de Societatea Servicii Publice Locale SRL la Bazarul Comercial, Piața Agroalimentară și parcările aferente acesteia Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2025-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.77_din_08.05.2025.pdf",
+     "sha256": "d5420f60c35f9cfe11caea4f8ef6f9ea9fb5f394f9b9bf37aa3bb4e78cbfc307"
     }
    ]
   }

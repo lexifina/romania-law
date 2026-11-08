@@ -3,6 +3,291 @@
  "shard": "local/braila/silistea/2025",
  "acts": [
   {
+   "slug": "hcl-braila--silistea-1-2025",
+   "path": "local/braila/silistea/2025/1",
+   "short": "HCL Siliștea nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 1/2025 privind acoperirea definitivă a deficitului bugetului local aferent secțiunii de dezvoltare pe anul 2024 și utilizarea excedentului bugetar",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210679",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-13-2025",
+   "path": "local/braila/silistea/2025/13",
+   "short": "HCL Siliștea nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 13/2025 privind aprobarea Programului de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul comunei Siliștea pentru anul 2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210716",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-14-2025",
+   "path": "local/braila/silistea/2025/14",
+   "short": "HCL Siliștea nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2025 privind stabilirea situațiilor deosebite pentru care se pot acorda ajutoare de urgență și aprobarea Regulamentului de acordarea a ajutoarelor de urgență",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210717",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-15-2025",
+   "path": "local/braila/silistea/2025/15",
+   "short": "HCL Siliștea nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 15/2025 privind transformarea unui post aferent unei funcții publice de execuție din cadrul aparatului de specialitate al Instituției Primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210718",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-16-2025",
+   "path": "local/braila/silistea/2025/16",
+   "short": "HCL Siliștea nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 16/2025 privind însușirea inventarului bunurilor aparținând sistemului public de alimentare cu apa, aprobarea apartenenței la domeniul public al Comuna Siliștea a Bunurilor de Retur inventariate - anul 2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210733",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-17-2025",
+   "path": "local/braila/silistea/2025/17",
+   "short": "HCL Siliștea nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 17/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210734",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-18-2025",
+   "path": "local/braila/silistea/2025/18",
+   "short": "HCL Siliștea nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 18/2025 privind aprobarea inventarierii materiei impozabile pentru anul fiscal 2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210735",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-19-2025",
+   "path": "local/braila/silistea/2025/19",
+   "short": "HCL Siliștea nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 19/2025 privind aprobarea bugetului local al comunei Siliștea pe anul 2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210736",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-21-2025",
+   "path": "local/braila/silistea/2025/21",
+   "short": "HCL Siliștea nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 21/2025 privind aprobarea suplimentării numărului de posturi contractuale de asistenți personali și statului de funcții pentru aparatul de specialitate al Primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210750",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-23-2025",
+   "path": "local/braila/silistea/2025/23",
+   "short": "HCL Siliștea nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210753",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-28-2025",
+   "path": "local/braila/silistea/2025/28",
+   "short": "HCL Siliștea nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 28/2025 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219785",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-29-2025",
+   "path": "local/braila/silistea/2025/29",
+   "short": "HCL Siliștea nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 29/2025 privind aprobarea Regulamentului referitor la constituirea dreptului de superficie cu titlu oneros asupra unor terenuri care aparțin domeniului privat al UAT Comuna Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219786",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-37-2025",
+   "path": "local/braila/silistea/2025/37",
+   "short": "HCL Siliștea nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 37/2025 privind actualizarea organigramei, componenței și a regulamentului de organizare și funcționare a Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219803",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-38-2025",
+   "path": "local/braila/silistea/2025/38",
+   "short": "HCL Siliștea nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 38/2025 privind aprobarea dezmembrării unui teren intravilan aflat în domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219804",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-39-2025",
+   "path": "local/braila/silistea/2025/39",
+   "short": "HCL Siliștea nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 39/2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219805",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-40-2025",
+   "path": "local/braila/silistea/2025/40",
+   "short": "HCL Siliștea nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 40/2025 privind aprobarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/219806",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/219806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-43-2025",
+   "path": "local/braila/silistea/2025/43",
+   "short": "HCL Siliștea nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 43/2025 privind înființarea Serviciului Voluntar pentru Situații de Urgență la nivelul comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/228953",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/228953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-44-2025",
+   "path": "local/braila/silistea/2025/44",
+   "short": "HCL Siliștea nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 44/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1 mp pentru realizarea investiției: „REALIZAREA INFRASTRUCTURII DE BROADBAND ȘI RACORDRE LA REȚEAUA DE ENERGIE ELECTRICĂ PRINTR-UN BRANȘAMENT NOU ÎN JUDEȚUL BRĂILA, UAT SILIȘTEA, LOCALITATEA COTU-LUNG” din cadrul proiectului: „ÎNVESTIȚII ÎN INFRASTRUCTURA BROADBAND ÎN JUDEȚELE BRĂILA, GALAȚI ȘI VRANCEA”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/228954",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/228954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-45-2025",
+   "path": "local/braila/silistea/2025/45",
+   "short": "HCL Siliștea nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 45/2025 privind acordarea dreptului de acces gratuit la suprafață de teren de 1 mp pentru realizarea investiției: „REALIZAREA INFRASTRUCTURII DE BROADBAND ȘI RACORDARE LA REȚEAUA DE ENERGIE ELECTRICĂ PRINTR-UN BRANȘAMENT NOU ÎN JUDEȚUL BRĂILA, UAT SILIȘTEA, LOCALITATEA COTU-MIHALEA” din cadrul proiectului: „ÎNVESTIȚII ÎN INFRASTRUCTURĂ BROADBAND ÎN JUDEȚELE BRĂILA, GALAȚI ȘI VRANCEA”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/228955",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/228955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-47-2025",
    "path": "local/braila/silistea/2025/47",
    "short": "HCL Siliștea nr. 47/2025",
@@ -183,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-6-2025",
+   "path": "local/braila/silistea/2025/6",
+   "short": "HCL Siliștea nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2025 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210696",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-60-2025",
    "path": "local/braila/silistea/2025/60",
    "short": "HCL Siliștea nr. 60/2025",
@@ -298,6 +598,51 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/247076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-7-2025",
+   "path": "local/braila/silistea/2025/7",
+   "short": "HCL Siliștea nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 7/2025 privind însușirea Acordului de cooperare privind activitatea de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210697",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-8-2025",
+   "path": "local/braila/silistea/2025/8",
+   "short": "HCL Siliștea nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 8/2025 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a Devizului General și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Înființare parc fotovoltaic în comuna Siliștea, județul Brăila”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210698",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-9-2025",
+   "path": "local/braila/silistea/2025/9",
+   "short": "HCL Siliștea nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 9/2025 privind aprobarea Planului de Analiză și acoperire a Riscurilor din zona de competență a Comitetului Local pentru Situații de Urgență al Comunei Siliștea, actualizat, pentru anul 2025",
+   "url": "https://emol.ro/silistea-br/registru-hcl/210699",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/210699",
      "sha256": null
     }
    ]

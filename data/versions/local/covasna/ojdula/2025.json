@@ -3,6 +3,21 @@
  "shard": "local/covasna/ojdula/2025",
  "acts": [
   {
+   "slug": "hcl-covasna--ojdula-37-2025",
+   "path": "local/covasna/ojdula/2025/37",
+   "short": "HCL Ojdula nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 37/2025 pentru progranre de dezvoltare administrarea domeniului public qi privat al cornunei, agricultura, urbanism, gospoddrire cortunala, protec{ia rnediului, servicii si cclntrol, a cclmisia pentru administralie publica locala juridica, apdrarea ordinii si linistii publice, a dreptur:ilor cet[lenilor - Raportul final al examenului inregistrat sub nr.l:169125.07.2025 - Raportul final al examenului inreg",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2037%20din%2031.07.2025.PDF",
+     "sha256": "d0d905c6064edda20476eeee31bbd8baa43672b46157e1969b3bffca15e32d27"
+    }
+   ]
+  },
+  {
    "slug": "hcl-covasna--ojdula-48-2025",
    "path": "local/covasna/ojdula/2025/48",
    "short": "HCL Ojdula nr. 48/2025",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.%2056%20din%2029.12.2025.pdf",
      "sha256": "c44ce240566fc476aadebad6df9751559e3ee08b0b7bc41dba290c5ae9d25660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ojdula-8-2025",
+   "path": "local/covasna/ojdula/2025/8",
+   "short": "HCL Ojdula nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 8/2025 privind aprobarea participbrii Comunei Ojdula la Programul multianual privind frnan[area elabordrii qi/sau actualizdrii planurilor urbanistice generale ale localitalilor si a regulamentelor locale de urbanism, in perioada 2025-2028 Consiliul Local al Comunei Ojdula intrunit in gedinJa ordinard din data de 27 febmarie 2025 anahzdnd Referatul de aprobare aI primarului comunei Ojdula privind aprobare",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%20nr.8%20din%2027.02.2025.PDF",
+     "sha256": "fd4ee4121bb36ef79e330cbb37d221e6ba20a11fe80f507ea8c76b61a0efc5f8"
     }
    ]
   }

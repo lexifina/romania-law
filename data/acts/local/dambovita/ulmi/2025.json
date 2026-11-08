@@ -3,6 +3,74 @@
 "shard": "local/dambovita/ulmi/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--ulmi-1-2025",
+"path": "local/dambovita/ulmi/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 1/2025",
+"short": "HCL Ulmi nr. 1/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-01-20",
+"latest": "2025-01-20",
+"portal": null,
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-20-2025",
+"path": "local/dambovita/ulmi/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2025 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2026",
+"short": "HCL Ulmi nr. 20/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#96810",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-64-2025",
+"path": "local/dambovita/ulmi/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 64/2025",
+"short": "HCL Ulmi nr. 64/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": null,
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--ulmi-73-2025",
 "path": "local/dambovita/ulmi/2025/73",
 "kind": "local",
@@ -578,6 +646,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--ulmi-99-2025",
+"path": "local/dambovita/ulmi/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 99/2025 privind aprobarea înlesnirilor la plată pentru obligatiile fiscale restante privind anul fiscal 2025",
+"short": "HCL Ulmi nr. 99/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#105204",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--ulmi-100-2025",
 "path": "local/dambovita/ulmi/2025/100",
 "kind": "local",
@@ -932,6 +1022,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--ulmi-117-2025",
+"path": "local/dambovita/ulmi/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 117/2025 privind aprobarea retelei scolare de pe raza Unităţii Administrativ Teritoriale Ulmi, judetul Dâmbovita, pentru anul scolar 2026-2027",
+"short": "HCL Ulmi nr. 117/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#109006",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--ulmi-118-2025",
 "path": "local/dambovita/ulmi/2025/118",
 "kind": "local",
@@ -1063,6 +1175,50 @@
 "council_name": "Consiliul Local al Comunei Ulmi",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-125-2025",
+"path": "local/dambovita/ulmi/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 125/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii casnici pentru anul 2026, in cunatumul stabilit pentru anul 2025",
+"short": "HCL Ulmi nr. 125/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110884",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-127-2025",
+"path": "local/dambovita/ulmi/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 127/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2026 , in cuantumul stabilit pentru anul 2025",
+"short": "HCL Ulmi nr. 127/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#110890",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

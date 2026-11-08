@@ -153,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-56-2021",
+   "path": "local/valcea/babeni/2021/56",
+   "short": "HCL Băbeni nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 56/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a8f76af8906a70592d35333f8cde580bf12506b08df49514562413efa2ca2f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-57-2021",
+   "path": "local/valcea/babeni/2021/57",
+   "short": "HCL Băbeni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 57/2021 rectificarea bugetului local al orașului Băbeni pentru anul 2021",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#626",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cNdrDarT0aoJ7ODqU.zD3uY3jsoM5hi6IFlEapHnkSo5KcBI8wEsG/4247",
+     "sha256": "3a8e31d015a0e1a0163506da1239b14a866b348aba38e5b270b7fc146113050d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-58-2021",
    "path": "local/valcea/babeni/2021/58",
    "short": "HCL Băbeni nr. 58/2021",
@@ -228,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-65-2021",
+   "path": "local/valcea/babeni/2021/65",
+   "short": "HCL Băbeni nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 65/2021 aprobarea documentației tehnico-economice aferentă obiectivului de investiţii ”Reparații capitale pardoseli 4 săli clasă la Liceul George Țărnea - Corp B, orașul Băbeni, jud. Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#1973",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24AjVYdG1HeA2SFceo/xPsN.n6PdensNk.JUXjE3FadFM2qmfhg0yi6/4247",
+     "sha256": "c0864cf537059d0c203aeaa163b10a3d7eecc0e4a6dd6c3af6449378fbb44718"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-67-2021",
    "path": "local/valcea/babeni/2021/67",
    "short": "HCL Băbeni nr. 67/2021",
@@ -239,6 +284,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#2608",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-69-2021",
+   "path": "local/valcea/babeni/2021/69",
+   "short": "HCL Băbeni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 69/2021 modificarea Hotararii Consiliului Local al orasului Babeni nr.8/09 decembrie 2020 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici aferenți obiectivului de investiții “Extindere rețele inteligente de distribuție gaze naturale în Orașul Babeni, jud. Vâlcea și înființare sisteme inteligente de distribuție gaze naturale în Comuna Francesti si Comuna Pausesti, județul Vâlcea”",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#3562",
+   "versions": [
+    {
+     "from": "2021-08-24",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2407ib2tq1wcbTbe1MLSIV1.pNn5Q0noBp0kXXzD/tpOF9LVBeOzIya/4247",
+     "sha256": "98d848c98d6ce08c875fbb063b1595e7fee612667e8c190c4b09c924c9e4ab33"
     }
    ]
   },
@@ -539,6 +599,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#8643",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-93-2021",
+   "path": "local/valcea/babeni/2021/93",
+   "short": "HCL Băbeni nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 93/2021 aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru trimestrul al III-lea 2021",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#8644",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24w96qIeBnCdWiGwiZJvl9uObzdMxn57SgTmUldi5ZrPsJu97UKCncq/4247",
+     "sha256": "f4589a6af4f501c583371d526e978bf0d0ed05202659dd50a99927f9d5e1f01c"
     }
    ]
   },

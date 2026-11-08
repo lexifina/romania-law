@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/ojdula/2023",
+ "acts": [
+  {
+   "slug": "hcl-covasna--ojdula-30-2023",
+   "path": "local/covasna/ojdula/2023/30",
+   "short": "HCL Ojdula nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ojdula nr. 30/2023 privind indexarea impozitelor gi taxelor locale cu rata 13,8\"h pe anul 2022, aplicabil pe anul 2024, pe raz administrativ teritoriall a comunei Ojdula AvAnd in vedere nivelul ratei inflatiei anuale pe2022 conform art.491. din Legea nr.22712015, privind Codul Fiscal, cu modificdrile gi completdrile ulterioare, Ydzdnd cd proiectul de hotdr6re este insolit de rapoarlele de avizare ale compartimenului",
+   "url": "https://ozsdola.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://ozsdola.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202023/HCL%20nr.%2030%20din%2027.04.2023.PDF",
+     "sha256": "0ece34a1372f9c25dcae31c1f1b0cf2f9082bf6a95b5721b13e1482576a15f26"
+    }
+   ]
+  }
+ ]
+}

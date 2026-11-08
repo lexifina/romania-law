@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/horezu/2009",
+ "acts": [
+  {
+   "slug": "hcl-valcea--horezu-29-2009",
+   "path": "local/valcea/horezu/2009/29",
+   "short": "HCL Horezu nr. 29/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 29/2009 privind buna gospodarire , intretinere si curatenie in orasul Horezu si sanctionarea faptelor de incalcare a acestora. 27 mai 2009 Vezi document",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=113",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_29_aprobarea_normelor_privind_bun_20090527_id880.pdf",
+     "sha256": "60ad6033add913681f19feaf673a349e864a8a5ad593fa4c5e9d16c551d945b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-3-2009",
+   "path": "local/valcea/horezu/2009/3",
+   "short": "HCL Horezu nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 3/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "616c0cd19e477b03cb51c43ca0e1c6cdc594af6c4b399518d59a037fbb11d8f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-35-2009",
+   "path": "local/valcea/horezu/2009/35",
+   "short": "HCL Horezu nr. 35/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 35/2009 cu privire la interzicerea accesului cu ATV- uri in zona centrala a orasului, prezentate de Primarul orasului Horezu, prof.ec",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=113",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_35_interzicerea_accesului_cu_atv-_20090527_id886.pdf",
+     "sha256": "bbcdecab8fecbd8fde5d0dc0ef0893e289561ab56fcb6d3e4593a56a513d9d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--horezu-36-2009",
+   "path": "local/valcea/horezu/2009/36",
+   "short": "HCL Horezu nr. 36/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 36/2009 cu privire la interzicerea tragerilor în zona Văleanu, orașul Horezu, județul Vîlcea, prezentate de Primarul orasului Horezu, prof.ec",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=113",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_36_interzicerea_tragerilor_n_zona_20090527_id887.pdf",
+     "sha256": "da9308e0da97cd2827d3584603f45548462098dceab32e95481ed4c4d495da24"
+    }
+   ]
+  }
+ ]
+}

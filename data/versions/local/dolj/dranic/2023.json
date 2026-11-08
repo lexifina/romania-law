@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dranic/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dranic-21-2023",
+   "path": "local/dolj/dranic/2023/21",
+   "short": "HCL Drănic nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 21/2023 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2024",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/05/HCL-nr.-21-din-26.05.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 2,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/05/HCL-nr.-21-din-26.05.2023.pdf",
+     "sha256": "25416da2bfcbd9cd3da22aba5509a6421b46fc98afc20db7feee31f0c220ed0d"
+    }
+   ]
+  }
+ ]
+}

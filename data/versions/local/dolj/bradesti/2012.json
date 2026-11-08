@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/bradesti/2012",
+ "acts": [
+  {
+   "slug": "hcl-dolj--bradesti-18-2012",
+   "path": "local/dolj/bradesti/2012/18",
+   "short": "HCL Brădești nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 18/2012 privind aprobarea stabilirii taxei pentru emiterea avizului de amplasament, in vederea identificarii retelelor de apa) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL18_2012.pdf",
+     "sha256": "7beb1494962a382b9229c11b9cf1c73e661522a81db0d0535d10a1bf9d4f1804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-2-2012",
+   "path": "local/dolj/bradesti/2012/2",
+   "short": "HCL Brădești nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 2/2012 privind stabilirea impozitelor si taxelor locale pe anul 2012, persoane juridice) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL02_2012.pdf",
+     "sha256": "e71ea7faa7cb1bc23b067a8619672c8902519b7727ccd5fcd7ec1f56ff2f92a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-24-2012",
+   "path": "local/dolj/bradesti/2012/24",
+   "short": "HCL Brădești nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 24/2012 privind aprobarea mentinerii anularii taxei de pasunat de pe suprafetele de pasune ale comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL24_2012.pdf",
+     "sha256": "c6a9162ad3765f40ae9bfbf9f2ef5d90114defcd80aee97403b179c8ee842f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-34-2012",
+   "path": "local/dolj/bradesti/2012/34",
+   "short": "HCL Brădești nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 34/2012 privind aprobarea propunerii referitoare la mentinerea la nivelui anului 2012, a taxelor si impozitelor locale pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL34_2012_.pdf",
+     "sha256": "2419741cdc34df4f04b4d8617cb2d76bdac0a5e944b034ad8a8a86e00af53f80"
+    }
+   ]
+  }
+ ]
+}

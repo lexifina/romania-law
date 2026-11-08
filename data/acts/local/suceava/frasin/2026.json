@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-suceava--frasin-34-2026",
+"path": "local/suceava/frasin/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Frasin nr. 34/2026 privind inventarierea materiei impozabile pentru anul fiscal 2026",
+"short": "HCL Frasin nr. 34/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://www.primariaorasuluifrasin.ro/hcl-nr-34-din-05-05-2026-inventarierea-materiei-impozabile-pt-anul-fiscal-2026/",
+"council": "suceava/frasin",
+"council_name": "Consiliul Local al Orașului Frasin",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-suceava--frasin-46-2026",
 "path": "local/suceava/frasin/2026/46",
 "kind": "local",

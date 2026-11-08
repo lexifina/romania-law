@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/sancraiu/2025",
+"acts": [
+{
+"slug": "hcl-cluj--sancraiu-60-2025",
+"path": "local/cluj/sancraiu/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 60/2025 Privind modificarea Hotârârii Consiliului Local Nr. 60-22.12.2025 privind stabilirea taxei speciale de salubrizare pe anul 2026",
+"short": "HCL Sâncraiu nr. 60/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2026/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

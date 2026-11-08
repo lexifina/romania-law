@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/salaj/simleu-silvaniei/2020",
+"acts": [
+{
+"slug": "hcl-salaj--simleu-silvaniei-90-2020",
+"path": "local/salaj/simleu-silvaniei/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 90/2020 privind stabilirea valorilor impozabile, a impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2021 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință în data de 18 decembrie 2020 prin mijl",
+"short": "HCL Șimleu Silvaniei nr. 90/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-18",
+"latest": "2020-12-18",
+"portal": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

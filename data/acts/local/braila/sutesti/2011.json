@@ -3,6 +3,95 @@
 "shard": "local/braila/sutesti/2011",
 "acts": [
 {
+"slug": "hcl-braila--sutesti-7-2011",
+"path": "local/braila/sutesti/2011/7",
+"kind": "local",
+"year": "2011",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 7/2011 Privind : stabilirea impozitelor si taxelor locale pentru anul 2011 CONSILIUL LOCAL ȘUȚEȘTI întrunit în ședință ordinară în data de 31 ianuarie 2011 Văzând :  Referatul de necesitate al compartimentului de specialitate;  Avizul comisiei de specialitate din cadrul consiliului local; Avand in vedere prevederile: Legii NR. 571/2003 cu modificarile si completarile ulterioare , privind Codul Fiscal",
+"short": "HCL Șuțești nr. 7/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-7-din-31.01.2011.pdf",
+"council": "braila/sutesti",
+"council_name": "Consiliul Local al Comunei Șuțești",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-braila--sutesti-9-2011",
+"path": "local/braila/sutesti/2011/9",
+"kind": "local",
+"year": "2011",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 9/2011 Privind : aprobarea criteriilor proprii de evaluare a unor venituri potentiale obtinute de catre beneficiarii Legii 416/2001 CONSILIUL LOCAL AL COMUNEI SUTESTI , intrunit in sedinta ordinara din 31.01.2011 Luand in considerare raportul de aprobare al primarului comunei Sutesti Vazand raportul comisiei de specialitate din cadrul Consiliului Local Sutesti; In conformitate cu prevederile Legii 416/20",
+"short": "HCL Șuțești nr. 9/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-9-din-31.01.2011.pdf",
+"council": "braila/sutesti",
+"council_name": "Consiliul Local al Comunei Șuțești",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-braila--sutesti-20-2011",
+"path": "local/braila/sutesti/2011/20",
+"kind": "local",
+"year": "2011",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 20/2011 Privind instituirea taxei speciale pentru desfacerea casatoriei prin acordul partilor , pe cale administrativa Consiliul Local Sutesti intrunit in sedinta ordinara la data de 31.03.2011 Avand in vedere referatul de aprobare al primarului comunei Sutesti,raportul comisiei de specialitate al comisiei de specialitate din cadrul Consiliului Local Sutesti; Vazand – Hotararea Guvernului nr. 64/2011 pent",
+"short": "HCL Șuțești nr. 20/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-20-din-31.03.2011.pdf",
+"council": "braila/sutesti",
+"council_name": "Consiliul Local al Comunei Șuțești",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-braila--sutesti-21-2011",
+"path": "local/braila/sutesti/2011/21",
+"kind": "local",
+"year": "2011",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 21/2011 Privind : constituirea unei taxe pentru prestarea de servicii cu vidanja aflata in proprietatea Consiliului Local Sutesti CONSILIUL LOCAL ȘUȚEȘTI întrunit în ședință ordinară în data de 31.03.2011 Văzând :  Referatul de aprobare al compartimentului impozite si taxe;  Avizul comisiei de specialitate din cadrul consiliului local; Avand in vedere prevederile: art.282 , ali(1) din Legea NR. 571/2003",
+"short": "HCL Șuțești nr. 21/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-21-din-31.03.2011.pdf",
+"council": "braila/sutesti",
+"council_name": "Consiliul Local al Comunei Șuțești",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-braila--sutesti-24-2011",
 "path": "local/braila/sutesti/2011/24",
 "kind": "local",

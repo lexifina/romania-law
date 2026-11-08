@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/lunca/2024",
+ "acts": [
+  {
+   "slug": "hcl-botosani--lunca-54-2024",
+   "path": "local/botosani/lunca/2024/54",
+   "short": "HCL Lunca nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca nr. 54/2024 privind stabilirea măsurilor necesare pentru interzicerea abandonării, aruncării necorespunzătoare a deșeurilor neconforme cu ierarhia deșeurilor",
+   "url": "https://primarialunca.ro/wp-content/uploads/2025/08/Hotararea-nr.-54-din-16.12.2024-privind-stabilirea-masurilor-necesare-pentru-interzicerea-abandonarii-aruncarii-necorespunzatoare-a-deseurilor-neconforme-cu-ierarhia-deseurilor.pdf",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://primarialunca.ro/wp-content/uploads/2025/08/Hotararea-nr.-54-din-16.12.2024-privind-stabilirea-masurilor-necesare-pentru-interzicerea-abandonarii-aruncarii-necorespunzatoare-a-deseurilor-neconforme-cu-ierarhia-deseurilor.pdf",
+     "sha256": "45c82ce586382154bd297ef3aa9ce870455db84270e2318b5d7d81ee692c29fc"
+    }
+   ]
+  }
+ ]
+}

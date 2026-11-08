@@ -3,6 +3,116 @@
 "shard": "local/buzau/cislau/2024",
 "acts": [
 {
+"slug": "hcl-buzau--cislau-5-2024",
+"path": "local/buzau/cislau/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 5/2024 privind aprobarea participării UAT – Comuna Cislău la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+"short": "HCL Cislău nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-09",
+"latest": "2024-02-09",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/142378",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-21-2024",
+"path": "local/buzau/cislau/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 21/2024 privind aprobarea rectificării nr. 2 a bugetului local al Comunei Cislău pe anul 2024",
+"short": "HCL Cislău nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/154646",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-29-2024",
+"path": "local/buzau/cislau/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 29/2024 privind aprobarea rectificării nr. 3 a bugetului local al Comunei Cislău pe anul 2024",
+"short": "HCL Cislău nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-01",
+"latest": "2024-08-01",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/164731",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-32-2024",
+"path": "local/buzau/cislau/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 32/2024 privind aprobarea rectificării nr. 4 bugetului local cât și a listei de investiții a Comunei Cislău pe anul 2024",
+"short": "HCL Cislău nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/165406",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-42-2024",
+"path": "local/buzau/cislau/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 42/2024 privind acordarea unor facilități fiscale urmare a achitării până la data de 25.11.2024 a obligațiilor restante la data de 31.08.2024, la bugetul local al comunei Cislău, județul Buzău",
+"short": "HCL Cislău nr. 42/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-02",
+"latest": "2024-12-02",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/179955",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--cislau-43-2024",
 "path": "local/buzau/cislau/2024/43",
 "kind": "local",

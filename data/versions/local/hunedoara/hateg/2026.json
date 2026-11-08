@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-141-2026",
+   "path": "local/hunedoara/hateg/2026/141",
+   "short": "HCL Hațeg nr. 141/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 141/2026 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al III-lea al anului 2026 și a stabilirii măsurilor pentru eficientizarea acestei activități, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-142-2026-privind-exprimarea-acordului-pentru-modificarea-suprafetei-si-insusirea-in-domeniul-public-a-suprafetei-totale-masurate-a-imobilului-inscris-in-cf-nr-65713-hateg-nr-cadastra/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2026/10/Hotararea-nr-141-din-2026.pdf",
+     "sha256": "ed0a77f0c0194fc525c3aa3e80e4c1ba42f0438000f7820437b4eb64928c6788"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-142-2026",
    "path": "local/hunedoara/hateg/2026/142",
    "short": "HCL Hațeg nr. 142/2026",
@@ -119,6 +134,66 @@
      "units": 1,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2026/10/Hotararea-nr-147-din-2026.pdf",
      "sha256": "28dab05cd112b5e5878e1fe61d59d142aa108c67e60a18dcb894d467b0ae390d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-41-2026",
+   "path": "local/hunedoara/hateg/2026/41",
+   "short": "HCL Hațeg nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 41/2026 privind aprobarea desfășurării activităților de jocuri de noroc pe raza administrativ- teritorială a Orașului Hațeg și a regulamentului local aferent",
+   "url": "https://primariehateg.ro/hotararea-nr-41-2026-privind-aprobarea-desfasurarii-activitatilor-de-jocuri-de-noroc-pe-raza-administrativ-teritoriala-a-orasului-hateg-si-a-regulamentului-local-aferent/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 7,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2026/05/Hotararea-nr-41-din-2026.pdf",
+     "sha256": "2029db6f9c21fc4e7098b2fc691202ef0dc4cbcc5da62d29dff8b5b408911ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-5-2026",
+   "path": "local/hunedoara/hateg/2026/5",
+   "short": "HCL Hațeg nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 5/2026 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV-lea al anului 2025 și a stabilirii măsurilor pentru eficientizarea acestei activități, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-5-2026-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-iv-lea-al-anului-2025-si-a-stabilirii-masurilor-pentru-eficientizarea-acest/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2026/01/Hotararea-nr-5-din-2026.pdf",
+     "sha256": "bd0a16a4587166a4620d5bfef3d30fbca205c873ec6a692dd8f0f0ea31c91600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-74-2026",
+   "path": "local/hunedoara/hateg/2026/74",
+   "short": "HCL Hațeg nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 74/2026 privind aprobarea declanșării procedurii de selecție a administratorilor la SC Bucura Prest SRL Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-74-2026-privind-aprobarea-declansarii-procedurii-de-selectie-a-administratorilor-la-sc-bucura-prest-srl-hateg/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 4,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2026/07/Hotararea-nr-74-din-2026.pdf",
+     "sha256": "ec524fffde69158120ea713b58d0d4b6d7412c82172a02a37314fd3e8044e8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-99-2026",
+   "path": "local/hunedoara/hateg/2026/99",
+   "short": "HCL Hațeg nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 99/2026 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al II-lea al anului 2026 și a stabilirii măsurilor pentru eficientizarea acestei activități, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-99-2026-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-ii-lea-al-anului-2026-si-a-stabilirii-masurilor-pentru-eficientizarea-aces/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2026/08/Hotararea-nr-99-din-2026.pdf",
+     "sha256": "acc3ae631d9f2da6e555707d035cbdd5b587cc8c2514b512ba21cd29fb8359ce"
     }
    ]
   }

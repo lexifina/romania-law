@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/timis/buzias/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--buzias-1-2021",
+   "path": "local/timis/buzias/2021/1",
+   "short": "HCL Buziaș nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 1/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-08.01.2021-nr.-1.pdf",
+     "sha256": "0467a6dbfc2bd328fc22e0ff7b154e0418a75cfc67860328f4b57a35e30d6b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-2-2021",
+   "path": "local/timis/buzias/2021/2",
+   "short": "HCL Buziaș nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 2/2021 privind completarea Hotărârii Consiliului Local nr. 78/23.12.2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021 Având în vedere referatul de aprobare al initiatorului, înregistrat cu 320/ 21.01.2021, precum și raportul de specialitate al Serviciului contabilitate, buget – finante , impozite și taxe din cadrul Primăriei oraș Buzias , înregistrat cu nr. 321/21.01.2021, prin care",
+   "url": "https://primariabuzias.ro/documente/hotarari-ale-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 4,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-29.01.2021-nr.-2.pdf",
+     "sha256": "302444f3d9e4f4999671e07e023f50ca1c934f90c8f7369bd1e451a1928d7365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-79-2021",
+   "path": "local/timis/buzias/2021/79",
+   "short": "HCL Buziaș nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 79/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/HOTARAREA-NR.79-DIN-28.12.2021-AGENDA-CULTURALA-2022.pdf",
+     "sha256": "48099fa7d217d3e55e22d700fb94709cc2bb33daf0586e1025868bf44ee967b5"
+    }
+   ]
+  }
+ ]
+}

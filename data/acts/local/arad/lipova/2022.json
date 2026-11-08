@@ -3,6 +3,138 @@
 "shard": "local/arad/lipova/2022",
 "acts": [
 {
+"slug": "hcl-arad--lipova-7-2022",
+"path": "local/arad/lipova/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 7/2022 privind înființarea unui Serviciu de Asistență Comunitară și al Regulamentului cadru de organizare și funcționare",
+"short": "HCL Lipova nr. 7/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-16-2022",
+"path": "local/arad/lipova/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 16/2022 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+"short": "HCL Lipova nr. 16/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-32-2022",
+"path": "local/arad/lipova/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 32/2022 privind prelungirea termenului de valabilitate a Planului Urbanistic General al Orașului Lipova. aprobat prin Hotărârea nr.64/30.03.2021 adoptată de Consiliul Local al Orașului Lipova",
+"short": "HCL Lipova nr. 32/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-47-2022",
+"path": "local/arad/lipova/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 47/2022 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare pe teritoriul administrativ al Orașului Lipova",
+"short": "HCL Lipova nr. 47/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-03-24",
+"latest": "2022-03-24",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-68-2022",
+"path": "local/arad/lipova/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 68/2022 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemnoasă fasonată",
+"short": "HCL Lipova nr. 68/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--lipova-90-2022",
+"path": "local/arad/lipova/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lipova nr. 90/2022 privind aprobarea Regulamentului propriu de organizare și funcționare -prezentat strict pentru activitățile de colectare și transport -al serviciului public de salubrizare al Asociației de Dezvoltare Intercomunitară Sistem Integrat de Gestionare a Deșeurilor Ju",
+"short": "HCL Lipova nr. 90/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+"council": "arad/lipova",
+"council_name": "Consiliul Local al Orașului Lipova",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-arad--lipova-103-2022",
 "path": "local/arad/lipova/2022/103",
 "kind": "local",

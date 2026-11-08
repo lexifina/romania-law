@@ -3,6 +3,201 @@
  "shard": "local/buzau/unguriu/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--unguriu-1-2025",
+   "path": "local/buzau/unguriu/2025/1",
+   "short": "HCL Unguriu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 1/2025 privind aprobarea organizării rețelei școlare de la nivelul comunei Unguriu, ăn anul școlar 2025-2026",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/192278",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/192278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-10-2025",
+   "path": "local/buzau/unguriu/2025/10",
+   "short": "HCL Unguriu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 10/2025 privind privind aprobarea bugetului comunei Unguriu, judeţul Buzău , pentru anul 2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/200247",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/200247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-11-2025",
+   "path": "local/buzau/unguriu/2025/11",
+   "short": "HCL Unguriu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 11/2025 privind aprobarea Strategiei anuale de achizitii publice de la nivelul UAT UNGURIU pentru anul 2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206179",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-12-2025",
+   "path": "local/buzau/unguriu/2025/12",
+   "short": "HCL Unguriu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 12/2025 privind aprobarea strategiei anuale de achiziţii publice de la nivelul Serviciului apa- canal aflat in subordinea Consiliului Local Unguriu, pentru anul 2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206180",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-13-2025",
+   "path": "local/buzau/unguriu/2025/13",
+   "short": "HCL Unguriu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 13/2025 privind aprobarea strategiei anuale de achiziţii publice de la nivelul Serviciului Salubrizare aflat in subordinea Consiliului Local Unguriu, pentru anul 2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206181",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-14-2025",
+   "path": "local/buzau/unguriu/2025/14",
+   "short": "HCL Unguriu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 14/2025 privind privind modificarea Hotărârii Consiliului Local al comunei UNGURIU nr. 24 din 30.06.2016 privind înfiinţarea şirganizarea serviciului “CONSILIUL LOCAL UNGURIU – SERVICIUL APĂ CANAL” serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Unguriu, judeţul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206182",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-15-2025",
+   "path": "local/buzau/unguriu/2025/15",
+   "short": "HCL Unguriu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 15/2025 privind aprobarea cotei corepunzătoare pierderilor de apă din sistemul de alimentare cu apă al comunei UNGURIU, Judeţul BUZĂU",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206183",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-16-2025",
+   "path": "local/buzau/unguriu/2025/16",
+   "short": "HCL Unguriu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 16/2025 privind cantitatea de apã uzatã evacuatã de utilizatorii serviciului public de alimentare cu apă şi de canalizare în comuna UNGURIU, Judeţul BUZĂU",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206184",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-17-2025",
+   "path": "local/buzau/unguriu/2025/17",
+   "short": "HCL Unguriu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 17/2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206185",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-18-2025",
+   "path": "local/buzau/unguriu/2025/18",
+   "short": "HCL Unguriu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 18/2025 privind organizarea şi funcţionarea serviciului de utilităţi publice - serviciul public de alimentare cu apă şi de canalizare - al comunei UNGURIU, judeţul BUZĂU",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206186",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-19-2025",
+   "path": "local/buzau/unguriu/2025/19",
+   "short": "HCL Unguriu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 19/2025 privind aprobarea nivelului redevenţei pentru serviciul de alimentare cu apă şi de canalizare",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206187",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-2-2025",
+   "path": "local/buzau/unguriu/2025/2",
+   "short": "HCL Unguriu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 2/2025 privind aprobarea planului de actiuni si lucrari de interes local aferent anului 2025 pentru repartizarea orelor de munca desfasurate de beneficciarii prevederilor Legii 196/2016 actualizata la nivelul comunei Unguriu",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/192294",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/192294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-20-2025",
+   "path": "local/buzau/unguriu/2025/20",
+   "short": "HCL Unguriu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 20/2025 privind modificarea HCL 28/30.05.2017 privind darea în administrare şi exploatare a serviciului public de alimentare cu apă şi de canalizare şi sistemele de utilitate publică utilizate - sistemele de alimentare cu apă şi de canalizare - către serviciul “CONSILIUL LOCAL UNGURIU-SERVICIUL APĂ CANAL” serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea consiliului local al comunei UNGURIU, judeţul BUZĂU",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/206188",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/206188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-21-2025",
    "path": "local/buzau/unguriu/2025/21",
    "short": "HCL Unguriu nr. 21/2025",
@@ -133,6 +328,21 @@
      "from": "2025-10-03",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/224969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-3-2025",
+   "path": "local/buzau/unguriu/2025/3",
+   "short": "HCL Unguriu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 3/2025",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/194173",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/194173",
      "sha256": null
     }
    ]
@@ -288,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-4-2025",
+   "path": "local/buzau/unguriu/2025/4",
+   "short": "HCL Unguriu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 4/2025 privind aprobarea participării UAT – Comuna Unguriu la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/194174",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/194174",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-40-2025",
    "path": "local/buzau/unguriu/2025/40",
    "short": "HCL Unguriu nr. 40/2025",
@@ -298,6 +523,36 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/243261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-7-2025",
+   "path": "local/buzau/unguriu/2025/7",
+   "short": "HCL Unguriu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 7/2025 privind aprobare cont de execuţie buget comuna Unguriu, pe anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/197227",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/197227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-8-2025",
+   "path": "local/buzau/unguriu/2025/8",
+   "short": "HCL Unguriu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 8/2025 Proiect de hotarare privind utilizarea excedentului bugetar rezultat la inchiderea anului 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/197228",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/197228",
      "sha256": null
     }
    ]

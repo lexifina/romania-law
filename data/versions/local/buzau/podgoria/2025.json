@@ -3,6 +3,36 @@
  "shard": "local/buzau/podgoria/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-23-2025",
+   "path": "local/buzau/podgoria/2025/23",
+   "short": "HCL Podgoria nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 23/2025 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism și amenajare a teritoriului Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 30.05.2025; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 2222/15.05.2025 intocmit in conformitate cu prevederile ar",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/23-HCL-nr.23-30.05.2025-aprobare-REGULAMENT-LOCAL-DE-IMPLICARE-A-PUBLICULUI-IN-ELABORAREA-REVIZUIREA.pdf",
+     "sha256": "c4b6c3608727d27c187d16c4b3c6e8696e2b5fcad31cdf1a70cda84a9a41ddca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-26-2025",
+   "path": "local/buzau/podgoria/2025/26",
+   "short": "HCL Podgoria nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/26-HCL.-nr.26-30.05.2025-modificarea-si-completare-hcl-nr.5-31.01.2025.pdf",
+     "sha256": "451933a23fc40e37eab8a74c8c3fa29cacf20eb9c63e00e73961840c0d0d6065"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-29-2025",
    "path": "local/buzau/podgoria/2025/29",
    "short": "HCL Podgoria nr. 29/2025",
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2026/01/HCL-nr.-39-31.10.2025-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli.pdf",
      "sha256": "1bfdeed6048dd1c8f8c85e4a3c135c5eb3d44ec7968aba492e7907fee00b3d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-4-2025",
+   "path": "local/buzau/podgoria/2025/4",
+   "short": "HCL Podgoria nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 4/2025 privind aprobarea PLANULUI DE MOBILITATE URBANĂ DURABILĂ AL ZONEI URBANE FUNCȚIONALE RÂMNICU SĂRAT Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA ; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 179/20.01.2025 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U.G nr.57/2019 privind Codul administ",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/4HCL-nr.-4-31.01.2025-PLAN-MOBILITATE-URBANA-RM-SARAT.pdf",
+     "sha256": "4bf71a1abda4cbc59f46ac7459ecc20a5a5bd94e398de2cd2a8dbc34d743d184"
     }
    ]
   },

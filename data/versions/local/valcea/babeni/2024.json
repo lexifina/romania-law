@@ -3,6 +3,21 @@
  "shard": "local/valcea/babeni/2024",
  "acts": [
   {
+   "slug": "hcl-valcea--babeni-1-2024",
+   "path": "local/valcea/babeni/2024/1",
+   "short": "HCL Băbeni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 1/2024 aprobarea delegării gestiunii activității de sortare a deșeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetic și a activității de tratarea mecano-biologică a deşeurilor reziduale în instalaţiile integrate de tratare, inclusiv transportul deşeurilor stabilizate biologic la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică la nivelul oraşului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#68179",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24KwZISL.98r4qK8hItZO1KeAvaJLK/oQw3fEivUW2EI5reKmb1oB7a/4247",
+     "sha256": "7a90c8894c02b6f30443f25f096d7e1e3ecda75e6971fca4fad80c0bbb4dcbe9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-100-2024",
    "path": "local/valcea/babeni/2024/100",
    "short": "HCL Băbeni nr. 100/2024",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-14-2024",
+   "path": "local/valcea/babeni/2024/14",
+   "short": "HCL Băbeni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 14/2024 modificarea Hotărârii Consiliului Local al orașului Băbeni nr.11/09 februarie 2024 privind aprobarea delegării gestiunii activității de sortare a deșeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţii de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetic și a activității de tratarea mecano-biologică a deşeurilor reziduale în instalaţiile integrate de tratare, inclusiv transportul deşeurilor stabilizate biologic la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică la nivelul oraşului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#70477",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%246kpsvFp00X5y1P2Er3hFGuqzs5kCLmeaT5IJvs.cc8.Gg.dNTyg62/4247",
+     "sha256": "b061b012bbf241f3f271a3e885c9d97987ca22eb998995dae41936475011b18e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-15-2024",
    "path": "local/valcea/babeni/2024/15",
    "short": "HCL Băbeni nr. 15/2024",
@@ -318,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-2-2024",
+   "path": "local/valcea/babeni/2024/2",
+   "short": "HCL Băbeni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 2/2024 aprobarea delegării serviciului public de salubrizare pentru activităţile - colectare si transport deseuri - în oraşul Băbeni prin contract de prestări de servicii, atribuit prin achiziție directă, conform prevederilor art.7 alin.(5) din Legea nr.98/2016, cu modificările și completările ulterioare, în vederea asigurării continuităţii serviciului",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#68180",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24hIo4nCkMmQfTtbARDzuZAOpMCbc8M3oHvh3g4gCaHthVJqCyASDdG/4247",
+     "sha256": "a1193afcee490ef063c35c3112fcbd44023ad2e00923a52f94c257648f8f939d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-20-2024",
    "path": "local/valcea/babeni/2024/20",
    "short": "HCL Băbeni nr. 20/2024",
@@ -374,6 +419,21 @@
      "units": 1,
      "source_url": null,
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-24-2024",
+   "path": "local/valcea/babeni/2024/24",
+   "short": "HCL Băbeni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 24/2024 aprobarea Regulamentului privind instituirea şi administrarea taxei de salubrizare în orașul Băbeni, județul Vâlcea",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#71518",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24AISmewvc5m2WMXk5q./wh.4ygaousDwKEhsI1cJN7rfs/lVk/E24i/4247",
+     "sha256": "b6f8a2331c5ae2ebae44ff9032533eb0c40297a468fa35bb3a1f2a9cec2a1b4d"
     }
    ]
   },
@@ -453,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-30-2024",
+   "path": "local/valcea/babeni/2024/30",
+   "short": "HCL Băbeni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 30/2024 stabilirea taxei de salubrizare la nivelul orașului Băbeni și aprobarea unor măsuri tranzitorii privind instituirea acesteia",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#73708",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24i.67y.6gYVI0XHPd2nGEUOmY/KJ/bUJFR0UIvA8dshid4efKK39Kq/4247",
+     "sha256": "f9d4d52d0aee5e9f8540eac31d35859fc62094787cf27a7ad4a4b9edcd1e5850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-31-2024",
+   "path": "local/valcea/babeni/2024/31",
+   "short": "HCL Băbeni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 31/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#73709",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24F.wfOMPmwmkxl5daeqRU.OFxwpqIf2TowldMKEDoZP4PRvQyW4JGe/4247",
+     "sha256": "6607604b7766a928b215fe5c5533b02a718213f86a9934634b6a8104e3e06696"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-32-2024",
    "path": "local/valcea/babeni/2024/32",
    "short": "HCL Băbeni nr. 32/2024",
@@ -509,6 +599,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#75436",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-38-2024",
+   "path": "local/valcea/babeni/2024/38",
+   "short": "HCL Băbeni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 38/2024 indexarea impozitelor, taxelor si a altor sume cuvenite bugetului local pentru anul fiscal 2025",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#72122",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24V37/8LHe7Dq1qzkms6X6lOHfCXbA.40uQUYJgY4saU0hHz9CL23Ti/4247",
+     "sha256": "ee132c490ab85605bc9835db56efcc25cf70b57e67634013367a3883f3114a8c"
     }
    ]
   },
@@ -573,6 +678,36 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-44-2024",
+   "path": "local/valcea/babeni/2024/44",
+   "short": "HCL Băbeni nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 44/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#76968",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24n33d.xDGvEa/vccUfBa0L.lUFCx.ZIY2UebeFZ5B07C9QMKHVoZgy/4247",
+     "sha256": "22d761243cd138f87d1509ed8e148f6b7306e86b8599fcb4eb12c5ec0e10744a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-45-2024",
+   "path": "local/valcea/babeni/2024/45",
+   "short": "HCL Băbeni nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 45/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#77807",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24PcHtLRCtzdqz1RmG1B2Oe.sl6xUIdJP.mkwOyrkDGPYCWVRRPhOZi/4247",
+     "sha256": "1525d1a9d7be51f61a676a0deaf9e6ec3caaf0f2b34758161b3ee07116b69418"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-46-2024",
    "path": "local/valcea/babeni/2024/46",
    "short": "HCL Băbeni nr. 46/2024",
@@ -584,6 +719,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#77809",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-49-2024",
+   "path": "local/valcea/babeni/2024/49",
+   "short": "HCL Băbeni nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 49/2024 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a Serviciului de salubrizare constând în colectare separată, transport separat, transfer al deșeurilor municipale în Județul Vâlcea, sortare în stațiile de sortare Râureni și Brezoi, compostare în stația de compost Râureni și operare a centrelor de aport voluntar (CAV)",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#77811",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24oXdxjLSdmBYkCtnKJfoWpu3wiFwiBoDawOIqdiYK9H8igw6UMBxcG/4247",
+     "sha256": "6b5bd485ca312aef920fb406e0c59e412df95bcab6f8da7937161646bf0a369e"
     }
    ]
   },
@@ -603,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-50-2024",
+   "path": "local/valcea/babeni/2024/50",
+   "short": "HCL Băbeni nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 50/2024 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a Serviciului de salubrizare constând în sortare în stația de sortare Roești, tratare mecano-biologică și operarea depozitului Roești",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#77812",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24hMO.3n678yzG8rpoRLs1mON43ARhYuN4eHGQE0PeOrzvncDNHMA8m/4247",
+     "sha256": "2f6b15b470f09d56b19c5fc132779be18c37a28cee424b9ca124b6c99000b048"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-51-2024",
    "path": "local/valcea/babeni/2024/51",
    "short": "HCL Băbeni nr. 51/2024",
@@ -614,6 +779,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#78566",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-52-2024",
+   "path": "local/valcea/babeni/2024/52",
+   "short": "HCL Băbeni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 52/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#78561",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24sS6LNj8apULon1SQVRWSIeOyk.h.sTZqQrC2weRYlSu2xSTtqlWH6/4247",
+     "sha256": "ae25e9ee6a8baeb02ec6345988de8d61f4bb444f3ae203b6317a3d5eb220cdc0"
     }
    ]
   },
@@ -753,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-64-2024",
+   "path": "local/valcea/babeni/2024/64",
+   "short": "HCL Băbeni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 64/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#82131",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24oeyjGz2f2YYquFq6c7yau.x7TDvLDmujjpbXdqcLv6d2ipZ4XaWfu/4247",
+     "sha256": "91db3001dccb2be52c47d9a419c55b0d8099f7d79cda3eaad7b0cb64829b50bf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-65-2024",
    "path": "local/valcea/babeni/2024/65",
    "short": "HCL Băbeni nr. 65/2024",
@@ -764,6 +959,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#82132",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-67-2024",
+   "path": "local/valcea/babeni/2024/67",
+   "short": "HCL Băbeni nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 67/2024 unele măsuri pentru asigurarea continuității serviciului public de salubrizare al orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#83689",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24x2RchXiaUlBFWVjKTr3JMe0X84bq6VOC5qqazJRoj6uPZUMcog8iO/4247",
+     "sha256": "5f37d90b59ec0d7ee62be98d292b0cae87e9f18955d7a5d3e22594a7fd672879"
     }
    ]
   },
@@ -798,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-7-2024",
+   "path": "local/valcea/babeni/2024/7",
+   "short": "HCL Băbeni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 7/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8829c5600e03c708dab2ee007b34d547a97e63d6ec0debe5c5dc00710046682b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-70-2024",
    "path": "local/valcea/babeni/2024/70",
    "short": "HCL Băbeni nr. 70/2024",
@@ -809,6 +1034,36 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#83695",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-71-2024",
+   "path": "local/valcea/babeni/2024/71",
+   "short": "HCL Băbeni nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 71/2024 instalarea unor indicatoare rutiere pe raza orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#84154",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%242WbbQ8vi127IMpVv.OdoWehhf2jb3zMsHPQhcneHMAH2pQncKR4Iq/4247",
+     "sha256": "5a827b8d376b2759e926a67d98950ca12e8ec8f72123da89001853e8dad9de4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-72-2024",
+   "path": "local/valcea/babeni/2024/72",
+   "short": "HCL Băbeni nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 72/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#84155",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cBmPhUQfCL4w6D.PdS2NVuDMr.1lR/YovsyFQ14B9s/QXft0gRMMK/4247",
+     "sha256": "f5e830ed0d01177de5e0258e908bdf83b0ecd7e2a0751ca840abfa359628fbc6"
     }
    ]
   },
@@ -839,6 +1094,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#84626",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-75-2024",
+   "path": "local/valcea/babeni/2024/75",
+   "short": "HCL Băbeni nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 75/2024 aprobarea documentatiei pentru demararea procedurii de atribuire a contractului de delegare a gestiunii serviciului de salubrizare al orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#84627",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24UQp8tlRlL4WNGe2RX4vhQep25nIVvmk3qOgxdXhduaJW9jEPXfHJC/4247",
+     "sha256": "be3f338757ba97afca8b386120420642f90c223a4a6fa818a1a3e3df179cf512"
     }
    ]
   },
@@ -1053,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-90-2024",
+   "path": "local/valcea/babeni/2024/90",
+   "short": "HCL Băbeni nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 90/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a453002774ac1f2d70bc6adfef7cc4a23c54e07b7a4a64ecd710fe0fb67188b3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-91-2024",
    "path": "local/valcea/babeni/2024/91",
    "short": "HCL Băbeni nr. 91/2024",
@@ -1064,6 +1349,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#87367",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-92-2024",
+   "path": "local/valcea/babeni/2024/92",
+   "short": "HCL Băbeni nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 92/2024 validarea rectificării bugetului local al oraşului Băbeni pentru anul 2024, aprobată prin dispoziţia primarului oraşului Băbeni nr.276/30 septembrie 2024",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#87368",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24QOMlcRtqomWOv4xYCX1jwONi4gct1rlFKNS/rjrdMYTse.VuWv2Au/4247",
+     "sha256": "a20c8fb7fa6eedc62e9686d878a5f73e2b70617a509fe6a57b1888cd6f0da451"
     }
    ]
   },

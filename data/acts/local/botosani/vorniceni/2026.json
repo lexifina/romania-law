@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorniceni-13-2026",
+"path": "local/botosani/vorniceni/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 13/2026 privind stabilirea taxelor de inchiriere pentru Caminul Cultural",
+"short": "HCL Vorniceni nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-13-privind-stabilirea-taxelor-de-inchiriere-pentru-Caminul-Cultural.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-botosani--vorniceni-20-2026",
 "path": "local/botosani/vorniceni/2026/20",
 "kind": "local",

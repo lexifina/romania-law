@@ -2039,6 +2039,52 @@
 }
 },
 {
+"slug": "hcl-suceava--salcea-106-2026",
+"path": "local/suceava/salcea/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 106/2026",
+"short": "HCL Salcea nr. 106/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": null,
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-suceava--salcea-107-2026",
+"path": "local/suceava/salcea/2026/107",
+"kind": "local",
+"year": "2026",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 107/2026",
+"short": "HCL Salcea nr. 107/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": null,
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-suceava--salcea-109-2026",
 "path": "local/suceava/salcea/2026/109",
 "kind": "local",

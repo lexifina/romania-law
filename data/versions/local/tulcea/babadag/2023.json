@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/babadag/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--babadag-220-2023",
+   "path": "local/tulcea/babadag/2023/220",
+   "short": "HCL Babadag nr. 220/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Babadag nr. 220/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primariababadag.ro/wp-content/uploads/2024/01/HCL-220-21.12.2023-impozite-si-taxe-locale-2024.pdf",
+     "sha256": "e79cc8c2fd854d442c8910965aa10e99ea1cfcff91be6b68a0941d870d8800a1"
+    }
+   ]
+  }
+ ]
+}

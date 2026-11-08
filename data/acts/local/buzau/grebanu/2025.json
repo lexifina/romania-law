@@ -668,6 +668,28 @@
 }
 },
 {
+"slug": "hcl-buzau--grebanu-31-2025",
+"path": "local/buzau/grebanu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grebănu nr. 31/2025 Privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării sau gestionării necontrolate a deșeurilor pe raza Comunei Grebănu, județul Buzău",
+"short": "HCL Grebănu nr. 31/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://grebanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/24236#105700",
+"council": "buzau/grebanu",
+"council_name": "Consiliul Local al Comunei Grebănu",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--grebanu-32-2025",
 "path": "local/buzau/grebanu/2025/32",
 "kind": "local",

@@ -803,6 +803,28 @@
 }
 },
 {
+"slug": "hcl-valcea--babeni-37-2023",
+"path": "local/valcea/babeni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 37/2023 actualizarea Regulamentului de stabilire și aplicare a taxei de salubrizare la nivelul orașului Băbeni",
+"short": "HCL Băbeni nr. 37/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#44031",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-valcea--babeni-39-2023",
 "path": "local/valcea/babeni/2023/39",
 "kind": "local",
@@ -1400,6 +1422,29 @@
 }
 },
 {
+"slug": "hcl-valcea--babeni-66-2023",
+"path": "local/valcea/babeni/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 66/2023",
+"short": "HCL Băbeni nr. 66/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": null,
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-valcea--babeni-67-2023",
 "path": "local/valcea/babeni/2023/67",
 "kind": "local",
@@ -1463,6 +1508,28 @@
 "council_name": "Consiliul Local al Orașului Băbeni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--babeni-70-2023",
+"path": "local/valcea/babeni/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 70/2023 rectificarea bugetului local al orașului Băbeni pentru anul 2023",
+"short": "HCL Băbeni nr. 70/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#56517",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {
@@ -1844,6 +1911,28 @@
 }
 },
 {
+"slug": "hcl-valcea--babeni-89-2023",
+"path": "local/valcea/babeni/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 89/2023 aprobarea creditelor de angajament pentru realizarea obiectivului de investitii “Construirea de locuinte - NZEB pentru tinerii din ORASUL BABENI, judetul Valcea”",
+"short": "HCL Băbeni nr. 89/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-07",
+"latest": "2023-11-07",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#61464",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-valcea--babeni-91-2023",
 "path": "local/valcea/babeni/2023/91",
 "kind": "local",
@@ -1885,6 +1974,28 @@
 "council_name": "Consiliul Local al Orașului Băbeni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--babeni-93-2023",
+"path": "local/valcea/babeni/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 93/2023 validarea rectificării bugetului local al oraşului Băbeni pentru anul 2023, aprobată prin dispoziţia primarului oraşului Băbeni nr.491/07 noiembrie 2023",
+"short": "HCL Băbeni nr. 93/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#62426",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

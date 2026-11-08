@@ -3,6 +3,50 @@
 "shard": "local/alba/cugir/2021",
 "acts": [
 {
+"slug": "hcl-alba--cugir-226-2021",
+"path": "local/alba/cugir/2021/226",
+"kind": "local",
+"year": "2021",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 226/2021 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2022 în baza amenajamentului silvic și al prețurilor de referință pe anul 2022 pentru masa lemnoasă pe picior care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul local al orasului Cugir, județul Alba; Întrunit în ședința publică ordinară din data de 25 noiembrie 2021; Luând în dezbatere: -P",
+"short": "HCL Cugir nr. 226/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C45/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--cugir-229-2021",
+"path": "local/alba/cugir/2021/229",
+"kind": "local",
+"year": "2021",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Cugir nr. 229/2021 pentru completarea art. 43, alin. (3), lit. c) din HCL nr. 236/2020 privind aprobarea Regulamentului pentru concesionarea bunurilor imobile care aparțin domeniului public și privat al orașului Cugir Consiliul local al orasului Cugir, județul Alba; Întrunit în ședința publică ordinară din data de 25 noiembrie 2021; Luând în dezbatere: -Proiectul de hotărâre privind completarea art. 43, alin. (3), l",
+"short": "HCL Cugir nr. 229/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C45/P20",
+"council": "alba/cugir",
+"council_name": "Consiliul Local al Orașului Cugir",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-alba--cugir-246-2021",
 "path": "local/alba/cugir/2021/246",
 "kind": "local",

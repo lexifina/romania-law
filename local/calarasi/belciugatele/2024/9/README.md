@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Belciugatele nr. 9/2024 privind aprobarea aderării comunei Belciugatele la teritoriul eligibil al zonei pescărești VALEA MOSTIȘTEI reprezentată de Asociația VALEA MOSTIȘTEI (FLAG VALEA MOSTIȘTEI)
+
+HCL Belciugatele nr. 9/2024 · 1 versions, from 2024-02-22 (latest in force: 2024-02-22) · <https://emol.ro/belciugatele-cl/registru-hcl/142490>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-calarasi--belciugatele-9-2024` (tags `hcl-calarasi--belciugatele-9-2024/<day>`; `python tools/on.py <day> hcl-calarasi--belciugatele-9-2024`).
+
+## Decisions made by hand
+
+- HCL Belciugatele nr. 9/2024: listed from Consiliul Local al Comunei Belciugatele (emol.ro); metadata only for now: no document of it is held.
+- HCL Belciugatele nr. 9/2024: dated from 22 February 2024, the day the council's register gives it as published (adopted 8 February 2024).
+- HCL Belciugatele nr. 9/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

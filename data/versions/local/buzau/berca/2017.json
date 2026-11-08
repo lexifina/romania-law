@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/berca/2017",
+ "acts": [
+  {
+   "slug": "hcl-buzau--berca-29-2017",
+   "path": "local/buzau/berca/2017/29",
+   "short": "HCL Berca nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 29/2017 privind aprobarea metodologiei executarii lucrarilor tehnico – edilitare si de refacere a cailor publice sau spatiilor verzi din comuna Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/29_27.04.2017.pdf",
+     "sha256": "335ace43c56fcafa3f20db10f07bde6ae65adbcb0ec8c38fac8cf107be101af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-56-2017",
+   "path": "local/buzau/berca/2017/56",
+   "short": "HCL Berca nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 56/2017 privind aprobarea modificarii tarifelor pentru serviciile publice de salubrizare din comuna Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/56_31.07.2017.pdf",
+     "sha256": "15674680b50b9c4955938f73352d7c4a5ec80a18036b280dd56772da99d796f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-57-2017",
+   "path": "local/buzau/berca/2017/57",
+   "short": "HCL Berca nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 57/2017 privind reducerea taxei speciale de salubrizare pentru persoanele fizice din comuna Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/57_31.07.2017.pdf",
+     "sha256": "88fc39cc1dfcb633ae847838022b20d56feca04131548343dc9841319e67664f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-60-2017",
+   "path": "local/buzau/berca/2017/60",
+   "short": "HCL Berca nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 60/2017 privind aprobarea tarifelor pentru prestari servicii de vidanjare executate de SC APAPRIMA BERCA SRL",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/60_31.07.2017.pdf",
+     "sha256": "1345a7ed4ef8bcde2e034c270a12fabb2304dc1f3c49a956d00869ae61b66f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-61-2017",
+   "path": "local/buzau/berca/2017/61",
+   "short": "HCL Berca nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 61/2017 privind modificarea pretului la apa potabila a tarifului la canalizare – epurare in comuna Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/61_31.07.2017.pdf",
+     "sha256": "9b4c002d5c9619cdbc21fbbedcf67e4505abd5dad4eec98e76c0b92ad4252e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-77-2017",
+   "path": "local/buzau/berca/2017/77",
+   "short": "HCL Berca nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 77/2017 privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/77_31.10.2017.pdf",
+     "sha256": "c8cf85d019f26f55ed949d1e83404c60430e63280baade8819b9b857d1381b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-78-2017",
+   "path": "local/buzau/berca/2017/78",
+   "short": "HCL Berca nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 78/2017 privind aprobarea regulamentului utilizarii autobuzului scolar, proprietatea UAT Berca, destinat transportului elevilor din cadrul liceului Tehnologic Sf",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/78_31.10.2017.pdf",
+     "sha256": "81cd4b1e9bafe8c1e7fcb92d26e2b2bad02c8014d0de3fbbb232713b21ad21db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-96-2017",
+   "path": "local/buzau/berca/2017/96",
+   "short": "HCL Berca nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 96/2017 privind modificarea art.59 din anexa la HCL 29/2017 pentru aprobarea Metodologiei executarii lucrarilor tehnico-edilitare si de refacere a cailor publice",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/96_20.12.2017.pdf",
+     "sha256": "edcff7be0d4f319bff0d6c78cfb903bf448c07d61ec36261bdf77a43604a1d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-97-2017",
+   "path": "local/buzau/berca/2017/97",
+   "short": "HCL Berca nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 97/2017 privind stabilirea impozitelor, a taxelor locale si speciale, pentru anul 2018",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/97_20.12.2017.pdf",
+     "sha256": "9bcfadd1aa3bd4658dd6a7283f579a81196eea1ee56967e17cefe5dea56d2b7d"
+    }
+   ]
+  }
+ ]
+}

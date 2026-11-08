@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/iasi/targu-frumos/2023",
+ "acts": [
+  {
+   "slug": "hcl-iasi--targu-frumos-131-2023",
+   "path": "local/iasi/targu-frumos/2023/131",
+   "short": "HCL Târgu Frumos nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 131/2023 privind modificarea și completarea Hotărârii de Consiliu Local nr 150/24.11.2022 privind aprobarea Acordului de parteneriat între Unitatea Administrativ – Teritorială comuna Balș și Unitatea Administrativ – Teritorială orașul Târgu Frumos, județul Iași pentru implementarea proiectului ”Înființare rețea de canalizare în comuna Balș, județul Iași, în cadrul Planului Național de Redresare și Reziliență al României, Componenta 1 – Managementul Apei",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#60567",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24U8HuvpEpvpWslhdTH0DG4OXtWhDBMjgrcHxwcP6X6VD11IhwgGB/G/4605",
+     "sha256": "92bb48bcbe7c2494d093c1e477b9eba782a36574f5a7914a3979ae177844fbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-149-2023",
+   "path": "local/iasi/targu-frumos/2023/149",
+   "short": "HCL Târgu Frumos nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 149/2023 privind validarea Dispoziției nr.823/03.11.2023 emisă de primarul orașului Târgu Frumos privind rectificarea bugetului de venituri și cheltuieli al orașului Târgu Frumos, trimestrul IV, anul 2023",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64153",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24skd9LmdrsbMVeTWOeozgSe9bdH0e3pOhVOey0XYpKtuNNsNKz/kWi/4605",
+     "sha256": "41d718f2ff7017f2789b8ed1a49b3477efdd357683354d62964a6ed29a30610d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-150-2023",
+   "path": "local/iasi/targu-frumos/2023/150",
+   "short": "HCL Târgu Frumos nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 150/2023 pentru aprobarea participării Unității Administrativ Teritoriale Orașul Târgu Frumos în cadrul proiectului ,,BiblioHub Cotnari”, cu finanțare prin PNRR/2023, Componenta 7, Investiția 17 Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64157",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24mRHE6dKZGbPzM/z8pFowQ.FudRCZqAhJ7x8izvRVCyy7cu55zFcTK/4605",
+     "sha256": "3db662e7d17d2efee813ee6d6ab369b737261b81d3ecf4174c8a0ab120e8d427"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-152-2023",
+   "path": "local/iasi/targu-frumos/2023/152",
+   "short": "HCL Târgu Frumos nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 152/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7090bd351d8e5db61aa031a0a277cfc25b5b0041e78e6325c1ab12502628c2e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-153-2023",
+   "path": "local/iasi/targu-frumos/2023/153",
+   "short": "HCL Târgu Frumos nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 153/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a885c12e5099e535daf0481361a637e9c7694b4144fab4a51ad1e14c5c957d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-157-2023",
+   "path": "local/iasi/targu-frumos/2023/157",
+   "short": "HCL Târgu Frumos nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 157/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c34f5ac2f37f0bb750708a966ab4ec74d63b383151065540eb31be38d04b4a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-159-2023",
+   "path": "local/iasi/targu-frumos/2023/159",
+   "short": "HCL Târgu Frumos nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 159/2023 privind aprobarea bugetului necesar organizării evenimentelor ocazionate cu sfârșitul de an 2023 în orașul Târgu Frumos, județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64178",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24tskFpcw9vrjZykgJPRL2be4aBPg2cV0ikgNpVFzw8TBglEuw6XRx6/4605",
+     "sha256": "7bd4fe27d0ee6a36d3b665128c1984f26abb6dabcd523d75597c0309a38665d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-160-2023",
+   "path": "local/iasi/targu-frumos/2023/160",
+   "short": "HCL Târgu Frumos nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 160/2023 privind aprobarea implementarii etapei a II a pentru obiectivul de investitii cu denumirea „Reabilitare ,modernizare si extindere Gradinita cu Program Prelungit nr.1,Targu Frumos,judetul Iasi”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64190",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24PmBlywb7cm0.vsLflHTpN.FR1RjCGEgnxiWK24kB3ikVpiPuAh.6G/4605",
+     "sha256": "ad395c7aae6d2e2ff9b30ae7788eef347566bc22b2a0814086629fd326952901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-161-2023",
+   "path": "local/iasi/targu-frumos/2023/161",
+   "short": "HCL Târgu Frumos nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 161/2023 privind aprobarea prelungirii duratei proiectului in scopul finalizarii acestuia,din fonduri proprii, pentru obiectivul de investitii cu denumiirea „Reabilitare ,modernizare si extindere Gradinita cu Program Normal, Targu Frumos,judetul Iasi”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64192",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24QXX8BYhJjlZnAPe6U7HXNegNEBW7yK1TtHxBAdnQrx9HJ5yjyM8bm/4605",
+     "sha256": "25cf7e89e946a85d71a6789ea3c7015a4f23c264dfc81c74f286ac6e92622ef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-162-2023",
+   "path": "local/iasi/targu-frumos/2023/162",
+   "short": "HCL Târgu Frumos nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 162/2023 privind aprobarea participării UAT Oras Targu Frumos în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice cu proiectul ”CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRREA PRIMARIEI ORASULUI TARGU FRUMOS, JUDETUL IASI”, de aprobare a depunerii proiectului si de aprobare a Documentatiei tehnico-economice faza DALI pentru proiectul „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRREA PRIMARIEI ORASULUI TARGU FRUMOS, JUDETUL IASI”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64918",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24YYkT8/G7nQARckar6LXBzepFLW0DC3oV9bHNEOY6rhEYkxGmOSUvS/4605",
+     "sha256": "494fbbd503aa9367d0a43aba11cbb3a60d068fe78bdade147ea799556ad27a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-163-2023",
+   "path": "local/iasi/targu-frumos/2023/163",
+   "short": "HCL Târgu Frumos nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 163/2023 privind aprobarea participării UAT Orasul Targu Frumos în cadrul Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice cu proiectul ” CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA UPU A ORASULUI TARGU FRUMOS, JUDETUL IASI”, de aprobare a depunerii proiectului si de aprobare a Documentatiei tehnico-economice faza DALI pentru proiectul „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA UPU A ORASULUI TARGU FRUMOS, JUDETUL IASI”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#64944",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%240v9RDXseEaJqXQESdwEp1eDBAZcNgDo4hcpaUW5GNuRdrKvJjt6eq/4605",
+     "sha256": "938ed1ca18a7c54bc9b61165826996b51ffb5a95e7f5ff2fbcbe2977055ce01d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-30-2023",
+   "path": "local/iasi/targu-frumos/2023/30",
+   "short": "HCL Târgu Frumos nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 30/2023 pentru modificarea Hotărârii nr. 142 din data de 24.11.2022, privind aprobarea dării în administrarea Serviciului de Telecomunicații Speciale a unor bunuri imobile - terenuri",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#46332",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ygGWql3JLNxfxq1zStAas.57qwk3.m4u2cRmeiYJbVPE4j3Ql3YEK/4605",
+     "sha256": "e474fad3c77baf80b74ce3f263d77808eeac48d02557d22bb64dd14d8c34502e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-32-2023",
+   "path": "local/iasi/targu-frumos/2023/32",
+   "short": "HCL Târgu Frumos nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 32/2023 privind aprobarea trecerii din domeniul privat al unității administrativ-teritoriale Orașul Târgu Frumos în domeniul public al acesteia a unui bun imobil – teren, înscris în CF nr. 60838 Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#46334",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24pyzTyUqmgo5jYrDtwsCMgug4g6DOF5YCdIeVB1PTvpJEFdKt9iYGm/4605",
+     "sha256": "bd6e64be3a4b0b081a39f6121983a45950a68181d21f3113d4742cc115729cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-34-2023",
+   "path": "local/iasi/targu-frumos/2023/34",
+   "short": "HCL Târgu Frumos nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 34/2023 privind aprobarea întocmirii unui raport de evaluare pentru suprafața de 252 m.p. teren înscris în cartea funciară nr. 61915 oraș Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#46336",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24uhBbg0r19kPINPrls2lb0.iI4Tgn1NievyRyJeJ5C4p7una4QZRbu/4605",
+     "sha256": "a0056d900a3b1944559bf4cad1b979be5860f7b7e3fa578a743d67d773acd83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-35-2023",
+   "path": "local/iasi/targu-frumos/2023/35",
+   "short": "HCL Târgu Frumos nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 35/2023 privind acordarea mandatului special reprezentantului UAT TÂRGU FRUMOS în AGA ADIS Iași în vederea aprobării modificării tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegare prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași,” aferent Contractului de delegare prin concesiune a operării stațiilor de transfer și a instalaţiilor de tratare a deşeurilor municipale în județul Iași nr. 371/22.05.2019, în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor” din județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#46341",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24.SSGk7Y/lVob5AgEi3sxheuL4SfWAgrUUNgwLdardQAs7RM1Ir19q/4605",
+     "sha256": "04646e05687a6b1bc464cbfbfeaee9be219053c03386e84bb1175320c8acc507"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-40-2023",
+   "path": "local/iasi/targu-frumos/2023/40",
+   "short": "HCL Târgu Frumos nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 40/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aae960b26d1f3da3118ee5725233b5f7c99ddc9f743e814afaaec25577f7059e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-47-2023",
+   "path": "local/iasi/targu-frumos/2023/47",
+   "short": "HCL Târgu Frumos nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 47/2023 privind aprobarea aderării UAT Orașul Târgu Frumos, județul Iași, la parteneriatul Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud-Vest, pentru perioada 2023 - 2027",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#48220",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24g2vKO6uWK1ZIhvIIEb6.2OSmNtrSb6N8ayJGqoi48zKkFqnvvJTIG/4605",
+     "sha256": "d633ca0cd07c2ab0afa83bb3237a4fc3ba842b011eb47c849324996951bc9d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-50-2023",
+   "path": "local/iasi/targu-frumos/2023/50",
+   "short": "HCL Târgu Frumos nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 50/2023 privind aprobarea acordării în folosință gratuită, pentru o perioadă determinată, a unui imobil aflat în proprietatea publică a orașului Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#48225",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24R4Ydfan.FOG1e3lpfYhlzu.5N/2uSX/kBHR0lgquLHDz3xIRIuUHa/4605",
+     "sha256": "3aed7b34dec8ba904c885fdea12afe474167990bfa4db7e7e7fae4db38e611bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-52-2023",
+   "path": "local/iasi/targu-frumos/2023/52",
+   "short": "HCL Târgu Frumos nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 52/2023 privind aprobarea întocmirii unui raport de evaluare pentru suprafața de 551 m.p. teren înscris în cartea funciară nr. 63288 oraș Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#48227",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24xun1zvO9PtbijTYCIkQdZenSpahxBjSuKw2BNwV1niJIlUEwNC0sK/4605",
+     "sha256": "dbc1b6b7cd2a6037d5be548fe067991f6d12d9430c01b616589c9e2fc49d9a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-55-2023",
+   "path": "local/iasi/targu-frumos/2023/55",
+   "short": "HCL Târgu Frumos nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 55/2023 privind aprobarea alipirii a două imobile – terenuri alăturate, în suprafaţă de 710 mp. și suprafața de 121 mp. situate în strada Tudor Vladimirescu, oraşul Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#48232",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Bwj13BhXcg7sIb2IPE7Z..JVaPPXmTxlEPQ3toIkkSwfdbcERVAMS/4605",
+     "sha256": "657cf04128f6cb73be95bd99ed5e01264f4b8c661bb95e067e79744e4139f1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-57-2023",
+   "path": "local/iasi/targu-frumos/2023/57",
+   "short": "HCL Târgu Frumos nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 57/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "063caae9bab2db99aa2f29ae80f64e89da499d554408a42989a6a8bdc5a5e625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-69-2023",
+   "path": "local/iasi/targu-frumos/2023/69",
+   "short": "HCL Târgu Frumos nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 69/2023 privind acceptarea Declarației de renunțare la dreptul de proprietate privată asupra unui bun imobil – teren în suprafață totală de 2.483 m.p. și aprobarea înscrierii acestuia în favoarea U.A.T Orașul Târgu Frumos, județul Iași, în domeniul privat",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#51239",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Edc/se9Kt8lycw/wLHZjf.2eGOAwZotnBqLFpcgYQPtlLnsDxlF/K/4605",
+     "sha256": "1c7a2d249f90c7e7d2a60d62143a45456bad7367af7e37c8d2db2a99e8aaa571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-70-2023",
+   "path": "local/iasi/targu-frumos/2023/70",
+   "short": "HCL Târgu Frumos nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 70/2023 privind aprobarea trecerii din domeniul privat al unității administrativ-teritoriale Orașul Târgu Frumos în domeniul public al acestuia a unui bun imobil- teren, înscris în cartea funciară nr. 61659",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#51247",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Wo36oL3WD0Pd58pwXTZXx.JWXZH1hrKjeQD9.lLy8N92Yj/5GLOQO/4605",
+     "sha256": "76b7d47835e857d22e09cc9673e6f5bce4dd907d9bd7f910274e2ffece9dc603"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-71-2023",
+   "path": "local/iasi/targu-frumos/2023/71",
+   "short": "HCL Târgu Frumos nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 71/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "76f8eca25d22d28d55e8b9030d095a89d67eddd3dada64f2e2c25ae0de61a1d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-74-2023",
+   "path": "local/iasi/targu-frumos/2023/74",
+   "short": "HCL Târgu Frumos nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 74/2023 pentru modificarea Hotărârii Consiliului local al orașului Târgu Frumos nr. 3/26.01.2023, privind acordarea normei de hrană în anul 2023 pentru personalul Biroului Poliției Locale din cadrul aparatului de specialitate al Primarului orașului Târgu Frumos, județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#51268",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24jQ9JYMh8XVyiknxszgpPhuwLvhCXx9zgUMnvoSn9OF5qaKnWbhIOe/4605",
+     "sha256": "d05f05abf4d2b7f19708ddc7272f8d2ac0cdb31bdf5a0fc8edf2503b9bcdfc8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-80-2023",
+   "path": "local/iasi/targu-frumos/2023/80",
+   "short": "HCL Târgu Frumos nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 80/2023 privind aprobarea fondurilor necesare in vederea finanțării unei tabere școlare pentru elevii din Orașul Târgu Frumos în anul 2023",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#53343",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24BgupYCMhawTwSOZpkPPDFOZTuY2d28tfu.vrs9lXDU/BpZPuDOtBW/4605",
+     "sha256": "901a74904aea8e3ff11d1407d13e80648bb6c02fa1eea434f8105d28a541bec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-84-2023",
+   "path": "local/iasi/targu-frumos/2023/84",
+   "short": "HCL Târgu Frumos nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 84/2023 privind modificarea Hotărârii nr. 87/28.07.2022 privind actualizarea componenței Comisiei locale de ordine publică a orașului Târgu Frumos",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#53358",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24eyJHO7Ln4fyOU5anJ429JuVx9tDjAD9CKv1YPsPC0Oo7X5WBK2VGq/4605",
+     "sha256": "d632edceebde3852a183eada14721ce85d29f26a048e3e9c76f88524be3bb8f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-95-2023",
+   "path": "local/iasi/targu-frumos/2023/95",
+   "short": "HCL Târgu Frumos nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 95/2023 privind acordarea mandatului special reprezentantului UAT TÂRGU FRUMOS în AGA ADIS Iași în vederea aprobării ajustării tarifului de colectare și transport a deșeurilor reziduale din deșeurile municipale din Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în cadrul Proiectului „Sistem de Management Integrat al Deșeurilor” din județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#55124",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ZAzTaefiVv.oALwxeyPHq.E3p9LOS2yT.iRmOw8aMUbK2ZB9/FyEG/4605",
+     "sha256": "b79c6315de4e5e3c9ab44764c0b60d40ea70f8c434cc24b08c06dc9969128e96"
+    }
+   ]
+  }
+ ]
+}

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-101-2026",
+   "path": "local/gorj/rovinari/2026/101",
+   "short": "HCL Rovinari nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 101/2026 privind interzicerea organizării și desfășurării activităților de jocuri de noroc în locații fizice pe raza orașului Rovinari, cu excepția jocurilor tradiționale de tip loterie aparținând Companiei Naționale \"Loteria Română\" SA și a operatorilor care gestionează doar activitatea de pariuri sportive",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 9,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea-Nr.101-din-27.08.2026.pdf",
+     "sha256": "b3c24a2ed29524b3ca962f3b800fe45f48b13f3b396c8a68da718acc98370645"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-11-2026",
    "path": "local/gorj/rovinari/2026/11",
    "short": "HCL Rovinari nr. 11/2026",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea_Nr.12_din_29.01.2026.pdf",
      "sha256": "28df21a28b822283052a40bf01e25e04c2590bba32b770ed6306af4d555cd375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-131-2026",
+   "path": "local/gorj/rovinari/2026/131",
+   "short": "HCL Rovinari nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 131/2026 privind îndreptarea erorii materiale din Regulamentul de organizare și funcționare a serviciului de zi ”Centrul de zi de socializare și petrecere a timpului liber (tip club)- Clubul Seniorilor aprobat prin Hotărârea Consiliului Local nr.98/27.08.2026",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 6,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea-Nr.131-din-29.09.2026.pdf",
+     "sha256": "a052b547e09ccffdf324e3b0b5a7f05f80a78afacca2342fceb5550ddc47a177"
     }
    ]
   },
@@ -723,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--rovinari-61-2026",
+   "path": "local/gorj/rovinari/2026/61",
+   "short": "HCL Rovinari nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 61/2026 privind actualizarea Regulamentului de organizare și funcționare a serviciului de zi ”Centrul de zi de socializare și petrecere a timpului liber (tip club)- Clubul Seniorilor",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 6,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea_Nr.61_din_28.05.2026.pdf",
+     "sha256": "4105575c1b76fb3fbf6d31ad6ec3fea7639a712f4be1d7a9531c4381dfd024e1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--rovinari-7-2026",
    "path": "local/gorj/rovinari/2026/7",
    "short": "HCL Rovinari nr. 7/2026",
@@ -764,6 +809,36 @@
      "units": 1,
      "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea_Nr.9_din_29.01.2026.pdf",
      "sha256": "9bccd183a4756458b701e060b1ebaf335292d5730dc7da63b3a88373b6aadd0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-91-2026",
+   "path": "local/gorj/rovinari/2026/91",
+   "short": "HCL Rovinari nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 91/2026 privind aprobarea tarifului orar/agent de pază practicat de Societatea Serviciul de Bază Pază și Protecție SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea-Nr.91-din-30.07.2026-1.pdf",
+     "sha256": "c41b9c7cf8cab870370ffc92d135fbc8c024a0dda0b9c522b39ae4f57e7c8cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--rovinari-98-2026",
+   "path": "local/gorj/rovinari/2026/98",
+   "short": "HCL Rovinari nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 98/2026 privind aprobarea Regulamentului de organizare și funcționare a serviciului de zi ”Centrul de zi de socializare și petrecere a timpului liber (tip club)- Clubul Seniorilor",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2026-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 6,
+     "source_url": "https://primariarovinari.ro/storage/formidable/172/Hotararea-Nr.98-din-27.08.2026.pdf",
+     "sha256": "5867468fb1c86396df9296036089ff2e7d24b5503f77ea3354bb4d3e9227e885"
     }
    ]
   }

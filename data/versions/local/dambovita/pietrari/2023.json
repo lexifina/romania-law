@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/pietrari/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--pietrari-35-2023",
+   "path": "local/dambovita/pietrari/2023/35",
+   "short": "HCL Pietrari nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 35/2023 privind aprobarea documentului strategic,,Plan de Mobilitate Urband Durabild pentru M u nicipiul TArgovigte 2021 -2030\" Consiliul local al comunei Pietrarijudetul Dambovita intrunit in sedinta ordinara astarzi 17.08.2023",
+   "url": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR.35.pdf",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primariapietrari.ro/wp-content/uploads/2023/09/HOTARAREA-NR.35.pdf",
+     "sha256": "77b279103616ee75c04c40afc998026ea41d7da97be9d344dd4a5802a0e43210"
+    }
+   ]
+  }
+ ]
+}

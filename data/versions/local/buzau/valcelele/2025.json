@@ -3,6 +3,351 @@
  "shard": "local/buzau/valcelele/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--valcelele-1-2025",
+   "path": "local/buzau/valcelele/2025/1",
+   "short": "HCL Vâlcelele nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 1/2025 privind aprobarea înființării serviciului public de distribuție a gazelor naturale în comuna Vâlcelele, județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195406",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-10-2025",
+   "path": "local/buzau/valcelele/2025/10",
+   "short": "HCL Vâlcelele nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 10/2025 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții „Înființare rețea inteligentă de distribuție a gazelor naturale în comuna Vâlcelele, județul Buzău”",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195910",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-11-2025",
+   "path": "local/buzau/valcelele/2025/11",
+   "short": "HCL Vâlcelele nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 11/2025 privind aprobarea execuției bugetare a comunei Vâlcelele la 31 decembrie 2024",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210097",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-12-2025",
+   "path": "local/buzau/valcelele/2025/12",
+   "short": "HCL Vâlcelele nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 12/2025 privind aprobarea participării UAT - Comuna Vâlcelele la Programul național multianual privind finanțarea actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210114",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-13-2025",
+   "path": "local/buzau/valcelele/2025/13",
+   "short": "HCL Vâlcelele nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 13/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii combaterii riscului de sărăcie și excluziune socială ce va fi realizat în anul 2025 la nivelul Comunei Vâlcelele, județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210150",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-14-2025",
+   "path": "local/buzau/valcelele/2025/14",
+   "short": "HCL Vâlcelele nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 14/2025 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945 precum și celor deportate în străinătate ori constituite în prizonieri",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210151",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-15-2025",
+   "path": "local/buzau/valcelele/2025/15",
+   "short": "HCL Vâlcelele nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 15/2025 privind aprobarea Bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210152",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-16-2025",
+   "path": "local/buzau/valcelele/2025/16",
+   "short": "HCL Vâlcelele nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 16/2025 privind actualizarea Programului Anual al Achizițiilor Publice pentru anul bugetar 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210153",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-17-2025",
+   "path": "local/buzau/valcelele/2025/17",
+   "short": "HCL Vâlcelele nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 17/2025 privind utilizarea excedentului bugetar din anii precedenți, aferent sursei A în sumă de 742.360 lei și validarea dispoziției nr. 6/14.01.2025 a Primarului Comunei Vâlcelele privind aprobarea utilizării în anul 2025 a excedentului din anii precedenți pentru sursa E-Autofinanțate, pentru finanțarea cheltuielilor secțiunii de funcționare și secțiunii dezvoltare",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210154",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-19-2025",
+   "path": "local/buzau/valcelele/2025/19",
+   "short": "HCL Vâlcelele nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 19/2025 privind aprobarea execuției bugetare a comunei Vâlcelele la 31 Martie 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210182",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-2-2025",
+   "path": "local/buzau/valcelele/2025/2",
+   "short": "HCL Vâlcelele nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 2/2025 privind aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiții ''Înființare rețea inteligentă de distribuție a gazelor naturale în comuna Vâlcelele, județul Buzău''",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195407",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-20-2025",
+   "path": "local/buzau/valcelele/2025/20",
+   "short": "HCL Vâlcelele nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 20/2025 privind încetarea contractului de finanțare nr. 133/18.06.2024 pentru obiectivul de investiții ''REABILITAREA ȘI DOTAREA CENTRULUI DE ZI PENTRU COPIII EXPUȘI RISCULUI DE A FI SEPARAȚI DE FAMILIE, ÎN COMUNA VÂLCELELE, JUDEȚUL BUZĂU'', restituirea sumelor rambursate din fonduri PNRR și susținerea din bugetul local a cheltuielilor deja efectuate pentru implementarea proiectului",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210184",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-21-2025",
+   "path": "local/buzau/valcelele/2025/21",
+   "short": "HCL Vâlcelele nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 21/2025 privind aprobarea regulamentului și caietului de sarcini pentru delegarea serviciului de salubrizare a localității Vâlcelele în anul 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210203",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-22-2025",
+   "path": "local/buzau/valcelele/2025/22",
+   "short": "HCL Vâlcelele nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 22/2025 privind aprobarea contractului de delegare a gestiunii activității de colectare separată și transportul separat al deșeurilor municipale, al deșeurilor similare în UAT Vâlcelele - județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/210205",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/210205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-23-2025",
+   "path": "local/buzau/valcelele/2025/23",
+   "short": "HCL Vâlcelele nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 23/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunități rurale - facilitatea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229412",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-24-2025",
+   "path": "local/buzau/valcelele/2025/24",
+   "short": "HCL Vâlcelele nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 24/2025 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism și amenajarea teritoriului",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229418",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-26-2025",
+   "path": "local/buzau/valcelele/2025/26",
+   "short": "HCL Vâlcelele nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 26/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Reabilitare prin asfaltare drumuri locale din comuna Vâlcelele, județul Buzău”, aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229443",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-27-2025",
+   "path": "local/buzau/valcelele/2025/27",
+   "short": "HCL Vâlcelele nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 27/2025 privind modificarea hotărârii nr. 61/18.12.2024 referitoare la stabilirea impozitelor și taxelor locale, precum și taxele speciale pentru anul 2025 în comuna Vâlcelele, județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229448",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-28-2025",
+   "path": "local/buzau/valcelele/2025/28",
+   "short": "HCL Vâlcelele nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 28/2025 privind aprobarea solicitării prelungirii scrisorii de garanție din partea Fondului Național de Garantare a Creditelor pentru Întreprinderi Mici și Mijlocii - SA pentru contractul de finanțare nerambursabilă nr. C0430A00F012121000154 din proiectul Modernizare drumuri de exploatare agricolă în comuna Vâlcelele, județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229468",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-3-2025",
+   "path": "local/buzau/valcelele/2025/3",
+   "short": "HCL Vâlcelele nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 3/2025 privind aprobarea indicatorilor tehnico-economici actualizați ai obiectivului de investiții - Reabilitarea și dotarea centrului de zi pentru copiii expuși riscului de a fi separați de familie, în comuna Vălcelele, județul Buzău",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195409",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-31-2025",
+   "path": "local/buzau/valcelele/2025/31",
+   "short": "HCL Vâlcelele nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 31/2025 privind rectificarea bugetului local de venituri și cheltuieli al Comunei Vâlcelele pe luna iulie 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229724",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-32-2025",
+   "path": "local/buzau/valcelele/2025/32",
+   "short": "HCL Vâlcelele nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 32/2025 privind avizarea documentațiilor de atribuire necesare delegării gestiunii activității de eliminare, prin depozitare, a deșeurilor municipale și de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale și acordarea unor mandate speciale pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”Eco Buzău 2009”",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229725",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-34-2025",
+   "path": "local/buzau/valcelele/2025/34",
+   "short": "HCL Vâlcelele nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 34/2025 privind aprobarea execuției bugetare a comunei Vâlcelele la 30 iunie 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/229732",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229732",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valcelele-35-2025",
    "path": "local/buzau/valcelele/2025/35",
    "short": "HCL Vâlcelele nr. 35/2025",
@@ -73,6 +418,21 @@
      "from": "2025-10-14",
      "units": 1,
      "source_url": "https://emol.ro/valcelele-bz/registru-hcl/229759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-4-2025",
+   "path": "local/buzau/valcelele/2025/4",
+   "short": "HCL Vâlcelele nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 4/2025 privind aprobarea alegerii președintelui de ședință al Consiliului Local al Comunei Vâlcelele, pentru perioada FEBRUARIE-APRILIE 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195857",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195857",
      "sha256": null
     }
    ]
@@ -228,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--valcelele-5-2025",
+   "path": "local/buzau/valcelele/2025/5",
+   "short": "HCL Vâlcelele nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 5/2025 privind stabilirea consumului lunar de carburanți pentru autovehiculele și utilajele care deservesc parcul auto al primăriei comunei Vâlcelele",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195876",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195876",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valcelele-50-2025",
    "path": "local/buzau/valcelele/2025/50",
    "short": "HCL Vâlcelele nr. 50/2025",
@@ -298,6 +673,51 @@
      "from": "2026-01-23",
      "units": 1,
      "source_url": "https://emol.ro/valcelele-bz/registru-hcl/245816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-6-2025",
+   "path": "local/buzau/valcelele/2025/6",
+   "short": "HCL Vâlcelele nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 6/2025 privind aprobarea planului de acțiuni pentru repartizarea orelor de muncă pentru persoanele apte de muncă din familie beneficiare de venit minim de incluziune pentru anul 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195877",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-8-2025",
+   "path": "local/buzau/valcelele/2025/8",
+   "short": "HCL Vâlcelele nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 8/2025 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Vâlcelele, județul Buzău, începând cu 1 FEBRUARIE 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195896",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-9-2025",
+   "path": "local/buzau/valcelele/2025/9",
+   "short": "HCL Vâlcelele nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 9/2025 privind neasumarea responsabilității de către consiliul local a organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor privind derularea măsurilor educative aferente programului pentru școli al României, în anii școlari 2027-2028 și 2028-2029",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/195909",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/195909",
      "sha256": null
     }
    ]

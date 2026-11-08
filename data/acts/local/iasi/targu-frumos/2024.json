@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/iasi/targu-frumos/2024",
+"acts": [
+{
+"slug": "hcl-iasi--targu-frumos-40-2024",
+"path": "local/iasi/targu-frumos/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 40/2024 privind aprobarea acordării unui suport alimentar pentru elevii din unitatea de învățământ preuniversitar Școala Gimnazială ”Ion Creangă” Târgu Frumos, inclusă în Programul national ”Masă sănătoasă” în anul 2024",
+"short": "HCL Târgu Frumos nr. 40/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#77479",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-89-2024",
+"path": "local/iasi/targu-frumos/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 89/2024 privind aprobarea alipirii a două suprafețe de teren proprietate privată a Orașului Târgu Frumos, județul Iași, înscrise în Cărțile Funciare nr. 60327 și nr. 64307 Târgu Frumos",
+"short": "HCL Târgu Frumos nr. 89/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#80512",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-169-2024",
+"path": "local/iasi/targu-frumos/2024/169",
+"kind": "local",
+"year": "2024",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 169/2024 privind aprobarea bugetului estimat necesar organizării manifestărilor dedicate zilei Unirii Principatelor Române - 24 ianuarie 2025",
+"short": "HCL Târgu Frumos nr. 169/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#91027",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-170-2024",
+"path": "local/iasi/targu-frumos/2024/170",
+"kind": "local",
+"year": "2024",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 170/2024 privind aprobarea însusirii în domeniul privat al orasului Târgu Frumos a suprafetei de 3775 mp teren, identificat cadastral T- 109, P-2898, situat în strada Lunca Bahlueț, oraşul Târgu Frumos",
+"short": "HCL Târgu Frumos nr. 170/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#91028",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-175-2024",
+"path": "local/iasi/targu-frumos/2024/175",
+"kind": "local",
+"year": "2024",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 175/2024 privind modificarea unor cheltuieli eligibile în cheltuieli neeligibile în cadrul proiectului Reabilitare, modernizare și extindere Grădiniță cu program prelungit, nr. 1, orașul Târgu Frumos, județul Iași",
+"short": "HCL Târgu Frumos nr. 175/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#91033",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

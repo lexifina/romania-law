@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/ghidfalau/2025",
+ "acts": [
+  {
+   "slug": "hcl-covasna--ghidfalau-55-2025",
+   "path": "local/covasna/ghidfalau/2025/55",
+   "short": "HCL Ghidfalău nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 55/2025 Privind aprobarea Regulamentului privind inregistrarea, evidenfa gi radierea mopedelor, cvadriciclurilor ugoare, tractoarelor agricole sau forestiere, remorcilor sau semiremorcilor destinate a fi tractate de aceste4 utilaielor interschimbabile agricole sau forestiere, masilor autopropulsate, vehiculelor lente gi vehiculelor cu tracliune animali de pe raza comunei Ghidfatiu Consiliul local al comun",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2065%20apr.%20regulament%20prv.%20inreg.,%20ev.,%20rediarea%20vechiculelor%20pe%20raza%20comunei.pdf",
+     "sha256": "50065e4871fd5e1002890dbd201c6ba4c291d1b08cc6be497095cb57bee231e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-85-2025",
+   "path": "local/covasna/ghidfalau/2025/85",
+   "short": "HCL Ghidfalău nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 85/2025 Privind modificarea HotirArii Consiliului Local m.1712016 privind stabilirea taxei speciale pentru utilizarea Casei mortuare Ghidfaliu gi aprobarea Regulamentului de aplicare a acesteia",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2086%20prv.%20mod%20hcl%2017.2016.pdf",
+     "sha256": "c8a51ec2b1d39671fc7e5ec98eff64d852db8e0713ab1f926bb59bdaf222c236"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-covasna--ghidfalau-95-2025",
+   "path": "local/covasna/ghidfalau/2025/95",
+   "short": "HCL Ghidfalău nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ghidfalău nr. 95/2025 privind acordarea unui mandat special reprezentantului comunei Ghidfaliu in Adunarea Generali a Asocialiei de dezvoltare intercomunitari \"sistem Integrat de Management al Degeurilor in iudelul Covasna\" in vederea aprobirii tarifelor pentru activitifile de salubizane, propuse de operatorul de salubrizare societatea ECO BIHOR S.R.L",
+   "url": "https://primariaghidfalau.ro/index.php/ro/monitorul-oficial-local",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaghidfalau.ro/DOKUMENTUMOK/HATAROZATOK/HATAROZATOK%202025/HCL%2095%20prv.%20acord.%20mandat%20spec.%20repr.%20comunei%20in%20asoc.%20intercom.%20ECO%20BIHOR.pdf",
+     "sha256": "8583d29ed346adafdbcf4a85f3b904a65132b5ef196e6de6a9b6da9bcbb2b77d"
+    }
+   ]
+  }
+ ]
+}

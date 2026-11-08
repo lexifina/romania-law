@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mures/iernut/2023",
+ "acts": [
+  {
+   "slug": "hcl-mures--iernut-35-2023",
+   "path": "local/mures/iernut/2023/35",
+   "short": "HCL Iernut nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 35/2023 privind actualizarea Regulamentului de eliberare a Acordului administratorului drumului public pentru efectuarea lucrărilor aferente rețelelor tehnico-edilitare realizate pe proprietățile aparținând domeniului public al orașului Iernut",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 5,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.035-27.02.2023-privind-Actualizarea-Regulamentului-de-eliberare-a-Acordului-administratorului-drumului-public-pentru-efectuarea.pdf",
+     "sha256": "9a2d69d0756b35cf9c8d14d41a7f29640a821eb90918dfb3c18c75b09f38e111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-57-2023",
+   "path": "local/mures/iernut/2023/57",
+   "short": "HCL Iernut nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 57/2023 privind stabilirea impozitelor și taxelor locale din orașul Iernut pentru anul 2024 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.057-24.04.2023-privind-stabilirea-impozitelor-si-taxelor-locale-din-orasul-Iernut-pentru-anul-2024.pdf",
+     "sha256": "66028a9ef438e60bf2b68512a29ca5ef1924413998879e1f3b8e5b6b5fabaa32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-79-2023",
+   "path": "local/mures/iernut/2023/79",
+   "short": "HCL Iernut nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 79/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ccd0bc0210eef0f43c8941bc6645554d1757b164941a15313f9d69b3251859fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-89-2023",
+   "path": "local/mures/iernut/2023/89",
+   "short": "HCL Iernut nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 89/2023 Nr. 89 din 12.06 2023 privind aprobarea contractării unui împrumut în valoare de 1.120.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 7,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.089-12.06.2023-privind-aprobarea-contractarii-unui-imprumut-in-valoare-de-1.120.000-lei-in-conformitate-cu-prevederile-art.-1.pdf",
+     "sha256": "eab441782ef448be453d65987a66f3465122a4d0888127d444c8713895f7d535"
+    }
+   ]
+  }
+ ]
+}

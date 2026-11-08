@@ -903,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-160-2024",
+   "path": "local/dambovita/ulmi/2024/160",
+   "short": "HCL Ulmi nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 160/2024 privind aprobarea inleslinirilor la plata pentru obligatiile fiscale restante privind anul fiscal 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#83955",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24meHySbyamGa3WL9flLDQC.RgMWlRCLn9t5nhAa9jfi9MtIJ1JeSt2/2348",
+     "sha256": "0fbe921be45b543a8b0ef17f5086e2462493c02fa8503cb100c1670fa088d350"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-161-2024",
    "path": "local/dambovita/ulmi/2024/161",
    "short": "HCL Ulmi nr. 161/2024",
@@ -1458,6 +1473,111 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-34-2024",
+   "path": "local/dambovita/ulmi/2024/34",
+   "short": "HCL Ulmi nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 34/2024 privind aprobarea inventarului terenurilor disponibile pentru punerea în aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările ulterioare, aflate în domeniul privat al comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71928",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24i9unTmzk3AvO/bAEc2/jCeEehnHcJerPtL.W4xjcEI8UAqx.CY.hK/2348",
+     "sha256": "4d3a1abd234dcce583ddfa5d47de75cc02e76500b2ef64784be44065cd6ea692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-43-2024",
+   "path": "local/dambovita/ulmi/2024/43",
+   "short": "HCL Ulmi nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 43/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a27b2b140fcdc030fd3eba8ffd291a4933a65b4004553d48b5bbbe4f52d3f932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-52-2024",
+   "path": "local/dambovita/ulmi/2024/52",
+   "short": "HCL Ulmi nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 52/2024 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2025",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72876",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24RIatJwOXJUGi7ZpQmQlTT.NGaMtAq.cgXv7SAfmgRgA3.C96JpY5G/2348",
+     "sha256": "53f054275611dc83474580bec569ed915fa28db0e447ec04d9366f89401a7511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-55-2024",
+   "path": "local/dambovita/ulmi/2024/55",
+   "short": "HCL Ulmi nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 55/2024 pentru modificarea si completarea HCL NR.124/28.11.2023 privind aprobarea taxelor și impozitelor locale în sarcina contribuabililor pentru anul fiscal 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74400",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%245sn3h2r3pcBJgYjrrJvVP.iBIm8/Dlvc7KcALp8BsX/r3r4oBjSmC/2348",
+     "sha256": "3ab3d6f41c5d902e13ea1eb86c263bf29f7428f46dad726bd2c363028d5509b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-58-2024",
+   "path": "local/dambovita/ulmi/2024/58",
+   "short": "HCL Ulmi nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 58/2024 privind rectificarea bugetului local si modificarea programului de investitii pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76218",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24qruJZ9FZL2RVmHb90XqzAecLmJJPQ7iV0/LWYL.T8bse9twRB05bO/2348",
+     "sha256": "186c96925d3ad5843177758da8d98c3e358b3dbae6a40c3996f43bc42de6b6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-63-2024",
+   "path": "local/dambovita/ulmi/2024/63",
+   "short": "HCL Ulmi nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 63/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77578",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24neoL1zH6v0knKCHNGHm7rekIEDfQaYmi7ClAs3pc.lu3KGevEg5Eu/2348",
+     "sha256": "8eb6c58e2165d00d5e0a57e42a86ddff66efbdce10857e534d13a46b9b4873b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-65-2024",
+   "path": "local/dambovita/ulmi/2024/65",
+   "short": "HCL Ulmi nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 65/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0de95f328a6c719a902f7e0de4499f9785e71d8a3de42ebbf61aa58833a6faeb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-73-2024",
    "path": "local/dambovita/ulmi/2024/73",
    "short": "HCL Ulmi nr. 73/2024",
@@ -1559,6 +1679,36 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#79637",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-80-2024",
+   "path": "local/dambovita/ulmi/2024/80",
+   "short": "HCL Ulmi nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 80/2024 privind modificarea Regulamentului pentru stabilirea metodologiei cadru de atribuire a terenurilor în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, aprobat prin HCL nr.66/2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#80077",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24/hgqGFqChGKWAWuLpWKqJeTHhOS96oc8tqD.wmub2.lJg7cElrzH./2348",
+     "sha256": "b94aa591b03c000222db4ef88e65590c5ff3e38f2ec9f3c5f1a86f75b348749d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-81-2024",
+   "path": "local/dambovita/ulmi/2024/81",
+   "short": "HCL Ulmi nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 81/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1117b8a5dbb707494bf3431e9da8a69fec08553e21856e0babd924ce590c113a"
     }
    ]
   },

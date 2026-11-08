@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-121-2023",
+   "path": "local/tulcea/sulina/2023/121",
+   "short": "HCL Sulina nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 121/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024 (conține anexe)",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL121din2023_taxe_locale_2024.pdf",
+     "sha256": "a9cf4b933946c3ff829f9530a37060d6c1be6b6c62829ab59cb0f68ecb2eccec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-123-2023",
+   "path": "local/tulcea/sulina/2023/123",
+   "short": "HCL Sulina nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 123/2023 privind stabilirea taxelor pentru activitatea autofinanțată „PIAȚĂ“, pentru anul 2024 (conține anexe)",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL123din2023_taxe_piata2024.pdf",
+     "sha256": "e9029b77287129a4154494ffd63b6f5a2467763458955eb856c7c5844f73c6fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-17-2023",
+   "path": "local/tulcea/sulina/2023/17",
+   "short": "HCL Sulina nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 17/2023 privind aprobarea cotizației anuale pe anul 2023 privind susținerea cheltuielilor materiale și salariale ocazionate de funcționarea Compartimentului de urbanism și amenajarea teritoriului din cadrul Asociației de Dezvoltare Intercomunitară Consorțiul Zonal Topol",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL17din2023_cotizatie_consortiu_Topoloveni.pdf",
+     "sha256": "be1579b44b9413321ddcbd5820290bd903169008e044b927d3604ce178b7b750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-19-2023",
+   "path": "local/tulcea/sulina/2023/19",
+   "short": "HCL Sulina nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 19/2023",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+     "sha256": "90b4c7899868f3d5de697f260b3bd4f4004c25d1b9761b77c64665d487d0cacc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-24-2023",
+   "path": "local/tulcea/sulina/2023/24",
+   "short": "HCL Sulina nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 24/2023",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+     "sha256": "ba1d561145579d4e7a46ace206cce8aad8c4f730326569f4b72c66486f9955a5"
+    }
+   ]
+  }
+ ]
+}

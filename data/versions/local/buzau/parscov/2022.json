@@ -3,6 +3,126 @@
  "shard": "local/buzau/parscov/2022",
  "acts": [
   {
+   "slug": "hcl-buzau--parscov-22-2022",
+   "path": "local/buzau/parscov/2022/22",
+   "short": "HCL Pârscov nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 22/2022 privind aprobarea rectificării bugetului comunei Pârscov, judeţul Buzău, pentru anul 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71064",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-23-2022",
+   "path": "local/buzau/parscov/2022/23",
+   "short": "HCL Pârscov nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 23/2022 privind aprobarea cotei corespunzătoare pierderilor de apă din sistemul de alimentare cu apă al comunei PÂRSCOV, Judeţul BUZĂU",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71065",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-24-2022",
+   "path": "local/buzau/parscov/2022/24",
+   "short": "HCL Pârscov nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 24/2022 privind aprobarea preţurilor la apa potabilă produsă, transportată şi distribuită, pentru serviciul public de alimentare cu apă",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71066",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-26-2022",
+   "path": "local/buzau/parscov/2022/26",
+   "short": "HCL Pârscov nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 26/2022 privind aprobarea rectificării bugetului comunei Pârscov, judeţul Buzău, pentru anul 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71075",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-27-2022",
+   "path": "local/buzau/parscov/2022/27",
+   "short": "HCL Pârscov nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 27/2022 privind aprobarea Planului anual de achiziţii publice de la nivelul UAT Comuna Pârscov, pentru anul 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71076",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-28-2022",
+   "path": "local/buzau/parscov/2022/28",
+   "short": "HCL Pârscov nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 28/2022 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza adminisatrativ-teritorială a comunei PĂRSCOV, județul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71792",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-29-2022",
+   "path": "local/buzau/parscov/2022/29",
+   "short": "HCL Pârscov nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 29/2022 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor care se află în situații de necesitate, aplicabil la nivelul comunei Pârscov, județul Buzău",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71793",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--parscov-30-2022",
+   "path": "local/buzau/parscov/2022/30",
+   "short": "HCL Pârscov nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 30/2022 privind aprobarea rectificării bugetului comunei Pârscov, judeţul Buzău,pentru anul 2022",
+   "url": "https://emol.ro/parscov-bz/registru-hcl/71795",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/parscov-bz/registru-hcl/71795",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--parscov-31-2022",
    "path": "local/buzau/parscov/2022/31",
    "short": "HCL Pârscov nr. 31/2022",

@@ -3,6 +3,66 @@
  "shard": "local/buzau/beceni/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--beceni-2-2024",
+   "path": "local/buzau/beceni/2024/2",
+   "short": "HCL Beceni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 2/2024 privind înregistrarea comunei Beceni, județul Buzău, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar,instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/137388",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/137388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-20-2024",
+   "path": "local/buzau/beceni/2024/20",
+   "short": "HCL Beceni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 20/2024 privind aprobarea criteriilor și metodologiei pentru acordarea ajutoarelor de urgență și ajutoarelor comunitare",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/150013",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/150013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-28-2024",
+   "path": "local/buzau/beceni/2024/28",
+   "short": "HCL Beceni nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 28/2024 pentru aprobarea Regulamentului de acordare a unui premiu financiar pentru cuplurile din comuna Beceni care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/153902",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/153902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-29-2024",
+   "path": "local/buzau/beceni/2024/29",
+   "short": "HCL Beceni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 29/2024 privind acordarea unui stimulent financiar pentru copiii nou-născuți",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/153903",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/153903",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-45-2024",
    "path": "local/buzau/beceni/2024/45",
    "short": "HCL Beceni nr. 45/2024",

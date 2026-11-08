@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/constanta/cobadin/2025",
+"acts": [
+{
+"slug": "hcl-constanta--cobadin-74-2025",
+"path": "local/constanta/cobadin/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 74/2025 privind stabilirea Taxelor și Impozitelor Locale ale Comunei Cobadin, jud. Constanța, pentru anul 2026",
+"short": "HCL Cobadin nr. 74/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

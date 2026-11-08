@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/babadag/2022",
+"acts": [
+{
+"slug": "hcl-tulcea--babadag-205-2022",
+"path": "local/tulcea/babadag/2022/205",
+"kind": "local",
+"year": "2022",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Babadag nr. 205/2022 Privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2023 Consiliul Local al Orasului Babadag, intrunit in sedinta ordinara din data de 22.12.2022, prezenti fiind un numar de 14 consilieri locali; Avand in vedere referatul de aprobare al primarului orasului Babadag, Caraman Georgian, inregistrat sub nr. 46425/08.11.2022, raportul de specialitate nr. 46426/08.11.2022, intocmit de dna",
+"short": "HCL Babadag nr. 205/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://primariababadag.ro/documente/hotararea-nr-205-22-12-2022-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-fiscal-2023/",
+"council": "tulcea/babadag",
+"council_name": "Consiliul Local al Orașului Babadag",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

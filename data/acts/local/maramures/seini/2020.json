@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2020",
+"acts": [
+{
+"slug": "hcl-maramures--seini-28-2020",
+"path": "local/maramures/seini/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 28/2020 privind aprobarea anularii accesoriilor aferente obligațiilor bugetare principale restante la data de 31 martie 2020 inclusiv si a facilitatilor fiscale la plata impozitului anual pe clădiri sau a taxei lunare pe clădiri",
+"short": "HCL Seini nr. 28/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2020/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

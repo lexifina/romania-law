@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/tulcea/babadag/2023",
+"acts": [
+{
+"slug": "hcl-tulcea--babadag-220-2023",
+"path": "local/tulcea/babadag/2023/220",
+"kind": "local",
+"year": "2023",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Babadag nr. 220/2023",
+"short": "HCL Babadag nr. 220/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": null,
+"council": "tulcea/babadag",
+"council_name": "Consiliul Local al Orașului Babadag",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

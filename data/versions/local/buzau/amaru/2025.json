@@ -3,6 +3,216 @@
  "shard": "local/buzau/amaru/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--amaru-1-2025",
+   "path": "local/buzau/amaru/2025/1",
+   "short": "HCL Amaru nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 1/2025 privind aprobarea planului de pază în comuna Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207371",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-10-2025",
+   "path": "local/buzau/amaru/2025/10",
+   "short": "HCL Amaru nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 10/2025 privind aprobarea Planului Urbanistic Zonal pentru „CONSTRUIRE 2 ADĂPOSTURI UTILAJE AGRICOLE ȘI ATELIER REPARAȚII UTILAJE” situate în comuna Amaru, satul Amaru, județul Buzău identificat prin nr. cadastral 27333",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207400",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-11-2025",
+   "path": "local/buzau/amaru/2025/11",
+   "short": "HCL Amaru nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 11/2025 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții „CONSOLIDARE ȘI CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII PUBLICE CASA DE CULTURĂ AMARU”, aprobat pentru finanțare prin programul național de consolidare a clădirilor cu risc seismic ridicat subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207401",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-13-2025",
+   "path": "local/buzau/amaru/2025/13",
+   "short": "HCL Amaru nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 13/2025 privind aprobarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207412",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-15-2025",
+   "path": "local/buzau/amaru/2025/15",
+   "short": "HCL Amaru nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 15/2025 privind aprobarea rectificării bugetului pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207415",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-16-2025",
+   "path": "local/buzau/amaru/2025/16",
+   "short": "HCL Amaru nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 16/2025 privind planul de achiziții publice al comunei Amaru, pe anul 2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207428",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-17-2025",
+   "path": "local/buzau/amaru/2025/17",
+   "short": "HCL Amaru nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 17/2025 privind aprobarea completării art.3, alin.2, cu punctul „d„ a HCL- nr.50/10.12.2021",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207444",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-18-2025",
+   "path": "local/buzau/amaru/2025/18",
+   "short": "HCL Amaru nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 18/2025 privind aprobarea indexării impozitelor și taxelor locale aplicabile în anul 2026, cu rata inflației de 5,6% la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230664",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-19-2025",
+   "path": "local/buzau/amaru/2025/19",
+   "short": "HCL Amaru nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 19/2025 privind desființarea serviciului de salubrizare - Consiliul Local Amaru - Serviciul Salubrizare, aflat în subordinea Consiliului Local al comunei Amaru",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230668",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-2-2025",
+   "path": "local/buzau/amaru/2025/2",
+   "short": "HCL Amaru nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 2/2025 privind aprobarea Planului de acțiuni sau lucrări de interes local pe anul 2025, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluzine și de către părinții apți de muncă, obligați la intreținerea copilului în condițiile stabilite de Codul Civil",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207372",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-20-2025",
+   "path": "local/buzau/amaru/2025/20",
+   "short": "HCL Amaru nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 20/2025 privind aprobarea Studiului de oportunitate, Regulamentului serviciului public de salubrizare al comunei Amaru, județul Buzău Caietului de sarcini și modelului Contractului de delegare a gestiunii activității de colectare separat și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230672",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-21-2025",
+   "path": "local/buzau/amaru/2025/21",
+   "short": "HCL Amaru nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 21/2025",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230673",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-23-2025",
+   "path": "local/buzau/amaru/2025/23",
+   "short": "HCL Amaru nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 23/2025 privind aprobarea Regulamentului de stabilire și încasare a taxei de salubrizare",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230675",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-24-2025",
+   "path": "local/buzau/amaru/2025/24",
+   "short": "HCL Amaru nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 24/2025 privind aprobarea organigramei și a statului de funcții, aprobarea salariului consilierului personal - studii superioare din cadrul aparatului de specialitate al Primarului comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/230676",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/230676",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-25-2025",
    "path": "local/buzau/amaru/2025/25",
    "short": "HCL Amaru nr. 25/2025",
@@ -73,6 +283,21 @@
      "from": "2025-10-21",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/230710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-3-2025",
+   "path": "local/buzau/amaru/2025/3",
+   "short": "HCL Amaru nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 3/2025 privind domeniile de activitate în care se poate presta munca în folosul comunității de către contravenienți",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207382",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207382",
      "sha256": null
     }
    ]
@@ -228,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-4-2025",
+   "path": "local/buzau/amaru/2025/4",
+   "short": "HCL Amaru nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 4/2025 privind aprobarea „Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2024, angajați ai primăriei comunei Amaru”, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207383",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207383",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-40-2025",
    "path": "local/buzau/amaru/2025/40",
    "short": "HCL Amaru nr. 40/2025",
@@ -298,6 +538,66 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/247868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-6-2025",
+   "path": "local/buzau/amaru/2025/6",
+   "short": "HCL Amaru nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 6/2025 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor și a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru anii școlari 2027-2028 și 2028-2029",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207392",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-7-2025",
+   "path": "local/buzau/amaru/2025/7",
+   "short": "HCL Amaru nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 7/2025 privind aprobarea programului de acțiune comunitară la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207393",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-8-2025",
+   "path": "local/buzau/amaru/2025/8",
+   "short": "HCL Amaru nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 8/2025 privind aprobarea încheierii contului de execuție bugetară pentru anul 2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207394",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-9-2025",
+   "path": "local/buzau/amaru/2025/9",
+   "short": "HCL Amaru nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 9/2025 privind casarea unor bunuri din patrimoniul comunei Amaru",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/207398",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/207398",
      "sha256": null
     }
    ]

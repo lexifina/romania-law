@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/doicesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--doicesti-2-2025",
+   "path": "local/dambovita/doicesti/2025/2",
+   "short": "HCL Doicești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 2/2025 privind aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind aprobarea taxei de salubrizare pentru utilizatorii casnici pentru anul 2025, initiat de primarul comunei Doicesti; inregistrat la nr.78/20.12.2024; Luand act de: - Adresa Asociatiei de Dezvoltare Intercomunitară ,,Mana",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-2-DIN-31.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-2-DIN-31.01.2025.pdf",
+     "sha256": "16802271e458e8310816fd894c38d7f200bc1af8be0082d4c59c48d5c6fe1478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-3-2025",
+   "path": "local/dambovita/doicesti/2025/3",
+   "short": "HCL Doicești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 3/2025 privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2025 CONSILIUL LOCAL AL COMUNEI DOICEȘTI, JUDEȚUL DÂMBOVIȚA Analizand: - Proiectul de hotarare privind aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2025, initiat de primarul comunei Doicesti; inregistrat la nr.79/20.12.2024; Luand act de: - Adresa Asociatiei de Dez",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-3-DIN-31.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR.-3-DIN-31.01.2025.pdf",
+     "sha256": "6eebfcae28139f6a69b5b5e88312e172855821c4740ff31c438d285a21837438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-44-2025",
+   "path": "local/dambovita/doicesti/2025/44",
+   "short": "HCL Doicești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 44/2025 privind aprobarea indicatorilor economici și cofinanțarea investiției „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LOCAL DE URBANISM AFERENT” al Comunei Doicești, Județul Dâmbovița CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizand: - Proiectul de hotarare privind aprobarea indicatorilor economici și cofinanțarea investiției „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LO",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.44-2025-actualizare-PUG-.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/08/HOTARARE-nr.44-2025-actualizare-PUG-.pdf",
+     "sha256": "6d6899e258368ff862186efa89ae0b86a7f0dece53d390f9fca3be23f06ef621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--doicesti-61-2025",
+   "path": "local/dambovita/doicesti/2025/61",
+   "short": "HCL Doicești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doicești nr. 61/2025 privind actualizarea devizului general pentru obiectivul de investiție „ACTUALIZARE PLAN URBANISTIC GENERAL ȘI REGULAMENT LOCAL DE URBANISM AFERENT” al Comunei Doicești, Județul Dâmbovița”, după modificarea cotei TVA la 21% începând cu 01.08.2025 CONSILIUL LOCAL AL COMUNEI DOICESTI, JUDETUL DAMBOVITA Analizând: -proiectul de hotărâre privind actualizarea devizului general pentru obiectivul de inve",
+   "url": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-61-din-27.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://primariadoicesti.ro/wp-content/uploads/2025/12/HCL-nr.-61-din-27.10.2025.pdf",
+     "sha256": "c432301be1a54fdfb480f6b8980f06333d860abe286aa6616f7a09a5930cba03"
+    }
+   ]
+  }
+ ]
+}

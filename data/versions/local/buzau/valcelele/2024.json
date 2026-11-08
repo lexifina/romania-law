@@ -3,6 +3,21 @@
  "shard": "local/buzau/valcelele/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--valcelele-1-2024",
+   "path": "local/buzau/valcelele/2024/1",
+   "short": "HCL Vâlcelele nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 1/2024 privind organizarea rețelei școlare a unităților de învățământ din comuna Vâlcelele jud. Buzău în anul școlar 2024 - 2025",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/137369",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/137369",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valcelele-10-2024",
    "path": "local/buzau/valcelele/2024/10",
    "short": "HCL Vâlcelele nr. 10/2024",
@@ -133,6 +148,21 @@
      "from": "2024-04-11",
      "units": 1,
      "source_url": "https://emol.ro/valcelele-bz/registru-hcl/152472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valcelele-2-2024",
+   "path": "local/buzau/valcelele/2024/2",
+   "short": "HCL Vâlcelele nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 2/2024 privind stabilirea consumului lunar de carburanți pentru autovehicolele și utilajele care deservesc parcul auto al Primăriei comunei Vâlcelele",
+   "url": "https://emol.ro/valcelele-bz/registru-hcl/152424",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcelele-bz/registru-hcl/152424",
      "sha256": null
     }
    ]

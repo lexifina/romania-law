@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-56-2023",
+"path": "local/brasov/ghimbav/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 56/2023 privind stabilirea taxelor și impozitelor locale pentru anul fiscal 2023 Vizualizare",
+"short": "HCL Ghimbav nr. 56/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-99-2023",
 "path": "local/brasov/ghimbav/2023/99",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Orașului Ghimbav",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-113-2023",
+"path": "local/brasov/ghimbav/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 113/2023 pentru aprobarea Regulamentului privind acordarea de premii elevilor / tinerilor / sportivilor care au obținut rezultate deosebite Vizualizare",
+"short": "HCL Ghimbav nr. 113/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {

@@ -3,6 +3,171 @@
  "shard": "local/buzau/amaru/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--amaru-11-2024",
+   "path": "local/buzau/amaru/2024/11",
+   "short": "HCL Amaru nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 11/2024 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții ”CONDUCTĂ ADUCȚIUNE ALIMENTARE CU APĂ A GOSPODĂRIEI DE APĂ AMARU, JUDEȚUL BUZĂU”",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/145006",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/145006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-12-2024",
+   "path": "local/buzau/amaru/2024/12",
+   "short": "HCL Amaru nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 12/2024 privind aprobarea proiectului tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții ”CONDUCTĂ ADUCȚIUNE ALIMENTARE CU APĂ A GOSPODĂRIEI DE APĂ AMARU, JUDEȚUL BUZĂU”",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/145007",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/145007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-13-2024",
+   "path": "local/buzau/amaru/2024/13",
+   "short": "HCL Amaru nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 13/2024 privind aprobarea regulamentului de autorizare a spălătoriilor auto, vulcanizărilor și service-urilor auto pe raza comunei Amaru",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/153128",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/153128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-15-2024",
+   "path": "local/buzau/amaru/2024/15",
+   "short": "HCL Amaru nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 15/2024 privind planul de achiziții publice al comunei Amaru pe anul 2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/153130",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/153130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-16-2024",
+   "path": "local/buzau/amaru/2024/16",
+   "short": "HCL Amaru nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 16/2024 privind aprobarea participării comunei Amaru, județul Buzău la \" Programul Administrația fondului pentru mediu\" vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate cu proiectul \" Conductă aducțiune pentru alimentarea cu apă a gospodăriei de apă \"",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/153131",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/153131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-17-2024",
+   "path": "local/buzau/amaru/2024/17",
+   "short": "HCL Amaru nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 17/2024 privind aprobarea indicatorilor tehnico-economici, faza Proiect Tehnic și Detalii de Execuție și a devizului general actualizat pentru obiectivul de investiții \" Înfințare rețea de canalizare în Comuna Amaru, județul Buzău-Satele Amaru și Dulbanu\" finanțat prin Programul național de investiții \" Anghel Saligny \" precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/153132",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/153132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-19-2024",
+   "path": "local/buzau/amaru/2024/19",
+   "short": "HCL Amaru nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 19/2024 privind aprobarea indicatorilor tehnico-economici, faza Proiect Tehnic și Detalii de Execuție, și a devizului general actualizat pentru obiectivul de investiții ''Înființare rețea de canalizare în comuna Amaru, județul Buzău - satele Amaru și Dulbanu'' finanțat prin Programul Național de Investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/173519",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/173519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-2-2024",
+   "path": "local/buzau/amaru/2024/2",
+   "short": "HCL Amaru nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 2/2024",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/144997",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/144997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-20-2024",
+   "path": "local/buzau/amaru/2024/20",
+   "short": "HCL Amaru nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 20/2024 privind aprobarea indexării impozitelor și taxelor locale aplicabile în anul 2025, cu rata inflației de 10,4% la nivelul comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/173520",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/173520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-28-2024",
+   "path": "local/buzau/amaru/2024/28",
+   "short": "HCL Amaru nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 28/2024 privind aprobarea „Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2024, angajați ai Primăriei comunei Amaru”, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/175394",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/175394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-3-2024",
+   "path": "local/buzau/amaru/2024/3",
+   "short": "HCL Amaru nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 3/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local pe anul 2024 pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr. 196/2016 privind venitul minim de incluziune și de către părinții apți de muncă obligați la întreținerea copilului în condțiile stabilite de Codul Civil",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/144998",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/144998",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-33-2024",
    "path": "local/buzau/amaru/2024/33",
    "short": "HCL Amaru nr. 33/2024",
@@ -258,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-5-2024",
+   "path": "local/buzau/amaru/2024/5",
+   "short": "HCL Amaru nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 5/2024 privind aprobarea încheierii contului de execuție bugetară pentru anul 2023",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/145000",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/145000",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-50-2024",
    "path": "local/buzau/amaru/2024/50",
    "short": "HCL Amaru nr. 50/2024",
@@ -298,6 +478,21 @@
      "from": "2025-02-05",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/188779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-7-2024",
+   "path": "local/buzau/amaru/2024/7",
+   "short": "HCL Amaru nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 7/2024 privind aprobarea „Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2023, angajați ai Primăriei comunei Amaru”, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/145002",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/145002",
      "sha256": null
     }
    ]

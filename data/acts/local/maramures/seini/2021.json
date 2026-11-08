@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2021",
+"acts": [
+{
+"slug": "hcl-maramures--seini-68-2021",
+"path": "local/maramures/seini/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 68/2021 privind aprobarea contractării unui împrumut în valoare de 3.758.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului Având în vedere temeiurile juridice, respectiv prevederile: a) art. 1 alin. (5), art. 120 și art. 121 alin. (1) și (2) din Constituția României",
+"short": "HCL Seini nr. 68/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-09-13",
+"latest": "2021-09-13",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

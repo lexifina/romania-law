@@ -3,6 +3,111 @@
  "shard": "local/buzau/luciu/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--luciu-1-2025",
+   "path": "local/buzau/luciu/2025/1",
+   "short": "HCL Luciu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 1/2025 privind aprobarea Strategiei anuale de achiziții publice a comunei Luciu în anul 2025",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197774",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-10-2025",
+   "path": "local/buzau/luciu/2025/10",
+   "short": "HCL Luciu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 10/2025 privind aprobarea bugetului local și a listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252832",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-12-2025",
+   "path": "local/buzau/luciu/2025/12",
+   "short": "HCL Luciu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 12/2025 privind aprobarea indicatorilor tehnico-economici actualizați, precum și a Devizului actualizat aferente obiectivului de investiții „Înființare Distribuție inteligentă de gaze naturale în Comuna Luciu, Județul Buzău”",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252834",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-17-2025",
+   "path": "local/buzau/luciu/2025/17",
+   "short": "HCL Luciu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 17/2025 privind completarea HCL nr. 8/10.02.2022 privind aprobarea Studiului de oportunitate, Regulamentului, Caietului de sarcini și contractului de delegare a gestiunii serviciului public de salubrizare al comunei Luciu, prin concesiune",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252845",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-2-2025",
+   "path": "local/buzau/luciu/2025/2",
+   "short": "HCL Luciu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 2/2025 privind aprobarea încheierii contului de execuție a bugetului local la 31.12.2023 și a bugetului din venituri proprii și subvenții",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197775",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-20-2025",
+   "path": "local/buzau/luciu/2025/20",
+   "short": "HCL Luciu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 20/2025 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții intitulat „ÎNFIINȚARE PLATFORMA PENTRU GUNOI DE GRAJD ÎN COMUNA LUCIU, JUDEȚUL BUZĂU”",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252848",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-26-2025",
+   "path": "local/buzau/luciu/2025/26",
+   "short": "HCL Luciu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 26/2025 privind aprobarea rectificării bugetului local și listei de investiții pe anul 2025 al comunei Luciu, județul Buzău",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/252862",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/252862",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-29-2025",
    "path": "local/buzau/luciu/2025/29",
    "short": "HCL Luciu nr. 29/2025",
@@ -13,6 +118,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/252866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-3-2025",
+   "path": "local/buzau/luciu/2025/3",
+   "short": "HCL Luciu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 3/2025 privind actualizarea tarifelor la serviciul de salubrizare - colectare, transport și depozitare gunoi menajer, pentru gospodării individuale, agenți economici și instituții publice",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197776",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197776",
      "sha256": null
     }
    ]
@@ -168,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-4-2025",
+   "path": "local/buzau/luciu/2025/4",
+   "short": "HCL Luciu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 4/2025 privind solicitarea constituirii unui drept de trecere în favoarea UAT - Comuna Luciu, județul Buzău, pentru unele sectoare din drumurile județene DJ 203 I și DJ 214 A, aflate în proprietatea publică a județului Buzău și în administrarea Consiliului Județean Buzău în vederea realizării obiectivului de investiții „ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA LUCIU, JUDEȚUL BUZĂU”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197811",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197811",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-40-2025",
    "path": "local/buzau/luciu/2025/40",
    "short": "HCL Luciu nr. 40/2025",
@@ -298,6 +433,81 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/245097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-5-2025",
+   "path": "local/buzau/luciu/2025/5",
+   "short": "HCL Luciu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 5/2025 privind aprobarea Planului de acțiuni/lucrări de interes local pentru repartizarea orelor de muncă, ce vor fi efectuate de către persoanele apte de muncă beneficiare de ajutor de incluziune pe anul 2025",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197812",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-6-2025",
+   "path": "local/buzau/luciu/2025/6",
+   "short": "HCL Luciu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 6/2025 privind stabilirea criteriilor și a metodologiei de acordare a ajutoarelor de urgență în baza prevederilor Legii nr. 196/2016 privind venitul minim de incluziune cu modificările și completările ulterioare, pentru persoanele singure și familiile defavorizate, aflate în situații de necesitate",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197813",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-7-2025",
+   "path": "local/buzau/luciu/2025/7",
+   "short": "HCL Luciu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 7/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Luciu, județul Buzău, pentru anul 2025",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197828",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-8-2025",
+   "path": "local/buzau/luciu/2025/8",
+   "short": "HCL Luciu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 8/2025 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României în perioada 2025-2029",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197829",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-9-2025",
+   "path": "local/buzau/luciu/2025/9",
+   "short": "HCL Luciu nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 9/2025 privind aprobarea indicatorilor tehnico-economici actualizați, precum și a Devizului General actualizat aferente obiectivului de investiții „Înființare Distribuție inteligentă de gaze naturale în comuna Luciu, județul Buzău”",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/197838",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/197838",
      "sha256": null
     }
    ]

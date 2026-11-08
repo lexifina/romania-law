@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/salaj/simleu-silvaniei/2014",
+"acts": [
+{
+"slug": "hcl-salaj--simleu-silvaniei-8-2014",
+"path": "local/salaj/simleu-silvaniei/2014/8",
+"kind": "local",
+"year": "2014",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 8/2014 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism sau de amenajare a teritoriului Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 29 ianuarie 2014; Având în vedere Expunerea de motive nr.897/2014 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.898/2014 al Serv",
+"short": "HCL Șimleu Silvaniei nr. 8/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-01-29",
+"latest": "2014-01-29",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2014/page/10/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-95-2014",
+"path": "local/salaj/simleu-silvaniei/2014/95",
+"kind": "local",
+"year": "2014",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 95/2014 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2015 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 decembrie 2014; Având în vedere Expunere",
+"short": "HCL Șimleu Silvaniei nr. 95/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-12-30",
+"latest": "2014-12-30",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2014/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

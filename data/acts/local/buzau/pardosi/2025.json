@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/pardosi/2025",
+"acts": [
+{
+"slug": "hcl-buzau--pardosi-33-2025",
+"path": "local/buzau/pardosi/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 33/2025 privind stabilirea și aprobarea impozitelor si taxelor locale, precum și a taxelor speciale pentru anul 2026",
+"short": "HCL Pardoși nr. 33/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-33-din-29.12.2025.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

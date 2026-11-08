@@ -3,6 +3,28 @@
 "shard": "local/buzau/naeni/2020",
 "acts": [
 {
+"slug": "hcl-buzau--naeni-1-2020",
+"path": "local/buzau/naeni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2020 privind închiderea exercițiului financiar bugetar la sfârșitul anului 2019",
+"short": "HCL Năeni nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/3691",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--naeni-2-2020",
 "path": "local/buzau/naeni/2020/2",
 "kind": "local",

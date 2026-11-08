@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-106-2026",
+   "path": "local/suceava/salcea/2026/106",
+   "short": "HCL Salcea nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 106/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0827eb6299b1f4eaaddcf25b3c8ed3e80f69e2ae0c011b1978133a6b35a8a778"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-107-2026",
+   "path": "local/suceava/salcea/2026/107",
+   "short": "HCL Salcea nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 107/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dd069036a27b8bc72414310d3eb8e23ed199b313d4e14ad116cdd6f4b84edb75"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-109-2026",
    "path": "local/suceava/salcea/2026/109",
    "short": "HCL Salcea nr. 109/2026",

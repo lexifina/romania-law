@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2013",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-3-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/3",
+   "short": "HCL Șimleu Silvaniei nr. 3/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 3/2013 pentru modificarea anexei nr.1 la Hotărârea Consiliului Local nr.90 din 20.12.2012 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2013 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/page/10/",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 7,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_003_09012013.pdf",
+     "sha256": "02ba421dd77de8fe75e53df6094c19f132b63c4ea6cdfc2b26bed14e5996ef53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-69-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/69",
+   "short": "HCL Șimleu Silvaniei nr. 69/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 69/2013 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 19 decembrie 2013; Având în vedere Expunerea de motive nr.13827/2013 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.13828/2013 al Serviciului Urbanism și Avizul",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_069_19122013.pdf",
+     "sha256": "a7f481847293cacc72371f6aa3ba5ec07d78d9f36d2d59ac3c09e4b50d746732"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-70-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/70",
+   "short": "HCL Șimleu Silvaniei nr. 70/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 70/2013 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2014 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 19 decembrie 2013; Având în vedere Expunere",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 14,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_070_19122013.pdf",
+     "sha256": "a7a1a9b83296f66a38e804b396353e23f551639fb40ca6af1dccf55582974a02"
+    }
+   ]
+  }
+ ]
+}

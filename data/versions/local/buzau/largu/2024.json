@@ -3,6 +3,141 @@
  "shard": "local/buzau/largu/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--largu-12-2024",
+   "path": "local/buzau/largu/2024/12",
+   "short": "HCL Largu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 12/2024 privind aprobarea participării UAT –Comuna LARGU la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/largu-bz/registru-hcl/146668",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/146668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-13-2024",
+   "path": "local/buzau/largu/2024/13",
+   "short": "HCL Largu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 13/2024 privind aprobarea planului de actiuni/lucrari de interes local ce se vor efectua in anul 2024 cu beneficiarii de venit minim de incluziune, care include componenta de ajutor minim de incluziune",
+   "url": "https://emol.ro/largu-bz/registru-hcl/146669",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/146669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-16-2024",
+   "path": "local/buzau/largu/2024/16",
+   "short": "HCL Largu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 16/2024 privind aprobarea bugetului de venituri şi cheltuieli al comunei Largu, judeţul Buzău pentru anul 2024, sursa A si sursa E",
+   "url": "https://emol.ro/largu-bz/registru-hcl/146672",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/146672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-17-2024",
+   "path": "local/buzau/largu/2024/17",
+   "short": "HCL Largu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 17/2024 privind aprobarea utilizării în anul 2024 a sumei de 69.6 mii lei din excedentul anilor precedenti al bugetului propriu pentru sectiunea de functionare din sursa E cat si sumei de 480.55 mii lei din excedentul anilor precedenti pentru sectiunea de dezvoltare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/146673",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/146673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-2-2024",
+   "path": "local/buzau/largu/2024/2",
+   "short": "HCL Largu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 2/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza comunei Largu, județul Buzău pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/largu-bz/registru-hcl/145395",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/145395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-27-2024",
+   "path": "local/buzau/largu/2024/27",
+   "short": "HCL Largu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 27/2024 privind aprobarea utilizării în anul 2024 a sumei de 32 mii lei din excedentul anilor precedenti pentru sectiunea de dezvoltare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204547",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-28-2024",
+   "path": "local/buzau/largu/2024/28",
+   "short": "HCL Largu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 28/2024 privind preluarea ca venit la bugetul local in anul 2024 a sumei de 70 mii lei din excedentul anilor precedenti din sursa E pentru sectiunea de functionare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204605",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-33-2024",
+   "path": "local/buzau/largu/2024/33",
+   "short": "HCL Largu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 33/2024",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204608",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-36-2024",
+   "path": "local/buzau/largu/2024/36",
+   "short": "HCL Largu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 36/2024 privind preluarea ca venit la bugetul local in anul 2024 a sumei de 98.7 mii lei din excedentul anilor precedenti din sursa E pentru sectiunea de functionare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/204611",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/204611",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-39-2024",
    "path": "local/buzau/largu/2024/39",
    "short": "HCL Largu nr. 39/2024",
@@ -223,6 +358,21 @@
      "from": "2025-04-28",
      "units": 1,
      "source_url": "https://emol.ro/largu-bz/registru-hcl/204552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-6-2024",
+   "path": "local/buzau/largu/2024/6",
+   "short": "HCL Largu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 6/2024 privind majorarea salariilor aferente functiilor din cadrul familiei ocupationale ”administratie” utilizate in aparatul de specialitate al primarului si a personalului contractual din cadrul primariei comunei Largu judetul Buzau",
+   "url": "https://emol.ro/largu-bz/registru-hcl/146662",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/146662",
      "sha256": null
     }
    ]

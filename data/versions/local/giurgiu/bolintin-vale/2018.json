@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--bolintin-vale-133-2018",
+   "path": "local/giurgiu/bolintin-vale/2018/133",
+   "short": "HCL Bolintin-Vale nr. 133/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Bolintin-Vale nr. 133/2018 privind menţinerea la nivelul anului anterior a taxelor şi impozitelor locale pentru anul fiscal 2019",
+   "url": "https://www.bolintin-vale.ro/monitorul-oficial-local/documente-si-informatii-financiare/hotarari-privind-stabilirea-taxelor-si-impozitelor-locale/",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://www.bolintin-vale.ro/wp-content/uploads/2019/01/Hotararea-nr-133-din-21.12.2018-Anexe.pdf",
+     "sha256": "b874ade478d8f4981634e66fd1a1554542f0a599b5727a01b96d23d92cff7bfe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--bolintin-vale-42-2018",
    "path": "local/giurgiu/bolintin-vale/2018/42",
    "short": "HCL Bolintin-Vale nr. 42/2018",

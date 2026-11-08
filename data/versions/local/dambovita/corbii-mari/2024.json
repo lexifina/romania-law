@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/corbii-mari/2024",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--corbii-mari-128-2024",
+   "path": "local/dambovita/corbii-mari/2024/128",
+   "short": "HCL Corbii Mari nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbii Mari nr. 128/2024 privind aprobarea Regulamentului de organizare si functionare al aparatului de specialitate al Primarului comunei Corbii Mari",
+   "url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/07/Hotararea-nr.-128-din-31.07.2024-privind-aprobarea-Regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate-al-Primarului-comunei-Corbii-Mari.pdf",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://primaria-corbiimari.ro/wp-content/uploads/2026/07/Hotararea-nr.-128-din-31.07.2024-privind-aprobarea-Regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate-al-Primarului-comunei-Corbii-Mari.pdf",
+     "sha256": "ffe957e617768231a9c7d719f973dae96a2a66b61f4e00cd05f4c431e938a0fe"
+    }
+   ]
+  }
+ ]
+}

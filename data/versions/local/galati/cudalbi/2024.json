@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/cudalbi/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--cudalbi-5-2024",
+   "path": "local/galati/cudalbi/2024/5",
+   "short": "HCL Cudalbi nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 5/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 13,
+     "source_url": null,
+     "sha256": "e06d279ab8c91faa4f307901c607c37874f71ae879c2381fa1078c61da4b1f62"
+    }
+   ]
+  }
+ ]
+}

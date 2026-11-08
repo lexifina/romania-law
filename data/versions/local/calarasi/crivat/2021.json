@@ -3,6 +3,471 @@
  "shard": "local/calarasi/crivat/2021",
  "acts": [
   {
+   "slug": "hcl-calarasi--crivat-10-2021",
+   "path": "local/calarasi/crivat/2021/10",
+   "short": "HCL Crivăț nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 10/2021 privind aprobarea executie bugetare pe trimestrul IV, anul 2020,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/21358",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/21358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-12-2021",
+   "path": "local/calarasi/crivat/2021/12",
+   "short": "HCL Crivăț nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 12/2021 privind aprobarea bugetului local al comunei Crivat , judetul Calarasi pe anul 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/22824",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/22824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-13-2021",
+   "path": "local/calarasi/crivat/2021/13",
+   "short": "HCL Crivăț nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 13/2021 privind aprobarea programul achizitiilor publice pe anul 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/22825",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/22825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-15-2021",
+   "path": "local/calarasi/crivat/2021/15",
+   "short": "HCL Crivăț nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 15/2021 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru semestrul I al anului 2020 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/23917",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/23917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-16-2021",
+   "path": "local/calarasi/crivat/2021/16",
+   "short": "HCL Crivăț nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 16/2021 privind aprobarea executie bugetare pe trimestrul I, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/24957",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/24957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-17-2021",
+   "path": "local/calarasi/crivat/2021/17",
+   "short": "HCL Crivăț nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 17/2021 privind aprobarea şi utilizarea excedentului bugetului local al comunei Crivat, din anul 2020 pentru anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/24958",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/24958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-18-2021",
+   "path": "local/calarasi/crivat/2021/18",
+   "short": "HCL Crivăț nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 18/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul I, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/24959",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/24959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-2-2021",
+   "path": "local/calarasi/crivat/2021/2",
+   "short": "HCL Crivăț nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 2/2021 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local alcomunei Crivat , județul Calarasi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/15274",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/15274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-20-2021",
+   "path": "local/calarasi/crivat/2021/20",
+   "short": "HCL Crivăț nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 20/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/25792",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/25792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-21-2021",
+   "path": "local/calarasi/crivat/2021/21",
+   "short": "HCL Crivăț nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 21/2021 privind actualizarea programului achizitiilor publice pe anul 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/26923",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/26923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-22-2021",
+   "path": "local/calarasi/crivat/2021/22",
+   "short": "HCL Crivăț nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 22/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/26924",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/26924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-25-2021",
+   "path": "local/calarasi/crivat/2021/25",
+   "short": "HCL Crivăț nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 25/2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/29627",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/29627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-27-2021",
+   "path": "local/calarasi/crivat/2021/27",
+   "short": "HCL Crivăț nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 27/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/30201",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/30201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-3-2021",
+   "path": "local/calarasi/crivat/2021/3",
+   "short": "HCL Crivăț nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 3/2021 privind acordarea dreptului de acces asupra unor suprafete de teren aparținând domeniului public si privat al UAT Comuna Crivat, pentru realizarea proiectului „Sistem informațional pentru managementul integrat al apelor–etapa II” dezvoltat de către Administrația Națională \"Apele Romane\"",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/15275",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/15275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-32-2021",
+   "path": "local/calarasi/crivat/2021/32",
+   "short": "HCL Crivăț nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 32/2021 privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/31623",
+   "versions": [
+    {
+     "from": "2021-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/31623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-33-2021",
+   "path": "local/calarasi/crivat/2021/33",
+   "short": "HCL Crivăț nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 33/2021 privind aprobarea executie bugetare pe trimestrul II, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/31624",
+   "versions": [
+    {
+     "from": "2021-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/31624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-39-2021",
+   "path": "local/calarasi/crivat/2021/39",
+   "short": "HCL Crivăț nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 39/2021 privind actualizarea programului achizitiilor publice pe anul 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/33849",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/33849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-4-2021",
+   "path": "local/calarasi/crivat/2021/4",
+   "short": "HCL Crivăț nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 4/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investitii,, Reabilitare si modernizare Gradinita Fat Frumos din comuna Crivat, judetul Calarasi,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/15276",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/15276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-41-2021",
+   "path": "local/calarasi/crivat/2021/41",
+   "short": "HCL Crivăț nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 41/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/34433",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/34433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-42-2021",
+   "path": "local/calarasi/crivat/2021/42",
+   "short": "HCL Crivăț nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 42/2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/35482",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/35482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-44-2021",
+   "path": "local/calarasi/crivat/2021/44",
+   "short": "HCL Crivăț nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 44/2021 privind aprobarea actualizarii indicatorilor tehnico-economici la obiectivul de investitii “Captare si aductiune izvor in comuna Crivat”,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/36129",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/36129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-47-2021",
+   "path": "local/calarasi/crivat/2021/47",
+   "short": "HCL Crivăț nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 47/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/36132",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/36132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-49-2021",
+   "path": "local/calarasi/crivat/2021/49",
+   "short": "HCL Crivăț nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 49/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/36134",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/36134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-5-2021",
+   "path": "local/calarasi/crivat/2021/5",
+   "short": "HCL Crivăț nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 5/2021 privind aprobarea planului de actiuni al persoanelor apte de munca beneficiare de ajutor social",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/15277",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/15277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-50-2021",
+   "path": "local/calarasi/crivat/2021/50",
+   "short": "HCL Crivăț nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 50/2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/37415",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/37415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-52-2021",
+   "path": "local/calarasi/crivat/2021/52",
+   "short": "HCL Crivăț nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 52/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul IV, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/37417",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/37417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-53-2021",
+   "path": "local/calarasi/crivat/2021/53",
+   "short": "HCL Crivăț nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 53/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul IV, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/37418",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/37418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-54-2021",
+   "path": "local/calarasi/crivat/2021/54",
+   "short": "HCL Crivăț nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 54/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul IV, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/38844",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/38844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-55-2021",
+   "path": "local/calarasi/crivat/2021/55",
+   "short": "HCL Crivăț nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 55/2021 privind actualizarea programului achizitiilor publice pe anul 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/38845",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/38845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-57-2021",
+   "path": "local/calarasi/crivat/2021/57",
+   "short": "HCL Crivăț nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 57/2021 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii “Reparatii sediu Primaria Crivat”,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/38847",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/38847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-59-2021",
+   "path": "local/calarasi/crivat/2021/59",
+   "short": "HCL Crivăț nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 59/2021 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul IV, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/40387",
+   "versions": [
+    {
+     "from": "2021-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/40387",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-62-2021",
    "path": "local/calarasi/crivat/2021/62",
    "short": "HCL Crivăț nr. 62/2021",
@@ -268,6 +733,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/45683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-8-2021",
+   "path": "local/calarasi/crivat/2021/8",
+   "short": "HCL Crivăț nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 8/2021 privind stabilirea unor taxe speciale pentru anul fiscal 2021",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/18627",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/18627",
      "sha256": null
     }
    ]

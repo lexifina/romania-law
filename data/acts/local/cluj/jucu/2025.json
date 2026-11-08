@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/jucu/2025",
+"acts": [
+{
+"slug": "hcl-cluj--jucu-250-2025",
+"path": "local/cluj/jucu/2025/250",
+"kind": "local",
+"year": "2025",
+"number": "250",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jucu nr. 250/2025 privind aprobarea impozitelor si taxelor locale pentru anul 2026 in Comuna Jucu",
+"short": "HCL Jucu nr. 250/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primariajucu.ro/wp-content/uploads/2026/01/Hotararea-nr.-250-din-23.12.2025-privind-aprobarea-impozitelor-si-taxelor-locale-pentru-anul-2026-in-Comuna-Jucu.pdf",
+"council": "cluj/jucu",
+"council_name": "Consiliul Local al Comunei Jucu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

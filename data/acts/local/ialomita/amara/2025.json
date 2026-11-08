@@ -23,6 +23,29 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcl-ialomita--amara-1600-2025",
+"path": "local/ialomita/amara/2025/1600",
+"kind": "local",
+"year": "2025",
+"number": "1600",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 1600/2025",
+"short": "HCL Amara nr. 1600/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": null,
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/blajani/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--blajani-43-2025",
+   "path": "local/buzau/blajani/2025/43",
+   "short": "HCL Blăjani nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 43/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul fiscal 2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-43-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-43-din-29.12.2025.pdf",
+     "sha256": "78b6ed05a19a8e38fad1f95f0380964b3bbfc58f3f28630c3fc8bb0f9999d39e"
+    }
+   ]
+  }
+ ]
+}

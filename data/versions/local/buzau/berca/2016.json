@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/berca/2016",
+ "acts": [
+  {
+   "slug": "hcl-buzau--berca-9-2016",
+   "path": "local/buzau/berca/2016/9",
+   "short": "HCL Berca nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 9/2016 pentru aprobarea Procedurii privind stabilirea modalitatii de identificare a beneficiarilor de stimulente educationale, acordate sub formsa tichetelor sociale copiilor proveniti din familiile defavorizate",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR.-9_25.02.2016.pdf",
+     "sha256": "ecbf184233e44efbacef8f662b02fcc00349ad047c1ce240ecc28c45755dd962"
+    }
+   ]
+  }
+ ]
+}

@@ -558,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-24-2026",
+   "path": "local/valcea/babeni/2026/24",
+   "short": "HCL Băbeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 24/2026 aprobarea/neaprobarea desfășurării activității de jocuri de noroc pe raza administrativ- teritorială a orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#119103",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24EYb8FkyPIxT76yVJF6dBdezabzFMy39w45dAf1kGPQTuMiVCQCvdS/4247",
+     "sha256": "371950d81d8b261b1dc791dcbb300b8ff6537ed4781990816affd2ead2e9949f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-25-2026",
    "path": "local/valcea/babeni/2026/25",
    "short": "HCL Băbeni nr. 25/2026",
@@ -644,6 +659,21 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#115024",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-30-2026",
+   "path": "local/valcea/babeni/2026/30",
+   "short": "HCL Băbeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 30/2026 actualizarea cheltuielilor aferente proiectului « CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIREA SCOLII DIN LOCALITATEA VALEA MARE, ORAS BABENI, JUDETUL VALCEA »",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#120686",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24jyAcXAmZLGLsmFLJiW8WTeI74vMPcjaxuorW42X53PoInZn8J7iCe/4247",
+     "sha256": "b834b124ccb74379dda0f99cbdce617e4707a54bb328da3d0c6c4cf271338ea6"
     }
    ]
   },
@@ -873,6 +903,51 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-45-2026",
+   "path": "local/valcea/babeni/2026/45",
+   "short": "HCL Băbeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 45/2026 aprobarea îndreptării unor erori materiale a limitelor intravilan/extravilan în Planul Urbanistic General al orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#119466",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ibRI6Idjav9Yl9qCMcHStuqUTR4KJdQQCsn6qiTcwzypSUkqfVOai/4247",
+     "sha256": "dc2bac92ba55448c5cc78ea90fe3d93aef1cd41e65686dca40abcade8041e888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-47-2026",
+   "path": "local/valcea/babeni/2026/47",
+   "short": "HCL Băbeni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 47/2026 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a gestiunii unor activități componente ale serviciului de salubrizare (colectare, transport, transfer și operare CAV-uri) prin concesiune al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară ADISSL Vâlcea - Județul Vâlcea",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#120953",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24A7mok40RX1fDU4VwkmsDWuHNyyueSVxh2tAXQPv2voLabGyrChRpi/4247",
+     "sha256": "a68b617d1726a77bf8cdbc87adb97d22111766c153febbc3da450f96f52f1ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-48-2026",
+   "path": "local/valcea/babeni/2026/48",
+   "short": "HCL Băbeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 48/2026 aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a a serviciului de operare a Centrului de Management Integrat al Deșeurilor Roești, a Stațiilor de sortare Râureni și Brezoi, Stație de compostare Râureni, activități componente ale serviciului de salubrizare al unităților administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitara ADISL a județului Vâlcea",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#120954",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24bpShIFOelQ.uDYMBXT8hr.jJwi8xR6c2vtlI5/xoQrRbeMvTKSKnW/4247",
+     "sha256": "b8c0dac8b74055fa051912898a867bfef457a360bcfecbb59d86c78a69d8beb5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-49-2026",
    "path": "local/valcea/babeni/2026/49",
    "short": "HCL Băbeni nr. 49/2026",
@@ -993,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-56-2026",
+   "path": "local/valcea/babeni/2026/56",
+   "short": "HCL Băbeni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 56/2026 aprobarea creditelor de angajament pentru realizarea unor obiective de investitii",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#122048",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24myxFbmI7.IGSVp/1MgDZ5O2FB0z8VGMWXYj3Tvc.GvOcAGLa3C.N6/4247",
+     "sha256": "98c05823af583514b1cc1b65b06dff710e743daf3e5e1454d18ca86b435d9bd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-57-2026",
+   "path": "local/valcea/babeni/2026/57",
+   "short": "HCL Băbeni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 57/2026 aprobarea utilizării sumei de 3.178.900 lei in anul 2026, din excedentul bugetului local rezultat la încheierea exerciţiului bugetar 2025 pentru finanțarea unor cheltuieli ale secțiunii de dezvoltare",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#122049",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cGr4KJYiynnDdt9mjWdQheM.NKpa6YT.tkSOCWlr.iUnOLDsmv0w./4247",
+     "sha256": "e5f869cb0749887be887d4eb538aa5848336f822d4a49fde8c36d464bec9ae7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-59-2026",
    "path": "local/valcea/babeni/2026/59",
    "short": "HCL Băbeni nr. 59/2026",
@@ -1053,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-62-2026",
+   "path": "local/valcea/babeni/2026/62",
+   "short": "HCL Băbeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 62/2026 rectificarea bugetului local al orașului Băbeni pentru anul 2026",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#123068",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cFxsBH8JmFjXUdZkCyb37O/u7dmxe8p5RGthOOcUdvftKXdLJmP8q/4247",
+     "sha256": "3e3302e45779813f14cfe077fc299a56bfaa318750e19b390bfd8e34ac80ba8e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-63-2026",
    "path": "local/valcea/babeni/2026/63",
    "short": "HCL Băbeni nr. 63/2026",
@@ -1109,6 +1229,36 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#124718",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-67-2026",
+   "path": "local/valcea/babeni/2026/67",
+   "short": "HCL Băbeni nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 67/2026 aprobarea creditelor de angajament pentru realizarea unor obiective de investitii",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#125248",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Kqd0GxtI2./5JN0.CR.ExOVCOA0Fd0vlQrwVheH3kKfpaj/pCBuM6/4247",
+     "sha256": "89f970f2428ee69ced066a8e7ba87711d47323c02dfc0bb5ba012d501130d670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-69-2026",
+   "path": "local/valcea/babeni/2026/69",
+   "short": "HCL Băbeni nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 69/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c221bdf61228661a78d94c859973b23cda4b704fcf8f901b66d30d396c791423"
     }
    ]
   },
@@ -1233,6 +1383,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-77-2026",
+   "path": "local/valcea/babeni/2026/77",
+   "short": "HCL Băbeni nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 77/2026 rectificarea bugetului local al orașului Băbeni pentru anul 2026",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126316",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%242cHbwlt.gYsG0bg4rFo8su3l.U9zXeSdlFQjVTd4DFIuGJzEr6xRm/4247",
+     "sha256": "4349058523b202fc2781cbf2acf6d25f2c50043d5b939be6f96398fb55fa813f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-78-2026",
    "path": "local/valcea/babeni/2026/78",
    "short": "HCL Băbeni nr. 78/2026",
@@ -1293,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-81-2026",
+   "path": "local/valcea/babeni/2026/81",
+   "short": "HCL Băbeni nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 81/2026 modificarea Anexei nr.2 - Inventarul bunurilor aparţinând domeniului privat al oraşului Băbeni, la Hotărârea Consiliului Local al oraşului Băbeni nr.76/21.11.2006 privind însuşirea inventarului domeniului public şi privat al oraşului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126663",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24r4q/QBJ5JBoXwY2.jduDSOSfaaXFYXPsLZP4ceumaTw5r1LWo7NVq/4247",
+     "sha256": "56c5b90ef676b7e3002192e4c4f706dbdc0fe49b94fd5254ae98e5e9e8fea0cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-82-2026",
    "path": "local/valcea/babeni/2026/82",
    "short": "HCL Băbeni nr. 82/2026",
@@ -1308,6 +1488,21 @@
    ]
   },
   {
+   "slug": "hcl-valcea--babeni-83-2026",
+   "path": "local/valcea/babeni/2026/83",
+   "short": "HCL Băbeni nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 83/2026 alegerea preşedintelui şedinţei extraordinare convocate de îndată în data de 27 iulie 2026, ora 16,00",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126934",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249dYxl6K48V/IWBQerNry0uwZs5VsQu1UUtvInr1s6e9jfcL7Qsjlu/4247",
+     "sha256": "098c50215c696dcd90624d05304f3b2a86b8873a00a43f61a03ac54b41b29528"
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--babeni-84-2026",
    "path": "local/valcea/babeni/2026/84",
    "short": "HCL Băbeni nr. 84/2026",
@@ -1319,6 +1514,36 @@
      "units": 1,
      "source_url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126890",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-85-2026",
+   "path": "local/valcea/babeni/2026/85",
+   "short": "HCL Băbeni nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 85/2026 aprobarea Regulamentului privind autorizarea, amplasarea şi funcționarea activităților de jocuri de noroc pe raza Orașului Băbeni",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126891",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%245AggrXMwSwA.r7oAvXh96OtzJ/VLHoAiNjRtxQ8UpIzWEVtOuXMPu/4247",
+     "sha256": "df4f3f4ba8f0c0ae221e0b7553767bcd6c7898aa796ae7a59e3693edf8eff9eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--babeni-86-2026",
+   "path": "local/valcea/babeni/2026/86",
+   "short": "HCL Băbeni nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 86/2026 utilizarea sumelor recuperate în anul 2026, provenite din plăți efectuate în anii anteriori, reintroducerea acestora în circuitul bugetar al anului 2026, precum și la rectificarea bugetului local al orașului Băbeni pentru anul 2026",
+   "url": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#126892",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://babeni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24kDP2TU.zJ4CNiC.wWAcb0ehqgVKoevRWhPOogKcEUZ5wb.UObZARK/4247",
+     "sha256": "e8cf37c7b6827a007c5506d558937a1aafe075920f82e26ce21e5e4454f02efb"
     }
    ]
   },

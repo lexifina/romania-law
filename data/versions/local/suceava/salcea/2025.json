@@ -63,6 +63,81 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-124-2025",
+   "path": "local/suceava/salcea/2025/124",
+   "short": "HCL Salcea nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 124/2025 privind apobarea instituirii unei taxe pentru utilizarea infrastructurii publice locale ... de către echipamente și utilaje destinate obținerii de venituri.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20124%20din%2030.10.2025%20privind%20apobarea%20instituirii%20unei%20taxe%20pentru%20utilizarea%20infrastructurii%20publice%20locale%20...%20de%20c%C4%83tre%20echipamente%20%C8%99i%20utilaje%20destinate%20ob%C8%9Binerii%20de%20venituri.pdf",
+     "sha256": "65d6b347c0757c809413672a1369c44db503e0f5031e19800c2319bcfdb5a09c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-126-2025",
+   "path": "local/suceava/salcea/2025/126",
+   "short": "HCL Salcea nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 126/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d7ecc60b64f17802fbdd09d5081bf87e7c76d0b00c57128e9a16cc0c0133c5d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-127-2025",
+   "path": "local/suceava/salcea/2025/127",
+   "short": "HCL Salcea nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 127/2025 privind reducerea impozitului pe clădirile de la adresa de domiciliu și pentru terenul aferent acestora pentru donatorii de sânge.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20127%20din%2030.10.2025%20privind%20reducerea%20impozitului%20pe%20cl%C4%83dirile%20de%20la%20adresa%20de%20domiciliu%20%C8%99i%20pentru%20terenul%20aferent%20acestora%20pentru%20donatorii%20de%20s%C3%A2nge.pdf",
+     "sha256": "b4ddbd1d0261682c10e16e92162e86cdb300792ea86821bb4c9e963ef6e90310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-128-2025",
+   "path": "local/suceava/salcea/2025/128",
+   "short": "HCL Salcea nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 128/2025 privind aprobarea ajustării tarifelor aplicate pentru activitățile componente ale serviciului de salubrizare A.A nr. 3.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20128%20din%2030.10.2025%20privind%20aprobarea%20ajust%C4%83rii%20tarifelor%20aplicate%20pentru%20activit%C4%83%C8%9Bile%20componente%20ale%20serviciului%20de%20salubrizare%20A.A%20nr.%203.pdf",
+     "sha256": "f943012893da32f4ac087bfc9e474eb0a799239d0240daec9a55d94955394a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-129-2025",
+   "path": "local/suceava/salcea/2025/129",
+   "short": "HCL Salcea nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 129/2025 privind reducerea taxei locale de salubrizare conform HCL nr. 123 din 17.12.2024.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20129%20din%2030.10.2025%20privind%20reducerea%20taxei%20locale%20de%20salubrizare%20conform%20HCL%20nr.%20123%20din%2017.12.2024.pdf",
+     "sha256": "dc5cb6d068681760a59e55b51b299475bee7935f3e2bbf34848a5de14b050871"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-13-2025",
    "path": "local/suceava/salcea/2025/13",
    "short": "HCL Salcea nr. 13/2025",
@@ -74,6 +149,111 @@
      "units": 1,
      "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2013%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20parc%20%C3%AEn%20satul%20Prelipca%E2%80%9D.pdf",
      "sha256": "4caa07574d7b397d50b820b9d91d04d14228c0abea962902ed8ae8c0e9ad390e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-151-2025",
+   "path": "local/suceava/salcea/2025/151",
+   "short": "HCL Salcea nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 151/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2026 în Orașul Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20151%20din%2030.12.2025%20privind%20stabilirea%20impozitelor%20%C8%99i%20taxelor%20locale,%20precum%20%C8%99i%20a%20taxelor%20speciale%20pentru%20anul%202026%20%C3%AEn%20Ora%C8%99ul%20Salcea.pdf",
+     "sha256": "10f5034b32126a0c3c0698b4828da376c13f1802f431928145cb3cfe8d092099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-152-2025",
+   "path": "local/suceava/salcea/2025/152",
+   "short": "HCL Salcea nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 152/2025 pentru aprobarea Regulamentului de stabilire și administrare a taxei de salubrizare în orașul Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20152%20din%2030.12.2025%20pentru%20aprobarea%20Regulamentului%20de%20stabilire%20%C8%99i%20administrare%20a%20taxei%20de%20salubrizare%20%C3%AEn%20ora%C8%99ul%20Salcea.pdf",
+     "sha256": "2e7a45e1a77b35e412d7d225d63e293e26c9b669dcdd97f43c6ac07f8a081949"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-153-2025",
+   "path": "local/suceava/salcea/2025/153",
+   "short": "HCL Salcea nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 153/2025 privind aprobarea taxei speciale de salubrizare pentru anul 2026 în orașul Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20153%20din%2030.12.2025%20privind%20aprobarea%20taxei%20speciale%20de%20salubrizare%20pentru%20anul%202026%20%C3%AEn%20ora%C8%99ul%20Salcea.pdf",
+     "sha256": "e59b271afda679a2cfa95fb06cd218047d1f41581555f6a6271323f2803ccb28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-154-2025",
+   "path": "local/suceava/salcea/2025/154",
+   "short": "HCL Salcea nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 154/2025 privind reducerea taxei locale de salubrizare conform HCL nr. 123 din 17.12.2024.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20154%20din%2030.12.2025%20privind%20reducerea%20taxei%20locale%20de%20salubrizare%20conform%20HCL%20nr.%20123%20din%2017.12.2024.pdf",
+     "sha256": "e2637627b3c96d0b935468293ebe883af5e937658e80a08420edaba937702985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-164-2025",
+   "path": "local/suceava/salcea/2025/164",
+   "short": "HCL Salcea nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 164/2025 privind aprobarea documentației ”Elaborare documentație PUZ pentru introducerea în intravilan beneficar Moruz.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20164%20din%2030.12.2025%20privind%20aprobarea%20documenta%C8%9Biei%20%E2%80%9DElaborare%20documenta%C8%9Bie%20PUZ%20pentru%20introducerea%20%C3%AEn%20intravilan%20beneficar%20Moruz.pdf",
+     "sha256": "78dabfb9c0d2689c823358cbaa7f30194e31bae9ac54a29120729cc6a663e55a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-165-2025",
+   "path": "local/suceava/salcea/2025/165",
+   "short": "HCL Salcea nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 165/2025 privind aprobarea documentației ”Elaborare documentație PUZ pentru introducerea în intravilan beneficiar Bilius.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20165%20din%2030.12.2025%20privind%20aprobarea%20documenta%C8%9Biei%20%E2%80%9DElaborare%20documenta%C8%9Bie%20PUZ%20pentru%20introducerea%20%C3%AEn%20intravilan%20beneficiar%20Bilius.pdf",
+     "sha256": "d656cf652330b37e81e864091f94c101feaab178255fb7d0bc62021fa1cdfecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-166-2025",
+   "path": "local/suceava/salcea/2025/166",
+   "short": "HCL Salcea nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 166/2025 privind aprobarea documentației ”Elaborare documentație PUZ pentru introducerea în intravilan beneficiar Luculescu.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%20166%20din%2030.12.2025%20privind%20aprobarea%20documenta%C8%9Biei%20%E2%80%9DElaborare%20documenta%C8%9Bie%20PUZ%20pentru%20introducerea%20%C3%AEn%20intravilan%20beneficiar%20Luculescu.pdf",
+     "sha256": "635cfafdbc7de22d586a639756ddcd9aadcea08b93f3b451046e6cc5ee1655bf"
     }
    ]
   },
@@ -108,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-35-2025",
+   "path": "local/suceava/salcea/2025/35",
+   "short": "HCL Salcea nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 35/2025 privind aprobarea Normelor procedurale interne pentru organizarea și desfășurarea Procedurii simplificate proprii pentru atribuirea contractelor de achiziție publică.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2035%20din%2027.02.2025%20privind%20aprobarea%20Normelor%20procedurale%20interne%20pentru%20organizarea%20%C8%99i%20desf%C4%83%C8%99urarea%20Procedurii%20simplificate%20proprii%20pentru%20atribuirea%20contractelor%20de%20achizi%C8%9Bie%20public%C4%83.pdf",
+     "sha256": "85274ff296e61bae314cd7e851fc467f4a0ca22a59626efea78e1d7e98d823f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-37-2025",
+   "path": "local/suceava/salcea/2025/37",
+   "short": "HCL Salcea nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 37/2025 privind modificarea HCL nr. 123 din 2024 privind stabilirea taxei locale de ecologizare pentru anul 2025 în orașul Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2037%20din%2027.03.2025%20privind%20modificarea%20HCL%20nr.%20123%20din%202024%20privind%20stabilirea%20taxei%20locale%20de%20ecologizare%20pentru%20anul%202025%20%C3%AEn%20ora%C8%99ul%20Salcea.pdf",
+     "sha256": "ccec2025ed56ad1995b987383efc123a1bdc2361de269e752a57d498901af4ec"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-4-2025",
    "path": "local/suceava/salcea/2025/4",
    "short": "HCL Salcea nr. 4/2025",
@@ -119,6 +329,21 @@
      "units": 1,
      "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%204%20din%2029.01.2025%20privind%20acoperirea%20definitiv%C4%83%20a%20deficitului%20sec%C8%9Biunii%20de%20dezvoltare%20a%20bugetului%20consolidat%20al%20Ora%C8%99ului%20Salcea%20pe%20anul%202024.pdf",
      "sha256": "c73bb583a8ee3915769ac2bd0e7694c049a5af88b1bb672d9dbda9c826c83067"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-48-2025",
+   "path": "local/suceava/salcea/2025/48",
+   "short": "HCL Salcea nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 48/2025 privind înființarea serviciului și delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fără stăpân al orașului Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2048%20din%2027.03.2025%20privind%20%C3%AEnfiin%C8%9Barea%20serviciului%20%C8%99i%20delegarea%20de%20gestiune%20prin%20concesiune%20a%20Serviciului%20public%20de%20gestionare%20a%20c%C3%A2inilor%20f%C4%83r%C4%83%20st%C4%83p%C3%A2n%20al%20ora%C8%99ului%20Salcea.pdf",
+     "sha256": "b1a586394a488595999082275e4b63083fc6ee3da89e8e198f0e4b150f490275"
     }
    ]
   },
@@ -153,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-62-2025",
+   "path": "local/suceava/salcea/2025/62",
+   "short": "HCL Salcea nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 62/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "90dcc7d7d42f2ae34d60e5d69a76d67f201b8c1f26ddc2469010b05480567ce8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-7-2025",
    "path": "local/suceava/salcea/2025/7",
    "short": "HCL Salcea nr. 7/2025",
@@ -168,6 +408,51 @@
    ]
   },
   {
+   "slug": "hcl-suceava--salcea-76-2025",
+   "path": "local/suceava/salcea/2025/76",
+   "short": "HCL Salcea nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 76/2025 privind aprobarea Regulamentului pentru înregistrarea evidența și radierea vehiculelor pentru care există obligativitatea înregistrării.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2076%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20pentru%20%C3%AEnregistrarea%20eviden%C8%9Ba%20%C8%99i%20radierea%20vehiculelor%20pentru%20care%20exist%C4%83%20obligativitatea%20%C3%AEnregistr%C4%83rii.pdf",
+     "sha256": "52bff3c33f0a1b229ff7bf63c9b3772d01fd100ead90c357d548a7fd12cf4171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-77-2025",
+   "path": "local/suceava/salcea/2025/77",
+   "short": "HCL Salcea nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 77/2025 privind aprobarea Regulamentului de folosință a terenurilor sportive de pe raza orașului Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2077%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20de%20folosin%C8%9B%C4%83%20a%20terenurilor%20sportive%20de%20pe%20raza%20ora%C8%99ului%20Salcea.pdf",
+     "sha256": "4deda775b4e3c40cdf9bd0ab082a8f169bc8ced38d1c9c733456e147d76c02a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-78-2025",
+   "path": "local/suceava/salcea/2025/78",
+   "short": "HCL Salcea nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 78/2025 privind aprobarea Regulamentului de autorizare a activităților de comercializare a produselor și serviciilor de piață pe raza orașului Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2078%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20de%20autorizare%20a%20activit%C4%83%C8%9Bilor%20de%20comercializare%20a%20produselor%20%C8%99i%20serviciilor%20de%20pia%C8%9B%C4%83%20pe%20raza%20ora%C8%99ului%20Salcea.pdf",
+     "sha256": "56f2e2fdf0121821a4eeca083fa274ae431eb80d2014e903889b83d78ab20148"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--salcea-8-2025",
    "path": "local/suceava/salcea/2025/8",
    "short": "HCL Salcea nr. 8/2025",
@@ -179,6 +464,51 @@
      "units": 1,
      "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%208%20din%2029.01.2025%20privind%20aprobarea%20indicatorilor%20tehnico-economici%20pentru%20obiectivul%20de%20investi%C8%9Bii%20%E2%80%9DModernizare%20terenuri%20de%20sport%20la%20unit%C4%83%C8%9Bile%20de%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt%20din%20ora%C8%99ul%20Salcea%E2%80%9D.pdf",
      "sha256": "2bebccea737e5f10a2221300e63473167ff49c952a063c681a0c4fbfd7f5f0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-80-2025",
+   "path": "local/suceava/salcea/2025/80",
+   "short": "HCL Salcea nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 80/2025 privind aprobarea Regulamentului privind încheierea contractelor de asociere dintre Orașul Salcea și persoanele juridice.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2080%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20privind%20%C3%AEncheierea%20contractelor%20de%20asociere%20dintre%20Ora%C8%99ul%20Salcea%20%C8%99i%20persoanele%20juridice.pdf",
+     "sha256": "b62208d70b3da00a16ef879382b8094635ddafdb44dc6b97caf26b0cc8d72915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-88-2025",
+   "path": "local/suceava/salcea/2025/88",
+   "short": "HCL Salcea nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 88/2025 privind aprobarea Regulamentului serviciului de salubrizare pentru celelalte activități ale serviciului de salubrizare.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2088%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20serviciului%20de%20salubrizare%20pentru%20celelalte%20activit%C4%83%C8%9Bi%20ale%20serviciului%20de%20salubrizare.pdf",
+     "sha256": "34210460021a792129af6f7ae721657e5333659ed022042e6277993f9a165120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-89-2025",
+   "path": "local/suceava/salcea/2025/89",
+   "short": "HCL Salcea nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 89/2025 privind aprobarea Regulamentului și caietului de sarcini pentru activitatea de măturat spălat curățat și transport al zăpezii.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2025",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2025/HCL%20nr.%2089%20din%2031.07.2025%20privind%20aprobarea%20Regulamentului%20%C8%99i%20caietului%20de%20sarcini%20pentru%20activitatea%20de%20m%C4%83turat%20sp%C4%83lat%20cur%C4%83%C8%9Bat%20%C8%99i%20transport%20al%20z%C4%83pezii.pdf",
+     "sha256": "d8616bbadfe8a3523babaa55baecdcfe41dfc976ae346d91c6d2cab102d12842"
     }
    ]
   },

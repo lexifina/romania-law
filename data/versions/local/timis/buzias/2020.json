@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/timis/buzias/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--buzias-20-2020",
+   "path": "local/timis/buzias/2020/20",
+   "short": "HCL Buziaș nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 20/2020 privind aprobarea acordării scutirii de la plata impozitului aferent anului 2020, pentru Uniunea Adam Muller Guttenbrunn Timisoara - clădirea situată în localitatea Bacova, nr. 421, jud",
+   "url": "https://primariabuzias.ro/documente/hotarari-ale-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-31.03.2020-nr.-20.pdf",
+     "sha256": "3f35bd1a6524eeb2ee3f8f781840d8ea68177faa8c4899127bc11843be27f3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-5-2020",
+   "path": "local/timis/buzias/2020/5",
+   "short": "HCL Buziaș nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 5/2020 PRIVIND APLICAREA RATEI INFLATIEI DE 4,6% LA IMPOZITELE ȘI TAXELE PENTRU ANUL 2020",
+   "url": "https://primariabuzias.ro/wp-content/uploads/2022/07/HOTARARE-NR.-5-DIN-31.01.2020-PRIVIND-APLICAREA-RATEI-INFLATIEI-DE-46-LA-IMPOZITELE-SI-TAXELE-PENTRU-ANUL-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/HOTARARE-NR.-5-DIN-31.01.2020-PRIVIND-APLICAREA-RATEI-INFLATIEI-DE-46-LA-IMPOZITELE-SI-TAXELE-PENTRU-ANUL-2020.pdf",
+     "sha256": "032999a1b10a42b13d0c0bcd70a13d30d3a7939101ba0a866816052144a0064c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-73-2020",
+   "path": "local/timis/buzias/2020/73",
+   "short": "HCL Buziaș nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 73/2020 privind aprobarea Proiectului rețelei școlare la nivelul orașului Buziaș pentru anul școlar 2021 – 2022 Consiliul Local al Orașului Buziaș, județul Timiș; Analizând temeiurile juridice, respectiv: - prevederile art. 24 din Anexa la Ordinul MEN nr. 5599/21.09.2020 pentru aprobarea Metodologiei privind fundamentarea cifrei de școlarizare pentru învațământul preuniversitar de stat, evidența efectivel",
+   "url": "https://primariabuzias.ro/documente/hotarari-ale-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-26.11.2020-nr.-73.pdf",
+     "sha256": "6385e1512379374290bd3cc2027003d51fd4ab126045ec26b44f1ff75717dce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-76-2020",
+   "path": "local/timis/buzias/2020/76",
+   "short": "HCL Buziaș nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 76/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-26.11.2020-nr.-76.pdf",
+     "sha256": "ebf851ad502ab8f3bd3eb24ea318a28d4208da13ae60b4fb1c59007582391779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-78-2020",
+   "path": "local/timis/buzias/2020/78",
+   "short": "HCL Buziaș nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 78/2020 Privind stabilirea impozitelor și taxelor locale pentru anul 2021 Având în vedere referatul de aprobare nr.11894/29.10.2020, precum și raportul de specialitate al Serviciului contabilitate, buget – finante , impozite și taxe din cadrul Primăriei oraș Buzias , înregistrat cu nr. 11893/29.10.2020, prin care se propune aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și a",
+   "url": "https://primariabuzias.ro/documente/hotarari-ale-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 11,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2022/07/Hotarari-ale-CL-din-data-de-23.12.2020-nr.-78.pdf",
+     "sha256": "e78b8fadf88994f707d9ab232e77edcecf399084ba8bd1ff6b5e15c8a7216136"
+    }
+   ]
+  }
+ ]
+}

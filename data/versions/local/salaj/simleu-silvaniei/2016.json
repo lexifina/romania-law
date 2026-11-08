@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2016",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-118-2016",
+   "path": "local/salaj/simleu-silvaniei/2016/118",
+   "short": "HCL Șimleu Silvaniei nr. 118/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 118/2016 pentru aprobarea Regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local al Orașului Șimleu Silvaniei alocate pentru activități nonprofit de interes local Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 20 decembrie 2016; Având în vedere Expunerea de motive nr. 17111/2016 a Primarului orașului Șimleu Silvaniei, Ra",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/2/",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.118-din-20.12.2016.pdf",
+     "sha256": "85afe2500b66ed0c387a0b0eb01dff6577097cd191152fb8c132057d32d4a259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-124-2016",
+   "path": "local/salaj/simleu-silvaniei/2016/124",
+   "short": "HCL Șimleu Silvaniei nr. 124/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 124/2016 pentru aprobarea Regulamentului privind activitatea de gestionare a câinilor cu și fără stăpân din orașul Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 20 decembrie 2016; Având în vedere Expunerea de motive nr. 17018/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.17019/2016 al Secretarului orașului Și",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 7,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/03/HCL-nr.124-din-20.12.2016.pdf",
+     "sha256": "b93d549745e5322f882254bbb288dcd513607f72db92b9474267134d8b7fb147"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/buzau/unguriu/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--unguriu-1-2024",
+   "path": "local/buzau/unguriu/2024/1",
+   "short": "HCL Unguriu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 1/2024 privind aprobarea organizării rețelei școlare de la nivelul comunei Unguriu, județul Buzău , în anul șoclar 2023-2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157815",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157815",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-10-2024",
    "path": "local/buzau/unguriu/2024/10",
    "short": "HCL Unguriu nr. 10/2024",
@@ -283,6 +298,81 @@
      "from": "2024-10-03",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-3-2024",
+   "path": "local/buzau/unguriu/2024/3",
+   "short": "HCL Unguriu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 3/2024 privind aprobarea acoperirii definitive, din excedentul bugetului local, a deficitului decțiunii de dezvoltare, sursa A, a bugetului comunei Unguriu, județul Buzău, pentru anul 2023",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157817",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-4-2024",
+   "path": "local/buzau/unguriu/2024/4",
+   "short": "HCL Unguriu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 4/2024 privind aprobarea contului de execuție al bugetului comunei Unguriu, pe anul 2023",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157818",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-5-2024",
+   "path": "local/buzau/unguriu/2024/5",
+   "short": "HCL Unguriu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 5/2024 privind utilizarea excedentului bugetar rezultat la închiderea anului 2023",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157819",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-6-2024",
+   "path": "local/buzau/unguriu/2024/6",
+   "short": "HCL Unguriu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 6/2024 privind aprobarea planului de acțiuni și lucrări de interes local aferent anului 2024, pentru repartizarea orelor de muncă desfășurate de beneficiarii ajutorului de incluziune, actualizată la nivelul comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157820",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-7-2024",
+   "path": "local/buzau/unguriu/2024/7",
+   "short": "HCL Unguriu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 7/2024 privind aprobarea bugetului comunei Unguriu, județul Buzău, pentru anul 2024",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157827",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157827",
      "sha256": null
     }
    ]

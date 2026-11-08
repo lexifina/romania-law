@@ -3,6 +3,21 @@
  "shard": "local/arad/ignesti/2025",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-59-2025",
+   "path": "local/arad/ignesti/2025/59",
+   "short": "HCL Ignești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 59/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2025/11/HCL-59.doc",
+     "sha256": "c238078cf7f7b55177fc4e5cab2e25cd3fb731f6e6df43497f22b50961a65ef6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-60-2025",
    "path": "local/arad/ignesti/2025/60",
    "short": "HCL Ignești nr. 60/2025",

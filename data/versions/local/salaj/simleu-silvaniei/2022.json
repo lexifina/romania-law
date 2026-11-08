@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2022",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-5-2022",
+   "path": "local/salaj/simleu-silvaniei/2022/5",
+   "short": "HCL Șimleu Silvaniei nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 5/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8015800de9083ae4deeea29b5460678a35f190c62a75d92eb1bbbbab1f5d82ba"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dobresti/2020",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dobresti-6-2020",
+   "path": "local/dolj/dobresti/2020/6",
+   "short": "HCL Dobrești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 6/2020 privind modificarea Regutamentului serviciului de Salubrtz*e it Judetul Dolj si raza Regulamentul privind iistituirea si administrarea taxei speciale pe de salubrizare comunei Dobresti consiliul Local al comunei Dobresti rintrunit in sedinta ordinara in data de 27l0ll2020,orele 10,00,in localul PRIMARIEI DOBRESTI ' Avind in vedere : serviciilor comunitare de utilitati -prevederile Legii nrrs1/2006",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h6.pdf",
+     "sha256": "f12466860c8604bee8537a990c4f11fc64d0cdb1a4cb994f417784dda9731c17"
+    }
+   ]
+  }
+ ]
+}

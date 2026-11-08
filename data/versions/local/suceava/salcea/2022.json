@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/salcea/2022",
+ "acts": [
+  {
+   "slug": "hcl-suceava--salcea-108-2022",
+   "path": "local/suceava/salcea/2022/108",
+   "short": "HCL Salcea nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 108/2022 privind scutirea de la plată taxei locale de ecologizare conform HCL nr. 108 din 24.12.2022.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2023-sem2",
+   "versions": [
+    {
+     "from": "2022-12-24",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL2023/HCL%20113%20din%2021.08.2023%20privind%20scutirea%20de%20la%20plat%C4%83%20taxei%20locale%20de%20ecologizare%20conform%20HCL%20nr.%20108%20din%2024.12.2022.pdf",
+     "sha256": "5da63c732cedb25b3799a6256051e0231edc4ee85376402eb99ff61251377524"
+    }
+   ]
+  }
+ ]
+}

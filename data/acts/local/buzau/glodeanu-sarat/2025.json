@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/glodeanu-sarat/2025",
+"acts": [
+{
+"slug": "hcl-buzau--glodeanu-sarat-20-2025",
+"path": "local/buzau/glodeanu-sarat/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 20/2025 privind indexarea cu rata inflaţiei a impozitelor şi taxelor locale pentru anul 2026",
+"short": "HCL Glodeanu Sărat nr. 20/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-20-din-28.04.2025.pdf",
+"council": "buzau/glodeanu-sarat",
+"council_name": "Consiliul Local al Comunei Glodeanu Sărat",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-buzau--glodeanu-sarat-47-2025",
+"path": "local/buzau/glodeanu-sarat/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 47/2025 privind Modificare HCL nr. 20/28.04.2025 privind indexarea cu rata inflației a impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Glodeanu Sărat, pentru anul 2026",
+"short": "HCL Glodeanu Sărat nr. 47/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-47-din-29.10.2025.pdf",
+"council": "buzau/glodeanu-sarat",
+"council_name": "Consiliul Local al Comunei Glodeanu Sărat",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

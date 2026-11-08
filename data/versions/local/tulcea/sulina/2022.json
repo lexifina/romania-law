@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2022",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-1-2022",
+   "path": "local/tulcea/sulina/2022/1",
+   "short": "HCL Sulina nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 1/2022 privind aprobarea Studiului de oportunitate privind delegarea gestiunii serviciului de iluminat public din orașul Sulina, județul Tulcea, a Regulamentului serviciului de iluminat public din orașul Sulina, județul Tulcea și a Caietului de sarcini al serviciului d",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea1din28ian2022_studiu_delegare_iluminat.pdf",
+     "sha256": "08ca09555c32152f057a50d4e697dd0b51eb7a73032b167f09c99ca657641ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-103-2022",
+   "path": "local/tulcea/sulina/2022/103",
+   "short": "HCL Sulina nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 103/2022 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea103din2022_taxe_impozite_2023.pdf",
+     "sha256": "b5c8e30459cecd450082c6cc7588afe2bdb84be26c4f47d4c1efcb83394b5ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-105-2022",
+   "path": "local/tulcea/sulina/2022/105",
+   "short": "HCL Sulina nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 105/2022 privind stabilirea taxelor pentru activitatea autofinanțată „PIAȚĂ“, pentru anul 2023",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea105din2022_taxe_piata_2023.pdf",
+     "sha256": "7c2f9661d9059e8deacde8e7f2058bc21a60baa18014bb7076a2fc3d9e408078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-12-2022",
+   "path": "local/tulcea/sulina/2022/12",
+   "short": "HCL Sulina nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 12/2022 privind completarea Hotărârii Consiliului Local nr.123/23.12.2021 privind aprobarea stabilirii impozitelor și taxelor locale pe anul 2022",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea12din22feb2022_completare_hcl_123.pdf",
+     "sha256": "64f660577d5d20cb4c7998b35ba233ab49a70d241ef327de3ca8cfdccd1efe18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-20-2022",
+   "path": "local/tulcea/sulina/2022/20",
+   "short": "HCL Sulina nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 20/2022",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+     "sha256": "a5bd40a200e8fea38086a11de8795351e994fb539e73b92b9013406f273a4084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-32-2022",
+   "path": "local/tulcea/sulina/2022/32",
+   "short": "HCL Sulina nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 32/2022 privind aprobarea interzicerii circulației vehiculelor de orice tip pe strada I a orașului Sulina, de la accesul de pe strada Plevnei până la strada Unirii și declararea acestui tronson de stradă ca fiind destinată exclusiv accesului pietonal",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea32din28apr2022_interzicere_acces_str.pdf",
+     "sha256": "eb9b46a5a4c2cf285361a15c7d5487de3fe4cbc1f8f7b3d83cd689c23d597657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-50-2022",
+   "path": "local/tulcea/sulina/2022/50",
+   "short": "HCL Sulina nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 50/2022",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+     "sha256": "5269dfa579ac1c87c84d1ff4e3981cf09927374f5afce88b045de5f32ec53f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-55-2022",
+   "path": "local/tulcea/sulina/2022/55",
+   "short": "HCL Sulina nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 55/2022 privind modificarea și completarea Hotărârii Consiliului Local Sulina nr.189/16.12.2013 privind aprobarea Regulamentului pentru stabilirea metodologiei de atribuire a terenurilor în baza Legii 15/2003, republicată, privind sprijinul acordat tinerilor pentru con",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea55din29iul2022_modificare_hcl_189.pdf",
+     "sha256": "40be9ac93fdc40fe76d79612d7648d51550676cb774315e248aefccc7edd684d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-87-2022",
+   "path": "local/tulcea/sulina/2022/87",
+   "short": "HCL Sulina nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 87/2022 privind aprobarea Regulamentului privind Acordul administratorului drumului public local pentru realizarea în zona drumurilor publice de interes local a lucrărilor de branșamente și racorduri executate pe domeniul public la infrastructura tehnico-edilitară exist",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea87din2022.pdf",
+     "sha256": "1e4924d10b965555041719eb31369171e5b30ee49bf02b3158a229091268d91e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-89-2022",
+   "path": "local/tulcea/sulina/2022/89",
+   "short": "HCL Sulina nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 89/2022 privind aprobarea actualizării listei cuprinzând persoanele care beneficiază de reducerea cu 50% a impozitelor pe clădiri și terenuri și a celorlalte taxe, conform O.G nr.27/1996, republicată în 1997 și a Legii nr.26/2019 pentru modificarea și completarea O.G nr",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotararea89din2022.pdf",
+     "sha256": "ef9da0749e172949d0c313c49160d76b22cf4f9382014fd845a47a79accad26a"
+    }
+   ]
+  }
+ ]
+}

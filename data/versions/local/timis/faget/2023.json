@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/faget/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--faget-86-2023",
+   "path": "local/timis/faget/2023/86",
+   "short": "HCL Făget nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făget nr. 86/2023",
+   "url": "https://primariafaget.ro/consiliul-local-al-orasului-faget/hotarari-adoptate-de-consiliul-local-al-orasului-faget/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariafaget.ro/wp-content/uploads/2023/07/Hotararea-nr.-86.pdf",
+     "sha256": "6878952c4274916faae8710348942aba5ef7c86a91f2b01493d78fdd3c3b206f"
+    }
+   ]
+  }
+ ]
+}

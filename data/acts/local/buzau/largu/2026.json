@@ -3,6 +3,72 @@
 "shard": "local/buzau/largu/2026",
 "acts": [
 {
+"slug": "hcl-buzau--largu-5-2026",
+"path": "local/buzau/largu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 5/2026 privind aprobarea utilizării în anul 2026 a sumei de 300 mii lei din excedentul anilor precedenti al bugetului propriu pentru sectiunea de functionare din sursa A si 60.5 mii lei pentru sectiunea de dezvoltare din sursa A",
+"short": "HCL Largu nr. 5/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/largu-bz/registru-hcl/252197",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-7-2026",
+"path": "local/buzau/largu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 7/2026 privind implementarea proiectului “ AMENAJARE LOC DE JOACA PENTRU COPII COMUNA LARGU, JUDETUL BUZAU” în cadrul Apelului de Selecție 808/000/1/4/2025 lansat de GAL Ecoul Campiei Buzaului",
+"short": "HCL Largu nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/largu-bz/registru-hcl/252199",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-19-2026",
+"path": "local/buzau/largu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 19/2026 privind reorganizarea aparatului de specialitate al primarului comunei Largu, județul Buzău",
+"short": "HCL Largu nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/largu-bz/registru-hcl/297788",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--largu-20-2026",
 "path": "local/buzau/largu/2026/20",
 "kind": "local",

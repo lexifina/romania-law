@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-13-2013",
+   "path": "local/dolj/bradesti/2013/13",
+   "short": "HCL Brădești nr. 13/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 13/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 3,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL13_2013.pdf",
+     "sha256": "82156c83a3f7b13d3f7dfcc09f2867fa6356c3fe58f69d9ccdf1b928b6a34f19"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-2-2013",
    "path": "local/dolj/bradesti/2013/2",
    "short": "HCL Brădești nr. 2/2013",
@@ -29,6 +44,36 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL02_2013.pdf",
      "sha256": "99cba0184e8053cffef5cceaee636c522aa7e01f52fc9cefd0d330d57ceb4d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-25-2013",
+   "path": "local/dolj/bradesti/2013/25",
+   "short": "HCL Brădești nr. 25/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 25/2013 privind aprobarea Regulamentului privind vehiculele la nivelul com. Bradesti, care nu se supun inmatricularii) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL25_2013.pdf",
+     "sha256": "07de729519f5a2b298a86079c071ee9ace656280b8ea030a8e9f6b3cf55f7f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-27-2013",
+   "path": "local/dolj/bradesti/2013/27",
+   "short": "HCL Brădești nr. 27/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 27/2013 privind interzicerea circulatiei autovehiculelor cu masa maxima de peste 7,5 tone pe unele drumuri din com",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL27_2013.pdf",
+     "sha256": "9744531c6b64152182fedf88c0a57fdd757ec49d2c76a0dceecf564c6de87bc3"
     }
    ]
   },
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-35-2013",
+   "path": "local/dolj/bradesti/2013/35",
+   "short": "HCL Brădești nr. 35/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 35/2013 privind stabilirea si colectarea taxei pentru comercianti pe raza comunei Bradesti ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL35_2013.pdf",
+     "sha256": "69d165497751ed3b5d1ce7dc2d46ba52ae696160cbdfae76ca7fbe32624b14d8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-4-2013",
    "path": "local/dolj/bradesti/2013/4",
    "short": "HCL Brădești nr. 4/2013",
@@ -59,6 +119,66 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL04_2013.pdf",
      "sha256": "084f5ff5a943e8c9874e4313f3a728d73c823dd1d007d14857f29511356224c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-41-2013",
+   "path": "local/dolj/bradesti/2013/41",
+   "short": "HCL Brădești nr. 41/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 41/2013 privind aprobarea taxei pentru inmatriculare tractoare si pentru numere de inmatriculare) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL41_2013.pdf",
+     "sha256": "4a67552ce109216c49662d77d0661d1eec702c72a32946523ec9b8f935b49c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-5-2013",
+   "path": "local/dolj/bradesti/2013/5",
+   "short": "HCL Brădești nr. 5/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 5/2013 privind aprobarea Regulamentului de desfacerea a casatoriei pe cale administrativa si instituirea taxei speciale aferente) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL05_2013.pdf",
+     "sha256": "facd15f30e5ff4d3a23efea8a3b893d4c1bcc9f5b3294b53bcadc60b8c4443b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-58-2013",
+   "path": "local/dolj/bradesti/2013/58",
+   "short": "HCL Brădești nr. 58/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 58/2013 privind aprobarea taxei de inchiriere masa/zi si a taxei de bransare la serviciul public de alimentare cu apa) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL58_2013.pdf",
+     "sha256": "2c882f0ea9c93a79fde5d69a68ebc3b729a8baabd68688f56b61b8983acde64d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-62-2013",
+   "path": "local/dolj/bradesti/2013/62",
+   "short": "HCL Brădești nr. 62/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 62/2013 privind instituirea unor taxe speciale pe anul 2013: certificat fiscal; deplasare comisie locala fond funciar) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL62_2013.pdf",
+     "sha256": "22f80b84a81786578113126db0077e8abf71743fce04cf2ba32470e91377f7a1"
     }
    ]
   }

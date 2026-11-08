@@ -3,6 +3,51 @@
  "shard": "local/mures/iernut/2025",
  "acts": [
   {
+   "slug": "hcl-mures--iernut-16-2025",
+   "path": "local/mures/iernut/2025/16",
+   "short": "HCL Iernut nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 16/2025 privind actualizarea Regulamentului privind procedura pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ- teritorială a Orașului Iernut, aprobat prin HCL nr.32/24.02.2020 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.02.2025; Având în vedere Referatul de aprobare nr. 3012/14.02",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-lunii-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/04/Hotarare-nr.-16-24.02.2025-privind-actualizarea-Regulamentului-privind-procedura-de-inregistrare-evidenta-si-radiere-a-vehiculelor.pdf",
+     "sha256": "48fd61579f22986087634ecec8ca035e428175678c97a85a48029a1225ec5daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-167-2025",
+   "path": "local/mures/iernut/2025/167",
+   "short": "HCL Iernut nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 167/2025 privind modificarea HCL nr. 37/30.04.2025 privind aprobarea impozitelor și taxelor locale din orașul Iernut în anul 2026 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 22.12.2025; Având în vedere Referatul de aprobare nr.21297/19.12.2025 al Primarului Orașului Iernut privind modificarea HCL nr. 37/30.04.2025 privind aprobarea impozitelor și taxelor locale din",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2026/01/Hot.167-22.12.2025-privind-modificarea-HCL-nr.-37-30.04.2025-privind-aprobarea-impozitelor-si-taxelor-locale-din-orasul-Iernut-in-anul-2026.pdf",
+     "sha256": "c5205dbba74eb560ff2328ee57d8f4b63d3e8efc82b988a9a88268f1d9f01ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-171-2025",
+   "path": "local/mures/iernut/2025/171",
+   "short": "HCL Iernut nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 171/2025 privind aprobarea nivelului taxei de salubrizare pentru anul 2026 în orașul Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 22.12.2025; Având în vedere Referatul de aprobare nr.20814/12.12.2025 al Primarului orașului Iernut, prin care se propune spre aprobare nivelul taxei de salubrizare pentru anul 2026 în orașul Iernut; Ținând cont de Raportul de speci",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2026/01/Hot.171-22.12.2025-privind-aprobarea-nivelului-taxei-de-salubritate-pentru-anul-2026-in-orasul-Iernut.pdf",
+     "sha256": "535c8baaed567e3f573f10ecfaa457374473c7cb3ffefe2348a93b0a3f087498"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-23-2025",
    "path": "local/mures/iernut/2025/23",
    "short": "HCL Iernut nr. 23/2025",
@@ -14,6 +59,36 @@
      "units": 1,
      "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/05/Hotarare-privind-aprobarea-statutului-orasului-Iernut.pdf",
      "sha256": "ca172c3debc4624f19189593860147412be043487b7eae91ee4d55c6d621432a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-37-2025",
+   "path": "local/mures/iernut/2025/37",
+   "short": "HCL Iernut nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 37/2025 privind stabilirea impozitelor și taxelor locale din orașul Iernut pentru anul 2026 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.04.2025; Având în vedere Referatul de aprobare nr.7059/22.04.2025 al Primarului Orașului Iernut privind stabilirea impozitelor și taxelor locale din orașul Iernut în anul 2025, Văzând Raportul de specialitate nr. 6704/ 14.04.202",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-lunii-aprilie-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/05/Hotarare-privind-stabilirea-taxelor-si-impozitelor-locale-pentru-2026.pdf",
+     "sha256": "c738e0e103a3e84a084dfbf56cb7ab5f53097ce4a5a3cdfb35002421a8343155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-91-2025",
+   "path": "local/mures/iernut/2025/91",
+   "short": "HCL Iernut nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 91/2025 privind aprobarea Strategiei tarifare conform rezultatelor analizei cost-beneficiu pentru „Proiectul regional de dezvoltare a infrastructurii de apă potabilă și apă uzată din județul Mureș” Consiliul Local al orașului Iernut, întrunit în ședința extraordinară de lucru, în data de 02.06.2025; Văzând Referatul de aprobare nr.9489/28.05.2025 al Primarului Orașului Iernut cu privire la proiectul de ho",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-lunii-iunie-2025/",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/06/Hotarare-aprobarea-strategiei-tarifare-conform-rezultatelor-analizei-cost-beneficiu.pdf",
+     "sha256": "5391b2e41c71b862171d7f61e44265f57a7ca9417e966d4ad4b2a1287e82fddc"
     }
    ]
   }

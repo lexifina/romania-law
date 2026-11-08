@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/isaccea/2019",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--isaccea-149-2019",
+   "path": "local/tulcea/isaccea/2019/149",
+   "short": "HCL Isaccea nr. 149/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 149/2019 privind înregistrarea Orașului Isaccea în Sistemul Național Electronic de Plată (SNEP) on-line a impozitelor și taxelor locale utilizând cardul bancar, instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 11,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2019/hcl/HCL_149.pdf",
+     "sha256": "4e949d3774b7f07ec23b0a739851d1dc1feda793e5ded9b23168307058ce0bd1"
+    }
+   ]
+  }
+ ]
+}

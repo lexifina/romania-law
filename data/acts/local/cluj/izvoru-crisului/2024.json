@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/cluj/izvoru-crisului/2024",
+"acts": [
+{
+"slug": "hcl-cluj--izvoru-crisului-26-2024",
+"path": "local/cluj/izvoru-crisului/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 26/2024 privind aprobarea Regulamentului Intern pentru acordarea voucherelor de vacanță pentru anul 2024",
+"short": "HCL Izvoru Crișului nr. 26/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--izvoru-crisului-37-2024",
+"path": "local/cluj/izvoru-crisului/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 37/2024 privind aprobarea Strategiei de tarifare pentru perioada 2024-2028, respectiv a formulei de calcul",
+"short": "HCL Izvoru Crișului nr. 37/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--izvoru-crisului-56-2024",
+"path": "local/cluj/izvoru-crisului/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 56/2024 privind aprobarea Regulamentului de orgnizare și funcționare al Consiliului local al comunei Izvoru Crișului",
+"short": "HCL Izvoru Crișului nr. 56/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--izvoru-crisului-62-2024",
+"path": "local/cluj/izvoru-crisului/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 62/2024 privind aprobarea impozitelor și taxelor locale pentru anul 2025",
+"short": "HCL Izvoru Crișului nr. 62/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/rupea/2020",
+ "acts": [
+  {
+   "slug": "hcl-brasov--rupea-12-2020",
+   "path": "local/brasov/rupea/2020/12",
+   "short": "HCL Rupea nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 12/2020 privind modificarea HCL nr. 54/25.06.2019 pentru aprobarea impozitelor si taxelor locale pe anul 2020",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2020",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-02-28-REHAD-hcl-12.pdf",
+     "sha256": "8e7da774c48505e60cb5a5ab860283b38e27a784c0ee8cf08cebfc731cf68267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-43-2020",
+   "path": "local/brasov/rupea/2020/43",
+   "short": "HCL Rupea nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 43/2020 Pentru aprobarea Regulamentului privind acordarea titlului de Cetatean de onoare al orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2020",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-07-31-REHAD-hcl-43.pdf",
+     "sha256": "47cd27bd093870ec5ffbf50f1a4021b8f7a3697815c622b9cc3ef5cd45421ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-53-2020",
+   "path": "local/brasov/rupea/2020/53",
+   "short": "HCL Rupea nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 53/2020 privind aprobarea coeficientilor care stau la baza determinarii salariilor de baza pentru functiile publice si contactuale din aparatul de specialitate al primarului orasului Rupea si din serviciile publice din subordinea consiliului local al orasului Rupea Hotărârea nr.81/18.12.2020 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului orasului",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2020",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-09-18-REHAD-hcl-53.pdf",
+     "sha256": "566e553dc55e01fd53d687c2b6fd7b3e1484b374d3635ac0e60b3060c94342e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-54-2020",
+   "path": "local/brasov/rupea/2020/54",
+   "short": "HCL Rupea nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 54/2020 privind modificarea HCL nr. 54/25.06.2019 pentru aprobarea impozitelor si taxelor locale pe anul 2020",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2020",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-09-18-REHAD-hcl-54.pdf",
+     "sha256": "cb994409c52ef47ff69b238deb9dc3381bdc96f05da7865d6e8b4988a482ccd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-72-2020",
+   "path": "local/brasov/rupea/2020/72",
+   "short": "HCL Rupea nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 72/2020 27.11.2020 privind aprobarea tarifelor distincte pentru activitatea de salubrizare menajera pe raza orasului Rupea , urmare a intrarii in vigoare a O.U.G. nr.74/2018 pentru modificarea si completarea Legii nr.211/2011 privind regimul deseurilor, a Legii nr.249/2015 privind modalitatea de gestionare a ambalajelor si a deseurilor de ambalaje si a O.U.G nr.196/2005 privind fondul pentru mediu, aprobata prin Legea 31/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 4,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-11-27-REHAD-hcl-72.pdf",
+     "sha256": "68bda37bdee365860425bc0d97c526b13b16ce7378eb464468f8200fdee1437d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-81-2020",
+   "path": "local/brasov/rupea/2020/81",
+   "short": "HCL Rupea nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 81/2020 privind aprobarea Regulamentului de Organizare şi Funcţionare al aparatului de specialitate al primarului orasului Rupea şi al serviciilor publice de interes local fără personalitate juridică",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2020",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 5,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/2020-12-18-REHAD-hcl-81.pdf",
+     "sha256": "bf42f190d47c805a4ffcb86c1f8c03a303276b5388ebaf11061a5034b6cc6e73"
+    }
+   ]
+  }
+ ]
+}

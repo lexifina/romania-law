@@ -3,6 +3,96 @@
  "shard": "local/maramures/tautii-magheraus/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--tautii-magheraus-110-2024",
+   "path": "local/maramures/tautii-magheraus/2024/110",
+   "short": "HCL Tăuții-Măgherăuș nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 110/2024 Nr. 110 din 25.06.2024 Privind soluționarea de către Consiliul Local al orașului Tăuții-Măgherăuș a plângerii prealabile formulată de către MCL PROCONCEPT SRL, împotriva HCL nr. 7 din 29.01.2019 cu privire la aprobarea Planului Urbanistic General al orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 4,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/07/HCL-110-plangere-prealabila.pdf",
+     "sha256": "48ac5b2c45156ce562a6cfd72df3412e130426db0aa64a7b288c1f703425bfde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-138-2024",
+   "path": "local/maramures/tautii-magheraus/2024/138",
+   "short": "HCL Tăuții-Măgherăuș nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 138/2024",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/10/HCL-138-prelungir-acord.pdf",
+     "sha256": "ea1ca1221f56de3cc27bcbfb5631e3acec3c3febd139c1c262c99201c069b714"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-141-2024",
+   "path": "local/maramures/tautii-magheraus/2024/141",
+   "short": "HCL Tăuții-Măgherăuș nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 141/2024 privind stabilirea sancțiunilor pentru faptele care constituie contravenții în domeniul gospodăririi Orașului Tăuții-Măgherăuș Consiliul local al orașului Tautii-Magheraus, întrunit în ședință ordinară la data de 30.09.2024 Având în vedere: - Referatul de aprobare al primarului orașului Tăuții-Măgherăuș, - Raportul de specialitate al Serviciului Poliția Locală, - Avizul comisiilor de specialitate",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/10/HCL-141-sanctiuni.pdf",
+     "sha256": "f877a98e9d7c48007c0c549c2709e3cc125b8c7af0cdce2d8f13eaeb972481a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-195-2024",
+   "path": "local/maramures/tautii-magheraus/2024/195",
+   "short": "HCL Tăuții-Măgherăuș nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 195/2024 Privind adoptarea regulamentului serviciului de salubritate, a strategiei de contractare, a caietului de sarcini si a contractului pentru activităţile de sortare şi transfer a deşeurilor municipale din zona 1 a jud. Maramureş, UAT Cerneşti şi UAT Coroieni",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/12/HCL-195-ADIGIDM.pdf",
+     "sha256": "f0fb73dec7229362118ce8c3423e563f6ece29e7478cfe3236522520c39ffccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-201-2024",
+   "path": "local/maramures/tautii-magheraus/2024/201",
+   "short": "HCL Tăuții-Măgherăuș nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 201/2024 Nr. 201 din 18.12.2024 Privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+   "url": "https://tautiimagheraus.ro/wp-content/uploads/2024/12/HCL-201-taxe-si-impozite-locale-2025.pdf",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 13,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/12/HCL-201-taxe-si-impozite-locale-2025.pdf",
+     "sha256": "805970f04358854808ff8c03d943e0244765b3668d5080124313d2a891e21178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-46-2024",
+   "path": "local/maramures/tautii-magheraus/2024/46",
+   "short": "HCL Tăuții-Măgherăuș nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 46/2024 Nr. 46 din 16.02.2024 Privind aprobarea volumul de masă lemnoasă care se poate exploata în anul 2024, modul de valorificare al acestuia, prețurilor de referință a masei lemnoase pe picior, aprobarea nivelului maxim al tarifelor pentru prestări servicii de exploatare precum și al prețurilor minime de valorificare prin licitație al lemnului fasonat.",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 10,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2024/02/HCL-46-ocol-silvic-volum-masa-lemnoasa-2022.pdf",
+     "sha256": "133a89e49a10c2bd32b26301aa20de37e632c9827aadb89b09c4a54f87b7ab35"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-63-2024",
    "path": "local/maramures/tautii-magheraus/2024/63",
    "short": "HCL Tăuții-Măgherăuș nr. 63/2024",

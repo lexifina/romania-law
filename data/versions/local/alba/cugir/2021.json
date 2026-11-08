@@ -3,6 +3,36 @@
  "shard": "local/alba/cugir/2021",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-226-2021",
+   "path": "local/alba/cugir/2021/226",
+   "short": "HCL Cugir nr. 226/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 226/2021 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2022 în baza amenajamentului silvic și al prețurilor de referință pe anul 2022 pentru masa lemnoasă pe picior care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul local al orasului Cugir, județul Alba; Întrunit în ședința publică ordinară din data de 25 noiembrie 2021; Luând în dezbatere: -P",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C45/P20",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.226_-_Stabilire_preturi_de_referinta_masa_lemnoasa_2022_.docx",
+     "sha256": "ed925fa8a8526e87c47de702d394e925307cc18366f8e9aa34215bceb82f5b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-229-2021",
+   "path": "local/alba/cugir/2021/229",
+   "short": "HCL Cugir nr. 229/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 229/2021 pentru completarea art. 43, alin. (3), lit. c) din HCL nr. 236/2020 privind aprobarea Regulamentului pentru concesionarea bunurilor imobile care aparțin domeniului public și privat al orașului Cugir Consiliul local al orasului Cugir, județul Alba; Întrunit în ședința publică ordinară din data de 25 noiembrie 2021; Luând în dezbatere: -Proiectul de hotărâre privind completarea art. 43, alin. (3), l",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C45/P20",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.229_-_Completare_Regulament_de_concesiune_.doc",
+     "sha256": "d75019866b7b6b5970add86c765a759a072798aa28f418393bb44c9752fce2e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-246-2021",
    "path": "local/alba/cugir/2021/246",
    "short": "HCL Cugir nr. 246/2021",

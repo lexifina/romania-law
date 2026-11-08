@@ -3,6 +3,73 @@
 "shard": "local/brasov/rupea/2021",
 "acts": [
 {
+"slug": "hcl-brasov--rupea-9-2021",
+"path": "local/brasov/rupea/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 9/2021 Privind aprobare tarife spatii cu alta destinatie decat cea de locuinta",
+"short": "HCL Rupea nr. 9/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-02-10",
+"latest": "2021-02-10",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--rupea-10-2021",
+"path": "local/brasov/rupea/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 10/2021 privind stabilirea taxelor locale de piata",
+"short": "HCL Rupea nr. 10/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-02-10",
+"latest": "2021-02-10",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--rupea-30-2021",
+"path": "local/brasov/rupea/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rupea nr. 30/2021 privind desemnarea Comisiei de evaluare/selectie prealabilă a membrilor Consiliului de Administratie al SC Serviciul Public Rupea SRLavand ca autoritate tutelara , precum si aprobarea Regulamentului de organizare şi desfăşurare a selecţiei/evaluării prealabileprecum si a s",
+"short": "HCL Rupea nr. 30/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2021",
+"council": "brasov/rupea",
+"council_name": "Consiliul Local al Orașului Rupea",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-brasov--rupea-32-2021",
 "path": "local/brasov/rupea/2021/32",
 "kind": "local",

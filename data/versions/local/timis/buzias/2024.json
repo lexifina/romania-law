@@ -3,6 +3,66 @@
  "shard": "local/timis/buzias/2024",
  "acts": [
   {
+   "slug": "hcl-timis--buzias-100-2024",
+   "path": "local/timis/buzias/2024/100",
+   "short": "HCL Buziaș nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 100/2024 privind aprobarea majorării impozitului aferent anului 2025 cu 500%, pentru imobilul inscris in CF nr. 405825/Buzias -„ Cladire CLUB”, proprietate a contribuabilului LUXMED VEST DISTRIBUTION SRL – ROL 32546451, ca urmare a constatării stării de imobil neîngrijit",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 3,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/HOT.-100-majorare-impozit-cladire-CLUB.pdf",
+     "sha256": "efb388c3c2c26839bb7fa1db07af78910e27f51eb668579db7c7aca6863e8123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-101-2024",
+   "path": "local/timis/buzias/2024/101",
+   "short": "HCL Buziaș nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 101/2024",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+     "sha256": "3b7e283974eb6a372f516487978b5a9cf3bb83b0349159a61bcd6dc3d41dfe03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-102-2024",
+   "path": "local/timis/buzias/2024/102",
+   "short": "HCL Buziaș nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 102/2024",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 3,
+     "source_url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+     "sha256": "5e3c6a29edbccd9ef33e55edb5021edf4543a578f743fe0a58f85612f60002ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-103-2024",
+   "path": "local/timis/buzias/2024/103",
+   "short": "HCL Buziaș nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 103/2024",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+     "sha256": "3b479b372ab128dcc926795604aa0d4bb27fb057b06c431815f789eb3ea2b236"
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--buzias-13-2024",
    "path": "local/timis/buzias/2024/13",
    "short": "HCL Buziaș nr. 13/2024",
@@ -18,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--buzias-16-2024",
+   "path": "local/timis/buzias/2024/16",
+   "short": "HCL Buziaș nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 16/2024 pentru aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale Consiliului local Buzias Consiliul local Buzias, jud",
+   "url": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-16-din-28.03.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 3,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-16-din-28.03.2024.pdf",
+     "sha256": "b03ef993787314e1ef13e3d27240e3ead09b86b719de9a27e0da4a000123e293"
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--buzias-29-2024",
    "path": "local/timis/buzias/2024/29",
    "short": "HCL Buziaș nr. 29/2024",
@@ -29,6 +104,51 @@
      "units": 1,
      "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/Hot.-29-DIN-12.04.2024-aprobare-modificare-HOT.-nr.-111.pdf",
      "sha256": "50a555bac63bb410013c1b8bc992b706b2f684a7116ca69f12d3f4614e2b6e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-37-2024",
+   "path": "local/timis/buzias/2024/37",
+   "short": "HCL Buziaș nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 37/2024 privind organizarea si funcționarea Politiei Romane, republicată, cu modificările si completările ulterioare Tinand seama de prevederile art. 2 alin. 5 din Legea nr. 155/2010 a Politiei Locale, republicata, Luand in considerare prevederile Hotărârii de Guvern nr. 1332 / 2010 privind aprobarea Regulamentului - cadru de organizare si funcționare a politiei locale, cu modificările si completările ult",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-36-41-din-30-05-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/Hot.-37-1-APROBARE-protocol-Politie-Locala-IPJ.pdf",
+     "sha256": "83fa1a218e276341bba147831629983c65988a5c0a7894026bc630dcbf26ab5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-4-2024",
+   "path": "local/timis/buzias/2024/4",
+   "short": "HCL Buziaș nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 4/2024 privind aprobarea primei inscrierii in CF a unor imobile in proprietatea Orasului Buzias – domeniul public si Administrarea Consiliului local oras Buzias Consiliul Local al Orașului Buziaș, județul Timiș ; • Luand in considerare referatul de necesitate al Serviciului Coordonare- Urmărire, investiții, urbanism și amenajarea teritoriului, cadastru, fond funciar din cadrul Primăriei Orașului Buziaș d",
+   "url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-4-DIN-31-IAN-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-4-DIN-31-IAN-2024.pdf",
+     "sha256": "d88b21d04629956240fe562bdc10a9163ab9ae0484daecba58d28b14ad738455"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-42-2024",
+   "path": "local/timis/buzias/2024/42",
+   "short": "HCL Buziaș nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 42/2024 privind aprobarea primei inscrierii in CF a unor imobile in proprietatea Orasului Buzias – domeniul privat si administrarea Consiliului local oras Buzias Consiliul Local al Orașului Buziaș, județul Timiș ; • Luand in considerare raportul Serviciului Coordonare- Urmărire, investiții, urbanism și amenajarea teritoriului, cadastru, fond funciar din cadrul Primăriei Orașului Buziaș din cadrul Primărie",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-42-45-din-28-06-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/Hot.-42-PRIMA-INSCRIERE-CENTURA.pdf",
+     "sha256": "fe93a9c68bb01fe9c2a6298f5acf15c792c3a11aac2b3658fe05dbb0cb95515a"
     }
    ]
   },
@@ -93,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--buzias-5-2024",
+   "path": "local/timis/buzias/2024/5",
+   "short": "HCL Buziaș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 5/2024 privind aprobarea primei inscrierii in CF a unor imobile in proprietatea Orasului Buzias – domeniul public si Administrarea Consiliului local oras Buzias Consiliul Local al Orașului Buziaș, județul Timiș ; • Luand in considerare referatul de necesitate al Serviciului Coordonare- Urmărire, investiții, urbanism și amenajarea teritoriului, cadastru, fond funciar din cadrul Primăriei Orașului Buziaș d",
+   "url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-5-DIN-31-IAN-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-5-DIN-31-IAN-2024.pdf",
+     "sha256": "2dbffd198374f17a2d4a5fcedf843b365856c30d636cd496b0dcb2eb02b96942"
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--buzias-55-2024",
    "path": "local/timis/buzias/2024/55",
    "short": "HCL Buziaș nr. 55/2024",
@@ -119,6 +254,21 @@
      "units": 1,
      "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/HOT.-NR.-56-PRVIND-ACORD-EXTINDERE-RETEA-APA.pdf",
      "sha256": "334584675148351ad6f75255ad9ed9c1bb6bda4f10eed30c6d7f6451114797bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-6-2024",
+   "path": "local/timis/buzias/2024/6",
+   "short": "HCL Buziaș nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 6/2024 PRIVIND ACOPERIREA DEFINITIVA A DEFICITULUI BUGETAR DIN ANUL 2023 Consiliul Local al orașului Buziaș, jud. Timiș, Având în vedere: - Referatul de necesitate nr. 90/08.01.2024 al Serviciului contabilitate, buget – finante , impozite și taxe din cadrul Primăriei oraș Buzias, prin care se propune acoperirea definitivă a deficitului sectiunii dezvoltare, pentru acoperire definitivă a acestuia în sumă",
+   "url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-6-DIN-31-IAN-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-6-DIN-31-IAN-2024.pdf",
+     "sha256": "cd0be060e108e036b2a02a7c5296c7638085ff2376fe5543f89396622f250e55"
     }
    ]
   },
@@ -164,6 +314,51 @@
      "units": 1,
      "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/HOT.-NR.-77-APROBARE-VANZARE-TEREN-404007-18-11-2024.pdf",
      "sha256": "46178bbac42dc94ac2601b3409fa916f046b2ddcf87a20ee9092f10fa5a501f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-89-2024",
+   "path": "local/timis/buzias/2024/89",
+   "short": "HCL Buziaș nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 89/2024 pentru aprobarea aprobarea valorilor finale a investitiilor realizate pe raza localitatii orasului Buzias si actualizarea acestora în evidentele financiar-contabile Consiliul Local al orașului Buziaș, Având în vedere: - Finalizarea obiectivelor de investiții, realizate pe raza localitatii orasului Buzias, - Referatul de necesitate al Serviciului buget, finanțe, impozite și taxe din cadrul Primărie",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-78-91-din-28-11-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/HOT.-89-APROBARE-VALOARI-FINALE-INVESTITII.pdf",
+     "sha256": "750bb97b91f704822d165b4233721504634454139f9ace640055a52a2fea92c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-94-2024",
+   "path": "local/timis/buzias/2024/94",
+   "short": "HCL Buziaș nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 94/2024",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-94-98-din-23-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2025/06/Hot.-94-impozite-si-taxe-2025.pdf",
+     "sha256": "fd8212e2bd18d8c19b9ce3f3955e79e214def027d2f7ba71fb6e5f0fc8653141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--buzias-99-2024",
+   "path": "local/timis/buzias/2024/99",
+   "short": "HCL Buziaș nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 99/2024",
+   "url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/documente/hcl-nr-99-103-din-30-12-2024/",
+     "sha256": "15e2c996a06541676b6ca3e5a5ab386d84b9e92bdcd76c1b1e92f51132d2984b"
     }
    ]
   }

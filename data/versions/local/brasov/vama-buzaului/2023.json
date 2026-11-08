@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/vama-buzaului/2023",
+ "acts": [
+  {
+   "slug": "hcl-brasov--vama-buzaului-147-2023",
+   "path": "local/brasov/vama-buzaului/2023/147",
+   "short": "HCL Vama Buzăului nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 147/2023 nr. 147 din 29.11.2023 - privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al comunei Vama Buzăului, până la data de 31.12.2026",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2023",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 4,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2023-11-29-147.pdf",
+     "sha256": "3ecd9cfc78aecf43cd9d46cbb6720f21382e45076758cd5b735b4dfd9fb7fd1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-153-2023",
+   "path": "local/brasov/vama-buzaului/2023/153",
+   "short": "HCL Vama Buzăului nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 153/2023 privind stabilirea impozitelor pe mijloacele de transport cu masa totală autorizată egală sau mai mare de 12 T, pentru anul 2024, la nivelul comunei Vama Buzăului, județul Brașov Consiliul Local al comunei Vama Buzăului, Întrunit în ședință extraordinară la data de 15.12.2023; Analizând proiectul de hotărâre inițiat de Viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2023-12-15-153.pdf",
+     "sha256": "96aee214b66927d6131237a9f505630dccf26524f3520d23290b9fa7bb55c4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-158-2023",
+   "path": "local/brasov/vama-buzaului/2023/158",
+   "short": "HCL Vama Buzăului nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 158/2023 nr. 158 din 22.12.2023 - privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Vama Buzăului, pentru anul 2024",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2023",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 7,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2023-12-22-158.pdf",
+     "sha256": "beee83be2bc7e791932a1319c65747f5f2dfd0321dd5813cb87f8f6a9b66c062"
+    }
+   ]
+  }
+ ]
+}

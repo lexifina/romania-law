@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-102-2021",
+"path": "local/iasi/targu-frumos/2021/102",
+"kind": "local",
+"year": "2021",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 102/2021 pentru modificarea Hotărârii nr. 24 din 28.02.2019 privind stabilirea componenței echipei mobile de intervenție în cazurile de violență domestică în Orașul Târgu Frumos",
+"short": "HCL Târgu Frumos nr. 102/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9316",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-103-2021",
+"path": "local/iasi/targu-frumos/2021/103",
+"kind": "local",
+"year": "2021",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 103/2021",
+"short": "HCL Târgu Frumos nr. 103/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-112-2021",
 "path": "local/iasi/targu-frumos/2021/112",
 "kind": "local",
@@ -111,6 +156,95 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-131-2021",
+"path": "local/iasi/targu-frumos/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 131/2021",
+"short": "HCL Târgu Frumos nr. 131/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-132-2021",
+"path": "local/iasi/targu-frumos/2021/132",
+"kind": "local",
+"year": "2021",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 132/2021 privind stabilirea impozitelor şi taxelor locale si a altor sume care se fac venit al bugetului local pentru anul 2022",
+"short": "HCL Târgu Frumos nr. 132/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15378",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-134-2021",
+"path": "local/iasi/targu-frumos/2021/134",
+"kind": "local",
+"year": "2021",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 134/2021 privind aprobarea bugetului estimat necesar organizării manifestărilor dedicate zilei Unirii Principatelor Române – 24 ianuarie 2022",
+"short": "HCL Târgu Frumos nr. 134/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15380",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-136-2021",
+"path": "local/iasi/targu-frumos/2021/136",
+"kind": "local",
+"year": "2021",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 136/2021 privind aprobarea Planului anual şi a Planului lunar de activităţi, care se vor desfăşura cu personalul beneficiar al venitului minim garantat, în anul 2022",
+"short": "HCL Târgu Frumos nr. 136/2021",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15382",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_withheld": "personal_data"
 }
 }
 ]

@@ -453,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--santana-138-2010",
+   "path": "local/arad/santana/2010/138",
+   "short": "HCL Sântana nr. 138/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 138/2010 PRIVIND APROBAREA REGULAMENTULUI PENTRU INREGISTRAREA , EVIDENTA SI RADIEREA VEHICULELOR DE PE RAZA ORASULUI SANTANA , CARE NU SE SUPUN INMATRICULARII",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=342",
+   "versions": [
+    {
+     "from": "2010-11-16",
+     "units": 4,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0138_2010_11_16.pdf",
+     "sha256": "011242a74549255789b4e5e14214a3ef093b5ab1183089e71493be9cfded3a07"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--santana-14-2010",
    "path": "local/arad/santana/2010/14",
    "short": "HCL Sântana nr. 14/2010",

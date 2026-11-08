@@ -3,6 +3,771 @@
  "shard": "local/calarasi/crivat/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--crivat-1-2022",
+   "path": "local/calarasi/crivat/2022/1",
+   "short": "HCL Crivăț nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 1/2022 privind aprobarea executie bugetare pe trimestrul IV, anul 2021,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/48856",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/48856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-11-2022",
+   "path": "local/calarasi/crivat/2022/11",
+   "short": "HCL Crivăț nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 11/2022 privind aprobarea Planului annual de investitii si cheltuieli pentru anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/54666",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/54666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-12-2022",
+   "path": "local/calarasi/crivat/2022/12",
+   "short": "HCL Crivăț nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 12/2022 privind aprobarea actualizarea programului achizitiilor publice pe anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/54667",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/54667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-13-2022",
+   "path": "local/calarasi/crivat/2022/13",
+   "short": "HCL Crivăț nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 13/2022 privind aprobarea Studiului de Fezabilitate pentru ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a indicatorilor tehnico-economici pentru Comuna Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/54668",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/54668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-14-2022",
+   "path": "local/calarasi/crivat/2022/14",
+   "short": "HCL Crivăț nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 14/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/55937",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/55937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-15-2022",
+   "path": "local/calarasi/crivat/2022/15",
+   "short": "HCL Crivăț nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 15/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/55938",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/55938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-17-2022",
+   "path": "local/calarasi/crivat/2022/17",
+   "short": "HCL Crivăț nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 17/2022 privind aprobarea depunerii proiectului “Lucrari de crestere a eficientei enrgetice – Primaria comunei Crivat, judetul Calarasi,” la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei, prin Planul National de Redresare si Rezilienta – PNRR – COMPONENTA C5 – VALUL RENOVARII – AXA 2 – SCHEMA DE GRANTURI PENTRU EFICIENTA ENERGETICA SI REZILIENTA IN CLADIRI PUBLICE – OPERATIUNEA B.2: RENOVAREA ENERGETICA MODERATA SAU APROFUNDATA A CLADIRILOR PUBLICE",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/55940",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/55940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-18-2022",
+   "path": "local/calarasi/crivat/2022/18",
+   "short": "HCL Crivăț nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 18/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/56675",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/56675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-19-2022",
+   "path": "local/calarasi/crivat/2022/19",
+   "short": "HCL Crivăț nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 19/2022 privind aprobarea cofinantarii investitiilor din ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Comunei Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/56676",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/56676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-2-2022",
+   "path": "local/calarasi/crivat/2022/2",
+   "short": "HCL Crivăț nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 2/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/48857",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/48857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-20-2022",
+   "path": "local/calarasi/crivat/2022/20",
+   "short": "HCL Crivăț nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 20/2022 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei a proiectului privind obiectivul ”Infiintare retea de gaze in comuna Crivat, judetul calarasi”,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/57913",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/57913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-21-2022",
+   "path": "local/calarasi/crivat/2022/21",
+   "short": "HCL Crivăț nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 21/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/58285",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/58285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-22-2022",
+   "path": "local/calarasi/crivat/2022/22",
+   "short": "HCL Crivăț nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 22/2022 privind aprobarea executie bugetare pe trimestrul I, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/58286",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/58286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-23-2022",
+   "path": "local/calarasi/crivat/2022/23",
+   "short": "HCL Crivăț nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 23/2022 privind aprobarea achizitionarii si instalarii unui sistem de supraveghere video in punctele strategice ale comunei Crivat pentru cresterea sigurantei cetatenilor si prevenirii criminalitatii,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/58287",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/58287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-24-2022",
+   "path": "local/calarasi/crivat/2022/24",
+   "short": "HCL Crivăț nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 24/2022 privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/58288",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/58288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-25-2022",
+   "path": "local/calarasi/crivat/2022/25",
+   "short": "HCL Crivăț nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 25/2022 privind aprobarea Regulamentului de Organizare si Functionare al aparatului de specialitate al primarului comunei Crivat, judetul Calarasi,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/58289",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/58289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-26-2022",
+   "path": "local/calarasi/crivat/2022/26",
+   "short": "HCL Crivăț nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 26/2022 privind aprobarea depunerii proiectului ,,Actualizare si transpunere in format digital/GIS a Planului Urbanistic General (P.U.G) si a Regulamentului Local de Urbanism (RLU) ale comunei Crivat\" la Ministerul dezvoltarii, Lucrarilor Publice si Administratiei, prin Planul National de Redresare si Rezilienta, în cadrul PNRR/Componenta C10 – Fondul Local și a cheltuielilor aferente acestui proiect",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/60209",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/60209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-27-2022",
+   "path": "local/calarasi/crivat/2022/27",
+   "short": "HCL Crivăț nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 27/2022 privind aprobarea bugetului proiectului „ CRESTEREA CAPACITATII DE INTERVENTIE A SERVICIULUI VOLUNTAR PENTRU SITUATII DE URGENTA IN COMUNA CRIVAT, JUDETUL CALARASI , PRIN DOTAREA CU UN UTILAJ MULTIFUNCTIONAL MODERN, IMPREUNA CU ACCESORIILE SPECIFICE ” - contract de finantare prin AFIR nr. C1920074X210181208488/07.09.2021 si actele aditionale si a aprobarii solicitării unei scrisori de garanție de la FGCR IFN SA in vederea garantarii obligatiilor de plata a avansului din fondurile nerambursabile",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/60574",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/60574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-28-2022",
+   "path": "local/calarasi/crivat/2022/28",
+   "short": "HCL Crivăț nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 28/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/60575",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/60575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-30-2022",
+   "path": "local/calarasi/crivat/2022/30",
+   "short": "HCL Crivăț nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 30/2022 privind atestarea apartenentei la domeniul privat al comunei Crivat a unui imobil - teren intravilan in suprafata de 5.407 mp situat in comuna Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/61618",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/61618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-31-2022",
+   "path": "local/calarasi/crivat/2022/31",
+   "short": "HCL Crivăț nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 31/2022 privind atestarea apartenentei la domeniul privat al comunei Crivat a unui imobil - teren intravilan in suprafata de 582 mp situat in comuna Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/61619",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/61619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-32-2022",
+   "path": "local/calarasi/crivat/2022/32",
+   "short": "HCL Crivăț nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 32/2022 privind transformarea postului de executie vacant de consilier clasa I, grad profesional superior din cadrul Compartimentului contabilitate in referent casa III, gradul debutant - Compartimentul contabilitate,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/61620",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/61620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-33-2022",
+   "path": "local/calarasi/crivat/2022/33",
+   "short": "HCL Crivăț nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 33/2022 privind aprobarea Regulamentului-cadru privind organizarea şi desfăşurarea licitaţiilor publice privind inchirierea/concesionarea bunurilor immobile proprietate publica/privata a comunei Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/61621",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/61621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-34-2022",
+   "path": "local/calarasi/crivat/2022/34",
+   "short": "HCL Crivăț nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 34/2022 privind aprobarea indicatorilor tehnico-economici la obiectivul de investitii “Infiintare parc in comuna Crivat, judetul Calarasi”,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/63921",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/63921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-36-2022",
+   "path": "local/calarasi/crivat/2022/36",
+   "short": "HCL Crivăț nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 36/2022 privind atestarea apartenentei la domeniul privat al comunei Crivat a unui imobil - teren arabil, in suprafata de 42472 mp, situat in comuna Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/63923",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/63923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-37-2022",
+   "path": "local/calarasi/crivat/2022/37",
+   "short": "HCL Crivăț nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 37/2022 privind atestarea apartenentei la domeniul privat al comunei Crivat a unui imobil - teren categoria de folosinta curti constructii, in suprafata de 38 mp, situat in comuna Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/63924",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/63924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-4-2022",
+   "path": "local/calarasi/crivat/2022/4",
+   "short": "HCL Crivăț nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 4/2022 privind aprobarea bugetului local al comunei Crivat , judetul Calarasi pe anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/52463",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/52463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-40-2022",
+   "path": "local/calarasi/crivat/2022/40",
+   "short": "HCL Crivăț nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 40/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul II, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/64257",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/64257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-41-2022",
+   "path": "local/calarasi/crivat/2022/41",
+   "short": "HCL Crivăț nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 41/2022 privind aprobarea executie bugetare pe trimestrul II, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/65974",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/65974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-42-2022",
+   "path": "local/calarasi/crivat/2022/42",
+   "short": "HCL Crivăț nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 42/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/65975",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/65975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-43-2022",
+   "path": "local/calarasi/crivat/2022/43",
+   "short": "HCL Crivăț nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 43/2022 privind aprobarea Regulamentului de organizare și funcționare al compartimentului asistență socială organizat la nivelul comunei Crivat, judeţul Călăraşi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/65976",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/65976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-44-2022",
+   "path": "local/calarasi/crivat/2022/44",
+   "short": "HCL Crivăț nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 44/2022 pentru aprobarea Planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul local al comunei Crivat, judeţul Călăraşi, în anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/65977",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/65977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-46-2022",
+   "path": "local/calarasi/crivat/2022/46",
+   "short": "HCL Crivăț nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 46/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67778",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-47-2022",
+   "path": "local/calarasi/crivat/2022/47",
+   "short": "HCL Crivăț nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 47/2022 privind aprobarea Planului local de acțiune privind incluziunea cetățenilor români aparținând minorității rome pentru anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67779",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-49-2022",
+   "path": "local/calarasi/crivat/2022/49",
+   "short": "HCL Crivăț nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 49/2022 privind atestarea apartenentei la domeniul privat al comunei Crivat a unui imobil - teren arabil, in suprafata de 260.121 mp, situat in comuna Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67781",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-5-2022",
+   "path": "local/calarasi/crivat/2022/5",
+   "short": "HCL Crivăț nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 5/2022 privind aprobarea şi utilizarea excedentului bugetului local al comunei Crivat, din anul 2021 pentru anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/52464",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/52464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-50-2022",
+   "path": "local/calarasi/crivat/2022/50",
+   "short": "HCL Crivăț nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 50/2022 privind aprobarea documentatiei de dezmembrare a imobilului cu numar cadastral 24611, inscris in cartea funciara nr. 24611, teren aflat in proprietatea privata a comunei Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67782",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-51-2022",
+   "path": "local/calarasi/crivat/2022/51",
+   "short": "HCL Crivăț nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 51/2022 privind aprobarea documentatiei de dezmembrare a imobilului cu numar cadastral 25993, inscris in cartea funciara nr. 25993, teren aflat in proprietatea privata a comunei Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67783",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-52-2022",
+   "path": "local/calarasi/crivat/2022/52",
+   "short": "HCL Crivăț nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 52/2022 privind aprobarea indicatorilor tehnico economici pentru obiectivul de investitii ,,Lucrarii de reparatii Pod provizoriu Arges\",",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/67784",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/67784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-53-2022",
+   "path": "local/calarasi/crivat/2022/53",
+   "short": "HCL Crivăț nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 53/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/68735",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/68735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-54-2022",
+   "path": "local/calarasi/crivat/2022/54",
+   "short": "HCL Crivăț nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 54/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/69350",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/69350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-55-2022",
+   "path": "local/calarasi/crivat/2022/55",
+   "short": "HCL Crivăț nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 55/2022 privind aprobarea documentatiei de dezmembrare a imobilului cu numar cadastral 26355, inscris in cartea funciara nr. 26355, teren aflat in proprietatea publica a comunei Crivat,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/71043",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/71043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-56-2022",
+   "path": "local/calarasi/crivat/2022/56",
+   "short": "HCL Crivăț nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 56/2022 Privind atestarea inventarului bunurilor care apartin domeniului public al comunei Crivat, judetul Calarasi,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/71044",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/71044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-58-2022",
+   "path": "local/calarasi/crivat/2022/58",
+   "short": "HCL Crivăț nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 58/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/71046",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/71046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-59-2022",
+   "path": "local/calarasi/crivat/2022/59",
+   "short": "HCL Crivăț nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 59/2022 privind aprobarea rectificarii bugetului local al comunei Crivat, pe trimestrul III, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/73792",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/73792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-6-2022",
+   "path": "local/calarasi/crivat/2022/6",
+   "short": "HCL Crivăț nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 6/2022 privind aprobarea planului de actiuni al persoanelor apte de munca beneficiare de ajutor social pe anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/52465",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/52465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-60-2022",
+   "path": "local/calarasi/crivat/2022/60",
+   "short": "HCL Crivăț nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 60/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/76377",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/76377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-61-2022",
+   "path": "local/calarasi/crivat/2022/61",
+   "short": "HCL Crivăț nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 61/2022 privind aprobarea inchirierii utilajului buldoescavator aflat in proprietatea comunei Crivat si stabilirea taxei speciale de inchiriere,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/76378",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/76378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-62-2022",
+   "path": "local/calarasi/crivat/2022/62",
+   "short": "HCL Crivăț nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 62/2022 privind aprobarea executie bugetare pe trimestrul IIi, anul 2022,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/76379",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/76379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-63-2022",
+   "path": "local/calarasi/crivat/2022/63",
+   "short": "HCL Crivăț nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 63/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/76380",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/76380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-64-2022",
+   "path": "local/calarasi/crivat/2022/64",
+   "short": "HCL Crivăț nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 64/2022 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul I al anului 2022 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/76381",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/76381",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-66-2022",
    "path": "local/calarasi/crivat/2022/66",
    "short": "HCL Crivăț nr. 66/2022",
@@ -58,6 +823,21 @@
      "from": "2022-11-08",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/78724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-7-2022",
+   "path": "local/calarasi/crivat/2022/7",
+   "short": "HCL Crivăț nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 7/2022 privind aprobarea sustinarii financiare a echipei de fotbal ,, Fotbal Club 2006 Partizan Crivat\", in anul 2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/53186",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/53186",
      "sha256": null
     }
    ]
@@ -208,6 +988,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/82556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-8-2022",
+   "path": "local/calarasi/crivat/2022/8",
+   "short": "HCL Crivăț nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 8/2022",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/54663",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/54663",
      "sha256": null
     }
    ]

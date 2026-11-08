@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/salcea/2024",
+ "acts": [
+  {
+   "slug": "hcl-suceava--salcea-101-2024",
+   "path": "local/suceava/salcea/2024/101",
+   "short": "HCL Salcea nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 101/2024 pentru aprobarea Regulamentului privind ridicarea, transportul, depozitarea și restituirea vehiculelor staționate neregulamentar.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%20101%20din%2017.12.2024%20pentru%20aprobarea%20Regulamentului%20privind%20ridicarea,%20transportul,%20depozitarea%20%C8%99i%20restituirea%20vehiculelor%20sta%C8%9Bionate%20neregulamentar.pdf",
+     "sha256": "5a7c52a22b25fea4fa84b16c13fb33f4beb1595948cebe5cdd553cd3b53f10a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-104-2024",
+   "path": "local/suceava/salcea/2024/104",
+   "short": "HCL Salcea nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 104/2024 privind scutirea de la plata taxei locale de ecologizare conform HCL nr. 191 din 22.12.2023.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%20104%20din%2017.12.2024%20privind%20scutirea%20de%20la%20plata%20taxei%20locale%20de%20ecologizare%20conform%20HCL%20nr.%20191%20din%2022.12.2023.pdf",
+     "sha256": "78c2c03da37a3f831c9ed7dee3998f7e850561f613a63950be81c8358d018f66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-106-2024",
+   "path": "local/suceava/salcea/2024/106",
+   "short": "HCL Salcea nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 106/2024 privind aprobarea PUZ ”Introducere teren în intravilan în vederea construirii unei locuințe” pe parcela de teren în suprafață de 800 mp.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%20106%20din%2017.12.2024%20privind%20aprobarea%20PUZ%20%E2%80%9DIntroducere%20teren%20%C3%AEn%20intravilan%20%C3%AEn%20vederea%20construirii%20unei%20locuin%C8%9Be%E2%80%9D%20pe%20parcela%20de%20teren%20%C3%AEn%20suprafa%C8%9B%C4%83%20de%20800%20mp.pdf",
+     "sha256": "e93d9d52ce488bafe363f143033dd0717d4d89796f09b2dce33a99320e7c75e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-107-2024",
+   "path": "local/suceava/salcea/2024/107",
+   "short": "HCL Salcea nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 107/2024 privind aprobarea PUZ ”Întocmire documentație PUZ pentru suprafața de 7552 mp” (Lucuț, Hlade).pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%20107%20din%2017.12.2024%20privind%20aprobarea%20PUZ%20%E2%80%9D%C3%8Entocmire%20documenta%C8%9Bie%20PUZ%20pentru%20suprafa%C8%9Ba%20de%207552%20mp%E2%80%9D%20(Lucu%C8%9B,%20Hlade).pdf",
+     "sha256": "d9889f546e92b23ee9a5173deca313122a28ccc6c4213e209db55121ed17e14a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-123-2024",
+   "path": "local/suceava/salcea/2024/123",
+   "short": "HCL Salcea nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 123/2024 privind stabilirea taxei locale de salubrizare pentru anul 2025 în Orașul Salcea.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%20123%20din%2017.12.2024%20privind%20stabilirea%20taxei%20locale%20de%20salubrizare%20pentru%20anul%202025%20%C3%AEn%20Ora%C8%99ul%20Salcea.pdf",
+     "sha256": "380cf7785d83d40fa74934d631cebbfcf1275c9927b7ba2e2c090ad2e641fc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-21-2024",
+   "path": "local/suceava/salcea/2024/21",
+   "short": "HCL Salcea nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 21/2024 privind aprobarea PUZ în vederea ”Întocmire documentație PUZ pentru suprafața de 2400 mp ... parcela cu nr cadastral 39750.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2021%20din%2019.02.2024%20privind%20aprobarea%20PUZ%20%C3%AEn%20vederea%20%E2%80%9D%C3%8Entocmire%20documenta%C8%9Bie%20PUZ%20pentru%20suprafa%C8%9Ba%20de%202400%20mp%20...%20parcela%20cu%20nr%20cadastral%2039750.pdf",
+     "sha256": "d0e7de10f2c7dd9a25d8c81bea44166ad65018141cfcc9fa75c08c150eaaacb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-28-2024",
+   "path": "local/suceava/salcea/2024/28",
+   "short": "HCL Salcea nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 28/2024 privind aprobarea Normelor procedurale interne pentru organizarea și desfășurarea Procedurii simplificate proprii pt atribuirea contractelor de achiziție publică.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2028%20din%2019.03.2024%20privind%20aprobarea%20Normelor%20procedurale%20interne%20pentru%20organizarea%20%C8%99i%20desf%C4%83%C8%99urarea%20Procedurii%20simplificate%20proprii%20pt%20atribuirea%20contractelor%20de%20achizi%C8%9Bie%20public%C4%83.pdf",
+     "sha256": "49e60254d34bbd86de0309329956d0039f0df8797d7c7b0b2da01dec29993769"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-44-2024",
+   "path": "local/suceava/salcea/2024/44",
+   "short": "HCL Salcea nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 44/2024 privind aprobarea modificării tarifului aplicat pentru activitatea prestată de SC Ritmic COM SRL.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2044%20din%2015.07.2024%20privind%20aprobarea%20modific%C4%83rii%20tarifului%20aplicat%20pentru%20activitatea%20prestat%C4%83%20de%20SC%20Ritmic%20COM%20SRL.pdf",
+     "sha256": "44b7e6794c4688420b1602779b2880f1e986809aff52fd77f226641aabb0ac32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-56-2024",
+   "path": "local/suceava/salcea/2024/56",
+   "short": "HCL Salcea nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 56/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență și a ajutoarelor comunitare prevăzute de Legea nr. 196 din 2016 privind VMI.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2056%20din%2010.10.2024%20privind%20aprobarea%20Regulamentului%20de%20acordare%20a%20ajutoarelor%20de%20urgen%C8%9B%C4%83%20%C8%99i%20a%20ajutoarelor%20comunitare%20prev%C4%83zute%20de%20Legea%20nr.%20196%20din%202016%20privind%20VMI.pdf",
+     "sha256": "cf15aacf1f3566806a0e39891ad257bf6730a4fb3beba0816aba9bbf8caeaf8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-61-2024",
+   "path": "local/suceava/salcea/2024/61",
+   "short": "HCL Salcea nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 61/2024 privind aprobarea PUZ în vederea ”Întocmire documentație PUZ pentru suprafața de 3005 mp teren arabil, parcela cu nr. cadastral 32305 [...]”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2061%20din%2010.10.2024%20privind%20aprobarea%20PUZ%20%C3%AEn%20vederea%20%E2%80%9D%C3%8Entocmire%20documenta%C8%9Bie%20PUZ%20pentru%20suprafa%C8%9Ba%20de%203005%20mp%20teren%20arabil,%20parcela%20cu%20nr.%20cadastral%2032305%20%5B...%5D%E2%80%9D.pdf",
+     "sha256": "6f11e166d6a56ecf804bb48e40ce4ef27c0334e900e1b87a14db5dfdbc90ab49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-62-2024",
+   "path": "local/suceava/salcea/2024/62",
+   "short": "HCL Salcea nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 62/2024 privind aprobarea Planului Urbanistic Zonal în vederea ”Întocmire documentație PUZ pentru suprafața de 2409 mp teren arabil [...]”.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2062%20din%2010.10.2024%20privind%20aprobarea%20Planului%20Urbanistic%20Zonal%20%C3%AEn%20vederea%20%E2%80%9D%C3%8Entocmire%20documenta%C8%9Bie%20PUZ%20pentru%20suprafa%C8%9Ba%20de%202409%20mp%20teren%20arabil%20%5B...%5D%E2%80%9D.pdf",
+     "sha256": "6b891e7fb6ecda822948bb5e40b4a1dd7a07d5c03c7606b1234b8b2c998f0b23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--salcea-64-2024",
+   "path": "local/suceava/salcea/2024/64",
+   "short": "HCL Salcea nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Salcea nr. 64/2024 privind scutirea de la plata taxei locale de ecologizare conform HCL nr. 191 din 22.12.2023.pdf",
+   "url": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "http://www.primariasalcea.ro/media/HCL%202024/HCL%20nr.%2064%20din%2010.10.2024%20privind%20scutirea%20de%20la%20plata%20taxei%20locale%20de%20ecologizare%20conform%20HCL%20nr.%20191%20din%2022.12.2023.pdf",
+     "sha256": "c0ae262658d52053f38a1b60491b659d5bfb7206cd0819f268d595c81b3dc515"
+    }
+   ]
+  }
+ ]
+}

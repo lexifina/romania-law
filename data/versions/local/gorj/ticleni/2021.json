@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2021",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-22-2021",
+   "path": "local/gorj/ticleni/2021/22",
+   "short": "HCL Țicleni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 22/2021 privind completarea HCL nr. 30 din 30.04.2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/01/HCL-22-din-25-feb-2021-privind-completare-HCL-30-din-30.04.2020-priv-stabilirea-impozitelor-si-taxelor-locale-pe-anul-2021.pdf",
+     "sha256": "92abdf6a1d9a4abbf04148f2ea69c178a9ad49468654a021c500cacf1e5acc30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-35-2021",
+   "path": "local/gorj/ticleni/2021/35",
+   "short": "HCL Țicleni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 35/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2021",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/02/HCL-nr.35-DIN-28.04.202-privind-stabilirea-impozitelor-si-taxelor-locale.pdf",
+     "sha256": "405eb819d3e7d4b111686ddf04834c77d1c5af1c194be35cda065b1d28a097b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-68-2021",
+   "path": "local/gorj/ticleni/2021/68",
+   "short": "HCL Țicleni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 68/2021 privind modificarea HCL nr. 7 din 30.06.2016 pentru aprobarea Regulamentului privind repartizarea, închirierea, exploatarea și administrarea locuințelor sociale din orașul Țicleni, stabilirea criteriilor de repartizare a acestora, precum și pentru constituirea comisiei de a",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2021",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/02/HCL-nr.68-din-28.09.2021-privind-modificarea-HCL-7-din-30.06.2016.pdf",
+     "sha256": "d9eb2e7bfb2d01665958c29bb36dbe4e8ce351301dc581398091815a31102850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-82-2021",
+   "path": "local/gorj/ticleni/2021/82",
+   "short": "HCL Țicleni nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 82/2021 privind modificarea HCL nr. 35 din de 28.04.2021 privind stabilierea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2021",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/02/Hcl-nr.82-din-28.10.2021-privind-modificarea-Hcl-nr.35-din-28.04.2021.pdf",
+     "sha256": "9c41898f310a0c268b4ed674d5cef4af65e58b2c10d22c41cf1fd38b23712ccc"
+    }
+   ]
+  }
+ ]
+}

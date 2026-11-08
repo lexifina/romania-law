@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/batani/2023",
+"acts": [
+{
+"slug": "hcl-covasna--batani-49-2023",
+"path": "local/covasna/batani/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bățani nr. 49/2023 privind prelungirea valabilitatii PUG al comunei Batani.pdf",
+"short": "HCL Bățani nr. 49/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-11-21",
+"latest": "2023-11-21",
+"portal": "https://nagybacon.ro/ro/monitorul-oficial-local",
+"council": "covasna/batani",
+"council_name": "Consiliul Local al Comunei Bățani",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/buzau/valea-salciei/2018",
+"acts": [
+{
+"slug": "hcl-buzau--valea-salciei-2-2018",
+"path": "local/buzau/valea-salciei/2018/2",
+"kind": "local",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 2/2018",
+"short": "HCL Valea Salciei nr. 2/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-01-04",
+"latest": "2018-01-04",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-2-din-04.01.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

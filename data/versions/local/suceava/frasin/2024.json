@@ -3,6 +3,21 @@
  "shard": "local/suceava/frasin/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--frasin-14-2024",
+   "path": "local/suceava/frasin/2024/14",
+   "short": "HCL Frasin nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 14/2024 privind aprobarea de cheltuieli legate de tencuirea părții interioare a gardului de la cimitirul Doroteia",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-14-din-02-02-2024-cheltuieli-legate-de-tencuirea-partii-interioare-a-gardului-de-la-cimitirul-doroteia/",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 3,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2024/04/HCL-nr.-14-din-02.02.2024-cheltuieli-legate-de-tencuirea-partii-interioare-a-gardului-de-la-cimitirul-Doroteia.pdf",
+     "sha256": "021536e1aad203ba131ee86ca896103c1931283ed785603fbe6eec3541c67026"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--frasin-166-2024",
    "path": "local/suceava/frasin/2024/166",
    "short": "HCL Frasin nr. 166/2024",
@@ -14,6 +29,51 @@
      "units": 1,
      "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2024/12/HCL-nr.166-din-23.12.2024-privind-aprobarea-impozitelor-si-taxelor-pocale-pentru-anul-2025.pdf",
      "sha256": "0ec08503447eee037bdddf74ed154974960bbb905eae777bbe347b5acedfca28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-3-2024",
+   "path": "local/suceava/frasin/2024/3",
+   "short": "HCL Frasin nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 3/2024 privind inventarierea materiei impozabile pentru anul fiscal 2024",
+   "url": "https://www.primariaorasuluifrasin.ro/hcl-nr-3-din-02-02-2024-inventarierea-materiei-impozabile-pt-anul-fiscal-2024/",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 5,
+     "source_url": "https://www.primariaorasuluifrasin.ro/wp-content/uploads/2024/04/HCL-nr.-3-din-02.02.2024-inventarierea-materiei-impozabile-pt-anul-fiscal-2024-.pdf",
+     "sha256": "407a1f43e2e4481051545d9779b56b3175deb4fe0d11df8a0425a09805e22fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-46-2024",
+   "path": "local/suceava/frasin/2024/46",
+   "short": "HCL Frasin nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 46/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aa6d501fa236b5a71cf621d47a2f470d9b541d0b16ed64c1c07f8fd7e5edd051"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--frasin-75-2024",
+   "path": "local/suceava/frasin/2024/75",
+   "short": "HCL Frasin nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Frasin nr. 75/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6150a9bf2f0ea8c51109c2399a06e0a7e7108f889fd0ea0ff5ca46f75c9af15b"
     }
    ]
   }

@@ -1001,6 +1001,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--lucieni-68-2022",
+"path": "local/dambovita/lucieni/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 68/2022 privind alegerea președintelui de ședința pentru o perioadă de 3 luni, noiembrie 2022-ianuarie 2023",
+"short": "HCL Lucieni nr. 68/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#31362",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--lucieni-70-2022",
 "path": "local/dambovita/lucieni/2022/70",
 "kind": "local",
@@ -1042,6 +1064,205 @@
 "council_name": "Consiliul Local al Comunei Lucieni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-73-2022",
+"path": "local/dambovita/lucieni/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 73/2022 privind aprobarea depunerii proiectului “Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și de canalizare existente” în vederea obținerii de finanțare prin Planul Național de Redresare și Reziliență, Componenta C1 - Managementul apei, Investiția 3. Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și canalizare existente",
+"short": "HCL Lucieni nr. 73/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#33340",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-79-2022",
+"path": "local/dambovita/lucieni/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 79/2022 privind aprobarea rețelei școlare de pe raza UAT Lucieni, județul Dâmbovița, pentru anul școlar 2023-2024",
+"short": "HCL Lucieni nr. 79/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#35057",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-83-2022",
+"path": "local/dambovita/lucieni/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 83/2022 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav din comuna Lucieni, pentru anul 2023",
+"short": "HCL Lucieni nr. 83/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#36389",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-84-2022",
+"path": "local/dambovita/lucieni/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 84/2022 privind aprobarea cuantumului cotizației U.A.T. Lucieni ca membru al Asociației de Dezvoltare Intercomunitară ,,APA Dâmbovița” pentru anul 2023",
+"short": "HCL Lucieni nr. 84/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-85-2022",
+"path": "local/dambovita/lucieni/2022/85",
+"kind": "local",
+"year": "2022",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 85/2022",
+"short": "HCL Lucieni nr. 85/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-86-2022",
+"path": "local/dambovita/lucieni/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 86/2022 privind aprobarea scăderii din evidența fiscală a creanțelor fiscale datorate de către debitorii - persoane fizice pentru care a fost împlinit termenul prescripției fiscale de 5 ani",
+"short": "HCL Lucieni nr. 86/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#36710",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-88-2022",
+"path": "local/dambovita/lucieni/2022/88",
+"kind": "local",
+"year": "2022",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 88/2022 privind actualizarea indicatorilor tehnico - economici după finalizarea lucrărilor pentru obiectivul „Modernizare străzi în satele Lucieni si Olteni, comuna Lucieni, județul Dâmbovița”",
+"short": "HCL Lucieni nr. 88/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#36756",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-89-2022",
+"path": "local/dambovita/lucieni/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 89/2022 privind mandatarea speciala a reprezentantului UAT Lucieni in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara „Management Integrat al Deșeurilor în județul Dâmbovița”",
+"short": "HCL Lucieni nr. 89/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#37143",
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--lucieni-103-2022",
+"path": "local/dambovita/lucieni/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 103/2022 privind aprobarea cuantumului cotizației U.A.T. Lucieni ca membru al Asociației de Dezvoltare Intercomunitară ,,APA Dâmbovița” pentru anul 2024",
+"short": "HCL Lucieni nr. 103/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": null,
+"council": "dambovita/lucieni",
+"council_name": "Consiliul Local al Comunei Lucieni",
+"flags": {
+"text_source": "pdf_text_layer"
 }
 }
 ]

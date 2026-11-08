@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/cazanesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--cazanesti-47-2022",
+   "path": "local/ialomita/cazanesti/2022/47",
+   "short": "HCL Căzănești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Căzănești nr. 47/2022 privind aprobarea Regulamentului intern referitor la acordarea primei de vacanță sub forma voucherelor de vacanță.pdf",
+   "url": "https://www.primariacazanestiil.ro/index.php/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-2022?start=40",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacazanestiil.ro/images/2022/Hotarari/HCL_nr._47_din_26.05.2022_privind_aprobarea_Regulamentului_intern_referitor_la_acordarea_primei_de_vacan%C8%9B%C4%83_sub_forma_voucherelor_de_vacan%C8%9B%C4%83.pdf",
+     "sha256": "8c672e3d7c5400180e199ab0c7f75ba913a3288d99bb216ce03238ae95ba437a"
+    }
+   ]
+  }
+ ]
+}

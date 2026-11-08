@@ -644,6 +644,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-cluj--izvoru-crisului-38-2026",
+"path": "local/cluj/izvoru-crisului/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 38/2026 pentru aprobarea Metodologiei de evaluare a nevoilor comunității în vederea organizării serviciilor sociale pentru persoanele vârstnice în comuna Izvoru Crișului",
+"short": "HCL Izvoru Crișului nr. 38/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-09-23",
+"latest": "2026-09-23",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

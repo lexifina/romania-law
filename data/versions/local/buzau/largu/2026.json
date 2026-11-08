@@ -3,6 +3,21 @@
  "shard": "local/buzau/largu/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--largu-19-2026",
+   "path": "local/buzau/largu/2026/19",
+   "short": "HCL Largu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 19/2026 privind reorganizarea aparatului de specialitate al primarului comunei Largu, județul Buzău",
+   "url": "https://emol.ro/largu-bz/registru-hcl/297788",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/297788",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--largu-20-2026",
    "path": "local/buzau/largu/2026/20",
    "short": "HCL Largu nr. 20/2026",
@@ -298,6 +313,36 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/largu-bz/registru-hcl/297819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-5-2026",
+   "path": "local/buzau/largu/2026/5",
+   "short": "HCL Largu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 5/2026 privind aprobarea utilizării în anul 2026 a sumei de 300 mii lei din excedentul anilor precedenti al bugetului propriu pentru sectiunea de functionare din sursa A si 60.5 mii lei pentru sectiunea de dezvoltare din sursa A",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252197",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--largu-7-2026",
+   "path": "local/buzau/largu/2026/7",
+   "short": "HCL Largu nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Largu nr. 7/2026 privind implementarea proiectului “ AMENAJARE LOC DE JOACA PENTRU COPII COMUNA LARGU, JUDETUL BUZAU” în cadrul Apelului de Selecție 808/000/1/4/2025 lansat de GAL Ecoul Campiei Buzaului",
+   "url": "https://emol.ro/largu-bz/registru-hcl/252199",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/largu-bz/registru-hcl/252199",
      "sha256": null
     }
    ]

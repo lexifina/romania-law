@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/isaccea/2022",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--isaccea-89-2022",
+   "path": "local/tulcea/isaccea/2022/89",
+   "short": "HCL Isaccea nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 89/2022 privind acordarea unui mandat special reprezentantului U.A.T. ISACCEA, în Adunarea Generală a Asociației Intercomunitară ”Dezvoltarea durabilă a Serviciilor de Apă și Canalizare din județul Tulcea”, în vederea exercitării votului pentru aprobarea Planului anual de evoluție a tarifelor (Strategia de Tarifare)",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 5,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2022/hcl/hcl89.pdf",
+     "sha256": "347d179f6f71d9fdf59aa04707ca83707e16c28b97e26fded063f47412da9480"
+    }
+   ]
+  }
+ ]
+}

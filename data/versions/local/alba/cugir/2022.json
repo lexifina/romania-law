@@ -3,6 +3,36 @@
  "shard": "local/alba/cugir/2022",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-225-2022",
+   "path": "local/alba/cugir/2022/225",
+   "short": "HCL Cugir nr. 225/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 225/2022 privind stabilirea cantităților de masă lemnoasă ce se va recolta în anul 2023 în baza amenajamentului silvic și al prețurilor de referință pe anul 2023 pentru masa lemnoasă care se va recolta din fondul forestier proprietate publică a orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 31 octombrie 2022; Luând în dezbatere: -Proiectul",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.225_-_Stabilire_preturi_de_referinta_masa_lemnoasa_2023_.docx",
+     "sha256": "a26f2578b7c014f05aa0b773312babe6a448c984c2a5b2208192349c0ec2f69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-233-2022",
+   "path": "local/alba/cugir/2022/233",
+   "short": "HCL Cugir nr. 233/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 233/2022 Privind aprobarea Regulamentului de organizare și funcționare al serviciului ÎNGRIJIRI MEDICALE ȘI PALIATIVE LA DOMICILIU din cadrul Biroului Asistență Medicală din subordinea Serviciului Public de Asistență Socială Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 31 octombrie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobare",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P40",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.233_-_Modificare_ROF_%C3%8Engrijire_medicala_la_domiciliu_.docx",
+     "sha256": "d3ee78349406604ad2a6ceae50e186040bc4da90bbd72ab86d12764741be7954"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-262-2022",
    "path": "local/alba/cugir/2022/262",
    "short": "HCL Cugir nr. 262/2022",

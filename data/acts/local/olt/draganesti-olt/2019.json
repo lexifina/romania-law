@@ -23,6 +23,72 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-olt--draganesti-olt-125-2019",
+"path": "local/olt/draganesti-olt/2019/125",
+"kind": "local",
+"year": "2019",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 125/2019 privind instituirea si administrarea taxei speciale de salubrizare pe anul 2020.pdf",
+"short": "HCL Drăgănești-Olt nr. 125/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-131-2019",
+"path": "local/olt/draganesti-olt/2019/131",
+"kind": "local",
+"year": "2019",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 131/2019 privind criteriile de acces la locuinta si criteriile de ierarhizare stabilite prin punctaj pt cererile de locuinte.pdf",
+"short": "HCL Drăgănești-Olt nr. 131/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-olt--draganesti-olt-135-2019",
+"path": "local/olt/draganesti-olt/2019/135",
+"kind": "local",
+"year": "2019",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 135/2019 privind aprobarea Regulamentului revizuit de org. si funct. al CL.pdf",
+"short": "HCL Drăgănești-Olt nr. 135/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-12-23",
+"latest": "2019-12-23",
+"portal": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

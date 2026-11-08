@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/cudalbi/2023",
+ "acts": [
+  {
+   "slug": "hcl-galati--cudalbi-32-2023",
+   "path": "local/galati/cudalbi/2023/32",
+   "short": "HCL Cudalbi nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 32/2023 privind aprobare impozite locale 2024",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2023/06/HCL-nr.-32-din-31.05.2023-privind-aprobare-impozite-locale-2024.pdf",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 15,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2023/06/HCL-nr.-32-din-31.05.2023-privind-aprobare-impozite-locale-2024.pdf",
+     "sha256": "82dbf87246df098d54ecde1672ff273260abb58b6044a51fb3aa32cf5a439abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--cudalbi-72-2023",
+   "path": "local/galati/cudalbi/2023/72",
+   "short": "HCL Cudalbi nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 72/2023 privind aprobarea tarifelor diferențiate, distincte pentru gestionarea deșeurilor de către beneficiarii serviciului de salubritate precum și sancțiunile aplicate în cazul în care beneficiarul serviciului nu separă în mod corespunzător cele două fluxuri de deșeuri, respectiv fracție umedă (deșeuri menajere reziduale) și fracție uscată (deșeuri reciclabile) pe raza comunei Cudalbi Inițiator: GHEONEA",
+   "url": "https://comunacudalbi.ro/wp-content/uploads/2024/01/HCL-NR.-72-DIN-23.11.2023-fractie-umeda-uscata-bun.pdf",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://comunacudalbi.ro/wp-content/uploads/2024/01/HCL-NR.-72-DIN-23.11.2023-fractie-umeda-uscata-bun.pdf",
+     "sha256": "f71c1369a5839deb0cc9a246b27d1c02784a6d687fde15966c1db136555f4ddf"
+    }
+   ]
+  }
+ ]
+}

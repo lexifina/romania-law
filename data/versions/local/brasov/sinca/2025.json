@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/sinca/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--sinca-16-2025",
+   "path": "local/brasov/sinca/2025/16",
+   "short": "HCL Șinca nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 16/2025 privind aprobarea participarii UAT Comuna Sinca la Programul national multianual privind finatarea elaborarii si actualizarii planurilor urbanistice generale ale localitatilor si a regulamentelor locale de urbanism “Planul Urbanistic Ge",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 6,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/04/Consiliul-local-al-Comunei-Sinca-HCL-nr.-16-din-06-martie-2025-privind-aprobarea-participarii-UAT-Comuna-Sinca-la-Programul-national-multianual.pdf",
+     "sha256": "00336b67623606a5318c42963ea8e0bbcc221be62927041da004e6d89b516b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-19-2025",
+   "path": "local/brasov/sinca/2025/19",
+   "short": "HCL Șinca nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 19/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ec76626f2d3f6df1bfa6385fc457a9c95674621cda9a3277ee70830734d94771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-37-2025",
+   "path": "local/brasov/sinca/2025/37",
+   "short": "HCL Șinca nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 37/2025 privind aprobarea inregistrarii comuna Sinca, judetul Brasov in Sistemul National Electronic de Plata (SNEP) online a impozitelor si taxelor si inrolarea in sistemul “Ghiseul.ro” si stabilirea modului in care este suportat comisionul banca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/06/Consiliul-local-al-Comunei-Sinca-HCL-nr.-37-din-30-mai-2025-privind-aprobarea-inregistrarii-comuna-Sinca-judetul-Brasov-in-Sistemul-National-Electronic-de-Plata-SNEP.pdf",
+     "sha256": "df881c2eeadae58c11199361455e47d091e87392250c8db7e1629cd7d435b6f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-45-2025",
+   "path": "local/brasov/sinca/2025/45",
+   "short": "HCL Șinca nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 45/2025 privind aprobarea taxei speciale de salubrizare pentru anul 2025 in Comuna Sinca, județul Brașov și Regulamentul de stabilire si aplicare a taxei speciale de salubrizare",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/09/Consiliul-local-al-Comunei-Sinca-HCL-nr.-45-din-29-august-2025-privind-aprobarea-taxei-speciale-de-salubrizare-pentru-anul-2025-in-Comuna-Sinca.pdf",
+     "sha256": "4a6c3a13d0c8f2e7fa3298cdd6a496b484fea8286b10cb1304538083d1a46979"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-52-2025",
+   "path": "local/brasov/sinca/2025/52",
+   "short": "HCL Șinca nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 52/2025 privind completarea HCL Sinca nr. 45 din data de 29.08.2025 privind aprobarea taxei speciale de salubrizare pentru anul 2025 in Comuna Sinca, judetul Brasov si Regulamentul de stabilire si aplicare a taxei speciale de salubrizare",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 2,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-52-din-26-septembrie-2025-privind-completarea-HCL-Sinca-nr.-45-din-data-de-29.08.2025-.pdf",
+     "sha256": "7dfb08e96248d51fa234dbcc12883c6fb6486a78bff955ad0a407889ec477729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-69-2025",
+   "path": "local/brasov/sinca/2025/69",
+   "short": "HCL Șinca nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 69/2025 privind aprobarea volumului de masa lemnoasa care se exploateaza anual din fondul forestier al comunei Sinca, a destinatiei acesteia si a preturilor de referinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 9,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/12/Consiliul-local-al-Comunei-Sinca-HCL-nr.-69-din-28-noiembrie-2025-privind-aprobarea-volumului-de-masa-lemnoasa-care-se-exploateaza-anual.pdf",
+     "sha256": "4e292c3f768af990df05ec13c6ddf386d8c22fa9213f886c7a8d8d681c1908f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-75-2025",
+   "path": "local/brasov/sinca/2025/75",
+   "short": "HCL Șinca nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 75/2025 privind aprobarea ajustarii tarifelor pentru serviciile de salubrizare prestate in Comuna Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 6,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-75-din-24-decembrie-2025-privind-aprobarea-ajustarii-tarifelor-pentru-serviciile-de-salubrizare-prestate-in-Comuna-Sinca.pdf",
+     "sha256": "7f920fb95430f902115e4fc81187b203e98f4bd43bc1fc6ea2fc002e895080fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-76-2025",
+   "path": "local/brasov/sinca/2025/76",
+   "short": "HCL Șinca nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 76/2025 privind aprobarea impozitelor si taxelor locale pe anul 2026",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 4,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-76-din-24-decembrie-2025-privind-aprobarea-impozitelor-si-taxelor-locale-pe-anul-2026.pdf",
+     "sha256": "0b851fcc95816f2b5e27796a9cd084f47a67505fd86d4f4d4093bcc3ed8d7d9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-77-2025",
+   "path": "local/brasov/sinca/2025/77",
+   "short": "HCL Șinca nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 77/2025 privind aprobarea impozitelor pentru mijloacele de transport prevazute la art.470, alin. 5 si 6 din Legea nr. 227/2015 pentru anul 2026",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2025/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 5,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-77-din-24-decembrie-2025-privind-aprobarea-impozitelor-pentru-mijloacele-de-transport-prevazute-la-art.470.pdf",
+     "sha256": "98a21b29136e3ff4cda3245b14c1bef70b656a8741bdf5c2ff2b017be752c875"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/braesti/2025",
+"acts": [
+{
+"slug": "hcl-buzau--braesti-12-2025",
+"path": "local/buzau/braesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 12/2025 privind indexarea cu rata inflatiei a impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Brăești nr. 12/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-12-din-30.04.2025.pdf",
+"council": "buzau/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-buzau--braesti-31-2025",
+"path": "local/buzau/braesti/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 31/2025 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale pentru anul 2026",
+"short": "HCL Brăești nr. 31/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-31-din-29.12.2025.pdf",
+"council": "buzau/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

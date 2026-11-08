@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/tulcea/sulina/2020",
+"acts": [
+{
+"slug": "hcl-tulcea--sulina-1-2020",
+"path": "local/tulcea/sulina/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 1/2020 privind instituirea taxei speciale pentru serviciul public de salubrizare în orașul Sulina și aprobarea regulamentului privind instituirea taxei pentru serviciul public de salubrizare în orașul Sulina",
+"short": "HCL Sulina nr. 1/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-16",
+"latest": "2020-01-16",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-11-2020",
+"path": "local/tulcea/sulina/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 11/2020 privind aprobarea documentației de urbanism Plan Urbanistic Zonal „Construire complex căsuțe cazare“, orașul Sulina, județul Tulcea",
+"short": "HCL Sulina nr. 11/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-17-2020",
+"path": "local/tulcea/sulina/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 17/2020 privind acordarea compensațiilor de tarif la transportul public local prin curse regulate pentru preșcolarii și elevii care învață în orașul Sulina în anul 2020",
+"short": "HCL Sulina nr. 17/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-18-2020",
+"path": "local/tulcea/sulina/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 18/2020 privind aprobarea Regulamentului cadru pentru organizarea și desfășurarea licitațiilor publice deschise privind închirierea, concesionarea și vânzarea bunurilor proprietate publică / privată a orașului Sulina",
+"short": "HCL Sulina nr. 18/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2020.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

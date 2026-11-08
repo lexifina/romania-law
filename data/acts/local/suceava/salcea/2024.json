@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/suceava/salcea/2024",
+"acts": [
+{
+"slug": "hcl-suceava--salcea-21-2024",
+"path": "local/suceava/salcea/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 21/2024 privind aprobarea PUZ în vederea ”Întocmire documentație PUZ pentru suprafața de 2400 mp ... parcela cu nr cadastral 39750.pdf",
+"short": "HCL Salcea nr. 21/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-28-2024",
+"path": "local/suceava/salcea/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 28/2024 privind aprobarea Normelor procedurale interne pentru organizarea și desfășurarea Procedurii simplificate proprii pt atribuirea contractelor de achiziție publică.pdf",
+"short": "HCL Salcea nr. 28/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-03-19",
+"latest": "2024-03-19",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-44-2024",
+"path": "local/suceava/salcea/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 44/2024 privind aprobarea modificării tarifului aplicat pentru activitatea prestată de SC Ritmic COM SRL.pdf",
+"short": "HCL Salcea nr. 44/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-07-15",
+"latest": "2024-07-15",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-56-2024",
+"path": "local/suceava/salcea/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 56/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență și a ajutoarelor comunitare prevăzute de Legea nr. 196 din 2016 privind VMI.pdf",
+"short": "HCL Salcea nr. 56/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-61-2024",
+"path": "local/suceava/salcea/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 61/2024 privind aprobarea PUZ în vederea ”Întocmire documentație PUZ pentru suprafața de 3005 mp teren arabil, parcela cu nr. cadastral 32305 [...]”.pdf",
+"short": "HCL Salcea nr. 61/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-62-2024",
+"path": "local/suceava/salcea/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 62/2024 privind aprobarea Planului Urbanistic Zonal în vederea ”Întocmire documentație PUZ pentru suprafața de 2409 mp teren arabil [...]”.pdf",
+"short": "HCL Salcea nr. 62/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-64-2024",
+"path": "local/suceava/salcea/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 64/2024 privind scutirea de la plata taxei locale de ecologizare conform HCL nr. 191 din 22.12.2023.pdf",
+"short": "HCL Salcea nr. 64/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-101-2024",
+"path": "local/suceava/salcea/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 101/2024 pentru aprobarea Regulamentului privind ridicarea, transportul, depozitarea și restituirea vehiculelor staționate neregulamentar.pdf",
+"short": "HCL Salcea nr. 101/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-104-2024",
+"path": "local/suceava/salcea/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 104/2024 privind scutirea de la plata taxei locale de ecologizare conform HCL nr. 191 din 22.12.2023.pdf",
+"short": "HCL Salcea nr. 104/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-106-2024",
+"path": "local/suceava/salcea/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 106/2024 privind aprobarea PUZ ”Introducere teren în intravilan în vederea construirii unei locuințe” pe parcela de teren în suprafață de 800 mp.pdf",
+"short": "HCL Salcea nr. 106/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-107-2024",
+"path": "local/suceava/salcea/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 107/2024 privind aprobarea PUZ ”Întocmire documentație PUZ pentru suprafața de 7552 mp” (Lucuț, Hlade).pdf",
+"short": "HCL Salcea nr. 107/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-suceava--salcea-123-2024",
+"path": "local/suceava/salcea/2024/123",
+"kind": "local",
+"year": "2024",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Salcea nr. 123/2024 privind stabilirea taxei locale de salubrizare pentru anul 2025 în Orașul Salcea.pdf",
+"short": "HCL Salcea nr. 123/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-12-17",
+"latest": "2024-12-17",
+"portal": "http://www.primariasalcea.ro/hotarari-consiliu-local-2024",
+"council": "suceava/salcea",
+"council_name": "Consiliul Local al Orașului Salcea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

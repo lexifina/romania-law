@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/rovinari/2022",
+ "acts": [
+  {
+   "slug": "hcl-gorj--rovinari-7-2022",
+   "path": "local/gorj/rovinari/2022/7",
+   "short": "HCL Rovinari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 7/2022 privind aprobarea tarifului orar/agent de paza practicat de Societatea Serviciul de Bază, Pază și Protectie SRL Vizualizare",
+   "url": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2022-hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.primariarovinari.ro/download/Hotararea_Nr.7_din_27.01.2022.pdf",
+     "sha256": "431095d6605bd4266383ef0b903f165973be0c16037b0e3a0dbf6228bad445cd"
+    }
+   ]
+  }
+ ]
+}

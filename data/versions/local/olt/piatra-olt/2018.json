@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2018",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-99-2018",
+   "path": "local/olt/piatra-olt/2018/99",
+   "short": "HCL Piatra-Olt nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 99/2018 Privind: aprobarea Regulamentului privind instituirea si administrarea taxei speciale de salubrizare in orasul Piatra Olt,judetul Olt si a taxei speciale de salubrizare Pe anul 2019",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/99-2018.pdf",
+     "sha256": "b04cbd38451859dd51c4edd650b703778f2ab8fe4d8db70fb9ccd4cb181de88e"
+    }
+   ]
+  }
+ ]
+}

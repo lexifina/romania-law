@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/murgeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--murgeni-24-2022",
+   "path": "local/vaslui/murgeni/2022/24",
+   "short": "HCL Murgeni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 24/2022 privind aprobarea Planului de analiză și acoperire a riscurilor în orasul Murgeni pentru anul 2022 Consiliul local al orasului Murgeni, întrunit în ședința ordinară din data de 22.03.2022; În conformitate cu prevederile: - art.6 alin.(1) - (2) din Anexa nr.1, la O.M.A.I.Nr.132/2007 pentru aprobarea Metodologiei de elaborare a Planului de analiza și acoperire a riscurilor si a Structurii-cadru a Pl",
+   "url": "https://primaria-murgeni.ro/wp-content/uploads/2022/03/Hotararea-nr-24-din-2022-03-22-ecafc2f3d6.pdf",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2022/03/Hotararea-nr-24-din-2022-03-22-ecafc2f3d6.pdf",
+     "sha256": "ecafc2f3d62aa7345ae3da43211060ecb42968387b77b7b71ce2bd24a75fbe00"
+    }
+   ]
+  }
+ ]
+}

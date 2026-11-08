@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/covasna/comandau/2025",
+"acts": [
+{
+"slug": "hcl-covasna--comandau-33-2025",
+"path": "local/covasna/comandau/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comandău nr. 33/2025 privind aprobarea taxei locale ocazionale pentru ocuparea tamporara a domeniului public in perioada 9-10 august 2025.pdf",
+"short": "HCL Comandău nr. 33/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-08-10",
+"latest": "2025-08-10",
+"portal": "https://www.kommando.ro/index.php/ro/monitorul-oficial-local",
+"council": "covasna/comandau",
+"council_name": "Consiliul Local al Comunei Comandău",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

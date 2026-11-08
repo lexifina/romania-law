@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/sinca/2020",
+"acts": [
+{
+"slug": "hcl-brasov--sinca-5-2020",
+"path": "local/brasov/sinca/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 5/2020 privind modificare si completarea HCL Sinca nr. 50 din 22.07.2019 privind aprobarea Regulamentului de aplicare a taxei speciale de salubritate pentru persoanele fizice si juridice care nu au incheiat un contract cu operatorul desemnat",
+"short": "HCL Șinca nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-brasov--sinca-11-2020",
+"path": "local/brasov/sinca/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 11/2020 privind aprobarea ajustarii tarifelor pentru serviciile de salubrizare prestate in comuna Sinca",
+"short": "HCL Șinca nr. 11/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--sinca-50-2020",
+"path": "local/brasov/sinca/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 50/2020 privind aprobarea volumului de masa lemnoasa care se exploateaza anual din fondul forestier al comunei Sinca, a destinatiei acesteia si a preturilor de referinta",
+"short": "HCL Șinca nr. 50/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

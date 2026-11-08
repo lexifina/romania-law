@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2022",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-106-2022",
+   "path": "local/gorj/ticleni/2022/106",
+   "short": "HCL Țicleni nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 106/2022 privind stabilirea impozitelor și taxelor locale, taxele speciale și amenzile pentru anul 2023",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-106-DIN-22.12.2022-privind-stabilirea-impozitelor-si-taxelor-localetaxele-speciale-si-amenzile-pentru-anul-2023.pdf",
+     "sha256": "effa98af606f9df3f501ea2252f2114ca4978f340276c34937f8536f251c2140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-30-2022",
+   "path": "local/gorj/ticleni/2022/30",
+   "short": "HCL Țicleni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 30/2022 privind aprobarea comercializării de produse și de servicii, precum și a taxei pentru ocuparea temporară a locurilor publice în perimetrul de organizare a Zilelor Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-30-DIN-18.04.2022-PRIVIND-APROBAREA-COMERCIALIZARI-DE-PRODUSE-SI-DE-SERVICII-PRECUM-SI-A-TAXEI-PENTRU-OCUPAREA-TEMPORARA-.pdf",
+     "sha256": "6e90ae93ee62d8615deb58029a71b90e7acde60c35950a1429e8d78a9d5b7da2"
+    }
+   ]
+  }
+ ]
+}

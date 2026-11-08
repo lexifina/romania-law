@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/maracineni/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--maracineni-98-2025",
+   "path": "local/buzau/maracineni/2025/98",
+   "short": "HCL Mărăcineni nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 98/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-98-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-98-din-29.12.2025.pdf",
+     "sha256": "6f5faf0662b5d18f2da1847d6ab57890474c26fdf0fd705d5a3c1476af145860"
+    }
+   ]
+  }
+ ]
+}

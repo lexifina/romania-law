@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/babadag/2024",
+"acts": [
+{
+"slug": "hcl-tulcea--babadag-199-2024",
+"path": "local/tulcea/babadag/2024/199",
+"kind": "local",
+"year": "2024",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Babadag nr. 199/2024 Privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2025 Consiliul Local al Orasului Babadag, intrunit in sedinta ordinara, din data de 23.12.2024, prezenti fiind un numar de 16 consilieri locali; Avand in vedere referatul de aprobare al primarului orasului Babadag, Caraman Georgian, inregistrat sub nr. 11648/14.11.2024, raportul de specialitate nr. 11649/14.11.2024, intocmit de dn",
+"short": "HCL Babadag nr. 199/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://primariababadag.ro/documente/hotararea-nr-199-23-12-2024-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-fiscal-2025/",
+"council": "tulcea/babadag",
+"council_name": "Consiliul Local al Orașului Babadag",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

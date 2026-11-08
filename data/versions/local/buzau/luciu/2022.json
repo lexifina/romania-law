@@ -3,6 +3,426 @@
  "shard": "local/buzau/luciu/2022",
  "acts": [
   {
+   "slug": "hcl-buzau--luciu-1-2022",
+   "path": "local/buzau/luciu/2022/1",
+   "short": "HCL Luciu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 1/2022 privind aprobarea Strategiei anuale de achizitii publice a comunei Luciu in anul 2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94452",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-10-2022",
+   "path": "local/buzau/luciu/2022/10",
+   "short": "HCL Luciu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 10/2022 privind aprobarea sustinerii financiare a Asociatiei sportive PESCARUSUL LUCIU in anul 2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94463",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-11-2022",
+   "path": "local/buzau/luciu/2022/11",
+   "short": "HCL Luciu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 11/2022 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2022 al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94464",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-12-2022",
+   "path": "local/buzau/luciu/2022/12",
+   "short": "HCL Luciu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 12/2022 privind organizarea retelei scolare din comuna Luciu, judetul Buzau Cosiliul Local al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94465",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-14-2022",
+   "path": "local/buzau/luciu/2022/14",
+   "short": "HCL Luciu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 14/2022 privind completarea Strategiei anuale de achizitii publice a comunei Luciu in anul 2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94467",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-16-2022",
+   "path": "local/buzau/luciu/2022/16",
+   "short": "HCL Luciu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 16/2022 privind aprobarea Planului cu actiuni si lucrari de interes local pentru repartizarea efectuarii orelor de munca de catre persoanele benefice de ajutor social conform Legii nr. 416/ 2001 privind venitul minim garantat, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94469",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-17-2022",
+   "path": "local/buzau/luciu/2022/17",
+   "short": "HCL Luciu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 17/2022 privind aprobarea realizarii de Statii de incarcare vehicule electrice in comuna Luciu prin Programul privind reducerea emisiilor de gaze cu efect de sera in transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: statii de reincarcare pentru vehicule electrice",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94470",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-18-2022",
+   "path": "local/buzau/luciu/2022/18",
+   "short": "HCL Luciu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 18/2022 privind aprobarea asigurarii continuitatii serviciului/ activitatilor licentiate aferente Contractului de conceiune nr. 105 / 18.01.2010, cu modificarile ulterioare a serviciilor publice de salubrizare a Comunei Luciu, pana la preluarea acestora de catre un nou operator, dar nu mai multe de 90 de zile, incepand cu data de 01.03.2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94471",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-2-2022",
+   "path": "local/buzau/luciu/2022/2",
+   "short": "HCL Luciu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 2/2022 privind infiintarea Serviciului pentru gestionarea cainilor fara stapan in comuna Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94453",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-20-2022",
+   "path": "local/buzau/luciu/2022/20",
+   "short": "HCL Luciu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 20/2022 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectul de investitii \"Infiintare distributie inteligenta de gaze naturale in Comuna Luciu, judetul Buzau\" in vedera includerii si finantarii investitiei prin Programul National de Investitii \"Anghel salingny\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94473",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-21-2022",
+   "path": "local/buzau/luciu/2022/21",
+   "short": "HCL Luciu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 21/2022 privind completarea Strategiei anuale de achizitii publice a comunei Luciu in anul 2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94474",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-22-2022",
+   "path": "local/buzau/luciu/2022/22",
+   "short": "HCL Luciu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 22/2022 privind aprobarea proiectului, a cheltuielilor ferente proiectului si a depunerii proiectului \"Dezvoltare infrastructura TIC (sisteme inteligente de management) in Comuna LUCIU, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94475",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-23-2022",
+   "path": "local/buzau/luciu/2022/23",
+   "short": "HCL Luciu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 23/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului si a depunerii proiectului \"ACHIZITIONARE STATIE DE REINCARCARE PENTRU VEHICULELE ELECTRICE IN COMUNA LUCIU, JUDETUL BUZAU\" in cadrul Planului National de Redresare si Rezilienta al Romaniei, COMPONENTA 10 - Fondul local",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94476",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-24-2022",
+   "path": "local/buzau/luciu/2022/24",
+   "short": "HCL Luciu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 24/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului si a depunerii proiectului \"ACTUALIZARE PLAN URBANISTIC GENERAL ( PUG), COMUNA LUCIU, JUDETUL BUZAU in cadrul Planului National de Redresare si Rezilienta al Romaniei, COMPONENTA 10 - Fondul local",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94477",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-25-2022",
+   "path": "local/buzau/luciu/2022/25",
+   "short": "HCL Luciu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 25/2022 privind stabilirea locatiei de depozitare provizorie a deseurilor colectate de la locuitorii comunei Luciu, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94478",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-26-2022",
+   "path": "local/buzau/luciu/2022/26",
+   "short": "HCL Luciu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 26/2022 privind aprobarea REGULAMENT DE PESCUIT PENTRU \"BALTA LUCIU\" cu anul 202",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94479",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-27-2022",
+   "path": "local/buzau/luciu/2022/27",
+   "short": "HCL Luciu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 27/2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94480",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-29-2022",
+   "path": "local/buzau/luciu/2022/29",
+   "short": "HCL Luciu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 29/2022 privind aprobarea Regulamentului privind procedura pentru inregistrarea, evidenta si radierea vehiculelor pentru care exista obligativitatea inregistrarii, de pe raza administrativ-teritoriala a comunei Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94482",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-3-2022",
+   "path": "local/buzau/luciu/2022/3",
+   "short": "HCL Luciu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 3/2022 privind completarea HCL nr. 30/ 29.07.2016 privind infiintarea si organizarea, SERVICIUL PUBLIC DE ALIMENTARE CU APA AL COMUNEI LUCIU, serviciu public de interes local, specializat, cu personalitate juridica, infiintat si organizat in subordinea Cosiliului Local al comunei Luciu, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94454",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-30-2022",
+   "path": "local/buzau/luciu/2022/30",
+   "short": "HCL Luciu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 30/2022 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2022 al Comunei Luciu, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94483",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-31-2022",
+   "path": "local/buzau/luciu/2022/31",
+   "short": "HCL Luciu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 31/2022 privind aprobarea solicitarii prelungirii scrisorii de garantie din partea Fondului National de Garantare a Credi telor pentru Intreprinderi Mici si Mijlocii-SA si plata comisionului de garantare pentru proiectul integrat finantat prin Submasura 7.2 ( Servicii de baza si reinoirea satelor in zonele rurale) al Comunei Luciu, proiect intitular \"SISTEM DE CANALIZARE, STATIE DE EPURARE SI STATIE DE TRATARE A APEI ( REDUCERE AMONIU SI CLORURI ), SATUL LUCIU, COMUNA LUCIU, JUDEUL BUZAU\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94484",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-32-2022",
+   "path": "local/buzau/luciu/2022/32",
+   "short": "HCL Luciu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 32/2022 privind modificarea H.C.L nr. 41/15 din 28.09.2012 privind aprobarea PLANURILOR URBANISTICE ZONALE \"PARC EOLIAN COMUNA LUCIU, JUDETUL BUZAU\" si \"PARC EOLIAN ORAS POGOANELE, JUDETUL BUZAU\" precum si a Regulamentelor Locale de Urbanism aferente",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94485",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-33-2022",
+   "path": "local/buzau/luciu/2022/33",
+   "short": "HCL Luciu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 33/2022 privind completarea Strategiei anuale de achizitii publice a comunei Luciu in anuul 2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94486",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-34-2022",
+   "path": "local/buzau/luciu/2022/34",
+   "short": "HCL Luciu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 34/2022 privind participarea la Programul privind cresterea eficientei energetice a infrastructurii de iluminat public si aprobarea investitiei \"Modernizarea sistemului de iluminat public stradal, in Comuna Luciu, judetul Buzau\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94487",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-37-2022",
+   "path": "local/buzau/luciu/2022/37",
+   "short": "HCL Luciu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 37/2022 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2022 al Comunei Luciu, Judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94493",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-38-2022",
+   "path": "local/buzau/luciu/2022/38",
+   "short": "HCL Luciu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 38/2022 privind aprobarea indicatorilor tehnico-economici ai investitiei \"Amenajare curte interioara sediul primariei Luciu\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94494",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-39-2022",
+   "path": "local/buzau/luciu/2022/39",
+   "short": "HCL Luciu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 39/2022 privind aprobarea indicatorilor tehnico -economici ai investitiei \" Construire capela mortuara si casa praznicala\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94495",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-4-2022",
+   "path": "local/buzau/luciu/2022/4",
+   "short": "HCL Luciu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 4/2022 privind actualizarea HCL nr. 18/ 29.04.2009 privind aprobarea Regulamentului de functionarea ai Serviciului Public de Salubrizare al Comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94455",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94455",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-40-2022",
    "path": "local/buzau/luciu/2022/40",
    "short": "HCL Luciu nr. 40/2022",
@@ -153,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-5-2022",
+   "path": "local/buzau/luciu/2022/5",
+   "short": "HCL Luciu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 5/2022 privind aprobarea incheierii contului de executie a bugetului local la 31.12.2021 si a bugetului din venituri proprii si subventii",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94456",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-50-2022",
    "path": "local/buzau/luciu/2022/50",
    "short": "HCL Luciu nr. 50/2022",
@@ -298,6 +733,66 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/94737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-6-2022",
+   "path": "local/buzau/luciu/2022/6",
+   "short": "HCL Luciu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 6/2022 privind privind aprobarea contractului - cadru a delegarii de prestari servicii pentru mentenanta retelelor de iluminat public a Serviciului de iluminat public al comunei Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94457",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-7-2022",
+   "path": "local/buzau/luciu/2022/7",
+   "short": "HCL Luciu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 7/2022 privind aprobarea rectificarii bugetului local si a listei de investitii pe anul 2022 al comunei Luciu, judetul Buzau",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94460",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-8-2022",
+   "path": "local/buzau/luciu/2022/8",
+   "short": "HCL Luciu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 8/2022 privind aprobarea delegarii gestiunii Serviciului public de salubrizare al comunei Luciu, judetul Buzau, prin contract de concesiune",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94461",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-9-2022",
+   "path": "local/buzau/luciu/2022/9",
+   "short": "HCL Luciu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 9/2022 privind stabilirea unui mandat special reprezentanului comunei Luciu in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara \"Eco Buzau 2009\"",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94462",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94462",
      "sha256": null
     }
    ]

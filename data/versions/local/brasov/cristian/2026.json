@@ -543,6 +543,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--cristian-71-2026",
+   "path": "local/brasov/cristian/2026/71",
+   "short": "HCL Cristian nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 71/2026 privind aprobarea indexării cu rata inflației a impozitelor și taxelor locale pentru anul 2027",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-71-din-18.06.2026-privind-aprobarea-indexarii-cu-rata-inflatiei-a-impozitelor-si-taxelor-locale-pentru-anul-2027.pdf",
+     "sha256": "be618f7460a6424dbdaaf39e558b23c11685fa1f1f94e9ca70c8021130a38e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-89-2026",
+   "path": "local/brasov/cristian/2026/89",
+   "short": "HCL Cristian nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 89/2026 privind aprobare PUZ- Plan Urbanistic Zonal, DOTĂRI PUBLICE-ÎNVĂȚĂMÂNT, SPORT, comuna Cristian., județul Brașov, generat de imobilul identificat cu C.F nr. 104932, nr. cadastral 104932, beneficiar Comuna Cristian",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-89-din-22.07.2026-privind-aprobare-PUZ-Plan-Urbanistic-Zonal-DOTARI-PUBLICE-INVATAMANT-SPORT-comuna-Cristian.-judetul-Brasov.pdf",
+     "sha256": "55c69fdc005241b3476d35809116f52d4cb82950af8f294d3407b2dcbc64f76e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--cristian-98-2026",
    "path": "local/brasov/cristian/2026/98",
    "short": "HCL Cristian nr. 98/2026",

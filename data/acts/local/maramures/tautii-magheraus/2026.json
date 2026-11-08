@@ -3,6 +3,51 @@
 "shard": "local/maramures/tautii-magheraus/2026",
 "acts": [
 {
+"slug": "hcl-maramures--tautii-magheraus-7-2026",
+"path": "local/maramures/tautii-magheraus/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 7/2026 Nr. 7 din 30.01.2026 Privind aprobarea volumul de masă lemnoasă care se poate exploata în anul 2026, modul de valorificare al acestuia, prețurilor de referință a masei lemnoase pe picior, aprobarea nivelului maxim al tarifelor pentru prestări servicii de exploatare precum și al prețurilor minime de valorificare prin licitație al lemnului fasonat.",
+"short": "HCL Tăuții-Măgherăuș nr. 7/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-10-2026",
+"path": "local/maramures/tautii-magheraus/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 10/2026",
+"short": "HCL Tăuții-Măgherăuș nr. 10/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--tautii-magheraus-32-2026",
 "path": "local/maramures/tautii-magheraus/2026/32",
 "kind": "local",
@@ -45,6 +90,28 @@
 "council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--tautii-magheraus-35-2026",
+"path": "local/maramures/tautii-magheraus/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 35/2026 privind acordarea unui sprijin cu titlu de compensație pentru plata impozitului aferent clădirii folosită ca domiciliu, pentru terenul aferent acesteia, și pentru mijloacele de transport, aflate în proprietatea sau coproprietatea persoanelor încadrate în grad de handicap grav, grav cu asistent personal și accentuat, respectiv a reprezentanților legali pe perioada în care au în îngrijire, supravegh",
+"short": "HCL Tăuții-Măgherăuș nr. 35/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://tautiimagheraus.ro/hotarari/",
+"council": "maramures/tautii-magheraus",
+"council_name": "Consiliul Local al Orașului Tăuții-Măgherăuș",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

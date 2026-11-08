@@ -3,6 +3,51 @@
  "shard": "local/arad/lipova/2020",
  "acts": [
   {
+   "slug": "hcl-arad--lipova-129-2020",
+   "path": "local/arad/lipova/2020/129",
+   "short": "HCL Lipova nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 129/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202020/hcl%20nr.129.pdf",
+     "sha256": "d6021aba6f706455fdc4e29af64b6ea063c7185a48dbe73d21c1962ac0970555"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-130-2020",
+   "path": "local/arad/lipova/2020/130",
+   "short": "HCL Lipova nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 130/2020 privind stabilirea prețurilor de referință și de pornire a licitației pentru masa lemoasă fasonată",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202020/hcl%20nr.130.pdf",
+     "sha256": "f165a56ee49bdc55ecf30e8e0adc1e479cfd62769cb6f0495a4ca1c46f8c4398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-89-2020",
+   "path": "local/arad/lipova/2020/89",
+   "short": "HCL Lipova nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 89/2020 privind aprobarea Caietului de sarcini propriu și a Contractului de prestare/furnizare ale serviciului de salubrizare al Orașului Lipova, respectiv a activității de curățare și transportul zăpezii de pe căile publice și menținerea în funcțiune a acestora pe tim",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "http://www.primarialipova.ro/uploads/files/2022/mof/hotarari%202020/hcl%20nr.89.pdf",
+     "sha256": "ebe651987b44e4281173560b98be7c4e728a14810f428547136321adc6852644"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-97-2020",
    "path": "local/arad/lipova/2020/97",
    "short": "HCL Lipova nr. 97/2020",

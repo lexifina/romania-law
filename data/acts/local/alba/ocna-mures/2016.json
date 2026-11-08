@@ -1064,6 +1064,95 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-alba--ocna-mures-73-2016",
+"path": "local/alba/ocna-mures/2016/73",
+"kind": "local",
+"year": "2016",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 73/2016 privind aprobarea Programului pentru acordarea finanţărilor nerambursabile aferent anului 2016-completat care se vor acorda în baza Regulamentului privind regimul finanţărilor nerambursabile de la bugetul oraşului Ocna Mureş, alocate pentru activităţi nonprofit de interes local aprobat prin HCLOM nr.226/19.12.2013, modificată și completată | 27.05.2016",
+"short": "HCL Ocna Mureș nr. 73/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-03-31",
+"latest": "2016-03-31",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-76-2016",
+"path": "local/alba/ocna-mures/2016/76",
+"kind": "local",
+"year": "2016",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 76/2016 pentru modificarea şi completarea HCLOM nr. 229 din 06.11.2015 privind aprobarea noilor valori impozabile, impozitele şi taxele locale şi alte taxe asimilate ce se vor aplica începând cu data de 01 ianuarie 2016 la nivelul oraşului Ocna Mureş. | 27.05.2016",
+"short": "HCL Ocna Mureș nr. 76/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-03-31",
+"latest": "2016-03-31",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-145-2016",
+"path": "local/alba/ocna-mures/2016/145",
+"kind": "local",
+"year": "2016",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 145/2016",
+"short": "HCL Ocna Mureș nr. 145/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-07-12",
+"latest": "2016-07-12",
+"portal": null,
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-169-2016",
+"path": "local/alba/ocna-mures/2016/169",
+"kind": "local",
+"year": "2016",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 169/2016 privind modificarea și completarea art.1 din HCLOM nr 100 din 30.05.2013 privind aprobarea taxelor ce vor fi percepute în cadrul activității de administrare a cimitirului orășenesc Ocna Mureș | 10.10.2016",
+"short": "HCL Ocna Mureș nr. 169/2016",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2016/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

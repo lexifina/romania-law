@@ -3,6 +3,28 @@
 "shard": "local/gorj/ticleni/2025",
 "acts": [
 {
+"slug": "hcl-gorj--ticleni-10-2025",
+"path": "local/gorj/ticleni/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 10/2025 privind aprobarea tarifelor pentru activităţile prestate de S.C",
+"short": "HCL Țicleni nr. 10/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-gorj--ticleni-25-2025",
 "path": "local/gorj/ticleni/2025/25",
 "kind": "local",
@@ -137,6 +159,28 @@
 "council_name": "Consiliul Local al Orașului Țicleni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-33-2025",
+"path": "local/gorj/ticleni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 33/2025 privind aprobarea şi indexarea impozitelor şi taxelor locale , precum şi a taxelor speciale, pe anul 2026",
+"short": "HCL Țicleni nr. 33/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2025/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
 }
 },
 {

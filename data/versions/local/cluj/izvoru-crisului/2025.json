@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/izvoru-crisului/2025",
+ "acts": [
+  {
+   "slug": "hcl-cluj--izvoru-crisului-30-2025",
+   "path": "local/cluj/izvoru-crisului/2025/30",
+   "short": "HCL Izvoru Crișului nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 30/2025 privind aprobarea Regulamentului privind decontarea ochelarilor de vedere pentru angajații Comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202025/Hotararea%2030.pdf",
+     "sha256": "f7f6caa934efd8f55f68f8b4d584aef4f5ef7f6fc6ccacf5c14cda73c428ee37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-37-2025",
+   "path": "local/cluj/izvoru-crisului/2025/37",
+   "short": "HCL Izvoru Crișului nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 37/2025 privind aprobarea Regulamentului pentru emitere adeverinta privind autodemolare constructii",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202025/Hotararea%2037.pdf",
+     "sha256": "bd195ad4369dd6d2337a498dcb74d9f2a0261c633b1ff1c68532dd3c618a3340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-41-2025",
+   "path": "local/cluj/izvoru-crisului/2025/41",
+   "short": "HCL Izvoru Crișului nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 41/2025 privind constituirea Comisiei de analiză a cererilor de prelungire a contractelor de închiriere a pășunilor și aprobarea Regulamentului privind prelungirea contractelor de închiriere pentru suprafețele de pășune aflate în domeniul privat al Comunei Izvoru Crișul",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202025/Hotararea%2041.pdf",
+     "sha256": "078e6e5d78255b53f4564775a1a8820702d8f91f3aaa4bcd1d1b6f11131412df"
+    }
+   ]
+  }
+ ]
+}

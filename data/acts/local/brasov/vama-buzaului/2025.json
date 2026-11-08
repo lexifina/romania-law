@@ -3,6 +3,28 @@
 "shard": "local/brasov/vama-buzaului/2025",
 "acts": [
 {
+"slug": "hcl-brasov--vama-buzaului-157-2025",
+"path": "local/brasov/vama-buzaului/2025/157",
+"kind": "local",
+"year": "2025",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 157/2025 nr. 157 din 23.12.2025 - privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Vama Buzăului, pentru anul 2026",
+"short": "HCL Vama Buzăului nr. 157/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2025",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-brasov--vama-buzaului-160-2025",
 "path": "local/brasov/vama-buzaului/2025/160",
 "kind": "local",

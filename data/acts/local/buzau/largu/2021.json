@@ -3,6 +3,116 @@
 "shard": "local/buzau/largu/2021",
 "acts": [
 {
+"slug": "hcl-buzau--largu-1-2021",
+"path": "local/buzau/largu/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 1/2021 privind aprobarea Strategiei Anuală a Achizițiilor publice în anul 2021",
+"short": "HCL Largu nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/42960",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-2-2021",
+"path": "local/buzau/largu/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 2/2021 privind indexarea impozitelor și taxelor locale ale comunei Largu, județul Buzău pentru anul fiscal 2021 cu rata inflației de 3,8%",
+"short": "HCL Largu nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/42961",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-3-2021",
+"path": "local/buzau/largu/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 3/2021 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi efectuate în anul 2021 de către persoanele apte de muncă din familiile beneficiare de ajutor social",
+"short": "HCL Largu nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/42962",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-4-2021",
+"path": "local/buzau/largu/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 4/2021 privind alegerea președintelui de ședință al Consiliului local al comunei Largu pentru perioada februarie-aprilie 2021",
+"short": "HCL Largu nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/42963",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-5-2021",
+"path": "local/buzau/largu/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 5/2021 privind aprobarea elaborării Strategiei de dezvoltare locală durabilă a comunei Largu pentru perioada 2021-2027",
+"short": "HCL Largu nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/42964",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--largu-6-2021",
 "path": "local/buzau/largu/2021/6",
 "kind": "local",

@@ -1,0 +1,97 @@
+{
+"country": "RO",
+"shard": "local/dolj/castranova/2019",
+"acts": [
+{
+"slug": "hcl-dolj--castranova-6-2019",
+"path": "local/dolj/castranova/2019/6",
+"kind": "local",
+"year": "2019",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castranova nr. 6/2019",
+"short": "HCL Castranova nr. 6/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-01-31",
+"latest": "2019-01-31",
+"portal": null,
+"council": "dolj/castranova",
+"council_name": "Consiliul Local al Comunei Castranova",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--castranova-19-2019",
+"path": "local/dolj/castranova/2019/19",
+"kind": "local",
+"year": "2019",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castranova nr. 19/2019",
+"short": "HCL Castranova nr. 19/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-03-29",
+"latest": "2019-03-29",
+"portal": null,
+"council": "dolj/castranova",
+"council_name": "Consiliul Local al Comunei Castranova",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--castranova-55-2019",
+"path": "local/dolj/castranova/2019/55",
+"kind": "local",
+"year": "2019",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castranova nr. 55/2019 privind modilicarea Regulamentului Serviciului de Salubrizarein Judetul Dolj Qi Regulamentului privind instituirea ;i administrarea taxei speciale de salubrizare pe raza Comunei Castranova",
+"short": "HCL Castranova nr. 55/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-12-18",
+"latest": "2019-12-18",
+"portal": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+"council": "dolj/castranova",
+"council_name": "Consiliul Local al Comunei Castranova",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-dolj--castranova-62-2019",
+"path": "local/dolj/castranova/2019/62",
+"kind": "local",
+"year": "2019",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Castranova nr. 62/2019",
+"short": "HCL Castranova nr. 62/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-18",
+"latest": "2019-12-18",
+"portal": null,
+"council": "dolj/castranova",
+"council_name": "Consiliul Local al Comunei Castranova",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

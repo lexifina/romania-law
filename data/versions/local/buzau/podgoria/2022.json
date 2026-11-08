@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/podgoria/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--podgoria-30-2022",
+   "path": "local/buzau/podgoria/2022/30",
+   "short": "HCL Podgoria nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 30/2022 privind interzicerea circulaţiei pe timpul nopţii pe drumurile de exploatare agricolă din comuna Podgoria, judeţul Buzău, a vehiculelor cu tracţiune mecanică şi tracţiune animală",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.30-privind-interzicerea-circulatiei-pe-timpul-noptii-pe-drumurile-de-exploatare-agricola-din-comuna-Podgoria-judetul-Buzau-a-vehiculelor-cu-tractiune-mecanica-si-tractiune-animala.pdf",
+     "sha256": "58494724b577b53dfbf5c767777ff07ac5ac0d57d8763f72a80b75f35b05073e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-33-2022",
+   "path": "local/buzau/podgoria/2022/33",
+   "short": "HCL Podgoria nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 33/2022 privind aprobarea majorarii tarifului la biletele de calatorie si abonamente pentru transportul public de persoane, serviciu delegat operatorului S.C",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-NR.-33-privind-aprobarea-majorarii-tarifului-la-biletele-de-calatorie-si-abonamente-pentru-transportul-public-de-persoane-serviciu-delegat-operatorului-S.C.-Transport-Urban-d.pdf",
+     "sha256": "efacb80365baa5551da9615b9a513f200e6d49cc75a0639211ee1d05ef2d326e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-44-2022",
+   "path": "local/buzau/podgoria/2022/44",
+   "short": "HCL Podgoria nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 44/2022 privind stabilirea nivelurilor impozabile, impozitele si taxele locale si alte taxe asimilate acestora, ce se vor aplica in anul fiscal 2023, la nivelul comunei Podgoria, judetul Buzau_compres",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-44-privind-stabilirea-nivelurilor-impozabile-impozitele-si-taxele-locale-si-alte-taxe-asimilate-acestora-ce-se-vor-aplica-in-anul-fiscal-2023-la-nivelul-comunei-Podgoria-judetul-Buzau_compressed.pdf",
+     "sha256": "5d9f46aaae1bc1a968551764185a119dd162bad2f57435976fb78215c4c2c5f4"
+    }
+   ]
+  }
+ ]
+}

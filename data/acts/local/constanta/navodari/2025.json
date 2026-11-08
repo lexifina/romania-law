@@ -3,6 +3,72 @@
 "shard": "local/constanta/navodari/2025",
 "acts": [
 {
+"slug": "hcl-constanta--navodari-17-2025",
+"path": "local/constanta/navodari/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 17/2025 privind aprobarea Planului Urbanistic Zonal in vederea reglementarilor urbanistice pentru loturile cu nr",
+"short": "HCL Năvodari nr. 17/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-18-2025",
+"path": "local/constanta/navodari/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 18/2025 privind aprobarea Planului Urbanistic Zonal Ã®n vederea corelÄrii Èi armonizÄrii indicilor urbanistici aferenÈi zonei studiate prin modificarea reglementÄrilor urbanistice cu aplicarea matricei SEVESO",
+"short": "HCL Năvodari nr. 18/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-57-2025",
+"path": "local/constanta/navodari/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 57/2025 privind modificarea si indreptarea erorilor materiale din HCL nr.240/16.12.2024 privind stabilirea nivelului impozitelor si taxelor locale pentru anul 2025 in Orasul Navodari",
+"short": "HCL Năvodari nr. 57/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--navodari-162-2025",
 "path": "local/constanta/navodari/2025/162",
 "kind": "local",

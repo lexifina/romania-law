@@ -3,6 +3,28 @@
 "shard": "local/buzau/canesti/2025",
 "acts": [
 {
+"slug": "hcl-buzau--canesti-12-2025",
+"path": "local/buzau/canesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cănești nr. 12/2025 privind aprobarea bugetului local al comunei Canesti , judetul Buzau pe anul 2025",
+"short": "HCL Cănești nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/canesti-bz/registru-hcl/202556",
+"council": "buzau/canesti",
+"council_name": "Consiliul Local al Comunei Cănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--canesti-28-2025",
 "path": "local/buzau/canesti/2025/28",
 "kind": "local",

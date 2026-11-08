@@ -3,6 +3,36 @@
  "shard": "local/prahova/slanic/2017",
  "acts": [
   {
+   "slug": "hcl-prahova--slanic-14-2017",
+   "path": "local/prahova/slanic/2017/14",
+   "short": "HCL Slănic nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 14/2017 privind completarea Regulamentului de organizare și funcționare a Aparatului de specialitate al Primarului orașului Slănic Consiliul Local al orașului Slănic, județul Prahova; Văzând Expunerea de motive nr.3987 din 24.03.2017 prezentată de Primarul orașului Slănic și Raportul de avizare al compartimentului Resurse Umane din cadrul Serviciului financiar contabil din cadrul Aparatului de specialitat",
+   "url": "http://www.primariaslanic.ro/arhiva/hotarari_2017.htm",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "http://www.primariaslanic.ro/arhiva/documente/hotarari/2017/14_31032017.pdf",
+     "sha256": "60f189a07bdb0e82c580678c8a5dd16da8679034b3193b8725fc836ed19b961a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-16-2017",
+   "path": "local/prahova/slanic/2017/16",
+   "short": "HCL Slănic nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 16/2017 privind aprobarea notelor conceptuale pentru proiecte de investiții noi propuse pentru implementare începând cu anul 2017",
+   "url": "http://www.primariaslanic.ro/arhiva/hotarari_2017.htm",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 3,
+     "source_url": "http://www.primariaslanic.ro/arhiva/documente/hotarari/2017/16_31032017.pdf",
+     "sha256": "77d4823086600a7bd3124e495a52605877c271519a78b8afa443440476cae25f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--slanic-53-2017",
    "path": "local/prahova/slanic/2017/53",
    "short": "HCL Slănic nr. 53/2017",

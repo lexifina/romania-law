@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/isaccea/2020",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--isaccea-30-2020",
+   "path": "local/tulcea/isaccea/2020/30",
+   "short": "HCL Isaccea nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Isaccea nr. 30/2020 privind aprobarea scăderii taxei de habitat pentru persoanele fizice care nu au beneficiat în totalitate de servicii de salubrizare pentru anul 2019",
+   "url": "https://isaccea.ro/arhiva-evidenta-hotarari/",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 3,
+     "source_url": "https://isaccea.ro/wp-content/uploads/2020/hcl/HCL_30_2020.pdf",
+     "sha256": "5ed02fc6a09e25f549dd835fd1786bb36f7b3919f1d65e6fa9d7c07e0d1d6cd8"
+    }
+   ]
+  }
+ ]
+}

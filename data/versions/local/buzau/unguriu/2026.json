@@ -3,6 +3,21 @@
  "shard": "local/buzau/unguriu/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--unguriu-1-2026",
+   "path": "local/buzau/unguriu/2026/1",
+   "short": "HCL Unguriu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 1/2026 privind aprobarea planului de acţiuni şi lucrări de interes local aferent anului 2026, pentru repartizarea orelor de muncă desfăşurate de beneficiarii prevederilor Legii nr.196/2016, actualizată, la nivelul comunei Unguriu, judeţul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/254618",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/254618",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-10-2026",
    "path": "local/buzau/unguriu/2026/10",
    "short": "HCL Unguriu nr. 10/2026",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-2-2026",
+   "path": "local/buzau/unguriu/2026/2",
+   "short": "HCL Unguriu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 2/2026 privind aprobarea Programului de actiunI comunitare destinat prevenirii si combaterii riscului de saracie si excluziune sociala pentru anul 2026",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/254619",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/254619",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-20-2026",
    "path": "local/buzau/unguriu/2026/20",
    "short": "HCL Unguriu nr. 20/2026",
@@ -223,6 +253,36 @@
      "from": "2026-10-12",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/292845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-3-2026",
+   "path": "local/buzau/unguriu/2026/3",
+   "short": "HCL Unguriu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 3/2026 privind acordarea unor facilitati fiscale pentru anul 2026",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/258190",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/258190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-4-2026",
+   "path": "local/buzau/unguriu/2026/4",
+   "short": "HCL Unguriu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 4/2026 privind privind reorganizarea aparatului de specialitate al primarului comunei Unguriu , județul Buzău, precum și aprobarea organigramei și ștatului de funcții din cadrul și din afara aparatului de specialitate al primarului comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/263514",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/263514",
      "sha256": null
     }
    ]

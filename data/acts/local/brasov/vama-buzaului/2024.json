@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/brasov/vama-buzaului/2024",
+"acts": [
+{
+"slug": "hcl-brasov--vama-buzaului-111-2024",
+"path": "local/brasov/vama-buzaului/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 111/2024 nr. 111 din 15.11.2024 - privind aprobarea menținerii în anul 2025 a prețurilor de referință al masei lemnoase pe picior ce se recoltează din fondul forestier proprietate a Comunei Vama Buzăului, aprobate pentru anul 2024",
+"short": "HCL Vama Buzăului nr. 111/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2024",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--vama-buzaului-121-2024",
+"path": "local/brasov/vama-buzaului/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 121/2024 nr. 121 din 20.12.2024 - privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul comunei Vama Buzăului, pentru anul 2025",
+"short": "HCL Vama Buzăului nr. 121/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2024",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--vama-buzaului-122-2024",
+"path": "local/brasov/vama-buzaului/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 122/2024 privind stabilirea impozitelor pe mijloacele de transport cu masa totală autorizată egală sau mai mare de 12 T, pentru anul 2025, la nivelul comunei Vama Buzăului, județul Brașov Consiliul Local al comunei Vama Buzăului, Întrunit în ședință ordinară la data de 20.12.2024; Analizând proiectul de hotărâre inițiat de către Viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect d",
+"short": "HCL Vama Buzăului nr. 122/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2024",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--vama-buzaului-124-2024",
+"path": "local/brasov/vama-buzaului/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 124/2024 nr. 124 din 20.12.2024 - privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului comunei Vama Buzăului",
+"short": "HCL Vama Buzăului nr. 124/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2024",
+"council": "brasov/vama-buzaului",
+"council_name": "Consiliul Local al Comunei Vama Buzăului",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

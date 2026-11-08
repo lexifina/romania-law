@@ -3,6 +3,486 @@
  "shard": "local/braila/stancuta/2025",
  "acts": [
   {
+   "slug": "hcl-braila--stancuta-1-2025",
+   "path": "local/braila/stancuta/2025/1",
+   "short": "HCL Stăncuța nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 1/2025 privind alegerea comisiilor pe domenii de specialitate ale Consiliului Local Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228277",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-11-2025",
+   "path": "local/braila/stancuta/2025/11",
+   "short": "HCL Stăncuța nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 11/2025 privind însușirea acordului de cooperare privind organizarea și exercitarea serviciului administrativ",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228295",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-12-2025",
+   "path": "local/braila/stancuta/2025/12",
+   "short": "HCL Stăncuța nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 12/2025 privind însușirea Acordului de cooperarea privind serviciul de gestionare a câinilor fără stăpân din cadrul Filialei Județene Brăila a A.Co.R",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228296",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-13-2025",
+   "path": "local/braila/stancuta/2025/13",
+   "short": "HCL Stăncuța nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 13/2025 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228297",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-14-2025",
+   "path": "local/braila/stancuta/2025/14",
+   "short": "HCL Stăncuța nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 14/2025 privind alegerea comisiilor pe domenii de specialitate ale Consiliului Local Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228306",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-15-2025",
+   "path": "local/braila/stancuta/2025/15",
+   "short": "HCL Stăncuța nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 15/2025 privind aprobarea Planului de acțiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apți de muncă, potrivit Legii nr, 196/2016 privind venitul minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228307",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-16-2025",
+   "path": "local/braila/stancuta/2025/16",
+   "short": "HCL Stăncuța nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 16/2025 privind acordarea ajutoarelor de urgență la nivelul comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228308",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-17-2025",
+   "path": "local/braila/stancuta/2025/17",
+   "short": "HCL Stăncuța nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 17/2025 privind însușirea inventarului bunurilor aparținând sistemul public de alimentare cu apă și aprobarea apartenenței la domeniul public al Comunei Stancuta a bunurilor de retur inventariate - an 2024",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228309",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-18-2025",
+   "path": "local/braila/stancuta/2025/18",
+   "short": "HCL Stăncuța nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 18/2025 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța pe luna februarie 2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228310",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-19-2025",
+   "path": "local/braila/stancuta/2025/19",
+   "short": "HCL Stăncuța nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 19/2025 privind adoptarea bugetului local al comunei Stăncuța pe anul 2025 și estimările pentru anii 2026-2028",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228374",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-2-2025",
+   "path": "local/braila/stancuta/2025/2",
+   "short": "HCL Stăncuța nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 2/2025 privind aprobarea organizării și funcționării rețelei școlare de pe raza localității Stăncuța pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228278",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-20-2025",
+   "path": "local/braila/stancuta/2025/20",
+   "short": "HCL Stăncuța nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 20/2025 privind definitivarea și aprobarea PROGRAMULUI ANUAL DE ACHIZIȚII PUBLICE",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228375",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-21-2025",
+   "path": "local/braila/stancuta/2025/21",
+   "short": "HCL Stăncuța nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 21/2025 privind încheierea unor contracte de consultanță, asistență și reprezentare juridică pentru anul 2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228376",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-22-2025",
+   "path": "local/braila/stancuta/2025/22",
+   "short": "HCL Stăncuța nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 22/2025 privind aprobarea Studiului de fezabilitate (SF), a indicatorilor tehnico-economici precum și a devizului general aferent obiectivului de investiți: „AMENAJARE TROTUARE ȘI DISPOZITIVE PENTRU SCURGEREA APELOR PE DJ 212 (DJ 212C) ȘI PE DJ 211A-DJ 212, PE RAZA LOCALITĂȚII CUZA VODĂ DIN COMUNA STĂNCUȚA”",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228377",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-23-2025",
+   "path": "local/braila/stancuta/2025/23",
+   "short": "HCL Stăncuța nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 23/2025 privind aprobarea alocării unor fonduri de la bugetul local al comunei Stăncuța pentru investiția „Consolidare, reabilitare și reconfigurare corp C 1 Biserică și construire anexă” - continuare lucrări",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228378",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-24-2025",
+   "path": "local/braila/stancuta/2025/24",
+   "short": "HCL Stăncuța nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 24/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228379",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-25-2025",
+   "path": "local/braila/stancuta/2025/25",
+   "short": "HCL Stăncuța nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 25/2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228380",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-26-2025",
+   "path": "local/braila/stancuta/2025/26",
+   "short": "HCL Stăncuța nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 26/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228381",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-27-2025",
+   "path": "local/braila/stancuta/2025/27",
+   "short": "HCL Stăncuța nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 27/2025 privind ieșirea Comunei Stăncuța din Asociația Comunelor din România",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228382",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-28-2025",
+   "path": "local/braila/stancuta/2025/28",
+   "short": "HCL Stăncuța nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 28/2025 privind aprobarea consumului total anual de carburant pentru autovehiculele și utilajele aflate în dotarea Consiliului Local Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228383",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-3-2025",
+   "path": "local/braila/stancuta/2025/3",
+   "short": "HCL Stăncuța nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 3/2025 privind aprobarea încheierii unui acord de parteneriat între Comuna Stăncuța și Asociația ”EcoAssist” București având ca obiect împădurire teren în comuna Stăncuța - acțiune ce face parte din inițiativa națională de împădurire pe bază de voluntariat ”Plantăm fapte bune în România”",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228279",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-30-2025",
+   "path": "local/braila/stancuta/2025/30",
+   "short": "HCL Stăncuța nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 30/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228388",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-31-2025",
+   "path": "local/braila/stancuta/2025/31",
+   "short": "HCL Stăncuța nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 31/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228389",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-32-2025",
+   "path": "local/braila/stancuta/2025/32",
+   "short": "HCL Stăncuța nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 32/2025 privind ieșirea Comunei Stăncuța din Asociația Comunelor din România",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228390",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-33-2025",
+   "path": "local/braila/stancuta/2025/33",
+   "short": "HCL Stăncuța nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 33/2025 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța pe luna aprilie 2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228391",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-34-2025",
+   "path": "local/braila/stancuta/2025/34",
+   "short": "HCL Stăncuța nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 34/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228621",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-35-2025",
+   "path": "local/braila/stancuta/2025/35",
+   "short": "HCL Stăncuța nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 35/2025 privind aprobarea încheierii unui Acord între Unitatea Administrativ-Teritorială - Județul Brăila prin Consiliul Județean Brăila și Unitatea Administrativ Teritorială - Comuna Stăncuța, în vederea realizării de către Comuna Stăncuța a obiectivului de investiții ”Amenajare trotuare și dispozitive pentru scurgerea apelor pe DJ 212 (DJ212C) și pe DJ 211 A - DJ 212 pe raza localității Cuza-Vodă din comuna Stăncuța”",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228622",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-36-2025",
+   "path": "local/braila/stancuta/2025/36",
+   "short": "HCL Stăncuța nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 36/2025 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța pe lunile mai și iunie 2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228623",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-4-2025",
+   "path": "local/braila/stancuta/2025/4",
+   "short": "HCL Stăncuța nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 4/2025 privind aprobarea decontării navetei cadrelor didactice din cadrul Școlii Profesionale Stăncuța pe lunile noiembrie și decembrie 2024",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228280",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-40-2025",
+   "path": "local/braila/stancuta/2025/40",
+   "short": "HCL Stăncuța nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 40/2025 privind aprobarea Organigramei și a Statului de funcții al aparatului propriu de specialitate al Primarului comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228693",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-41-2025",
+   "path": "local/braila/stancuta/2025/41",
+   "short": "HCL Stăncuța nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 41/2025 privind aprobarea neasumării responsabilității de către UAT Comuna Stăncuța a organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228694",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-42-2025",
+   "path": "local/braila/stancuta/2025/42",
+   "short": "HCL Stăncuța nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 42/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228695",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228695",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-43-2025",
    "path": "local/braila/stancuta/2025/43",
    "short": "HCL Stăncuța nr. 43/2025",
@@ -258,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-6-2025",
+   "path": "local/braila/stancuta/2025/6",
+   "short": "HCL Stăncuța nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 6/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228282",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-60-2025",
    "path": "local/braila/stancuta/2025/60",
    "short": "HCL Stăncuța nr. 60/2025",
@@ -298,6 +793,21 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/246584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-7-2025",
+   "path": "local/braila/stancuta/2025/7",
+   "short": "HCL Stăncuța nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 7/2025 privind încheierea exercițiului bugetar pe anul 2024",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228283",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228283",
      "sha256": null
     }
    ]

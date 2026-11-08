@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/horezu/2008",
+"acts": [
+{
+"slug": "hcl-valcea--horezu-48-2008",
+"path": "local/valcea/horezu/2008/48",
+"kind": "local",
+"year": "2008",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Horezu nr. 48/2008 cu privire la aprobarea Regulamentului de administrare si exploatare a drumurilor comunale si drumul forestier aflate in domeniul public al orasului Horezu, prezentate de domnul prof.ec",
+"short": "HCL Horezu nr. 48/2008",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2008-09-10",
+"latest": "2008-09-10",
+"portal": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=115",
+"council": "valcea/horezu",
+"council_name": "Consiliul Local al Orașului Horezu",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

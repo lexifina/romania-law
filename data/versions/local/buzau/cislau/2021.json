@@ -3,6 +3,246 @@
  "shard": "local/buzau/cislau/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--cislau-1-2021",
+   "path": "local/buzau/cislau/2021/1",
+   "short": "HCL Cislău nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 1/2021 privind alegerea președintelui de ședință pentru perioada ianuarie-februarie-martie 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28682",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-10-2021",
+   "path": "local/buzau/cislau/2021/10",
+   "short": "HCL Cislău nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 10/2021 privind modificarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Cislău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28724",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-11-2021",
+   "path": "local/buzau/cislau/2021/11",
+   "short": "HCL Cislău nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 11/2021 privind aprobarea neasumării responsabilității organizării și derulării proedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28725",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-12-2021",
+   "path": "local/buzau/cislau/2021/12",
+   "short": "HCL Cislău nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 12/2021 privind aprobarea realizării obiectivului de investiție ”Înființare sistem de supraveghere video în comuna Cislau, județul Buzău”",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28726",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-13-2021",
+   "path": "local/buzau/cislau/2021/13",
+   "short": "HCL Cislău nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 13/2021 privind aprobarea contului de execuție a bugetului local de venituri și cheltuieli al comunei Cislău pe trimestrul IV anul 2020",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28727",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-14-2021",
+   "path": "local/buzau/cislau/2021/14",
+   "short": "HCL Cislău nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 14/2021 privind aprobarea Bugetului local al comunei Cislău și a Listei de investiții și Planului de achiziții pentru anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28728",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-15-2021",
+   "path": "local/buzau/cislau/2021/15",
+   "short": "HCL Cislău nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 15/2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28729",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-16-2021",
+   "path": "local/buzau/cislau/2021/16",
+   "short": "HCL Cislău nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 16/2021 privind aprobarea amplasamentului stațiilor publice de îmbarcare/debarcare a calatoriilor din localitățile aparținătoare UAT Cislau, jud. Buzău, pentru traseele care tranzitează comuna în curse regulate de persoane",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28730",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-17-2021",
+   "path": "local/buzau/cislau/2021/17",
+   "short": "HCL Cislău nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 17/2021 privind alegerea președintelui de ședință pentru perioada mai-iunie-iulie 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28731",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-18-2021",
+   "path": "local/buzau/cislau/2021/18",
+   "short": "HCL Cislău nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 18/2021 privind aprobarea contului de execuție a bugetului local de venituri și cheltuieli al comunei Cislău pe trimestrul I anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28732",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-19-2021",
+   "path": "local/buzau/cislau/2021/19",
+   "short": "HCL Cislău nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 19/2021 privind aprobarea rectificării nr. 1 a bugetului local al comunei Cislău pe anul 2021",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28733",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-2-2021",
+   "path": "local/buzau/cislau/2021/2",
+   "short": "HCL Cislău nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 2/2021 privind aprobarea lucrărilor de interes local care vor fi executate în anul 2021 de persoanele apte de muncă beneficiar de ajutor social",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28683",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-20-2021",
+   "path": "local/buzau/cislau/2021/20",
+   "short": "HCL Cislău nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 20/2021 privind actualizarea inventarului bunurilor care aparțin domeniului public al Comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28734",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-21-2021",
+   "path": "local/buzau/cislau/2021/21",
+   "short": "HCL Cislău nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 21/2021 privind modificarea și completarea Hotărârii Consiliului Local nr. 41 din 24.10.2020 pentru aprobarea implemnetării și a indicatorilor tehnico-economici din cadrul proiectului ''Dotarea unităților de învățământ gimnazial de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip, necesare pentru a preveni răspândirea coronaviruslui SARS-Cov-2 în Comuna Cislău, județul Buzău''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/33680",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/33680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-22-2021",
+   "path": "local/buzau/cislau/2021/22",
+   "short": "HCL Cislău nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 22/2021 privind modificarea Hotărârii nr. 42 din 24.10.2020 privind aprobarea înființării Unității de Implementare a Proiectului (UIP) ''Dotarea unităților de învățământ preuniversitar de stat cu echipamente de protecție medicală de tip măști de protecție medicală, dezinfectanți, precum și alte echipamente de acest tip, necesare pentru a preveni răspândirea coronaviruslui SARS-Cov-2 în Comuna Cislău, județul Buzău''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/33681",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/33681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-25-2021",
+   "path": "local/buzau/cislau/2021/25",
+   "short": "HCL Cislău nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 25/2021 privind aprobarea participării unității administrativ teritoriale comuna Cislău în calitate de asociat - membru fondator la constituirea Asociației de Dezvoltare Intercomunitară ''Investiții Teritoriale Integrate Ținutului Buzăului, Prahovei și Vrancei''",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/33693",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/33693",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-26-2021",
    "path": "local/buzau/cislau/2021/26",
    "short": "HCL Cislău nr. 26/2021",
@@ -58,6 +298,21 @@
      "from": "2021-09-28",
      "units": 1,
      "source_url": "https://emol.ro/cislau-bz/registru-hcl/40479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-3-2021",
+   "path": "local/buzau/cislau/2021/3",
+   "short": "HCL Cislău nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 3/2021 privind reorganizarea rețelei școlare pentru anul școlar 2021/2022 la nivelul comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28684",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28684",
      "sha256": null
     }
    ]
@@ -213,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cislau-4-2021",
+   "path": "local/buzau/cislau/2021/4",
+   "short": "HCL Cislău nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 4/2021 privind aprobarea Strategiei de Dezvoltare Durabila 2021-2027 a comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28685",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-40-2021",
    "path": "local/buzau/cislau/2021/40",
    "short": "HCL Cislău nr. 40/2021",
@@ -298,6 +568,81 @@
      "from": "2021-12-24",
      "units": 1,
      "source_url": "https://emol.ro/cislau-bz/registru-hcl/46664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-5-2021",
+   "path": "local/buzau/cislau/2021/5",
+   "short": "HCL Cislău nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 5/2021 privind scoaterea din funcțiune casare după caz, valorificarea bunurilor de natura mijloacelor fixe și obiectelor de inventar aflate în inventarul aparținând Consiliului Local al comunei Cislău în urma inventarierii pe anul 2020, Lista de inventar a mijloacelor fixe rezultate în urma inventarierii",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28686",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-6-2021",
+   "path": "local/buzau/cislau/2021/6",
+   "short": "HCL Cislău nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 6/2021 privind transformarea unui post din cadrul aparatului de specialitate al Primarului comunei Cislău, județul Buzău și aprobarea organigramei și statului de funcții pentru aparatul de specialitate (funcții publice și funcții contractuale) al primarului comunei Cislău, județul Buzău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28687",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-7-2021",
+   "path": "local/buzau/cislau/2021/7",
+   "short": "HCL Cislău nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 7/2021 privind aprobarea modificării Actului Constitutiv și Statutului Asociației de Dezvoltare Intercomunitară „PROGAZ BUZĂU 2020”, la care Comuna Cislău este membru asociat",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28721",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-8-2021",
+   "path": "local/buzau/cislau/2021/8",
+   "short": "HCL Cislău nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 8/2021 privind însușirea și aprobarea documentației cadastrale de dezmembrare a unui imobil aparținând domeniului public al comunei Cislău",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28722",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-9-2021",
+   "path": "local/buzau/cislau/2021/9",
+   "short": "HCL Cislău nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 9/2021 privind aprobarea dreptului de acces cu titlu gratuit a unui teren în suprafață de 10 mp pe domeniul public al comunei Cislau, județul Buzău, în vederea exploatării pe o durata de 20 de ani, pentru operarea, întreținerea și exploatarea unui punct local de distribuție sistemul broadband, pentru echipamente, respectiv drumul de acces, traseul de fibra optica și alimentarea cu energie electrică (rețea și/sau canalizatie, incluzând elementele de susținerea acestora respectiv stalpi/turnuri/piloni, etc",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/28723",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/28723",
      "sha256": null
     }
    ]

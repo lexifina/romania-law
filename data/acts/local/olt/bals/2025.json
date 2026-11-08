@@ -892,6 +892,94 @@
 }
 },
 {
+"slug": "hcl-olt--bals-85-2025",
+"path": "local/olt/bals/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 85/2025 Aprobarea Statului de funcții și a numărului de posturi pe anul 2025 ( anexa nr.1), cu modificările solicitate în raportul de specialitate, pentru Spitalul Orășenesc Balș",
+"short": "HCL Balș nr. 85/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102625",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-olt--bals-88-2025",
+"path": "local/olt/bals/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 88/2025 Aprobarea participării Direcției de Asistență Socială BALȘ în cadrul apelului de proiecte „Servicii de îngrijire la domiciliu pentru persoanele vârstnice” – Acțiunea 6.1, finanțat prin Programul Incluziune și Demnitate Socială 2021–2027, cu proiectul intitulat:„Servicii de ingrijire la domiciliu pentru persoane vârstnice in orasul Balș ”",
+"short": "HCL Balș nr. 88/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102622",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--bals-89-2025",
+"path": "local/olt/bals/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 89/2025 Aprobarea participării Direcției de Asistență Socială BALȘ în cadrul apelului de proiecte „ Servicii de îngrijire de zi - terapii psihologice pentru copiii cu dizabilități” – Acțiunea 7.3, finanțat prin Programul Incluziune și Demnitate Socială 2021–2027, cu proiectul intitulat:„ Servicii de îngrijire de zi - terapii psihologice pentru copiii cu dizabilități” in orasul Balș , județul Olt”",
+"short": "HCL Balș nr. 89/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102621",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--bals-92-2025",
+"path": "local/olt/bals/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 92/2025 Modificarea HCL Balș nr.143/04.09.2024 privind aprobare procedură de valorificare prin casare a rezultatului operațiunilor de inventariere a mijloacelor fixe și a obiectelor de inventar la nivelul Primăriei Orașului Balș și unităților subordonate Consiliului Local Balș",
+"short": "HCL Balș nr. 92/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102631",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-olt--bals-96-2025",
 "path": "local/olt/bals/2025/96",
 "kind": "local",
@@ -911,6 +999,28 @@
 "council_name": "Consiliul Local al Orașului Balș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bals-113-2025",
+"path": "local/olt/bals/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 113/2025 Alegerea președintelui de ședință al Consiliului Local al Orașului Balș",
+"short": "HCL Balș nr. 113/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#103552",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

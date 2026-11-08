@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bacau/comanesti/2022",
+"acts": [
+{
+"slug": "hcl-bacau--comanesti-50-2022",
+"path": "local/bacau/comanesti/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Comănești nr. 50/2022 privind aprobarea delegării prin concesiune a Serviciului de Iluminat Public al Orașului Comănești, județul Bacău, a studiului de fundamentare a deciziei de delegare a Serviciului public de Iluminat al Orașului Comănești, județul Bacău, a Regulamentului de Organizare și Fun",
+"short": "HCL Comănești nr. 50/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "http://www.primariacomanesti.ro/hotarari-ale-consiliului-local-comanesti/3712-anul-2022.html",
+"council": "bacau/comanesti",
+"council_name": "Consiliul Local al Orașului Comănești",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

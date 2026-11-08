@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Unguriu nr. 17/2025
+
+HCL Unguriu nr. 17/2025 · 1 versions, from 2025-05-19 (latest in force: 2025-05-19) · <https://emol.ro/unguriu-bz/registru-hcl/206185>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is. Its title names a private person or a private property, so it is not shown.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-buzau--unguriu-17-2025` (tags `hcl-buzau--unguriu-17-2025/<day>`; `python tools/on.py <day> hcl-buzau--unguriu-17-2025`).
+
+## Decisions made by hand
+
+- HCL Unguriu nr. 17/2025: listed from Consiliul Local al Comunei Unguriu (emol.ro); metadata only for now: no document of it is held.
+- HCL Unguriu nr. 17/2025: dated from 19 May 2025, the day the council's register gives it as published (adopted 29 April 2025).
+- HCL Unguriu nr. 17/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; the title is withheld.

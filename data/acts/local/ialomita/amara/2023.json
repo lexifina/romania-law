@@ -112,6 +112,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-ialomita--amara-276-2023",
+"path": "local/ialomita/amara/2023/276",
+"kind": "local",
+"year": "2023",
+"number": "276",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Amara nr. 276/2023 privind constituirea dreptului de superficie cu titlu oneros în favoarea societății Oyl Expert Pavaje SRL asupra terenului intravilan în suprafață de 48 mp, aparținând domeniului privat al orașului Amara, situat în strada Tudor Vladimirescu, zona ”Blocuri Noi ”, număr cadastral 22820, aferent unui Magazin",
+"short": "HCL Amara nr. 276/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://amara.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3612#50255",
+"council": "ialomita/amara",
+"council_name": "Consiliul Local al Orașului Amara",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

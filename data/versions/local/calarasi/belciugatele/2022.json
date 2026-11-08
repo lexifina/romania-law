@@ -3,6 +3,321 @@
  "shard": "local/calarasi/belciugatele/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--belciugatele-28-2022",
+   "path": "local/calarasi/belciugatele/2022/28",
+   "short": "HCL Belciugatele nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 28/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/63261",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/63261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-30-2022",
+   "path": "local/calarasi/belciugatele/2022/30",
+   "short": "HCL Belciugatele nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 30/2022 privind completarea Hotărârii Consiliului Local Belciugatele nr. 85 din 25.11.2021 cu privire la stabilirea impozitelor și taxelor locale, alte taxe asimilate acestora, precum și amenzile aplicabile Începând cu anul fiscal 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/63274",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/63274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-32-2022",
+   "path": "local/calarasi/belciugatele/2022/32",
+   "short": "HCL Belciugatele nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 32/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții ,,Distribuție gaze naturale în comuna Belciugatele – satele Belciugatele, Cândeasca, Cojești,Măriuța și Mataraua” prin Programul Național de Investiții ,,Anghel Saligny” aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/63276",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/63276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-43-2022",
+   "path": "local/calarasi/belciugatele/2022/43",
+   "short": "HCL Belciugatele nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 43/2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/63965",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/63965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-44-2022",
+   "path": "local/calarasi/belciugatele/2022/44",
+   "short": "HCL Belciugatele nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 44/2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/63966",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/63966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-46-2022",
+   "path": "local/calarasi/belciugatele/2022/46",
+   "short": "HCL Belciugatele nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 46/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/64496",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/64496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-48-2022",
+   "path": "local/calarasi/belciugatele/2022/48",
+   "short": "HCL Belciugatele nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 48/2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/64498",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/64498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-50-2022",
+   "path": "local/calarasi/belciugatele/2022/50",
+   "short": "HCL Belciugatele nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 50/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/64500",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/64500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-51-2022",
+   "path": "local/calarasi/belciugatele/2022/51",
+   "short": "HCL Belciugatele nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 51/2022 privind aprobarea implementării proiectului de investiții ,,Realizare Esplanadă în satul Belciugatele, comuna Belciugatele, judetul Călărași”",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/66120",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/66120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-53-2022",
+   "path": "local/calarasi/belciugatele/2022/53",
+   "short": "HCL Belciugatele nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 53/2022 privind aprobarea implementării proiectului de investiții ,,Modernizarea sistemului de încălzire la Școala Gimnazială nr. 1 Belciugatele” din satul Belciugatele, comuna Belciugatele, județul Călărași",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/66122",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/66122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-54-2022",
+   "path": "local/calarasi/belciugatele/2022/54",
+   "short": "HCL Belciugatele nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 54/2022 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/66123",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/66123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-56-2022",
+   "path": "local/calarasi/belciugatele/2022/56",
+   "short": "HCL Belciugatele nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 56/2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/69288",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/69288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-58-2022",
+   "path": "local/calarasi/belciugatele/2022/58",
+   "short": "HCL Belciugatele nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 58/2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/69290",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/69290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-59-2022",
+   "path": "local/calarasi/belciugatele/2022/59",
+   "short": "HCL Belciugatele nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 59/2022 privind apartenența la domeniul public al comunei Belciugatele a unei suprafețe de 574 mp, teren aferent imobilului „Magazie Carburanți” ce figurează la poziția 38 din Anexa nr. 8 – Inventarul bunurilor care aparțin domeniului public al comunei Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/69292",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/69292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-60-2022",
+   "path": "local/calarasi/belciugatele/2022/60",
+   "short": "HCL Belciugatele nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 60/2022 privind atestarea apartenenței la domeniul privat al comunei Belciugatele, a unor imobile cu destinația – terenuri, situate în intravilanul comunei Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/69291",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/69291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-62-2022",
+   "path": "local/calarasi/belciugatele/2022/62",
+   "short": "HCL Belciugatele nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 62/2022 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/70561",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/70561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-63-2022",
+   "path": "local/calarasi/belciugatele/2022/63",
+   "short": "HCL Belciugatele nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 63/2022 cu privire la închiderea unor roluri fiscale, anularea obligațiilor fiscale și actelor administrative aferente rolurilor respective",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/70562",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/70562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-64-2022",
+   "path": "local/calarasi/belciugatele/2022/64",
+   "short": "HCL Belciugatele nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 64/2022 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al primarului comunei Belciugatele",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/70941",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/70941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-65-2022",
+   "path": "local/calarasi/belciugatele/2022/65",
+   "short": "HCL Belciugatele nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 65/2022 privind aprobarea schimbării denumirii proiectului de investiții ,,Realizare Esplanadă în satul Belciugatele, comuna Belciugatele,județul Călărași” în ,,Amenajare zonă centrală în comuna Belciugatele, județul Călărași” și aprobarea indicatorilor tehnico-economici și a devizului general pentru acest obiectiv",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/71485",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/71485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-69-2022",
+   "path": "local/calarasi/belciugatele/2022/69",
+   "short": "HCL Belciugatele nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 69/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/74152",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/74152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--belciugatele-70-2022",
+   "path": "local/calarasi/belciugatele/2022/70",
+   "short": "HCL Belciugatele nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 70/2022 cu privire la aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/belciugatele-cl/registru-hcl/74153",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/belciugatele-cl/registru-hcl/74153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--belciugatele-71-2022",
    "path": "local/calarasi/belciugatele/2022/71",
    "short": "HCL Belciugatele nr. 71/2022",

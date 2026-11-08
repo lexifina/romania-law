@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/bumbesti-jiu/2023",
+"acts": [
+{
+"slug": "hcl-gorj--bumbesti-jiu-71-2023",
+"path": "local/gorj/bumbesti-jiu/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Bumbești-Jiu nr. 71/2023 privind Codul Admjnistrativ, cu modificarile si completarile ulterioare ; - Legea nr. 95 / 2006 privind reforma in domeniul sanatatii ; - OMS .122412010 privind aprobarea Normativelor de personalpentru asistenta spitaliceasca i - O[4S nr. 1470 I 2011 pentu aptobarea criteriilor privind angajarea si promovarea in functii, grade si trepte - profesionale a personaluluicontractualdln unitatile sanitar",
+"short": "HCL Bumbești-Jiu nr. 71/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "http://www.bumbesti-jiu.ro/consiliul-local/hotarari",
+"council": "gorj/bumbesti-jiu",
+"council_name": "Consiliul Local al Orașului Bumbești-Jiu",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

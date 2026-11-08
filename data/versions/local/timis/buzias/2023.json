@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/timis/buzias/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--buzias-121-2023",
+   "path": "local/timis/buzias/2023/121",
+   "short": "HCL Buziaș nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 121/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariabuzias.ro/wp-content/uploads/2024/03/HCL-121-din-28-12-2023.pdf",
+     "sha256": "d1b4dcddb2de98cc3434d1aa58859ea0d1e617e982060cb6cf5432b893f89285"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/braila/rosiori/2025",
+"acts": [
+{
+"slug": "hcl-braila--rosiori-7-2025",
+"path": "local/braila/rosiori/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 7/2025 privind Codul administrativ; - Prevederile art.L al.(2) lit.b din OUG nr '26/2Of2 privind unele masuri de reducere a cheltuielilor publice si ehnt;rirea disciplinei financiare si de modificare si completare a unor acte normative; -ExDunerea de motive a primarului comunei; -Referatele comisiilor de specialitate din cadrul consiliului local; ln temeiul dispozitiilor art.139 alin.3 , art.196 alin.1 l",
+"short": "HCL Roșiori nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-7-din-31.01.2025.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-braila--rosiori-23-2025",
+"path": "local/braila/rosiori/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 23/2025 privind finantele publice locale' cu ' -- modificarile si completarile ulterioare; privire la aprobarea Programului nalional de -fr\"u\"A\",it\" oUG nr.95/20231-cu investilii Anghel Saligny -Standarde de cost; -prevederile HCL nr.6O/76.f2 2024) -prevederile art.291 lit.\"b' din Legea nr'227/2015 privind codul Fiscalj -iieveaerile art.rzg alin.2 lit.\"b\";i alin 4lit \"d\" din ouG NR 5712019 privind codul A",
+"short": "HCL Roșiori nr. 23/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-23-din-14.04.2025.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-braila--rosiori-57-2025",
+"path": "local/braila/rosiori/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 57/2025 privind Codul administrativ; - Prevederile art.1 al.(2) lit.b din OUG nr.26/2012 privind unele masuri de reducere a cheltuielilor publice si ahntérirea disciplinei financiare si de modificare si completare a unor acte normative; -Expunerea de motive a primarului comunei; _Referatele comisiilor de specialitate din cadrul consiliului local; In temeiul dispozitiilor art.139 alin.3 , art.196 alin.1 li",
+"short": "HCL Roșiori nr. 57/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-57-din-22.12.2025.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

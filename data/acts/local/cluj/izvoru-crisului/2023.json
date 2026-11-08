@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/izvoru-crisului/2023",
+"acts": [
+{
+"slug": "hcl-cluj--izvoru-crisului-6-2023",
+"path": "local/cluj/izvoru-crisului/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 6/2023 privind aprobarea tarifelor pentru utilizarea spațiilor aflate în domeniul public/privat al Comunei Izvoru Crișului",
+"short": "HCL Izvoru Crișului nr. 6/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-cluj--izvoru-crisului-17-2023",
+"path": "local/cluj/izvoru-crisului/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 17/2023 privind aprobarea Regulamentului Intern pentru acordarea voucherelor de vacanță pentru anul 2023",
+"short": "HCL Izvoru Crișului nr. 17/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+"council": "cluj/izvoru-crisului",
+"council_name": "Consiliul Local al Comunei Izvoru Crișului",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--canesti-3-2024",
+   "path": "local/buzau/canesti/2024/3",
+   "short": "HCL Cănești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 3/2024 privind aprobarea bugetului de venituri si cheltuieli al comunei Canesti , judetul Buzau pe anul 2024",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/139701",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/139701",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--canesti-30-2024",
    "path": "local/buzau/canesti/2024/30",
    "short": "HCL Cănești nr. 30/2024",
@@ -298,6 +313,21 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/canesti-bz/registru-hcl/187590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-8-2024",
+   "path": "local/buzau/canesti/2024/8",
+   "short": "HCL Cănești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 8/2024 privind aprobarea bugetului local al comunei Canesti , judetul Buzau pe anul 2024",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/145940",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/145940",
      "sha256": null
     }
    ]

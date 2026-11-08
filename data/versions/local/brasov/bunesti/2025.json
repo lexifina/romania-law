@@ -3,6 +3,81 @@
  "shard": "local/brasov/bunesti/2025",
  "acts": [
   {
+   "slug": "hcl-brasov--bunesti-1-2025",
+   "path": "local/brasov/bunesti/2025/1",
+   "short": "HCL Bunești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 1/2025 privind repartizarea excedentul bugetului local înregistrat la sfârşitul anului 2024",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/186110",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/186110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-10-2025",
+   "path": "local/brasov/bunesti/2025/10",
+   "short": "HCL Bunești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 10/2025 privind APROBAREA TRANSFERULUI UNUI MICROBUZ ȘCOLAR ÎN GESTIUNEA ȘCOLII GIMNAZIALE BUNEȘTI",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200190",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-11-2025",
+   "path": "local/brasov/bunesti/2025/11",
+   "short": "HCL Bunești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 11/2025 privind revocarea dreptului de administrare în favoarea EGCL Făgăraş asupra terenului intravilan înscris în CF 100354 Buneşti, sub nr.top. 334, 335 situat în comuna Buneşti, sat Criț, nr.adm.84, jud.Braşov",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200191",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-12-2025",
+   "path": "local/brasov/bunesti/2025/12",
+   "short": "HCL Bunești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 12/2025 privind aprobarea procentului de constituire a fondului de accesibilizare a pădurilor",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200192",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-13-2025",
+   "path": "local/brasov/bunesti/2025/13",
+   "short": "HCL Bunești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 13/2025 privind aprobarea acordului de participare a comunei Bunești în cadrul Programului-pilot \"Rabla pentru sobe\"",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/201141",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/201141",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--bunesti-16-2025",
    "path": "local/brasov/bunesti/2025/16",
    "short": "HCL Bunești nr. 16/2025",
@@ -298,6 +373,96 @@
      "from": "2026-09-14",
      "units": 1,
      "source_url": "https://emol.ro/bunesti-bv/registru-hcl/245211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-4-2025",
+   "path": "local/brasov/bunesti/2025/4",
+   "short": "HCL Bunești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 4/2025 privind aprobarea închirierii disponibilului de pajiști și alte terenuri din patrimoniul privat al comunei Bunești, precum și aprobarea Regulamentului privind închirierea prin atribuire directă",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/197101",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/197101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-5-2025",
+   "path": "local/brasov/bunesti/2025/5",
+   "short": "HCL Bunești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 5/2025 privind aprobarea Planului de acţiuni şi lucrări de interes local pentru repartizarea orelor de muncă pentru beneficiarii prevederilor Legii nr.196/2016 privind venitul minim de incluziune şi pentru contravenienţii obligaţi să presteze activităţi în folosul comunităţii conform OG nr.55/2002, aferent anului 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200185",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-6-2025",
+   "path": "local/brasov/bunesti/2025/6",
+   "short": "HCL Bunești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 6/2025 privind aprobarea depășirii cotei de 1/12 din cheltuielile totale preliminate și aprobate în anul 2024 din bugetul de venituri și cheltuieli al RPLP Stejarul RA Rupea",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200186",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-7-2025",
+   "path": "local/brasov/bunesti/2025/7",
+   "short": "HCL Bunești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 7/2025 privind aprobarea bugetului de venituri şi cheltuieli precum şi a raportului de activitate economico-financiară ale RPLP Stejarul RA aferente anului 2024",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200187",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-8-2025",
+   "path": "local/brasov/bunesti/2025/8",
+   "short": "HCL Bunești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 8/2025 privind aprobarea bugetului de venituri şi cheltuieli al RPLP Stejarul RA preliminat a se realiza în anul 2025",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200188",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bunesti-9-2025",
+   "path": "local/brasov/bunesti/2025/9",
+   "short": "HCL Bunești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bunești nr. 9/2025 privind aprobarea participării Comunei Bunești la realizarea proiectului Via Transilvanica (Calea Transilvaniei)",
+   "url": "https://emol.ro/bunesti-bv/registru-hcl/200189",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bunesti-bv/registru-hcl/200189",
      "sha256": null
     }
    ]

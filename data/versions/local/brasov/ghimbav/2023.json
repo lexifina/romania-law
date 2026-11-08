@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-113-2023",
+   "path": "local/brasov/ghimbav/2023/113",
+   "short": "HCL Ghimbav nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 113/2023 pentru aprobarea Regulamentului privind acordarea de premii elevilor / tinerilor / sportivilor care au obținut rezultate deosebite Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_113_31-08-2023.pdf",
+     "sha256": "762c6836e535f1d1d64982541f490be11e5b3f4a2a756905a25ca66ea2c5d566"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-142-2023",
    "path": "local/brasov/ghimbav/2023/142",
    "short": "HCL Ghimbav nr. 142/2023",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/wp-content/uploads/2026/09/2023-04-10-HCL_nr_32_30-03-2023.pdf",
      "sha256": "1ca85849f7766a4f94f31242c97b7390b6ea3bbd9b10c3759d476f4b35c8f77f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-56-2023",
+   "path": "local/brasov/ghimbav/2023/56",
+   "short": "HCL Ghimbav nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 56/2023 privind stabilirea taxelor și impozitelor locale pentru anul fiscal 2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_56_27-04-2023.pdf",
+     "sha256": "b7348b3d9909188094b7bf1a9d0b16ae69ad1983734cc8066e2e6854bb063635"
     }
    ]
   },

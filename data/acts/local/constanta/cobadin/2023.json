@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/cobadin/2023",
+"acts": [
+{
+"slug": "hcl-constanta--cobadin-101-2023",
+"path": "local/constanta/cobadin/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 101/2023 privind aprobarea modificării tarifelor din contractul nr. 10330 / 04.12.2015 privind delegarea gestiunii prin concesiune a unei părți a serviciului de salubrizare al comunei Cobadin, judetul Constanta Consiliul Local al Comunei Cobadin, judetul Constanța, întrunit în ședința EXTRAORDINARĂ – convocată de ÎNDATĂ, în data de 02.10.2023",
+"short": "HCL Cobadin nr. 101/2023",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://primariacobadin.ro/hotararile-autoritatii-deliberative/",
+"council": "constanta/cobadin",
+"council_name": "Consiliul Local al Comunei Cobadin",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-constanta--navodari-17-2025",
+   "path": "local/constanta/navodari/2025/17",
+   "short": "HCL Năvodari nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 17/2025 privind aprobarea Planului Urbanistic Zonal in vederea reglementarilor urbanistice pentru loturile cu nr",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.17-din-31.01.2025.pdf",
+     "sha256": "4be1c07e24df471d2a2d7ddfc15584adf52abc9a8255f654f1f0cd4cba808eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-18-2025",
+   "path": "local/constanta/navodari/2025/18",
+   "short": "HCL Năvodari nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 18/2025 privind aprobarea Planului Urbanistic Zonal Ã®n vederea corelÄrii Èi armonizÄrii indicilor urbanistici aferenÈi zonei studiate prin modificarea reglementÄrilor urbanistice cu aplicarea matricei SEVESO",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/01/HCL-nr.18-din-31.01.2025.pdf",
+     "sha256": "4dd6accb7e041a9a638361d36ed6a437c1b54bf1f79f5c780b4b49ad05f3c505"
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--navodari-243-2025",
    "path": "local/constanta/navodari/2025/243",
    "short": "HCL Năvodari nr. 243/2025",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/12/HCL-nr.-316-din-30.12.2025_compressed.pdf",
      "sha256": "0889e8790f538371e8d3cd0c3f5808c254efd655d823bb999bfa7c32310d37b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-57-2025",
+   "path": "local/constanta/navodari/2025/57",
+   "short": "HCL Năvodari nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 57/2025 privind modificarea si indreptarea erorilor materiale din HCL nr.240/16.12.2024 privind stabilirea nivelului impozitelor si taxelor locale pentru anul 2025 in Orasul Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2025/03/HCL-nr.57-din-28.02.2025.pdf",
+     "sha256": "8c807de9853963aaf9aeb23bfb74187baa4c607dc1fe7f308a9f79b52e35887e"
     }
    ]
   }

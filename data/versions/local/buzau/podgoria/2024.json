@@ -3,6 +3,111 @@
  "shard": "local/buzau/podgoria/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-18-2024",
+   "path": "local/buzau/podgoria/2024/18",
+   "short": "HCL Podgoria nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 18/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "96c5a2bbc0c0a29a10b762d7c40a1bf93a0aa2ce44b4600a1179250d08504c2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-23-2024",
+   "path": "local/buzau/podgoria/2024/23",
+   "short": "HCL Podgoria nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 23/2024 Privind actualizarea metodologiei, cuantumul maxim si situatiile deosebite - legea 196 -2024",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/23HCL.nr_.-23-30042024-Privind-actualizarea-metodologiei-cuantumul-maxim-si-situatiile-deosebite-legea-196-2024.pdf",
+     "sha256": "0a87e8655837927893451998c7ecb29f26828f2ae1e96bf8457436224998220f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-30-2024",
+   "path": "local/buzau/podgoria/2024/30",
+   "short": "HCL Podgoria nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 30/2024 Privind reorganizarea Aparatului de specialitate al Primarului comunei Podgoria, judetul Buzau, potrivit prevederilor Legii nr. 296/2023 privind unele măsuri fiscal - bugetare pentru asigurarea sustenabilității financiare a României pe termen lung Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ordinara pe luna iunie 2024; Având în vedere: • referatul de aprobare al Primaru",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/30HCL-nr.-30-28062024-reorganizarea-Aparatului-de-specialitate-potrivit-prev-Legii-nr.-296-2023.pdf",
+     "sha256": "23c3459593c0fb8e67dd903ab5076b40cc4c9502b122732e8d659ed1bfd16472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-31-2024",
+   "path": "local/buzau/podgoria/2024/31",
+   "short": "HCL Podgoria nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 31/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4bdba6ba1827308044ab84ca16cd9790ce59747f735b062999c5328e27df96ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-35-2024",
+   "path": "local/buzau/podgoria/2024/35",
+   "short": "HCL Podgoria nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 35/2024 Privind indreptarea erorilor materiale inscrise in Hotararea nr.64 din 28.12.2023 privind stabilirea nivelurilor impozabile, impozitelor si taxelor locale si altor taxe asimilate acestora, ce se vor aplica in anul fiscal 2024, prin indexarea acestora cu rata inflatiei de 13,8%, de la nivelul comunei Podgoria, judetul Buzau – Anexa nr. 5 Consiliul local al comunei Podgoria, judetul Buzau, intrunit",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 6,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/35HCL.-nr.35-31.07.2024-INDREPTARE-EROARE-HCL-IMPOZITE-SI-TAXE-ELIMINARE-4-TAXE-LOCALE-SPECIALE.pdf",
+     "sha256": "a47b4f49803dca68200d1e3b1c7eb89aadc24cf07398a95dc0f603240fe57273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-4-2024",
+   "path": "local/buzau/podgoria/2024/4",
+   "short": "HCL Podgoria nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 4/2024 privind aprobarea prelungirea termenului de valabilitate al PLANULUI URBANISTIC GENERAL al comunei PODGORIA, judetul BUZAU Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA pe data de 31.01.2024 ; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 126/9.01.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a)",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/4HCL.-nr.-4-31012024-PRELUNGIRE-VALABILITATE-PUG-COMUNA-PODGORIA.pdf",
+     "sha256": "d1b7683abadc44dd8c753a0b23b7b256890676019b180fb1c81a384be545f388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-43-2024",
+   "path": "local/buzau/podgoria/2024/43",
+   "short": "HCL Podgoria nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 43/2024 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA in data de 21.10.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3510/11.09.2024 intocmit in conformitate",
+   "url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/43-HCL-nr-43-21.10.2024-masuri-necesare-pt.-interzicerea-abandonarii-aruncarii-necontrolate-a.pdf",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/43-HCL-nr-43-21.10.2024-masuri-necesare-pt.-interzicerea-abandonarii-aruncarii-necontrolate-a.pdf",
+     "sha256": "06b2e4be02a531b3c6d7aa8a4f82edd31c5fa8ade63e70f61c971686ece1d9c3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-44-2024",
    "path": "local/buzau/podgoria/2024/44",
    "short": "HCL Podgoria nr. 44/2024",
@@ -59,6 +164,21 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/49HCL-NR.49-29.11.2024-ALEGEREA-COMISIEI-SPECIALE-DE-NUMARARE-A-VOTURILOR-EXPRIMATE-DE-CL-PRIN-VOT-SECRET.pdf",
      "sha256": "d5de2e4809d9db0494153ec0c2bb2587d5ed0eec0a3b4b656ee9555fc0de909a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-5-2024",
+   "path": "local/buzau/podgoria/2024/5",
+   "short": "HCL Podgoria nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 5/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/5HCL.-nr.5-31.01.2024-stabilire-salarii-de-baza-cf.-ouG-NR.-115-.2023-MAJORARE-DE-5-PROCENTE.pdf",
+     "sha256": "2d0b977619ec1321068f6b856cb210855b9df9cb5c98a30a3df3294afa298c54"
     }
    ]
   },
@@ -134,6 +254,21 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/55-HCL.-55-19.12.2024-act-aditional-nr.2-CONTRAT-SC-ACVATERM-decembrie-2024.pdf",
      "sha256": "e67f2b59fb9f05b6f820609038a0617a366f05f8ecf8fc68b3c254f56519b4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-8-2024",
+   "path": "local/buzau/podgoria/2024/8",
+   "short": "HCL Podgoria nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 8/2024 Privind aprobarea participării UAT – Comuna Podgoria la Programul național multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/8HCL.-nr.8-9.02.2024-APROBAREA-PARTICIPARE-.pdf",
+     "sha256": "9c0a4ce39887e53fd2c1c9e14e6a40b8855a2d7cafd9946005db999ac3e33182"
     }
    ]
   }

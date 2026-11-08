@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/iara/2025",
+ "acts": [
+  {
+   "slug": "hcl-cluj--iara-18-2025",
+   "path": "local/cluj/iara/2025/18",
+   "short": "HCL Iara nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 18/2025 Privind aprobarea Comisiei de selecție și nominalizare în cadrul procedurii de selectie pentru funcția de administrator al Societății La Sala Parc SRL Consiliul Local al comunei Iara, județul Cluj întrunit în ședință ordinară din data de 21.03.2025, Văzând: a) Proiectul de hotărâre nr.18 din data de 14.03.2025,privind aprobarea Comisiei de selectie si nominalizare pentru funcțía de administrator a",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-18-aprobare-comisie-de-selectie-.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-18-aprobare-comisie-de-selectie-.pdf",
+     "sha256": "9d0af6ff3b65266222e65c3a45d274eaff1427203790578c6a6257188f33d25d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-54-2025",
+   "path": "local/cluj/iara/2025/54",
+   "short": "HCL Iara nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 54/2025 Privind aprobarea tarifelor aferente utilizării stațiilor de încărcare vehicule electrice amplasate pe domeniul public al Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 25.09.2025, Văzând : a) Proiectul de hotărâre nr. 58 din data de 19.09.2025, aprobarea tarifelor aferente utilizării stațiilor de încărcare vehicule electrice amplasate pe domen",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-54-tarif-statii-incarcare_regulament-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-54-tarif-statii-incarcare_regulament-.pdf",
+     "sha256": "aa8a1832c0825ef912b602efd4128d66b4add6885261de9eb2b86deac77477c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-76-2025",
+   "path": "local/cluj/iara/2025/76",
+   "short": "HCL Iara nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 76/2025 privind aprobarea Strategiei de tarifare pentru perioada 2026-2030, respectiv a formulei de calcul Consiliul Local al Comunei Iara , județul Cluj întrunit în sedință publică ordinara în data de 27.11.2025 Văzând: a)Proiectul de hotărâre nr. 81 din data de 25.11.2025, privind aprobarea Strategiei de tarifare pentru perioada 2026-2030, respectiv a formulei de calcul Analizând temeiurile juridice, re",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 6,
+     "source_url": null,
+     "sha256": "edf9ad18bc72667981572953029e5c8c8cef9062a78e69e261077b7fd3004321"
+    }
+   ]
+  }
+ ]
+}

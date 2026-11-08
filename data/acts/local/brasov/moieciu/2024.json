@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/moieciu/2024",
+"acts": [
+{
+"slug": "hcl-brasov--moieciu-32-2024",
+"path": "local/brasov/moieciu/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 32/2024 privind aprobarea Regulamentului de decontare a cheltuielilor de transport pentru functionarii publici $i personalul contractual din aparatul de specialitate al primarului $i al serviciilor pu.blice din subordinea consiliului local Consiliul local al comunei Moieciu, judetul Bra$OV, intrunit in $edinta ordinara din data de 29.08.2024, Analizand referatul de aprobare nr. 7090/2024, ca instrument de",
+"short": "HCL Moieciu nr. 32/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2024/12/HCL-32.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-45-2024",
+"path": "local/brasov/moieciu/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 45/2024 pentru modificarea $i completarea HCL nr. 36 din 22.12.2023 privind aprobarea, pentru anul 2024, a pretului de referinta a masei lemnoase provenita din fondul forestier proprietatea publica a comunei Moieciu, a criteriilor, volumelor si modului de valorificare a masei lemnoase, a preturilor de pornire la licitatie/negociere pentru masa lemnoasa valorificata prin licitatie publica a nivelului maxim",
+"short": "HCL Moieciu nr. 45/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2024/12/HCL-45.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-48-2024",
+"path": "local/brasov/moieciu/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 48/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025 Consiliul local al comunei Moieciu, judetul Bra~ov, intrunit in ~edLnta ordinara din data de 28.11.2024, Vazand referatul de specialitate al compartimentului de resort nr. 9202/2024, raportul de aprobare nr. 9201/2024 al viceprimarului cu atributii de primar in calitatea lui de initiator pentru proiectul de hotarare nr. 9200/2024 ~i",
+"short": "HCL Moieciu nr. 48/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2024/05/HCL-48-2024.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/gorj/ticleni/2022",
+"acts": [
+{
+"slug": "hcl-gorj--ticleni-30-2022",
+"path": "local/gorj/ticleni/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 30/2022 privind aprobarea comercializării de produse și de servicii, precum și a taxei pentru ocuparea temporară a locurilor publice în perimetrul de organizare a Zilelor Orașului Țicleni",
+"short": "HCL Țicleni nr. 30/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-106-2022",
+"path": "local/gorj/ticleni/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 106/2022 privind stabilirea impozitelor și taxelor locale, taxele speciale și amenzile pentru anul 2023",
+"short": "HCL Țicleni nr. 106/2022",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

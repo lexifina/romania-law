@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--sinca-4-2026",
+   "path": "local/brasov/sinca/2026/4",
+   "short": "HCL Șinca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 4/2026 privind modificarea HCL Sinca nr. 76 din 24.12.2025 privind aprobarea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 3,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-4-din-15.01.2026-privind-modificarea-HCL-Sinca-nr.-76-din-24.12.2025.pdf",
+     "sha256": "45696d4e05ebe263b38797194666be2957af99b2a6d98da6314a54e80c9149b8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-40-2026",
    "path": "local/brasov/sinca/2026/40",
    "short": "HCL Șinca nr. 40/2026",

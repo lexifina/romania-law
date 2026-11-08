@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-olt--bals-152-2022",
+"path": "local/olt/bals/2022/152",
+"kind": "local",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 152/2022 Referitor la aprobarea modificării listei de investiții a bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2022",
+"short": "HCL Balș nr. 152/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#33890",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

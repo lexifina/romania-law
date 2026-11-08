@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/vaslui/murgeni/2024",
+"acts": [
+{
+"slug": "hcl-vaslui--murgeni-64-2024",
+"path": "local/vaslui/murgeni/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 64/2024 privind inventarierea materiei impozabile in anul 2024 pentru anul fiscal 2025 Având în vedere prevederile:  Legii nr. 227/2015 privind Codul fiscal,cu modificarile si completările ulterioare;  Art. (5) alin 2) privind finantele publice locale, cu modificările și completările ulterioare  Hotărârea nr. 1 din 6 ianuarie 2016 (actualizata) pentru aprobarea normelor metodologice de aplicare a Legii",
+"short": "HCL Murgeni nr. 64/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2024/09/Hotararea-nr-64-din-2024-09-30-8320b6118f.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--murgeni-66-2024",
+"path": "local/vaslui/murgeni/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 66/2024",
+"short": "HCL Murgeni nr. 66/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2024/09/Hotararea-nr-66-din-2024-09-30-10e0c152bf.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vaslui--murgeni-80-2024",
+"path": "local/vaslui/murgeni/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 80/2024 privind aprobarea rețelei școlare de pe raza orașului Murgeni, aferentă anului școlar 2025-2026 Având în vedere temeiurile juridice,respectiv prevederile:  Ordinului nr. 6799/12.12.2023 pentru aprobarea Metodologiei privind reorganizarea unităților de învățământ preuniversitar cu personalitate juridică și pentru aprobarea Calendarului activităților privind reorganizarea unităților de învățământ p",
+"short": "HCL Murgeni nr. 80/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2024/11/Hotararea-nr-80-din-2024-11-25-ec46c0af38.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

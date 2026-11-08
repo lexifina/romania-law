@@ -3,6 +3,50 @@
 "shard": "local/braila/rosiori/2026",
 "acts": [
 {
+"slug": "hcl-braila--rosiori-23-2026",
+"path": "local/braila/rosiori/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 23/2026 privind redeventa, precum si formula de ajustare tarifara, avwate conform prin Avizul Conform nr.16238 din 04.03.2026 emis de catre Autoritatea Nationala de Reglementare pentru Serviciile Comunitare de Utilitati Publice (A.N.R'S'C'); - Avizul conform nr.1623g din 04.03.2026 pentru strategia de tarifare aferenta planului de afaceri pentru investitiile in infrastructura de apa si apa tzata dezvoltat",
+"short": "HCL Roșiori nr. 23/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-23-din-16.04.2026.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--rosiori-27-2026",
+"path": "local/braila/rosiori/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 27/2026 pentru aprobarea Normelor privind organizarca qi efectuarea inventarierii elementelor de natura activeloq datoriilor qi capitalurilor propriii. -prevederile art.I29 aIin.2lit.c gi art.289 alin.l din Codul administrativ, aprobat prin OUG nr.5712019; in temeiul art.I39 alin.3 lit g)qi aart.I96 alin.1 lit.a) din OUG nr.5712019 privind Codul Administrativ: HOTAnA$rE: Art.l-Se aprobd rezultatul inventa",
+"short": "HCL Roșiori nr. 27/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-27-din-11.05.2026.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--rosiori-51-2026",
 "path": "local/braila/rosiori/2026/51",
 "kind": "local",

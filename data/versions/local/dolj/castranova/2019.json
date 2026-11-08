@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/castranova/2019",
+ "acts": [
+  {
+   "slug": "hcl-dolj--castranova-19-2019",
+   "path": "local/dolj/castranova/2019/19",
+   "short": "HCL Castranova nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 19/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_19_din_2019.pdf",
+     "sha256": "2a4b728e19cd0a580335ecf90abdc61fec7a9c7bc99bcbe4c1a00cf78677c24d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-55-2019",
+   "path": "local/dolj/castranova/2019/55",
+   "short": "HCL Castranova nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 55/2019 privind modilicarea Regulamentului Serviciului de Salubrizarein Judetul Dolj Qi Regulamentului privind instituirea ;i administrarea taxei speciale de salubrizare pe raza Comunei Castranova",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 3,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_55_2019.pdf",
+     "sha256": "54d0c845d36178f4fad3b689252ac8b6ec54876dd417071866e524d1a9ac0451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-6-2019",
+   "path": "local/dolj/castranova/2019/6",
+   "short": "HCL Castranova nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 6/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_06_din_2019.pdf",
+     "sha256": "07538e124c9b063aaf3e64675a59a46c4427a79d1ef3c70997475717f95e6956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-62-2019",
+   "path": "local/dolj/castranova/2019/62",
+   "short": "HCL Castranova nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 62/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_62_2019.pdf",
+     "sha256": "d3d8006320114a72e2e67b0f1f991c5d1afb395ca3c667530b00b456315109c1"
+    }
+   ]
+  }
+ ]
+}

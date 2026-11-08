@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/horezu/2010",
+ "acts": [
+  {
+   "slug": "hcl-valcea--horezu-22-2010",
+   "path": "local/valcea/horezu/2010/22",
+   "short": "HCL Horezu nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 22/2010 cu privire la aprobarea Planului Urbanistic General al orașului Horezu, județul Vâlcea, prezentate de Primarul orasului Horezu, prof.ec",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=108",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_22_aprobarea_planului_urbanistic__20100502_id1386.pdf",
+     "sha256": "0dfb7fba857c141e70586bdc8963b51efdb566721f4f2a0eae445478be2d108c"
+    }
+   ]
+  }
+ ]
+}

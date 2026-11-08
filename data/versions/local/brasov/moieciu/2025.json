@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/moieciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-brasov--moieciu-8-2025",
+   "path": "local/brasov/moieciu/2025/8",
+   "short": "HCL Moieciu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 8/2025 privind aprobarea, pentru anul 2025, a pretului de referinta a masei lemnoase provenita din fondul forestier proprietatea publica a comunei Moieciu, a criteriilor, volumelor si modului de valorificare a masei lemnoase, a preturilor de pornire la licitatie/negociere pentru masa lemnoasa valorificata prin licitatie publica a nivelului maximal al tarifelor pentru prestatiile de exlpoatari forestiere",
+   "url": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-8-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-8-2025.pdf",
+     "sha256": "c8f89b8de2c11fe7285b5d9a420d6320a58e2b2fbe4ea0425a9f9ae70e68d340"
+    }
+   ]
+  }
+ ]
+}

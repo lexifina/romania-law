@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2019",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-14-2019",
+   "path": "local/tulcea/sulina/2019/14",
+   "short": "HCL Sulina nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 14/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare14din2019.pdf",
+     "sha256": "75ed685982cd16919ade5b1700561fdad2bbec1ba708c25128483f344660372b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-16-2019",
+   "path": "local/tulcea/sulina/2019/16",
+   "short": "HCL Sulina nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 16/2019 privind aprobarea modificării tarifelor pentru Serviciul de administrare a cimitirului orașului Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare16din2019.pdf",
+     "sha256": "ab9f1e1c73bffb8c69c9c24724a682a78a5c42adb30d56fb39cb227bd2e27922"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-17-2019",
+   "path": "local/tulcea/sulina/2019/17",
+   "short": "HCL Sulina nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 17/2019 privind aprobarea modificării tarifelor pentru serviciile de administrare a portului Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare17din2019.pdf",
+     "sha256": "7b1a7ea5a4b529ab0b5087655a790d10257ad87f2632362292b6663009f23f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-18-2019",
+   "path": "local/tulcea/sulina/2019/18",
+   "short": "HCL Sulina nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 18/2019 privind aprobarea Regulamentului pentru ocuparea temporară a domeniului public sau privat în orașul Sulina și modalitatea de încasare a contravalorii aferente, până la finalizarea procedurii de licitație publică",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare18din2019.pdf",
+     "sha256": "bb690897b45dc0b94075b1d689d9ca78bb8862116249f6f35a417615e2b93e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-31-2019",
+   "path": "local/tulcea/sulina/2019/31",
+   "short": "HCL Sulina nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 31/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare31din2019.pdf",
+     "sha256": "edfd50463ce3c071dfaefec045456dc8811bf9432d01919319fd27eb23b9eb3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-33-2019",
+   "path": "local/tulcea/sulina/2019/33",
+   "short": "HCL Sulina nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 33/2019 privind aprobarea tarifelor pentru Serviciul de salubrizare al orașului Sulina, pentru activitățile de întreținere și reparații instalații electrice și colectare deșeuri biodegradabile",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare33din2019.pdf",
+     "sha256": "b52071a28aeb08fce12e1f26f31c58c2354d9430de40b409dbfb103e3fa0f932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-39-2019",
+   "path": "local/tulcea/sulina/2019/39",
+   "short": "HCL Sulina nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 39/2019 privind aprobarea listelor cu persoanele care beneficiază de subvenție la tariful de salubrizare",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare39din2019.pdf",
+     "sha256": "44b9240233da5c9cf9614c109a9b0fbcfac43053538f113e2d5409997be80845"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-41-2019",
+   "path": "local/tulcea/sulina/2019/41",
+   "short": "HCL Sulina nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 41/2019 privind majorarea tarifului pentru transport public local de persoane prin curse regulate în orașul Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare41din2019.pdf",
+     "sha256": "e40603f89ea995155e77493ea35bd29bdc99e7c409ccab0366b3403990db6cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-44-2019",
+   "path": "local/tulcea/sulina/2019/44",
+   "short": "HCL Sulina nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 44/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare44din2019.pdf",
+     "sha256": "4a259fd83ab4ee717243b27b1902e53881056f0a6cb6e754bf30b57dffa741db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-55-2019",
+   "path": "local/tulcea/sulina/2019/55",
+   "short": "HCL Sulina nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 55/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare55din2019.pdf",
+     "sha256": "5e2fa670ee0e9f69324368ad0c8ffc1e579fadf5fb8f21ed098b642690f5be95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-8-2019",
+   "path": "local/tulcea/sulina/2019/8",
+   "short": "HCL Sulina nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 8/2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2019.html",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hotarare8din2019.pdf",
+     "sha256": "07d8dd82fed2a4ed0fb87bad006fa77f0de011bccdebc535493d0e6d00362f98"
+    }
+   ]
+  }
+ ]
+}

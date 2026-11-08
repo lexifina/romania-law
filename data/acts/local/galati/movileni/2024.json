@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/movileni/2024",
+"acts": [
+{
+"slug": "hcl-galati--movileni-35-2024",
+"path": "local/galati/movileni/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Movileni nr. 35/2024 pentru apDbaEa docunenlal'el lclnice PUZ COMPLEX RECREATIV T2?, Pll Ci 104j93",
+"short": "HCL Movileni nr. 35/2024",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-09-22",
+"latest": "2024-09-22",
+"portal": "https://primaria-movileni.ro/wp-content/uploads/2025/04/HCL-nr.35-din-22.09.2024.pdf",
+"council": "galati/movileni",
+"council_name": "Consiliul Local al Comunei Movileni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

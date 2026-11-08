@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/salaj/simleu-silvaniei/2009",
+ "acts": [
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-82-2009",
+   "path": "local/salaj/simleu-silvaniei/2009/82",
+   "short": "HCL Șimleu Silvaniei nr. 82/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 82/2009 privind stabilirea impozitelor și taxelor locale, altor taxe asimilate acestora, taxelor speciale, precum și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului public și privat al orașului Șimleu Silvaniei pentru anul fiscal 2010 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 octombrie 2009 ; Având în vedere Expuner",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2009/page/2/",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 11,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_082_30102009.pdf",
+     "sha256": "8bd4549e6de52b738359e7b2f2d6a1163c1adfe913f89d8eac640a7bd5e01933"
+    }
+   ]
+  }
+ ]
+}

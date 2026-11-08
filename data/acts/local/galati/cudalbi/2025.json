@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/cudalbi/2025",
+"acts": [
+{
+"slug": "hcl-galati--cudalbi-24-2025",
+"path": "local/galati/cudalbi/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cudalbi nr. 24/2025 pentru dezvoltarea economico-socială și de mediu a comunei înregistrat sub nr. 100/14.05.2025; - Hotărârea Consiliului Local Cudalbi nr. 5/25.01.2024 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați; - prevederile Art. 13 alin. 3, art. 22 din Legea serviciilor comunitare de utilități publice nr. 51/2006, cu modificările și completările ulterioare; - prevederile Art. 6 și",
+"short": "HCL Cudalbi nr. 24/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://comunacudalbi.ro/wp-content/uploads/2025/07/HCL-24-actualizare-Regulament-salubrizare-mai-2025-1.pdf",
+"council": "galati/cudalbi",
+"council_name": "Consiliul Local al Comunei Cudalbi",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

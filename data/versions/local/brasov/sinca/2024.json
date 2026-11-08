@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/sinca/2024",
+ "acts": [
+  {
+   "slug": "hcl-brasov--sinca-25-2024",
+   "path": "local/brasov/sinca/2024/25",
+   "short": "HCL Șinca nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 25/2024 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2025, cu rata inflatiei de 10.4%",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 4,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-25-din-26-aprilie-2024-privind-indexarea-impozitelor-si-taxelor-locale-pentru-anul-fiscal-2025-cu-rata-inflatiei-de-10.4.pdf",
+     "sha256": "7cc63be13f599ad20760c2e24ff7ac0f60703ce97dfc5759bcc71aafb1560f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-31-2024",
+   "path": "local/brasov/sinca/2024/31",
+   "short": "HCL Șinca nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 31/2024 privind aprobarea documentatiilor de urbanism Planul Urbanistic Zonal (PUZ) si Regulamentul Local de Urbanism (RLU) in vederea construirii de pensiune agroturistica, comuna Sinca, judetul Brasov",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-31-din-26-aprilie-2024-privind-aprobarea-documentatiilor-de-urbanism-PUZ-si-RLU.pdf",
+     "sha256": "9586f973dd5bd2123776436193dfd8e80bea911db91eacb0f786a6be00395fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-52-2024",
+   "path": "local/brasov/sinca/2024/52",
+   "short": "HCL Șinca nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 52/2024 privind aprobarea impozitelor pentru mijloacele de transport prevazute la art. 470, alin. 5 si 6 din Legea nr. 227/2015 pentru anul 2025",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 5,
+     "source_url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+     "sha256": "a1c2706f5fd6973756e8bf6466c4cb234614e9d41ea889421463788058f41fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-69-2024",
+   "path": "local/brasov/sinca/2024/69",
+   "short": "HCL Șinca nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 69/2024 privind aprobarea volumului de masa lemnoasa care se exploateaza anual din fondul forestier al comunei Sinca, a destinatiei acesteia si a preturilor de referinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-69-din-20-decembrie-2024-privind-aprobarea-volumului-de-masa-lemnoasa-care-se-exploateaza-anual-din-fondul-forestier-al-comunei-Sinca.pdf",
+     "sha256": "14f78b76f3f9fe7886aa167451f5e5aed8a82636ee3b03fec5f46b69043a5248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-71-2024",
+   "path": "local/brasov/sinca/2024/71",
+   "short": "HCL Șinca nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 71/2024 privind aprobarea serviciului public de salubrizare al Comunei Sinca, a Studiului de oportunitate, a Caietului de sarcini si delegarea gestiunii serviciului de salubrizare",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 7,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-Local-al-Comunei-Sinca-HCL-nr.-71-din-20.12.2024-privind-aprobarea-serviciului-public-de-salubrizare-al-Comunei-Sinca.pdf",
+     "sha256": "c2d76d98df6973a44fb67196fe122c9cf4d447f4a248205013d6444767743588"
+    }
+   ]
+  }
+ ]
+}

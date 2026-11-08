@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/buftea/2022",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--buftea-111-2022",
+   "path": "local/ilfov/buftea/2022/111",
+   "short": "HCL Buftea nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 111/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „CONSTRUIRE 3 LOCUINŢE INDIVIDUALE P+2E”, amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 5952",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/111.pdf",
+     "sha256": "78ba1fcd093ebce68e39c00c97d7120291f716348c5c3c57c5091c20b622f751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-112-2022",
+   "path": "local/ilfov/buftea/2022/112",
+   "short": "HCL Buftea nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 112/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „CONSTRUIRE LOCUINŢĂ P+1E”, ÎMPREJMUIRE TEREN, RACORD UTILITĂŢI” amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 60330",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/112.pdf",
+     "sha256": "b1d75878f182bf34d1106f6f5cc9fe0151bcbe53f3db2d228ecdedfcbbf65feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-113-2022",
+   "path": "local/ilfov/buftea/2022/113",
+   "short": "HCL Buftea nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 113/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „LOTIZARE ŞI CONSTRUIRE ANSAMBLU DE LOCUINŢE P+2E, SERVICII COMERCIALE ŞI CAZARE” amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 64467",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/113.pdf",
+     "sha256": "435ba929f9e3f2e94893c870cfdfbd080950dd646de44f812235590d34a2a835"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-115-2022",
+   "path": "local/ilfov/buftea/2022/115",
+   "short": "HCL Buftea nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 115/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “LOTIZARE ŞI CONSTRUIRE ANSAMBLU DE LOCUINŢE P+2E” amplasat în oraşul Buftea, judeţul Ilfov, număr cadastral 53119",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/115.pdf",
+     "sha256": "a505fea2e66a746f6ea21d0cc4c9d3e491ff7eb943fbbf6e6a509348b5b5787d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-138-2022",
+   "path": "local/ilfov/buftea/2022/138",
+   "short": "HCL Buftea nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 138/2022 privind aprobarea modificării Regulamentului de administrare a parcărilor publice din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/138.pdf",
+     "sha256": "c119ccb732591e3b47d6d647887653eb63b51a1f15e3b0d0644630b6b2d80349"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-159-2022",
+   "path": "local/ilfov/buftea/2022/159",
+   "short": "HCL Buftea nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 159/2022 privind aprobarea procedurii în vederea închirierii bunurilor imobile temporar disponibile, din cadrul unităţilor de învăţământ preuniversitar de stat, aflate în proprietatea publică a unităţii administrativ teritoriale oraşul Buftea şi în administrarea Consil",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/159.pdf",
+     "sha256": "24987a304bf2673a1942e0a9c135b65ec8e28043e4de70188bd73020ecfb8dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-18-2022",
+   "path": "local/ilfov/buftea/2022/18",
+   "short": "HCL Buftea nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 18/2022 privind aprobarea Regulamentului de vânzare a locuinţelor construite pentru tineri prin Agenţia Naţională pentru Locuinţe",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/18.pdf",
+     "sha256": "aa3be7b85f18768a8b12494fb014a8c0bbe51726a23858ddf6ccfbb39ac0f3e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-186-2022",
+   "path": "local/ilfov/buftea/2022/186",
+   "short": "HCL Buftea nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 186/2022 privind aprobarea cotelor, valorilor impozabile, nivelurilor impozitelor şi taxelor locale, alte taxe speciale şi amenzile aplicabile în anul fiscal 2023, în oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/wp-content/uploads/2022/12/hcl-186-din-23.12.2022-taxe_Redacted.pdf",
+     "sha256": "9991e37fe8abc6df6407c6526d80b20a774d2a5f18e28aae80d68c0f5efd10da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-194-2022",
+   "path": "local/ilfov/buftea/2022/194",
+   "short": "HCL Buftea nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 194/2022 privind modificarea nivelului tarifului pentru colectarea taxelor de către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/194.pdf",
+     "sha256": "e84ce1dc0f70ac559c024c966d20a3dde7f71b8f6628c6f2eebe57919915ff95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-208-2022",
+   "path": "local/ilfov/buftea/2022/208",
+   "short": "HCL Buftea nr. 208/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 208/2022 privind modificarea taxelor de utilizare a sălii de sport din oraşul Buftea, strada Ştirbei Vodă nr. 53A, judeţul Ilfov şi a Hotărârii Consiliului local Buftea nr.17/30.01 .2015 privind aprobarea Regulamentului de organizare şi funcţionare a Sălii de sport din",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/208.pdf",
+     "sha256": "b0a73f040a8719fcacfc0fc1c10adb92dfea432a8132929c15b95f765a46332f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-209-2022",
+   "path": "local/ilfov/buftea/2022/209",
+   "short": "HCL Buftea nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 209/2022 privind modificarea Anexei nr. 2 la Regulamentul de organizare şi funcţionare a pieţei centrale agroalimentare din oraşul Buftea • Procedura privind modul de administrare şi Încasare a tarifelor/taxe/or pentru tarabelboxelmp În Piaţa Centrală Agroalimentară Buf",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/209.pdf",
+     "sha256": "4e99b8553313e8bc6534c6e7dfdf356bcaf780018daa0aa0f573f6dfaf83226f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-211-2022",
+   "path": "local/ilfov/buftea/2022/211",
+   "short": "HCL Buftea nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 211/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “CLĂDIRE SPAŢII COMERCIALE ŞI SERVICII P + 2E, AMENAJARE ACCES AUTO ŞI PIETONAL, AMPLASARE MIJLOACE DE PUBLICITATE, AMENAJARE INCINTĂ”, oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/211.pdf",
+     "sha256": "28728a8e27179899aca80e6bf625723c0a73737f4343534475ad69bcc190d4f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-212-2022",
+   "path": "local/ilfov/buftea/2022/212",
+   "short": "HCL Buftea nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 212/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic zonal ,,CONSTRUIRE ANSAMBLU DE LOCUINŢE P + 2E ŞI FUNCŢIUNI COMPLEMENTARE” oraşul Buftea, judeţul Ilfov, nr. cadastrale 61945, 61946 şi 61947",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/212.pdf",
+     "sha256": "770d72371b0e1f65ff7af7a5ef92509f9c220a8e727ca9ffdebede4af82c5562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-213-2022",
+   "path": "local/ilfov/buftea/2022/213",
+   "short": "HCL Buftea nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 213/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal “ANSAMBLU DE LOCUINŢE P + 2E ŞI SERVICII COMERCIALE P + 2E + E3r “, oraşul Buftea, judeţul Ilfov, număr cadastral 64801",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/213.pdf",
+     "sha256": "988a43c679fc41fce9a611bbe72a5e2b081c807a776383c2984ef831993e92fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-214-2022",
+   "path": "local/ilfov/buftea/2022/214",
+   "short": "HCL Buftea nr. 214/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 214/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „ANSAMBLU DE LOCUINŢE P + 2E ŞI SERVICII COMERCIALE P + 2E”, oraşul Buftea, judeţul Ilfov, număr cadastral 64918",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/214.pdf",
+     "sha256": "1e689d3fde4aca41a698875081ee26deb2f2c6edea5a1f181410a9d7cbf3696a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-215-2022",
+   "path": "local/ilfov/buftea/2022/215",
+   "short": "HCL Buftea nr. 215/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 215/2022 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal „ANSAMBLU DE LOCUINŢE P+2E SI SERVICII COMERCIALE P+2E+E3R” în oraşul Buftea, judeţul Ilfov, număr cadastral 64 790",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/215.pdf",
+     "sha256": "ff842416fd965b3f4f658f9bab06439c2e06022384dc2d244a3dfd0fbb00ca55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-32-2022",
+   "path": "local/ilfov/buftea/2022/32",
+   "short": "HCL Buftea nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 32/2022 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării managementului Centrului Cultural Buftea, stabilirea comisiei de evaluare şi a comisiei de soluţionare a contestaţiilor",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/32.pdf",
+     "sha256": "30b2dad66dc7b3b50c21e29bb07b4105160799ab463cb424d7483478fdd12779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-33-2022",
+   "path": "local/ilfov/buftea/2022/33",
+   "short": "HCL Buftea nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 33/2022 privind modificarea Regulamentului de administrare a parcărilor publice din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/33.pdf",
+     "sha256": "c4190e2e5983e77958b23ab7018eec8688c63edd6c9e1bafe68f6156d6632383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-34-2022",
+   "path": "local/ilfov/buftea/2022/34",
+   "short": "HCL Buftea nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 34/2022 privind aprobarea modificării nivelului tarifului pentru colectarea taxelor de către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/34.pdf",
+     "sha256": "84407e2a0bef41d6eb479366b960ff9f0e6cb8de8f37e57dd08c41c332bed382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-9-2022",
+   "path": "local/ilfov/buftea/2022/9",
+   "short": "HCL Buftea nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 9/2022 privind acordarea de mandat special Asociaţiei de Dezvoltare lntercomunitară pentru Transport Public Bucureşti · Ilfov în vederea aprobării stabilirii, ajustării sau modificării preţurilor şi tarifelor",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2022/9.pdf",
+     "sha256": "a9dbd3cdb71ed084ff0b0f314e921f485af9da5c7a02a18420523db2e91cdcdc"
+    }
+   ]
+  }
+ ]
+}

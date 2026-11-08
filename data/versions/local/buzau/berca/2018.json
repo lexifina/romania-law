@@ -3,6 +3,21 @@
  "shard": "local/buzau/berca/2018",
  "acts": [
   {
+   "slug": "hcl-buzau--berca-10-2018",
+   "path": "local/buzau/berca/2018/10",
+   "short": "HCL Berca nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 10/2018 privind aprobarea REGULAMENTULUI – CADRU de organizare si frunctionare al compartimentului de asistenta sociala organizat la nivelul comunei Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/10_30.01.2018.pdf",
+     "sha256": "e482e63ac980ee0d9756f6d8023c7395e3b487c3083b9c8db0e014a6726d2adf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--berca-23-2018",
    "path": "local/buzau/berca/2018/23",
    "short": "HCL Berca nr. 23/2018",

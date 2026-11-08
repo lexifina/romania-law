@@ -889,6 +889,28 @@
 }
 },
 {
+"slug": "hcl-valcea--babeni-46-2022",
+"path": "local/valcea/babeni/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 46/2022 rectificarea bugetului local al orașului Băbeni pentru anul 2022",
+"short": "HCL Băbeni nr. 46/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-04-19",
+"latest": "2022-04-19",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#20646",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-valcea--babeni-47-2022",
 "path": "local/valcea/babeni/2022/47",
 "kind": "local",
@@ -1304,6 +1326,29 @@
 "council_name": "Consiliul Local al Orașului Băbeni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-valcea--babeni-67-2022",
+"path": "local/valcea/babeni/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 67/2022",
+"short": "HCL Băbeni nr. 67/2022",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": null,
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
 }
 },
 {

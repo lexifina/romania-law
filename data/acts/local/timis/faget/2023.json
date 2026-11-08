@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/timis/faget/2023",
+"acts": [
+{
+"slug": "hcl-timis--faget-86-2023",
+"path": "local/timis/faget/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Făget nr. 86/2023",
+"short": "HCL Făget nr. 86/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://primariafaget.ro/consiliul-local-al-orasului-faget/hotarari-adoptate-de-consiliul-local-al-orasului-faget/",
+"council": "timis/faget",
+"council_name": "Consiliul Local al Orașului Făget",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

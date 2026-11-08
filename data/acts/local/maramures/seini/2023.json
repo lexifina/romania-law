@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2023",
+"acts": [
+{
+"slug": "hcl-maramures--seini-38-2023",
+"path": "local/maramures/seini/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 38/2023 Privind aprobarea Regulamentului privind organizarea si functionarea Serviciului Public Comunitar Local de Evidenta a Persoanelor Descarca",
+"short": "HCL Seini nr. 38/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-20",
+"latest": "2023-04-20",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2023/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

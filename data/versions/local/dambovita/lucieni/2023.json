@@ -3,6 +3,21 @@
  "shard": "local/dambovita/lucieni/2023",
  "acts": [
   {
+   "slug": "hcl-dambovita--lucieni-101-2023",
+   "path": "local/dambovita/lucieni/2023/101",
+   "short": "HCL Lucieni nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 101/2023 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav din comuna Lucieni, pentru anul 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#64638",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 4,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2416v.FB.6L3yHe3Xf.7Q7ReOPZnXDhLvMEmhxh19SuzkX82u9Ix7nS/3009",
+     "sha256": "fe20a534056508d6e283caa1090e2d908cad626945f639396305f9e92bd8b04b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-104-2023",
    "path": "local/dambovita/lucieni/2023/104",
    "short": "HCL Lucieni nr. 104/2023",
@@ -29,6 +44,51 @@
      "units": 1,
      "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24emHPqyB79ovL/LBxrAEwru72pYjvYc/2y4h9ocgGsta5S4uwm4dDG/3009",
      "sha256": "d39a79d7ec3329b672c39e998166decfe819a092edddf972ebf9dc9da8b160a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-21-2023",
+   "path": "local/dambovita/lucieni/2023/21",
+   "short": "HCL Lucieni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 21/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil aparținând domeniului privat al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#45438",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24WPJAEPBbvrU2LoeRnI5O2OwsCQ5GTkgfUEaaL6qE2zdhsx..8XOja/3009",
+     "sha256": "e84f495cdbb252307d762a7b24990016ddef08e6ce0625bca193eca5d82a8898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-23-2023",
+   "path": "local/dambovita/lucieni/2023/23",
+   "short": "HCL Lucieni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 23/2023 privind aprobarea indicatorilor tehnico - economici pentru obiectivul „Amenajare loc de joacă, satul Olteni, comuna Lucieni, județul Dâmbovița”",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#45912",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 4,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24r8C/MANJe69fWPG4AXDAIO2VsKUf9EG7pWo2U9MMXleR16u4ZNXwK/3009",
+     "sha256": "d3f55653b0ad7268503c1cba43a6f50e5be795a4159d856252c8de743e5548b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-30-2023",
+   "path": "local/dambovita/lucieni/2023/30",
+   "short": "HCL Lucieni nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 30/2023 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Lucieni pentru o perioadă de trei luni, mai – iulie 2023",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#47133",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24SOSj.ath18jFnZ9hbo3N0.4BoFl5unzRdKKtyAOrdsgGgvI0rCBOu/3009",
+     "sha256": "37abbf930183a05bea8e539e323f3a31dbb5980dd5692df8f7eb65ed98410407"
     }
    ]
   },
@@ -78,6 +138,231 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--lucieni-36-2023",
+   "path": "local/dambovita/lucieni/2023/36",
+   "short": "HCL Lucieni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 36/2023 pentru modificarea și completarea HCL nr. 14/02.02.2023 privind aprobarea proiectului \"Sistem de Management Integrat al Deșeurilor din Județul Dâmbovița – OBIECTIV – Instalație de Tratare Deșeuri Colectate Separat și Centru de Aport Voluntar Șotânga\"",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#48575",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 5,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24P11yW1wHYxsYAiXRvLWIXuEc0wldqHFGMysV7YAyZ1XNhMo1pshX6/3009",
+     "sha256": "1a890f181cd1211d09f2070695de4f87c08d17a441e274576ee972611b3eabac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-40-2023",
+   "path": "local/dambovita/lucieni/2023/40",
+   "short": "HCL Lucieni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 40/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil aparținând domeniului public al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#49569",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24CI04K5kn6VT3GVT.RJdFjebfK8N87vbO6wk8HycNYZMXh834DYIQK/3009",
+     "sha256": "13ea88d55c5280e6255090c7d0bc74aef050ab61658a72935bfacbe404270f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-41-2023",
+   "path": "local/dambovita/lucieni/2023/41",
+   "short": "HCL Lucieni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 41/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unor imobile aparținând domeniului privat al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#49934",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Wu0IXPdCHYzowCTg6HlasuPhHUdJUULEHs/NnjXGDejyvluVmOVKC/3009",
+     "sha256": "04edccb7a63b4fbd9a7c6bf113805a71774ca410279e9340aec8a931e79a2593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-43-2023",
+   "path": "local/dambovita/lucieni/2023/43",
+   "short": "HCL Lucieni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 43/2023 privind asocierea unității administrativ-teritoriale Lucieni prin Consiliul local Lucieni, cu Judeţul Dâmboviţa, prin Consiliul Judeţean Dâmboviţa, pentru implementarea obiectivului de investiții „Achiziție microbuze noi electrice pentru școlile din județul Dâmbovița” în vederea depunerii cererii de finanțare în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#50246",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%249ciCZq2hQShL43HNQpW3ce4nOG2E1fSQ4l5bxiVAcyg9LDbKQNTfm/3009",
+     "sha256": "bd42118baf8782adfe2b562a835f1b3f5d39a6ef748bd3856ab8b644ed82860e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-44-2023",
+   "path": "local/dambovita/lucieni/2023/44",
+   "short": "HCL Lucieni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 44/2023 privind aprobarea asocierii Comunei Lucieni prin Consiliul Local Lucieni cu Județul Dâmbovița prin Consiliul Județean Dâmbovița, în cadrul Programului Județean de Dezvoltare Locală Dâmbovița, pentru realizarea investițiilor “Amenajare loc de joacă, sat Olteni, comuna Lucieni, județul Dâmbovița” și „Reabilitare și modernizare bază sportivă, sat Lucieni, comuna Lucieni, județul Dâmbovița”",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#51434",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24bJxn/eSB71JN79.NxbXDWut2W.DESN0.9kHY1Y4b8NUFlTBfC6IX./3009",
+     "sha256": "9d45cee3eab725fafff2df2f8f2707ff367da9d89afed8c1faeb3c5ccedeb5a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-49-2023",
+   "path": "local/dambovita/lucieni/2023/49",
+   "short": "HCL Lucieni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 49/2023 privind aprobarea documentului strategic „Plan de Mobilitate Urbană Durabilă pentru Municipiul Târgoviște 2021-2030”",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#52400",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24H0Z2xNhuWaeDQ5.mBevFVuDPPVxkvRm/RiqQAWtSxD.Hqe06VPfJC/3009",
+     "sha256": "99ac775aba09785ca54856d8bf74205c97f16379b1223f3c0213bb7841bdcf5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-50-2023",
+   "path": "local/dambovita/lucieni/2023/50",
+   "short": "HCL Lucieni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 50/2023 privind aprobarea documentului strategic „Strategia Integrată de Dezvoltare Urbană a Municipiului Târgoviște 2021-2027”",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#52401",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%244ji8JvHDt9sb3.ncTQcpQOTRD2oXaVilmYIKwvZA9PJ1Jex0TJeBC/3009",
+     "sha256": "1806ff38428b80e93e3221d4ced47ca79b7222e876787b890b6f9bf054336044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-51-2023",
+   "path": "local/dambovita/lucieni/2023/51",
+   "short": "HCL Lucieni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 51/2023 privind aprobarea Studiului de oportunitate, Caietului de sarcini și a draftului de Contract de achiziție publică de servicii privind delegarea gestiunii activităților de sortare, compostare și depozitare a deșeurilor municipale de pe raza județului Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#53092",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 3,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24L8rQCqelj1xMyOPXDDJWyezgrRCaOtiW7BlnxXlg2AfoJq7ksBOi2/3009",
+     "sha256": "a868de87524d2e44dda2c38402d9e6f7160c41a071033e6e3c1e2b125135618b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-52-2023",
+   "path": "local/dambovita/lucieni/2023/52",
+   "short": "HCL Lucieni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 52/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil aparținând domeniului privat al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#53324",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24hSv8okQEm6vJpiAImKZTJ.Cc2qgCOxKGiSVpJM5TcgIshwCwqTcqO/3009",
+     "sha256": "34d77e10dac47fad24b2c330a9d669f05b1daa239e56e2c3fd76da0a9e8a6e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-53-2023",
+   "path": "local/dambovita/lucieni/2023/53",
+   "short": "HCL Lucieni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 53/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, august – octombrie 2023",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#52824",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ZJGkYrmZYpeTERfXDyhGuOz1ZiO0rX3rnngkdL/l8vZA6OnLpDPj./3009",
+     "sha256": "a88c2a325d8d038de33933eef15fb575559b435ece2dc39ee2c2801b6f668335"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-58-2023",
+   "path": "local/dambovita/lucieni/2023/58",
+   "short": "HCL Lucieni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 58/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil, în suprafață de 2046 mp, aparținând domeniului public al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#53847",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ukQ3mTZjn/X4C8.LfglE5Ot57VfScGQ2Z9EM0Nu9YUPA79qL7G6zG/3009",
+     "sha256": "64077abc7fa6ace9d52eb34075f70dc7a76a054214209a6678f0df11c403abec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-59-2023",
+   "path": "local/dambovita/lucieni/2023/59",
+   "short": "HCL Lucieni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 59/2023 privind actualizarea indicatorilor tehnico - economici, a contribuției financiare proprii și a cheltuielilor neeligibile pentru proiectul: ”Creșterea eficienței energetice și gestionarea inteligentă a energiei pentru școala generală și grădinița cu program normal în comuna Lucieni, județul Dâmbovița”",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#54013",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 5,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%241/vC6bZNsrdguYYF8NX5ouitp9w1u.3T2L5O0Bpey8t34uE/HNWMy/3009",
+     "sha256": "7be23374f5b7c33a81f6ab19b2c95971896ccdd38ed6bab951f9241e52737fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-60-2023",
+   "path": "local/dambovita/lucieni/2023/60",
+   "short": "HCL Lucieni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 60/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unui imobil, în suprafață de 2021 mp, aparținând domeniului public al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#54139",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%241XRPOEjlnYhrcDlxJ7WTMOBTDHfr9Zv49J0uCP2uFDfNqEa4mEv.6/3009",
+     "sha256": "5ae42d1b205597f3c5a6cc75bf90a5a04824afd36b93d2c732059a9ad7602933"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-63-2023",
+   "path": "local/dambovita/lucieni/2023/63",
+   "short": "HCL Lucieni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 63/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor- cadru pentru achiziția produselor și a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României în perioada 2023-2029, la nivelul comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#55882",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24JdsqDZjB.2Vk3OrsgVHA7e4mlvQBp9W4RVwz6d/nF6b976Lgj.Cce/3009",
+     "sha256": "1683211e6181d2d1bd8e947bd52f54d4a47101fae7f347ba0d78667e46b5ff22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-64-2023",
+   "path": "local/dambovita/lucieni/2023/64",
+   "short": "HCL Lucieni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 64/2023 privind mandatarea reprezentantului legal al U.A.T. Comuna Lucieni pentru a întreprinde în numele și pe seama U.A.T. Comuna Lucieni toate demersurile necesare în vederea sprijinirii implementării proiectului județului Dâmbovița prin Consiliul Județean Dâmbovița în cadrul Programului privind îmbunătățirea calității aerului și reducerea cantității de emisii de gaze cu efect de seră, prin utilizarea pentru transportul elevilor a autovehiculelor mai puțin poluante de tipul microbuzelor electrice, hibride și alimentate cu gaz natural comprimat",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 5,
+     "source_url": null,
+     "sha256": "6ec717d2d054af5882885945915db0da3d19b95745248914869ec92c23fc2f81"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--lucieni-66-2023",
    "path": "local/dambovita/lucieni/2023/66",
    "short": "HCL Lucieni nr. 66/2023",
@@ -89,6 +374,96 @@
      "units": 1,
      "source_url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#57861",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-71-2023",
+   "path": "local/dambovita/lucieni/2023/71",
+   "short": "HCL Lucieni nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 71/2023 privind alegerea preşedintelui de şedinţă al Consiliului Local Lucieni pentru o perioadă de trei luni, noiembrie 2023 - ianuarie 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#59750",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ouzoGozG43syjo8yRDbSLusfCMudsle2/q1c7u.57PGWfxQ.YpkCu/3009",
+     "sha256": "6c09572ea39a0f3fe4212c029b61ff7cbedade1ef1b5d5fc357b20f016ad2c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-75-2023",
+   "path": "local/dambovita/lucieni/2023/75",
+   "short": "HCL Lucieni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 75/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unor imobile, aparținând domeniului public al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#59295",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24wmIcf8GTQGnohwvJ69NiMuXBEJPTLl3CP8XiCA79iSmpQs2S16Sd2/3009",
+     "sha256": "9f001334952b22eaaffa2d451c1f775c28760170dc045739d142edcfc948de77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-77-2023",
+   "path": "local/dambovita/lucieni/2023/77",
+   "short": "HCL Lucieni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 77/2023 privind însușirea și aprobarea documentației cadastrale de dezlipire a unor imobile aparținând domeniului privat al comunei Lucieni, județul Dâmbovița",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#60333",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24a7Kx/bvma/5ZpeCiU8DSAexPy/v3Wxg6FiIlvV7nneE9b3Ni3Px2e/3009",
+     "sha256": "68110753d37c443e4486992098ed25e015b1de7c5e87408258b61bb5a8438232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-78-2023",
+   "path": "local/dambovita/lucieni/2023/78",
+   "short": "HCL Lucieni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 78/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e9cda937554bf656d66e2c02b51536efbabc4c8e6a2cea1cd5cf8d41e794615"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-85-2023",
+   "path": "local/dambovita/lucieni/2023/85",
+   "short": "HCL Lucieni nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 85/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4f40d007817184e15adfd2f1791d8b823e2e85c1b0461de003ddb6311c183039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--lucieni-99-2023",
+   "path": "local/dambovita/lucieni/2023/99",
+   "short": "HCL Lucieni nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lucieni nr. 99/2023 privind aprobarea cuantumului taxei de habitat cu destinatie speciala de salubrizare pentru anul 2024",
+   "url": "https://lucieni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3009#62558",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://lucieni.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24lSsLr5vZCiA0VNZv6O/nlOLzV0OkCODVX/J44IgoDGf2NjH8SQbOG/3009",
+     "sha256": "17c36cbeca5d6f0cd69f49b636a9a30c0d4449be08e0dbdebfb8bdf72dfc8b36"
     }
    ]
   }

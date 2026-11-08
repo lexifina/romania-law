@@ -3,6 +3,21 @@
  "shard": "local/buzau/amaru/2020",
  "acts": [
   {
+   "slug": "hcl-buzau--amaru-1-2020",
+   "path": "local/buzau/amaru/2020/1",
+   "short": "HCL Amaru nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 1/2020 privind aprobarea Regulamentului de organizare și funcționare a Consilului Local al comunei Amaru, județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1896",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1896",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-10-2020",
    "path": "local/buzau/amaru/2020/10",
    "short": "HCL Amaru nr. 10/2020",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-2-2020",
+   "path": "local/buzau/amaru/2020/2",
+   "short": "HCL Amaru nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 2/2020 privind infiintarea „ Serviciului Voluntar pentru situații de Urgență - tip V1, pentru intervenția în situații de urgență în comuna Amaru , județul Buzău",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1897",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1897",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-20-2020",
    "path": "local/buzau/amaru/2020/20",
    "short": "HCL Amaru nr. 20/2020",
@@ -283,6 +313,81 @@
      "from": "2020-12-16",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/13464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-3-2020",
+   "path": "local/buzau/amaru/2020/3",
+   "short": "HCL Amaru nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 3/2020 privind aprobarea contului de execuție bugetară pentru anul 2019",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1898",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-4-2020",
+   "path": "local/buzau/amaru/2020/4",
+   "short": "HCL Amaru nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 4/2020 privind planul de acțiuni și lucrări de interes public ce se vor executa cu beneficiari ai Legii nr.416/2001",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1899",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-5-2020",
+   "path": "local/buzau/amaru/2020/5",
+   "short": "HCL Amaru nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 5/2020 privind domeniile de activitate în care se poate presta munca în doloul comunității de catre contravenienți",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1900",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-6-2020",
+   "path": "local/buzau/amaru/2020/6",
+   "short": "HCL Amaru nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 6/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1901",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-8-2020",
+   "path": "local/buzau/amaru/2020/8",
+   "short": "HCL Amaru nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 8/2020 privind modificarea și completarea hotărârii nr. 6/31.01.2020 privind bugetul local pe anul 2020",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/1903",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/1903",
      "sha256": null
     }
    ]

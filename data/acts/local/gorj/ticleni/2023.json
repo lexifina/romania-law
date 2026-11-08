@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/gorj/ticleni/2023",
+"acts": [
+{
+"slug": "hcl-gorj--ticleni-3-2023",
+"path": "local/gorj/ticleni/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 3/2023 privind aprobarea tarifului practicat de SC Salubris Gilort SRL pentru activităţile specifice serviciului de salubrizare pe raza oraşului Țicleni și regulamentul de instituire și administrare a taxei speciale de salubrizare în orasul Țicleni, începând cu 01.01.2023",
+"short": "HCL Țicleni nr. 3/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-70-2023",
+"path": "local/gorj/ticleni/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 70/2023 privind aprobarea comercializării de produse şi de servicii, precum şi a taxei pentru ocuparea temporară a locurilor publice în perimetrul de organizare şi desfăşurare a Zilelor Oraşului Ţicleni",
+"short": "HCL Țicleni nr. 70/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-76-2023",
+"path": "local/gorj/ticleni/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 76/2023 privind aprobarea procedurii de stabilire, declarare şi achitare a taxei de reabilitare termică în oraşul Ţicleni",
+"short": "HCL Țicleni nr. 76/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-98-2023",
+"path": "local/gorj/ticleni/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 98/2023",
+"short": "HCL Țicleni nr. 98/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-103-2023",
+"path": "local/gorj/ticleni/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 103/2023 privind reducerea cu 50% la plata impozitului/taxei pentru clădirile cu sisteme de producere a energiei din surse fotovoltaice începând cu anul 2024",
+"short": "HCL Țicleni nr. 103/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-104-2023",
+"path": "local/gorj/ticleni/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 104/2023 privind stabilirea impozitelor şi taxelor locale, taxele speciale şi amenzile pentru anul 2024",
+"short": "HCL Țicleni nr. 104/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-108-2023",
+"path": "local/gorj/ticleni/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 108/2023 privind aprobarea chiriei precum și a REGULAMENTULUI privind repartizarea, închirierea, exploatarea şi administrarea locuinţelor , situate pe str. Petroliștilor, nr.710, Cămin băieți, etajul 1, din oraşul Ţicleni",
+"short": "HCL Țicleni nr. 108/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-109-2023",
+"path": "local/gorj/ticleni/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 109/2023 privind modificarea alin. (4) al art. 10 din cadrul Procedurii de stabilire, declarare şi achitare a taxei de reabilitare termică în oraşul Ţicleni",
+"short": "HCL Țicleni nr. 109/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-127-2023",
+"path": "local/gorj/ticleni/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 127/2023 privind însuşirea şi aprobarea Planului de Mobilitate Urbană Durabilă al Oraşului Ţicleni 2021-2027",
+"short": "HCL Țicleni nr. 127/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-132-2023",
+"path": "local/gorj/ticleni/2023/132",
+"kind": "local",
+"year": "2023",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 132/2023 privind modificarea Hotărârii nr.3/09.01.2023 privind aprobarea tarifului practicat de SC Salubris Gilort SRL pentru activităţile specifice serviciului de salubrizare pe raza oraşului Țicleni și regulamentul de instituire și administrare a taxei speciale de salubrizare în",
+"short": "HCL Țicleni nr. 132/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

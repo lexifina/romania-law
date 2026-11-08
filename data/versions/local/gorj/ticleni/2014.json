@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2014",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-35-2014",
+   "path": "local/gorj/ticleni/2014/35",
+   "short": "HCL Țicleni nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 35/2014 Pentru completarea Hotărârii Consiliului Local Țicleni nr. 35 din 29.05.2014 privind stabilirea impozitelor și taxelor locale pentru anul 2015 în Orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2015/",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2015/04/Hot%C4%83r%C3%A2re-pentru-completarea-Hot%C4%83r%C3%A2rii-Consiliului-Local-%C8%9Aicleni-nr.-35-din-29.05.2014-privind-stabilirea-impozitelor-%C8%99i-taxelor-locale-pentru-anul-2015-%C3%AEn-Ora%C8%99ul-%C8%9Aiclenihcl-24-30.03.2015.pdf",
+     "sha256": "5e778a160814256cc8cfee39cabe3fc44f8376fc1966b23478101bf3901ef9be"
+    }
+   ]
+  }
+ ]
+}

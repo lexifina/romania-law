@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Sulina nr. 92/2021 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului orașului Sulina și a serviciilor subordonate fără personalitate juridică (conține anexe)
+
+HCL Sulina nr. 92/2021 · 1 versions, from 2021-08-26 (latest in force: 2021-08-26) · <https://primaria-sulina.ro/arhiv--hot-rari-cl-2021.html>
+
+**Status:** Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-tulcea--sulina-92-2021` (tags `hcl-tulcea--sulina-92-2021/<day>`; `python tools/on.py <day> hcl-tulcea--sulina-92-2021`).
+
+## Decisions made by hand
+
+- HCL Sulina nr. 92/2021: listed from Consiliul Local al Orașului Sulina (primaria-sulina.ro); metadata only for now: its text is a scan that has not been read by OCR yet.
+- HCL Sulina nr. 92/2021: dated from 26 August 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Sulina nr. 92/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Făurei nr. 32/2020 privind aprobarea indexării impozitelor și taxelor locale, respectiv actualizarea limitelor amenzilor prevăzute la alin. (3) și (4) ale art. 493 din Legea nr. 227/2015 privind Codul fiscal, pentru anul 2021 ținând cont de rata inflației
+
+HCL Făurei nr. 32/2020 · 1 versions, from 2020-04-30 (latest in force: 2020-04-30) · <https://orasulfaurei.ro/hotarari/hcl-32-2020/>
+
+**Status:** Text withheld: its text names a natural person (honorific), and is not anonymised, so only its metadata is published here; the official text is at the council's record.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-braila--faurei-32-2020` (tags `hcl-braila--faurei-32-2020/<day>`; `python tools/on.py <day> hcl-braila--faurei-32-2020`).
+
+## Decisions made by hand
+
+- HCL Făurei nr. 32/2020: listed from Consiliul Local al Orașului Făurei (orasulfaurei.ro); metadata only for now: its text names a natural person (honorific).
+- HCL Făurei nr. 32/2020: dated from 30 April 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Făurei nr. 32/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

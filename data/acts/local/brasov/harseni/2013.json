@@ -91,6 +91,50 @@
 "text_pending": "ocr",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-brasov--harseni-8-2013",
+"path": "local/brasov/harseni/2013/8",
+"kind": "local",
+"year": "2013",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 8/2013 Privind reanalizarea cap.III din anexa 1 la HCL NR. 2Din 17.01.2013 privind reanalizarea HCL 47/17.12.2012 privind stabilirea impozitelor si taxelor locale pentru anul 2013 (click pentru download)",
+"short": "HCL Hârseni nr. 8/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-02-15",
+"latest": "2013-02-15",
+"portal": "https://www.primariaharseni.ro/hotarari_2013.php",
+"council": "brasov/harseni",
+"council_name": "Consiliul Local al Comunei Hârseni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-brasov--harseni-36-2013",
+"path": "local/brasov/harseni/2013/36",
+"kind": "local",
+"year": "2013",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hârseni nr. 36/2013 Privind modificarea si completarea HCL 2/17.01.2013 privind stabilirea taxelor si impozitelor pe anul 2013 la nivelul comunei Harseni- cap.Alte taxe locale , ptc.8 – taxa vanzare stradala (click pentru download)",
+"short": "HCL Hârseni nr. 36/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-05-31",
+"latest": "2013-05-31",
+"portal": "https://www.primariaharseni.ro/hotarari_2013.php",
+"council": "brasov/harseni",
+"council_name": "Consiliul Local al Comunei Hârseni",
+"flags": {
+"text_pending": "ocr"
+}
 }
 ]
 }

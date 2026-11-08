@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/doicesti/2024",
+"acts": [
+{
+"slug": "hcl-dambovita--doicesti-86-2024",
+"path": "local/dambovita/doicesti/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doicești nr. 86/2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025 CONSILIUL LOCAL ALCOMUNEI DOICESTI, JUDETUL DAMBOVITA Luand act de : - Proiectul de hotarare privind stabilirea impozitelor si taxelor locale pentru anul 2025.; inregistrat la nr.63/29.10.2024; initiat de primarul comunei Doicesti; Analizand: - referatul de aprobare al proiectului de hotarare, semnat de initiator, inregistrat la nr",
+"short": "HCL Doicești nr. 86/2024",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2024-12-20",
+"latest": "2024-12-20",
+"portal": "https://primariadoicesti.ro/wp-content/uploads/2025/03/HCL-NR-86-DIN-20.12.2024.pdf",
+"council": "dambovita/doicesti",
+"council_name": "Consiliul Local al Comunei Doicești",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

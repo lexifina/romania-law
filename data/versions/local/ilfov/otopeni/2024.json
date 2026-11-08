@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-2-2024",
+   "path": "local/ilfov/otopeni/2024/2",
+   "short": "HCL Otopeni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 2/2024 privind stabilirea situațiilor deosebite, altele decât cele cauzate de calamități naturale, incendii, accidente, epidemii, epizootii, pentru care se pot acorda ajutoare de urgență, precum și a criteriilor și documentelor necesare acordării acestor ajutoare HCL nr. 2 din 31.01.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/08/FyFmH_HCL_nr__2_din_31_01_2024_pdf.pdf",
+     "sha256": "6e87508758f31c896b6658719164600ae71cf4723679de0345b9c21a6cf211c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-20-2024",
    "path": "local/ilfov/otopeni/2024/20",
    "short": "HCL Otopeni nr. 20/2024",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--otopeni-3-2024",
+   "path": "local/ilfov/otopeni/2024/3",
+   "short": "HCL Otopeni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 3/2024 privind prelungirea valabilității Planului Urbanistic General al Orașului Otopeni și a Regulamentului Local de Urbanism aferent acestuia până la data de 31 decembrie 2026 HCL nr. 3 din 31.01.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/08/04vFI_HCL_nr__3_din_31_01_2024_pdf.pdf",
+     "sha256": "6522b6ee750f3e5a3d376af55c3fae63d24eb48bc12966f8ea17154a8ada98bc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--otopeni-31-2024",
    "path": "local/ilfov/otopeni/2024/31",
    "short": "HCL Otopeni nr. 31/2024",
@@ -374,6 +404,21 @@
      "units": 1,
      "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2025/01/unO3s_HCL_NR__39_DIN_21_10_2024_pdf.pdf",
      "sha256": "3aeae71b9fcf550432eef8f0cf34e4de8b0f60b97f613235ad25f68c29b94066"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--otopeni-4-2024",
+   "path": "local/ilfov/otopeni/2024/4",
+   "short": "HCL Otopeni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 4/2024 privind aprobarea documentației: PLAN URBANISTIC ZONAL pentru obiectivul „CONSTRUIRE HYPERMARKET P+1E parțial, MAGAZIN RETAIL PARTER, CONSTRUIRE ANEXE INTERIOARE ȘI EXTERIOARE, AMENAJĂRI EXTERIOARE” propus să se realizeze pe terenul în suprafață totală de 35.789,00 mp (confo HCL nr. 4 din 31.01.2024.pdf",
+   "url": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.otopeniro.ro/admin/../public/assets/docs/2024/08/MxiNf_HCL_nr__4_din_31_01_2024_pdf.pdf",
+     "sha256": "16f71a4f6b2b26167b88bc6c8a0cf2c72ea0df45e00e6ca08a47be4ea0c8fc18"
     }
    ]
   },

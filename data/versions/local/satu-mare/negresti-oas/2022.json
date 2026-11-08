@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/negresti-oas/2022",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--negresti-oas-153-2022",
+   "path": "local/satu-mare/negresti-oas/2022/153",
+   "short": "HCL Negrești-Oaș nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 153/2022 privind aprobarea Planului Urbanistic Zonal – „ CONSTRUIRE CLADIRE PENTRU SPAȚII COMERCIALE și ACTIVIĂȚI CONEXE ÎN LOC. NEGREȘTI-OAȘ, JUD. SATU MARE, EXTRAS CF 101068, NR. CAD. 101068”",
+   "url": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari-cl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://www.negresti-oas.ro/wp-content/uploads/hotarari/2022/153.pdf",
+     "sha256": "2d30eeabd031bc4b386552ad436c6919442eb4235d5cc5ba4deb7e2cc2464d2c"
+    }
+   ]
+  }
+ ]
+}

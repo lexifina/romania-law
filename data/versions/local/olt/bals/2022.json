@@ -3,6 +3,21 @@
  "shard": "local/olt/bals/2022",
  "acts": [
   {
+   "slug": "hcl-olt--bals-152-2022",
+   "path": "local/olt/bals/2022/152",
+   "short": "HCL Balș nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 152/2022 Referitor la aprobarea modificării listei de investiții a bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2022",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#33890",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 3,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24mVVLDA170ftXyJEObn4squxV7Qw8v.lfQ14nP4BWbAFeXCAacVQPG/4284",
+     "sha256": "0aec66cceb0a0ca25f73a59b602d215480ac487a70a14c0b805b3ff1991ae9fc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-18-2022",
    "path": "local/olt/bals/2022/18",
    "short": "HCL Balș nr. 18/2022",

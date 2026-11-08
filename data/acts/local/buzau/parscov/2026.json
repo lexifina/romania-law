@@ -3,6 +3,116 @@
 "shard": "local/buzau/parscov/2026",
 "acts": [
 {
+"slug": "hcl-buzau--parscov-3-2026",
+"path": "local/buzau/parscov/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 3/2026 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale de la nivelul Comunei Pârscov, judeţul Buzău , pentru anul 2026",
+"short": "HCL Pârscov nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/255445",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-4-2026",
+"path": "local/buzau/parscov/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 4/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul Comunei Pârscov, judeţul Buzău , pentru anul 2026",
+"short": "HCL Pârscov nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/255446",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-13-2026",
+"path": "local/buzau/parscov/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 13/2026 privind aprobarea bugetului local de venituri și cheltuileli al comunei Pârscov, judeţul Buzău, pentru anul 2026",
+"short": "HCL Pârscov nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/266816",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-14-2026",
+"path": "local/buzau/parscov/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 14/2026 privind aprobarea Planului anual de achiziţii publice de la nivelul UAT Comuna Pârscov, pentru anul 2026",
+"short": "HCL Pârscov nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/266817",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-17-2026",
+"path": "local/buzau/parscov/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 17/2026 privind interzicerea desfăşurării activităților de jocuri de noroc pe teritoriul comunei Pârscov , județul Buzău",
+"short": "HCL Pârscov nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/275794",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-buzau--parscov-24-2026",
 "path": "local/buzau/parscov/2026/24",
 "kind": "local",

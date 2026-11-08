@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2024",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-87-2024",
+   "path": "local/gorj/ticleni/2024/87",
+   "short": "HCL Țicleni nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 87/2024 privind indexarea pe baza ratei de schimb a monedei euro la data de 01.10.2024 a impozitului pe mijloacele de transport prevăzute la art. 470 alin. (5) şi (6) din Legea nr. 227 /2015 privind Codul fiscal, cu modificările şi completările ulterioare pentru anul 2025",
+   "url": "https://www.primarieticleni.ro/hcl-2024",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2025/05/HCL-nr.-87-din-29.10.2024-privind-indexarea-pe-baza-ratei-de-schimb-a-monedei-euro-la-data-de-01.10.2024-a-impozitului-pe-mijl-de-transport-.pdf",
+     "sha256": "95e9d3749459a343a83f005c893dd32d118fba994ea54dacf139d8af27923d52"
+    }
+   ]
+  }
+ ]
+}

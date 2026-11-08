@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/gorj/ticleni/2018",
+"acts": [
+{
+"slug": "hcl-gorj--ticleni-40-2018",
+"path": "local/gorj/ticleni/2018/40",
+"kind": "local",
+"year": "2018",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 40/2018 privind indexarea valorilor impozabile, impozitelor și taxelor locale pe anul 2019",
+"short": "HCL Țicleni nr. 40/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-05-31",
+"latest": "2018-05-31",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-47-2018",
+"path": "local/gorj/ticleni/2018/47",
+"kind": "local",
+"year": "2018",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2018 privind aprobarea Regulamentului de organizare și utilizare a spatiilor publice de joacă pentru copii pe raza orașului Țicleni",
+"short": "HCL Țicleni nr. 47/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-07-19",
+"latest": "2018-07-19",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-gorj--ticleni-78-2018",
+"path": "local/gorj/ticleni/2018/78",
+"kind": "local",
+"year": "2018",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 78/2018 privind prelungirea valabilității Planului Urbanistic General al Orașului Țicleni",
+"short": "HCL Țicleni nr. 78/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+"council": "gorj/ticleni",
+"council_name": "Consiliul Local al Orașului Țicleni",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

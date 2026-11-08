@@ -3,6 +3,681 @@
  "shard": "local/braila/silistea/2022",
  "acts": [
   {
+   "slug": "hcl-braila--silistea-1-2022",
+   "path": "local/braila/silistea/2022/1",
+   "short": "HCL Siliștea nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 1/2022 privind aprobarea utilizării temporare, începănd cu luna ianuarie 2022, a sumei de 250.000 lei din excedentul anilor precedent pentru acoperirea golurilor de casă provenite din decalajele dintre venituri și cheltuieli",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74492",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-10-2022",
+   "path": "local/braila/silistea/2022/10",
+   "short": "HCL Siliștea nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 10/2022 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții '' Modernizare Centru Civic zona I.A.S , sat Siliștea, județul Brăila ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74505",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-11-2022",
+   "path": "local/braila/silistea/2022/11",
+   "short": "HCL Siliștea nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 11/2022 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Silițtea, județul Brăila, în anul 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74506",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-12-2022",
+   "path": "local/braila/silistea/2022/12",
+   "short": "HCL Siliștea nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 12/2022 privind aprobarea organizării rețelei școlare a unităților de învătămănt preuniversitar de stat din comuna Siliștea, județul Braila pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74507",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-13-2022",
+   "path": "local/braila/silistea/2022/13",
+   "short": "HCL Siliștea nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 13/2022 privind rectificarea bugetului de venituri și cheltuieli etapa I /2021",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74508",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-14-2022",
+   "path": "local/braila/silistea/2022/14",
+   "short": "HCL Siliștea nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2022 privind majorarea valorii navetei cadrelor didactice care-și desfășoară activitatea pe raza administrativ teritorială a comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74509",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-15-2022",
+   "path": "local/braila/silistea/2022/15",
+   "short": "HCL Siliștea nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 15/2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74510",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-17-2022",
+   "path": "local/braila/silistea/2022/17",
+   "short": "HCL Siliștea nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 17/2022 privind aprobarea trecerii din domeniul privat în domeniul public al comunei Silițtea, județul Brăila a suprafeței de teren situată în localitatea Mărtăcești, în suprafața de 447 mp, înscris în cartea funciară nr.75995 Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74526",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-18-2022",
+   "path": "local/braila/silistea/2022/18",
+   "short": "HCL Siliștea nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 18/2022 privind aprobarea execuției lucrărilor la obiectivul de investiții ''Extindere rețea apă, sat Mărtăcești ( str. Bistriței-350ml, strada Bicaz-300 ml, strada Ialomiței pănă la strada Eternității- 300 ml, strada Arges-Strada Făgăraș-strada Fundatura Făgăraș-400 ml ) Comuna Siliștea ''- în valoare totală de 128.512,769 lei inclusiv TVA, cofinanțarea acestora cu suma de 43.534,42 lei inclusiv TVA, precum și aprobarea Acordului privind finanțarea și execuția acestor lucrări- cu Anexa-parte integrantă",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74527",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-19-2022",
+   "path": "local/braila/silistea/2022/19",
+   "short": "HCL Siliștea nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 19/2022 privind încetarea și retragerea dreptului de folosință gratuită asupra unor terenuri aflate în proprietatea privată a Comunei Siliștea, județul Brăila, transmise în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74528",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-2-2022",
+   "path": "local/braila/silistea/2022/2",
+   "short": "HCL Siliștea nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 2/2022 privind alegerea președintelui de ședință pentru perioada februarie-aprilie 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74497",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-20-2022",
+   "path": "local/braila/silistea/2022/20",
+   "short": "HCL Siliștea nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 20/2022 privind revocarea Hotărării nr.48/2021 privind '' propunerile de aplicare a scutirilor de plată impozitelor pe clădiri și terenuri deținute de către membrii cooperativelor agricole, conform metodologiei prezentate în anexa ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74529",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-22-2022",
+   "path": "local/braila/silistea/2022/22",
+   "short": "HCL Siliștea nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 22/2022 privind stabilirea metodologiei-cadru de repartizare a terenurilor atribuite în baza legii nr.15/2003 privind aprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74531",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-23-2022",
+   "path": "local/braila/silistea/2022/23",
+   "short": "HCL Siliștea nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2022 privind aprobarea Regulamentului de atribuire directă a contractelor de închiriere a pășunilor proprietate privată ale comunei Siliștea, județul Brăila în condițiile prevederilor art.9 alin 2 din OUG nr.34/2013",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74532",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-24-2022",
+   "path": "local/braila/silistea/2022/24",
+   "short": "HCL Siliștea nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 24/2022 privind aprobarea Regulamentului în ceea ce privește concesionarea, închirierea și vănzarea bunurilor imobile, ce aparțin domeniului privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74533",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-26-2022",
+   "path": "local/braila/silistea/2022/26",
+   "short": "HCL Siliștea nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 26/2022 privind aprobarea devizului general estimativ, acererii de finanțare, a indicatorilor tehnico-economici, cofinanțarea și participarea la Programul Național de Investiții ''Anghel Saligny ''pentru obiectivul de investiții '' EXTINDEREA REȚEA GAZE NATURALE ÎN COMUNA SILIȘTEA, JUDEȚUL BRĂILA ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74535",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-27-2022",
+   "path": "local/braila/silistea/2022/27",
+   "short": "HCL Siliștea nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 27/2022 privind alegerea președintelui de ședință pentru perioada mai-iunie 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74586",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-28-2022",
+   "path": "local/braila/silistea/2022/28",
+   "short": "HCL Siliștea nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 28/2022 privind înșușirea inventarului bunurilor aparținând sistemului public de alimentare cu apă și canalizare, aprobarea apartenenței la domeniul public al Comunei Siliștea a Bunurilor de Retur inventariate",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74587",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-3-2022",
+   "path": "local/braila/silistea/2022/3",
+   "short": "HCL Siliștea nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 3/2022 privind aprobarea Strategiei anuale de achiziție publică și a programului anual de achiziții publice pe anul 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74498",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-4-2022",
+   "path": "local/braila/silistea/2022/4",
+   "short": "HCL Siliștea nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2022 privind aprobarea numărului de burse care se vor acorda elevilor din unitățile de învățămănt preuniversitar de stat din comuna Siliștea, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74499",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-5-2022",
+   "path": "local/braila/silistea/2022/5",
+   "short": "HCL Siliștea nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 5/2022 privind aprobarea bugetului local de venituri și cheltuieli al comunei Siliștea, pentru anul 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74500",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-50-2022",
+   "path": "local/braila/silistea/2022/50",
+   "short": "HCL Siliștea nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 50/2022 privind modificarea organigramei li a statului de funcții din aparatul de specialitate al primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74609",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-51-2022",
+   "path": "local/braila/silistea/2022/51",
+   "short": "HCL Siliștea nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 51/2022 privind rectificarea/ modificarea bugetului de venituri și cheltuieli etapa I / 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74612",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-53-2022",
+   "path": "local/braila/silistea/2022/53",
+   "short": "HCL Siliștea nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 53/2022 privind clasificarea drumului de interes local DE 3073 în categoria funcțională drum comunal",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74614",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-54-2022",
+   "path": "local/braila/silistea/2022/54",
+   "short": "HCL Siliștea nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 54/2022 privind modificarea organigramei și a statului de funcții din aparatul de specialitate al primarului Comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74615",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-55-2022",
+   "path": "local/braila/silistea/2022/55",
+   "short": "HCL Siliștea nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 55/2022 privind aprobarea vănzîriii prin licitație publică a unei suprafețe de teren aflate în proprietatea privată a comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74616",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-57-2022",
+   "path": "local/braila/silistea/2022/57",
+   "short": "HCL Siliștea nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2022 privind modificarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74618",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-6-2022",
+   "path": "local/braila/silistea/2022/6",
+   "short": "HCL Siliștea nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2022 privind aprobarea Planului de Analiză și acoperire a Riscurilor din zona de competență a Comitetului Local pentru situați de urgență al comunei Siliștea, actualizat, pentru anul 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74501",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-60-2022",
+   "path": "local/braila/silistea/2022/60",
+   "short": "HCL Siliștea nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 60/2022 privind rectificarea bugetului de venituri și cheltuieli etapa III/ 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74621",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-61-2022",
+   "path": "local/braila/silistea/2022/61",
+   "short": "HCL Siliștea nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 61/2022 privind aplicarea unor imobile aflate în domeniul privat al comunei Siliștea, județul Brăla sitaut în cvartal 6, parcela 166 lot4/1 CF nr.75912 loc. Siliștea cu cvartal 6, parcela 166, lot 4/2 CF nr. 77031 Siliștea și cvartal 10, parcela 166/1 CF nr. 75926 Siliștea cu cvartal 10, parcela 165 lot 2, parcela 166 lot 2 CF nr. 75957 Siliștea în vederea înscrierii în cartea funciară",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74622",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-62-2022",
+   "path": "local/braila/silistea/2022/62",
+   "short": "HCL Siliștea nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 62/2022 privind alegerea președintelui de ședință pentru perioada august-octombrie 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74641",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-63-2022",
+   "path": "local/braila/silistea/2022/63",
+   "short": "HCL Siliștea nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 63/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea începerii investiției '' Modernizarea sistemului de iluminat public stradal în comuna Siliștea , județul Brăila ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74642",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-64-2022",
+   "path": "local/braila/silistea/2022/64",
+   "short": "HCL Siliștea nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 64/2022 privind aprobarea Actului Adițional nr.25 privind modificarea punctului 4 al alin ( 2) al Articolului 36-Prețurile, Tarifele și alte Surse de Venit - din Capitolului 1 - Sistemul Financiar-Titlul II- Sistemul Financiar și Sistemul Contabil- din dispoziții generale ale contractului de Delegare a Gestiunii nr. 670 din 10.09.2009, cu modificările și completările ulterioare- în baza Strtegiei de Tarifare a Servicilor pentru perioada 2021-2025-actualizată",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74643",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-65-2022",
+   "path": "local/braila/silistea/2022/65",
+   "short": "HCL Siliștea nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 65/2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74644",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-66-2022",
+   "path": "local/braila/silistea/2022/66",
+   "short": "HCL Siliștea nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 66/2022 privind aprobarea asocierii Comunei Siliștea, prin Consiliul Local Siliștea cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de ''Amenajare teren minifotbal, spațiu de joacă pentru copii, parcaje , construire foișor și împrejmuire ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74645",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-68-2022",
+   "path": "local/braila/silistea/2022/68",
+   "short": "HCL Siliștea nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 68/2022 privind rectificarea bugetului de venituri și cheltuieli etapa IV/ 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74665",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-7-2022",
+   "path": "local/braila/silistea/2022/7",
+   "short": "HCL Siliștea nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 7/2022 privind vănzarea fără licitație publică ( directă ) a unui teren proprietate privată a Unității Administrativ Teritoriale din comuna Siliștea, județul Brăila înscris în cartea funciară nr. 76397",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74502",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-70-2022",
+   "path": "local/braila/silistea/2022/70",
+   "short": "HCL Siliștea nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 70/2022 privind vănzarea fără licitație publică ( directă ) a unui teren proprietate privată a Unității Admnistrativ Teritoriale Comuna Siliștea, județul Brăila înscris în cartea funciară nr. 76400",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74667",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-71-2022",
+   "path": "local/braila/silistea/2022/71",
+   "short": "HCL Siliștea nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 71/2022 privind modificarea organigramei și a statului de funcții din aparatul de specialitate al primarului comunei Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74668",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-72-2022",
+   "path": "local/braila/silistea/2022/72",
+   "short": "HCL Siliștea nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 72/2022 privind rectificarea bugetului de venituri și cheltuieli etapa a V-a 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110259",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-74-2022",
+   "path": "local/braila/silistea/2022/74",
+   "short": "HCL Siliștea nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 74/2022 privind aprobarea procedurii de executare silită a creanțelor fiscale restante datorate Bugetului local al Comunei Siliștea, județul Brăila, prin aplicarea sechetrului asupra bunurilor mobile sau imobile aflate în proprietatea sau coproprietatea contribuabilului precum și procedura de evaluare și valorificare a acestora",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110261",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-75-2022",
+   "path": "local/braila/silistea/2022/75",
+   "short": "HCL Siliștea nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 75/2022 privind însușirea variantei finale a proiectului de stemă a comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110262",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-76-2022",
+   "path": "local/braila/silistea/2022/76",
+   "short": "HCL Siliștea nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 76/2022 privind aprobarea modificării contractului de lucrări nr. 3535/14.06.20218 ”Modernizare drumuri rurale în comuna Siliștea, jud. Brăila”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110278",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-77-2022",
+   "path": "local/braila/silistea/2022/77",
+   "short": "HCL Siliștea nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 77/2022 privind modificarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110279",
+   "versions": [
+    {
+     "from": "2023-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-8-2022",
+   "path": "local/braila/silistea/2022/8",
+   "short": "HCL Siliștea nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 8/2022 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții '' Modernizare Centru Civic sat Muchea, comuna Siliștea, județul Brăila ''",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74503",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74503",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-80-2022",
    "path": "local/braila/silistea/2022/80",
    "short": "HCL Siliștea nr. 80/2022",
@@ -148,6 +823,21 @@
      "from": "2023-06-23",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-9-2022",
+   "path": "local/braila/silistea/2022/9",
+   "short": "HCL Siliștea nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 9/2022 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ''Amenajare teren minifotbal, spațiu de joacă pentru copii și parcaje, construire foișor și împrejmuire'' comuna Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/74504",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/74504",
      "sha256": null
     }
    ]

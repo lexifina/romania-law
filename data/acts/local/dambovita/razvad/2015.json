@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dambovita/razvad/2015",
+"acts": [
+{
+"slug": "hcl-dambovita--razvad-67-2015",
+"path": "local/dambovita/razvad/2015/67",
+"kind": "local",
+"year": "2015",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răzvad nr. 67/2015 privind aprobarea cuantumului taxei de habitat pentru anul 2016 HCL",
+"short": "HCL Răzvad nr. 67/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-11-24",
+"latest": "2015-11-24",
+"portal": "http://comunarazvad.ro/hotarari-2/",
+"council": "dambovita/razvad",
+"council_name": "Consiliul Local al Comunei Răzvad",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}
