@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/timis/giulvaz/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--giulvaz-100-2025",
+   "path": "local/timis/giulvaz/2025/100",
+   "short": "HCL Giulvăz nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 100/2025 privind aprobarea rectificării bugetului local al comunei Giulvăz pe anul 2025 TRIMESTRUL III",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227624",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-107-2025",
+   "path": "local/timis/giulvaz/2025/107",
+   "short": "HCL Giulvăz nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 107/2025 privind rectificarea bugetului local al comunei Giulvăz pe anul 2025, trimestru IV",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/232389",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/232389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-108-2025",
+   "path": "local/timis/giulvaz/2025/108",
+   "short": "HCL Giulvăz nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 108/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Giulvăz pentru lunile noiembrie 2025, decembrie 2025 și ianuarie 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/232390",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/232390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-112-2025",
+   "path": "local/timis/giulvaz/2025/112",
+   "short": "HCL Giulvăz nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 112/2025 privind aprobarea Caietului de sarcini și a documentației tehnice aferente lucrării „Sistem de supraveghere video în Comuna Giulvăz, județul Timiș”",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/232394",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/232394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-114-2025",
+   "path": "local/timis/giulvaz/2025/114",
+   "short": "HCL Giulvăz nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 114/2025 privind aprobarea proiectului de rețea școlară a unităților de învățământ preuniversitar de stat, de pe raza Comunei Giulvăz județul Timiș pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/236724",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/236724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-117-2025",
+   "path": "local/timis/giulvaz/2025/117",
+   "short": "HCL Giulvăz nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 117/2025 privind aprobarea Agendei Cultural – sportivă a comunei Giulvăz, județul Timiș pentru anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/238199",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/238199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-120-2025",
+   "path": "local/timis/giulvaz/2025/120",
+   "short": "HCL Giulvăz nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 120/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza Comunei Giulvăz, județul Timiș, pentru anul școlar 2026–2027",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/241113",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/241113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-121-2025",
+   "path": "local/timis/giulvaz/2025/121",
+   "short": "HCL Giulvăz nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 121/2025 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/241114",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/241114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-124-2025",
+   "path": "local/timis/giulvaz/2025/124",
+   "short": "HCL Giulvăz nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 124/2025 privind constatarea și sancționarea contravențiilor pe teritoriul Unității Administrativ Teritoriale Comuna Giulvăz",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/241117",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/241117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-125-2025",
+   "path": "local/timis/giulvaz/2025/125",
+   "short": "HCL Giulvăz nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 125/2025 privind aprobarea Regulamentului de funcționare a cimitirelor administrate de Consiliul Local al Comunei Giulvăz, județul Timiș",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/241118",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/241118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-128-2025",
+   "path": "local/timis/giulvaz/2025/128",
+   "short": "HCL Giulvăz nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 128/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 121 din 16.12.2025 privind aprobarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/242062",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/242062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-129-2025",
+   "path": "local/timis/giulvaz/2025/129",
+   "short": "HCL Giulvăz nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 129/2025 privind aprobarea „Regulamentului privind procedura de vânzare a terenurilor și construcțiilor aparţinând domeniului privat al Comunei Giulvăz, judeţul Timiş”",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/244358",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/244358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-130-2025",
+   "path": "local/timis/giulvaz/2025/130",
+   "short": "HCL Giulvăz nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 130/2025 privind aprobarea Regulamentului de organizare, administrare și exploatare a pajiștilor aflate în proprietatea publică și privată a comunei Giulvăz",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/244359",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/244359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-132-2025",
+   "path": "local/timis/giulvaz/2025/132",
+   "short": "HCL Giulvăz nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 132/2025 privind rectificarea bugetului local al comunei Giulvăz pe anul 2025, trimestru IV",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/244361",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/244361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-135-2025",
+   "path": "local/timis/giulvaz/2025/135",
+   "short": "HCL Giulvăz nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 135/2025 privind aprobarea Programului Anual al Achizițiilor Publice (PAAP) al Comunei Giulvăz, pentru anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/244364",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/244364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-19-2025",
+   "path": "local/timis/giulvaz/2025/19",
+   "short": "HCL Giulvăz nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 19/2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/193719",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/193719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-20-2025",
+   "path": "local/timis/giulvaz/2025/20",
+   "short": "HCL Giulvăz nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 20/2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/193720",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/193720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-31-2025",
+   "path": "local/timis/giulvaz/2025/31",
+   "short": "HCL Giulvăz nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 31/2025 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/200548",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/200548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-72-2025",
+   "path": "local/timis/giulvaz/2025/72",
+   "short": "HCL Giulvăz nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 72/2025 privind aprobarea Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 4714/23.05.2025, provenite din localitățile arondate la Zona 1 Timișoara, asociați în ADID Timiș",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/218645",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/218645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-74-2025",
+   "path": "local/timis/giulvaz/2025/74",
+   "short": "HCL Giulvăz nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 74/2025 privind aprobarea Programului de Acțiune Comunitară (PAC) pentru prevenirea și combaterea riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/218647",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/218647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-85-2025",
+   "path": "local/timis/giulvaz/2025/85",
+   "short": "HCL Giulvăz nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 85/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Giulvăz din lunile august – octombrie 2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/222942",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/222942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-92-2025",
+   "path": "local/timis/giulvaz/2025/92",
+   "short": "HCL Giulvăz nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 92/2025",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/222948",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/222948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-93-2025",
+   "path": "local/timis/giulvaz/2025/93",
+   "short": "HCL Giulvăz nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 93/2025 privind aprobarea amenajării și regulamentului de funcționare a rampei de depozitare a deșeurilor din construcții și demolări (moloz) în Comuna Giulvăz",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227617",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-94-2025",
+   "path": "local/timis/giulvaz/2025/94",
+   "short": "HCL Giulvăz nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 94/2025 privind aprobarea obiectivului de investiții „Modernizare drum acces cimitir Giulvăz, comuna Giulvăz, județul Timiș” și contractarea serviciilor pentru elaborarea documentației tehnice necesare;",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227618",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-95-2025",
+   "path": "local/timis/giulvaz/2025/95",
+   "short": "HCL Giulvăz nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 95/2025 privind aprobarea întocmirii raportului de evaluare pentru terenurile rezultate în urma dezmembrării din CF 402359, situate în intravilanul Comunei Giulvăz, sat Giulvăz;",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227619",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-96-2025",
+   "path": "local/timis/giulvaz/2025/96",
+   "short": "HCL Giulvăz nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 96/2025 privind aprobarea documentației de dezlipire și înființarea actelor pe suprafețele dezmembrate pentru imobilul nr. cad. 404320 din intravilanul Comunei Giulvăz, sat Giulvăz;",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227620",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-98-2025",
+   "path": "local/timis/giulvaz/2025/98",
+   "short": "HCL Giulvăz nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 98/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 117 din 20.11.2024 referitoare la aprobarea denumirilor străzilor pentru localitățile aferente UAT Giulvăz, precum și numerotarea conform legislației în vigoare pentru implementarea Registrului Electronic Național al Nomenclaturii Stradale (RENNS), prin înlocuirea numerotării străzilor cu cifre romane",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/227622",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/227622",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

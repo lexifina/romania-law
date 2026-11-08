@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/timis/giulvaz/2026",
+ "acts": [
+  {
+   "slug": "hcl-timis--giulvaz-103-2026",
+   "path": "local/timis/giulvaz/2026/103",
+   "short": "HCL Giulvăz nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 103/2026 privind rectificarea bugetului local de venituri și cheltuieli al Comunei Giulvăz pe anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/285623",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/285623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-11-2026",
+   "path": "local/timis/giulvaz/2026/11",
+   "short": "HCL Giulvăz nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 11/2026 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2026 ce vor fi executate de către persoanele beneficiare ale venitului minim de incluziune, conform Legii nr. 196/2016",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/255950",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/255950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-12-2026",
+   "path": "local/timis/giulvaz/2026/12",
+   "short": "HCL Giulvăz nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 12/2026 privind aprobarea Programului de Acțiune Comunitară (PAC) pentru prevenirea și combaterea riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/255951",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/255951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-121-2026",
+   "path": "local/timis/giulvaz/2026/121",
+   "short": "HCL Giulvăz nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 121/2026 privind aprobarea Regulamentului privind selecționarea, încheierea contractelor, desfășurarea activității și acordarea drepturilor personalului voluntar din cadrul Serviciului Voluntar pentru Situații de Urgență al Comunei Giulvăz",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/295734",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/295734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-123-2026",
+   "path": "local/timis/giulvaz/2026/123",
+   "short": "HCL Giulvăz nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 123/2026 privind rectificarea bugetului local de venituri și cheltuieli al Comunei Giulvăz pe anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/295736",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/295736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-19-2026",
+   "path": "local/timis/giulvaz/2026/19",
+   "short": "HCL Giulvăz nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 19/2026 privind atestarea apartenenței la domeniul public al Comunei Giulvăz, inventarierea și înscrierea în cartea funciară a imobilului – DE458/2 tronson 1",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/255958",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/255958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-30-2026",
+   "path": "local/timis/giulvaz/2026/30",
+   "short": "HCL Giulvăz nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 30/2026 privind aprobarea relocării temporare a copiilor de la Grădinița PN Ivanda la Grădinița din localitatea Giulvăz",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/256519",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/256519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-34-2026",
+   "path": "local/timis/giulvaz/2026/34",
+   "short": "HCL Giulvăz nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 34/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al comunei Giulvăz pentru anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/260707",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/260707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-42-2026",
+   "path": "local/timis/giulvaz/2026/42",
+   "short": "HCL Giulvăz nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 42/2026 privind aprobarea aderării Comunei Giulvăz, județul Timiș, la Asociația de Dezvoltare Intercomunitară Transport Județean TRANSTIMIȘ",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/260715",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/260715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-45-2026",
+   "path": "local/timis/giulvaz/2026/45",
+   "short": "HCL Giulvăz nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 45/2026 privind mandatarea Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”, în vederea atribuirii gestiunii serviciului de transport public de persoane",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/260718",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/260718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-58-2026",
+   "path": "local/timis/giulvaz/2026/58",
+   "short": "HCL Giulvăz nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 58/2026 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Giulvăz pentru anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/266383",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/266383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-59-2026",
+   "path": "local/timis/giulvaz/2026/59",
+   "short": "HCL Giulvăz nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 59/2026 privind aprobarea Listei obiectivelor de investiții pe anul 2026",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/266384",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/266384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giulvaz-60-2026",
+   "path": "local/timis/giulvaz/2026/60",
+   "short": "HCL Giulvăz nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulvăz nr. 60/2026 privind aprobarea virării sumelor din secțiunea de funcționare în secțiunea de dezvoltare a bugetului local pe anul 2026, utilizarea excedentului bugetului local pe anul 2025 ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare a bugetului local pe anul 2026, precum și aprobarea obiectivelor de investiții finanțate din excedent",
+   "url": "https://emol.ro/giulvaz-tm/registru-hcl/266385",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulvaz-tm/registru-hcl/266385",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

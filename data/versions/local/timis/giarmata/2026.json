@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/timis/giarmata/2026",
+ "acts": [
+  {
+   "slug": "hcl-timis--giarmata-1-2026",
+   "path": "local/timis/giarmata/2026/1",
+   "short": "HCL Giarmata nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 1/2026 privind constatarea apartenenței la domeniul public al comunei Giarmata a imobilului înscris în CF 418206 – Giarmata, cu nr. cadastral 412119 cu construcțiile nr cad. 418206-C1, nr. cad. 418206-C2 și nr. cad. 418206 - CENTRU DE COLECTARE DEȘEURI PRIN APORT VOLUNTAR",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/250238",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/250238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-11-2026",
+   "path": "local/timis/giarmata/2026/11",
+   "short": "HCL Giarmata nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 11/2026 privind aprobarea utilizării excedentului bugetului local și a listei de investiții provizorie pentru anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/250248",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/250248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-114-2026",
+   "path": "local/timis/giarmata/2026/114",
+   "short": "HCL Giarmata nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 114/2026 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul III prin virări de credite, precum și modificarea listei de investiții pentru anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/291154",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/291154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-118-2026",
+   "path": "local/timis/giarmata/2026/118",
+   "short": "HCL Giarmata nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 118/2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/291158",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/291158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-12-2026",
+   "path": "local/timis/giarmata/2026/12",
+   "short": "HCL Giarmata nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 12/2026 privind dezmembrarea imobilului înscris în CF 419735 Giarmata, având nr. cad. 419735, situat în com. Giarmata, str. Principală, nr.73, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/255309",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/255309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-125-2026",
+   "path": "local/timis/giarmata/2026/125",
+   "short": "HCL Giarmata nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 125/2026 privind dezmembrarea terenului înscris în CF 415317 Giarmata, CF sporadic 403164, având nr. cad. 415317, situat în com. Giarmata, sat Cerneteaz, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296187",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-126-2026",
+   "path": "local/timis/giarmata/2026/126",
+   "short": "HCL Giarmata nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 126/2026 privind dezmembrarea terenului înscris în CF 415405 Giarmata, CF sporadic 402949, având nr. cad. 415405, situat în com. Giarmata, sat Cerneteaz, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296188",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-127-2026",
+   "path": "local/timis/giarmata/2026/127",
+   "short": "HCL Giarmata nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 127/2026 privind dezmembrarea terenului înscris în CF 416961 Giarmata, având nr. cad. 416961, situat în com. Giarmata, sat Cerneteaz, DE, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296189",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-128-2026",
+   "path": "local/timis/giarmata/2026/128",
+   "short": "HCL Giarmata nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 128/2026 privind dezmembrarea terenului înscris în CF 416958 Giarmata, având nr. cad. 416958, situat în com. Giarmata, sat Cerneteaz, DE, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296190",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-129-2026",
+   "path": "local/timis/giarmata/2026/129",
+   "short": "HCL Giarmata nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 129/2026 privind dezmembrarea terenului înscris în CF 415318 Giarmata, având nr. cad. 415318, situat în com. Giarmata, sat Cerneteaz, DE, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296191",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-130-2026",
+   "path": "local/timis/giarmata/2026/130",
+   "short": "HCL Giarmata nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 130/2026 privind repoziționarea și rectificarea terenului înscris în CF Giarmata nr. 418982, cu nr. cad. 418928 (DE 1357) situat în extravilanul com. Giarmatra, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296192",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-137-2026",
+   "path": "local/timis/giarmata/2026/137",
+   "short": "HCL Giarmata nr. 137/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 137/2026 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, modificarea listei de investiții, a agendei culturale și a anexei privind susținerea cultelor pentru anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296199",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-138-2026",
+   "path": "local/timis/giarmata/2026/138",
+   "short": "HCL Giarmata nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 138/2026 privind modificarea și completarea HCL nr. 116/31.07.2025 privind constatarea apartenenței la domeniul public al Comunei Giarmata și în administrarea Consiliului Local al Comunei Giarmata a imobilelor situate pe raza UAT Giarmata, cuprinse în ANEXA 1, asupra carora este înscris provizoriu dreptul de proprietate în favoarea Comunei Giarmata",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296200",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-139-2026",
+   "path": "local/timis/giarmata/2026/139",
+   "short": "HCL Giarmata nr. 139/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 139/2026 privind dezmembrarea terenului înscris în CF 410809 Giarmata, având nr. cad. 410809, situat în com. Giarmata, PUZ Gâtlan, jud. Timis",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296201",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-140-2026",
+   "path": "local/timis/giarmata/2026/140",
+   "short": "HCL Giarmata nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 140/2026 privind includerea de noi mijloace fixe in Anexa V(bunuri proprietate publica) a Contractului de Delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/296202",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/296202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-2-2026",
+   "path": "local/timis/giarmata/2026/2",
+   "short": "HCL Giarmata nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 2/2026 privind aprobarea planului de acțiuni sau lucrări de interes local pentru persoanele majore apte de muncă beneficiare de ajutor de incluziune conform prevederilor Legii nr. 196/2016 privind venitul minim de incluziune pe anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/250239",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/250239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-22-2026",
+   "path": "local/timis/giarmata/2026/22",
+   "short": "HCL Giarmata nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 22/2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/255319",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/255319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-28-2026",
+   "path": "local/timis/giarmata/2026/28",
+   "short": "HCL Giarmata nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 28/2026 privind includerea de noi mijloace fixe in Anexa V(bunuri proprietate publica) a Contractului de Delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/259040",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/259040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-33-2026",
+   "path": "local/timis/giarmata/2026/33",
+   "short": "HCL Giarmata nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 33/2026 privind dezmembrarea imobilului înscris în CF 414389 Giarmata, CF sporadic 406234, având nr. cad. 414389, situat în com. Giarmata, sat Cerneteaz str. Magnoliei, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/265776",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/265776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-34-2026",
+   "path": "local/timis/giarmata/2026/34",
+   "short": "HCL Giarmata nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 34/2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/265777",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/265777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-35-2026",
+   "path": "local/timis/giarmata/2026/35",
+   "short": "HCL Giarmata nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 35/2026 privind dezmembrarea imobilelor înscrise în CF 418352 Giarmata și CF 419122 Giarmata și aprobarea unificării imobilului înscris în CF 419118 Giarmata, având nr. cad. 419118 cu LOT 1 rezultat în urma dezmembrării imobilului înscris în CF 418352 Giarmata și cu LOT 1 rezultat în urma dezmembrării imobilului înscris în CF 419122 Giarmata (poduri Cerneteaz)",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/265778",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/265778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-41-2026",
+   "path": "local/timis/giarmata/2026/41",
+   "short": "HCL Giarmata nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 41/2026 privind îndreptarea erorilor materiale survenite în urma migrării cadastrului sistematic pentru imobilele situate pe teritoriul com. Giarmata, jud. Timiș (PS 459), înscrise în: - CF 417063 Giarmata, CF sporadic 405774, avand nr. cad. 417063 (tarla 459 parcela 1) - CF 417064 Giarmata, CF sporadic 405775, avand nr. cad. 417064 (tarla 459 parcela 2) - CF 417065 Giarmata, CF sporadic 405776, avand nr. cad. 417065 (tarla 459 parcela 3) - CF 417066 Giarmata, CF sporadic 405777, avand nr. cad. 417066 (tarla 459 parcela 4)",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/266868",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/266868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-42-2026",
+   "path": "local/timis/giarmata/2026/42",
+   "short": "HCL Giarmata nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 42/2026 privind dezmembrarea terenului înscris în CF 418546 Giarmata, CF sporadic 409703, având nr. cad. 418546, situat în com. Giarmata, jud. Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/266869",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/266869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-51-2026",
+   "path": "local/timis/giarmata/2026/51",
+   "short": "HCL Giarmata nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 51/2026 privind aprobarea actualizării unor tarife pentru unele activități și operațiuni practicate de SC Gospodărie Comunală Giarmata SRL",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/270636",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/270636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-52-2026",
+   "path": "local/timis/giarmata/2026/52",
+   "short": "HCL Giarmata nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 52/2026 privind aprobarea situațiilor financiare anuale, inclusiv anexele la acestea și a contului anual de execuție a bugetului de venituri și cheltuieli pe secțiunea de funcționare, respectiv de dezvoltare ale Comunei Giarmata, întocmite la 31.12.2025",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/270637",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/270637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-59-2026",
+   "path": "local/timis/giarmata/2026/59",
+   "short": "HCL Giarmata nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 59/2026 privind includerea de noi mijloace fixe in Anexa V(bunuri proprietate publica) a Contractului de Delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/274636",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/274636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-87-2026",
+   "path": "local/timis/giarmata/2026/87",
+   "short": "HCL Giarmata nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 87/2026 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul III, precum și modificarea listei de investiții pentru anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/281004",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/281004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-88-2026",
+   "path": "local/timis/giarmata/2026/88",
+   "short": "HCL Giarmata nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 88/2026 privind aprobarea Regulamentului de organizare a evenimentului “ RUGA ȘI ZILELE COMUNEI GIARMATA”",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/281005",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/281005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-89-2026",
+   "path": "local/timis/giarmata/2026/89",
+   "short": "HCL Giarmata nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 89/2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/281006",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/281006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-90-2026",
+   "path": "local/timis/giarmata/2026/90",
+   "short": "HCL Giarmata nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 90/2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/281007",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/281007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-91-2026",
+   "path": "local/timis/giarmata/2026/91",
+   "short": "HCL Giarmata nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 91/2026 privind actualizarea organigramei și a statului de funcții al apararatului de specialitate al primarului Comunei Giarmata, județul Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/283741",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/283741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-92-2026",
+   "path": "local/timis/giarmata/2026/92",
+   "short": "HCL Giarmata nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 92/2026 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul III, precum și modificarea listei de investiții pentru anul 2026",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/283742",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/283742",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/timis/manastiur/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--manastiur-1-2022",
+   "path": "local/timis/manastiur/2022/1",
+   "short": "HCL Mănăștiur nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 1/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54566",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-10-2022",
+   "path": "local/timis/manastiur/2022/10",
+   "short": "HCL Mănăștiur nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 10/2022 privind aprobarea RETELEI SCOLARE a Comunei Manastiur , Judetul Timis ce va functiona in anul scolar 2022 – 2023",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56520",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-12-2022",
+   "path": "local/timis/manastiur/2022/12",
+   "short": "HCL Mănăștiur nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 12/2022 privind incetarea prin acordul părţilor a contractului de concesiune nr.2212/24.05.2019 incheiat intre comuna Mănăştiur prin Consiliul Local si Lungu David",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56522",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-13-2022",
+   "path": "local/timis/manastiur/2022/13",
+   "short": "HCL Mănăștiur nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 13/2022 privind incetarea prin acordul părţilor a contractului de concesiune nr.1318/08.04.2019 incheiat intre comuna Mănăştiur prin Consiliul Local si Sukosd Roxana-Maria",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56523",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-14-2022",
+   "path": "local/timis/manastiur/2022/14",
+   "short": "HCL Mănăștiur nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 14/2022 Privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56524",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-15-2022",
+   "path": "local/timis/manastiur/2022/15",
+   "short": "HCL Mănăștiur nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 15/2022 privind aprobarea “Planului de actiuni sau de lucrari de interes local”, pentru repartizarea orelor de munca prevazute in Legea nr. 416/2001 – privind venitul minim garantat, pe anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56525",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-16-2022",
+   "path": "local/timis/manastiur/2022/16",
+   "short": "HCL Mănăștiur nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 16/2022 privind participarea Comunei Mănăștiur la “Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructuri pentru vehicule de transport rutier nepoluant din punct de vedere energetic ” și aprobarea indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/60609",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/60609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-17-2022",
+   "path": "local/timis/manastiur/2022/17",
+   "short": "HCL Mănăștiur nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 17/2022 privindaprobarea STRATEGIEI DE DEZVOLTARE A COMUNEI MANASTIUR, 2022-2027",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/60610",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/60610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-18-2022",
+   "path": "local/timis/manastiur/2022/18",
+   "short": "HCL Mănăștiur nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 18/2022 privind aprobarea indicatorilor tehnico-economici, cofinantarea si participarea la Programul Național de Investiţii \"Anghel Saligny\" pentru obiectivul de investiţie: ” ÎNFIINŢARE REŢELE DE DISTRIBUŢIE A GAZELOR NATURALE ÎN UNITĂŢILE ADMINISTRATIV TERITORIALE MEMBRE ÎN CADRUL ASOCIAŢIEI DE DEZVOLTARE INTERCOMUNITARĂ \"DISTRIBUŢIE GAZ TIMIŞ EST”",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/60611",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/60611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-19-2022",
+   "path": "local/timis/manastiur/2022/19",
+   "short": "HCL Mănăștiur nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 19/2022 privind aprobarea intocmirii documentatiei de prima inscriere prin alocarea de numar cadastral al Imobilului PDT 943/2 in suprafata de 436 mp in proprietatea Comunei Manastiur, domeniul privat si in administrarea Consiliului Local Manastiur, situat in extravilanul localitatii Manastiur",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/60612",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/60612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-2-2022",
+   "path": "local/timis/manastiur/2022/2",
+   "short": "HCL Mănăștiur nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 2/2022 privind incheierea exercitiului bugetar al anului 2021",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54567",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-20-2022",
+   "path": "local/timis/manastiur/2022/20",
+   "short": "HCL Mănăștiur nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 20/2022 privind aprobarea proiectului, a cheltuielilor aferente acestuia si a depunerii in cadrul “PLANULUI NAȚIONAL DE REDRESARE ȘI REZILENȚĂ - COMPONENTA C 10 -FONDUL LOCAL I 3 ” a proiectului Reabilitare Energetică Moderată Camin Cultural Remetea Lunca”",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/61252",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/61252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-21-2022",
+   "path": "local/timis/manastiur/2022/21",
+   "short": "HCL Mănăștiur nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 21/2022 privind indexarea impozitelor şi taxelor locale pentru anul 2023, cu rata inflaţiei aferente anului 2021, de 5,1%",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63044",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-22-2022",
+   "path": "local/timis/manastiur/2022/22",
+   "short": "HCL Mănăștiur nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 22/2022 privind dezlipirea parcelei in suprafata de 25.000 mp din suprafata totala de 300.300 mp a terenului inscris in CF nr.404 753, nr. cadastral 404 753 al comunei Manastiur",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63045",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-23-2022",
+   "path": "local/timis/manastiur/2022/23",
+   "short": "HCL Mănăștiur nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 23/2022 Privind acordarea unui mandat special imputernicitului Consiliului Local al comunei Manastiur in Adunarea Generala ordinara a Asociatiei de Dezvoltare Intercomunitara Apa – Canal Timis",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63046",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-26-2022",
+   "path": "local/timis/manastiur/2022/26",
+   "short": "HCL Mănăștiur nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 26/2022 privind modul de administrare a pășunilor comunale",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63668",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-27-2022",
+   "path": "local/timis/manastiur/2022/27",
+   "short": "HCL Mănăștiur nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 27/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63669",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-28-2022",
+   "path": "local/timis/manastiur/2022/28",
+   "short": "HCL Mănăștiur nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 28/2022 privind însuşirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Mănăştiur, Judetul Timis, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/63670",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/63670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-3-2022",
+   "path": "local/timis/manastiur/2022/3",
+   "short": "HCL Mănăștiur nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 3/2022 privind utilizarea şi regularizarea excedentului bugetului Comunei Manastiur din anul 2021 în anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54568",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-38-2022",
+   "path": "local/timis/manastiur/2022/38",
+   "short": "HCL Mănăștiur nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 38/2022 privind aprobarea indicatorilor tehnico-economici actualizati, a Devizului General actualizat, respectiv a Devizului General privind restul de executat in cadrul proiectului Dezvoltare infrastructura rurala in comuna Manastiur, finantat in cadrul PNDL II",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/68517",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/68517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-39-2022",
+   "path": "local/timis/manastiur/2022/39",
+   "short": "HCL Mănăștiur nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 39/2022 Privind aprobarea prelungirii planului urbanistic general al comunei Manastiur",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/68518",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/68518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-4-2022",
+   "path": "local/timis/manastiur/2022/4",
+   "short": "HCL Mănăștiur nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 4/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54569",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-40-2022",
+   "path": "local/timis/manastiur/2022/40",
+   "short": "HCL Mănăștiur nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 40/2022 Privind aprobarea acordarii normei de hrana si vouchere de vacanta personalului angajat in baza acordului de cooperare cu Filiala Judeteana Timis a Asociatiei Comunelor din Romania",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/68519",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/68519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-41-2022",
+   "path": "local/timis/manastiur/2022/41",
+   "short": "HCL Mănăștiur nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 41/2022 Privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/68520",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/68520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-43-2022",
+   "path": "local/timis/manastiur/2022/43",
+   "short": "HCL Mănăștiur nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 43/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/69174",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/69174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-45-2022",
+   "path": "local/timis/manastiur/2022/45",
+   "short": "HCL Mănăștiur nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 45/2022 privind aprobarea impozitelor si taxelor locale pentru anul 2023 conform modificărilor impuse de OG 16/2022 (pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, abrogarea unor acte normative și alte măsuri financiar-fiscale)",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/70264",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/70264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-47-2022",
+   "path": "local/timis/manastiur/2022/47",
+   "short": "HCL Mănăștiur nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 47/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/70266",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/70266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-5-2022",
+   "path": "local/timis/manastiur/2022/5",
+   "short": "HCL Mănăștiur nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 5/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54570",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-54-2022",
+   "path": "local/timis/manastiur/2022/54",
+   "short": "HCL Mănăștiur nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 54/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/70273",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/70273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-55-2022",
+   "path": "local/timis/manastiur/2022/55",
+   "short": "HCL Mănăștiur nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 55/2022 privind aprobarea colectarii gunoiului menajer in regie proprie cu autospeciala Primariei Comunei Manastiur si plata costurilor catre operatorul statiei de transfer Faget – Polaris M Holding, din bugetul local, pe perioada situatiei de urgenta pana la delegarea serviciului de salubritate unui operator regional precum si stabilirea cuantumului taxei speciale de salubrizare",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/70274",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/70274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-56-2022",
+   "path": "local/timis/manastiur/2022/56",
+   "short": "HCL Mănăștiur nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 56/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/71854",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/71854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-58-2022",
+   "path": "local/timis/manastiur/2022/58",
+   "short": "HCL Mănăștiur nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 58/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/71856",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/71856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-59-2022",
+   "path": "local/timis/manastiur/2022/59",
+   "short": "HCL Mănăștiur nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 59/2022 pentru modificarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Mănăștiur, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale, insusit prin HCL nr. 28/15.06.2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/73967",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/73967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-60-2022",
+   "path": "local/timis/manastiur/2022/60",
+   "short": "HCL Mănăștiur nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 60/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/73968",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/73968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-62-2022",
+   "path": "local/timis/manastiur/2022/62",
+   "short": "HCL Mănăștiur nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 62/2022 privind modificarea si completarea HCL nr. 20/20.05.2022 privind aprobarea proiectului, a cheltuielilor aferente acestuia si a depunerii in cadrul “PANULUI NAȚIONAL DE REDRESARE ȘI REZILENȚĂ - COMPONENTA C 10 -FONDUL LOCAL I 3 ” a proiectului Reabilitare Energetică Moderată Camin Cultural Remetea Lunca”",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/75651",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/75651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-63-2022",
+   "path": "local/timis/manastiur/2022/63",
+   "short": "HCL Mănăștiur nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 63/2022 privind actualizarea organigramei si statului de funcții ale aparatului de specialitate al Primarului comunei Mănăștiur",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/76465",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/76465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-64-2022",
+   "path": "local/timis/manastiur/2022/64",
+   "short": "HCL Mănăștiur nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 64/2022 privind aprobarea proiectului, a cheltuielilor aferente acestuia si a depunerii in cadrul “PLANULUI NAȚIONAL DE REDRESARE ȘI REZILENȚĂ - COMPONENTA C 10 -FONDUL LOCAL I 3 ”, a proiectului „REABILITARE ENERGETICĂ BIBLIOTECĂ ÎN LOCALITATEA MĂNĂȘTIUR”",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/76466",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/76466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-65-2022",
+   "path": "local/timis/manastiur/2022/65",
+   "short": "HCL Mănăștiur nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 65/2022 privind aprobarea completarii Programului anual de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/76467",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/76467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-66-2022",
+   "path": "local/timis/manastiur/2022/66",
+   "short": "HCL Mănăștiur nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 66/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/78905",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/78905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-67-2022",
+   "path": "local/timis/manastiur/2022/67",
+   "short": "HCL Mănăștiur nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 67/2022 privind aprobarea Protocolului de colaborare încheiat între Comuna Mănăștiur și Ministerul Muncii şi Solidarității Sociale (MMSS)",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/81789",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/81789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-68-2022",
+   "path": "local/timis/manastiur/2022/68",
+   "short": "HCL Mănăștiur nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 68/2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/81790",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/81790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-69-2022",
+   "path": "local/timis/manastiur/2022/69",
+   "short": "HCL Mănăștiur nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 69/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/81791",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/81791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-7-2022",
+   "path": "local/timis/manastiur/2022/7",
+   "short": "HCL Mănăștiur nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 7/2022 privind instituirea taxei speciale de salubrizare si aprobarea Regulamentului de stabilire si aplicare a taxei speciale de salubrizare",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54572",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-70-2022",
+   "path": "local/timis/manastiur/2022/70",
+   "short": "HCL Mănăștiur nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 70/2022 privind instituirea zilelor colindului la nivelul UAT Manastiur pentru sarbatorile sfarsitului de an",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/81792",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/81792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-71-2022",
+   "path": "local/timis/manastiur/2022/71",
+   "short": "HCL Mănăștiur nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 71/2022 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE PENTRU ANUL 2023",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/86227",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/86227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-72-2022",
+   "path": "local/timis/manastiur/2022/72",
+   "short": "HCL Mănăștiur nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 72/2022 privind.aprobarea Programului de achiziţii publice pentru anul 2023",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/86228",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/86228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-73-2022",
+   "path": "local/timis/manastiur/2022/73",
+   "short": "HCL Mănăștiur nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 73/2022 privind aprobarea Agendei culturale, sportive şi de tineret a comunei MANASTIUR pentru anul 2023",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/86229",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/86229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-74-2022",
+   "path": "local/timis/manastiur/2022/74",
+   "short": "HCL Mănăștiur nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 74/2022 privind validarea dispozitiei nr. 119/20.12.2022 cu privire la rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/86230",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/86230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-8-2022",
+   "path": "local/timis/manastiur/2022/8",
+   "short": "HCL Mănăștiur nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 8/2022 privind rectificarea bugetului local al comunei Manastiur pentru anul 2022",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/54573",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/54573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-9-2022",
+   "path": "local/timis/manastiur/2022/9",
+   "short": "HCL Mănăștiur nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 9/2022 privind alegerea formei de gestiune, delegarea Serviciului de iluminat public al Comunei Manaştiur",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/56519",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/56519",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

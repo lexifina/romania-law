@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/timis/manastiur/2026",
+"acts": [
+{
+"slug": "hcl-timis--manastiur-3-2026",
+"path": "local/timis/manastiur/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 3/2026 privind aprobarea PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR în domeniul situațiilor de urgență al comunei MĂNĂȘTIUR pentru anul 2026",
+"short": "HCL Mănăștiur nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/manastiur-tm/registru-hcl/258462",
+"council": "timis/manastiur",
+"council_name": "Consiliul Local al Comunei Mănăștiur",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--manastiur-4-2026",
+"path": "local/timis/manastiur/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 4/2026 aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat, ca urmare a modificarii cotei TVA potrivit Legii 141/2025, pentru obiectivul de investiții „Sistem de evacuare ape pluviale, trotuare și acces proprietăți, comuna Mănăștiur, județul Timiș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny,,",
+"short": "HCL Mănăștiur nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-02",
+"latest": "2026-04-02",
+"portal": "https://emol.ro/manastiur-tm/registru-hcl/259545",
+"council": "timis/manastiur",
+"council_name": "Consiliul Local al Comunei Mănăștiur",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--manastiur-5-2026",
+"path": "local/timis/manastiur/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 5/2026",
+"short": "HCL Mănăștiur nr. 5/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-02",
+"latest": "2026-04-02",
+"portal": "https://emol.ro/manastiur-tm/registru-hcl/259546",
+"council": "timis/manastiur",
+"council_name": "Consiliul Local al Comunei Mănăștiur",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

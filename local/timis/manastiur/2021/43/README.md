@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Mănăștiur nr. 43/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei a proiectului MODERNIZARE DRUMURI COMUNALE IN COMUNA MANASTIUR, pentru care se solicita finantarea in baza Programului National de Investitii “Anghel Saligny”
+
+HCL Mănăștiur nr. 43/2021 · 1 versions, from 2021-10-12 (latest in force: 2021-10-12) · <https://emol.ro/manastiur-tm/registru-hcl/54534>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-timis--manastiur-43-2021` (tags `hcl-timis--manastiur-43-2021/<day>`; `python tools/on.py <day> hcl-timis--manastiur-43-2021`).
+
+## Decisions made by hand
+
+- HCL Mănăștiur nr. 43/2021: listed from Consiliul Local al Comunei Mănăștiur (emol.ro); metadata only for now: no document of it is held.
+- HCL Mănăștiur nr. 43/2021: dated from 12 October 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Mănăștiur nr. 43/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

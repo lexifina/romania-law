@@ -1,0 +1,2601 @@
+{
+ "country": "RO",
+ "shard": "local/timis/ghiroda/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--ghiroda-10-2020",
+   "path": "local/timis/ghiroda/2020/10",
+   "short": "HCL Ghiroda nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 10/2020 privind aprobarea deficitului aferent sectiunii „De Dezvoltare” pentru anul 2019",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2241",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-100-2020",
+   "path": "local/timis/ghiroda/2020/100",
+   "short": "HCL Ghiroda nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 100/2020 privind aprobarea documentatiei de dezlipire a terenului înscris în CF 401957 Ghiroda, situat în strada Parcului, nr. 2, localitatea Giarmata Vii, com Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4056",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-101-2020",
+   "path": "local/timis/ghiroda/2020/101",
+   "short": "HCL Ghiroda nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 101/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4057",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-102-2020",
+   "path": "local/timis/ghiroda/2020/102",
+   "short": "HCL Ghiroda nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 102/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4058",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-104-2020",
+   "path": "local/timis/ghiroda/2020/104",
+   "short": "HCL Ghiroda nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 104/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Locuinte colective si functiuni complementare, extravilan comuna Ghiroda, pe terenul inscris in CF 408537 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4060",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-105-2020",
+   "path": "local/timis/ghiroda/2020/105",
+   "short": "HCL Ghiroda nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 105/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4427",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-107-2020",
+   "path": "local/timis/ghiroda/2020/107",
+   "short": "HCL Ghiroda nr. 107/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 107/2020 privind stabilirea conditiilor de construire a imobilelor si/sau cladirilor cu mai multe unitati locative- (colective/blocuri), altele decat cele cuplate/duplex, in intravilanul vechi al satului Giarmata-Vii",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4429",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-108-2020",
+   "path": "local/timis/ghiroda/2020/108",
+   "short": "HCL Ghiroda nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 108/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4574",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-112-2020",
+   "path": "local/timis/ghiroda/2020/112",
+   "short": "HCL Ghiroda nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 112/2020 privind aprobarea numarului de asistenți personali ai persoanelor cu handicap grav pentru anul 2020, pentru Comuna Ghiroda, județul Timiș",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4578",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-114-2020",
+   "path": "local/timis/ghiroda/2020/114",
+   "short": "HCL Ghiroda nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 114/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4580",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-115-2020",
+   "path": "local/timis/ghiroda/2020/115",
+   "short": "HCL Ghiroda nr. 115/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 115/2020 privind atribuirea numelui: strada Monte Carlo, unei străzi fără nume în localitatea Ghiroda, comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4581",
+   "versions": [
+    {
+     "from": "2020-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-119-2020",
+   "path": "local/timis/ghiroda/2020/119",
+   "short": "HCL Ghiroda nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 119/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5903",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-12-2020",
+   "path": "local/timis/ghiroda/2020/12",
+   "short": "HCL Ghiroda nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 12/2020 privind aprobarea Planului de actiuni sau de lucrari de interes local pt anul 2020 in vederea prestarii orelor de munca a beneficiarilor de ajutor social conform Legii 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2243",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-121-2020",
+   "path": "local/timis/ghiroda/2020/121",
+   "short": "HCL Ghiroda nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 121/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5905",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-122-2020",
+   "path": "local/timis/ghiroda/2020/122",
+   "short": "HCL Ghiroda nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 122/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5906",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-123-2020",
+   "path": "local/timis/ghiroda/2020/123",
+   "short": "HCL Ghiroda nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 123/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5907",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-124-2020",
+   "path": "local/timis/ghiroda/2020/124",
+   "short": "HCL Ghiroda nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 124/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr.6",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5908",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-125-2020",
+   "path": "local/timis/ghiroda/2020/125",
+   "short": "HCL Ghiroda nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 125/2020 privind constatarea apartenenței la domeniul privat al comunei Ghiroda a cotei parti de 1/2 din imobilul înscris în C.F nr.401306 Ghiroda, teren în intravilan",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5909",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-126-2020",
+   "path": "local/timis/ghiroda/2020/126",
+   "short": "HCL Ghiroda nr. 126/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 126/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/5910",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/5910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-127-2020",
+   "path": "local/timis/ghiroda/2020/127",
+   "short": "HCL Ghiroda nr. 127/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 127/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) zona rezidențială cu funcțiuni complementare, dotări si servicii publice intravilan localitatea Giarmata Vii, comuna Ghiroda, pe terenul înscris în CF 408754 și 400874 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6011",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-128-2020",
+   "path": "local/timis/ghiroda/2020/128",
+   "short": "HCL Ghiroda nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 128/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Zona rezidențială cu funcțiuni complementare, intravilan, comuna Ghiroda, pe terenul înscris în CF 408831 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6012",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-129-2020",
+   "path": "local/timis/ghiroda/2020/129",
+   "short": "HCL Ghiroda nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 129/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Zona rezidențială cu funcțiuni complementare,în intravilan localitatea Giarmata-Vii, comuna Ghiroda, pe terenul înscris în CF 409834 Ghiroda ( rezultat prin alipirea imobilelor inițiale, identificate cadastral cu nr 401484 și 401451)",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6013",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-13-2020",
+   "path": "local/timis/ghiroda/2020/13",
+   "short": "HCL Ghiroda nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 13/2020 privind raportarea excedentului din anul precedent al bugetului local rezultat la incheierea exercitiului bugetar, in exercitiul financiar urmator si utilizarea lui „CA SURSA DE FINANTARE A CHELTUIELILOR SECTIUNI DE DEZVOLTARE” pe anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2244",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-130-2020",
+   "path": "local/timis/ghiroda/2020/130",
+   "short": "HCL Ghiroda nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 130/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6014",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-131-2020",
+   "path": "local/timis/ghiroda/2020/131",
+   "short": "HCL Ghiroda nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 131/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6015",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-132-2020",
+   "path": "local/timis/ghiroda/2020/132",
+   "short": "HCL Ghiroda nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 132/2020 cu privire la aprobarea participării la \"Programul (AFM) privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastrucutra de iluminat public\" cu proiectul \"Reducerea emisiilor de gaze cu efect de sera prin eficientizarea sistemului de iluminat public în Comuna Ghiroda, jud Timiș\"",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6016",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-133-2020",
+   "path": "local/timis/ghiroda/2020/133",
+   "short": "HCL Ghiroda nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 133/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6017",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-134-2020",
+   "path": "local/timis/ghiroda/2020/134",
+   "short": "HCL Ghiroda nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 134/2020 privind aprobarea studiului de oportunitate pentru delegarea serviciului de transport persoane prin curse regulate de către Asociația de Dezvoltare Intercomunitară \"Societatea Metropolitană de Transport Timișoara\"",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6550",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-135-2020",
+   "path": "local/timis/ghiroda/2020/135",
+   "short": "HCL Ghiroda nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 135/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6551",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-136-2020",
+   "path": "local/timis/ghiroda/2020/136",
+   "short": "HCL Ghiroda nr. 136/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 136/2020 privind aprobarea modalităţii de gestiune a serviciului de transport public local de persoane şi a contractului de delegare a gestiunii serviciului de transport local de persoane prin curse regulate",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6552",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-137-2020",
+   "path": "local/timis/ghiroda/2020/137",
+   "short": "HCL Ghiroda nr. 137/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 137/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6823",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-138-2020",
+   "path": "local/timis/ghiroda/2020/138",
+   "short": "HCL Ghiroda nr. 138/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 138/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr.7",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6824",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-139-2020",
+   "path": "local/timis/ghiroda/2020/139",
+   "short": "HCL Ghiroda nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 139/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/6825",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/6825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-14-2020",
+   "path": "local/timis/ghiroda/2020/14",
+   "short": "HCL Ghiroda nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 14/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2245",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-140-2020",
+   "path": "local/timis/ghiroda/2020/140",
+   "short": "HCL Ghiroda nr. 140/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 140/2020 privind predarea către Ministerul Lucrărilor Publice, Dezvoltării și Administrației prin Compania Națională de Investiții \"C.N.I \" S.A, a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiții Proiect tip - \" Bazin de înot didactic, în localitatea Ghiroda, comuna Ghiroda, județul Timiș\"",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7314",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-142-2020",
+   "path": "local/timis/ghiroda/2020/142",
+   "short": "HCL Ghiroda nr. 142/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 142/2020 privind achitarea sumei de 7301,20 lei din bugetul local conform Încheierii civile nr. 7325/27.07.2020 în dosarul nr. 18363/325/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7985",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-143-2020",
+   "path": "local/timis/ghiroda/2020/143",
+   "short": "HCL Ghiroda nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 143/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7986",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-144-2020",
+   "path": "local/timis/ghiroda/2020/144",
+   "short": "HCL Ghiroda nr. 144/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 144/2020 privind actualizarea indicatorilor tehnico-economici si a devizului general aprobati prin HCL nr.178/28.08.2019 pentru aprobarea indicatorilor tehnico-economici actualizati a devizului general actualizat si a cofinantarii pentru obiectivul de investitii “Construire gradinita in comuna Ghiroda, judetul Timis”,",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7987",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-145-2020",
+   "path": "local/timis/ghiroda/2020/145",
+   "short": "HCL Ghiroda nr. 145/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 145/2020 Pentru aprobarea demolarii constructiei “Gradinita pentru copii din localitatea Ghiroda, strada Victoria,nr. 58, inscrisa in CF nr. 402522, proprietate publica a comunei Ghiroda, judetul Timis",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7988",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-147-2020",
+   "path": "local/timis/ghiroda/2020/147",
+   "short": "HCL Ghiroda nr. 147/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 147/2020 privind completare si modificare a HCL 57/01.04.2020 privind atribuirea numelui: strada Vulturilor, unei străzi fără nume în localitatea Ghiroda, comuna GHIRODA",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7990",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-148-2020",
+   "path": "local/timis/ghiroda/2020/148",
+   "short": "HCL Ghiroda nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 148/2020 privind completare si modificare a HCL 115/17.06.2020 privind atribuirea numelui: strada Monte Carlo, unei străzi fără nume în localitatea Ghiroda, comuna GHIRODA",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/7991",
+   "versions": [
+    {
+     "from": "2020-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/7991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-149-2020",
+   "path": "local/timis/ghiroda/2020/149",
+   "short": "HCL Ghiroda nr. 149/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 149/2020 privind aprobarea contului de execuție pe trimestrul II anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8378",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-15-2020",
+   "path": "local/timis/ghiroda/2020/15",
+   "short": "HCL Ghiroda nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 15/2020 privind modificarea si completarea Anexei nr. V – „Lista bunurilor proprietate publica transmise spre folosinta operatorului” la contractul de delegare de gestiune a serviciilor publice de alimentare cu apa si canalizare nr. 932/19.01.2010",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2246",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-151-2020",
+   "path": "local/timis/ghiroda/2020/151",
+   "short": "HCL Ghiroda nr. 151/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 151/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8380",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-152-2020",
+   "path": "local/timis/ghiroda/2020/152",
+   "short": "HCL Ghiroda nr. 152/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 152/2020 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele si circulația proiectelor de hotărâri care se supun adoptării Consiliului local al Comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8381",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-153-2020",
+   "path": "local/timis/ghiroda/2020/153",
+   "short": "HCL Ghiroda nr. 153/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 153/2020 privind aprobarea Regulamentului de organizare si funcționare al Consiliului Local al comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8382",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-155-2020",
+   "path": "local/timis/ghiroda/2020/155",
+   "short": "HCL Ghiroda nr. 155/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 155/2020 Privind aprobarea Planului Urbanistic Zonal (PUZ) Dezvoltare rezidențială cu funcțiuni complementare pe terenurile înscrise în CF 405217, 405218, 405219, 405220, 405221 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8384",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-156-2020",
+   "path": "local/timis/ghiroda/2020/156",
+   "short": "HCL Ghiroda nr. 156/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 156/2020 Privind aprobarea Planului Urbanistic Zonal (PUZ) Dezvoltare zonă logistică, servicii și depozitare, pe terenul înscris în CF 400666 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8385",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-157-2020",
+   "path": "local/timis/ghiroda/2020/157",
+   "short": "HCL Ghiroda nr. 157/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 157/2020 Privind aprobarea Planului Urbanistic Zonal (PUZ) Lotizare locuinte unifamiliale (cu maxim 2 apartamente) si functiuni conexe, intravilan localitatea Giarmata Vii, comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/8386",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/8386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-158-2020",
+   "path": "local/timis/ghiroda/2020/158",
+   "short": "HCL Ghiroda nr. 158/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 158/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020 - Rectificarea nr. 8",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9083",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-16-2020",
+   "path": "local/timis/ghiroda/2020/16",
+   "short": "HCL Ghiroda nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 16/2020 privind modificarea si completarea inventarului bunurilor care apartin domeniului privat al comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2247",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-160-2020",
+   "path": "local/timis/ghiroda/2020/160",
+   "short": "HCL Ghiroda nr. 160/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 160/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9085",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-161-2020",
+   "path": "local/timis/ghiroda/2020/161",
+   "short": "HCL Ghiroda nr. 161/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 161/2020 Privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9086",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-162-2020",
+   "path": "local/timis/ghiroda/2020/162",
+   "short": "HCL Ghiroda nr. 162/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 162/2020 Privind aprobarea atribuirii contractului de executie lucrari de intretinere periodica prin pietruire a strazilor din comuna Ghiroda, jud. Timis,, catre Societatea de Administrare a Domeniului Public Ghiroda SA, in temeiul art. 31 din Legea nr. 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9087",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-164-2020",
+   "path": "local/timis/ghiroda/2020/164",
+   "short": "HCL Ghiroda nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 164/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9089",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-165-2020",
+   "path": "local/timis/ghiroda/2020/165",
+   "short": "HCL Ghiroda nr. 165/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 165/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/9090",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/9090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-167-2020",
+   "path": "local/timis/ghiroda/2020/167",
+   "short": "HCL Ghiroda nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 167/2020 privind alegerea Comisiei de validare și de numărare a voturilor",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12155",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-168-2020",
+   "path": "local/timis/ghiroda/2020/168",
+   "short": "HCL Ghiroda nr. 168/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 168/2020 privind aprobarea Regulamentului de organizare si funcționare a Consiliului local al Comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12156",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-169-2020",
+   "path": "local/timis/ghiroda/2020/169",
+   "short": "HCL Ghiroda nr. 169/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 169/2020 privind organizarea comisiilor de specialitate ale Consiliului local al Comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12157",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-17-2020",
+   "path": "local/timis/ghiroda/2020/17",
+   "short": "HCL Ghiroda nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 17/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2248",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-171-2020",
+   "path": "local/timis/ghiroda/2020/171",
+   "short": "HCL Ghiroda nr. 171/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 171/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020 – Rectificarea nr.9",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12217",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-175-2020",
+   "path": "local/timis/ghiroda/2020/175",
+   "short": "HCL Ghiroda nr. 175/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 175/2020 privind aprobarea atribuirii contractului de prestari servicii pentru activitatea privind curatarea si transportul zapezii de pe caile publice si mentinerea in functiune a acestora pe timp de polei sau de inghet de pe raza UAT Ghiroda, catre Societatea de Administrare a Domeniului Public Ghiroda SA, in temeiul art. 31 din Legea nr. 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12221",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-176-2020",
+   "path": "local/timis/ghiroda/2020/176",
+   "short": "HCL Ghiroda nr. 176/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 176/2020 pentru aprobarea indicatorilor tehnico-economici din SF nr. 7015/19 pentru obiectivul de investitii “Extindere retea electrica de interes public zona str. Ardeal- 17 imobile, CF 406308, Giarmata-Vii, jud Timis”",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12222",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-177-2020",
+   "path": "local/timis/ghiroda/2020/177",
+   "short": "HCL Ghiroda nr. 177/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 177/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12223",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-178-2020",
+   "path": "local/timis/ghiroda/2020/178",
+   "short": "HCL Ghiroda nr. 178/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 178/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12224",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-179-2020",
+   "path": "local/timis/ghiroda/2020/179",
+   "short": "HCL Ghiroda nr. 179/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 179/2020 pentru aprobarea indicatorilor tehnico-economici din D.A.L.I nr. A641/2020 pentru obiectivul de investitii “Modernizare strada Victoria pana la limita cu U.A.T Mosnita Noua- Lot 15",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12225",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-18-2020",
+   "path": "local/timis/ghiroda/2020/18",
+   "short": "HCL Ghiroda nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 18/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2249",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-180-2020",
+   "path": "local/timis/ghiroda/2020/180",
+   "short": "HCL Ghiroda nr. 180/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 180/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12226",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-181-2020",
+   "path": "local/timis/ghiroda/2020/181",
+   "short": "HCL Ghiroda nr. 181/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 181/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12227",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-182-2020",
+   "path": "local/timis/ghiroda/2020/182",
+   "short": "HCL Ghiroda nr. 182/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 182/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12228",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-183-2020",
+   "path": "local/timis/ghiroda/2020/183",
+   "short": "HCL Ghiroda nr. 183/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 183/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12229",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-184-2020",
+   "path": "local/timis/ghiroda/2020/184",
+   "short": "HCL Ghiroda nr. 184/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 184/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12230",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-185-2020",
+   "path": "local/timis/ghiroda/2020/185",
+   "short": "HCL Ghiroda nr. 185/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 185/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Baza sportiva si zona rezidentiala, in intravilan localitatea Giarmata Vii, comuna Ghiroda, pe terenul inscris in CF 404174 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12231",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-186-2020",
+   "path": "local/timis/ghiroda/2020/186",
+   "short": "HCL Ghiroda nr. 186/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 186/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Dezvoltare zona rezidentiala cu functiuni complementare, in extravilan localitatea Giarmata Vii, comuna Ghiroda, pe terenurile inscrise in CF 407251 si 407529 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12232",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-187-2020",
+   "path": "local/timis/ghiroda/2020/187",
+   "short": "HCL Ghiroda nr. 187/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 187/2020 privind aprobarea Proiectului de organizare a retelei scolare, a unitatilor de invatamant preuniversitar de stat de pe raza comunei Ghiroda, propuse sa functioneze pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12233",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-188-2020",
+   "path": "local/timis/ghiroda/2020/188",
+   "short": "HCL Ghiroda nr. 188/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 188/2020 privind modificarea si aprobarea structurii Organigramei si a Statului de Functii pentru aparatul de specialitate al primarului comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12234",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-189-2020",
+   "path": "local/timis/ghiroda/2020/189",
+   "short": "HCL Ghiroda nr. 189/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 189/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12235",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-19-2020",
+   "path": "local/timis/ghiroda/2020/19",
+   "short": "HCL Ghiroda nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 19/2020 privind aprobarea incheierii unui contract de prestari servicii in vederea asigurarii formatiei de instrumentisti care acompaniaza dansatorii ansamblurilor folclorice din comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2250",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-190-2020",
+   "path": "local/timis/ghiroda/2020/190",
+   "short": "HCL Ghiroda nr. 190/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 190/2020 privind incheierea Acordului de parteneriat in Primaria comunei Ghiroda si Universitatea Politehnica Timisoara in cadrul proiectului cu titlul “Sisteme fotovoltaice pentru cresterea eficientei energetice a unor cladiri publice “ finantat prin EEA and “Norwegian Financial Mechanisms 2014-2021”",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12236",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-191-2020",
+   "path": "local/timis/ghiroda/2020/191",
+   "short": "HCL Ghiroda nr. 191/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 191/2020 privind acordarea unor facilitati fiscale la plata impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12237",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-192-2020",
+   "path": "local/timis/ghiroda/2020/192",
+   "short": "HCL Ghiroda nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 192/2020 privind aprobarea documentatiei pentru dezlipire a imobilului cu nr. cad. 409319 inscris in CF nr. 409319 comuna Ghiroda, jud Timis",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12238",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-193-2020",
+   "path": "local/timis/ghiroda/2020/193",
+   "short": "HCL Ghiroda nr. 193/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 193/2020 privind aprobarea documentatiei pentru dezlipire a imobilului cu nr. cad. 410318 inscris in CF nr. 410318 comuna Ghiroda, jud Timis",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12239",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-195-2020",
+   "path": "local/timis/ghiroda/2020/195",
+   "short": "HCL Ghiroda nr. 195/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 195/2020 privind aprobarea constituirii comisiei de negociere privind situatia imobilelor (cladiri si teren) situate in localitatea Ghiroda, strada Sinaia, nr 45/A, 45/B inscrise in CF nr.402558",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12241",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-196-2020",
+   "path": "local/timis/ghiroda/2020/196",
+   "short": "HCL Ghiroda nr. 196/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 196/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12242",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-199-2020",
+   "path": "local/timis/ghiroda/2020/199",
+   "short": "HCL Ghiroda nr. 199/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 199/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020 - Rectificarea nr. 10",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12245",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-2-2020",
+   "path": "local/timis/ghiroda/2020/2",
+   "short": "HCL Ghiroda nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 2/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2233",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-20-2020",
+   "path": "local/timis/ghiroda/2020/20",
+   "short": "HCL Ghiroda nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 20/2020 privind aprobarea contului de executie pe trimestrul IV anul 2019",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2251",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-200-2020",
+   "path": "local/timis/ghiroda/2020/200",
+   "short": "HCL Ghiroda nr. 200/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 200/2020 privind modificarea și aprobarea componenței Consiliului de Administrație al Clubului Sportiv Comunal Ghiroda și Giarmata-Vii din comuna Ghiroda, județul Timiș",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12246",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-201-2020",
+   "path": "local/timis/ghiroda/2020/201",
+   "short": "HCL Ghiroda nr. 201/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 201/2020 privind acordarea normei de hrană pentru personalul Poliției Locale Comuna Ghiroda și aprobarea Regulamentului de acordare a normei de hrană",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12247",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-203-2020",
+   "path": "local/timis/ghiroda/2020/203",
+   "short": "HCL Ghiroda nr. 203/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 203/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12259",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-206-2020",
+   "path": "local/timis/ghiroda/2020/206",
+   "short": "HCL Ghiroda nr. 206/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 206/2020 pentru aprobarea atribuirii contractului de prestari sevicii pentru activitatile privind taierea arborilor si arbustilor, scoaterea cioatelor, interventiile cu taieri de orice fel in coroana arborilor si arbustilor si defrisarea vegetatiei arbustive si arboricole de pe raza comunei Ghiroda, judetul Timis catre Societatea de Administrare a Domeniului Public Ghiroda SA, in temeiul art. 31 din Legea nr 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12262",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-207-2020",
+   "path": "local/timis/ghiroda/2020/207",
+   "short": "HCL Ghiroda nr. 207/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 207/2020 pentru modificarea si completarea HCL nr.162/16.09.2020 privind aprobarea atribuirii contractului de executie lucrari de intretinere periodica prin pietruire a strazilor din comuna Ghiroda, jud Timis, catre Societatea de Administrare a Domeniului Public Ghiroda SA, in temeiul art. 31 din Legea nr. 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12263",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-208-2020",
+   "path": "local/timis/ghiroda/2020/208",
+   "short": "HCL Ghiroda nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 208/2020 pentru aprobarea incheierii Actului aditional nr. 1 la contractul de prestari servicii nr.16933/13.04.2020 pentru activitatea privind amenajarea/intretinerea spatiilor verzi de pe raza UAT Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12264",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-209-2020",
+   "path": "local/timis/ghiroda/2020/209",
+   "short": "HCL Ghiroda nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 209/2020 privind aprobarea revocarii HCL nr. 107/12.06.2020 privind stabilirea conditiilor de construire a imobilelor si/sau cladirilor cu mai multe unitati locative – (colective/blocuri), altele decat cele cuplate/duplex, in intravilanul vechi al localitatior Ghiroda si Giarmata-Vii",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12265",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-210-2020",
+   "path": "local/timis/ghiroda/2020/210",
+   "short": "HCL Ghiroda nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 210/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/12266",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/12266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-211-2020",
+   "path": "local/timis/ghiroda/2020/211",
+   "short": "HCL Ghiroda nr. 211/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 211/2020 privind atribuirea numelui: strada Olt, unei străzi fără nume în localitatea Ghiroda, comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13288",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-212-2020",
+   "path": "local/timis/ghiroda/2020/212",
+   "short": "HCL Ghiroda nr. 212/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 212/2020 privind acordarea de burse de merit elevilor de la Scoala Gimnaziala Ghiroda pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13289",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-213-2020",
+   "path": "local/timis/ghiroda/2020/213",
+   "short": "HCL Ghiroda nr. 213/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 213/2020 privind acordarea de burse sociale elevilor de la Scoala Gimnaziala Ghiroda si Scoala primara Giarmata-Vii pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13290",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-214-2020",
+   "path": "local/timis/ghiroda/2020/214",
+   "short": "HCL Ghiroda nr. 214/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 214/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13291",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-215-2020",
+   "path": "local/timis/ghiroda/2020/215",
+   "short": "HCL Ghiroda nr. 215/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 215/2020 privind aprobarea contului de executie pe trimestrul III anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13292",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-216-2020",
+   "path": "local/timis/ghiroda/2020/216",
+   "short": "HCL Ghiroda nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 216/2020 pentru aprobarea impozitelor si taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13293",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-217-2020",
+   "path": "local/timis/ghiroda/2020/217",
+   "short": "HCL Ghiroda nr. 217/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 217/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020 - Rectificarea nr. 11",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13294",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-218-2020",
+   "path": "local/timis/ghiroda/2020/218",
+   "short": "HCL Ghiroda nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 218/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13295",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-219-2020",
+   "path": "local/timis/ghiroda/2020/219",
+   "short": "HCL Ghiroda nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 219/2020 privind aprobarea condițiilor de acces la infrastructură fizică (canalizația subterană) destinată instalării de rețele de comunicații electronice în comuna Ghiroda, județul Timiș",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13296",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-22-2020",
+   "path": "local/timis/ghiroda/2020/22",
+   "short": "HCL Ghiroda nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 22/2020 privind proiectul de retea scolara in comuna Ghiroda pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2253",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-220-2020",
+   "path": "local/timis/ghiroda/2020/220",
+   "short": "HCL Ghiroda nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 220/2020 privind acceptarea trecerii imobilului sector de drum din DJ 609D cu lungimea de 1,249 km, cuprins între sens giratoriu DN6 și sens giratoriu DNCT, înscris în CF nr.410116, 410118, din domeniul public al Județului Timiș, în domeniul public al Comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13297",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-221-2020",
+   "path": "local/timis/ghiroda/2020/221",
+   "short": "HCL Ghiroda nr. 221/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 221/2020 privind aprobarea Regulamentului local privind organizarea și desfășurarea activităților operatorilor economici în comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13298",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-222-2020",
+   "path": "local/timis/ghiroda/2020/222",
+   "short": "HCL Ghiroda nr. 222/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 222/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/13299",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/13299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-23-2020",
+   "path": "local/timis/ghiroda/2020/23",
+   "short": "HCL Ghiroda nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 23/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2254",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-26-2020",
+   "path": "local/timis/ghiroda/2020/26",
+   "short": "HCL Ghiroda nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 26/2020 privind aprobarea atribuirii contractului de prestari servicii pentru activitatea privind salubrizarea stradala pe raza UAT GHIRODA catre SOCIETATEA DE ADMINISTRARE A DOMENIULUI PUBLIC GHIRODA SA, in temeiul art 31 din Legea nr 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2257",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-27-2020",
+   "path": "local/timis/ghiroda/2020/27",
+   "short": "HCL Ghiroda nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 27/2020 privind aprobarea atribuirii contractului de prestari servicii pentru activitatile privind curatenia si intretinerea institutiilor publice din comuna Ghiroda, catre SOCIETATEA DE ADMINISTRARE A DOMENIULUI PUBLIC GHIRODA SA, in temeiul art 31 din Legea nr 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2258",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-28-2020",
+   "path": "local/timis/ghiroda/2020/28",
+   "short": "HCL Ghiroda nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 28/2020 privind achitarea sumei de 1040 lei din bugetul local conform Deciziei civile nr 1712/A/2019 in dosarul nr 30037/325/2018",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2259",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-3-2020",
+   "path": "local/timis/ghiroda/2020/3",
+   "short": "HCL Ghiroda nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 3/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2234",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-30-2020",
+   "path": "local/timis/ghiroda/2020/30",
+   "short": "HCL Ghiroda nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 30/2020 privind aprobarea Bugetului Local al comunei Ghiroda pe anul 2020 si estimari 2021-2023 pentru Primaria Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2262",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-31-2020",
+   "path": "local/timis/ghiroda/2020/31",
+   "short": "HCL Ghiroda nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 31/2020 privind desfasurarea Programului „Scoala dupa scoala” la Scoala Gimnaziala Ghiroda si Scoala Primara Giarmata-Vii, comuna Ghiroda pentru anul scolar 2019-2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2261",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-32-2020",
+   "path": "local/timis/ghiroda/2020/32",
+   "short": "HCL Ghiroda nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 32/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2263",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-33-2020",
+   "path": "local/timis/ghiroda/2020/33",
+   "short": "HCL Ghiroda nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 33/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2264",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-34-2020",
+   "path": "local/timis/ghiroda/2020/34",
+   "short": "HCL Ghiroda nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 34/2020 privind aprobarea încheierii unui contract de prestări servicii de coregrafie pentru anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2265",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-35-2020",
+   "path": "local/timis/ghiroda/2020/35",
+   "short": "HCL Ghiroda nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 35/2020 privind ÎNFIINȚAREA CERCULUI DE CHITARĂ DIN GHIRODA",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2266",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-36-2020",
+   "path": "local/timis/ghiroda/2020/36",
+   "short": "HCL Ghiroda nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 36/2020 privind Aprobarea Agendei Culturale Comuna Ghiroda pentru anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2267",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-38-2020",
+   "path": "local/timis/ghiroda/2020/38",
+   "short": "HCL Ghiroda nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 38/2020 privind aprobarea Programului anual propriu pentru acordarea de finanţări nerambursabile de la bugetul local al Comunei Ghiroda pentru activităţi nonprofit (domeniile cultură şi culte ) pe anul 2020,",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2270",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-39-2020",
+   "path": "local/timis/ghiroda/2020/39",
+   "short": "HCL Ghiroda nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 39/2020 privind acordarea de burse de merit elevilor de la SCOALA GIMNAZIALA GHIRODA pentru anul scolar 2019-2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2269",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-40-2020",
+   "path": "local/timis/ghiroda/2020/40",
+   "short": "HCL Ghiroda nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 40/2020 privind aprobarea atribuirii contractului de prestari servicii pentru activitatile privind repararea si intretinerea obiectelor sanitare si instalatiilor electrice din institutiile publice din comuna Ghiroda, catre Societatea de Administrare a Domeniului Public Ghiroda SA, in temeiul art. 31 din Legea nr. 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2271",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-41-2020",
+   "path": "local/timis/ghiroda/2020/41",
+   "short": "HCL Ghiroda nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 41/2020 privind insusirea rapoartelor de reevaluare a bunurilor apartinand patrimoniului public si privat al UAT Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2272",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-42-2020",
+   "path": "local/timis/ghiroda/2020/42",
+   "short": "HCL Ghiroda nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 42/2020 privind trecerea in domeniul public al comunei Ghiroda a imobilelor inventariate in domeniul privat din comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2273",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-43-2020",
+   "path": "local/timis/ghiroda/2020/43",
+   "short": "HCL Ghiroda nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 43/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2274",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-44-2020",
+   "path": "local/timis/ghiroda/2020/44",
+   "short": "HCL Ghiroda nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 44/2020 privind aprobarea regulamentului privind regimul finantarilor nerambursabile din Fondurile Comunei Ghiroda pentru activitati nonprofit de interes local(domeniul Cultura si Culte) in anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2275",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-45-2020",
+   "path": "local/timis/ghiroda/2020/45",
+   "short": "HCL Ghiroda nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 45/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului Local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2276",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-46-2020",
+   "path": "local/timis/ghiroda/2020/46",
+   "short": "HCL Ghiroda nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 46/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr. 1",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2277",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-47-2020",
+   "path": "local/timis/ghiroda/2020/47",
+   "short": "HCL Ghiroda nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 47/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2280",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-48-2020",
+   "path": "local/timis/ghiroda/2020/48",
+   "short": "HCL Ghiroda nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 48/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr. 2",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2278",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-49-2020",
+   "path": "local/timis/ghiroda/2020/49",
+   "short": "HCL Ghiroda nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 49/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2279",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-50-2020",
+   "path": "local/timis/ghiroda/2020/50",
+   "short": "HCL Ghiroda nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 50/2020 privind trecerea in domeniul public al comunei Ghiroda a imobilelor inventariate in domeniul privat din comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2281",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-51-2020",
+   "path": "local/timis/ghiroda/2020/51",
+   "short": "HCL Ghiroda nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 51/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2282",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-52-2020",
+   "path": "local/timis/ghiroda/2020/52",
+   "short": "HCL Ghiroda nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 52/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2283",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-53-2020",
+   "path": "local/timis/ghiroda/2020/53",
+   "short": "HCL Ghiroda nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 53/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2285",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-54-2020",
+   "path": "local/timis/ghiroda/2020/54",
+   "short": "HCL Ghiroda nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 54/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2284",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-55-2020",
+   "path": "local/timis/ghiroda/2020/55",
+   "short": "HCL Ghiroda nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 55/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2286",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-56-2020",
+   "path": "local/timis/ghiroda/2020/56",
+   "short": "HCL Ghiroda nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 56/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2287",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-57-2020",
+   "path": "local/timis/ghiroda/2020/57",
+   "short": "HCL Ghiroda nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 57/2020 privind atribuirea numelui: strada Vulturilor, unei strazi fara nume in localitatea Ghiroda, comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2288",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-58-2020",
+   "path": "local/timis/ghiroda/2020/58",
+   "short": "HCL Ghiroda nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 58/2020 privind aprobarea Planului Urbanistic Zonal (PUZ) Dezvoltare zonă rezidențială cu funcțiuni complementare, dotări și servicii publice,extravilan comuna Ghiroda, pe terenurile înscrise în CF 401376, 405037, 406140, 408178, 406628, 405036 Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2306",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-60-2020",
+   "path": "local/timis/ghiroda/2020/60",
+   "short": "HCL Ghiroda nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 60/2020 privind actualizare date si diminuare suprafata de la 284 mp la 258 mp, pentru imobilul inscris in CF 403436 Ghiroda, intravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2290",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-61-2020",
+   "path": "local/timis/ghiroda/2020/61",
+   "short": "HCL Ghiroda nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 61/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2291",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-63-2020",
+   "path": "local/timis/ghiroda/2020/63",
+   "short": "HCL Ghiroda nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 63/2020 privind includerea de noi mijloace fixe in Anexa V (bunuri proprietate publica ) a Contractului de Delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2293",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-64-2020",
+   "path": "local/timis/ghiroda/2020/64",
+   "short": "HCL Ghiroda nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 64/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2294",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-65-2020",
+   "path": "local/timis/ghiroda/2020/65",
+   "short": "HCL Ghiroda nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 65/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2295",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-66-2020",
+   "path": "local/timis/ghiroda/2020/66",
+   "short": "HCL Ghiroda nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 66/2020 privind aprobarea documentatiei de întabulare a imobilului DE 192/20/1, teren extravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2296",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-67-2020",
+   "path": "local/timis/ghiroda/2020/67",
+   "short": "HCL Ghiroda nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 67/2020 privind aprobarea documentatiei de întabulare a imobilului DE 192/20/2, teren extravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2297",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-68-2020",
+   "path": "local/timis/ghiroda/2020/68",
+   "short": "HCL Ghiroda nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 68/2020 privind aprobarea documentatiei de întabulare a imobilului DE 213/4/2, teren extravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2298",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-69-2020",
+   "path": "local/timis/ghiroda/2020/69",
+   "short": "HCL Ghiroda nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 69/2020 privind aprobarea documentatiei de întabulare a imobilului DE 177/2, teren extravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2299",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-70-2020",
+   "path": "local/timis/ghiroda/2020/70",
+   "short": "HCL Ghiroda nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 70/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2300",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-71-2020",
+   "path": "local/timis/ghiroda/2020/71",
+   "short": "HCL Ghiroda nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 71/2020 privind achizitionarea unor servicii juridice constand in consultanta juridica de specialitate, asistenta juridica si reprezentare in fata instantelor de judecata a intereselor Comunei Ghiroda, Primariei Ghiroda, Consiliului local Ghiroda si Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2301",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-72-2020",
+   "path": "local/timis/ghiroda/2020/72",
+   "short": "HCL Ghiroda nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 72/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2302",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-73-2020",
+   "path": "local/timis/ghiroda/2020/73",
+   "short": "HCL Ghiroda nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 73/2020 privind aprobarea anularii procedurii de finantari nerambursabile in baza Legii 350/2005 privind regimul finantarilor nerambursabile din fonduri publice, alocate pentru activitati nonprofit de interes general pe anul 2020, prima sesiune de selectie",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2303",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-76-2020",
+   "path": "local/timis/ghiroda/2020/76",
+   "short": "HCL Ghiroda nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 76/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr.3",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2309",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-77-2020",
+   "path": "local/timis/ghiroda/2020/77",
+   "short": "HCL Ghiroda nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 77/2020 privind PH privind aprobarea achiziţionării unui sistem de tunel de decontaminare şi transmiterea acestuia în folosinţă gratuită Serviciului de Ambulanţă Judeţean Timiş",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2310",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-78-2020",
+   "path": "local/timis/ghiroda/2020/78",
+   "short": "HCL Ghiroda nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 78/2020 privind declansarea procedurii de expropiere a imobilelor situate pe amplasamentul lucrarii de utilitate publica de interes local „Largire strada Vanatorilor, UAT Ghiroda, jud Timis”",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2312",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-79-2020",
+   "path": "local/timis/ghiroda/2020/79",
+   "short": "HCL Ghiroda nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 79/2020 privind aprobarea atribuirii contractului de prestari servicii pentru activitatea privind amenajarea/intretinerea spatiilor verzi pe raza UAT Ghiroda, catre Societatea de Administrare a domeniului public Ghiroda SA, in temeiul art. 31 din Legea nr. 98/2016 privind achizitiile publice",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2311",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-81-2020",
+   "path": "local/timis/ghiroda/2020/81",
+   "short": "HCL Ghiroda nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 81/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2316",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-83-2020",
+   "path": "local/timis/ghiroda/2020/83",
+   "short": "HCL Ghiroda nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 83/2020 privind modificarea HCL nr. 1/ 23.06.2016 privind alegerea COMISIEI DE VALIDARE A CONSILIULUI LOCAL AL COMUNEI GHIRODA",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2327",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-85-2020",
+   "path": "local/timis/ghiroda/2020/85",
+   "short": "HCL Ghiroda nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 85/2020 privind aprobarea documentatiei de intabulare a imobilului DE 194, teren extravilan comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2330",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-86-2020",
+   "path": "local/timis/ghiroda/2020/86",
+   "short": "HCL Ghiroda nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 86/2020 privind modificarea și completarea ANEXEI nr. V - „lista bunurilor proprietate publică transmise spre folosința operatorului” la contractul de delegare de gestiune a serviciilor publice de alimentare cu apă și canalizare nr. 932/19.01.2010",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2331",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-87-2020",
+   "path": "local/timis/ghiroda/2020/87",
+   "short": "HCL Ghiroda nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 87/2020 privind indexarea impozitelor și taxelor locale care constau într-o anumită sumă în lei care sunt stabilite pe baza unei anumte sume în lei, pe baza ratei inflației, aplicabile în anul fiscal 2021",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2332",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-89-2020",
+   "path": "local/timis/ghiroda/2020/89",
+   "short": "HCL Ghiroda nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 89/2020 privind aprobarea contractării unei finanțări rambursabile interne/externe în valoare de maxim 60.000.000 lei",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2334",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-9-2020",
+   "path": "local/timis/ghiroda/2020/9",
+   "short": "HCL Ghiroda nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 9/2020 privind aprobarea indicatorilor tehnico-economici din PT nr. 113/2018 pentru obiectivul de investitii “Reabilitare si modernizare strazi/drumuri in comuna Ghiroda, judetul Timis”-LOT VI",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2240",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-90-2020",
+   "path": "local/timis/ghiroda/2020/90",
+   "short": "HCL Ghiroda nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 90/2020 privind achiziționarea unui număr de 150 de tablete pentru elevii unităților de învătământ de pe raza comunei Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2335",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-91-2020",
+   "path": "local/timis/ghiroda/2020/91",
+   "short": "HCL Ghiroda nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 91/2020 privind aprobarea contului de execuție pe trimestrul I anul 2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2336",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-93-2020",
+   "path": "local/timis/ghiroda/2020/93",
+   "short": "HCL Ghiroda nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 93/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020- Rectificarea nr. 4",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2338",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-95-2020",
+   "path": "local/timis/ghiroda/2020/95",
+   "short": "HCL Ghiroda nr. 95/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 95/2020 privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Comunei Ghiroda, Primăriei Ghiroda, Consiliului Local Ghiroda și Comisiei Locale de Fond Funciar Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/2340",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/2340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-96-2020",
+   "path": "local/timis/ghiroda/2020/96",
+   "short": "HCL Ghiroda nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 96/2020",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4052",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-97-2020",
+   "path": "local/timis/ghiroda/2020/97",
+   "short": "HCL Ghiroda nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 97/2020 privind modificarea H.C.L nr. 70/17.04.2019 privind constatarea apartenentei la domeniul public al comunei Ghiroda a terenului inscris in CF nr. 409870 Ghiroda, teren in intravilan extins localitatea Giarmata- Vii, comuna Ghiroda",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4053",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-98-2020",
+   "path": "local/timis/ghiroda/2020/98",
+   "short": "HCL Ghiroda nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 98/2020 privind aprobarea profilului consiliului de administratie, profilului candidatilor si matricea consiliului de administratie al Societatii de Administrare a Domeniului Public Ghiroda S.A",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4054",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--ghiroda-99-2020",
+   "path": "local/timis/ghiroda/2020/99",
+   "short": "HCL Ghiroda nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ghiroda nr. 99/2020 privind rectificarea bugetului local al Comunei Ghiroda pe anul 2020 - Rectificarea nr. 5",
+   "url": "https://emol.ro/ghiroda-tm/registru-hcl/4055",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ghiroda-tm/registru-hcl/4055",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

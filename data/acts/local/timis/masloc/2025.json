@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/timis/masloc/2025",
+"acts": [
+{
+"slug": "hcl-timis--masloc-3-2025",
+"path": "local/timis/masloc/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 3/2025 privind includerea de noi mijloace fixe in Anexa V(Lista bunurilor proprietate publică) a Contractului de Delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare",
+"short": "HCL Mașloc nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203207",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-4-2025",
+"path": "local/timis/masloc/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 4/2025 privind actualizarea comisiilor de specialitate pe principalele domenii de activitate",
+"short": "HCL Mașloc nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203222",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-5-2025",
+"path": "local/timis/masloc/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 5/2025 privind adoptarea bugetului local pe anul 2025",
+"short": "HCL Mașloc nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203223",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-6-2025",
+"path": "local/timis/masloc/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 6/2025 privind aprobarea devizului general actualizat al obiectivului de investiții „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna Masloc, judetul Timis - (cod serviciu social 8891CZ-C-II)”",
+"short": "HCL Mașloc nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203224",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-8-2025",
+"path": "local/timis/masloc/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 8/2025 privind prioritatea alocării resurselor de materiale lemnoase din pădurea proprietate publică a Comunei Mașloc, necesare încălzirii locuințelor",
+"short": "HCL Mașloc nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203226",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-9-2025",
+"path": "local/timis/masloc/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 9/2025 privind aprobarea devizului general actualizat al obiectivului de investiții „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna Masloc, judetul Timis - (cod serviciu social 8891CZ-C-II)”",
+"short": "HCL Mașloc nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203227",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-10-2025",
+"path": "local/timis/masloc/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 10/2025 privind reabilitarea locurilor de joacă din comuna Mașloc",
+"short": "HCL Mașloc nr. 10/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203228",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-11-2025",
+"path": "local/timis/masloc/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 11/2025 privind unele măsuri de întreținere a spațiilor verzi din comuna Mașloc",
+"short": "HCL Mașloc nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203229",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-12-2025",
+"path": "local/timis/masloc/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 12/2025 privind aprobarea documentației de atribuire pentru prestarea serviciilor de sortare a deșeurilor reciclabile și tratare mecanică a deșeurilor reziduale desfășurată în obiectivul Stație de Sortare Deșeuri Municipale Timișoara prin procedura de achiziție publică de negociere fără publicare prealabilă a unui anunț de participare pentru prestarea activităților de sortare a deșeurilor reciclabile și tratare mecanică a deșeurilor reziduale desfășurată în obiectivul Stație de Sortare Deșeuri Municipale Timișoara, provenită din localitățile arondate la Zona 1 Timișoara, asociați în ADID Timiș",
+"short": "HCL Mașloc nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203230",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--masloc-13-2025",
+"path": "local/timis/masloc/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 13/2025 privind aprobarea achiziționării de containere pentru colectarea materialelor textile uzate",
+"short": "HCL Mașloc nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/masloc-tm/registru-hcl/203231",
+"council": "timis/masloc",
+"council_name": "Consiliul Local al Comunei Mașloc",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

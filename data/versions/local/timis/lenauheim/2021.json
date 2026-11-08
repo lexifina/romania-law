@@ -1,0 +1,1101 @@
+{
+ "country": "RO",
+ "shard": "local/timis/lenauheim/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--lenauheim-1-2021",
+   "path": "local/timis/lenauheim/2021/1",
+   "short": "HCL Lenauheim nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 1/2021 privind aprobarea definitiva a deficitului sectiunii de dezvoltare, sursa A , pe anul 2020 din excedentul total al bugetului local al comunei Lenauheim , judeţul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21531",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-10-2021",
+   "path": "local/timis/lenauheim/2021/10",
+   "short": "HCL Lenauheim nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 10/2021 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții ”Reabilitarea si echiparea Grădiniței cu program normal localitatea Lenauheim , comuna Lenauheim , județul Timiş „",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21540",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-11-2021",
+   "path": "local/timis/lenauheim/2021/11",
+   "short": "HCL Lenauheim nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 11/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Grădiniței cu program normal localitatea Lenauheim, comuna Lenauheim , județul Timiş „",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21541",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-12-2021",
+   "path": "local/timis/lenauheim/2021/12",
+   "short": "HCL Lenauheim nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 12/2021 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții ”Reabilitarea si echiparea Grădiniței cu program normal localitatea Grabaț , comuna Lenauheim , județul Timiş„",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21542",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-13-2021",
+   "path": "local/timis/lenauheim/2021/13",
+   "short": "HCL Lenauheim nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 13/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Grădiniței cu program normal localitatea Grabaț , comuna Lenauheim , județul Timiş„",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21543",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-14-2021",
+   "path": "local/timis/lenauheim/2021/14",
+   "short": "HCL Lenauheim nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 14/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21544",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-16-2021",
+   "path": "local/timis/lenauheim/2021/16",
+   "short": "HCL Lenauheim nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 16/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21546",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-17-2021",
+   "path": "local/timis/lenauheim/2021/17",
+   "short": "HCL Lenauheim nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 17/2021 privind stabilirea: preţ apă potabilă. Stabilirea procentului de pierderi tehnologice de apa. Aprobare program de reparatii în regie propie a operatorului, Serviciul Public de Gospodarie Comunala Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21547",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-18-2021",
+   "path": "local/timis/lenauheim/2021/18",
+   "short": "HCL Lenauheim nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 18/2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr.116/24.04.2018 de la FNGCIMM SA IFN in valoare de 850.000,00 lei, in vederea garantarii obligatiilor de plata a avansului de 850.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Modernizare si dotare Camin Cultural localitatea Grabat , comuna Lenauheim , judetul Timis ”, in baza contractului de finantare nerambursabila nr. C0760CN00021753700032/20.04.2018 si actele aditionale ulterioare in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21548",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-19-2021",
+   "path": "local/timis/lenauheim/2021/19",
+   "short": "HCL Lenauheim nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 19/2021 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ dintre membrii Consiliului Local al comunei Lenauheim pentru perioada martie-aprilie – mai 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22571",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-2-2021",
+   "path": "local/timis/lenauheim/2021/2",
+   "short": "HCL Lenauheim nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 2/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21532",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-20-2021",
+   "path": "local/timis/lenauheim/2021/20",
+   "short": "HCL Lenauheim nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 20/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22572",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-22-2021",
+   "path": "local/timis/lenauheim/2021/22",
+   "short": "HCL Lenauheim nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 22/2021 privind aprobarea execuţiei bugetare a bugetului local pe anul 2020 a comunei Lenauheim,judeţul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22574",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-23-2021",
+   "path": "local/timis/lenauheim/2021/23",
+   "short": "HCL Lenauheim nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 23/2021 privind aprobarea execuţiei bugetare a bugetului de venituri proprii pe anul 2020 a comunei Lenauheim,judeţul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22575",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-25-2021",
+   "path": "local/timis/lenauheim/2021/25",
+   "short": "HCL Lenauheim nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 25/2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr.300/28.06.2018 de la FNGCIMM SA IFN in valoare de 870.000,00 lei, in vederea garantarii obligatiilor de plata a avansului de 870.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Modernizare si dotare Camin Cultural localitatea Bulgarus , comuna Lenauheim , judetul Timis ”, in baza contractului de finantare nerambursabila nr. C0760CN00031753700052/25.06.2018 -cod contract PNDR 2014-2020 cu modificarile si completarile ulterioare si a actele aditionale ulterioare in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22577",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-26-2021",
+   "path": "local/timis/lenauheim/2021/26",
+   "short": "HCL Lenauheim nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 26/2021 privind aprobarea agendei cultural-artistice şi sportive a comunei Lenauheim pentru anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22578",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-27-2021",
+   "path": "local/timis/lenauheim/2021/27",
+   "short": "HCL Lenauheim nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 27/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22579",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-28-2021",
+   "path": "local/timis/lenauheim/2021/28",
+   "short": "HCL Lenauheim nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 28/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/22580",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/22580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-29-2021",
+   "path": "local/timis/lenauheim/2021/29",
+   "short": "HCL Lenauheim nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 29/2021 privind aprobarea bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23684",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-3-2021",
+   "path": "local/timis/lenauheim/2021/3",
+   "short": "HCL Lenauheim nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 3/2021 privind aprobarea numărului de asistenţi personali a persoanelor cu handicap încadraţi la Primăria comunei Lenauheim pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21533",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-30-2021",
+   "path": "local/timis/lenauheim/2021/30",
+   "short": "HCL Lenauheim nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 30/2021 privind aprobarea bugetului pentru activităţile finanţate integral din venituri proprii pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23685",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-31-2021",
+   "path": "local/timis/lenauheim/2021/31",
+   "short": "HCL Lenauheim nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 31/2021 privind aprobarea prelungirii acordului de parteneriat şi a bugetului pentru finanţarea activităţii Centrului de zi pentru copii cu dizabilităţi din localitatea Lenauheim , nr.228, Judeţul Timiş prin Fundaţia Mâini Tămăduitoare din Timişoara",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23686",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-32-2021",
+   "path": "local/timis/lenauheim/2021/32",
+   "short": "HCL Lenauheim nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 32/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23687",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-33-2021",
+   "path": "local/timis/lenauheim/2021/33",
+   "short": "HCL Lenauheim nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 33/2021 privind aprobarea Bugetului de Venituri şi Cheltuieli al Serviciului public de Gospodarie comunala Lenauheim , județul Timis pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23688",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-34-2021",
+   "path": "local/timis/lenauheim/2021/34",
+   "short": "HCL Lenauheim nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 34/2021 privind inventarierea terenurilor din domeniul privat al comunei Lenauheim in conformitate cu prevederile Legii nr.15/2003 - privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23689",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-35-2021",
+   "path": "local/timis/lenauheim/2021/35",
+   "short": "HCL Lenauheim nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 35/2021 privind aprobarea preţului pentru serviciul de alimentare cu apa in comuna Lenauheim , ce vor fi incasate de SERVICIUL PUBLIC DE GOSPODARIE COMUNALA LENAUHEIM",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/23690",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/23690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-36-2021",
+   "path": "local/timis/lenauheim/2021/36",
+   "short": "HCL Lenauheim nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 36/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Gradinitei cu program normal localitatea Lenauheim , comuna Lenauheim , judetul Timis „",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/24588",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/24588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-37-2021",
+   "path": "local/timis/lenauheim/2021/37",
+   "short": "HCL Lenauheim nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 37/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Gradinitei cu program normal localitatea Grabat , comuna Lenauheim , judetul Timis „",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/24589",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/24589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-38-2021",
+   "path": "local/timis/lenauheim/2021/38",
+   "short": "HCL Lenauheim nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 38/2021 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ dintre membrii Consiliului Local al comunei Lenauheim pentru perioada IUNIE-IULIE -AUGUST 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/26430",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/26430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-39-2021",
+   "path": "local/timis/lenauheim/2021/39",
+   "short": "HCL Lenauheim nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 39/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/26431",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/26431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-4-2021",
+   "path": "local/timis/lenauheim/2021/4",
+   "short": "HCL Lenauheim nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 4/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21534",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-41-2021",
+   "path": "local/timis/lenauheim/2021/41",
+   "short": "HCL Lenauheim nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 41/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/26433",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/26433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-42-2021",
+   "path": "local/timis/lenauheim/2021/42",
+   "short": "HCL Lenauheim nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 42/2021 privind aprobarea solicitarii prelungirii Scrisorii de garantie nr.489/29.08.2017 de la FNGCIMM SA IFN in valoare de 907.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 907.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Înfiinţare grădiniţă cu program prelungit Bulgăruş”, in baza contractului de finantare nerambursabila nr. C0720EN00011753700608/16.08.2017 incheiat cu Agentia pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/29556",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/29556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-43-2021",
+   "path": "local/timis/lenauheim/2021/43",
+   "short": "HCL Lenauheim nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 43/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/32630",
+   "versions": [
+    {
+     "from": "2021-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/32630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-45-2021",
+   "path": "local/timis/lenauheim/2021/45",
+   "short": "HCL Lenauheim nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 45/2021 privind aprobarea modificărilor și completărilor la actele constitutive ale ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DEȘEURI TIMIȘ",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/32632",
+   "versions": [
+    {
+     "from": "2021-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/32632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-46-2021",
+   "path": "local/timis/lenauheim/2021/46",
+   "short": "HCL Lenauheim nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 46/2021 privind aprobarea modalității de gestiune si dare in administrare a unor activități din cadrul Serviciului public de salubrizare a Comuna Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/32633",
+   "versions": [
+    {
+     "from": "2021-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/32633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-47-2021",
+   "path": "local/timis/lenauheim/2021/47",
+   "short": "HCL Lenauheim nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 47/2021 privind aprobarea tarifelor pentru Serviciul public gospodarie comunala din Comuna Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/32634",
+   "versions": [
+    {
+     "from": "2021-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/32634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-48-2021",
+   "path": "local/timis/lenauheim/2021/48",
+   "short": "HCL Lenauheim nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 48/2021 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ dintre membrii Consiliului Local al comunei Lenauheim pentru perioada SEPTEMBRIE-OCTOMBRIE-NOIEMBRIE 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36050",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-49-2021",
+   "path": "local/timis/lenauheim/2021/49",
+   "short": "HCL Lenauheim nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 49/2021 privind insusirea continutului Dispozitiei nr.105/04.08.2021 - privind aprobarea rectificării bugetului local al comunei Lenauheim,judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36051",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-5-2021",
+   "path": "local/timis/lenauheim/2021/5",
+   "short": "HCL Lenauheim nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 5/2021 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru anul 2021 , acțiuni sau lucrări stabilite în conformitate cu art.6 alin.7 din Legea nr.416/2001 , in comuna Lenauheim , județul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21535",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-50-2021",
+   "path": "local/timis/lenauheim/2021/50",
+   "short": "HCL Lenauheim nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 50/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36052",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-51-2021",
+   "path": "local/timis/lenauheim/2021/51",
+   "short": "HCL Lenauheim nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 51/2021 privind Înființarea Serviciului de Iluminat Public, Comuna Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36053",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-52-2021",
+   "path": "local/timis/lenauheim/2021/52",
+   "short": "HCL Lenauheim nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 52/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Gradinitei cu program normal localitatea Lenauheim , comuna Lenauheim , judetul Timis”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36054",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-53-2021",
+   "path": "local/timis/lenauheim/2021/53",
+   "short": "HCL Lenauheim nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 53/2021 privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții ”Reabilitarea si echiparea Gradinitei cu program normal localitatea Grabat , comuna Lenauheim , judetul Timis „",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/36055",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/36055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-55-2021",
+   "path": "local/timis/lenauheim/2021/55",
+   "short": "HCL Lenauheim nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 55/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/39815",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/39815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-56-2021",
+   "path": "local/timis/lenauheim/2021/56",
+   "short": "HCL Lenauheim nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 56/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51737",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-57-2021",
+   "path": "local/timis/lenauheim/2021/57",
+   "short": "HCL Lenauheim nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 57/2021 privind darea in administrarea a Serviciului de iluminat public din Comuna Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51738",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-58-2021",
+   "path": "local/timis/lenauheim/2021/58",
+   "short": "HCL Lenauheim nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 58/2021 privind aprobarea tarifelor aferente Serviciului de Iluminat public din Comuna Lenauheim",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51739",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-59-2021",
+   "path": "local/timis/lenauheim/2021/59",
+   "short": "HCL Lenauheim nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 59/2021 privind aprobarea indicatorilor tehnico-economici si a cofinanțarii de la bugetul de stat si local in baza OUG 15/2021 al obiectivului de investiție “REALIZARE SISTEM DE CANALIZARE ȘI STAŢII DE EPURARE ÎN LOCALITATILE LENAUHEIM, GRABAT SI BULGARUS, COMUNA LENAUHEIM, JUD TIMIS”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51740",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-6-2021",
+   "path": "local/timis/lenauheim/2021/6",
+   "short": "HCL Lenauheim nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 6/2021 privind aprobarea Strategiei anuale de achiziții publice a Comunei Lenauheim pe anul 2021 si a Programului Anual al Achizițiilor Publice al Comunei Lenauheim pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21536",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-60-2021",
+   "path": "local/timis/lenauheim/2021/60",
+   "short": "HCL Lenauheim nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 60/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51741",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-61-2021",
+   "path": "local/timis/lenauheim/2021/61",
+   "short": "HCL Lenauheim nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 61/2021 privind aprobarea : Studiului de oportunitate pentru delegarea de gestiune prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 2 – Jimbolia din județul Timiş, a Indicatorilor de performanță şi a Documentației de atribuire pentru delegarea gestiunii prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 2 – Jimbolia din județul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51742",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-63-2021",
+   "path": "local/timis/lenauheim/2021/63",
+   "short": "HCL Lenauheim nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 63/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei a proiectului privind obiectivul “MODERNIZARE STRAZI IN COMUNA LENAUHEIM , JUDETUL TIMIS ”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51744",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-64-2021",
+   "path": "local/timis/lenauheim/2021/64",
+   "short": "HCL Lenauheim nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 64/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51745",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-65-2021",
+   "path": "local/timis/lenauheim/2021/65",
+   "short": "HCL Lenauheim nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 65/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51746",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-66-2021",
+   "path": "local/timis/lenauheim/2021/66",
+   "short": "HCL Lenauheim nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 66/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51750",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-67-2021",
+   "path": "local/timis/lenauheim/2021/67",
+   "short": "HCL Lenauheim nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 67/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii Lucrarilor Publice si Administratiei a proiectului privind obiectivul: “EXTINDERE SISTEME DE CANALIZARE IN COMUNA LENAUHEIM , JUDETUL TIMIS ”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51751",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-68-2021",
+   "path": "local/timis/lenauheim/2021/68",
+   "short": "HCL Lenauheim nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 68/2021 privind aprobarea actualizarii indicatorilor tehnico-economici si a cofinanțarii de la bugetul de stat si local al obiectivului de investiție ” REABILITARE, MODERNIZARE ȘI DOTARE DISPENSAR MEDICAL DIN LOCALITATEA LENAUHEIM, COMUNA LENAUHEIM, JUDETUL TIMIS’’",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51773",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-69-2021",
+   "path": "local/timis/lenauheim/2021/69",
+   "short": "HCL Lenauheim nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 69/2021 privind aprobarea Proiectului de hotarare privind Reteaua scolara a unităţilor de învăţământ preuniversitar de stat din comuna Lenauheim , județul Timiș , pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51774",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-7-2021",
+   "path": "local/timis/lenauheim/2021/7",
+   "short": "HCL Lenauheim nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 7/2021 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Lenauheim , județul Timiș , pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21537",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-70-2021",
+   "path": "local/timis/lenauheim/2021/70",
+   "short": "HCL Lenauheim nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 70/2021 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ dintre membrii Consiliului Local al comunei Lenauheim pentru perioada DECEMBRIE 2021 si IANUARIE si FEBRUARIE 2022",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51826",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-71-2021",
+   "path": "local/timis/lenauheim/2021/71",
+   "short": "HCL Lenauheim nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 71/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51827",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-72-2021",
+   "path": "local/timis/lenauheim/2021/72",
+   "short": "HCL Lenauheim nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 72/2021 privind aprobarea Regulamentului de organizare și funcționare a serviciului public de salubrizare din județul Timiș",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51828",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-73-2021",
+   "path": "local/timis/lenauheim/2021/73",
+   "short": "HCL Lenauheim nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 73/2021 privind aprobarea agendei cultural-artistice şi sportive a comunei Lenauheim pentru anul 2022",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51829",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-74-2021",
+   "path": "local/timis/lenauheim/2021/74",
+   "short": "HCL Lenauheim nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 74/2021 privind aprobarea completarii si modificarii prevederilor Hotararii nr.79/23.12.2020 - privind înfiintarea Serviciului public de Gospodarie comunala Lenauheim , județul Timis",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51830",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-75-2021",
+   "path": "local/timis/lenauheim/2021/75",
+   "short": "HCL Lenauheim nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 75/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51831",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-76-2021",
+   "path": "local/timis/lenauheim/2021/76",
+   "short": "HCL Lenauheim nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 76/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51832",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-77-2021",
+   "path": "local/timis/lenauheim/2021/77",
+   "short": "HCL Lenauheim nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 77/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51833",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-78-2021",
+   "path": "local/timis/lenauheim/2021/78",
+   "short": "HCL Lenauheim nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 78/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51834",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-79-2021",
+   "path": "local/timis/lenauheim/2021/79",
+   "short": "HCL Lenauheim nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 79/2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51835",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-8-2021",
+   "path": "local/timis/lenauheim/2021/8",
+   "short": "HCL Lenauheim nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 8/2021 privind aprobarea indicatorilor tehnico-economici, actualizați pentru Proiectul “REALIZARE SISTEM DE CANALIZARE ȘI STAŢII DE EPURARE ÎN LOCALITATILE LENAUHEIM, GRABAT SI BULGARUS, COMUNA LENAUHEIM, JUD TIMIS",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21538",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-80-2021",
+   "path": "local/timis/lenauheim/2021/80",
+   "short": "HCL Lenauheim nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 80/2021 privind aprobarea rectificarii bugetului local al comunei Lenauheim , judeţul Timiş pe anul 2021",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/51842",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/51842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-9-2021",
+   "path": "local/timis/lenauheim/2021/9",
+   "short": "HCL Lenauheim nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 9/2021 privind Proiect de hotărâre privind aprobarea cofinanțării din bugetul local pentru obiectivul de investiții “REALIZARE SISTEM DE CANALIZARE ȘI STAŢII DE EPURARE ÎN LOCALITATILE LENAUHEIM, GRABAT SI BULGARUS, COMUNA LENAUHEIM, JUD TIMIS",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/21539",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/21539",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

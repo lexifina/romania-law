@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/timis/manastiur/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--manastiur-29-2025",
+   "path": "local/timis/manastiur/2025/29",
+   "short": "HCL Mănăștiur nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 29/2025 privind aprobarea PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR în domeniul situațiilor de urgență al comunei MĂNĂȘTIUR pentru anul 2025",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/211861",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/211861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-30-2025",
+   "path": "local/timis/manastiur/2025/30",
+   "short": "HCL Mănăștiur nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 30/2025 Privind solicitarea transferului cu titlu gratuit a unui microbuz electric achiziționat în cadrul proiectului \"Microbuze electrice pentru elevii din județul Timiș\", din domeniul public al Județului Timiș în domeniul public al Comunei Mănăștiur, în vederea utilizării acestuia pentru transportul școlar al elevilor",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/212729",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/212729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-34-2025",
+   "path": "local/timis/manastiur/2025/34",
+   "short": "HCL Mănăștiur nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 34/2025 Privind modificarea și completarea Hotărârii Consiliului Local Mănăștiur nr.55 din 27.11.2024 privind actualizarea metodologiei, cuantumul maxim si situatiile deosebite pentru care se acordă ajutoare de urgență din bugetul local, în baza Legii 196/2016 privind venitul minim de incluziune, cu modificãrile şi completãrile ulterioare",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/215476",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/215476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-35-2025",
+   "path": "local/timis/manastiur/2025/35",
+   "short": "HCL Mănăștiur nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 35/2025 privind stabilirea condițiilor de utilizare a spațiului Căminului Cultural din satul Remetea Luncă, în vederea desfășurării de activități socio-culturale și sportive",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/215477",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/215477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-58-2025",
+   "path": "local/timis/manastiur/2025/58",
+   "short": "HCL Mănăștiur nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 58/2025 privind transmiterea unor mijloace fixe si a terenurilor aferente acestora care fac parte din bunurile proprietate publica a comunei Mănăștiur către Aquatim SA",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/235721",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/235721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--manastiur-63-2025",
+   "path": "local/timis/manastiur/2025/63",
+   "short": "HCL Mănăștiur nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăștiur nr. 63/2025",
+   "url": "https://emol.ro/manastiur-tm/registru-hcl/240358",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/manastiur-tm/registru-hcl/240358",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

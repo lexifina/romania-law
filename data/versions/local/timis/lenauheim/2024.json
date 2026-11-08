@@ -1,0 +1,441 @@
+{
+ "country": "RO",
+ "shard": "local/timis/lenauheim/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--lenauheim-1-2024",
+   "path": "local/timis/lenauheim/2024/1",
+   "short": "HCL Lenauheim nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 1/2024 privind aprobarea definitiva a deficitului sectiunii de dezvoltare, sursa A , pe anul 2023 din excedentul total al bugetului local al comunei Lenauheim , judeţul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140412",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-10-2024",
+   "path": "local/timis/lenauheim/2024/10",
+   "short": "HCL Lenauheim nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 10/2024 privind aprobarea Bugetului de Venituri şi Cheltuieli al Serviciului public de Gospodarie comunala Lenauheim, județul Timiș pe anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148414",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-11-2024",
+   "path": "local/timis/lenauheim/2024/11",
+   "short": "HCL Lenauheim nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 11/2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148415",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-15-2024",
+   "path": "local/timis/lenauheim/2024/15",
+   "short": "HCL Lenauheim nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 15/2024 privind aprobarea prelungirii acordului de parteneriat şi a bugetului pentru finanţarea activităţii Centrului de zi pentru copii cu dizabilităţi din localitatea Lenauheim, nr.228, Judeţul Timiş prin Fundaţia Mâini Tămăduitoare din Timişoara",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148419",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-16-2024",
+   "path": "local/timis/lenauheim/2024/16",
+   "short": "HCL Lenauheim nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 16/2024 privind inventarierea terenurilor din domeniul privat al comunei Lenauheim in conformitate cu prevederile Legii nr.15/2003 - privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148420",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-2-2024",
+   "path": "local/timis/lenauheim/2024/2",
+   "short": "HCL Lenauheim nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 2/2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140413",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-25-2024",
+   "path": "local/timis/lenauheim/2024/25",
+   "short": "HCL Lenauheim nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 25/2024 privind aprobarea bugetului pentru activităţile finanţate integral din credite interne-Sursa C",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148429",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-27-2024",
+   "path": "local/timis/lenauheim/2024/27",
+   "short": "HCL Lenauheim nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 27/2024 privind aprobarea metodologiei, cuantumul maxim si situatiile deosebite pentru care se acordă ajutoare de urgență din bugetul local, în baza Legii 196/2016",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148431",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-29-2024",
+   "path": "local/timis/lenauheim/2024/29",
+   "short": "HCL Lenauheim nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 29/2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148434",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-3-2024",
+   "path": "local/timis/lenauheim/2024/3",
+   "short": "HCL Lenauheim nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 3/2024 privind aprobarea definitiva a deficitului sectiunii de functionare , sursa E , pe anul 2023 din excedentul total al bugetului de venituri proprii al Serviciului Public de Gospodarie Comunala Lenauheim, judeţul Timiş",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140414",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-31-2024",
+   "path": "local/timis/lenauheim/2024/31",
+   "short": "HCL Lenauheim nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 31/2024 privind aprobarea rectificării bugetului local al comunei Lenauheim, județul Timiș pe trimestrul I, anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/153438",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/153438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-35-2024",
+   "path": "local/timis/lenauheim/2024/35",
+   "short": "HCL Lenauheim nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 35/2024 privind inventarierea terenurilor din domeniul privat al comunei Lenauheim in conformitate cu prevederile Legii nr.15/2003 - privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/153442",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/153442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-38-2024",
+   "path": "local/timis/lenauheim/2024/38",
+   "short": "HCL Lenauheim nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 38/2024 privind aprobarea actualizării indicatorilor tehnico-economici și a cofinanțării de la bugetul de stat și local al obiectivului de investiție „REABILITARE, MODERNIZARE ȘI DOTARE DISPENSAR MEDICAL DIN LOCALITATEA LENAUHEIM, COMUNA LENAUHEIM, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/153445",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/153445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-39-2024",
+   "path": "local/timis/lenauheim/2024/39",
+   "short": "HCL Lenauheim nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 39/2024 privind declararea de utilitate publică și interes local a obiectivului de investiție „Înfiintare parc fotovoltaic pentru producerea energiei din surse regenerabile de energie de tip solar, în vederea acoperirii consumului propriu energetic al comunei Lenauheim, judetul Timiș“",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/153452",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/153452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-4-2024",
+   "path": "local/timis/lenauheim/2024/4",
+   "short": "HCL Lenauheim nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 4/2024 privind aprobarea Retelei scolare a unităţilor de învăţământ preuniversitar de stat din comuna Lenauheim , județul Timiș , pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140415",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-43-2024",
+   "path": "local/timis/lenauheim/2024/43",
+   "short": "HCL Lenauheim nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 43/2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: ”Modernizare străzi și drum comunal în comuna Lenauheim, județul Timiș”",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/158094",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/158094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-44-2024",
+   "path": "local/timis/lenauheim/2024/44",
+   "short": "HCL Lenauheim nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 44/2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/158095",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/158095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-5-2024",
+   "path": "local/timis/lenauheim/2024/5",
+   "short": "HCL Lenauheim nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 5/2024 privind insusirea continutului Dispozitiei nr.238/20.12.2023 - privind aprobarea rectificării bugetului local al comunei Lenauheim,judeţul Timiş pe anul 2023",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140416",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-52-2024",
+   "path": "local/timis/lenauheim/2024/52",
+   "short": "HCL Lenauheim nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 52/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „EXTINDERE SISTEME DE CANALIZARE ÎN COMUNA LENAUHEIM, JUDEȚUL TIMIȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizare obiectivului",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/158625",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/158625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-57-2024",
+   "path": "local/timis/lenauheim/2024/57",
+   "short": "HCL Lenauheim nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 57/2024 privind aprobarea continuari activitati Serviciului de Alimentare cu apa si canalizare in comuna Lenauheim, judetul Timis",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/160102",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/160102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-6-2024",
+   "path": "local/timis/lenauheim/2024/6",
+   "short": "HCL Lenauheim nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 6/2024 privind însușirea conținutului Dispoziției nr.241/27.12.2023 - privind aprobarea rectificării bugetului local al comunei Lenauheim, judeţul Timiş pe anul 2023",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/140417",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/140417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-8-2024",
+   "path": "local/timis/lenauheim/2024/8",
+   "short": "HCL Lenauheim nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 8/2024 privind aprobarea bugetului local al comunei Lenauheim, judeţul Timiş pe anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148412",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-9-2024",
+   "path": "local/timis/lenauheim/2024/9",
+   "short": "HCL Lenauheim nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 9/2024 privind aprobarea bugetului pentru activităţile finanţate integral din venituri proprii pe anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/148413",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/148413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-92-2024",
+   "path": "local/timis/lenauheim/2024/92",
+   "short": "HCL Lenauheim nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 92/2024 privind aprobarea rectificarii bugetului local al comunei Lenauheim, județul Timiș, Sursa A, pe Trimestrul IV anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183259",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-93-2024",
+   "path": "local/timis/lenauheim/2024/93",
+   "short": "HCL Lenauheim nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 93/2024 privind aprobarea rectificării bugetului local al comunei Lenauheim, judeţul Timiş, Sursa A pe trimestrul IV, anul 2024",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183615",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-94-2024",
+   "path": "local/timis/lenauheim/2024/94",
+   "short": "HCL Lenauheim nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 94/2024 privind stabilirea impozitelor şi taxelor locale în Comuna Lenauheim pentru anul 2025",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183616",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-95-2024",
+   "path": "local/timis/lenauheim/2024/95",
+   "short": "HCL Lenauheim nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 95/2024 privind aprobarea Rețelei scolare a unităţilor de învăţământ preuniversitar de stat din comuna Lenauheim , județul Timiș , pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183617",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-97-2024",
+   "path": "local/timis/lenauheim/2024/97",
+   "short": "HCL Lenauheim nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 97/2024 privind aprobarea completării si modificării prevederilor Hotărârii nr.79/23.12.2020 - privind înființarea Serviciului public de Gospodărie comunala Lenauheim , județul Timis",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183626",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--lenauheim-99-2024",
+   "path": "local/timis/lenauheim/2024/99",
+   "short": "HCL Lenauheim nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lenauheim nr. 99/2024 privind inventarierea terenurilor din domeniul privat al comunei Lenauheim în conformitate cu prevederile Legii nr.15/2003 - privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală cu modificările și completările ulterioare",
+   "url": "https://emol.ro/lenauheim-tm/registru-hcl/183642",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lenauheim-tm/registru-hcl/183642",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

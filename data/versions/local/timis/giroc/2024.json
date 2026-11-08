@@ -1,0 +1,3276 @@
+{
+ "country": "RO",
+ "shard": "local/timis/giroc/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--giroc-1-2024",
+   "path": "local/timis/giroc/2024/1",
+   "short": "HCL Giroc nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 1/2024 privind aprobarea retelei unitatilor de invatamant preuniversitar de stat acreditate de pe raza administrativ teritoriala a Comunei Giroc pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140033",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-10-2024",
+   "path": "local/timis/giroc/2024/10",
+   "short": "HCL Giroc nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 10/2024 privind aprobarea documentatiei aferente Proiectului Tehnic de Executie precum si a valorii Devizului General pentru obiectivul Extindere corp parter pentru Scoala cu clasele 0-VIII Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140469",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-100-2024",
+   "path": "local/timis/giroc/2024/100",
+   "short": "HCL Giroc nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 100/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418417 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161146",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-101-2024",
+   "path": "local/timis/giroc/2024/101",
+   "short": "HCL Giroc nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 101/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 418373 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161147",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-102-2024",
+   "path": "local/timis/giroc/2024/102",
+   "short": "HCL Giroc nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 102/2024 privind modificarea și completarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Giroc, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161148",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-103-2024",
+   "path": "local/timis/giroc/2024/103",
+   "short": "HCL Giroc nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 103/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161149",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-104-2024",
+   "path": "local/timis/giroc/2024/104",
+   "short": "HCL Giroc nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 104/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161150",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-107-2024",
+   "path": "local/timis/giroc/2024/107",
+   "short": "HCL Giroc nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 107/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 416962 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165590",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-108-2024",
+   "path": "local/timis/giroc/2024/108",
+   "short": "HCL Giroc nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 108/2024 privind constatarea dreptului de proprietate asupra cotei-părți de 1/2 din imobilul înscris în CF nr. 412031 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165591",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-109-2024",
+   "path": "local/timis/giroc/2024/109",
+   "short": "HCL Giroc nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 109/2024 privind atribuirea de denumiri unor străzi din Comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165592",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-11-2024",
+   "path": "local/timis/giroc/2024/11",
+   "short": "HCL Giroc nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 11/2024 privind aprobarea retelei unitatilor de invatamant preuniversitar de stat acreditate de pe raza administrativ teritoriala a Comunei Giroc pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140470",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-110-2024",
+   "path": "local/timis/giroc/2024/110",
+   "short": "HCL Giroc nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 110/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165593",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-111-2024",
+   "path": "local/timis/giroc/2024/111",
+   "short": "HCL Giroc nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 111/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165594",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-112-2024",
+   "path": "local/timis/giroc/2024/112",
+   "short": "HCL Giroc nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 112/2024 privind modificare HCL nr.25/23.02.2023 pentru aprobarea oportunității ”Construirii unei Baze Sportive TIP I - prin Compania Națională de Investiții, în Localitatea Chișoda, județul Timiș”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165595",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-113-2024",
+   "path": "local/timis/giroc/2024/113",
+   "short": "HCL Giroc nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 113/2024 privind aprobarea înfiinţării locului de joacă „PARC AVENTURA” și a Regulamentului de folosinţă a acestuia",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165596",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-114-2024",
+   "path": "local/timis/giroc/2024/114",
+   "short": "HCL Giroc nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 114/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165597",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-115-2024",
+   "path": "local/timis/giroc/2024/115",
+   "short": "HCL Giroc nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 115/2024 privind modificarea Organigramei și a Statului de funcţii ale Firmei Giroceana S.R.L",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165598",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-118-2024",
+   "path": "local/timis/giroc/2024/118",
+   "short": "HCL Giroc nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 118/2024 privind aprobarea contului de execuţie al bugetului local al Comunei Giroc şi al instituţiilor și serviciilor publice finanţate integral sau parțial din bugetul local la 30 iunie 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165601",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-119-2024",
+   "path": "local/timis/giroc/2024/119",
+   "short": "HCL Giroc nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 119/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165602",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-12-2024",
+   "path": "local/timis/giroc/2024/12",
+   "short": "HCL Giroc nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 12/2024 privind Privind aprobarea trecerii din domeniul privat in domeniul public al Comunei Giroc a unui bun imobil",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/142307",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/142307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-120-2024",
+   "path": "local/timis/giroc/2024/120",
+   "short": "HCL Giroc nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 120/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 417799 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165603",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-121-2024",
+   "path": "local/timis/giroc/2024/121",
+   "short": "HCL Giroc nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 121/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165821",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-122-2024",
+   "path": "local/timis/giroc/2024/122",
+   "short": "HCL Giroc nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 122/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165822",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-123-2024",
+   "path": "local/timis/giroc/2024/123",
+   "short": "HCL Giroc nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 123/2024 privind modificarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Giroc, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165823",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-124-2024",
+   "path": "local/timis/giroc/2024/124",
+   "short": "HCL Giroc nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 124/2024 privind modificarea utilizării excedentului bugetar pe anul 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165824",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-125-2024",
+   "path": "local/timis/giroc/2024/125",
+   "short": "HCL Giroc nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 125/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165825",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-126-2024",
+   "path": "local/timis/giroc/2024/126",
+   "short": "HCL Giroc nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 126/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165826",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-127-2024",
+   "path": "local/timis/giroc/2024/127",
+   "short": "HCL Giroc nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 127/2024 privind aprobarea punerii la dispoziția Clubului Sportiv “Giroc Chișoda” a unui mijloc de transport, pe ruta Giroc-Poiana Brașov tur-retur pentru perioada 16.08.2024 – 26.08.2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/165827",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/165827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-128-2024",
+   "path": "local/timis/giroc/2024/128",
+   "short": "HCL Giroc nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 128/2024 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 722/10.10.2017 de la FNGCIMM SA IFN in valoare de 1.815.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.815.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat - „Realizare infrastructură rutieră de interes local în comuna Giroc, jud. Timiș\"",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/166269",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/166269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-13-2024",
+   "path": "local/timis/giroc/2024/13",
+   "short": "HCL Giroc nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 13/2024 privind aprobarea actualizarii datelor tehnice ale terenului inscris in CF nr. 403943 cu numar cadastral Cc552/2/5/10/4, domeniul public al comunei Giroc, jud. Timis",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/142308",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/142308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-133-2024",
+   "path": "local/timis/giroc/2024/133",
+   "short": "HCL Giroc nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 133/2024 privind constatarea dreptului de proprietate asupra cotei părți de 6199/10000 din imobilul înscris în CF nr. 407232 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167994",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-134-2024",
+   "path": "local/timis/giroc/2024/134",
+   "short": "HCL Giroc nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 134/2024 privind aprobarea modificării și completării Contractului de delegare prin concesiune a activității de colectare și transport a deșeurilor nr. 2303/08.12.2017 prin implementarea unui nou flux și a tarifului unic de colectare separată și transport separat al deșeurilor vegetale pentru utilizatorii casnici și non-casnici din mediul urban, periurban și rural",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167995",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-135-2024",
+   "path": "local/timis/giroc/2024/135",
+   "short": "HCL Giroc nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 135/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167996",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-136-2024",
+   "path": "local/timis/giroc/2024/136",
+   "short": "HCL Giroc nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 136/2024 privind aprobarea Regulamentului de funcționare și derulare a bugetării participative, pentru anul 2024, în comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167997",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-137-2024",
+   "path": "local/timis/giroc/2024/137",
+   "short": "HCL Giroc nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 137/2024 privind implementarea proiectului „Dotarea Primăriei comunei Giroc cu un sistem de pontaj cu card”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167998",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-138-2024",
+   "path": "local/timis/giroc/2024/138",
+   "short": "HCL Giroc nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 138/2024 privind înaintarea către Guvernul României a cererii de transmitere din proprietatea privată a Statului Român în domeniul privat al Comunei Giroc a terenului înscris în CF nr. 403457 Giroc cu numărul topografic De 660/8/20",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/167999",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/167999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-139-2024",
+   "path": "local/timis/giroc/2024/139",
+   "short": "HCL Giroc nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 139/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/168452",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/168452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-14-2024",
+   "path": "local/timis/giroc/2024/14",
+   "short": "HCL Giroc nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 14/2024 privind aprobarea incheierii Protocolului privind predarea-preluarea personalului medico-sanitar de specialitate din unitatile de invatamant preuniversitar de stat de pe raza Comunei Giroc in structura de personal medico-santitar angajat de Primaria Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/142309",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/142309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-140-2024",
+   "path": "local/timis/giroc/2024/140",
+   "short": "HCL Giroc nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 140/2024 privind aprobarea Asocierii Județului Timiș cu Comuna Giroc în vederea atribuirii serviciilor de transport public județean de persoane prin curse regulate în aria de competență teritorială a acestor unități administrativ-teritoriale",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/169685",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/169685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-141-2024",
+   "path": "local/timis/giroc/2024/141",
+   "short": "HCL Giroc nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 141/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171083",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-142-2024",
+   "path": "local/timis/giroc/2024/142",
+   "short": "HCL Giroc nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 142/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a unor bunuri imobile",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171084",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-143-2024",
+   "path": "local/timis/giroc/2024/143",
+   "short": "HCL Giroc nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 143/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 626/3/27",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171085",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-145-2024",
+   "path": "local/timis/giroc/2024/145",
+   "short": "HCL Giroc nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 145/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171087",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-146-2024",
+   "path": "local/timis/giroc/2024/146",
+   "short": "HCL Giroc nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 146/2024 privind modificarea şi completarea Regulamentului de Organizare și Funcționare al Clubului Sportiv GIROC-CHIŞODA precum și a Organigramei și Statului de funcții",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171088",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-15-2024",
+   "path": "local/timis/giroc/2024/15",
+   "short": "HCL Giroc nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 15/2024 privind aprobarea bugetului local al Comunei Giroc pe anul 2024 și a bugetului de venituri proprii și subvenții pe anul 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/142312",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/142312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-150-2024",
+   "path": "local/timis/giroc/2024/150",
+   "short": "HCL Giroc nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 150/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418686 localitatea Chișoda, comuna Giroc și asupra imobilului 418687 localitatea Chișoda, comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171092",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-151-2024",
+   "path": "local/timis/giroc/2024/151",
+   "short": "HCL Giroc nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 151/2024 privind aprobarea indicatorilor tehnico - economici aferenți PROIECTULUI TEHNIC cu nr.277/2024 ”CONSTRUIRE PIAȚĂ AGROALIMENTARĂ ÎN LOCALITATEA GIROC”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171093",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-152-2024",
+   "path": "local/timis/giroc/2024/152",
+   "short": "HCL Giroc nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 152/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171094",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-153-2024",
+   "path": "local/timis/giroc/2024/153",
+   "short": "HCL Giroc nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 153/2024 privind aprobarea modelului cererii și a avizului pentru publicitate temporară",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171095",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-154-2024",
+   "path": "local/timis/giroc/2024/154",
+   "short": "HCL Giroc nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 154/2024 privind modificarea și completarea HCL Nr. 111/28.11.2021 privind aprobarea Regulamentului pentru amplasarea și autorizarea mijloacelor de publicitate în Comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171096",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-155-2024",
+   "path": "local/timis/giroc/2024/155",
+   "short": "HCL Giroc nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 155/2024 privind modificarea utilizării excedentului bugetar pe anul 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171097",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-156-2024",
+   "path": "local/timis/giroc/2024/156",
+   "short": "HCL Giroc nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 156/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/171098",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/171098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-158-2024",
+   "path": "local/timis/giroc/2024/158",
+   "short": "HCL Giroc nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 158/2024 privind asigurarea transportului membrilor Corului mixt “SF. Dimitrie” al Bisericii din Giroc în lcalitatea Szeged din Ungaria",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/172952",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/172952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-159-2024",
+   "path": "local/timis/giroc/2024/159",
+   "short": "HCL Giroc nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 159/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/172953",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/172953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-16-2024",
+   "path": "local/timis/giroc/2024/16",
+   "short": "HCL Giroc nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 16/2024 privind aprobarea proiectului de investiții și a cheltuielilor legate de proiect – pentru investiția „ÎNFIINȚARE CENTRU DE ZI DE RECUPERARE PENTRU COPII CU DIZABILITĂȚI, LOC. CHIȘODA, COM. GIROC”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144182",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-160-2024",
+   "path": "local/timis/giroc/2024/160",
+   "short": "HCL Giroc nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 160/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/172954",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/172954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-161-2024",
+   "path": "local/timis/giroc/2024/161",
+   "short": "HCL Giroc nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 161/2024 privind aprobarea achiziţiei de servicii juridice în vederea acordării de asistenţă şi reprezentare juridică a Consiliului Local a Comunei Giroc în Dosarul nr. 3979/30/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/173432",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/173432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-162-2024",
+   "path": "local/timis/giroc/2024/162",
+   "short": "HCL Giroc nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 162/2024 privind modificarea Regulamentului de Organizare și funcționare a Consiliului Local al Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175600",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-163-2024",
+   "path": "local/timis/giroc/2024/163",
+   "short": "HCL Giroc nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 163/2024 privind modificarea Agendei evenimentelor sportive pentru anul 2024 de la Clubul Sportiv “Giroc-Chișoda”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175601",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-164-2024",
+   "path": "local/timis/giroc/2024/164",
+   "short": "HCL Giroc nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 164/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175602",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-165-2024",
+   "path": "local/timis/giroc/2024/165",
+   "short": "HCL Giroc nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 165/2024 privind modificarea și aprobarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al Primarului comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175603",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-166-2024",
+   "path": "local/timis/giroc/2024/166",
+   "short": "HCL Giroc nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 166/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 545",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175604",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-167-2024",
+   "path": "local/timis/giroc/2024/167",
+   "short": "HCL Giroc nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 167/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 649/2/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175605",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-168-2024",
+   "path": "local/timis/giroc/2024/168",
+   "short": "HCL Giroc nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 168/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a unor bunuri imobile",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175606",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-169-2024",
+   "path": "local/timis/giroc/2024/169",
+   "short": "HCL Giroc nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 169/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr.417664, comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175607",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-17-2024",
+   "path": "local/timis/giroc/2024/17",
+   "short": "HCL Giroc nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 17/2024 privind aprobarea documentației tehnico-economice – Studiu de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚARE CENTRU DE ZI DE RECUPERARE PENTRU COPII CU DIZABILITĂȚI, LOC. CHIȘODA, COM. GIROC”, finanțat prin „Programul Național de Redresare și Reziliență, Componenta C13-Reforme sociale, investiția I1: Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144183",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-170-2024",
+   "path": "local/timis/giroc/2024/170",
+   "short": "HCL Giroc nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 170/2024 Privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418354, localitatea Chișoda , comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175608",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-171-2024",
+   "path": "local/timis/giroc/2024/171",
+   "short": "HCL Giroc nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 171/2024 privind constatarea dreptului de proprietate asupra unor imobile înscrise în CF nr. 418132, 418139, 418140, localitatea Giroc , comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175609",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-172-2024",
+   "path": "local/timis/giroc/2024/172",
+   "short": "HCL Giroc nr. 172/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 172/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 542",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175610",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-173-2024",
+   "path": "local/timis/giroc/2024/173",
+   "short": "HCL Giroc nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 173/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 544/2/3",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175611",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-174-2024",
+   "path": "local/timis/giroc/2024/174",
+   "short": "HCL Giroc nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 174/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 544/2/4",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175612",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-175-2024",
+   "path": "local/timis/giroc/2024/175",
+   "short": "HCL Giroc nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 175/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 544/2/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175613",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-176-2024",
+   "path": "local/timis/giroc/2024/176",
+   "short": "HCL Giroc nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 176/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 544/2/2",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175614",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-177-2024",
+   "path": "local/timis/giroc/2024/177",
+   "short": "HCL Giroc nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 177/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 75/6",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175615",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-178-2024",
+   "path": "local/timis/giroc/2024/178",
+   "short": "HCL Giroc nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 178/2024 privind constatarea dreptului de proprietate asupra unor imobile înscrise în CF nr. 418132, 418139, 418140, localitatea Giroc , comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175616",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-179-2024",
+   "path": "local/timis/giroc/2024/179",
+   "short": "HCL Giroc nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 179/2024 privind modificarea Hotărârii Consiliului Local Giroc numărul 305/2023 cu privire la modificarea preţului la biletele şi abonamentele de călătorie pe liniile Giroc – Timişoara şi Chişoda – Timişoara şi retur precum și modificarea prețurilor la serviciile de transport persoane prin curse ocazionale în sensul reducerii tarifelor de călătorie",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175617",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-18-2024",
+   "path": "local/timis/giroc/2024/18",
+   "short": "HCL Giroc nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 18/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144184",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-180-2024",
+   "path": "local/timis/giroc/2024/180",
+   "short": "HCL Giroc nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 180/2024 privind actualizarea valorii de investiţie conform Dispoziției de șantier nr.1 în baza contractului privind ” Lucrări de înființare teren sintetic de fotbal în localitatea Giroc”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175618",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-183-2024",
+   "path": "local/timis/giroc/2024/183",
+   "short": "HCL Giroc nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 183/2024 privind aprobarea contului de execuţie al bugetului local al Comunei Giroc şi al instituţiilor și serviciilor publice finanţate integral sau parțial din bugetul local la 30 septembrie 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175621",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-184-2024",
+   "path": "local/timis/giroc/2024/184",
+   "short": "HCL Giroc nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 184/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175622",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-185-2024",
+   "path": "local/timis/giroc/2024/185",
+   "short": "HCL Giroc nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 185/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175623",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-186-2024",
+   "path": "local/timis/giroc/2024/186",
+   "short": "HCL Giroc nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 186/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175624",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-187-2024",
+   "path": "local/timis/giroc/2024/187",
+   "short": "HCL Giroc nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 187/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175625",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-188-2024",
+   "path": "local/timis/giroc/2024/188",
+   "short": "HCL Giroc nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 188/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DC 98/2",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175626",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-189-2024",
+   "path": "local/timis/giroc/2024/189",
+   "short": "HCL Giroc nr. 189/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 189/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic Cc 646/1/4",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175627",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-19-2024",
+   "path": "local/timis/giroc/2024/19",
+   "short": "HCL Giroc nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 19/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144185",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-192-2024",
+   "path": "local/timis/giroc/2024/192",
+   "short": "HCL Giroc nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 192/2024 privind alegerea viceprimarului comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175630",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-193-2024",
+   "path": "local/timis/giroc/2024/193",
+   "short": "HCL Giroc nr. 193/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 193/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/175826",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/175826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-194-2024",
+   "path": "local/timis/giroc/2024/194",
+   "short": "HCL Giroc nr. 194/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 194/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/176960",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/176960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-195-2024",
+   "path": "local/timis/giroc/2024/195",
+   "short": "HCL Giroc nr. 195/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 195/2024 privind modificarea HCL nr.109 din data de 30.07.2024, referitoare la atribuirea de denumiri unor străzi din Comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/176961",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/176961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-196-2024",
+   "path": "local/timis/giroc/2024/196",
+   "short": "HCL Giroc nr. 196/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 196/2024 privind participarea comunei Giroc la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”, aprobarea Documentației tehnico-economice – DALI și aprobarea indicatorilor tehnico-economici ai proiectului “MODERNIZAREA INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA GIROC, JUDEȚUL TIMIȘ“",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/176962",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/176962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-197-2024",
+   "path": "local/timis/giroc/2024/197",
+   "short": "HCL Giroc nr. 197/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 197/2024 privind aprobarea indicatorilor tehnico-economici ai proiectului MODERNIZARE SI COMPARTIMENTARE ETAJ EXISTENT PENTRU GRĂDINIȚĂ GIROC’’ din Judeţul Timiș, Localitatea Giroc, Comuna Giroc, Număr CF 412945, nr. cad. 412945",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/176963",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/176963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-198-2024",
+   "path": "local/timis/giroc/2024/198",
+   "short": "HCL Giroc nr. 198/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 198/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179956",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-199-2024",
+   "path": "local/timis/giroc/2024/199",
+   "short": "HCL Giroc nr. 199/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 199/2024 privind aprobarea prelungirii valabilității Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023 și aprobarea tarifelor de sortare și tratare diminuate pentru activitatea desfășurată la Stația de Sortare Deșeuri Municipale Timișoara",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179957",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-2-2024",
+   "path": "local/timis/giroc/2024/2",
+   "short": "HCL Giroc nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 2/2024 privind aprobarea utilizării excedentului bugetar pe anul 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140034",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-20-2024",
+   "path": "local/timis/giroc/2024/20",
+   "short": "HCL Giroc nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 20/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 547/2",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144186",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-201-2024",
+   "path": "local/timis/giroc/2024/201",
+   "short": "HCL Giroc nr. 201/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 201/2024 privind darea în folosință gratuită a imobilului înscris în CF 402416 nr.cadastral CF 402416- C1, către Oficiul Județean de Poștă Timiș pentru punctul de lucru din localitatea Chișoda, comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179959",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-202-2024",
+   "path": "local/timis/giroc/2024/202",
+   "short": "HCL Giroc nr. 202/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 202/2024 privind aprobarea punerii la dispoziția Clubului Sportiv “Giroc-Chișoda” a unui mijloc de transport, pe ruta Giroc- Budapesta și retur, de către Societatea Giroceana SRL, necesar participării reprezentanților Clubul Sportiv “Giroc-Chișoda” la concursul de atletism de tip Grand Prix, care se va desfășura în localitatea Dublin din Irlanda, în data de 15 decembrie 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179960",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-204-2024",
+   "path": "local/timis/giroc/2024/204",
+   "short": "HCL Giroc nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 204/2024 privind includerea unor mijloace fixe (branşamente apă-puse în funcţiune în anul 2023 și în lunile aprilie, mai, iunie, iulie, august aferente anului 2024) în Anexa nr.V (bunuri de natura domeniului public) a Contractului de delegare de gestiune a serviciilor publice de alimentare cu apă şi canalizare nr. 932/19.01.2010",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179962",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-205-2024",
+   "path": "local/timis/giroc/2024/205",
+   "short": "HCL Giroc nr. 205/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 205/2024 privind aprobarea documentaţiei tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DC 98/2",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179963",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-206-2024",
+   "path": "local/timis/giroc/2024/206",
+   "short": "HCL Giroc nr. 206/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 206/2024 privind constatarea dreptului de proprietate asupra cotei părți de 1/7 din imobilul înscris în CF nr. 404316 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179964",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-207-2024",
+   "path": "local/timis/giroc/2024/207",
+   "short": "HCL Giroc nr. 207/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 207/2024 privind constatarea dreptului de proprietate asupra cotei părți de 1/7 din imobilul înscris în CF nr. 404369 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179965",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-208-2024",
+   "path": "local/timis/giroc/2024/208",
+   "short": "HCL Giroc nr. 208/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 208/2024 privind constatarea dreptului de proprietate asupra cotei părți de 2/7 din imobilul înscris în CF nr. 404370 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179966",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-209-2024",
+   "path": "local/timis/giroc/2024/209",
+   "short": "HCL Giroc nr. 209/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 209/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 417492 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179967",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-21-2024",
+   "path": "local/timis/giroc/2024/21",
+   "short": "HCL Giroc nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 21/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 87/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144187",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-210-2024",
+   "path": "local/timis/giroc/2024/210",
+   "short": "HCL Giroc nr. 210/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 210/2024 privind acordarea avizului Consiliului Local al Comunei Giroc pentru prestarea de servicii funerare de către SC Funeralia TM SRL",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179968",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-211-2024",
+   "path": "local/timis/giroc/2024/211",
+   "short": "HCL Giroc nr. 211/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 211/2024 privind modificarea şi completarea Organigramei şi a Statului de funcţii al Clubului Sportiv “GIROC - CHIŞODA”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179969",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-212-2024",
+   "path": "local/timis/giroc/2024/212",
+   "short": "HCL Giroc nr. 212/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 212/2024 privind aprobarea indicatorilor tehnico - economici aferenți proiectului tehnic cu nr.L 1206/2024 editia 2024 ”Extinedere rețea electrică de interes public in zona UM, Bvd Aviației CF 418098, 296 locuri consum",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179970",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-213-2024",
+   "path": "local/timis/giroc/2024/213",
+   "short": "HCL Giroc nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 213/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179971",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-214-2024",
+   "path": "local/timis/giroc/2024/214",
+   "short": "HCL Giroc nr. 214/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 214/2024 privind adoptarea unor decizii referitoare la funcționarea Societății Giroceana SRL",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/179972",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/179972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-215-2024",
+   "path": "local/timis/giroc/2024/215",
+   "short": "HCL Giroc nr. 215/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 215/2024 privind aprobarea indicatorilor tehnico - economici aferenți proiectului tehnic cu nr. L 1206/2024 editia 2024 ”Extindere rețea electrică de interes public in zona UM, Bvd Aviației CF 418098, 296 locuri consum",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/181152",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/181152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-216-2024",
+   "path": "local/timis/giroc/2024/216",
+   "short": "HCL Giroc nr. 216/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 216/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/181153",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/181153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-217-2024",
+   "path": "local/timis/giroc/2024/217",
+   "short": "HCL Giroc nr. 217/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 217/2024 privind aprobarea notei de fundamentare a investiției cu titlul “ ACHIZIȚIA A DOUĂ MICROBUZE ELECTRICE PENTRU COMUNA GIROC, JUDEȚUL TIMIȘ “",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/182112",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/182112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-218-2024",
+   "path": "local/timis/giroc/2024/218",
+   "short": "HCL Giroc nr. 218/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 218/2024 privind aprobarea notei de fundamentare a investiției cu titlul “ ACHIZIȚIA UNUI AUTOCAR PENTRU COMUNA GIROC, JUDEȚUL TIMIȘ “",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/182113",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/182113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-219-2024",
+   "path": "local/timis/giroc/2024/219",
+   "short": "HCL Giroc nr. 219/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 219/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/182114",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/182114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-22-2024",
+   "path": "local/timis/giroc/2024/22",
+   "short": "HCL Giroc nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 22/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic A 547/2/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144188",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-220-2024",
+   "path": "local/timis/giroc/2024/220",
+   "short": "HCL Giroc nr. 220/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 220/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/182733",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/182733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-221-2024",
+   "path": "local/timis/giroc/2024/221",
+   "short": "HCL Giroc nr. 221/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 221/2024 privind modificarea Regulamentului de Organizare și funcționare a Consiliului Local al Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184448",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-222-2024",
+   "path": "local/timis/giroc/2024/222",
+   "short": "HCL Giroc nr. 222/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 222/2024 privind modificarea Regulamentului pentru eliberarea și folosirea autorizațiilor de \"acces pentru trafic greu \", pentru stabilirea condițiilor de acces al autovehiculelor cu masa maximă autorizată de peste 12 tone, pentru utilizarea drumurilor comunale și altor categorii de drumuri aflate în proprietatea Comunei Giroc, precum și pentru modificarea și completarea HCL nr. 215 din data de 28,12.2022 completată de HCL nr. 80 din data de 25.04.2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184449",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-223-2024",
+   "path": "local/timis/giroc/2024/223",
+   "short": "HCL Giroc nr. 223/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 223/2024 privind constatarea dreptului de proprietate asupra cotei părți de 1/7 din imobilul înscris în CF nr. 404287 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184450",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-224-2024",
+   "path": "local/timis/giroc/2024/224",
+   "short": "HCL Giroc nr. 224/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 224/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418573 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184451",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-225-2024",
+   "path": "local/timis/giroc/2024/225",
+   "short": "HCL Giroc nr. 225/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 225/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a unor bunuri imobile cu destinația de drum",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184452",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-226-2024",
+   "path": "local/timis/giroc/2024/226",
+   "short": "HCL Giroc nr. 226/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 226/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a unor bunuri imobile",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184453",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-227-2024",
+   "path": "local/timis/giroc/2024/227",
+   "short": "HCL Giroc nr. 227/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 227/2024 privind constatarea dreptului de proprietate asupra imobilelor înscrise în CF nr. 418196, 418201,418203, Comuna Giroc, jud.Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184454",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-228-2024",
+   "path": "local/timis/giroc/2024/228",
+   "short": "HCL Giroc nr. 228/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 228/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184455",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-229-2024",
+   "path": "local/timis/giroc/2024/229",
+   "short": "HCL Giroc nr. 229/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 229/2024 privind constatarea dreptului de proprietate asupra imobilelor înscrise în CF nr. 417969,417972, Comuna Giroc , jud.Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184456",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-23-2024",
+   "path": "local/timis/giroc/2024/23",
+   "short": "HCL Giroc nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 23/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic A 75/11",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144189",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-231-2024",
+   "path": "local/timis/giroc/2024/231",
+   "short": "HCL Giroc nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 231/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418634, Comuna Giroc , jud.Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184458",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-232-2024",
+   "path": "local/timis/giroc/2024/232",
+   "short": "HCL Giroc nr. 232/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 232/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 408130, Comuna Giroc , jud.Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184459",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-233-2024",
+   "path": "local/timis/giroc/2024/233",
+   "short": "HCL Giroc nr. 233/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 233/2024 privind aprobarea PUZ – DEZVOLTARE ZONĂ REZIDENTIALA CU FUNCTIUNI COMPLEMENTARE”, amplasat în extravilanul comunei Giroc, județul Timiș, generat de imobilele înscrise în CF. nr. 417724 și Nr. CAD 417724, CF. nr. 407660 și Nr. CAD 407660, cu suprafață de 20000 mp",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184460",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-234-2024",
+   "path": "local/timis/giroc/2024/234",
+   "short": "HCL Giroc nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 234/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184461",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-235-2024",
+   "path": "local/timis/giroc/2024/235",
+   "short": "HCL Giroc nr. 235/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 235/2024 privind renunțarea la calitatea de membru asociat al Comunei Giroc prin Consiliul Local al Comunei Giroc în Asociația de Dezvoltare Intercomunitară „Polul de Creștere Timișoara”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184462",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-236-2024",
+   "path": "local/timis/giroc/2024/236",
+   "short": "HCL Giroc nr. 236/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 236/2024 privind renunțarea la calitatea de membru asociat al Comunei Giroc prin Consiliul Local al Comunei Giroc în Asociația pentru Promovarea și Dezvoltarea Turismului în Județul Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184463",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-237-2024",
+   "path": "local/timis/giroc/2024/237",
+   "short": "HCL Giroc nr. 237/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 237/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184464",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-238-2024",
+   "path": "local/timis/giroc/2024/238",
+   "short": "HCL Giroc nr. 238/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 238/2024 privind aprobarea reţelei unităţilor de învăţământ preuniversitar de stat acreditate de pe raza administrativ- teritorială a Comunei Giroc pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184465",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-239-2024",
+   "path": "local/timis/giroc/2024/239",
+   "short": "HCL Giroc nr. 239/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 239/2024 privind stabilirea perioadei efectuării inventarierii anuale a bunurilor care aparțin domeniului public și privat al Comunei Giroc aferentă mandatului Consiliului Local 2024-2028",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184466",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-24-2024",
+   "path": "local/timis/giroc/2024/24",
+   "short": "HCL Giroc nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 24/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DC 98/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/144190",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/144190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-240-2024",
+   "path": "local/timis/giroc/2024/240",
+   "short": "HCL Giroc nr. 240/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 240/2024 privind aprobarea documentaţiei tehnico-economice – Proiect tehnic şi a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚARE CENTRU DE ZI DE RECUPERARE PENTRU COPIII CU DIZABILITĂȚI, LOC. CHIȘODA, COM. GIROC”, finanțat prin “Programul Național de Redresare și Reziliență, Componenta C13-Reforme sociale, investiția I1: Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184467",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-241-2024",
+   "path": "local/timis/giroc/2024/241",
+   "short": "HCL Giroc nr. 241/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 241/2024 privind încheierea unui act adițional de prelungire a contractului de dare în administrare nr. 21321/2022 , încheiat cu Firma Giroceana S.R.L",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184468",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-242-2024",
+   "path": "local/timis/giroc/2024/242",
+   "short": "HCL Giroc nr. 242/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 242/2024 privind scăderea din evidența analitică pe plătitor a creanțelor fiscale datorate bugetului local al comunei GIROC, de către persoanele juridice radiate de la Oficiul Registrului Comerțului",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184469",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-245-2024",
+   "path": "local/timis/giroc/2024/245",
+   "short": "HCL Giroc nr. 245/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 245/2024 privind modificarea Organigramei și a Statului de funcții ale Societății Giroceana SRL",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/184472",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/184472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-246-2024",
+   "path": "local/timis/giroc/2024/246",
+   "short": "HCL Giroc nr. 246/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 246/2024 privind participarea Comunei Giroc la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”, aprobarea Documentației tehnico-economice – DALI și aprobarea indicatorilor tehnico-economici al proiectului “CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC ÎN COMUNA GIROC, JUDEȚUL TIMIȘ“",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/187258",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/187258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-25-2024",
+   "path": "local/timis/giroc/2024/25",
+   "short": "HCL Giroc nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 25/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 404287 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147788",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-26-2024",
+   "path": "local/timis/giroc/2024/26",
+   "short": "HCL Giroc nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 26/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 404316 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147789",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-27-2024",
+   "path": "local/timis/giroc/2024/27",
+   "short": "HCL Giroc nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 27/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 404369 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147790",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-28-2024",
+   "path": "local/timis/giroc/2024/28",
+   "short": "HCL Giroc nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 28/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 413003 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147791",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-29-2024",
+   "path": "local/timis/giroc/2024/29",
+   "short": "HCL Giroc nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 29/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 418167 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147792",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-3-2024",
+   "path": "local/timis/giroc/2024/3",
+   "short": "HCL Giroc nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 3/2024 privind aprobarea protectului de reorganizare a retelei unitatilor de invatamant preuniversitar de stat acreditate de pe raza administrativ teritoriala a Comunei Giroc pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140462",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-30-2024",
+   "path": "local/timis/giroc/2024/30",
+   "short": "HCL Giroc nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 30/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 414795 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147793",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-31-2024",
+   "path": "local/timis/giroc/2024/31",
+   "short": "HCL Giroc nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 31/2024 privind constatarea dreptului de proprietate asupra cotei părți de ¼ din imobilul înscris în CF nr. 406779 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147794",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-32-2024",
+   "path": "local/timis/giroc/2024/32",
+   "short": "HCL Giroc nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 32/2024 privind constatarea dreptului de proprietate asupra cotei părți de 2/4 din imobilul înscris în CF nr. 407065 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147795",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-33-2024",
+   "path": "local/timis/giroc/2024/33",
+   "short": "HCL Giroc nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 33/2024 privind constatarea dreptului de proprietate asupra cotei părți de 1240/10000 din imobilul înscris în CF nr. 407232 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147796",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-34-2024",
+   "path": "local/timis/giroc/2024/34",
+   "short": "HCL Giroc nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 34/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 414200 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147797",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-35-2024",
+   "path": "local/timis/giroc/2024/35",
+   "short": "HCL Giroc nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 35/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 414777 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147798",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-36-2024",
+   "path": "local/timis/giroc/2024/36",
+   "short": "HCL Giroc nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 36/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 414779 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147799",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-37-2024",
+   "path": "local/timis/giroc/2024/37",
+   "short": "HCL Giroc nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 37/2024 privind constatarea dreptului de proprietate asupra unui imobil înscris în CF nr. 418169 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147800",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-38-2024",
+   "path": "local/timis/giroc/2024/38",
+   "short": "HCL Giroc nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 38/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DC 595/2",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147801",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-4-2024",
+   "path": "local/timis/giroc/2024/4",
+   "short": "HCL Giroc nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 4/2024 privind aprobarea Agendei Culturale a Comunei Giroc pentru anul 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140463",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-40-2024",
+   "path": "local/timis/giroc/2024/40",
+   "short": "HCL Giroc nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 40/2024 privind încheierea unui act adițional la contractul de delegare a gestiunii serviciului de transport public local al comunei Giroc Nr. 30.480/02.11.2016 încheiat cu Firma Giroceana S.R.L",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147803",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-43-2024",
+   "path": "local/timis/giroc/2024/43",
+   "short": "HCL Giroc nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 43/2024 privind aprobarea PLANULUI DE ORDINE ȘI SIGURANȚĂ PUBLICĂ AL POLIȚIEI LOCALE A COMUNEI GIROC",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147806",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-44-2024",
+   "path": "local/timis/giroc/2024/44",
+   "short": "HCL Giroc nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 44/2024 privind aprobarea contului de execuție al bugetului local al Comunei Giroc și al instituțiilor și serviciilor publice finanțate integral sau parțial din bugetul local la 31 decembrie 2023",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147807",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-45-2024",
+   "path": "local/timis/giroc/2024/45",
+   "short": "HCL Giroc nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 45/2024 privind aprobarea PUZ – DEZVOLTARE ZONĂ LOCUINȚE ȘI FUNCȚIUNI COMPLEMENTARE în extravilan localitatea Chișoda, comuna Giroc, CF 410757, având nr. cad. 410757, cu suprafață de 11600 mp",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147808",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-46-2024",
+   "path": "local/timis/giroc/2024/46",
+   "short": "HCL Giroc nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 46/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147809",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-47-2024",
+   "path": "local/timis/giroc/2024/47",
+   "short": "HCL Giroc nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 47/2024 privind validarea Dispoziției primarului nr. 202 din 22.02.2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147810",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-48-2024",
+   "path": "local/timis/giroc/2024/48",
+   "short": "HCL Giroc nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 48/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 417696 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147811",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-49-2024",
+   "path": "local/timis/giroc/2024/49",
+   "short": "HCL Giroc nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 49/2024 privind aprobarea actualizării datelor tehnice și diminuarea suprafeței de teren înscris în CF nr. 407065 cu nr. cad. DS552/2/5/2-3/18, domeniul privat al comunei Giroc, jud. Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/147812",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/147812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-5-2024",
+   "path": "local/timis/giroc/2024/5",
+   "short": "HCL Giroc nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 5/2024 privind aprobarea Agendei evenimentelor sportive pentru anul 2024 de la Clubul Sportiv Giroc Chisoda",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140464",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-50-2024",
+   "path": "local/timis/giroc/2024/50",
+   "short": "HCL Giroc nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 50/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 418438 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152114",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-51-2024",
+   "path": "local/timis/giroc/2024/51",
+   "short": "HCL Giroc nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 51/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 410773 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152115",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-52-2024",
+   "path": "local/timis/giroc/2024/52",
+   "short": "HCL Giroc nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 52/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 417901 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152116",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-53-2024",
+   "path": "local/timis/giroc/2024/53",
+   "short": "HCL Giroc nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 53/2024 privind aprobarea actualizării valorii de investiție a proiectului „Reabilitare și extindere clădiri pentru Școala Generală cu clasele 0-VIII din comuna Giroc, județul Timiș, Axa prioritară 10 Îmbunătățirea infrastructurii educaționale, Prioritate de investiții 10.1 Investițiile în educație și formare, inclusiv în formare profesională, pentru dobândirea de competențe și învățare pe tot parcursul vieții prin dezvoltarea infrastructurilor de educație și formare”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152117",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-54-2024",
+   "path": "local/timis/giroc/2024/54",
+   "short": "HCL Giroc nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 54/2024 privind aprobarea documentației aferente Proiectului Tehnic de Execuție precum și a valorii Devizului General pentru obiectivul „ÎNFIINȚARE ADĂPOST PENTRU CÂINI: CONSTRUIRE CABINET VETERINAR, SPAȚII ADMINISTRATIVE ȘI ÎMPREJMUIRE TEREN”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152118",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-55-2024",
+   "path": "local/timis/giroc/2024/55",
+   "short": "HCL Giroc nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 55/2024 privind aprobarea și însușirea inventarului bunurilor care aparțin domeniului public și privat al Comunei Giroc pe anul 2023",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152119",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-56-2024",
+   "path": "local/timis/giroc/2024/56",
+   "short": "HCL Giroc nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 56/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152120",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-57-2024",
+   "path": "local/timis/giroc/2024/57",
+   "short": "HCL Giroc nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 57/2024 privind aprobarea tarifelor pentru activitatea de tratare a deșeurilor reziduale provenite din Zona 1 Timișoara, pentru activitatea de sortare a deșeurilor de hârtie, carton, metal și plastic provenite din Zona 1 Timișoara desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) și a tarifelor pentru activitățile desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) în baza Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152121",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-58-2024",
+   "path": "local/timis/giroc/2024/58",
+   "short": "HCL Giroc nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 58/2024 privind aprobarea tarifelor pentru plata contravalorii prestațiilor serviciilor de curățare a terenurilor private, infestate cu buruiana ambrozia, precum și a terenurilor private neîngrijite, neigienizate și nesalubrizate de vegetație ierboasă",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152122",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-59-2024",
+   "path": "local/timis/giroc/2024/59",
+   "short": "HCL Giroc nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 59/2024 privind modificarea și completarea Acordului de cooperare privind organizarea și exercitarea unor activități necesare comunei Giroc, în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152123",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-6-2024",
+   "path": "local/timis/giroc/2024/6",
+   "short": "HCL Giroc nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 6/2024 privind transmiterea de catre Consiliul Local al Comunei Giroc catre SC Aquatim SA, spre administrare si folosinta, a unor mijloace fixe, respectiv privind transmiterea in folosinta a terenurilor aferente acestora",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140465",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-61-2024",
+   "path": "local/timis/giroc/2024/61",
+   "short": "HCL Giroc nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 61/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 81/2/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152125",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-62-2024",
+   "path": "local/timis/giroc/2024/62",
+   "short": "HCL Giroc nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 62/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 626/2/1/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152126",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-63-2024",
+   "path": "local/timis/giroc/2024/63",
+   "short": "HCL Giroc nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 63/2024 privind aprobarea documentației tehnice, în vederea intabulării, ca primă înscriere, a bunului imobil, identificat cu numărul topografic DE 689/1",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152127",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-64-2024",
+   "path": "local/timis/giroc/2024/64",
+   "short": "HCL Giroc nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 64/2024 privind participarea Comunei Giroc la „Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate”, aprobarea documentației tehnico-economice – SF și aprobarea indicatorilor tehnico-economici ai proiectului „ÎNFIINȚAREA SISTEMULUI DE CANALIZARE PLUVIALĂ ÎN ZONA DE NORD A LOCALITĂȚII GIROC, COMUNA GIROC, JUD. TIMIȘ”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152163",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-65-2024",
+   "path": "local/timis/giroc/2024/65",
+   "short": "HCL Giroc nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 65/2024 privind constatarea dreptului de proprietate asupra imobilelor situate în Com. Giroc, înscrise în CF nr. 411550 Giroc și nr. 411551 Giroc, cu numerele cadastrale 411550 și 411551",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152164",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-66-2024",
+   "path": "local/timis/giroc/2024/66",
+   "short": "HCL Giroc nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 66/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a unor bunuri imobile",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152165",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-67-2024",
+   "path": "local/timis/giroc/2024/67",
+   "short": "HCL Giroc nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 67/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152166",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-68-2024",
+   "path": "local/timis/giroc/2024/68",
+   "short": "HCL Giroc nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 68/2024 privind aprobarea Metodologiei de atribuire de către Comuna Giroc a contractelor/acordurilor-cadru de achiziție publică de lucrări/servicii către Societatea cu răspundere limitată Giroceana",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152594",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-69-2024",
+   "path": "local/timis/giroc/2024/69",
+   "short": "HCL Giroc nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 69/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a cotei părți de 3/4 din imobilul teren situat în Giroc, înscris în CF nr. 407065 Giroc cu numărul cadastral DS552/2/5/2-3/18, în suprafaţă de 2888 mp",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152595",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-7-2024",
+   "path": "local/timis/giroc/2024/7",
+   "short": "HCL Giroc nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 7/2024 privind constatarea dreptului de proprietate asupra unui imobil inscris in CF nr. 417943 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140466",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-70-2024",
+   "path": "local/timis/giroc/2024/70",
+   "short": "HCL Giroc nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 70/2024 privind aprobarea Regulamentului de înființare și funcționare a pieței volante din Comuna Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/152596",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/152596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-71-2024",
+   "path": "local/timis/giroc/2024/71",
+   "short": "HCL Giroc nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 71/2024 privind declararea de utilitate publică și interes local a obiectivului de investiții „ÎNFIINȚAREA UNEI CAPACITĂȚI DE PRODUCȚIE A ENERGIEI ELECTRICE DIN SURSA SOLARĂ PENTRU ACOPERIREA CONSUMULUI PROPRIU ÎN COMUNA GIROC, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155696",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-72-2024",
+   "path": "local/timis/giroc/2024/72",
+   "short": "HCL Giroc nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 72/2024 privind aprobarea nivelului impozitelor și taxelor pentru anul 2025, prin indexare cu rata inflației",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155697",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-74-2024",
+   "path": "local/timis/giroc/2024/74",
+   "short": "HCL Giroc nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 74/2024 privind aprobarea actualizării datelor tehnice și diminuarea suprafeței de teren înscris în CF nr. 408850 cu număr cadastral 241-242/1, domeniul public al comunei Giroc, jud. Timiș",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155699",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-75-2024",
+   "path": "local/timis/giroc/2024/75",
+   "short": "HCL Giroc nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 75/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155700",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-76-2024",
+   "path": "local/timis/giroc/2024/76",
+   "short": "HCL Giroc nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 76/2024 privind aprobarea planului de acţiuni/lucrări de interes local pe anul 2024, ce vor fi prestate de către persoanele apte de muncă, beneficiare de ajutor de incluziune, care au obligaţia, conform legii, să presteze lunar activităţi/acţiuni de interes local",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155701",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-77-2024",
+   "path": "local/timis/giroc/2024/77",
+   "short": "HCL Giroc nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 77/2024 privind încheierea unui Protocol între PAROHIA ORTODOXĂ ROMÂNĂ CHIȘODA și COMUNA GIROC",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155702",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-78-2024",
+   "path": "local/timis/giroc/2024/78",
+   "short": "HCL Giroc nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 78/2024 privind aprobarea Studiului de oportunitate în vederea alegerii modalității de gestiune și întocmirii documentației de atribuire a serviciilor de Transport Public Județean de Persoane prin curse regulate în aria de competență teritorială a Unității Administrativ-Teritoriale Județul Timiș,",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155703",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-79-2024",
+   "path": "local/timis/giroc/2024/79",
+   "short": "HCL Giroc nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 79/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155704",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-8-2024",
+   "path": "local/timis/giroc/2024/8",
+   "short": "HCL Giroc nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 8/2024 privind scoaterea din functiune si casarea unor obiecte de inventar si a unor mijloace fixe din patrimoniu Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140467",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-80-2024",
+   "path": "local/timis/giroc/2024/80",
+   "short": "HCL Giroc nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 80/2024 privind modificarea Regulamentului pentru eliberarea și folosirea autorizațiilor de ″acces pentru trafic greu″, pentru stabilirea condițiilor de acces al autovehiculelor cu masa maximă autorizată de peste 12 tone, pentru utilizarea drumurilor comunale și altor categorii de drumuri aflate în proprietatea Comunei Giroc, precum și pentru modificarea și completarea HCL nr. 215 din data de 28.12.2022",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155705",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-81-2024",
+   "path": "local/timis/giroc/2024/81",
+   "short": "HCL Giroc nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 81/2024 privind aprobarea contului de execuţie al bugetului local al Comunei Giroc şi al instituţiilor și serviciilor publice finanţate integral sau parțial din bugetul local la 31 martie 2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/155706",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/155706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-82-2024",
+   "path": "local/timis/giroc/2024/82",
+   "short": "HCL Giroc nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 82/2024 privind atribuirea de către Consiliul Local a contractului pentru activitatea de „Lucrări și servicii de întreținere gospodărie comunală în comuna Giroc, jud. Timiș” către Societatea cu răspundere limitată GIROCEANA",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/156656",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/156656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-83-2024",
+   "path": "local/timis/giroc/2024/83",
+   "short": "HCL Giroc nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 83/2024 privind constatarea dreptului de proprietate asupra cotei părți de 2/4 din imobilul înscris în CF nr. 407065 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/156657",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/156657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-84-2024",
+   "path": "local/timis/giroc/2024/84",
+   "short": "HCL Giroc nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 84/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 416622 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/156658",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/156658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-85-2024",
+   "path": "local/timis/giroc/2024/85",
+   "short": "HCL Giroc nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 85/2024 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Giroc a cotei părți de ¾ din imobilul teren situat în Giroc, înscris în CF nr. 407065 Giroc cu numărul cadastral DS552/2/5/2-3/18, în suprafață de 2888 mp",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/156659",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/156659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-86-2024",
+   "path": "local/timis/giroc/2024/86",
+   "short": "HCL Giroc nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 86/2024 privind aprobarea punerii la dispoziția Clubului Sportiv “Giroc-Chișoda” a unui mijloc de transport, de către Societatea Giroceana S.R.L, pe ruta Giroc- Cluj-Napoca și retur, necesar deplasării grupei de juniori 4, secția handbal, la meciurile din cadrul turneului final al Campionatului Național de Handbal masculin, pentru Juniori 4, din perioada 12-16.06.2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158545",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-87-2024",
+   "path": "local/timis/giroc/2024/87",
+   "short": "HCL Giroc nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 87/2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158546",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-89-2024",
+   "path": "local/timis/giroc/2024/89",
+   "short": "HCL Giroc nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 89/2024 privind constatarea dreptului de proprietate asupra cotei părți de 32/344 din imobilul înscris în CF nr. 417404 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158548",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-9-2024",
+   "path": "local/timis/giroc/2024/9",
+   "short": "HCL Giroc nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 9/2024 privind aprobarea PUZ-Locuinte colective si functiuni complementare in intravilan Giroc, CF 415531, 415532, 411540, AVAND NR CAD 415531, 415532, 411540, cu suprafata de 7457 mp",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/140468",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/140468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-90-2024",
+   "path": "local/timis/giroc/2024/90",
+   "short": "HCL Giroc nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 90/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 413348 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158549",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-91-2024",
+   "path": "local/timis/giroc/2024/91",
+   "short": "HCL Giroc nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 91/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 413349 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158550",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-92-2024",
+   "path": "local/timis/giroc/2024/92",
+   "short": "HCL Giroc nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 92/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 412290 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158551",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-93-2024",
+   "path": "local/timis/giroc/2024/93",
+   "short": "HCL Giroc nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 93/2024 privind rectificarea bugetului Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158552",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-94-2024",
+   "path": "local/timis/giroc/2024/94",
+   "short": "HCL Giroc nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 94/2024 privind aprobarea proiectului cu titlul „REABILITARE ȘI EXTINDERE CLĂDIRI PENTRU ȘCOALA GENERALĂ CU CLASELE 0-VIII DIN COMUNA GIROC, JUDEȚUL TIMIȘ” – etapa II și a cheltuielilor aferente investiției Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158553",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-95-2024",
+   "path": "local/timis/giroc/2024/95",
+   "short": "HCL Giroc nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 95/2024 privind asigurarea transportului unui grup de elevi ai Liceului Teoretic “David Voniga” din Giroc, în excursia organizată în Serbia, respectiv pe traseul Giroc-Becej-Novi Sad-Giroc, în perioada 21.06.2024-23.06.2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158554",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-96-2024",
+   "path": "local/timis/giroc/2024/96",
+   "short": "HCL Giroc nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 96/2024 privind aprobarea proiectului cu titlul „REABILITARE ȘI EXTINDERE CLĂDIRI PENTRU ȘCOALA GENERALĂ CU CLASELE 0-VIII DIN COMUNA GIROC, JUDEȚUL TIMIȘ” – etapa II și a cheltuielilor aferente investiției Comunei Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158635",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-97-2024",
+   "path": "local/timis/giroc/2024/97",
+   "short": "HCL Giroc nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 97/2024 privind asigurarea transportului unui grup de elevi ai Liceului Teoretic „David Voniga” din Giroc, finaliști ai concursului școlar „Ne întrecem la citit”, la Sibiu, în data de 08.06.2024",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/158959",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/158959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-98-2024",
+   "path": "local/timis/giroc/2024/98",
+   "short": "HCL Giroc nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 98/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 417942 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161144",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giroc-99-2024",
+   "path": "local/timis/giroc/2024/99",
+   "short": "HCL Giroc nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giroc nr. 99/2024 privind constatarea dreptului de proprietate asupra imobilului înscris în CF nr. 417950 Giroc",
+   "url": "https://emol.ro/giroc-tm/registru-hcl/161145",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/giroc-tm/registru-hcl/161145",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

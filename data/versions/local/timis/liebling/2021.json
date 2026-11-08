@@ -1,0 +1,981 @@
+{
+ "country": "RO",
+ "shard": "local/timis/liebling/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--liebling-1-2021",
+   "path": "local/timis/liebling/2021/1",
+   "short": "HCL Liebling nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 1/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/14417",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/14417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-10-2021",
+   "path": "local/timis/liebling/2021/10",
+   "short": "HCL Liebling nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 10/2021 Privind aprobarea unor cheltuieli ocazionate de întocmirea și comunicarea prin poștă a documentelor de executare silită",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/18513",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/18513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-11-2021",
+   "path": "local/timis/liebling/2021/11",
+   "short": "HCL Liebling nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 11/2021 Privind aprobarea contractării temporare a serviciului public de salubrizare și colectare selectivă a deșeurilor de pe raza comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/19601",
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/19601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-12-2021",
+   "path": "local/timis/liebling/2021/12",
+   "short": "HCL Liebling nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 12/2021 Privind aprobarea însușirii variantei finale a proiectului de stemă a comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/21218",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/21218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-13-2021",
+   "path": "local/timis/liebling/2021/13",
+   "short": "HCL Liebling nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 13/2021 Privind aprobarea Regulamentului privind condițiile de desfășurare a activităților de comerț stradal şi a conditiilor de amplasare a teraselor pe raza comunei Liebling și a satelor aparținătoare (Cerna și Iosif)",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/21213",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/21213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-14-2021",
+   "path": "local/timis/liebling/2021/14",
+   "short": "HCL Liebling nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 14/2021 Privind aprobarea Regulamentului privind organizarea şi desfăşurarea activităţilor comerciale pe teritoriul comunei Liebling și a satelor aparținătoare (Cerna și Iosif)",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/21214",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/21214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-16-2021",
+   "path": "local/timis/liebling/2021/16",
+   "short": "HCL Liebling nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 16/2021 Privind aprobarea „PLANULUI DE PAZĂ” al comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/21216",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/21216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-17-2021",
+   "path": "local/timis/liebling/2021/17",
+   "short": "HCL Liebling nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 17/2021 Privind aprobarea atestării apartenenței la domeniul public a unor străzi din intravilanul și extravilanul comunei Liebling județul Timiș, precum și emiterea acordului de intabulare a dreptului de proprietate a comunei Liebling, județul Timiș asupra acestora",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/21217",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/21217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-18-2021",
+   "path": "local/timis/liebling/2021/18",
+   "short": "HCL Liebling nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 18/2021 Privind aprobarea indexării impozitelor și taxelor locale, pentru anul 2022",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/22369",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/22369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-2-2021",
+   "path": "local/timis/liebling/2021/2",
+   "short": "HCL Liebling nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 2/2021 Privind aprobarea scutirii de la plata impozitului pe clădire a cabinetelor medicale de pe raza comunei Liebling, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/14418",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/14418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-20-2021",
+   "path": "local/timis/liebling/2021/20",
+   "short": "HCL Liebling nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 20/2021 Privind aprobarea utilizării excedentului bugetului local al Școlii Gimnaziale Liebling rezultat la încheierea exercițiului bugetar din anul 2020",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/22371",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/22371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-21-2021",
+   "path": "local/timis/liebling/2021/21",
+   "short": "HCL Liebling nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 21/2021 Privind aprobarea bugetului local inițial al comunei Liebling, județ Timiș pentru anul 2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/22372",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/22372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-22-2021",
+   "path": "local/timis/liebling/2021/22",
+   "short": "HCL Liebling nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 22/2021 Privind aprobarea asocierii comunei Liebling cu Județul Timiș și cu unele unități administrative teritoriale din județ, în vederea constituirii Asociației de Dezvoltare Intercomunitară pentru SĂNĂTATE – MEDIU ”SAMETIM” – Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/22373",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/22373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-23-2021",
+   "path": "local/timis/liebling/2021/23",
+   "short": "HCL Liebling nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 23/2021 Privind aprobarea retragerii și dobândirii calității de membru în ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DISTRIBUȚIE GAZ TIMIȘ CENTRU",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24733",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-28-2021",
+   "path": "local/timis/liebling/2021/28",
+   "short": "HCL Liebling nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 28/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24738",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-29-2021",
+   "path": "local/timis/liebling/2021/29",
+   "short": "HCL Liebling nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 29/2021 Privind aprobarea numărului și a cuantumului burselor școlare aferente anului scolar 2021–2022 pentru elevii Școlii Gimnaziale Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24739",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-3-2021",
+   "path": "local/timis/liebling/2021/3",
+   "short": "HCL Liebling nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 3/2021 Privind aprobarea proiectului „Dotarea Școlii Gimnaziale Liebling, cu echipamente mobile din domeniul tehnologiei informaţiei, pentru desfășurarea procesului educațional de tip școala on-line și a cheltuielilor aferente” având cod SMIS 149551",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/14419",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/14419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-30-2021",
+   "path": "local/timis/liebling/2021/30",
+   "short": "HCL Liebling nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 30/2021 Privind aprobarea proiectului și a principalilor indicatori tehnico-economici pentru obiectivul de investiții: „Izolare termică a fațadei Școlii Gimnaziale din Comuna Liebling”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24740",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-31-2021",
+   "path": "local/timis/liebling/2021/31",
+   "short": "HCL Liebling nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 31/2021 Privind aprobarea proiectului și a principalilor indicatori tehnico-economici pentru obiectivul de investiții: „Reparație și întreținere gard la Școala Gimnazială din localitatea Liebling”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24741",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-32-2021",
+   "path": "local/timis/liebling/2021/32",
+   "short": "HCL Liebling nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 32/2021 Privind aprobarea proiectului și a principalilor indicatori tehnico-economici pentru obiectivul de investiții: „Reparație și întreținere trotuar la cimitirul din localitatea Liebling”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24742",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-33-2021",
+   "path": "local/timis/liebling/2021/33",
+   "short": "HCL Liebling nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 33/2021 Privind aprobarea proiectului și a principalilor indicatori tehnico-economici pentru obiectivul de investiții: „Construire capelă în localitatea Iosif, județul Timiș”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24743",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-34-2021",
+   "path": "local/timis/liebling/2021/34",
+   "short": "HCL Liebling nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 34/2021 Privind aprobarea activării secțiilor sportive din cadrul Clubului Sportiv Comunal Liebling, aprobarea preluării de activitate sportivă de la Asociația Sportivă Fotbal Club Atletico Liebling, precum și aprobarea punerii în funcțiune a Clubului Sportiv Comunal Liebling",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24744",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-35-2021",
+   "path": "local/timis/liebling/2021/35",
+   "short": "HCL Liebling nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 35/2021 Privind aprobarea Regulamentului intern al aparatului de specialitate al primarului comunei Liebling, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24745",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-36-2021",
+   "path": "local/timis/liebling/2021/36",
+   "short": "HCL Liebling nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 36/2021 Privind aprobarea stabilirii modului de întocmire a Registrului agricol al comunei Liebling, județul Timiș în format electronic și interconectarea cu RAN și RENS",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24746",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-37-2021",
+   "path": "local/timis/liebling/2021/37",
+   "short": "HCL Liebling nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 37/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, asistență juridică și reprezentare în DOSARUL NR. 989/220/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/24747",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/24747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-38-2021",
+   "path": "local/timis/liebling/2021/38",
+   "short": "HCL Liebling nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 38/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/26329",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/26329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-39-2021",
+   "path": "local/timis/liebling/2021/39",
+   "short": "HCL Liebling nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 39/2021 Privind aprobarea primei rectificări a bugetului local de venituri și cheltuieli al Comunei Liebling, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/26328",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/26328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-4-2021",
+   "path": "local/timis/liebling/2021/4",
+   "short": "HCL Liebling nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 4/2021 Privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2021 pentru persoanele beneficiare de ajutor social din comuna Liebling, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/14420",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/14420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-40-2021",
+   "path": "local/timis/liebling/2021/40",
+   "short": "HCL Liebling nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 40/2021 Privind aprobarea constatării apartenenței la domeniul privat al comunei Liebling, în administrarea Consiliului Local Liebling a terenurilor înscrise în: CF Nr. 401089 având Nr. Top: 3552, CF Nr. 401090 având Nr. Top: 3554 și CF Nr. 401246 având Nr. Top: 3553",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/26327",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/26327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-41-2021",
+   "path": "local/timis/liebling/2021/41",
+   "short": "HCL Liebling nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 41/2021 Privind aprobarea Planului anual de evoluție a tarifelor la apă și canalizare pentru implementarea „Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/28082",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/28082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-42-2021",
+   "path": "local/timis/liebling/2021/42",
+   "short": "HCL Liebling nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 42/2021 Privind aprobarea organigramei și a statului de funcții al Primăriei comunei Liebling, județul Timiș pe anul 2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/30508",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/30508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-43-2021",
+   "path": "local/timis/liebling/2021/43",
+   "short": "HCL Liebling nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 43/2021 Privind aprobarea stabilirii componenței și a Regulamentului de organizare și funcționare a Consiliului Consultativ pentru Protecția Consumatorilor din Comuna Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/30509",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/30509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-44-2021",
+   "path": "local/timis/liebling/2021/44",
+   "short": "HCL Liebling nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 44/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/30510",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/30510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-45-2021",
+   "path": "local/timis/liebling/2021/45",
+   "short": "HCL Liebling nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 45/2021 Privind aprobarea constatării apartenenței la domeniul privat al comunei Liebling, în administrarea Consiliului Local Liebling a unor terenuri, precum și aprobarea și însușirea documentației topografice de primă înscriere în favoarea comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/30511",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/30511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-46-2021",
+   "path": "local/timis/liebling/2021/46",
+   "short": "HCL Liebling nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 46/2021 privind aprobarea documentului de sinteză cu indicatorii tehnico-economici globali rezultați din cele 4 componente ale studiilor de fezabilitate referitoare la proiectul: „ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ÎN ORAȘUL CIACOVA, COMUNA LIEBLING, COMUNA JEBEL ȘI COMUNA GHILAD, JUDEȚUL TIMIȘ” în cadrul POIM 2014 -2020, Axa Prioritară 8 Sisteme inteligente şi sustenabile de transport al energiei electrice şi gazelor naturale, Obiectivul Specific 8.2 Creşterea gradului de interconectare a Sistemului Naţional de Transport a gazelor naturale cu alte state vecine;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/33066",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/33066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-48-2021",
+   "path": "local/timis/liebling/2021/48",
+   "short": "HCL Liebling nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 48/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36868",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-49-2021",
+   "path": "local/timis/liebling/2021/49",
+   "short": "HCL Liebling nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 49/2021 Privind aprobarea îndreptării erorii materiale din cuprinsul Hotărârii de Consiliu Local cu Nr. 48/16.12.2020",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36869",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-5-2021",
+   "path": "local/timis/liebling/2021/5",
+   "short": "HCL Liebling nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 5/2021 Privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea auditului public intern și la alte activități necesare comunei Liebling, Jud. Timiș, cu A.Co.R, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/14421",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/14421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-50-2021",
+   "path": "local/timis/liebling/2021/50",
+   "short": "HCL Liebling nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 50/2021 Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Liebling, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36870",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-51-2021",
+   "path": "local/timis/liebling/2021/51",
+   "short": "HCL Liebling nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 51/2021 Privind aprobarea îndreptării erorii materiale din cuprinsul Hotărârii de Consiliu Local cu Nr. 18/20.04.2021 referitoare la indexarea impozitelor și taxelor locale, pentru anul 2022",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36871",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-52-2021",
+   "path": "local/timis/liebling/2021/52",
+   "short": "HCL Liebling nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 52/2021 Privind aprobarea atestării apartenenței la domeniul public a unor străzi din intravilanul și extravilanul comunei Liebling județul Timiș, precum și emiterea acordului de intabulare a dreptului de proprietate a comunei Liebling, județul Timiș asupra acestora",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36872",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-53-2021",
+   "path": "local/timis/liebling/2021/53",
+   "short": "HCL Liebling nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 53/2021 Privind aprobarea prelungirii contractelor de salubrizare și colectare selectivă a deșeurilor de pe raza comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/36873",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/36873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-55-2021",
+   "path": "local/timis/liebling/2021/55",
+   "short": "HCL Liebling nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 55/2021 Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Liebling, județul Timiș pe anul 2021;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38674",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-56-2021",
+   "path": "local/timis/liebling/2021/56",
+   "short": "HCL Liebling nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 56/2021 Privind aprobarea modificărilor și completărilor actelor constitutive ale ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DEȘEURI TIMIȘ",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38675",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-57-2021",
+   "path": "local/timis/liebling/2021/57",
+   "short": "HCL Liebling nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 57/2021 Privind aprobarea ajustării prețului contractului de achiziții de lucrării aferente obiectivului de investiții: „CONSTRUIRE GRADINIȚĂ CU 6 GRUPE CU PROGRAM PRELUNGIT IN REGIM P+2E ÎN LOCALITATEA LIEBLING”",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38676",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-58-2021",
+   "path": "local/timis/liebling/2021/58",
+   "short": "HCL Liebling nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 58/2021 Privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiție: „CONSTRUIRE GRADINIȚĂ CU 6 GRUPE CU PROGRAM PRELUNGIT ÎN REGIM P+2E ÎN LOCALITATEA LIEBLING“",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38677",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-59-2021",
+   "path": "local/timis/liebling/2021/59",
+   "short": "HCL Liebling nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 59/2021 Privind aprobarea demarării investiției și a indicatorilor tehnico-economici pentru proiectul: „Asfaltare Drum Comunal DC 166, Comuna Liebling, Jud. Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38678",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-6-2021",
+   "path": "local/timis/liebling/2021/6",
+   "short": "HCL Liebling nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 6/2021 Privind aprobarea atestării apartenenței la domeniul public a străzilor din intravilanul satelor Cerna și Iosif, comuna Liebling județul Timiș, precum și emiterea acordului de intabulare a dreptului de proprietate a comunei Liebling, județul Timiș, asupra acestora",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/15306",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/15306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-60-2021",
+   "path": "local/timis/liebling/2021/60",
+   "short": "HCL Liebling nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 60/2021 Privind aprobarea demarării investiției și aprobării indicatorilor tehnico-economici pentru proiectul de: „Modernizare Străzi în Comuna Liebling, Jud. Timiș“",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38679",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-61-2021",
+   "path": "local/timis/liebling/2021/61",
+   "short": "HCL Liebling nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 61/2021 Privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Salubrizare din Jud. Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38680",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-63-2021",
+   "path": "local/timis/liebling/2021/63",
+   "short": "HCL Liebling nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 63/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/38682",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/38682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-64-2021",
+   "path": "local/timis/liebling/2021/64",
+   "short": "HCL Liebling nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 64/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/42392",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/42392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-65-2021",
+   "path": "local/timis/liebling/2021/65",
+   "short": "HCL Liebling nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 65/2021 Privind aprobarea însușirii variantei finale a proiectului de stemă a comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/42393",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/42393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-68-2021",
+   "path": "local/timis/liebling/2021/68",
+   "short": "HCL Liebling nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 68/2021 Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Liebling, județul Timiș pe anul 2021;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/42396",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/42396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-69-2021",
+   "path": "local/timis/liebling/2021/69",
+   "short": "HCL Liebling nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 69/2021 Privind aprobarea organizării de întâlniri cu cetățenii și aprobarea programului de audiențe acordat de consilierii locali ai comunei Liebling, județul Timiș",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/42397",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/42397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-7-2021",
+   "path": "local/timis/liebling/2021/7",
+   "short": "HCL Liebling nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 7/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru contestarea în instanța de contencios administrativ a Deciziilor emise de către Comisia Specială de Retrocedare a unor bunuri imobile care au aparținut cultelor religioase din România",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/15305",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/15305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-70-2021",
+   "path": "local/timis/liebling/2021/70",
+   "short": "HCL Liebling nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 70/2021 Privind aprobarea studiului de oportunitate pentru delegarea de gestiune prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 3 – Deta din județul Timiş, a Indicatorilor de performanţă şi a Documentației de atribuire pentru delegarea gestiunii prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 3 – Deta din județul Timiş",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/42398",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/42398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-71-2021",
+   "path": "local/timis/liebling/2021/71",
+   "short": "HCL Liebling nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 71/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44232",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-72-2021",
+   "path": "local/timis/liebling/2021/72",
+   "short": "HCL Liebling nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 72/2021 Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Liebling, județul Timiș pe anul 2021;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44233",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-73-2021",
+   "path": "local/timis/liebling/2021/73",
+   "short": "HCL Liebling nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 73/2021 Privind aprobarea constatării apartenenței la domeniul privat al comunei Liebling, în administrarea Consiliului Local Liebling a imobilului reprezentând SAD 9/2, Regim de înălțime P+M parțial, compus din hol și magazie, înscris în Cartea Funciară nr.400186-C1-U11 Liebling, cu nr. cadastral 400186-C1-U11, situat în intravilanul comunei Liebling, Nr.726, județul Timiș;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44234",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-74-2021",
+   "path": "local/timis/liebling/2021/74",
+   "short": "HCL Liebling nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 74/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44235",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-75-2021",
+   "path": "local/timis/liebling/2021/75",
+   "short": "HCL Liebling nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 75/2021 Privind aprobarea achiziționării de servicii juridice de consultanță, asistență juridică și reprezentare în DOSARUL NR. 181/59/2021",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44236",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-76-2021",
+   "path": "local/timis/liebling/2021/76",
+   "short": "HCL Liebling nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 76/2021 Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Liebling, județul Timiș pe anul 2021;",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/44776",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/44776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-8-2021",
+   "path": "local/timis/liebling/2021/8",
+   "short": "HCL Liebling nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 8/2021 Privind aprobarea Regulamentului propriu referitor la măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Liebling, județul Timiș, înspre adoptare",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/18511",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/18511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--liebling-9-2021",
+   "path": "local/timis/liebling/2021/9",
+   "short": "HCL Liebling nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Liebling nr. 9/2021 Privind aprobarea înființării CLUBULUI SPORTIV COMUNAL LIEBLING, structură sportivă de interes local cu personalitate juridică, de drept public, înființat ca instituţie publică în subordinea Consiliului Local al Comunei Liebling",
+   "url": "https://emol.ro/liebling-tm/registru-hcl/18512",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/liebling-tm/registru-hcl/18512",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

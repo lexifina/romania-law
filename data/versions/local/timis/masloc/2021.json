@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/timis/masloc/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--masloc-1-2021",
+   "path": "local/timis/masloc/2021/1",
+   "short": "HCL Mașloc nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 1/2021 privind aprobarea dezlipirii imobilului înscris în CF nr. 403702 Mașloc, nr. cad./top. 403702",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35513",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-10-2021",
+   "path": "local/timis/masloc/2021/10",
+   "short": "HCL Mașloc nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 10/2021 privind aprobarea planului de acțiuni și lucrări de interes local și repartizarea orelor de muncă pentru beneficiarii de VMG",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35522",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-11-2021",
+   "path": "local/timis/masloc/2021/11",
+   "short": "HCL Mașloc nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 11/2021 privind aprobarea Statutului com. Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35523",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-12-2021",
+   "path": "local/timis/masloc/2021/12",
+   "short": "HCL Mașloc nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 12/2021 privind aprobarea asigurării spațiilor necesare colectării separate a deșeurilor",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35524",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-13-2021",
+   "path": "local/timis/masloc/2021/13",
+   "short": "HCL Mașloc nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 13/2021 privind aprobarea modalității de declarare a datelor care trebuie înscrise în registrul agricol și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35525",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-14-2021",
+   "path": "local/timis/masloc/2021/14",
+   "short": "HCL Mașloc nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 14/2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35526",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-15-2021",
+   "path": "local/timis/masloc/2021/15",
+   "short": "HCL Mașloc nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 15/2021 privind aprobarea documentației tehnico-economică pentru investiția: „Construire și dotare așezământ cultural, sat Mașloc, comuna Mașloc, județul Timiș”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35527",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-16-2021",
+   "path": "local/timis/masloc/2021/16",
+   "short": "HCL Mașloc nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 16/2021 privind aprobarea intocmirii Studiului de Fezabilitate pentru obiectivul de investitii „Inființare Retea de Distributie Gaze Naturale in com.Mașloc, jud.Timiș",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40090",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-17-2021",
+   "path": "local/timis/masloc/2021/17",
+   "short": "HCL Mașloc nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 17/2021 privind aprobarea Planului anual de evoluție a tarifelor la apă și canalizare pentru implementarea “Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40091",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-18-2021",
+   "path": "local/timis/masloc/2021/18",
+   "short": "HCL Mașloc nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 18/2021 privind unele măsuri de gospodărire localitățiilor aparținătoare com. Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40092",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-19-2021",
+   "path": "local/timis/masloc/2021/19",
+   "short": "HCL Mașloc nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 19/2021 privind stabilirea prețului de valorificare a masei lemnoase din fondul forestier proprietatea comunei Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40093",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-2-2021",
+   "path": "local/timis/masloc/2021/2",
+   "short": "HCL Mașloc nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 2/2021 privind aprobarea dezlipirii imobilului înscris în CF nr. 403677 Mașloc, nr. cad./top. 403677",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35514",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-20-2021",
+   "path": "local/timis/masloc/2021/20",
+   "short": "HCL Mașloc nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 20/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40094",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-21-2021",
+   "path": "local/timis/masloc/2021/21",
+   "short": "HCL Mașloc nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 21/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40128",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-22-2021",
+   "path": "local/timis/masloc/2021/22",
+   "short": "HCL Mașloc nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 22/2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40129",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-23-2021",
+   "path": "local/timis/masloc/2021/23",
+   "short": "HCL Mașloc nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 23/2021 privind aprobarea modificărilor și completărilor la actele constitutive ale ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DEȘEURI TIMIȘ",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40130",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-24-2021",
+   "path": "local/timis/masloc/2021/24",
+   "short": "HCL Mașloc nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 24/2021 privind modificarea statului de funcții și organigramei",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40131",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-25-2021",
+   "path": "local/timis/masloc/2021/25",
+   "short": "HCL Mașloc nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 25/2021 privind stabilirea locurilor de parcare a microbuzelor școlare și a utilajelor din dotarea primăriei",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40132",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-26-2021",
+   "path": "local/timis/masloc/2021/26",
+   "short": "HCL Mașloc nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 26/2021 privind aprobarea dării în folosință gratuită a unui teren pentru amenajarea unui depozit pentru materiale folosite la lucrări de utilitate publică",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40133",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-27-2021",
+   "path": "local/timis/masloc/2021/27",
+   "short": "HCL Mașloc nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 27/2021 privind implementarea proiectului „UTILAJ MULTIFUNCȚIONAL TRACTOR CU ATAȘAMENTE ȘI PANOURI LED, COMUNA MAȘLOC, JUDEȚUL TIMIȘ ”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40134",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-28-2021",
+   "path": "local/timis/masloc/2021/28",
+   "short": "HCL Mașloc nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 28/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40135",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-29-2021",
+   "path": "local/timis/masloc/2021/29",
+   "short": "HCL Mașloc nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 29/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40136",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-3-2021",
+   "path": "local/timis/masloc/2021/3",
+   "short": "HCL Mașloc nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 3/2021 privind aprobarea alipirii imobilului înscris în CF nr. 403676 Mașloc, nr. cad./top. 403676 cu LOT 1 provenit din dezlipirea din CF 403677, nr. cad/top. 403677",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35515",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-30-2021",
+   "path": "local/timis/masloc/2021/30",
+   "short": "HCL Mașloc nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 30/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40137",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-31-2021",
+   "path": "local/timis/masloc/2021/31",
+   "short": "HCL Mașloc nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 31/2021 privind aprobarea aprobarea cererii de finanțare pentru obiectivul de investiții ”Realizare sisteme de canalizare și stații de epurare în comuna Mașloc, jud. Timiș” și a Devizului General estimativ, în cadrul Programului Național de Investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40138",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-32-2021",
+   "path": "local/timis/masloc/2021/32",
+   "short": "HCL Mașloc nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 32/2021 privind aprobarea cererii de finanțare pentru obiectivul de investiții ”Amenajare trotuare în comuna Mașloc, jud. Timiș” și a Devizului General estimativ, în cadrul Programului Național de Investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40139",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-33-2021",
+   "path": "local/timis/masloc/2021/33",
+   "short": "HCL Mașloc nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 33/2021 privind aprobarea alipirii a două imobile",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/40140",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/40140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-37-2021",
+   "path": "local/timis/masloc/2021/37",
+   "short": "HCL Mașloc nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 37/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56947",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-38-2021",
+   "path": "local/timis/masloc/2021/38",
+   "short": "HCL Mașloc nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 38/2021 privind stabilirea impozitelor şi taxelor locale aplicabile în anul fiscal 2022",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56948",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-39-2021",
+   "path": "local/timis/masloc/2021/39",
+   "short": "HCL Mașloc nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 39/2021 privind aprobarea proiectului reţelei şcolare de pe raza UAT com. Mașloc, pentru anul şcolar 2022 - 2023",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56949",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-4-2021",
+   "path": "local/timis/masloc/2021/4",
+   "short": "HCL Mașloc nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 4/2021 privind adoptarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35516",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-40-2021",
+   "path": "local/timis/masloc/2021/40",
+   "short": "HCL Mașloc nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 40/2021 privind aprobarea dezlipirii imobilului înscris în CF nr.404642 Mașloc, nr. cad./top.404642",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56950",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-41-2021",
+   "path": "local/timis/masloc/2021/41",
+   "short": "HCL Mașloc nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 41/2021 privind aprobarea dezlipirii imobilului înscris în CF nr.404675 Mașloc, nr. cad./top.404675",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56951",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-42-2021",
+   "path": "local/timis/masloc/2021/42",
+   "short": "HCL Mașloc nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 42/2021 privind aprobarea dezlipirii imobilului înscris în CF nr.404143 Mașloc, nr. cad./top. I.E.404143",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56952",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-43-2021",
+   "path": "local/timis/masloc/2021/43",
+   "short": "HCL Mașloc nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 43/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56953",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-44-2021",
+   "path": "local/timis/masloc/2021/44",
+   "short": "HCL Mașloc nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 44/2021 privind trecerea obiectivului \"Stație de bază pentru servicii de comunicații electronice (antenă pentru furnizarea semnalului de telefonie mobilă DIGI)\", în categoria \"Obiectiv de interes local\"",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56954",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-45-2021",
+   "path": "local/timis/masloc/2021/45",
+   "short": "HCL Mașloc nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 45/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/56955",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/56955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-5-2021",
+   "path": "local/timis/masloc/2021/5",
+   "short": "HCL Mașloc nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 5/2021 privind aprobarea contului de execuție al bugetului local pe anul 2020",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35517",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-6-2021",
+   "path": "local/timis/masloc/2021/6",
+   "short": "HCL Mașloc nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 6/2021 privind aprobarea statului de funcții și organigramei",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35518",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-7-2021",
+   "path": "local/timis/masloc/2021/7",
+   "short": "HCL Mașloc nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 7/2021 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului com. Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35519",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-8-2021",
+   "path": "local/timis/masloc/2021/8",
+   "short": "HCL Mașloc nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 8/2021 privind aprobarea planului de ocupare al funcţiilor publice din cadrul aparatului de specialitate al primarului comunei Maşloc, în anul 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35520",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-9-2021",
+   "path": "local/timis/masloc/2021/9",
+   "short": "HCL Mașloc nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 9/2021 privind acordarea de burse elevilor",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/35521",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/35521",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

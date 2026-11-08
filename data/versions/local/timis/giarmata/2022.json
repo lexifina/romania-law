@@ -1,0 +1,681 @@
+{
+ "country": "RO",
+ "shard": "local/timis/giarmata/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--giarmata-151-2022",
+   "path": "local/timis/giarmata/2022/151",
+   "short": "HCL Giarmata nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 151/2022 privind participarea Comunei Giarmata la “Programul Național de Redresare și Reziliență, Componenta C3 – Managementul deșeurilor, Subinvestiția I1.A. - Înființarea de centre de colectare prin aport voluntar”, implementarea proiectului și aprobarea cheltuielilor legate de proiectul cu titlul “ Centru de colectare selectivă deșeuri prin aport voluntar în comuna Giarmata, județul Timiș“",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/72318",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/72318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-152-2022",
+   "path": "local/timis/giarmata/2022/152",
+   "short": "HCL Giarmata nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 152/2022 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul III și IV, aprobarea virărilor de credite, modificarea listei de investiții și a agendei culturale pentru anul 2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73937",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-153-2022",
+   "path": "local/timis/giarmata/2022/153",
+   "short": "HCL Giarmata nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 153/2022 privind aprobarea rezultatului inventarierii patrimoniului public și privat al Comunei Giarmata și a mijloacelor fixe aflate în patrimoniul Comunei Giarmata pentru anul 2021",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73938",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-157-2022",
+   "path": "local/timis/giarmata/2022/157",
+   "short": "HCL Giarmata nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 157/2022 privind aprobarea majorării capitalului social al SC Gospodărie Comunală Giarmata SRL",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73942",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-159-2022",
+   "path": "local/timis/giarmata/2022/159",
+   "short": "HCL Giarmata nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 159/2022 pentru completarea HCL Giarmata nr. 14 din data de 14.02.2022 privind darea în administrarea Clubului Sportiv Comunal Millenium Giarmata, instituţie publică cu personalitate juridică, aflată în subordinea Consiliului Local al Comunei Giarmata a unui imobil din patrimoniul Comunei Giarmata",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73944",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-160-2022",
+   "path": "local/timis/giarmata/2022/160",
+   "short": "HCL Giarmata nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 160/2022 privind actualizarea organigramei și a statului de funcții al apararatului de specialitate al primarului Comunei Giarmata, județul Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73945",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-162-2022",
+   "path": "local/timis/giarmata/2022/162",
+   "short": "HCL Giarmata nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 162/2022 pentru îndreptarea erorii materiale prevăzută la art. 1 din HCL Giarmata nr. 131 din 27.07.2022 privind dezmembrarea imobilului înscris în CF nr. 412742 Giarmata în suprafață de 4806 mp în trei loturi",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73947",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-163-2022",
+   "path": "local/timis/giarmata/2022/163",
+   "short": "HCL Giarmata nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 163/2022 privind stabilirea sumei cheltuielilor de executare silită ocazionate de tipărirea și comunicarea prin poștă a documentelor de executare silită",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73948",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-164-2022",
+   "path": "local/timis/giarmata/2022/164",
+   "short": "HCL Giarmata nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 164/2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73949",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-165-2022",
+   "path": "local/timis/giarmata/2022/165",
+   "short": "HCL Giarmata nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 165/2022 privind aprobarea Regulamentului de organizare și funcționare a activității de voluntariat din cadrul Comunei Giarmata și al serviciilor sociale de interes local aflate sub autoritatea Consiliului Local al Comunei Giarmata",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73950",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-166-2022",
+   "path": "local/timis/giarmata/2022/166",
+   "short": "HCL Giarmata nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 166/2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73951",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-167-2022",
+   "path": "local/timis/giarmata/2022/167",
+   "short": "HCL Giarmata nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 167/2022 privind achiziționarea unor servicii juridice constând în consultanță juridică, asistenţă şi reprezentare juridică în dosarul nr. 3062/30/2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/73952",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/73952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-168-2022",
+   "path": "local/timis/giarmata/2022/168",
+   "short": "HCL Giarmata nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 168/2022 pentru aprobarea modificarii HCL nr. 74/2022 privind participarea Comunei Giarmata la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete (și alte vehicule electrice ușoare) la nivel local/metropolitan”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete în Comuna Giarmata, județul Timiș“",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/74390",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/74390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-170-2022",
+   "path": "local/timis/giarmata/2022/170",
+   "short": "HCL Giarmata nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 170/2022 privind aprobarea actualizării Regulamentului de organizare şi funcţionare a serviciului public de gestionare a câinilor fără stăpân în comuna Giarmata, jud.Timiş, a caietului de sarcini aferent procedurii simplificate de delegare a gestiunii prin concesionarea serviciilor de ecarisaj, precum și pentru aprobarea draftului de contract",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/75246",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/75246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-172-2022",
+   "path": "local/timis/giarmata/2022/172",
+   "short": "HCL Giarmata nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 172/2022 privind trecerea din domeniul privat în domeniul public al UATC Giarmata și constatarea apartenenței la domeniul public a imobilului înscris în CF 405236",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/75372",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/75372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-173-2022",
+   "path": "local/timis/giarmata/2022/173",
+   "short": "HCL Giarmata nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 173/2022 privind trecerea din domeniul privat în domeniul public al UATC Giarmata și constatarea apartenenței la domeniul public a imobilului înscris în CF 409786",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/75373",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/75373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-174-2022",
+   "path": "local/timis/giarmata/2022/174",
+   "short": "HCL Giarmata nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 174/2022 privind aprobarea accesării unei finanțări nerambursabile a Comunei Giarmata la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete (și alte vehicule electrice ușoare) la nivel local/metropolitan”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete în localitățile Giarmata și Cerneteaz, județul Timiș“",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/75630",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/75630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-176-2022",
+   "path": "local/timis/giarmata/2022/176",
+   "short": "HCL Giarmata nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 176/2022 privind aprobarea unor tarife pentru unele activități și operațiuni practicate de SC Gospodărie Comunală Giarmata SRL",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77324",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-178-2022",
+   "path": "local/timis/giarmata/2022/178",
+   "short": "HCL Giarmata nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 178/2022 privind actualizarea statului de funcții al apararatului de specialitate al primarului Comunei Giarmata, județul Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77326",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-179-2022",
+   "path": "local/timis/giarmata/2022/179",
+   "short": "HCL Giarmata nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 179/2022 privind constatarea apartenenței la domeniul public al comunei Giarmata a unui număr de 84 de imobile (străzi) de pe raza UAT Giarmata",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77327",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-180-2022",
+   "path": "local/timis/giarmata/2022/180",
+   "short": "HCL Giarmata nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 180/2022 privind alipirea imobilelor înscrise în CF Giarmata nr. 409786 și CF Giarmata nr. 409787, precum și dezlipirea imobilului nou format în două loturi",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77328",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-181-2022",
+   "path": "local/timis/giarmata/2022/181",
+   "short": "HCL Giarmata nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 181/2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77329",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-182-2022",
+   "path": "local/timis/giarmata/2022/182",
+   "short": "HCL Giarmata nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 182/2022 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, aprobarea virărilor de credite, modificarea listei de investiții și a agendei culturale pentru anul 2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77330",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-183-2022",
+   "path": "local/timis/giarmata/2022/183",
+   "short": "HCL Giarmata nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 183/2022 privind dezmembrarea imobilului înscris în CF nr. 412357 Giarmata în suprafață de 37500 mp în două loturi declararea de interes public local a lotului I rezultat în urma dezlipirii",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77331",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-184-2022",
+   "path": "local/timis/giarmata/2022/184",
+   "short": "HCL Giarmata nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 184/2022 privind constatarea apartenenței la domeniul public al comunei Giarmata a imobilelor înscrise în CF Giarmata nr. 409071, CF Giarmata nr. 409068, CF Giarmata nr. 405234, CF Giarmata nr. 405239, CF Giarmata nr. 405258 (str. Soarelui) și constatarea apartenenței la intravilanul localității Giarmata a imobilelor înscrise în CF Giarmata nr. 409071, CF Giarmata nr. 409068",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77332",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-186-2022",
+   "path": "local/timis/giarmata/2022/186",
+   "short": "HCL Giarmata nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 186/2022 privind aprobarea documentațiilor cadastrale de actualizare a datelor pentru un număr de 28 de imobile (străzi) aparținând domeniului public al Comunei Giarmata",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/77334",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/77334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-187-2022",
+   "path": "local/timis/giarmata/2022/187",
+   "short": "HCL Giarmata nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 187/2022 privind pentru aprobarea modificarii HCL nr. 183/17.11.2021 privind aprobarea proiectului de investitii si a documentatiei tehnice - Documentatia de avizare a lucrarilor de interventii pentru investitia „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRILOR: ȘCOALA GIMNAZIALĂ GIARMATA, ȘCOALA CU CLASELE I-IV CERNETEAZ ȘI GRĂDINIȚA CERNETEAZ - ȘCOALA GIMNAZIALĂ GIARMATA”",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/78334",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/78334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-188-2022",
+   "path": "local/timis/giarmata/2022/188",
+   "short": "HCL Giarmata nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 188/2022 privind aprobarea încheierii unui Protocol de colaborare în cadrul proiectului ,,HUB de servicii MMSS-SII MMSS″, cod MySmis 130963",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/80936",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/80936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-193-2022",
+   "path": "local/timis/giarmata/2022/193",
+   "short": "HCL Giarmata nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 193/2022 privind luarea la cunoștință a declarației de renunțare la dreptul de proprietate asupra imobilului înscris în CF 409820 Giarmata constând în teren intravilan - arabil, teren neîmprejmuit, teren intravilan „pentru drum și spații verzi”, parcela 21, în suprafață totală de 3.936 mp de la SC GREEN VILLAGE GROUP SRL",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/80941",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/80941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-197-2022",
+   "path": "local/timis/giarmata/2022/197",
+   "short": "HCL Giarmata nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 197/2022 privind aprobarea documentației Studiu de Fezabilitate, a indicatorilor tehnico-economici și a documentației-Analiză cost-beneficiu (ACB) aferente obiectivului de investiții: ”Sistem centralizat de producere și distribuție a energiei termice utilizând sursa de energie geotermală”",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/80945",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/80945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-198-2022",
+   "path": "local/timis/giarmata/2022/198",
+   "short": "HCL Giarmata nr. 198/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 198/2022 privind luarea la cunoștință de renunțarea la dreptul de proprietate asupra extinderii de rețea de alimentare cu apă și bransamente făcută de către SC LIVING BY PM și preluarea în proprietate publică a UAT Comuna Giarmata a acesteia",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/80946",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/80946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-199-2022",
+   "path": "local/timis/giarmata/2022/199",
+   "short": "HCL Giarmata nr. 199/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 199/2022 privind apartamentarea imobilului înscris în CF 401211 Giarmata constând în teren intravilan în suprafață din acte de 2956 mp și măsurată de 2924 mp, nr. CF vechi 3547, nr. Topografic: 189, nr. Cadastral 401211, în ceea ce privește imobilul notat sub A1.2 având nr. cadastral/nr. Topografic 401211-C2, constând în construcții administrative și social culturale în suprafață de 287 mp, suprafață constuită la sol de 287 mp, construcție în regim P",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/80947",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/80947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-200-2022",
+   "path": "local/timis/giarmata/2022/200",
+   "short": "HCL Giarmata nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 200/2022 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, precum și modificarea listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83411",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-203-2022",
+   "path": "local/timis/giarmata/2022/203",
+   "short": "HCL Giarmata nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 203/2022 privind aprobarea cofinanţării \"Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Timiş, în perioada 2014-2020\" prin POIM in vederea asigurarii cofinantarii proiectului",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83414",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-204-2022",
+   "path": "local/timis/giarmata/2022/204",
+   "short": "HCL Giarmata nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 204/2022 privind aprobarea indicatorilor tehnico-economici aferenți ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020” – localitatea GIARMATA",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83415",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-206-2022",
+   "path": "local/timis/giarmata/2022/206",
+   "short": "HCL Giarmata nr. 206/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 206/2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83417",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-207-2022",
+   "path": "local/timis/giarmata/2022/207",
+   "short": "HCL Giarmata nr. 207/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 207/2022 privind aprobarea inventarului bunurilor care aparțin domeniului privat al comunei Giarmata, județul Timiș",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83418",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-208-2022",
+   "path": "local/timis/giarmata/2022/208",
+   "short": "HCL Giarmata nr. 208/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 208/2022 privind stabilirea valorilor impozabile, impozitelor, taxelor locale și taxelor speciale aplicabile în comuna Giarmata în anul 2023",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83419",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-209-2022",
+   "path": "local/timis/giarmata/2022/209",
+   "short": "HCL Giarmata nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 209/2022 privind declararea de interes public local a unei suprafețe totale de 974.832 mp înscrise în CF 413035, 413036, 412645, 412646, 412647, 412648, 412649, 412650, 412651, 412637, 412638, 412643, 412644, 412634, 413335, 412629, 412630, 412631, 412632, 412633, 404131, 412652, 404128, 404133, 409892, 404136, 409889, 412267, 412655, 412653, 412654, 412640, 412152, 412155, 412411, 412412 GIARMATA",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83420",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-210-2022",
+   "path": "local/timis/giarmata/2022/210",
+   "short": "HCL Giarmata nr. 210/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 210/2022 privind aprobarea proiectului de rețea școlară a Comunei Giarmata, Județul Timiș pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/83421",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/83421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-211-2022",
+   "path": "local/timis/giarmata/2022/211",
+   "short": "HCL Giarmata nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 211/2022 pentru validarea unor dispoziții ale primarului comunei Giarmata privind rectificarea bugetului local pe anul 2022,",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/84158",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/84158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-212-2022",
+   "path": "local/timis/giarmata/2022/212",
+   "short": "HCL Giarmata nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 212/2022 privind rectificarea bugetului de venituri și cheltuieli pe trimestrul IV, precum și modificarea listei de investiții pentru anul 2022",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/84159",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/84159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-213-2022",
+   "path": "local/timis/giarmata/2022/213",
+   "short": "HCL Giarmata nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 213/2022 privind aprobarea documentatiei tehnico-economice – Studiu de fezabilitate și a indicatorilor tehnico-economici pentru investiţia „Extindere rețele de apă și apă uzată în Comuna Giarmata, județ Timiș”",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/84260",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/84260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-214-2022",
+   "path": "local/timis/giarmata/2022/214",
+   "short": "HCL Giarmata nr. 214/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 214/2022 privind participarea Comunei Giarmata la “Programul Național de Redresare și Reziliență, Componenta C1 – Managementul apei, Investiția 1 - Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2000”, implementarea proiectului și aprobarea cheltuielilor legate de proiectul cu titlul „Extindere rețele de apă și apă uzată în Comuna Giarmata, județ Timiș”",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/84261",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/84261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--giarmata-216-2022",
+   "path": "local/timis/giarmata/2022/216",
+   "short": "HCL Giarmata nr. 216/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giarmata nr. 216/2022 privind aprobarea acordării unor gratuități/facilități la transportul public local de persoane prin curse regulate pentru categoriile de persoane beneficiare de pe raza administrativ teritorială a Comunei Giarmata, precum și pentru aprobarea tarifelor de transport și a costului leu/km ce se va apkica începând cu prestația efectuată de la data de 01.01.2023",
+   "url": "https://emol.ro/giarmata-tm/registru-hcl/84915",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giarmata-tm/registru-hcl/84915",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

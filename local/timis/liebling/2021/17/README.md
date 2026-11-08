@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Liebling nr. 17/2021 Privind aprobarea atestării apartenenței la domeniul public a unor străzi din intravilanul și extravilanul comunei Liebling județul Timiș, precum și emiterea acordului de intabulare a dreptului de proprietate a comunei Liebling, județul Timiș asupra acestora
+
+HCL Liebling nr. 17/2021 · 1 versions, from 2021-03-31 (latest in force: 2021-03-31) · <https://emol.ro/liebling-tm/registru-hcl/21217>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-timis--liebling-17-2021` (tags `hcl-timis--liebling-17-2021/<day>`; `python tools/on.py <day> hcl-timis--liebling-17-2021`).
+
+## Decisions made by hand
+
+- HCL Liebling nr. 17/2021: listed from Consiliul Local al Comunei Liebling (emol.ro); metadata only for now: no document of it is held.
+- HCL Liebling nr. 17/2021: dated from 31 March 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Liebling nr. 17/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

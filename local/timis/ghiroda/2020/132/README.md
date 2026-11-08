@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ghiroda nr. 132/2020 cu privire la aprobarea participării la "Programul (AFM) privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastrucutra de iluminat public" cu proiectul "Reducerea emisiilor de gaze cu efect de sera prin eficientizarea sistemului de iluminat public în Comuna Ghiroda, jud Timiș"
+
+HCL Ghiroda nr. 132/2020 · 1 versions, from 2020-07-10 (latest in force: 2020-07-10) · <https://emol.ro/ghiroda-tm/registru-hcl/6016>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-timis--ghiroda-132-2020` (tags `hcl-timis--ghiroda-132-2020/<day>`; `python tools/on.py <day> hcl-timis--ghiroda-132-2020`).
+
+## Decisions made by hand
+
+- HCL Ghiroda nr. 132/2020: listed from Consiliul Local al Comunei Ghiroda (emol.ro); metadata only for now: no document of it is held.
+- HCL Ghiroda nr. 132/2020: dated from 10 July 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Ghiroda nr. 132/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

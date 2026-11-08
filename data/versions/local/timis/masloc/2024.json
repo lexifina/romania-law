@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/timis/masloc/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--masloc-1-2024",
+   "path": "local/timis/masloc/2024/1",
+   "short": "HCL Mașloc nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 1/2024 privind aprobarea reţelei şcolare de pe raza UAT com. Mașloc, pentru anul şcolar 2024 - 2025",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/151753",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/151753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-10-2024",
+   "path": "local/timis/masloc/2024/10",
+   "short": "HCL Mașloc nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 10/2024 privind aprobarea Devizului General pentru obiectivul de investiții: ”Amenajare parc și loc de joacă în localitatea Remetea Mică”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157304",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-11-2024",
+   "path": "local/timis/masloc/2024/11",
+   "short": "HCL Mașloc nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 11/2024 privind aprobarea Propunere de parcelare și lotizare în CF 404670 Mașloc, CF 406662 Mașloc și CF 406663 Mașloc, conform proiectului: ”PUZ – Realizare ansamblu de locuințe unifamiliale, zone funcțiuni și dotări”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157305",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-12-2024",
+   "path": "local/timis/masloc/2024/12",
+   "short": "HCL Mașloc nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 12/2024 privind însușirea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Carte Funciară a unor imobile aflate în extravilanul u.a.t. Comuna Mașloc – domeniu privat, jud. Timiș",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157306",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-13-2024",
+   "path": "local/timis/masloc/2024/13",
+   "short": "HCL Mașloc nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 13/2024 privind aprobarea asocierii UAT Mașloc și aprobarea studiului de oportunitate în vederea alegerii modalității de gestiune și întocmirii documentației de atribuire a serviciilor de transport public județean de persoane prin curse regulate în Județul Timiș",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157307",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-14-2024",
+   "path": "local/timis/masloc/2024/14",
+   "short": "HCL Mașloc nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 14/2024 privind aprobarea unei facilități salariaților primăriei comunei Mașloc privind cerințele minime de securitate în muncă referitoare la posturile ce necesită utilizarea echipamentelor cu ecran de vizualizare",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157308",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-15-2024",
+   "path": "local/timis/masloc/2024/15",
+   "short": "HCL Mașloc nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 15/2024 privind majorarea salariilor de bază ale angajaţilor Filialei Judeţene Timiş a Asociației Comunelor din România, conform Acordului de cooperare privind organizarea și exercitarea unor activități necesare comunei Mașloc, în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157309",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-16-2024",
+   "path": "local/timis/masloc/2024/16",
+   "short": "HCL Mașloc nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 16/2024 privind unele măsuri de întreținere a parcurilor și locurilor de joacă de pe raza comunei Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157310",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-17-2024",
+   "path": "local/timis/masloc/2024/17",
+   "short": "HCL Mașloc nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 17/2024 privind aprobarea Documentației Tehnice pentru obținerea autorizației de construire și a Proiectului Tehnic (DTAC+PTH), a devizului general actualizat, a indicatorilor tehnico-economici actualizați și a cofinanțării proiectului privind obiectivul de investiții \"Realizare sistem de canalizare si statii de epurare în Comuna Mașloc, Județul Timiș\"",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157387",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-18-2024",
+   "path": "local/timis/masloc/2024/18",
+   "short": "HCL Mașloc nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 18/2024 privind aprobarea Documentației Tehnice pentru obținerea autorizației de construire și a Proiectului Tehnic (DTAC+PTH), a devizului general actualizat, a indicatorilor tehnico-economici actualizați și a cofinanțării proiectului privind obiectivul de investiții \"Realizare sistem de canalizare si statii de epurare în Comuna Mașloc, Județul Timiș",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157388",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-19-2024",
+   "path": "local/timis/masloc/2024/19",
+   "short": "HCL Mașloc nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 19/2024 privind aprobarea agendei culturale pe anul 2024",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157389",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-2-2024",
+   "path": "local/timis/masloc/2024/2",
+   "short": "HCL Mașloc nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 2/2024 privind adoptarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/151773",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/151773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-20-2024",
+   "path": "local/timis/masloc/2024/20",
+   "short": "HCL Mașloc nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 20/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157390",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-33-2024",
+   "path": "local/timis/masloc/2024/33",
+   "short": "HCL Mașloc nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 33/2024 privind aprobarea valorii de investii pentru proiectul „UTILAJ MULTIFUNCTIONAL TRACTOR CU ATASAMENTE SI PANOURI LED, COMUNA MASLOC, JUD. TIMIS” și aprobarea solicitării unei scrisori de garanție de la FNGCIMM SA IFN",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/183262",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/183262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-38-2024",
+   "path": "local/timis/masloc/2024/38",
+   "short": "HCL Mașloc nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 38/2024 privind aprobarea participării Comunei Mașloc în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea sistemului de iluminat public stradal, în comuna Mașloc, județul Timiș”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/183271",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/183271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-4-2024",
+   "path": "local/timis/masloc/2024/4",
+   "short": "HCL Mașloc nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 4/2024 privind încetarea, pe perioadă determinată, a acordului de cooperare privind organizarea și exercitarea activității de audit intern",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/151775",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/151775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-5-2024",
+   "path": "local/timis/masloc/2024/5",
+   "short": "HCL Mașloc nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 5/2024 privind aprobarea Programului anual al achizițiilor publice la nivelul UAT Comuna Mașloc pentru anul 2024",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/151776",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/151776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-8-2024",
+   "path": "local/timis/masloc/2024/8",
+   "short": "HCL Mașloc nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 8/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/151913",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/151913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-9-2024",
+   "path": "local/timis/masloc/2024/9",
+   "short": "HCL Mașloc nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 9/2024 privind aprobarea tarifelor pentru activitatea de tratare a deșeurilor reziduale provenite din Zona 1 Timișoara, pentru activitatea de sortare a deșeurilor de hârtie, carton, metal și plastic provenite din Zona 1 Timișoara desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) și a tarifelor pentru activitățile desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) în baza Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare adeșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/157303",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/157303",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

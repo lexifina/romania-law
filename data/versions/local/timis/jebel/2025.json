@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "local/timis/jebel/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--jebel-1-2025",
+   "path": "local/timis/jebel/2025/1",
+   "short": "HCL Jebel nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 1/2025 privind aprobarea PLANULUI DE ACTIUNI sau lucrări de interes local pentru persoanele majore apte de muncă beneficiare de ajutor de incluziune conform prevederilor Legii nr. 196/2016 privind venitul minim de incluziune pe anul 2025",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/187753",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/187753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-2-2025",
+   "path": "local/timis/jebel/2025/2",
+   "short": "HCL Jebel nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 2/2025 privind stabilirea modelului legitimației pentru aleșii locali la nivelul comunei Jebel, județul Timiș",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/187754",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/187754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-20-2025",
+   "path": "local/timis/jebel/2025/20",
+   "short": "HCL Jebel nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 20/2025 privind indexarea impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, pe baza ratei inflației aplicabile pentru anul fiscal 2026",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/205627",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/205627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-23-2025",
+   "path": "local/timis/jebel/2025/23",
+   "short": "HCL Jebel nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 23/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/205630",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/205630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-24-2025",
+   "path": "local/timis/jebel/2025/24",
+   "short": "HCL Jebel nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 24/2025",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/209446",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/209446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-25-2025",
+   "path": "local/timis/jebel/2025/25",
+   "short": "HCL Jebel nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 25/2025 privind aprobarea Regulamentului privind condițiile de desfășurare a activităților de comerț stradal şi a conditiilor de amplasare a teraselor pe raza comunei Jebel, județul Timiș",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/209447",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/209447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-26-2025",
+   "path": "local/timis/jebel/2025/26",
+   "short": "HCL Jebel nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 26/2025 privind trecerea din domeniul privat în domeniul public al Comunei Jebel a imobilului teren în suprafață de 7143 mp , înscris în CF nr.410309 Jebel, situat în extravilanul localității",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/209448",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/209448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-27-2025",
+   "path": "local/timis/jebel/2025/27",
+   "short": "HCL Jebel nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 27/2025 privind aprobarea operațiunii de modificare limite imobile cu nr. cadastral 409786,410697,409823 înscrise în CF 409786,410697,409823 JEBEL",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/209449",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/209449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-31-2025",
+   "path": "local/timis/jebel/2025/31",
+   "short": "HCL Jebel nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 31/2025 privind desfășurarea activității Grădiniței cu program normal din Comuna Jebel în clădirea cu destinația Creșă cu două grupe, situată în aceeași localitate, pe durata lucrărilor de eficientizare termică a clădirii actuale a Grădiniței",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/217098",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/217098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-33-2025",
+   "path": "local/timis/jebel/2025/33",
+   "short": "HCL Jebel nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 33/2025 privind reorganizarea aparatului de specialitate al primarului comunei Jebel, modificarea şi aprobarea structurii Organigramei şi a Statului de Funcţii în contextul punerii în aplicare a prevederilor art. XVII alin. (8) din Legea nr. 296/27.10.2023 privind unele măsuri fiscal – bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/217100",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/217100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-35-2025",
+   "path": "local/timis/jebel/2025/35",
+   "short": "HCL Jebel nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 35/2025 privind îndreptare eroare materială mixtă după lucrările de cadastru sistematic, pe imobilul cu nr.cad. 410434 înscris în CF nr.410434 Jebel și imobilul cu nr.cad.410438 înscris în CF nr.410438 Jebel",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/217102",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/217102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-38-2025",
+   "path": "local/timis/jebel/2025/38",
+   "short": "HCL Jebel nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 38/2025 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe anul 2024, angajați ai Primăriei comunei Jebel, județul Timiș",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/222212",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/222212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-39-2025",
+   "path": "local/timis/jebel/2025/39",
+   "short": "HCL Jebel nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 39/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate la nivelul Comunei Jebel, județul Timiș, pentru perioada 2025-2030",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/222213",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/222213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-44-2025",
+   "path": "local/timis/jebel/2025/44",
+   "short": "HCL Jebel nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 44/2025 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare separată și transport separat al deșeurilor municipale din Zona 0 Ghizela, Zona 1 Timișoara, Zona 2 Jimbolia, Zona 3 Deta și Zona 4 Făget, inclusiv operarea facilităților de transfer Stația de Transfer Timișoara, Centrul de Colectare Jimbolia, Centrul de Colectare Deta, Centrul de Colectare Făget",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/230952",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/230952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-46-2025",
+   "path": "local/timis/jebel/2025/46",
+   "short": "HCL Jebel nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 46/2025 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin.(5) și alin. (6) Cod fiscal prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2025, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2026",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/230954",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/230954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-5-2025",
+   "path": "local/timis/jebel/2025/5",
+   "short": "HCL Jebel nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 5/2025 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Infiintare distributie gaze naturale in orasul Ciacova, comuna Jebel, comuna Liebling si comuna Ghilad, jud. Timis”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/191814",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/191814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-50-2025",
+   "path": "local/timis/jebel/2025/50",
+   "short": "HCL Jebel nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 50/2025",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/230958",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/230958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-52-2025",
+   "path": "local/timis/jebel/2025/52",
+   "short": "HCL Jebel nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 52/2025 privind aprobarea facilităților acordate unor categorii de cetățeni pentru transportul public local în comuna Jebel asigurat de Societatea Metropolitana de Transport Timișoara pentru anul 2026",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/236059",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/236059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-58-2025",
+   "path": "local/timis/jebel/2025/58",
+   "short": "HCL Jebel nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 58/2025 pentru aprobarea modificării fluxurilor de deșeuri în vederea prevenirii necolectării deșeurilor din U.A.T.-urile aferente Zonei 3 – Deta până la reluarea fluxului normal privind transferul deșeurilor prin Centrul de colectare Deta",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/238910",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/238910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-6-2025",
+   "path": "local/timis/jebel/2025/6",
+   "short": "HCL Jebel nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 6/2025",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/191815",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/191815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-62-2025",
+   "path": "local/timis/jebel/2025/62",
+   "short": "HCL Jebel nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 62/2025 privind aprobarea contractării unui împrumut în valoare de 9500000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/241669",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/241669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-63-2025",
+   "path": "local/timis/jebel/2025/63",
+   "short": "HCL Jebel nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 63/2025 privind aprobarea Strategiei anuale de achiziții publice pe anul 2026 a comunei Jebel,județul Timiș",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/241670",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/241670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-65-2025",
+   "path": "local/timis/jebel/2025/65",
+   "short": "HCL Jebel nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 65/2025 privind aprobarea Planului Urbanistic Zonal „PUZ – Zona Rezidențială cu funcțiuni complementare” Comuna Jebel, Județul Timiș",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/241672",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/241672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-66-2025",
+   "path": "local/timis/jebel/2025/66",
+   "short": "HCL Jebel nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 66/2025 privind aprobarea rețelei școlare de pe raza Comunei Jebel, județul Timiș, pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/241673",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/241673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-69-2025",
+   "path": "local/timis/jebel/2025/69",
+   "short": "HCL Jebel nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 69/2025 pentru modificarea și completarea Anexei nr.1 a Hotărârii Consiliului Local Jebel nr. 20/30.04.2025 privind indexarea impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, pe baza ratei inflației aplicabile pentru anul fiscal 2026, în concordanță cu prevederile Legii nr.239/2025",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/244687",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/244687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--jebel-70-2025",
+   "path": "local/timis/jebel/2025/70",
+   "short": "HCL Jebel nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jebel nr. 70/2025 privind trecerea unui teren intravilan, categoria de folosință pășune, din domeniul privat al Comunei Jebel în domeniul public al Comunei Jebel",
+   "url": "https://emol.ro/jebel-tm/registru-hcl/244688",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/jebel-tm/registru-hcl/244688",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
