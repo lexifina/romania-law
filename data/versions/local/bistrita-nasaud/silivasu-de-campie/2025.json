@@ -3,6 +3,366 @@
  "shard": "local/bistrita-nasaud/silivasu-de-campie/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-11-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/11",
+   "short": "HCL Silivașu de Câmpie nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 11/2025 privind aprobarea volumului de masă lemnoasă ,care poate fi recoltată, pe picior si stabilirea destinației masei lemnoase,ce se va recolta din pădurea proprietate a Comunei Silivasu de Câmpie ,pentru anul 2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/193927",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/193927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-12-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/12",
+   "short": "HCL Silivașu de Câmpie nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 12/2025 privind aprobarea bugetului iniţial de venituri şi cheltuieli al comunei Silivaşu de Câmpie, judeţul Bistriţa-Năsăud pe anul 2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/197773",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/197773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-14-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/14",
+   "short": "HCL Silivașu de Câmpie nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 14/2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200690",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-15-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/15",
+   "short": "HCL Silivașu de Câmpie nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 15/2025 privind aprobarea documentaţiei tehnico-economice - Proiect tehnic şi a Indicatorilor tehnico-economici pentru obiectivul de investiții “CONSTRUIRE CENTRU DE ZI PENTRU CONSILIERE SI SPRIJIN PARINTI SI COPII IN LOCALITATEA SILIVAȘU DE CÂMPIE, COMUNA SILIVAȘU DE CÂMPIE, JUDEȚUL BISTRIȚA NĂSĂUD”",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200691",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-16-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/16",
+   "short": "HCL Silivașu de Câmpie nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 16/2025 privind aprobarea Planului de masuri pentru buna gospodarire a localitatilor,pastrarea curateniei,respectarea normelor de igiena,precum si infrumusetarea satelor ce apartin comunei Silivașu de Câmpie, judetul Bistrita-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200692",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-17-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/17",
+   "short": "HCL Silivașu de Câmpie nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 17/2025 privind aprobarea Programului de achizitii al comunei Silivasu de Câmpie,judetul Bistrita-Năsăud, pentru anul 2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200693",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-18-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/18",
+   "short": "HCL Silivașu de Câmpie nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 18/2025 privind aprobarea Programului de acțiuni comunitare pentru anul 2025 la nivelul comunei Silivașu de Câmpie, județul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200694",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-19-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/19",
+   "short": "HCL Silivașu de Câmpie nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 19/2025 privind Actualizarea Planului de Analiza si Acoperire a Riscurilor al comunei Silivcașu de Câmpie, județul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200695",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-2-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/2",
+   "short": "HCL Silivașu de Câmpie nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 2/2025 privind aprobarea Planului de actiuni si lucrari de interes local ce se vor realiza în anul 2025 de către persoanele beneficiare de venitul minum de incluziune la nivelul comunei Silivasu de Câmpie, judetul Bistrita-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189545",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-20-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/20",
+   "short": "HCL Silivașu de Câmpie nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 20/2025 privind revocarea HCL nr. 6 din 30.01.2024, prvind aprobarea Organigramei si Statului de Functii al aparatului de specialitate al Primarului comunei Silivasu de Câmpie,judetul Bistrita-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200696",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-21-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/21",
+   "short": "HCL Silivașu de Câmpie nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 21/2025 privind organizarea pașunatului pe raza comunei Silivașu de Câmpie, în anul 2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200697",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/200697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-24-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/24",
+   "short": "HCL Silivașu de Câmpie nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 24/2025 privind aprobarea înscrierii în cartea funciara a unor bunuri proprietatea comunei Silivasu de Câmpie,situate în comuna Silivasu de Câmpie - domeniul public",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/210703",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/210703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-25-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/25",
+   "short": "HCL Silivașu de Câmpie nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 25/2025 privind aprobarea contului de încheiere a exerciţíului bugetar pe trimestrul IV anul 2024 al comunei Silivaşu de Câmpie, județul Bistriţa-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/210704",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/210704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-29-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/29",
+   "short": "HCL Silivașu de Câmpie nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 29/2025 privind aprobarea aderarii unei unitati administrativ teritoriale la Asociatia de Dezvoltaere Intercomunitară ,,AQUA UNVEST MUREȘ,,",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/214634",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/214634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-3-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/3",
+   "short": "HCL Silivașu de Câmpie nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 3/2025 privind aprobarea contului de încheiere a exerciţíului bugetar pe trimestrul III anul 2024 al comunei Silivaşu de Câmpie, județul Bistriţa-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189546",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-31-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/31",
+   "short": "HCL Silivașu de Câmpie nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 31/2025 privind organizarea Festivalului, Jocului, Portului si Cântecului de pe Câmpie, în localitatea Silivasu de Câmpie, judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/214636",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/214636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-33-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/33",
+   "short": "HCL Silivașu de Câmpie nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 33/2025 privind aprobarea aderarii unei unitati administrativ teritoriale la Asociatia de Dezvoltaere Intercomunitară ,,AQUA UNVEST MUREȘ,,",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220022",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-34-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/34",
+   "short": "HCL Silivașu de Câmpie nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 34/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Silivasu de Câmpie,judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220023",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-35-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/35",
+   "short": "HCL Silivașu de Câmpie nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 35/2025 privind aprobarea Devizului general pentru lucrarea ,, REPARATII SI ZUGRAVELI LA CAMINUL CULTURAL ” ÎN COMUNA SILIVAȘU DE CÂMPIE,JUDEȚUL BISTRIȚA-NĂSĂUD , suplimentar",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220024",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/220024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-36-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/36",
+   "short": "HCL Silivașu de Câmpie nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 36/2025 privind aprobarea Regulamentului de acordare unor diplome de onoare si a unor premii persoanelor care au împlinit 100 de ani si cupluri care iși aniversează cel putin 50 de ani de casatorie neîntreruptă",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221891",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-37-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/37",
+   "short": "HCL Silivașu de Câmpie nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 37/2025 privind aprobarea dezlipirii imobilului cu numar cadastral 26395 bun proprietatea comunei Silivasu de Câmpie,situate în comuna Silivasu de Câmpie - domeniul public",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221892",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-38-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/38",
+   "short": "HCL Silivașu de Câmpie nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 38/2025 privind înscrierii în cartea funciara a unor bunuri proprietatea comunei Silivasu de Câmpie,situate în comuna Silivasu de Câmpie - domeniul public",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221893",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-39-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/39",
+   "short": "HCL Silivașu de Câmpie nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 39/2025 privind aprobarea rectificării nr.1 a bugetului de venituri şi cheltuieli al comunei Silivaşu de Câmpie, judeţul Bistriţa-Năsăud pe anul 2025",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221894",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/221894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-4-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/4",
+   "short": "HCL Silivașu de Câmpie nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 4/2025 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Local al comunei SILIVASU DE CÂMPIE , județul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189547",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189547",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--silivasu-de-campie-43-2025",
    "path": "local/bistrita-nasaud/silivasu-de-campie/2025/43",
    "short": "HCL Silivașu de Câmpie nr. 43/2025",
@@ -103,6 +463,21 @@
      "from": "2025-09-22",
      "units": 1,
      "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/226218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-5-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/5",
+   "short": "HCL Silivașu de Câmpie nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 5/2025 privind aprobarea Devizului general pentru lucrarea ,, REPARATII SI ZUGRAVELI LA CAMINUL CULTURAL ” ÎN COMUNA SILIVAȘU DE CÂMPIE,JUDEȚUL BISTRIȚA-NĂSĂUD",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189548",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/189548",
      "sha256": null
     }
    ]
@@ -298,6 +673,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/244341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-8-2025",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2025/8",
+   "short": "HCL Silivașu de Câmpie nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 8/2025 privind împuternicirea și mandatarea inspectorilor din cadrul Corpului de control al A.D.I.Deseuri Bistrița-Năsăud pentru constatarea contraventiilor și aplicarea sanctiunilor prevăzute în Regulamentul de organizare si funcționare a serviciului public de salubrizare al județului Bistrița-Năsăud și în legislația aplicabilă în vigoare",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/193924",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/193924",
      "sha256": null
     }
    ]

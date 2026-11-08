@@ -3,6 +3,231 @@
  "shard": "local/bistrita-nasaud/silivasu-de-campie/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-10-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/10",
+   "short": "HCL Silivașu de Câmpie nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 10/2023 privind aprobarea proiectului,,Transformarea unitașilor de învatamant din comuna Silivașu de Câmpie în medii de învașare moderne si sustenabile,, si a acheltuielilor legate de proiect,finanțat prin PNRR Pilonul VI.Politici pentru noua generație,componenta C-15-Educație",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/93728",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/93728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-12-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/12",
+   "short": "HCL Silivașu de Câmpie nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 12/2023 privind aprobarea Regulamentului de autorizare si desfasurare a activitatilor comerciale pe raza comunei Silivasu de Câmpie, judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97526",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-13-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/13",
+   "short": "HCL Silivașu de Câmpie nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 13/2023 privind aprobarea contului de încheiere a exerciţíului bugetar pe trim.IV anul 2022 al comunei Silivaşu de Câmpie, jud. Bistriţa-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97527",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-14-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/14",
+   "short": "HCL Silivașu de Câmpie nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 14/2023 privind aprobarea încheierii Actului aditional nr. 6 la Contractul de concesiune nr.1277 din 6.12.2018 privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare,transport,depozitare si transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere si managementul Statiilor de Transfer si al centrelor de Colectare din judetul Bistrita-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97528",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-15-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/15",
+   "short": "HCL Silivașu de Câmpie nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 15/2023 privind aprobarea Regulamentului de organizare si funcționare a serviciului public de salubrizare,respectiv activitatea de colectare,transport,stocare temporară,transfer,sortare,tratare,neutralizare depozitare a deseurilor municipale,inclusiv deșeuri periculoase din deseuri menajere,managementul Stațiilor de Transfer, al Centrelor de Colectare si Managementul si Operarea Centrului de Management Integrat al Deseurilor Tarpiu din județul Bistrița-Năsăud,forma consolidată",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97529",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-16-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/16",
+   "short": "HCL Silivașu de Câmpie nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 16/2023",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97530",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-17-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/17",
+   "short": "HCL Silivașu de Câmpie nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 17/2023 privind aprobarea retragerii unei unitati administrativ teritoriale din Asociatia de Dezvoltare Intercomunitara,, AQUA INVEST Mureș,, județul Mureș",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97531",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/97531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-19-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/19",
+   "short": "HCL Silivașu de Câmpie nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 19/2023 PRIVIND APROBARE PROIECTULUI SI A CHELTUIELILOR LEGATE DE PROIECTUL “CONSTRUIRE CENTRU DE ZI PENTRU CONSILIERE SI SPRIJIN PARINTI SI COPII IN LOCALITATEA SILIVAȘU DE CÂMPIE, COMUNA SILIVAȘU DE CÂMPIE, JUDEȚUL BISTRIȚA NĂSĂUD”",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/99593",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/99593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-20-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/20",
+   "short": "HCL Silivașu de Câmpie nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 20/2023 privind aprobarea Planului de achizitii pentru anul 2023",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103030",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-21-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/21",
+   "short": "HCL Silivașu de Câmpie nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 21/2023 privind aprobarea aderarii unei unitati administrativ teritoriale din Asociatia de Dezvoltare Intercomunitara,, AQUA INVEST Mureș,, județul Mureș",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103031",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-22-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/22",
+   "short": "HCL Silivașu de Câmpie nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 22/2023 privind includerea teritoriului UAT Silivașu de Câmpie,judetul Bistrița-Năsăud, în parteneriatul LEADER ,,GAL PROGRES TRANSILVAN,,",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103949",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-23-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/23",
+   "short": "HCL Silivașu de Câmpie nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 23/2023 privind aprobarea depuneri Cererii de finanțare si a Devizului general,,EXTINDERE CANALIZARE ÎN COMUNA SILIVAȘU DE CÂMPIE,JUDEȚUL BISTRIȚA-NĂSĂUD,,",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103950",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/103950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-24-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/24",
+   "short": "HCL Silivașu de Câmpie nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 24/2023 privind organizarea pășunatului pe raza comunei Silivașu de Câmpie , în anul 2023",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/105307",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/105307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-28-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/28",
+   "short": "HCL Silivașu de Câmpie nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 28/2023 privind angajamentul UAT Comuna Silivașu de Câmpie,județul Bistrița-Năsăud pentru a amplasa o stație de încărcare pe raza comunei si de a asigura, pe o perioada de minim 4 ani,resursa umană(șofer) costuri de reparați și întretinere a microbuzelor,precum si costurile de alimentare necerar apelului de proiecte Microbuze electrice pentru elevi finanțat din PNRR,componenta C 15:Educatie,Reforma 6",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/106543",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/106543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-29-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/29",
+   "short": "HCL Silivașu de Câmpie nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 29/2023 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/108489",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/108489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--silivasu-de-campie-33-2023",
    "path": "local/bistrita-nasaud/silivasu-de-campie/2023/33",
    "short": "HCL Silivașu de Câmpie nr. 33/2023",
@@ -298,6 +523,21 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/137954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--silivasu-de-campie-9-2023",
+   "path": "local/bistrita-nasaud/silivasu-de-campie/2023/9",
+   "short": "HCL Silivașu de Câmpie nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Silivașu de Câmpie nr. 9/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Silivasu de Câmpie,judetul Bistrița-Năsăud",
+   "url": "https://emol.ro/silivasudecampie-bn/registru-hcl/93727",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/silivasudecampie-bn/registru-hcl/93727",
      "sha256": null
     }
    ]

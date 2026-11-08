@@ -3,6 +3,81 @@
  "shard": "local/bistrita-nasaud/livezile/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--livezile-10-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/10",
+   "short": "HCL Livezile nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 10/2025 privind aprobarea actualizării Planului de Analiză și Acoperire a Riscurilor – PAAR, pentru anul 2025, la nivelul comunei Livezile, județul Bistrița- Năsăud",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/194925",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/194925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-15-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/15",
+   "short": "HCL Livezile nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 15/2025 privind organizarea pășunatului pe raza comunei Livezile, în anul 2025",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/197956",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/197956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-16-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/16",
+   "short": "HCL Livezile nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 16/2025 privind cea de-a treia completare a Hotărârii Consiliului local al comunei Livezile nr.12/28.02.2023, referitoare la clasificarea drumurilor de interes local, de pe raza comunei Livezile, județul Bistrița - Năsăud",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/197957",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/197957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-2-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/2",
+   "short": "HCL Livezile nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 2/2025 privind aprobarea planului de activități sau lucrări de interes local, pentru anul 2025, pentru persoanele apte de muncă beneficiare de ajutor de incluziune, de pe raza comunei Livezile, județul Bistrița- Năsăud",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/190254",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/190254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-24-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/24",
+   "short": "HCL Livezile nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 24/2025 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor de pe raza comunei Livezile, județul Bistrița- Năsăud, care nu se supun înmatriculării",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/205180",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/205180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--livezile-44-2025",
    "path": "local/bistrita-nasaud/livezile/2025/44",
    "short": "HCL Livezile nr. 44/2025",
@@ -298,6 +373,21 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/livezile-bn/registru-hcl/243288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-8-2025",
+   "path": "local/bistrita-nasaud/livezile/2025/8",
+   "short": "HCL Livezile nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 8/2025",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/194923",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/194923",
      "sha256": null
     }
    ]

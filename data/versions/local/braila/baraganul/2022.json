@@ -76,6 +76,21 @@
      "sha256": "1a47eb15221db9707fbbd37627690ddd1ab16d09ac8b8efd0aa20a4f9fab4192"
     }
    ]
+  },
+  {
+   "slug": "hcl-braila--baraganul-77-2022",
+   "path": "local/braila/baraganul/2022/77",
+   "short": "HCL Bărăganul nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 77/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b720c594888597ade5afdbee2fc110443902fdd5d61d200ca0a195ef6f4abedd"
+    }
+   ]
   }
  ]
 }

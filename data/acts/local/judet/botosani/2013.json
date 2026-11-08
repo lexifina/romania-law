@@ -474,6 +474,28 @@
 }
 },
 {
+"slug": "hcj-botosani-33-2013",
+"path": "local/judet/botosani/2013/33",
+"kind": "local",
+"year": "2013",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 33/2013 privind aprobarea Programului anual pentru acordarea de finanțări nerambursabile pe anul 2013 și a Regulamentului privind regimul finanțărilor nerambursabile alocate din fonduri ale bugetului Județului Botoșani pentru activități non-profit de interes județean",
+"short": "HCJ Botoșani nr. 33/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-04-25",
+"latest": "2013-04-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-botosani-34-2013",
 "path": "local/judet/botosani/2013/34",
 "kind": "local",

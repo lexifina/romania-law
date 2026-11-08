@@ -3,6 +3,73 @@
 "shard": "local/botosani/vaculesti/2024",
 "acts": [
 {
+"slug": "hcl-botosani--vaculesti-15-2024",
+"path": "local/botosani/vaculesti/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 15/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Văculești, pe anul 2024 și estimările pentru anii 2025-2027",
+"short": "HCL Văculești nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/141943",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-36-2024",
+"path": "local/botosani/vaculesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 36/2024 privind aprobarea indicelui de inflație, respectiv sumelor indexate pe baza ratei inflației, aplicabile în anul fiscal 2025",
+"short": "HCL Văculești nr. 36/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/154105",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-44-2024",
+"path": "local/botosani/vaculesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 44/2024",
+"short": "HCL Văculești nr. 44/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-13",
+"latest": "2024-08-13",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/160436",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-67-2024",
 "path": "local/botosani/vaculesti/2024/67",
 "kind": "local",

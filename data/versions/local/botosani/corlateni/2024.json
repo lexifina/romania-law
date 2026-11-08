@@ -3,6 +3,81 @@
  "shard": "local/botosani/corlateni/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--corlateni-14-2024",
+   "path": "local/botosani/corlateni/2024/14",
+   "short": "HCL Corlăteni nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 14/2024 privind indexarea taxelor și impozitelor locale pentru anul 2025 cu rata inflației de 10,4 %",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203864",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-15-2024",
+   "path": "local/botosani/corlateni/2024/15",
+   "short": "HCL Corlăteni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 15/2024 privind stabilirea taxei de eliberare a atestatului de producător și a carnetului de comercializare",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203865",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-18-2024",
+   "path": "local/botosani/corlateni/2024/18",
+   "short": "HCL Corlăteni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 18/2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203892",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-23-2024",
+   "path": "local/botosani/corlateni/2024/23",
+   "short": "HCL Corlăteni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 23/2024 privind aprobarea asigurarii cerintelor minime de securitate si sănătate în muncă referitoare la utilizarea echipamentelor cu ecran de vizualizare, pentru salariații aparatului de specialitate al Primarului comunei Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203897",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-24-2024",
+   "path": "local/botosani/corlateni/2024/24",
+   "short": "HCL Corlăteni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 24/2024 privind aprobarea scutirii de la plata majorărilor de întârziere datorate bugetului local al Comunei Corlăteni, potrivit art.185 alin.1, lit.b din Legea Nr.207/2015 – Codul de procedură fiscală, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/203908",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-26-2024",
    "path": "local/botosani/corlateni/2024/26",
    "short": "HCL Corlăteni nr. 26/2024",
@@ -58,6 +133,21 @@
      "from": "2024-09-30",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/203917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-3-2024",
+   "path": "local/botosani/corlateni/2024/3",
+   "short": "HCL Corlăteni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 3/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Corlăteni în anul şcolar 2024-2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/151139",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/151139",
      "sha256": null
     }
    ]

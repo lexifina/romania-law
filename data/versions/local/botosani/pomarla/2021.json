@@ -3,6 +3,36 @@
  "shard": "local/botosani/pomarla/2021",
  "acts": [
   {
+   "slug": "hcl-botosani--pomarla-1-2021",
+   "path": "local/botosani/pomarla/2021/1",
+   "short": "HCL Pomârla nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 1/2021 privind utilizarea excedentului bugetar al Comunei Pomârla din anul 2020 pentru anul 2021",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21308",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-10-2021",
+   "path": "local/botosani/pomarla/2021/10",
+   "short": "HCL Pomârla nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 10/2021 privind aprobarea implementării proiectului ” Construire bloc de locuințe sociale în sat Pomârla, comuna Pomârla, județul Botoșani” și a indicatorilor tehnico-economici în cadrul Programului privind construcția de locuințe sociale și de necesitate derulat conform Legii locuinței nr. 114/1996",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21332",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-12-2021",
    "path": "local/botosani/pomarla/2021/12",
    "short": "HCL Pomârla nr. 12/2021",
@@ -118,6 +148,21 @@
      "from": "2021-04-20",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/35860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-2-2021",
+   "path": "local/botosani/pomarla/2021/2",
+   "short": "HCL Pomârla nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 2/2021 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2021",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21324",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21324",
      "sha256": null
     }
    ]
@@ -298,6 +343,36 @@
      "from": "2021-09-02",
      "units": 1,
      "source_url": "https://emol.ro/pomarla-bt/registru-hcl/35989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-4-2021",
+   "path": "local/botosani/pomarla/2021/4",
+   "short": "HCL Pomârla nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 4/2021 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2021",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21326",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-8-2021",
+   "path": "local/botosani/pomarla/2021/8",
+   "short": "HCL Pomârla nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 8/2021 privind actualizarea indicatorilor tehnico-economici și a cofinanțării bugetului local pentru obiectivul de investiții: ” Reabilitare și modernizare Școala Primară nr. 1 Pomârla, comuna Pomârla, județul Botoșani” conform prevederilor HG 907/2016",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/21330",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/21330",
      "sha256": null
     }
    ]

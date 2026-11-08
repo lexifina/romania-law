@@ -3,6 +3,366 @@
  "shard": "local/braila/ciocile/2020",
  "acts": [
   {
+   "slug": "hcl-braila--ciocile-10-2020",
+   "path": "local/braila/ciocile/2020/10",
+   "short": "HCL Ciocile nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 10/2020 privind aprobarea Listei de Investitii Prioritare pe Sistemele de Alimentare cu Apa si a Listei de Investitii Prioritare pe Sistemele de Apa Uzata, care se vor realiza prin Proiectul Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila in perioada 2014 – 2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5765",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-11-2020",
+   "path": "local/braila/ciocile/2020/11",
+   "short": "HCL Ciocile nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 11/2020 privind punerea la dispozitia Proiectului Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila inperioada 2014 – 2020, a terenurilor din domeniul public aferente investitiilor, care se vor realiza in Comuna Ciocile",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5768",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-12-2020",
+   "path": "local/braila/ciocile/2020/12",
+   "short": "HCL Ciocile nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 12/2020 privind aprobarea Planului Anual de Evolutie a Preturilor / Tarifelor Serviciilor, conform rezultatelor Analizei Cost – Beneficiu din Studiul de Fezabilitate pentru Proiectul Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila in perioada 2014 – 2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5766",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-13-2020",
+   "path": "local/braila/ciocile/2020/13",
+   "short": "HCL Ciocile nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 13/2020 privind aprobarea contributiei la cofinantarea datorata de catre Unitatea Administrativ Teritoriala Comuna Ciocile, i calitate de Beneficiar direct al investitiilor in Proiectul Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila in perioada 2014-2020,",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5764",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-14-2020",
+   "path": "local/braila/ciocile/2020/14",
+   "short": "HCL Ciocile nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 14/2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5773",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-16-2020",
+   "path": "local/braila/ciocile/2020/16",
+   "short": "HCL Ciocile nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 16/2020 privind aprobarea contului de încheiere a exercițiului bugetar pe trim.IV 2019",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5774",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-17-2020",
+   "path": "local/braila/ciocile/2020/17",
+   "short": "HCL Ciocile nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 17/2020 privind exprimarea acordului privind retragerea Comunei Tichilesti din calitatea de membru fondator- membru asociat al Asociatiei de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ” si acordarea unui mandat special reprezentantului Consiliului Local al Comunei Ciocile., în Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ”, la care Comuna este membru asociat",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5769",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-18-2020",
+   "path": "local/braila/ciocile/2020/18",
+   "short": "HCL Ciocile nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 18/2020 privind aprobarea acordului favorabil cu privire la aderarea Comunei Ulmu la Asociatia de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ” si acordarea unui mandat special reprezentantului Consiliului Local al Comunei Ciocile, in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ”, la care Comuna este membru asociat",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5770",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-19-2020",
+   "path": "local/braila/ciocile/2020/19",
+   "short": "HCL Ciocile nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 19/2020 privind aprobarea acordului favorabil cu privire la aderarea Comunei Roșiori la Asociatia de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ” si acordarea unui mandat special reprezentantului Consiliului Local al Comunei Ciocile, in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara de Utilitate Publica „BRAILA GAZ”, la care Comuna este membru asociat",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5771",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-2-2020",
+   "path": "local/braila/ciocile/2020/2",
+   "short": "HCL Ciocile nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 2/2020 privind aprobarea reorganizarii, organigramei si acomponenţei Serviciului voluntar pentru situaţii de urgenţă al comunei Ciocile, judeţul Brăila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5758",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-21-2020",
+   "path": "local/braila/ciocile/2020/21",
+   "short": "HCL Ciocile nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 21/2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5775",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-22-2020",
+   "path": "local/braila/ciocile/2020/22",
+   "short": "HCL Ciocile nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 22/2020 privind aprobarea implementării proiectului de investiţie: Studiu de fezabilitate „Infiintare sistem de distribuţie gaze naturale în comuna Ciocile Jud. Braila .”",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5778",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-24-2020",
+   "path": "local/braila/ciocile/2020/24",
+   "short": "HCL Ciocile nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 24/2020 privind aprobarea asocierii Comunei Ciocile prin Consiliul Local Ciocile, cu județul Brăila, prin Consiliul Județean Brăila pentru cofinanțarea și realizarea lucrărilor la obiectivul de investiții,, Construire vestiar și împrejmuire la teren fotbal extravilan sat Ciocile, com. Ciocile, Jud. Brăila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5779",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-25-2020",
+   "path": "local/braila/ciocile/2020/25",
+   "short": "HCL Ciocile nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 25/2020 privind aprobarea Planului anual privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Ciocile, județul Brăila, pentru anul 2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5780",
+   "versions": [
+    {
+     "from": "2020-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-26-2020",
+   "path": "local/braila/ciocile/2020/26",
+   "short": "HCL Ciocile nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 26/2020 privind actualizarea Planului de analiză şi acoperire a riscurilor pentru 2020-2021 si Fisa localitatii pentru 2020-2021 la nivelul comunei Ciocile",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15303",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-27-2020",
+   "path": "local/braila/ciocile/2020/27",
+   "short": "HCL Ciocile nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 27/2020 privind stabilirea reţelei scolare de învăţămînt în comuna Ciocile jud Braila pentru anul şcolar 2020-2021",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15302",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-28-2020",
+   "path": "local/braila/ciocile/2020/28",
+   "short": "HCL Ciocile nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 28/2020 privind aprobarea asocierii Comunei Ciocile prin Consiliul Local Ciocile, cu județul Brăila, prin Consiliul Județean Brăila pentru cofinanțarea implementării proiectului de investiții ,, Studiu de fezabilitate înființare sistem de distribuție gaze naturale în comuna Ciocile, județul Brăila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15304",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-29-2020",
+   "path": "local/braila/ciocile/2020/29",
+   "short": "HCL Ciocile nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 29/2020 privind aprobarea Organigramei si a Statului de functii al aparatului de specialitate al primarului comunei Ciocile judetul Braila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15300",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-3-2020",
+   "path": "local/braila/ciocile/2020/3",
+   "short": "HCL Ciocile nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 3/2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5760",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-30-2020",
+   "path": "local/braila/ciocile/2020/30",
+   "short": "HCL Ciocile nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 30/2020 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului propriu de specialitate al Primarului comunei Ciocile",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15301",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-33-2020",
+   "path": "local/braila/ciocile/2020/33",
+   "short": "HCL Ciocile nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 33/2020 privind „Aprobarea Noilor Indicatori tehnico-economici ai Investiției Modernizarea drumurilor comunale în cadrul comunei Ciocile”, județul Brăila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15309",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-34-2020",
+   "path": "local/braila/ciocile/2020/34",
+   "short": "HCL Ciocile nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 34/2020 privind aprobarea situațiilor financiare anuale la 31.12.2019 ale societății cu răspundere limitată „Servicii Ecologizare Ciocile” SRL",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15310",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-37-2020",
+   "path": "local/braila/ciocile/2020/37",
+   "short": "HCL Ciocile nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 37/2020 privind aprobarea indexării impozitelor și taxelor locale pentru anul 2021 cu rata inflației de 3,8%",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/15313",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/15313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-4-2020",
+   "path": "local/braila/ciocile/2020/4",
+   "short": "HCL Ciocile nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 4/2020 privind aprobarea cristeriilor pentru acordarea unor ajutoare de urgență și a prestațiilor financiare excepționale",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5759",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-43-2020",
    "path": "local/braila/ciocile/2020/43",
    "short": "HCL Ciocile nr. 43/2020",
@@ -103,6 +463,21 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/ciocile-br/registru-hcl/15343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-5-2020",
+   "path": "local/braila/ciocile/2020/5",
+   "short": "HCL Ciocile nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 5/2020 privind: avizarea documentelor necesare atribuirii Contractului de delegare a gestiunii activităţii de colectare şi transport a deşeurilor municipale in Judetul Braila si activitatii de maturat, spalat, stropit si intretinere cai publice in Municipiul Braila din cadrul „Sistemului de management integrat al deseurilor” in judetul Braila, mandatarea reprezentantului legal pentru a vota documentele mentionate si mandatarea Asociatiei pentru derularea procedurii de atribuire publica a contractului",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5757",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5757",
      "sha256": null
     }
    ]
@@ -258,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-6-2020",
+   "path": "local/braila/ciocile/2020/6",
+   "short": "HCL Ciocile nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 6/2020 privind aprobarea Indicatorilor tehnico-economici ai Investiției Construire grup sanitar și realizare instalații încălzire la Școala cu clasele I-IV- CLĂDIRE NR.2 în Comuna Ciocile",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5763",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5763",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-60-2020",
    "path": "local/braila/ciocile/2020/60",
    "short": "HCL Ciocile nr. 60/2020",
@@ -298,6 +688,51 @@
      "from": "2020-10-28",
      "units": 1,
      "source_url": "https://emol.ro/ciocile-br/registru-hcl/30658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-7-2020",
+   "path": "local/braila/ciocile/2020/7",
+   "short": "HCL Ciocile nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 7/2020",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5762",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-8-2020",
+   "path": "local/braila/ciocile/2020/8",
+   "short": "HCL Ciocile nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 8/2020 privind aprobarea acordului favorabil cu privire la aderarea Comunei Ulmu la Asociația de Dezvoltare Intercomunitară de Utilitate Publică,, BRAILA GAZ'' și acordarea unui mandat special reprezentantului Consiliului Local al Comunei Ciocile, în Adunarea Generală a Asociației de Dezvolatre Intercomunitară de Utilitate Publică,, BRĂILA GAZ'', la care Comuna este membru asociat",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5761",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-9-2020",
+   "path": "local/braila/ciocile/2020/9",
+   "short": "HCL Ciocile nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 9/2020 privind aprobarea Studiului de Fezabilitate pentru Proiectul Regional de Dezvoltare a Infrastructurii de Apa si Apa Uzata din Judetul Braila in perioada 2014 – 2020 si a Indicatorilor tehnico - economici ai Proiectului – pentru UAT Comuna Ciocile",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/5767",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/5767",
      "sha256": null
     }
    ]

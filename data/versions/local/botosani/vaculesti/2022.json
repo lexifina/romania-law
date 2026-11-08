@@ -3,6 +3,141 @@
  "shard": "local/botosani/vaculesti/2022",
  "acts": [
   {
+   "slug": "hcl-botosani--vaculesti-15-2022",
+   "path": "local/botosani/vaculesti/2022/15",
+   "short": "HCL Văculești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 15/2022 privind alocarea unei sume din bugetul local pentru refugiații din Ucraina",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/52599",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/52599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-2-2022",
+   "path": "local/botosani/vaculesti/2022/2",
+   "short": "HCL Văculești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 2/2022 privind aprobarea cuantumului burselor și a numărului de burse acordate în învățământul preuniversitar de stat din comuna Văculești, județul Botoșani, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/48930",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/48930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-24-2022",
+   "path": "local/botosani/vaculesti/2022/24",
+   "short": "HCL Văculești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 24/2022 privind aprobarea indicelui de inflație, respectiv sumelor indexate pe baza ratei inflației, aplicabile în anul fiscal 2023",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/58472",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/58472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-30-2022",
+   "path": "local/botosani/vaculesti/2022/30",
+   "short": "HCL Văculești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 30/2022 privind aprobarea taxei de închiriere în anul 2022 a tractorului aflat în patrimoniul comunei Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/62075",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/62075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-40-2022",
+   "path": "local/botosani/vaculesti/2022/40",
+   "short": "HCL Văculești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 40/2022 privind ajustarea prețurilor și a valorii devizelor generale la obiectivul de investiții ,,Constituire centru multifuncțional de servicii sociale în comuna Văculești , județul Botoșani''",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/65057",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/65057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-41-2022",
+   "path": "local/botosani/vaculesti/2022/41",
+   "short": "HCL Văculești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 41/2022 privind scutirea în cotă de 100% a majorărilor de întârziere aferente obligațiilor de plată principale restante din impozitele și taxele datorate bugetului local la data de 31.12.2021",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/67427",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/67427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-46-2022",
+   "path": "local/botosani/vaculesti/2022/46",
+   "short": "HCL Văculești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 46/2022 privind aprobarea Regulamentului de conferire a unor titluri, medalii, diplome și distincții unor personalități cu merite deosebite de către Consiliul Local al Comunei Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/69007",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/69007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-6-2022",
+   "path": "local/botosani/vaculesti/2022/6",
+   "short": "HCL Văculești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 6/2022 privind aprobarea bugetului de venituri și cheltuieli al comunei Văculești, pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/50165",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/50165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-65-2022",
+   "path": "local/botosani/vaculesti/2022/65",
+   "short": "HCL Văculești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 65/2022 privind aprobarea realizării proiectului de investiție „Amenajare și construire platformă pentru gestionarea gunoiului de grajd în comuna Văculești, județul Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/80274",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/80274",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-66-2022",
    "path": "local/botosani/vaculesti/2022/66",
    "short": "HCL Văculești nr. 66/2022",

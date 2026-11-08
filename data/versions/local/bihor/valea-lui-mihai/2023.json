@@ -3,6 +3,21 @@
  "shard": "local/bihor/valea-lui-mihai/2023",
  "acts": [
   {
+   "slug": "hcl-bihor--valea-lui-mihai-114-2023",
+   "path": "local/bihor/valea-lui-mihai/2023/114",
+   "short": "HCL Valea lui Mihai nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 114/2023 privind modificarea Regulamentului de funcționare, întreținere și exploatare al Bazinului de înot didactic situat în orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2023/12/hot.-114-din-27.11.2023.pdf",
+     "sha256": "8426ed52017626ffa7cc6af6f04f2ba55b4e9756c3012f3edafb4f41f6ec4dd5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--valea-lui-mihai-47-2023",
    "path": "local/bihor/valea-lui-mihai/2023/47",
    "short": "HCL Valea lui Mihai nr. 47/2023",

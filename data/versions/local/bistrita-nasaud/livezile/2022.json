@@ -3,6 +3,96 @@
  "shard": "local/bistrita-nasaud/livezile/2022",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--livezile-10-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/10",
+   "short": "HCL Livezile nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 10/2022 privind mandatarea reprezentantului legal al comunei Livezile, să respingă în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Servicii de Alimentare cu Apă și de Canalizare în județul Bistrița-Năsăud, revizuirea Planului anual de evoluție al tarifelor la apă și canalizare în perioada 2018-2025 ca parte a Strategiei tarifare, inclusiv modificarea prin Act adițional a Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare în județul Bistrița-Năsăud nr. 3 din 17.09.2008",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/50217",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/50217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-18-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/18",
+   "short": "HCL Livezile nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 18/2022 privind organizarea pășunatului pe raza comunei Livezile, în anul 2022",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/54924",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/54924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-24-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/24",
+   "short": "HCL Livezile nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 24/2022 privind aprobarea unor reguli de transparentizare și eficientizare a activității de vânătoare gestionată de Ocolul Silvic al municipiului Bistrița, pe teritoriul comunei Livezile, în cadrul fondului de vânătoare nr. 24 Cușma",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/59774",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/59774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-25-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/25",
+   "short": "HCL Livezile nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 25/2022 privind aprobarea Regulamentului serviciului public de salubrizare din județul Bistrița - Năsăud, în formă consolidată",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/59775",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/59775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-27-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/27",
+   "short": "HCL Livezile nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 27/2022 privind aprobarea încheierii Actului adițional nr. 5 la Contractul privind Delegarea prin concesiune a serviciului public de salubrizare respectiv activitatea de colectare, transport, depozitare și transfer al deșeurilor municipale inclusiv deșeuri periculoase din deșeuri menajere și managementul Stațiilor de Transfer și al Centrelor de Colectare din județul Bistrița-Năsăud nr. 1277 din 06.12.2018",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/59777",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/59777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-38-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/38",
+   "short": "HCL Livezile nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 38/2022 privind modificarea Hotărârii nr. 18/24.03.2022 a Consiliului local al comunei Livezile, referitoare la organizarea pășunatului pe raza comunei Livezile, în anul 2022",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/62112",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/62112",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--livezile-50-2022",
    "path": "local/bistrita-nasaud/livezile/2022/50",
    "short": "HCL Livezile nr. 50/2022",
@@ -298,6 +388,36 @@
      "from": "2023-01-09",
      "units": 1,
      "source_url": "https://emol.ro/livezile-bn/registru-hcl/83597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-8-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/8",
+   "short": "HCL Livezile nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 8/2022 privind aprobarea volumului de masă lemnoasă aparținând fondului forestier proprietate publica a comunei Livezile, care se va recolta în anul 2022, a modului de valorificare a acesteia, precum și a tarifelor maximale practicate la lucrările de exploatare a masei lemnoase prin prestări servicii și a taxei de peiaj",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/50215",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/50215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--livezile-9-2022",
+   "path": "local/bistrita-nasaud/livezile/2022/9",
+   "short": "HCL Livezile nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 9/2022 privind aprobarea preţului de referinţă al masei lemnoase pe picior, precum şi a preţurilor de valorificare directă, a materialelor lemnoase care se recoltează din fondul forestier, proprietate publică a comunei Livezile, pentru anul 2022",
+   "url": "https://emol.ro/livezile-bn/registru-hcl/50216",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-bn/registru-hcl/50216",
      "sha256": null
     }
    ]

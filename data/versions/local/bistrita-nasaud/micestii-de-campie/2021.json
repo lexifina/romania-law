@@ -16,6 +16,36 @@
      "sha256": "99907e02a771f6dff7c5c441a0dd0d0250248bcff8c921a79cef0b18d4b50064"
     }
    ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-13-2021",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2021/13",
+   "short": "HCL Miceștii de Câmpie nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 13/2021 privind modificarea Hotărârii de Consiliu local nr.6 din 29.10.2020 pentru aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare în Comuna MICEȘTII DE CÂMPIE și instituirea taxei speciale de salubrizare pentru anul 2021",
+   "url": "https://micestiidecampie.ro/registru_hcl2021.html",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/HCL%20NR.13-31.03.2021.pdf",
+     "sha256": "7febe62686df99c4ff50e50b81149cfb66b0342da942e6cc69ea1520ddda15a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--micestii-de-campie-14-2021",
+   "path": "local/bistrita-nasaud/micestii-de-campie/2021/14",
+   "short": "HCL Miceștii de Câmpie nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Miceștii de Câmpie nr. 14/2021 privind modificarea taxelor speciale, datorate de persoanele fizice și juridice din comuna Miceștii de Câmpie, în anul 2021",
+   "url": "https://micestiidecampie.ro/registru_hcl2021.html",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://micestiidecampie.ro/documente/hcl/HCL%20NR.14-31.03.2021.pdf",
+     "sha256": "519ee110b79bb038f2aa74e578e906e56ff8e6c50a46dd729d28883d7fd5fe08"
+    }
+   ]
   }
  ]
 }

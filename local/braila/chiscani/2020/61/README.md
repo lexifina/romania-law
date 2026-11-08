@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Chiscani nr. 61/2020 privind modificarea Anexei la H.C.L nr.39/2020 privindscoaterea la licitație publică, în vederea constituirii dreptului de superficie, cu titlu oneros, asupra unor terenuri ce aparțin domeniului privat a comunei Chiscani, Județul Brăila, reprezentând Caietul de sarcini privind constituirea dreptului de superficie prin licitație publică
+
+HCL Chiscani nr. 61/2020 · 1 versions, from 2020-05-29 (latest in force: 2020-05-29) · <https://emol.ro/chiscani-br/registru-hcl/10767>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-braila--chiscani-61-2020` (tags `hcl-braila--chiscani-61-2020/<day>`; `python tools/on.py <day> hcl-braila--chiscani-61-2020`).
+
+## Decisions made by hand
+
+- HCL Chiscani nr. 61/2020: listed from Consiliul Local al Comunei Chiscani (emol.ro); metadata only for now: no document of it is held.
+- HCL Chiscani nr. 61/2020: dated from 29 May 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Chiscani nr. 61/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

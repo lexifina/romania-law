@@ -3,6 +3,21 @@
  "shard": "local/botosani/paltinis/2023",
  "acts": [
   {
+   "slug": "hcl-botosani--paltinis-1-2023",
+   "path": "local/botosani/paltinis/2023/1",
+   "short": "HCL Păltiniș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 1/2023 aprobare privind acoperire sursa A",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38794",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38794",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--paltinis-10-2023",
    "path": "local/botosani/paltinis/2023/10",
    "short": "HCL Păltiniș nr. 10/2023",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--paltinis-2-2023",
+   "path": "local/botosani/paltinis/2023/2",
+   "short": "HCL Păltiniș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2023 aprobare folosire excedent E",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38795",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38795",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--paltinis-20-2023",
    "path": "local/botosani/paltinis/2023/20",
    "short": "HCL Păltiniș nr. 20/2023",
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--paltinis-3-2023",
+   "path": "local/botosani/paltinis/2023/3",
+   "short": "HCL Păltiniș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2023 aprobare buget 2023",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38816",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#38816",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--paltinis-30-2023",
    "path": "local/botosani/paltinis/2023/30",
    "short": "HCL Păltiniș nr. 30/2023",
@@ -358,6 +403,21 @@
      "from": "2023-08-01",
      "units": 1,
      "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#54925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-4-2023",
+   "path": "local/botosani/paltinis/2023/4",
+   "short": "HCL Păltiniș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 4/2023 aprobare cont de executie 2022",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#40413",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#40413",
      "sha256": null
     }
    ]

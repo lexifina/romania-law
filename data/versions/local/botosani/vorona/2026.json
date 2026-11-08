@@ -3,6 +3,906 @@
  "shard": "local/botosani/vorona/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--vorona-10-2026",
+   "path": "local/botosani/vorona/2026/10",
+   "short": "HCL Vorona nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 10/2026 privind aprobarea contului anual de execuție bugetară al comunei Vorona pe anul 2025",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257724",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-18-2026",
+   "path": "local/botosani/vorona/2026/18",
+   "short": "HCL Vorona nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 18/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257732",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-19-2026",
+   "path": "local/botosani/vorona/2026/19",
+   "short": "HCL Vorona nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 19/2026 privind aprobarea Strategiei de Dezvoltare Locală (SDL) a Asociației de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus pentru perioada 2026-2035",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257733",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-2-2026",
+   "path": "local/botosani/vorona/2026/2",
+   "short": "HCL Vorona nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 2/2026 privind declararea ca fiind bunuri de uz și interes public local a imobilelor : teren cu numărul cadastral CF 51173, PC 169/34 în suprafața de 1000 mp si teren cu numarul cadastral 51172, PC 177/20 în suprafata de 5.000 mp comuna Vorona, județul Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251387",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-20-2026",
+   "path": "local/botosani/vorona/2026/20",
+   "short": "HCL Vorona nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 20/2026 privind aprobarea Planului de analiză și acoperire a riscurilor pe teritoriul comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257734",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-21-2026",
+   "path": "local/botosani/vorona/2026/21",
+   "short": "HCL Vorona nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 21/2026 privind aprobarea utilizării excedentului bugetar al Comunei Vorona pentru finanțarea cheltuielilor de capital necesare obiectivului de investiții „ Extindere sistem de alimentare cu apa, racorduri si canalizare in Comuna Vorona”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257735",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-22-2026",
+   "path": "local/botosani/vorona/2026/22",
+   "short": "HCL Vorona nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 22/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după licitație 21% TVA – Revizia 1, pentru obiectivul de investiții ”Înființare sistem inteligent de distribuție gaze naturale in comunele VLADENI, CORNI, VORONA, Judetul BOTOSANI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257736",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-23-2026",
+   "path": "local/botosani/vorona/2026/23",
+   "short": "HCL Vorona nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 23/2026 privind aprobarea utilizării excedentului bugetar al Comunei Vorona pentru finantarea cheltuielilor de capital pentru anul 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/260426",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/260426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-24-2026",
+   "path": "local/botosani/vorona/2026/24",
+   "short": "HCL Vorona nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 24/2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/261939",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/261939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-25-2026",
+   "path": "local/botosani/vorona/2026/25",
+   "short": "HCL Vorona nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 25/2026 privind aprobarea Raportului asupra situației gestionării bunurilor din domeniul public si privat al Comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/261940",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/261940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-26-2026",
+   "path": "local/botosani/vorona/2026/26",
+   "short": "HCL Vorona nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 26/2026 de aprobare a Raportului privind starea de dezvoltare economică, socială si de mediu a Comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/261941",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/261941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-27-2026",
+   "path": "local/botosani/vorona/2026/27",
+   "short": "HCL Vorona nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 27/2026 privind aprobarea reorganizării Aparatului de specialitate al Primarului Comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/266971",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/266971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-28-2026",
+   "path": "local/botosani/vorona/2026/28",
+   "short": "HCL Vorona nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 28/2026 privind aprobarea devizului general și a indicatorilor tehnico – economici actualizați in urma finalizarii obiectivului de investitii \"Extindere sistem de supraveghere video in comuna Vorona, judetul Botosani\" aprobat pentru finanțare prin Planul National de Redresare si Rezilienta",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/267458",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/267458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-29-2026",
+   "path": "local/botosani/vorona/2026/29",
+   "short": "HCL Vorona nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 29/2026 privind privind aprobarea devizului general în urma procedurii de licitație pentru obiectivul de investiții \"REALIZARE CENTRALĂ FOTOVOLTAICĂ ÎN COMUNA VORONA, JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/267459",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/267459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-3-2026",
+   "path": "local/botosani/vorona/2026/3",
+   "short": "HCL Vorona nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 3/2026 privind includerea în domeniu public al comunei Vorona, județul Botosani a bunurilor ce alcatuiesc obiectivele de investitii ,,Sistem de alimentare cu apa a comunelor Vorona si Tudora, judetul Botosani si ,, Exinderea sistemului de alimentare cu apa prin realizarea racordurilor la retea in comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251388",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-30-2026",
+   "path": "local/botosani/vorona/2026/30",
+   "short": "HCL Vorona nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 30/2026 privind aprobarea modificării actului constitutiv și statutului „Asociației de Dezvoltare Intercomunitară Gaze Naturale Vlădeni-Corni-Vorona, Județul Botoșani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/267460",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/267460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-31-2026",
+   "path": "local/botosani/vorona/2026/31",
+   "short": "HCL Vorona nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 31/2026 de aprobare a Regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local al Comunei Vorona alocate pentru activități nonprofit de interes local în domeniul cultural-sportiv”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/267461",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/267461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-33-2026",
+   "path": "local/botosani/vorona/2026/33",
+   "short": "HCL Vorona nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 33/2026 privind aprobarea înființării Centrului Comunitar Integrat în comuna Vorona, județul Botoșani, fără personalitate juridică",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/271282",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/271282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-34-2026",
+   "path": "local/botosani/vorona/2026/34",
+   "short": "HCL Vorona nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 34/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local la nivelul comunei Vorona pentru anul 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/271283",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/271283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-35-2026",
+   "path": "local/botosani/vorona/2026/35",
+   "short": "HCL Vorona nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 35/2026 PRIVIND APROBAREA BUGETULUI LOCAL PE ANUL 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/271284",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/271284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-36-2026",
+   "path": "local/botosani/vorona/2026/36",
+   "short": "HCL Vorona nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 36/2026 privind aprobarea Programului anual al finanțărilor nerambursabile alocate de la bugetul local al Comunei Vorona pentru anul 2026, pentru activități nonprofit din domeniul cultural-sportiv",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/271285",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/271285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-37-2026",
+   "path": "local/botosani/vorona/2026/37",
+   "short": "HCL Vorona nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 37/2026 privind declararea ca fiind bun de uz si interes public local imobilul clădire situata in parcela cadastrala PC 387/1/11 CF 51290 domeniul public al comunei Vorona, județul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/271286",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/271286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-38-2026",
+   "path": "local/botosani/vorona/2026/38",
+   "short": "HCL Vorona nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 38/2026 privind aprobarea Notei Conceptuale si a Temei de proiectare pentru investiția „Modernizare drum comunal DC 55A de la km 18+600 la km 15+700 în localitatea Icușeni, comuna Vorona, județul Botoșani ”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273215",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-39-2026",
+   "path": "local/botosani/vorona/2026/39",
+   "short": "HCL Vorona nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 39/2026 privind aprobarea Notei Conceptuale si a Temei de proiectare pentru investiția „Reabilitare drum comunal DC 55A de la km 20+100 la km 18+600 în localitatea Joldești, comuna Vorona, județul Botoșani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273216",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-4-2026",
+   "path": "local/botosani/vorona/2026/4",
+   "short": "HCL Vorona nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 4/2026 privind aprobarea Notei Conceptuale și a Temei de proiectare pentru realizarea investiției „Dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie în comuna Vorona, Județul Botoșani„",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251389",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-40-2026",
+   "path": "local/botosani/vorona/2026/40",
+   "short": "HCL Vorona nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 40/2026 privind aprobarea Notei Conceptuale si a Temei de proiectare pentru investiția „Amenajare trotuare în comuna Vorona pe DJ 208C, de la km 11+660 la km 13+110 dreapta”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273217",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-41-2026",
+   "path": "local/botosani/vorona/2026/41",
+   "short": "HCL Vorona nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 41/2026 privind aprobarea devizului pentru restul de executat pentru obiectivul de investiții ,,Modernizare drumuri de interes local în comuna Vorona, județul Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273218",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-42-2026",
+   "path": "local/botosani/vorona/2026/42",
+   "short": "HCL Vorona nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 42/2026 privind aprobarea devizului la finalul investiției ”Construire și dotare Centru Comunitar Integrat în Comuna Vorona, județul Botoșani„",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273219",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-43-2026",
+   "path": "local/botosani/vorona/2026/43",
+   "short": "HCL Vorona nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 43/2026 privind validarea Dispoziției nr.114 din data de 20.05.2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273220",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-44-2026",
+   "path": "local/botosani/vorona/2026/44",
+   "short": "HCL Vorona nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 44/2026 privind avizarea actualizării Regulamentului consolidat al serviciilor de alimentare cu apă și de canalizare din județul Botoșani și acordarea unui mandat special reprezentantului Comunei Vorona pentru aprobarea acestei actualizări",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273221",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-45-2026",
+   "path": "local/botosani/vorona/2026/45",
+   "short": "HCL Vorona nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 45/2026 privind aprobarea Notei Conceptuale si a Temei de proiectare pentru investiția „Iluminat public în zona centrală a Comunei Vorona, județul Botoșani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/273222",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/273222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-46-2026",
+   "path": "local/botosani/vorona/2026/46",
+   "short": "HCL Vorona nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 46/2026 privind aprobarea dezmembrării PC 387/1/11 - CF 51290, imobil aparținând domeniului public al comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/275075",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/275075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-47-2026",
+   "path": "local/botosani/vorona/2026/47",
+   "short": "HCL Vorona nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 47/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici, aferenți obiectivului de investiții ,,AMENAJARE PARC PENTRU ACTIVITATI RECREATIVE IN COMUNA VORONA, JUDETUL BOTOSANI”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/275076",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/275076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-48-2026",
+   "path": "local/botosani/vorona/2026/48",
+   "short": "HCL Vorona nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 48/2026 privind aprobarea contului anual de execuție bugetara al comunei Vorona pe trimestrul I, anul 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278796",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-49-2026",
+   "path": "local/botosani/vorona/2026/49",
+   "short": "HCL Vorona nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 49/2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278797",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-5-2026",
+   "path": "local/botosani/vorona/2026/5",
+   "short": "HCL Vorona nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 5/2026 privind aprobarea Planului de lucrări de interes local cuprinzând activitățile ce vor fi desfășurate de persoanele care au beneficiat de transformarea amenzilor contravenționale precum și a celor stabilite printr-o hotărâre judecătorească definitivă în muncă neremunerată în folosul comunității",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251390",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-50-2026",
+   "path": "local/botosani/vorona/2026/50",
+   "short": "HCL Vorona nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 50/2026 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278938",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-51-2026",
+   "path": "local/botosani/vorona/2026/51",
+   "short": "HCL Vorona nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 51/2026 privind aprobarea “Regulamentului intern privind acordarea voucherelor de vacanță pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Vorona, în anul 2026”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278939",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-52-2026",
+   "path": "local/botosani/vorona/2026/52",
+   "short": "HCL Vorona nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 52/2026 privind aprobarea înființării Serviciului gestiunii prin concesiune pentru gestionarea câinilor fără stăpân al Comunei Vorona , Judetul Botoșani si a delegării gestiunii prin concesiune a Serviciului gestiunii prin concesiune pentru gestionarea câinilor fără stăpân, a studiului de fundamentare a deciziei de delegare a Serviciului pentru gestionarea câinilor fără stăpân al Comunei Vorona, Județul Botoșani, a Regulamentului de Organizare și funcționare al serviciului pentru gestionarea câinilor fără stăpân, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificată",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278940",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-53-2026",
+   "path": "local/botosani/vorona/2026/53",
+   "short": "HCL Vorona nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 53/2026 privind privind actualizare deviz general și a indicatorilor tehnico-economici ,,AMENAJARE PARC PENTRU ACTIVITATI RECREATIVE IN COMUNA VORONA, JUDETUL BOTOSANI",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/278941",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/278941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-54-2026",
+   "path": "local/botosani/vorona/2026/54",
+   "short": "HCL Vorona nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 54/2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280674",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-57-2026",
+   "path": "local/botosani/vorona/2026/57",
+   "short": "HCL Vorona nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 57/2026 privind la aprobarea devizului general actualizat în urma finalizării obiectivului de investiții ,,Reabilitare moderata Liceul Tehnologic ,,Ștefan cel Mare si Sfant” Corpul B, din comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280677",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-58-2026",
+   "path": "local/botosani/vorona/2026/58",
+   "short": "HCL Vorona nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 58/2026 privind aprobarea devizului general actualizat în urma finalizării obiectivului de investiții ,,Autorizare lucrari in vederea obtinerii avizelor de functionare Liceul Tehnologic ,,Stefan cel Mare si Sfant” Corpul B, din comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280678",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-6-2026",
+   "path": "local/botosani/vorona/2026/6",
+   "short": "HCL Vorona nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 6/2026 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2026, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr.196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251391",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-60-2026",
+   "path": "local/botosani/vorona/2026/60",
+   "short": "HCL Vorona nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 60/2026 privind avizarea modificării Contractului unic de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare prin concesiune – județul Botoșani, prin Actul adițional nr. 15/2026 și acordarea mandatului special reprezentantului Comunei Vorona în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „AQUA” Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280680",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-61-2026",
+   "path": "local/botosani/vorona/2026/61",
+   "short": "HCL Vorona nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 61/2026 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286771",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-62-2026",
+   "path": "local/botosani/vorona/2026/62",
+   "short": "HCL Vorona nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 62/2026 privind aprobarea contului anual de execuție bugetara al comunei Vorona pe trimestrul II 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286772",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-63-2026",
+   "path": "local/botosani/vorona/2026/63",
+   "short": "HCL Vorona nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 63/2026 privind aprobarea tarifului aferent utilizării stației de încărcare a vehiculelor electrice amplasată pe domeniul public al Comunei Vorona, județul Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286773",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-64-2026",
+   "path": "local/botosani/vorona/2026/64",
+   "short": "HCL Vorona nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 64/2026 privind aprobarea documentaţiei tehnico-economice (faza DALI) și a indicatorilor tehnico-economici aferenți proiectului ,,Intrare in legalitate-Amenjare teren pentru activitati sportive in localitatea Vorona Mare, comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286774",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-66-2026",
+   "path": "local/botosani/vorona/2026/66",
+   "short": "HCL Vorona nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 66/2026 privind aprobarea devizului general si a indicatorilor tehnico – economici actualizati in urma finalizarii obiectivului de investitii ”Stații de încărcare vehicule electrice (3 stații) în comuna Vorona, județul Botoșani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286776",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-67-2026",
+   "path": "local/botosani/vorona/2026/67",
+   "short": "HCL Vorona nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 67/2026 privind aprobarea devizului general si a indicatorilor tehnico – economici actualizati in urma finalizarii obiectivului de investitii ,,Modernizare sistem de iluminat public în comuna Vorona, județul Botoșani”, etapa a III-a",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286777",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-69-2026",
+   "path": "local/botosani/vorona/2026/69",
+   "short": "HCL Vorona nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 69/2026 privind aprobarea Documentatiei de Avizare a Lucrarilor de Interventii -DALI pentru proiectul ”Reabilitare drum comunal DC 55A de la km 18+000 la km 19+800 in localitatea Joldesti, comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286779",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-7-2026",
+   "path": "local/botosani/vorona/2026/7",
+   "short": "HCL Vorona nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 7/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici, aferenți investiției ,,AMENAJARE PARC PENTRU ACTIVITATI RECREATIVE IN COMUNA VORONA, JUDETUL BOTOSANI”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251392",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-70-2026",
+   "path": "local/botosani/vorona/2026/70",
+   "short": "HCL Vorona nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 70/2026 Privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici aferenti proiectului ,, Modernizare drum comunal DC 55A de la km 15+700 la km 18+000 in localitatea Icuseni, comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286780",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-71-2026",
+   "path": "local/botosani/vorona/2026/71",
+   "short": "HCL Vorona nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 71/2026 privind aprobarea Documentatiei tehnice (DTAC si Proiectului tehnic (PTh), a indicatorilor tehnico-economici (Deviz general) pentru obiectivul de investiții ,, Intrare in legalitate-AMENAJARE TEREN PENTRU ACTIVITATI SPORTIVE IN LOCALITATEA VORONA MARE, COMUNA VORONA, JUDETUL BOTOSANI”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288194",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-72-2026",
+   "path": "local/botosani/vorona/2026/72",
+   "short": "HCL Vorona nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 72/2026 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici aferenti proiectului ,, Reabilitare drum comunal DC 55A de la km 18+000 la km 19+800 in localitatea Joldesti, comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288195",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-73-2026",
+   "path": "local/botosani/vorona/2026/73",
+   "short": "HCL Vorona nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 73/2026 privind aprobarea documentaţiei tehnico-economice (faza DALI) şi a indicatorilor tehnico-economici aferenti proiectului ,, Modernizare drum comunal DC 55A de la km 15+700 la km 18+000 in localitatea Icuseni, comuna Vorona, judetul Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288196",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-74-2026",
+   "path": "local/botosani/vorona/2026/74",
+   "short": "HCL Vorona nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 74/2026 privind aprobarea Documentației tehnice (DTAC si Proiectului tehnic (PTh), a indicatorilor tehnico-economici (Deviz general) pentru obiectivul de investiții ,, Reabilitare drum comunal DC 55A de la km 18+000 la km 19+800 in localitatea Joldesti, comuna Vorona, judetul Botosani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288700",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-75-2026",
+   "path": "local/botosani/vorona/2026/75",
+   "short": "HCL Vorona nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 75/2026 privind aprobarea Documentatiei tehnice (DTAC si Proiectului tehnic (PTh), a indicatorilor tehnico-economici (Deviz general) pentru obiectivul de investiții ,,Modernizare drum comunal DC 55A de la km 15+700 la km 18+000 in localitatea Icuseni, comuna Vorona, judetul Botosani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288701",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-76-2026",
+   "path": "local/botosani/vorona/2026/76",
+   "short": "HCL Vorona nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 76/2026 privind aprobarea documentaţiei tehnico-economice (faza Studiu de fezabilitate) și a indicatorilor tehnico-economici aferenți investiției ,,Amenajare trotuare în Comuna Vorona, pe DJ 208C, de la km 11+660 la km 13+110 partea dreaptă”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/288702",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/288702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vorona-77-2026",
    "path": "local/botosani/vorona/2026/77",
    "short": "HCL Vorona nr. 77/2026",

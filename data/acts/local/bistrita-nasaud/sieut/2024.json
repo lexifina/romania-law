@@ -3,6 +3,117 @@
 "shard": "local/bistrita-nasaud/sieut/2024",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--sieut-1-2024",
+"path": "local/bistrita-nasaud/sieut/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 1/2024 privind privind organizarea reţelei școlare a unităților de învățământ preuniversitar de stat din cadrul comunei Şieuţ, pentru anul școlar 2024-2025",
+"short": "HCL Șieuț nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/sieut-bn/registru-hcl/137987",
+"council": "bistrita-nasaud/sieut",
+"council_name": "Consiliul Local al Comunei Șieuț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieut-2-2024",
+"path": "local/bistrita-nasaud/sieut/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 2/2024 privind modificarea Hotărării Consiliului local al comunei Șieuț nr. 45 din 27 Octombrie 2023, privind declararea ca bun de uz și interes public local a imobilului „Teren aferent Grajdi de reporducatori a satului Ruştior”, în suprafață de 1617 mp, situat în localitatea Ruştior, comuna Șieuț",
+"short": "HCL Șieuț nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/sieut-bn/registru-hcl/137988",
+"council": "bistrita-nasaud/sieut",
+"council_name": "Consiliul Local al Comunei Șieuț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieut-3-2024",
+"path": "local/bistrita-nasaud/sieut/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 3/2024 privind aprobarea utilizării excedentelor bugetului local, realizate la finele anului 2023, pentru acoperirea deficitelor secţiunii de funcționare și dezvoltare pe anul 2024",
+"short": "HCL Șieuț nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/sieut-bn/registru-hcl/137989",
+"council": "bistrita-nasaud/sieut",
+"council_name": "Consiliul Local al Comunei Șieuț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieut-4-2024",
+"path": "local/bistrita-nasaud/sieut/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 4/2024",
+"short": "HCL Șieuț nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/sieut-bn/registru-hcl/137990",
+"council": "bistrita-nasaud/sieut",
+"council_name": "Consiliul Local al Comunei Șieuț",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--sieut-5-2024",
+"path": "local/bistrita-nasaud/sieut/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 5/2024 privind aprobarea bugetului de venituri şi cheltuieli al comunei Șieuț pe anul 2024",
+"short": "HCL Șieuț nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://emol.ro/sieut-bn/registru-hcl/140210",
+"council": "bistrita-nasaud/sieut",
+"council_name": "Consiliul Local al Comunei Șieuț",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--sieut-34-2024",
 "path": "local/bistrita-nasaud/sieut/2024/34",
 "kind": "local",

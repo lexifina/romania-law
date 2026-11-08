@@ -61,6 +61,21 @@
      "sha256": "5b6155c8224f68cf7e379bf8267c4fa1ccfc3810d3fb84dfcc8907bd1b81fb3e"
     }
    ]
+  },
+  {
+   "slug": "hcl-botosani--dobarceni-56-2024",
+   "path": "local/botosani/dobarceni/2024/56",
+   "short": "HCL Dobârceni nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dobârceni nr. 56/2024",
+   "url": "https://comunadobarceni.ro/hotararea-nr-56-din-data-de-20-12-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunadobarceni.ro/wp-content/uploads/2025/07/hot_56_20.12.2024.pdf",
+     "sha256": "7e02a37eba5baf5f1a9acb8144607330c69cbea4910d2e22c962050432481d89"
+    }
+   ]
   }
  ]
 }

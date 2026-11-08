@@ -3,6 +3,141 @@
  "shard": "local/botosani/pomarla/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--pomarla-13-2025",
+   "path": "local/botosani/pomarla/2025/13",
+   "short": "HCL Pomârla nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 13/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Pomârla, pentru anul 2025",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/202214",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/202214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-15-2025",
+   "path": "local/botosani/pomarla/2025/15",
+   "short": "HCL Pomârla nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 15/2025 privind aprobarea solicitării prelungirii scrisorii de garanție pentru restituirea avansului nr. IG173301010/06.10.2017 din partea Fondului de Garantare a Creditului Rural IFN SA pentru proiectul ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ, CANALIZARE ȘI STAȚIE DE EPURARE, ÎN COMUNA POMÂRLA JUDEȚUL BOTOȘANI",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/202218",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/202218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-16-2025",
+   "path": "local/botosani/pomarla/2025/16",
+   "short": "HCL Pomârla nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 16/2025 privind reactualizarea „Planului de Analiză și Acoperire a Riscurilor” pe teritoriul comunei Pomârla, județul Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/202222",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/202222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-18-2025",
+   "path": "local/botosani/pomarla/2025/18",
+   "short": "HCL Pomârla nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 18/2025 privind aprobarea implementării și cofinanțării proiectului: Răspuns integrat în prevenirea riscului de dezastre (RO) „INTEGRETED RESPONSE IN DISASTER RISK PREVEBTION” (ENG)",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/202230",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/202230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-25-2025",
+   "path": "local/botosani/pomarla/2025/25",
+   "short": "HCL Pomârla nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 25/2025 privind aprobarea participării comunei Pomârla la înființarea ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ INFRASTRUCTURA NORDULUI",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/206471",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/206471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-26-2025",
+   "path": "local/botosani/pomarla/2025/26",
+   "short": "HCL Pomârla nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 26/2025 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/212690",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/212690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-30-2025",
+   "path": "local/botosani/pomarla/2025/30",
+   "short": "HCL Pomârla nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 30/2025 privind aprobarea DG - DEVIZ GENERAL al obiectivului „Intretinere prin reparatie drum comunal DC 80 , în comuna Pomârla, județul Botoșani”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/213822",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/213822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-41-2025",
+   "path": "local/botosani/pomarla/2025/41",
+   "short": "HCL Pomârla nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 41/2025 privind reactualizarea indicatorilor economici și a devizului general pentru obiectivul de investiții „Construire bloc de locuințe sociale în sat Pomârla, comuna Pomârla, județul Botoșani” conform situațiilor de lucrări și a contractului de lucrări nr.2718/24.05.2022 împreună cu actele adiționale",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/230470",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/230470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-43-2025",
+   "path": "local/botosani/pomarla/2025/43",
+   "short": "HCL Pomârla nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 43/2025 privind aprobare majorare sumă deviz pentru obiectivul de investiții „Înființare Sistem de alimentare cu apă, canalizare și stație de epurare în comuna Pomârla, județul Botoșani”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/230472",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/230472",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-44-2025",
    "path": "local/botosani/pomarla/2025/44",
    "short": "HCL Pomârla nr. 44/2025",

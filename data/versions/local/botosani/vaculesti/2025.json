@@ -3,6 +3,36 @@
  "shard": "local/botosani/vaculesti/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--vaculesti-16-2025",
+   "path": "local/botosani/vaculesti/2025/16",
+   "short": "HCL Văculești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 16/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Văculești, pe anul 2025 și estimările pentru anii 2026-2028",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207251",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-27-2025",
+   "path": "local/botosani/vaculesti/2025/27",
+   "short": "HCL Văculești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 27/2025 privind aprobarea indicelui de inflație, respectiv sumelor indexate pe baza ratei inflației, aplicabile în anul fiscal 2026",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/207269",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/207269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-48-2025",
    "path": "local/botosani/vaculesti/2025/48",
    "short": "HCL Văculești nr. 48/2025",

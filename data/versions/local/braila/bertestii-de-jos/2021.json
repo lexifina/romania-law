@@ -3,6 +3,126 @@
  "shard": "local/braila/bertestii-de-jos/2021",
  "acts": [
   {
+   "slug": "hcl-braila--bertestii-de-jos-1-2021",
+   "path": "local/braila/bertestii-de-jos/2021/1",
+   "short": "HCL Berteștii de Jos nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 1/2021 privind utilizarea parțială a excedentului anual pentru acoperirea temporară a golurilor de casă",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/20344",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/20344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-100-2021",
+   "path": "local/braila/bertestii-de-jos/2021/100",
+   "short": "HCL Berteștii de Jos nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 100/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37288",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-101-2021",
+   "path": "local/braila/bertestii-de-jos/2021/101",
+   "short": "HCL Berteștii de Jos nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 101/2021 privind aprobarea caietului de sarcini pentru scoaterea la licitație publică în vederea constituirii dreptului de superficie, a terenului în suprafață de 1453 mp, situat în comuna Berteștii de Jos, sat Berteștii de Sus, str. Principală, nr. 5B, teren ce aparține domeniului privat al comunei Berteștii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37289",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-103-2021",
+   "path": "local/braila/bertestii-de-jos/2021/103",
+   "short": "HCL Berteștii de Jos nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 103/2021 privind aprobarea Actului aditional nr. 5 la Contractul de lucrari nr. 3608/21.06.2018 pentru obiectivul de investitii MODERNIZARE DRUMURI RURALE IN COMUNA BERTESTII DE JOS, JUDETUL BRAILA",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37751",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-104-2021",
+   "path": "local/braila/bertestii-de-jos/2021/104",
+   "short": "HCL Berteștii de Jos nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 104/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/40543",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/40543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-105-2021",
+   "path": "local/braila/bertestii-de-jos/2021/105",
+   "short": "HCL Berteștii de Jos nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 105/2021 privind aprobarea execuției bugetelor întocmite pe cele doua secțiuni : secțiunea de funcționare și secțiunea de dezvoltare pe trim. III, anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/40544",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/40544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-11-2021",
+   "path": "local/braila/bertestii-de-jos/2021/11",
+   "short": "HCL Berteștii de Jos nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 11/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al UAT Berteștii de Jos, județul Brăila, pentru anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/20367",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/20367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-111-2021",
+   "path": "local/braila/bertestii-de-jos/2021/111",
+   "short": "HCL Berteștii de Jos nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 111/2021 privind aprobarea Actului adițional nr. 1 la Contractul de lucrări nr. 670/04.02.2021 pentru obiectivul de investiții ”CONSTRUIRE SALĂ DE SPORT ȘCOALA BERTEȘTII DE JOS, SAT BERTEȘTII DE JOS, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/40550",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/40550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--bertestii-de-jos-112-2021",
    "path": "local/braila/bertestii-de-jos/2021/112",
    "short": "HCL Berteștii de Jos nr. 112/2021",
@@ -298,6 +418,681 @@
      "from": "2021-12-27",
      "units": 1,
      "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/45450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-19-2021",
+   "path": "local/braila/bertestii-de-jos/2021/19",
+   "short": "HCL Berteștii de Jos nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 19/2021 privind indexarea impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, pentru anul 2022, la nivelul comunei Berteștii de Jos, județul Brăila",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/21749",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/21749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-2-2021",
+   "path": "local/braila/bertestii-de-jos/2021/2",
+   "short": "HCL Berteștii de Jos nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 2/2021 privind aprobarea Planului de analiză și acoperire a riscurilor pentru comuna Berteștii de Jos, județul Brăila, în anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/20350",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/20350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-20-2021",
+   "path": "local/braila/bertestii-de-jos/2021/20",
+   "short": "HCL Berteștii de Jos nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 20/2021 privind aprobarea rapoartelor de evaluare a suprafețelor de teren aparținând domeniului privat al comunei Berteștii de Jos pentru acordarea dreptului de supeficie cu titlu oneros",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/21750",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/21750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-21-2021",
+   "path": "local/braila/bertestii-de-jos/2021/21",
+   "short": "HCL Berteștii de Jos nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 21/2021 privind inițierea procedurii pentru constituirea dreptului de superficie cu titlu oneros, prin licitație publică, asupra terenului intravilan în suprafață de 612 mp, Cvartal 36, Parcela 1471, înscris în Cartea Funciară nr. 78559, situat în Satul Spiru Haret, comuna Berteștii de Jos, județul Brăila, aparținând domeniului privat al comunei Berteștii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/21751",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/21751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-22-2021",
+   "path": "local/braila/bertestii-de-jos/2021/22",
+   "short": "HCL Berteștii de Jos nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 22/2021 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37291",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-23-2021",
+   "path": "local/braila/bertestii-de-jos/2021/23",
+   "short": "HCL Berteștii de Jos nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 23/2021 privind aprobarea execuției bugetelor întocmite pe cele doua secțiuni : secțiunea de funcționare și secțiunea de dezvoltare pe trim. I, anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41618",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-24-2021",
+   "path": "local/braila/bertestii-de-jos/2021/24",
+   "short": "HCL Berteștii de Jos nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 24/2021 privind modificarea Inventarului bunurilor care aparţin domeniului privat al comunei Berteştii de Jos, judetul Brăila",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41619",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-25-2021",
+   "path": "local/braila/bertestii-de-jos/2021/25",
+   "short": "HCL Berteștii de Jos nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 25/2021 privind aprobarea caietului de sarcini pentru scoaterea la licitație publică în vederea constituirii dreptului de superficie, a terenului în suprafață de 612 mp, situat în comuna Berteștii de Jos, sat Spiru Haret, str. Salcâmului, nr.2A, teren ce aparține domeniului privat al comunei Berteștii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41620",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-26-2021",
+   "path": "local/braila/bertestii-de-jos/2021/26",
+   "short": "HCL Berteștii de Jos nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 26/2021 privind aprobarea realizarii obiectivului de investitii “SEDIU MULTIFUNCȚIONAL ÎN SATUL BERTEȘTII DE JOS, CVARTAL 5, PARCELA 114/1, STRADA CRINULUI, NR. 26, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41621",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-27-2021",
+   "path": "local/braila/bertestii-de-jos/2021/27",
+   "short": "HCL Berteștii de Jos nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 27/2021 privind aprobarea Planului pentru asigurarea resurselor financiare, umane şi materiale destinate prevenirii şi gestionării situaţiilor de urgenţă pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41622",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-28-2021",
+   "path": "local/braila/bertestii-de-jos/2021/28",
+   "short": "HCL Berteștii de Jos nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 28/2021 privind aprobarea Strategiei de dezvoltare economică și de mediu a comunei Berteștii de Jos, județul Brăila pentru perioada 2021 - 2027",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41623",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-3-2021",
+   "path": "local/braila/bertestii-de-jos/2021/3",
+   "short": "HCL Berteștii de Jos nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 3/2021 privind aprobarea execuției bugetelor întocmite pe cele două secțiuni: secțiunea de funcționare și secțiunea de dezvoltare pe trim. IV, anul 2020",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/20351",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/20351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-40-2021",
+   "path": "local/braila/bertestii-de-jos/2021/40",
+   "short": "HCL Berteștii de Jos nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 40/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41635",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-65-2021",
+   "path": "local/braila/bertestii-de-jos/2021/65",
+   "short": "HCL Berteștii de Jos nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 65/2021 privind aprobarea Organigramei si Statului de funcții al Primăriei comunei Berteștii de Jos, județul Brăila",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/27309",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/27309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-66-2021",
+   "path": "local/braila/bertestii-de-jos/2021/66",
+   "short": "HCL Berteștii de Jos nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 66/2021 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență al comunei Berteștii de Jos, județul Brăila",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41676",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-67-2021",
+   "path": "local/braila/bertestii-de-jos/2021/67",
+   "short": "HCL Berteștii de Jos nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 67/2021 privind modificarea inventarului bunurilor care aparțin domeniului privat al comunei Berteștii de Jos, județul Brăila",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41677",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-68-2021",
+   "path": "local/braila/bertestii-de-jos/2021/68",
+   "short": "HCL Berteștii de Jos nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 68/2021 privind aprobarea alocarii unor fonduri de la bugetul local al comunei Bertestii de Jos pentru reabilitarea fatadei bisericii din localitatea Spiru Haret",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/41678",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/41678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-70-2021",
+   "path": "local/braila/bertestii-de-jos/2021/70",
+   "short": "HCL Berteștii de Jos nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 70/2021 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31951",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-71-2021",
+   "path": "local/braila/bertestii-de-jos/2021/71",
+   "short": "HCL Berteștii de Jos nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 71/2021 privind completarea Programului de achiziții publice pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31952",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-72-2021",
+   "path": "local/braila/bertestii-de-jos/2021/72",
+   "short": "HCL Berteștii de Jos nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 72/2021 privind aprobarea Devizului general privind cheltuielile necesare realizarii obiectivului de investiții “CONSTRUIRE SEDIU MULTIFUNCTIONAL ÎN COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31953",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-73-2021",
+   "path": "local/braila/bertestii-de-jos/2021/73",
+   "short": "HCL Berteștii de Jos nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 73/2021 privind aprobarea asocierii Comunei Berteștii de Jos prin Consiliul Local Berteștii de Jos cu Județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de “CONSTRUIRE SEDIU MULTIFUNCȚIONAL ÎN COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31954",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-74-2021",
+   "path": "local/braila/bertestii-de-jos/2021/74",
+   "short": "HCL Berteștii de Jos nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 74/2021 privind aprobarea rapoartelor de evaluare a suprafețelor de teren aparținând domeniului privat al comunei Berteștii de Jos pentru acordarea dreptului de supeficie cu titlu oneros",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31955",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-75-2021",
+   "path": "local/braila/bertestii-de-jos/2021/75",
+   "short": "HCL Berteștii de Jos nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 75/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31956",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-76-2021",
+   "path": "local/braila/bertestii-de-jos/2021/76",
+   "short": "HCL Berteștii de Jos nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 76/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31957",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-77-2021",
+   "path": "local/braila/bertestii-de-jos/2021/77",
+   "short": "HCL Berteștii de Jos nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 77/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31958",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-78-2021",
+   "path": "local/braila/bertestii-de-jos/2021/78",
+   "short": "HCL Berteștii de Jos nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 78/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31959",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-79-2021",
+   "path": "local/braila/bertestii-de-jos/2021/79",
+   "short": "HCL Berteștii de Jos nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 79/2021 privindaprobarea constituirii unui drept de superficie cu titlu oneros, fără licitaţie publică asupra terenului în suprafaţă de 788 mp, situat în intravilanul satului Spiru Haret, strada Bujorului, nr. 3, Cvartalul 36, Parcela 1470, Carte Funciară nr. 76557,aparţinând domeniului privat al Unităţii Administrativ-Teritoriale Berteștii de Jos, judeţul Brăila, către Cotea Raducan",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31960",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-80-2021",
+   "path": "local/braila/bertestii-de-jos/2021/80",
+   "short": "HCL Berteștii de Jos nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 80/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31961",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-81-2021",
+   "path": "local/braila/bertestii-de-jos/2021/81",
+   "short": "HCL Berteștii de Jos nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 81/2021 privind aprobarea constituirii unui drept de superficie cu titlu oneros, fără licitaţie publică asupra terenului în suprafaţă de 1246 mp, situat în intravilanul satului Spiru Haret, strada Principala, nr. 4 bis, Cvartalul 39, Parcela 1464, Carte Funciară nr. 76559,aparţinând domeniului privat al Unităţii Administrativ-Teritoriale Berteștii de Jos, judeţul Brăila, către Munteanu Fanica",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31962",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-82-2021",
+   "path": "local/braila/bertestii-de-jos/2021/82",
+   "short": "HCL Berteștii de Jos nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 82/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31963",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-83-2021",
+   "path": "local/braila/bertestii-de-jos/2021/83",
+   "short": "HCL Berteștii de Jos nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 83/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31964",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-84-2021",
+   "path": "local/braila/bertestii-de-jos/2021/84",
+   "short": "HCL Berteștii de Jos nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 84/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31965",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-85-2021",
+   "path": "local/braila/bertestii-de-jos/2021/85",
+   "short": "HCL Berteștii de Jos nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 85/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/31966",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/31966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-87-2021",
+   "path": "local/braila/bertestii-de-jos/2021/87",
+   "short": "HCL Berteștii de Jos nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 87/2021 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34024",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-88-2021",
+   "path": "local/braila/bertestii-de-jos/2021/88",
+   "short": "HCL Berteștii de Jos nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 88/2021 privind aprobarea execuției bugetelor întocmite pe cele doua secțiuni : secțiunea de funcționare și secțiunea de dezvoltare pe trim. II, anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34025",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-89-2021",
+   "path": "local/braila/bertestii-de-jos/2021/89",
+   "short": "HCL Berteștii de Jos nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 89/2021 privind inițierea procedurii pentru constituirea dreptului de superficie cu titlu oneros, prin licitație publică, asupra terenului intravilan în suprafață de 1453 mp, Cvartal 2, Parcela 410/1, înscris în Cartea Funciară nr. 78876, situat în Berteștii de Sus, comuna Berteștii de Jos, județul Brăila, aparținând domeniului privat al comunei Berteștii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34026",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-90-2021",
+   "path": "local/braila/bertestii-de-jos/2021/90",
+   "short": "HCL Berteștii de Jos nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 90/2021 privind aprobarea Devizului general privind cheltuielile necesare realizarii obiectivului de investiții “MODERNIZARE STRĂZI SECUNDARE ÎN SATUL BERTEȘTII DE JOS, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34027",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-91-2021",
+   "path": "local/braila/bertestii-de-jos/2021/91",
+   "short": "HCL Berteștii de Jos nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 91/2021 privind aprobarea Devizului general privind cheltuielile necesare realizarii obiectivului de investiții “MODERNIZARE STRĂZI SECUNDARE ÎN SATUL SPIRU HARET, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34028",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-92-2021",
+   "path": "local/braila/bertestii-de-jos/2021/92",
+   "short": "HCL Berteștii de Jos nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 92/2021 privind aprobarea Devizului general privind cheltuielile necesare realizarii obiectivului de investiții “MODERNIZARE STRĂZI SECUNDARE ÎN SATUL BERTEȘTII DE SUS, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34029",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-93-2021",
+   "path": "local/braila/bertestii-de-jos/2021/93",
+   "short": "HCL Berteștii de Jos nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 93/2021 privind aprobarea Devizului general privind cheltuielile necesare realizarii obiectivului de investiții “MODERNIZARE STRĂZI SECUNDARE ÎN SATUL GURA CĂLMĂȚUI, COMUNA BERTEȘTII DE JOS, JUDEȚUL BRĂILA”",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34030",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-94-2021",
+   "path": "local/braila/bertestii-de-jos/2021/94",
+   "short": "HCL Berteștii de Jos nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 94/2021 privind aprobarea Regulamentului de organizare si functionare al Serviciului de transport public local de persoane, sub autoritatea Consiliului Local al comunei Bertestii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/34031",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/34031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-95-2021",
+   "path": "local/braila/bertestii-de-jos/2021/95",
+   "short": "HCL Berteștii de Jos nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 95/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37283",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-96-2021",
+   "path": "local/braila/bertestii-de-jos/2021/96",
+   "short": "HCL Berteștii de Jos nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 96/2021 privind însușirea Raportului de audit nr. 3882 din 29.07.2021 și a Deciziei nr. 18 din 26.08.2021 a Camerei de Conturi Brăila emisă ca urmare a acțiunii de audit financiar asupra conturilor de execuție bugetară încheiate pentru anul 2020, desfășurată în perioada 01.07. – 29.07.2021 la Unitatea Administrativ Teritorială Comuna Berteștii de Jos",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37284",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-97-2021",
+   "path": "local/braila/bertestii-de-jos/2021/97",
+   "short": "HCL Berteștii de Jos nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 97/2021 privind aprobarea rapoartelor de evaluare a suprafețelor de teren aparținând domeniului privat al comunei Berteștii de Jos pentru acordarea dreptului de supeficie cu titlu oneros",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37285",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--bertestii-de-jos-98-2021",
+   "path": "local/braila/bertestii-de-jos/2021/98",
+   "short": "HCL Berteștii de Jos nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 98/2021",
+   "url": "https://emol.ro/bertestiidejos-br/registru-hcl/37286",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertestiidejos-br/registru-hcl/37286",
      "sha256": null
     }
    ]

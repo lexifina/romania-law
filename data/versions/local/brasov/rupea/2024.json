@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-12-2024",
+   "path": "local/brasov/rupea/2024/12",
+   "short": "HCL Rupea nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 12/2024 privind aprobarea Regulamentului, cuantumurilor și criteriilor de acordare a ajutoarelor de urgență și a beneficiilor sociale, familiilor/persoanelor care se află în situații de necesitate",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2024/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/12-Hotararea-nr.12-ajutoare-de-urgenta.pdf",
+     "sha256": "6784b40f263f24299e233fc9130a2ab54bcdbf9220742c1ae42244b93c3efb2e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-14-2024",
    "path": "local/brasov/rupea/2024/14",
    "short": "HCL Rupea nr. 14/2024",

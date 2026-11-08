@@ -3,6 +3,116 @@
 "shard": "local/botosani/vaculesti/2023",
 "acts": [
 {
+"slug": "hcl-botosani--vaculesti-6-2023",
+"path": "local/botosani/vaculesti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 6/2023 privind aprobarea bugetului de venituri și cheltuieli al comunei Văculești, pe anul 2023 și estimările pentru anii 2024-2026",
+"short": "HCL Văculești nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/89118",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-17-2023",
+"path": "local/botosani/vaculesti/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 17/2023 privind aprobarea Regulament de organizare şi funcţionare a serviciului social de zi ,,Servicii sociale primare de informare și consiliere\" în cadrul Centrului Multifuncțional de Servicii Sociale din Comuna Văculeşti Judeţul Botoşani",
+"short": "HCL Văculești nr. 17/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/102579",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-18-2023",
+"path": "local/botosani/vaculesti/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 18/2023 privind însușirea rezultatului inventarierii patrimoniului comunei Văculești pentru anul 2022",
+"short": "HCL Văculești nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/102580",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-42-2023",
+"path": "local/botosani/vaculesti/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 42/2023 privind scutirea în cotă de 75% a majorărilor de întârziere aferente obligațiilor de plată principale restante din impozitele și taxele datorate bugetului local la data de 31.12.2022",
+"short": "HCL Văculești nr. 42/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/118895",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-55-2023",
+"path": "local/botosani/vaculesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 55/2023 privind luarea act de Raportul primarului nr.1675/27.03.2023 privind rezultatul inventarierii patrimoniului comunei Văculești pentru anul 2022",
+"short": "HCL Văculești nr. 55/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/125375",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-61-2023",
 "path": "local/botosani/vaculesti/2023/61",
 "kind": "local",

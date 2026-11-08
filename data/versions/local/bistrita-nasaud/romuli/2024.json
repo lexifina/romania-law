@@ -3,6 +3,261 @@
  "shard": "local/bistrita-nasaud/romuli/2024",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--romuli-1-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/1",
+   "short": "HCL Romuli nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 1/2024 privind organizarea reţelei școlare a unităţilor de învăţământ preuniversitar de stat de pe raza Comunei Romuli pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149374",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-10-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/10",
+   "short": "HCL Romuli nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 10/2024 privind aprobarea cuantumului cotizaţiei pentru anul 2024 a Comunei Romuli pentru asociațiile și grupurile de acțiune locală la care comuna Romuli este membru sau din care face parte",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149383",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-11-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/11",
+   "short": "HCL Romuli nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 11/2024 privind aprobarea Raportului semestrial aferent semestrului II anul 2023 al Compartimentului de asistență socială și autoritate tutelară al comunei Romuli referitor la activitatea asistenților personali pentru persoane cu handicap",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149384",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-12-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/12",
+   "short": "HCL Romuli nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 12/2024 privind acordul pentru participarea comunei ROMULI la implementarea proiectului „Digitalizarea bibilotecilor rurale din județul Bistrița-Năsăud pentru a deveni hub-uri de dezvoltare a competenţelor digitale”, Componenta 7 Transformarea digitală, Investiţia 17. Scheme de finanţare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competenţelor digitale, din cadrul Planului Naţional de Redresare şi Rezilienţă (PNRR), precum și aprobarea proiectului și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149385",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-13-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/13",
+   "short": "HCL Romuli nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 13/2024 privind alegerea de către Consiliul Local al comunei Romuli, a preşedintelui de şedinţă, pe o perioadă de trei luni, începând cu luna FEBRUARIE 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149429",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-14-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/14",
+   "short": "HCL Romuli nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 14/2024 privind modificarea si completarea Hotărârii Consiliului Local Romuli Nr. 38 din 30.05.2023 privind implementarea proiectului „Achizitionarea unui tocator de crengi si resturi vedetale” prin Asociatia Grupul de Actiune Locala Tara Nasaudului, respectiv Măsura M1/6B Măsură de dezvoltare a unor infrastructuri şi servicii publice specifice",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149430",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-15-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/15",
+   "short": "HCL Romuli nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 15/2024 privind aprobarea înscrierii definitive a imobilelor identificate în CF nr. 29752, 29817, 29833, 29881, 30254, 29776 Drum comunal Șetref situate în Comuna Romuli, Judeţul Bistriţa-Năsăud în domeniul public al comunei Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149431",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-16-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/16",
+   "short": "HCL Romuli nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 16/2024 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „CONSTRUIRE DRUM COMUNAL FRUMUSICA IN COMUNA ROMULI, JUDETUL BISTRITA NASAUD” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149432",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-17-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/17",
+   "short": "HCL Romuli nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 17/2024 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „CONSTRUIRE PODURI PESTE RAUL SALAUTA SI RAUL STRAMBA IN COMUNA ROMULI, JUDETUL BISTRITA NASAUD”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149433",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-18-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/18",
+   "short": "HCL Romuli nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 18/2024 privind modificarea și completarea pct. 1 al Anexei nr. 1 Hotărârii Consiliului Local Romuli nr. 19 din 28.02.2023 referitoare la aprobarea unor taxe referitoare la activitatea Ocolului Silvic Comunal Romuli R.A",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149434",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-19-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/19",
+   "short": "HCL Romuli nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 19/2024 privind rectificarea nr.1 a bugetului de venituri şi cheltuieli al Comunei Romuli pe anul 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/152983",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/152983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-2-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/2",
+   "short": "HCL Romuli nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 2/2024 privind aprobarea organigramei, a statului de funcţii şi a statului de personal pentru aparatul de specialitate al primarului comunei Romuli, serviciilor publice comunale sub autoritatea consiliului local şi a asistenţilor personali, începând cu data de 01.01.2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149375",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-22-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/22",
+   "short": "HCL Romuli nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 22/2024 privind aprobarea asocierii comunei Romuli județul Bistrița-Năsăud în vederea realizării unui parteneriat, care își propune să obțină sprijin pregătitor pentru înființare, în scopul contribuirii la dezvoltarea locală plasată sub responsabilitatea comunității, pentru zona pescărească Flag Someșul Mare BN",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/152986",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/152986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-29-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/29",
+   "short": "HCL Romuli nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 29/2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat, ai proiectului “Infiintare distribuție gaze naturale în comunele Salva, Cosbuc, Telciu, Runcu Salvei si Romuli, județul Bistrița-Năsăud. Sisteme inteligente de alimentare cu gaze naturale”",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/164825",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/164825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-3-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/3",
+   "short": "HCL Romuli nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 3/2024 privind aprobarea execuţiei bugetelor locale ale Consiliului Local Romuli la data de 31 Decembrie 2023",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149376",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-31-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/31",
+   "short": "HCL Romuli nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 31/2024 privind aprobarea protocolului de colaborare cu Administrația Bazinala de Apa Somes-Tisa prin Sistemul de Gospodărire a Apelor Bistrita-Nasaud pentru realizarea lucrărilor de reprofilare- decolmatare a cursului de apa Sălăuța și a afluenților săi pe raza comunei Romuli jud.Bistrița-Năsăud",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/164827",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/164827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-36-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/36",
+   "short": "HCL Romuli nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 36/2024 privind aprobarea organigramei, a statului de funcţii și a statului de personal pentru aparatul de specialitate al primarului comunei Romuli, serviciilor publice comunale sub autoritatea consiliului local şi a asistenţilor personali, începând cu data de 01.07.2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/171672",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/171672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--romuli-37-2024",
    "path": "local/bistrita-nasaud/romuli/2024/37",
    "short": "HCL Romuli nr. 37/2024",
@@ -43,6 +298,21 @@
      "from": "2024-10-14",
      "units": 1,
      "source_url": "https://emol.ro/romuli-bn/registru-hcl/171675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-4-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/4",
+   "short": "HCL Romuli nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 4/2024 privind aprobarea bugetului de venituri şi cheltuieli al Comunei Romuli pe anul 2024 şi estimat pe anii 2024-2025",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149377",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149377",
      "sha256": null
     }
    ]
@@ -198,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-bistrita-nasaud--romuli-5-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/5",
+   "short": "HCL Romuli nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 5/2024 privind aprobarea cotei de tăiere pe natura de produse şi împărţirea acesteia pe destinaţii şi destinatari pe anul 2024, din fondul forestier aparţinând comunei Romuli",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149378",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--romuli-50-2024",
    "path": "local/bistrita-nasaud/romuli/2024/50",
    "short": "HCL Romuli nr. 50/2024",
@@ -298,6 +583,66 @@
      "from": "2025-05-20",
      "units": 1,
      "source_url": "https://emol.ro/romuli-bn/registru-hcl/185344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-6-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/6",
+   "short": "HCL Romuli nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 6/2024 privind stabilirea grilelor de salarizare pentru plata muncitorilor care efectuează lucrări silvice în fondul forestier proprietatea comunei Romuli, pentru anul 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149379",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-7-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/7",
+   "short": "HCL Romuli nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 7/2024 privind aprobarea devizelor de lucrări pentru suprafeţele de terenuri cu vegetaţie forestieră proprietatea comunei Romuli pentru anul 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149380",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-8-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/8",
+   "short": "HCL Romuli nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 8/2024 privind aprobarea organigramei şi a statului de funcţii pentru Ocolul Silvic Comunal Romuli RA pentru anul 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149381",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--romuli-9-2024",
+   "path": "local/bistrita-nasaud/romuli/2024/9",
+   "short": "HCL Romuli nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Romuli nr. 9/2024 privind aprobarea bugetului de venituri şi cheltuieli al Ocolului Silvic Comunal Romuli R.A pentru anul 2024",
+   "url": "https://emol.ro/romuli-bn/registru-hcl/149382",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/romuli-bn/registru-hcl/149382",
      "sha256": null
     }
    ]

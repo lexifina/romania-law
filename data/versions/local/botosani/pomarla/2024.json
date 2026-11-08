@@ -3,6 +3,141 @@
  "shard": "local/botosani/pomarla/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--pomarla-12-2024",
+   "path": "local/botosani/pomarla/2024/12",
+   "short": "HCL Pomârla nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 12/2024 privind reactualizarea ”Planului de Analiză și Acoperire a Riscurilor,, pe teritoriul comunei Pomârla ,jud.Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151805",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-14-2024",
+   "path": "local/botosani/pomarla/2024/14",
+   "short": "HCL Pomârla nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 14/2024 privind înfiinţarea Serviciului de gestionare a câinilor fără stăpân al comunei Pomârla, judeţul Botoșani și achiziționarea delegării serviciului public de gestionare a câinilor fără stăpân de pe raza comunei Pomârla",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151807",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-15-2024",
+   "path": "local/botosani/pomarla/2024/15",
+   "short": "HCL Pomârla nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 15/2024 privind aprobare majorare sumă deviz pentru obiectivul de investiții „Înființare Sistem de alimentare cu apă, canalizare și stație de epurare în comuna Pomârla, județul Botoșani ”",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151808",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-16-2024",
+   "path": "local/botosani/pomarla/2024/16",
+   "short": "HCL Pomârla nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 16/2024 privind participarea la Program a obiectivului de investitii: „EXTINDERE REȚEA APĂ-CANALIZARE ÎN SATELE POMÂRLA ȘI HULUBEȘTI, COMUNA POMÂRLA, JUDEȚUL BOTOȘANI” și aprobarea documentației tehnico-econimice si a indicatorilor asociați acesteia",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/151817",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/151817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-18-2024",
+   "path": "local/botosani/pomarla/2024/18",
+   "short": "HCL Pomârla nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 18/2024 privind indexarea taxelor și impozitelor locale pentru anul 2025 cu rata inflației de 10.4%",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/153860",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/153860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-30-2024",
+   "path": "local/botosani/pomarla/2024/30",
+   "short": "HCL Pomârla nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 30/2024 privind aprobarea investiției “Instalații Electrice de Racordare+ Utilizare”- Alimentare cu Energie Electrică –Front Captare și Stație de pompare Apă Brută+SPAU –sat Pomârla, , comuna Pomârla, județul Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164890",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-33-2024",
+   "path": "local/botosani/pomarla/2024/33",
+   "short": "HCL Pomârla nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 33/2024 privind activităţile de tăiere, transport şi valorificare a lemnului rezultat din spaţiile verzi şi alte terenuri din afara fondului forestier naţional situate pe terenuri proprietate publică sau privată a comunei Pomârla, în intravilanul acesteia",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/164910",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/164910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-42-2024",
+   "path": "local/botosani/pomarla/2024/42",
+   "short": "HCL Pomârla nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 42/2024 privind modificarea H.C.LNr. 46 din 10 octombrie 2019 privind stabilirea de măsuri pentru organizarea, coordonarea și sprijinirea activității echipei mobile la intervențiile de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170335",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--pomarla-43-2024",
+   "path": "local/botosani/pomarla/2024/43",
+   "short": "HCL Pomârla nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pomârla nr. 43/2024 privind reactualizarea indicatorilor economici aferenți obiectivului de investiții “Instalații Electrice de Racordare+ Utilizare”- Alimentare cu Energie Electrică –Front Captare și Stație de pompare Apă Brută+SPAU –sat Pomârla, , comuna Pomârla, județul Botoșani",
+   "url": "https://emol.ro/pomarla-bt/registru-hcl/170336",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pomarla-bt/registru-hcl/170336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--pomarla-49-2024",
    "path": "local/botosani/pomarla/2024/49",
    "short": "HCL Pomârla nr. 49/2024",

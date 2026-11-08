@@ -3,6 +3,72 @@
 "shard": "local/botosani/paltinis/2022",
 "acts": [
 {
+"slug": "hcl-botosani--paltinis-2-2022",
+"path": "local/botosani/paltinis/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2022 aprobare Plan de actiuni si lucrari pentru beneficiari Legea 416/2001",
+"short": "HCL Păltiniș nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#9158",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-3-2022",
+"path": "local/botosani/paltinis/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2022 aprobare scutire membri coperatori si cooperative la impozit",
+"short": "HCL Păltiniș nr. 3/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#10219",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--paltinis-4-2022",
+"path": "local/botosani/paltinis/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 4/2022 aprobare indicatori tehnico economici pentru constructie extindere corp primarie",
+"short": "HCL Păltiniș nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#12996",
+"council": "botosani/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-botosani--paltinis-5-2022",
 "path": "local/botosani/paltinis/2022/5",
 "kind": "local",

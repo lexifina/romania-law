@@ -3,6 +3,28 @@
 "shard": "local/botosani/vaculesti/2026",
 "acts": [
 {
+"slug": "hcl-botosani--vaculesti-23-2026",
+"path": "local/botosani/vaculesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 23/2026 privind aprobarea bugetului de venituri și cheltuieli al comunei Văculești, pe anul 2026 și estimările pentru anii 2027-2029",
+"short": "HCL Văculești nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/267543",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-36-2026",
 "path": "local/botosani/vaculesti/2026/36",
 "kind": "local",

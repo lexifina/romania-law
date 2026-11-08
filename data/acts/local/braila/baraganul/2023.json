@@ -26,6 +26,74 @@
 }
 },
 {
+"slug": "hcl-braila--baraganul-33-2023",
+"path": "local/braila/baraganul/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 33/2023",
+"short": "HCL Bărăganul nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": null,
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--baraganul-34-2023",
+"path": "local/braila/baraganul/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 34/2023 privind aprobarea impozitelor Èi taxelor locale pe anul 2024, indexate conform art. 491, alin. 1) Èi 2) din Legea nr. 227/2015, privind Codul Fiscal, cu modificÄrile ulterioare",
+"short": "HCL Bărăganul nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "http://www.primariabaraganul.ro/monitor-oficial-local/hotararile-autoritatii-deliberative",
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-braila--baraganul-40-2023",
+"path": "local/braila/baraganul/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 40/2023",
+"short": "HCL Bărăganul nr. 40/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": null,
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--baraganul-68-2023",
 "path": "local/braila/baraganul/2023/68",
 "kind": "local",

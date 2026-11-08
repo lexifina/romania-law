@@ -3,6 +3,96 @@
  "shard": "local/botosani/albesti/2020",
  "acts": [
   {
+   "slug": "hcl-botosani--albesti-1-2020",
+   "path": "local/botosani/albesti/2020/1",
+   "short": "HCL Albești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 1/2020 privind aprobarea platii lunare de 8371 lei/luna pentru organizarea si functionarea Serviciului de ordine si paza al comunei Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2651",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-10-2020",
+   "path": "local/botosani/albesti/2020/10",
+   "short": "HCL Albești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 10/2020 privind necesitatea si oportunitatea investitiei ,,Construire Camin cultural in localitatea Tudor Vladimirescu,comuna Albesti.’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2660",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-11-2020",
+   "path": "local/botosani/albesti/2020/11",
+   "short": "HCL Albești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 11/2020 privind necesitatea si oportunitatea investitie ,,Construire si gard ornamental Centru civic Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2661",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-12-2020",
+   "path": "local/botosani/albesti/2020/12",
+   "short": "HCL Albești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare Camin cultural Mascateni, comuna Albesti,judetul Botosani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2662",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-13-2020",
+   "path": "local/botosani/albesti/2020/13",
+   "short": "HCL Albești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare Camin cultural Jijia, comuna Albesti, judetul Botosani",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2663",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-14-2020",
+   "path": "local/botosani/albesti/2020/14",
+   "short": "HCL Albești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 14/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare imobil Casa Agronomului sat Albesti",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2664",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2664",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-15-2020",
    "path": "local/botosani/albesti/2020/15",
    "short": "HCL Albești nr. 15/2020",
@@ -73,6 +163,21 @@
      "from": "2020-02-14",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/2669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-2-2020",
+   "path": "local/botosani/albesti/2020/2",
+   "short": "HCL Albești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 2/2020 privind modificarea Anexei nr.1 la Hotararea Cosiliului Local al comunei Albesti nr. 122/20.12.2019 privind stabilirea impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2652",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2652",
      "sha256": null
     }
    ]
@@ -228,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--albesti-3-2020",
+   "path": "local/botosani/albesti/2020/3",
+   "short": "HCL Albești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 3/2020 privind aprobarea listelor de inventar cu bunurile propuse pentru casare cu ocazia inventarierii la sfarsitul anului 2019",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2653",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2653",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--albesti-30-2020",
    "path": "local/botosani/albesti/2020/30",
    "short": "HCL Albești nr. 30/2020",
@@ -298,6 +418,96 @@
      "from": "2020-04-16",
      "units": 1,
      "source_url": "https://emol.ro/albesti-bt/registru-hcl/4981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-4-2020",
+   "path": "local/botosani/albesti/2020/4",
+   "short": "HCL Albești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 4/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare Magazie Buimaceni.’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2654",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-5-2020",
+   "path": "local/botosani/albesti/2020/5",
+   "short": "HCL Albești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 5/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare Piata agroalimentara din localitatea Albesti .’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2655",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-6-2020",
+   "path": "local/botosani/albesti/2020/6",
+   "short": "HCL Albești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 6/2020 privind necesitatea si oportunitatea investitiei ,,Reabilitare Punct sanitar sat Tudor Vladimirescu.’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2656",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-7-2020",
+   "path": "local/botosani/albesti/2020/7",
+   "short": "HCL Albești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 7/2020",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2657",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-8-2020",
+   "path": "local/botosani/albesti/2020/8",
+   "short": "HCL Albești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 8/2020 privind necesitatea si oportunitatea investitiei ,,Infiintare sistem de distributie gaze naturale in comuna Albesti.’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2658",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--albesti-9-2020",
+   "path": "local/botosani/albesti/2020/9",
+   "short": "HCL Albești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 9/2020 privind necesitatea si oportunitatea investitiei ,,Construire Sala de sport in localitatea Albesti, comuna Albesti.’’",
+   "url": "https://emol.ro/albesti-bt/registru-hcl/2659",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-bt/registru-hcl/2659",
      "sha256": null
     }
    ]

@@ -3,6 +3,28 @@
 "shard": "local/bihor/valea-lui-mihai/2024",
 "acts": [
 {
+"slug": "hcl-bihor--valea-lui-mihai-10-2024",
+"path": "local/bihor/valea-lui-mihai/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 10/2024 privind aprobarea Metodologiei de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente și alte situații deosebite, inclusiv în caz de deces în țară sau în stră",
+"short": "HCL Valea lui Mihai nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-26",
+"latest": "2024-02-26",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-bihor--valea-lui-mihai-98-2024",
 "path": "local/bihor/valea-lui-mihai/2024/98",
 "kind": "local",

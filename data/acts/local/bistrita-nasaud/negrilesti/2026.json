@@ -3,6 +3,50 @@
 "shard": "local/bistrita-nasaud/negrilesti/2026",
 "acts": [
 {
+"slug": "hcl-bistrita-nasaud--negrilesti-4-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 4/2026 pentru modificarea anexei la HCL nr. 40/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Negrilesti, pentru perioada 2021-2027",
+"short": "HCL Negrilești nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/261434",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bistrita-nasaud--negrilesti-9-2026",
+"path": "local/bistrita-nasaud/negrilesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 9/2026 privind aprobarea bugetului de venituri şi cheltuieli al comunei Negrilești pe anul 2026",
+"short": "HCL Negrilești nr. 9/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://emol.ro/negrilesti-bn/registru-hcl/265792",
+"council": "bistrita-nasaud/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bistrita-nasaud--negrilesti-10-2026",
 "path": "local/bistrita-nasaud/negrilesti/2026/10",
 "kind": "local",

@@ -3,6 +3,51 @@
  "shard": "local/bistrita-nasaud/negrilesti/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--negrilesti-11-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/11",
+   "short": "HCL Negrilești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 11/2025 privind aprobarea Planului de analiză şi acoperire a riscurilor în comuna Negrilești pe anul 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/204518",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/204518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-12-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/12",
+   "short": "HCL Negrilești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 12/2025 privind aprobarea contului de execuţiei al bugetului local de venituri şi cheltuieli a Comunei Negrilesti pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/204519",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/204519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-2-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/2",
+   "short": "HCL Negrilești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 2/2025 privind aprobarea modificării Statutului Asociației de Dezvoltare Intercomunitară pentru gestionarea integrată a deșeurilor municipale în județul Bistrița-Năsăud",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/194819",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/194819",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--negrilesti-21-2025",
    "path": "local/bistrita-nasaud/negrilesti/2025/21",
    "short": "HCL Negrilești nr. 21/2025",
@@ -133,6 +178,21 @@
      "from": "2025-11-13",
      "units": 1,
      "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/233050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bistrita-nasaud--negrilesti-3-2025",
+   "path": "local/bistrita-nasaud/negrilesti/2025/3",
+   "short": "HCL Negrilești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 3/2025",
+   "url": "https://emol.ro/negrilesti-bn/registru-hcl/194820",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-bn/registru-hcl/194820",
      "sha256": null
     }
    ]

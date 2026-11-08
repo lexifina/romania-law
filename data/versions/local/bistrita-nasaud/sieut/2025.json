@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/sieut/2025",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--sieut-18-2025",
+   "path": "local/bistrita-nasaud/sieut/2025/18",
+   "short": "HCL Șieuț nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șieuț nr. 18/2025 privind aprobarea documentației tehnice de dezmembrare a imobilului înscris în CF 30220 Șieuț, în suprafată de 896000 mp, situat în extravilanul localității Șieuț",
+   "url": "https://emol.ro/sieut-bn/registru-hcl/214872",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sieut-bn/registru-hcl/214872",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--sieut-41-2025",
    "path": "local/bistrita-nasaud/sieut/2025/41",
    "short": "HCL Șieuț nr. 41/2025",

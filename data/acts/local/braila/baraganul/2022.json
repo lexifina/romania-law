@@ -112,6 +112,29 @@
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-braila--baraganul-77-2022",
+"path": "local/braila/baraganul/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganul nr. 77/2022",
+"short": "HCL Bărăganul nr. 77/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": null,
+"council": "braila/baraganul",
+"council_name": "Consiliul Local al Comunei Bărăganul",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/milas/2020",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--milas-3-2020",
+   "path": "local/bistrita-nasaud/milas/2020/3",
+   "short": "HCL Milaș nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 3/2020 privind aprobarea Regulamentului privind protecția datelor cu caracter personal",
+   "url": "https://comunamilas.ro/registru_hcl2020.html",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.03_30.01.2020_aprobare_rpdcp.pdf",
+     "sha256": "b33f373a2ffd9a5ee10e8456a5d24a656b1604aa5326034c3a7c001f56268d82"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-465-2020",
    "path": "local/bistrita-nasaud/milas/2020/465",
    "short": "HCL Milaș nr. 465/2020",

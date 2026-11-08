@@ -3,6 +3,21 @@
  "shard": "local/bistrita-nasaud/milas/2023",
  "acts": [
   {
+   "slug": "hcl-bistrita-nasaud--milas-13-2023",
+   "path": "local/bistrita-nasaud/milas/2023/13",
+   "short": "HCL Milaș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Milaș nr. 13/2023 privind aprobarea Planului de măsuri pentru buna gospodărire a localităţilor, păstrarea curăţeniei, respectarea normelor de igienă, precum şi înfrumuseţarea satelor aparţinătoare comunei Milaş",
+   "url": "https://comunamilas.ro/registru_hcl2023.html",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://comunamilas.ro/documente/hcl/uat_milas_hcl.nr.13_28.02.2023_aprobare_plan_masuri.pdf",
+     "sha256": "8d6f4a9771d7640786fb9e5bbbf15f9d242a50204df199cf213c7165bb916598"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bistrita-nasaud--milas-146-2023",
    "path": "local/bistrita-nasaud/milas/2023/146",
    "short": "HCL Milaș nr. 146/2023",

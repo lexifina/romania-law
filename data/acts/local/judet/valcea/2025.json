@@ -3,6 +3,28 @@
 "shard": "local/judet/valcea/2025",
 "acts": [
 {
+"slug": "hcj-valcea-5-2025",
+"path": "local/judet/valcea/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 5/2025 privind modificarea Hotărârii Consiliului Județean Vâlcea nr. 354 din 20 decembrie 2024 privind aprobarea tarifului lunar pentru prestarea serviciului de pază de către Serviciul Public Județean de Pază Vâlcea începând cu anul 2025 Vizualizare",
+"short": "HCJ Vâlcea nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-valcea-8-2025",
 "path": "local/judet/valcea/2025/8",
 "kind": "local",
@@ -23,6 +45,28 @@
 "flags": {
 "annex_missing": true,
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcj-valcea-25-2025",
+"path": "local/judet/valcea/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 25/2025 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul propriu al Județului Vâlcea, pentru activitățile nonprofit de interes general organizate de unitățile de cult din Județul Vâlcea care aparțin cultelor religioase recunoscute din România Vizualizare",
+"short": "HCJ Vâlcea nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -513,6 +557,28 @@
 }
 },
 {
+"slug": "hcj-valcea-98-2025",
+"path": "local/judet/valcea/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 98/2025 privind aprobarea Regulamentului de acordare a unui sprijin financiar unic veteranilor de război domiciliați în Județul Vâlcea Vizualizare",
+"short": "HCJ Vâlcea nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-valcea-118-2025",
 "path": "local/judet/valcea/2025/118",
 "kind": "local",
@@ -890,6 +956,72 @@
 }
 },
 {
+"slug": "hcj-valcea-173-2025",
+"path": "local/judet/valcea/2025/173",
+"kind": "local",
+"year": "2025",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 173/2025 privind aprobarea tarifelor pentru vânzarea biletelor și abonamentelor la competițiile sportive oficiale desfășurate pe teren propriu, în Liga Națională/Cupe Europene, de echipa de baschet masculin a Clubului Sportiv Vâlcea-1924, pentru anul competițional 2025-2026 Vizualizare",
+"short": "HCJ Vâlcea nr. 173/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-08",
+"latest": "2025-09-08",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-valcea-185-2025",
+"path": "local/judet/valcea/2025/185",
+"kind": "local",
+"year": "2025",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 185/2025 privind aprobarea taxelor ce se vor încasa de Școala Populară de Arte și Meserii Râmnicu Vâlcea, în anul școlar 2025-2026 Vizualizare",
+"short": "HCJ Vâlcea nr. 185/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-valcea-205-2025",
+"path": "local/judet/valcea/2025/205",
+"kind": "local",
+"year": "2025",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 205/2025 privind aprobarea tarifului lunar pentru prestarea serviciului de pază de către Serviciul Public Județean de Pază Vâlcea începând cu luna noiembrie 2025 Vizualizare",
+"short": "HCJ Vâlcea nr. 205/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-valcea-210-2025",
 "path": "local/judet/valcea/2025/210",
 "kind": "local",
@@ -909,6 +1041,50 @@
 "council_name": "Consiliul Județean Vâlcea",
 "flags": {
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcj-valcea-246-2025",
+"path": "local/judet/valcea/2025/246",
+"kind": "local",
+"year": "2025",
+"number": "246",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 246/2025 privind aprobarea Regulamentului de acordare a stimulentelor financiare pentru elevii din unitățile de învățământ preuniversitar din județul Vâlcea, care au obținut rezultate deosebite – distincții, medalii și premii speciale, media 10 la examenul național de Bacalaureat sau la Evaluarea națională a elevilor de clasa a VIII-a, a elevilor cu rezultate școlare remarcabile din unitățile de învățământ",
+"short": "HCJ Vâlcea nr. 246/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-valcea-247-2025",
+"path": "local/judet/valcea/2025/247",
+"kind": "local",
+"year": "2025",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 247/2025 privind aprobarea Regulamentului privind emiterea în regim de urgență a autorizațiilor de construire și/sau desființare de către Preşedintele Consiliului Judeţean Vâlcea Descarcare",
+"short": "HCJ Vâlcea nr. 247/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2025-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

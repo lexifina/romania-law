@@ -3,6 +3,156 @@
  "shard": "local/botosani/varfu-campului/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--varfu-campului-54-2025",
+   "path": "local/botosani/varfu-campului/2025/54",
+   "short": "HCL Vârfu Câmpului nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 54/2025 privind aprobarea Raportului de activitate al asistenților personali în semestrul I , din anul 2025",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218559",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-55-2025",
+   "path": "local/botosani/varfu-campului/2025/55",
+   "short": "HCL Vârfu Câmpului nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 55/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Înființare sistem de distribuție gaze naturale în comuna Vârfu Câmpului și satele aparținătoare, jud. Botoșani.”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218560",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-56-2025",
+   "path": "local/botosani/varfu-campului/2025/56",
+   "short": "HCL Vârfu Câmpului nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 56/2025 privind aprobarea realizării proiectului de investiție „Construire sistem fotovoltaic prosumator pentru autoconsum în comuna Vârfu Câmpului, județul Botoșani”",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218561",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-57-2025",
+   "path": "local/botosani/varfu-campului/2025/57",
+   "short": "HCL Vârfu Câmpului nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 57/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218562",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-58-2025",
+   "path": "local/botosani/varfu-campului/2025/58",
+   "short": "HCL Vârfu Câmpului nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 58/2025 privind aprobarea amplasării stației de reglare-măsurare-predare aferente Sistemului de distribuție gaze naturale în comuna Vârfu Câmpului și satele aparținătoare, jud. Botoșani în PC 53193, Vârfu Câmpului",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218563",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-59-2025",
+   "path": "local/botosani/varfu-campului/2025/59",
+   "short": "HCL Vârfu Câmpului nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 59/2025 privind aprobarea actualizării elementelor de identificare a unor imobile aparținând domeniului public al comunei Vârfu Câmpului, județul Botoșani",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218564",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-60-2025",
+   "path": "local/botosani/varfu-campului/2025/60",
+   "short": "HCL Vârfu Câmpului nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 60/2025 privind aprobare actualizării elementelor de identificare a imobilului situat în parcela cadastrală nr. 313/1 aparținând domeniului public al comunei Vârfu Câmpului, județul Botoșani",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218565",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-61-2025",
+   "path": "local/botosani/varfu-campului/2025/61",
+   "short": "HCL Vârfu Câmpului nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 61/2025 privind inventarierea în domeniul public al comunei Vârfu Câmpului, a unui imobil situat în parcela cadastrală nr. 308, categoria de folosință drum, situat în extravilanul comunei Vârfu Câmpului, județul Botoșani",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/218566",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/218566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-62-2025",
+   "path": "local/botosani/varfu-campului/2025/62",
+   "short": "HCL Vârfu Câmpului nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 62/2025 privind aprobarea implementării și a depunerii spre finanțare la Ministerul Investitiilor si Programelor Europene prin Programul Incluziune și Demnitate Socială 2021 2027, Prioritate: P06 - Servicii de suport pentru persoane vârstnice, Obiectiv specific: ESO4.11 a proiectului „Furnizarea de servicii de îngrijire la domiciliu pentru persoanele vârstnice din Comuna Vârfu Câmpului, Jud. Botoșani”",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/222339",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/222339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--varfu-campului-68-2025",
+   "path": "local/botosani/varfu-campului/2025/68",
+   "short": "HCL Vârfu Câmpului nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfu Câmpului nr. 68/2025 privind aprobarea rectificării Bugetului local al comunei Vârfu Câmpului pentru anul 2025",
+   "url": "https://emol.ro/varfucampului-bt/registru-hcl/222345",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varfucampului-bt/registru-hcl/222345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--varfu-campului-72-2025",
    "path": "local/botosani/varfu-campului/2025/72",
    "short": "HCL Vârfu Câmpului nr. 72/2025",

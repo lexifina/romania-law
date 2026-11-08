@@ -3,6 +3,50 @@
 "shard": "local/bihor/uileacu-de-beius/2021",
 "acts": [
 {
+"slug": "hcl-bihor--uileacu-de-beius-3-2021",
+"path": "local/bihor/uileacu-de-beius/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 3/2021 privind aprobarea protocolului de colaborare pentru realizarea lucrărilor de decolmatare și recalibrare a albiei afluentului de dreapta al Crișului Negru care traversează localitatea Uileacu de Beiuș, județul Bihor",
+"short": "HCL Uileacu de Beiuș nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/39559",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--uileacu-de-beius-11-2021",
+"path": "local/bihor/uileacu-de-beius/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Uileacu de Beiuș nr. 11/2021 privind aprobarea Regulamentului serviciului de alimentare cu apă și de canalizare, precum și a Contractului de delegare a gestiunii serviciului de alimentare cu apă și de canalizare",
+"short": "HCL Uileacu de Beiuș nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/uileacudebeius-bh/registru-hcl/39588",
+"council": "bihor/uileacu-de-beius",
+"council_name": "Consiliul Local al Comunei Uileacu de Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--uileacu-de-beius-82-2021",
 "path": "local/bihor/uileacu-de-beius/2021/82",
 "kind": "local",

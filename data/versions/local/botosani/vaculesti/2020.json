@@ -3,6 +3,231 @@
  "shard": "local/botosani/vaculesti/2020",
  "acts": [
   {
+   "slug": "hcl-botosani--vaculesti-1-2020",
+   "path": "local/botosani/vaculesti/2020/1",
+   "short": "HCL Văculești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 1/2020 privind aprobarea contului de execuție la 31.12.2019",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/5342",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/5342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-10-2020",
+   "path": "local/botosani/vaculesti/2020/10",
+   "short": "HCL Văculești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 10/2020 privind aprobarea decont navetă cadre didactice, lunile decembrie 2019 și ianuarie 2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6054",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-11-2020",
+   "path": "local/botosani/vaculesti/2020/11",
+   "short": "HCL Văculești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 11/2020 privind aprobare mutare locației Grădiniței Văculești în apartament Bloc, pentru perioada lucrărilor de modernizare",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6055",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-12-2020",
+   "path": "local/botosani/vaculesti/2020/12",
+   "short": "HCL Văculești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 12/2020 privind aprobare decont navetă cadre didactice, luna februarie 2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6066",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-13-2020",
+   "path": "local/botosani/vaculesti/2020/13",
+   "short": "HCL Văculești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 13/2020 privind aprobare burse școlare Sem.II an școlar 2019-2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6067",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-14-2020",
+   "path": "local/botosani/vaculesti/2020/14",
+   "short": "HCL Văculești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 14/2020 privind modificare contract AQUA-Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6068",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-15-2020",
+   "path": "local/botosani/vaculesti/2020/15",
+   "short": "HCL Văculești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 15/2020 privind aprobare sponsorizare Parohia Adormirea Maicii Domnului-Prelipca",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6069",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-16-2020",
+   "path": "local/botosani/vaculesti/2020/16",
+   "short": "HCL Văculești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 16/2020 privind aprobare sponsorizare Parohia Nașterea Maicii Domnului-Saucenița",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6070",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-17-2020",
+   "path": "local/botosani/vaculesti/2020/17",
+   "short": "HCL Văculești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 17/2020 privind aprobare sponsorizare Parohia Sfinții Mihail și Gavril-Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6071",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-18-2020",
+   "path": "local/botosani/vaculesti/2020/18",
+   "short": "HCL Văculești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 18/2020 privind aprobare sponsorizare Biserica Adventistă de Ziua a Șaptea-Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6072",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-19-2020",
+   "path": "local/botosani/vaculesti/2020/19",
+   "short": "HCL Văculești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 19/2020 privind aprobare sponsorizare Mănăstirea Gorovei",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6073",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-2-2020",
+   "path": "local/botosani/vaculesti/2020/2",
+   "short": "HCL Văculești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 2/2020 privind inventarul UAT la 31.12.2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/5343",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/5343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-23-2020",
+   "path": "local/botosani/vaculesti/2020/23",
+   "short": "HCL Văculești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 23/2020 privind trecerea iazului Zărna în patrimoniul privat al UAT-Văculesti",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6087",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-24-2020",
+   "path": "local/botosani/vaculesti/2020/24",
+   "short": "HCL Văculești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 24/2020 privind angajarea unui avocat pentru a apăra interesele UAT-Văculești în instanță",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6088",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-25-2020",
+   "path": "local/botosani/vaculesti/2020/25",
+   "short": "HCL Văculești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 25/2020 privind aprobarea de achiziționare de camere video",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6089",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6089",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-26-2020",
    "path": "local/botosani/vaculesti/2020/26",
    "short": "HCL Văculești nr. 26/2020",
@@ -43,6 +268,36 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-3-2020",
+   "path": "local/botosani/vaculesti/2020/3",
+   "short": "HCL Văculești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 3/2020 privind stabilirea taxei speciale SIMD –anul 2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/5344",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/5344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-4-2020",
+   "path": "local/botosani/vaculesti/2020/4",
+   "short": "HCL Văculești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 4/2020 privind aprobarea acordului de cooperare între UAT-Văculești și ACOR-filiala Botoșani",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/5345",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/5345",
      "sha256": null
     }
    ]
@@ -103,6 +358,21 @@
      "from": "2020-11-20",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-5-2020",
+   "path": "local/botosani/vaculesti/2020/5",
+   "short": "HCL Văculești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 5/2020 privind stabilirea completarii Registrul Agricol perioada 2020-2024",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/5346",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/5346",
      "sha256": null
     }
    ]
@@ -258,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vaculesti-6-2020",
+   "path": "local/botosani/vaculesti/2020/6",
+   "short": "HCL Văculești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 6/2020 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6050",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6050",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-60-2020",
    "path": "local/botosani/vaculesti/2020/60",
    "short": "HCL Văculești nr. 60/2020",
@@ -298,6 +583,51 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/19330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-7-2020",
+   "path": "local/botosani/vaculesti/2020/7",
+   "short": "HCL Văculești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 7/2020 privind aprobarea cofinanțare pentru obiectivul Modernizare Grădiniță-sat Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6051",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-8-2020",
+   "path": "local/botosani/vaculesti/2020/8",
+   "short": "HCL Văculești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 8/2020 privind aprobarea rețea școlară pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6052",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-9-2020",
+   "path": "local/botosani/vaculesti/2020/9",
+   "short": "HCL Văculești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 9/2020 privind revocare HCL nr.78/23.12.2019",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6053",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6053",
      "sha256": null
     }
    ]

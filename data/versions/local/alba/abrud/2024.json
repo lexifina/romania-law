@@ -3,6 +3,1326 @@
  "shard": "local/alba/abrud/2024",
  "acts": [
   {
+   "slug": "hcl-alba--abrud-10-2024",
+   "path": "local/alba/abrud/2024/10",
+   "short": "HCL Abrud nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 10/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-10-DIN-22.02.2024-APROBARE-REGULAMENT-PARCURI-LOCURI-DE-JOACA-ODIHNA-TERENURI-DE-SPORT-site.pdf",
+     "sha256": "91c1bcd7e5d45f05a024f090fb660fd3c5f58ff1d18d50412c43d6d152f7bad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-11-2024",
+   "path": "local/alba/abrud/2024/11",
+   "short": "HCL Abrud nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 11/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-11-DIN-22.02.2024-APROBAREA-MODULUI-DE-VALORIFICARE-A-MATERIALULUI-LEMNOS-DIN-PADUREA-PROPRIETATEA-ORASULUI-ABRUD-site.pdf",
+     "sha256": "06f206df6059875ea097e46fdcbc8fbe5d46c5b76d1510b589a7977c531921b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-111-2024",
+   "path": "local/alba/abrud/2024/111",
+   "short": "HCL Abrud nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 111/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241128-HCL-ABRUD-NR.-111-DIN-28.11.2024-REVOCARE-HCL-ABRUD-NR.-69-DIN-2022-site.pdf",
+     "sha256": "5f66c53bc9ff93f8908781e73d2ee3ba8dbb576c0d41ebc8db72ee88ee89c0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-112-2024",
+   "path": "local/alba/abrud/2024/112",
+   "short": "HCL Abrud nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 112/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241128-HCL-ABRUD-NR.-112-DIN-28.11.2024-APROBARE-VANZARE-TEREN-45-MP-DOMENIUL-PRIVAT-AL-ORASULUI-ABRUD-site.pdf",
+     "sha256": "dd3409b69bf821ae5b7380dcaf215c7ad36c4610a841ad7ff1c62b868c3ae500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-113-2024",
+   "path": "local/alba/abrud/2024/113",
+   "short": "HCL Abrud nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 113/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241205-HCL-ABRUD-NR.-113-DIN-05.12.2024-APROBARE-CONTRACTARE-SERVICII-JURIDICE-site.pdf",
+     "sha256": "12209c182a76648a1e6a77d6018a55646d8ed0c3c0d57b0de66e30d936e72155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-114-2024",
+   "path": "local/alba/abrud/2024/114",
+   "short": "HCL Abrud nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 114/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241205-HCL-ABRUD-NR.114-DIN-05.12.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "66b68bec6c115a6e2732d63efbf24f36344c9633552635d0f7ab8ac2c88bbd16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-116-2024",
+   "path": "local/alba/abrud/2024/116",
+   "short": "HCL Abrud nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 116/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241213-HCL-ABRUD-NR.-116-DIN-13.12.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "36b0d31d7acc97543625be62ee949d6b62673a3b71d06b2826a2086e09193a73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-117-2024",
+   "path": "local/alba/abrud/2024/117",
+   "short": "HCL Abrud nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 117/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2025/06/20241219-HCL-ABRUD-NR.-117-DIN-19.12.2024-APROBARE-IMPOZITE-SI-TAXE-LOCALE-ORASUL-ABRUD-PE-ANUL-2025-site.pdf",
+     "sha256": "6991a3eb553fc9fc747a93becc935b7cd8484d354e1d8f64d0431539d6f4fd09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-118-2024",
+   "path": "local/alba/abrud/2024/118",
+   "short": "HCL Abrud nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 118/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-118-DIN-19.12.2024-COMPLETARE-ANEXA-LA-HCL-81-DIN-2024.pdf",
+     "sha256": "472e5ed1428d9fe6e309424bb1be57bcc5d9149544773ed68f578d43e8aeb1f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-119-2024",
+   "path": "local/alba/abrud/2024/119",
+   "short": "HCL Abrud nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 119/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ALBRUD-NR.-119-DIN-19.12.2024-APROBAREA-COTEI-DE-TAIERE-A-MASEI-LEMNOASE-DIN-PADUREA-PROPRIETATE-A-ORASULUI-ABRUD-PE-ANUL-2025.pdf",
+     "sha256": "07273a0d8f2b93b3119f107707c6aef7fb706c852e99e57f9ed2da822985405a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-12-2024",
+   "path": "local/alba/abrud/2024/12",
+   "short": "HCL Abrud nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 12/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-12-DIN-22.02.2024-TRECERE-TEREN-IN-DOM.-PUBLIC-AL-STATULUI-ADM.-APELE-ROMANE-site.pdf",
+     "sha256": "6b6ee8c8325b555fb9c715c4d046d885816159cf73839f1c26d37d56e4abeb54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-120-2024",
+   "path": "local/alba/abrud/2024/120",
+   "short": "HCL Abrud nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 120/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-120-DIN-19.12.2024-APROBAREA-METODOLOGIEI-DE-CALCUL-A-PRETULUI-DE-REFERINTA-A-MASEI-LEMNOASE-PE-PICIOR-ANUL-2025.pdf",
+     "sha256": "350859cff0d66b0faf9f91441ac36082e94270f5e85552fd52a560fe4f19f2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-121-2024",
+   "path": "local/alba/abrud/2024/121",
+   "short": "HCL Abrud nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 121/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-121-DIN-19.12.2024-APROBAREA-DATE-DE-DESFASURARE-TARGURI-SI-ZI-DE-PIATA-SAPTAMANALA.pdf",
+     "sha256": "e4d9250b6b3bd075f071c827c2dec292fb844f601b9b93bdddc5d1710be9a9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-122-2024",
+   "path": "local/alba/abrud/2024/122",
+   "short": "HCL Abrud nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 122/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-122-DIN-19.12.2024-APROBAREA-DESFIINTARII-SERVICIILOR-SOCIALE-SERVICIU-INGRIJIRE-LA-DOMICILIU-PERS.-VARSTNICE-CANTINA-SOCIALA-CENTRU-DE-ZI-PERS.-VARSTNICE.pdf",
+     "sha256": "e3be4e49cd32d4b29b9e6667c49a3d03f3a28b25219aaee5236d7a6ba1356520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-123-2024",
+   "path": "local/alba/abrud/2024/123",
+   "short": "HCL Abrud nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 123/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-123-DIN-19.12.2024-MODIFICAREA-STATULUIU-DE-FUNCTII-AL-APARATULUI-DE-SPECIALITATE-AL-PRIMARULUI.pdf",
+     "sha256": "26cd5f162ff7a996f4db7d7a57cc74039b316b991fb7b81bb5badb5a76e86e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-124-2024",
+   "path": "local/alba/abrud/2024/124",
+   "short": "HCL Abrud nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 124/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-124-DIN-19.12.2024-INCETAREA-INTERESULUI-PUBLIC-IMOBIL-PIATA-EROILOR-NR.-17.pdf",
+     "sha256": "276c9aeea41394aed4d8114ca2b5b96befcc9e6f173af875af346afc97c81fc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-126-2024",
+   "path": "local/alba/abrud/2024/126",
+   "short": "HCL Abrud nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 126/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-126-DIN-19.12.2024-APROBAREA-REGULAMENTULUI-DE-GOSPODARIRE-INTRETINERE-CURATENIE-SI-ESTETICA-IN-ORASUL-ABRUD.pdf",
+     "sha256": "2bdcd469fb015275f3574ed4a72655628de8ef7c679b1ea05848545c87a42a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-127-2024",
+   "path": "local/alba/abrud/2024/127",
+   "short": "HCL Abrud nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 127/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-127-DIN-19.12.2024-ACORDAREA-ACCEPTULUI-DE-PRELUNGIRE-A-CONSORTIULUI-PREUNIVERSITAR-ABRUD.pdf",
+     "sha256": "e8860d333a9303ba362474a7c3fe85995f7a47233e543508189922d14e1b1d61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-128-2024",
+   "path": "local/alba/abrud/2024/128",
+   "short": "HCL Abrud nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 128/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-128-DIN-19.12.2024-APROBAREA-RECTIFICARII-BUGETULUI-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024.pdf",
+     "sha256": "6772f67a4e043f23bb5eecda45ace8292eac85499c3b634d70f929ce6f891733"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-129-2024",
+   "path": "local/alba/abrud/2024/129",
+   "short": "HCL Abrud nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 129/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/12/20241219-HCL-ABRUD-NR.-129-DIN-19.12.2024-APROBAREA-CONTULUI-DE-EXECUTIE-AL-BUGETULUI-LOCAL-PE-TRIMESTRUL-IV-AL-ANULUI-2024.pdf",
+     "sha256": "1854a656a0c16cebc001d196721070e8046d2c5623282a72af7f532e40b063f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-13-2024",
+   "path": "local/alba/abrud/2024/13",
+   "short": "HCL Abrud nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 13/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-13-DIN-22.02.2024-MODIFICAREA-CONTRACTULUI-DE-ADMINISTRARE-A-FONDULUI-FORESTIER-INCHEIAT-CU-OCOLUL-SILVIC-ABRUD-RA-site.pdf",
+     "sha256": "1772ab1ae5c95d11beea3ad72fc5d3d2842b848e95f17d8787b348d138c7459b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-14-2024",
+   "path": "local/alba/abrud/2024/14",
+   "short": "HCL Abrud nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 14/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-14-DIN-22.02.2024-APROBAREA-PLANULUI-ANUAL-DE-ACTIUNE-PRIVIND-SERVICII-SOCIALE-FINANTATE-DIN-BUGETUL-LOCAL-2024-site.pdf",
+     "sha256": "63756a2bdf12c235c114d191264c9cf02b88956212af36afbef00bfb825312c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-15-2024",
+   "path": "local/alba/abrud/2024/15",
+   "short": "HCL Abrud nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 15/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-15-DIN-22.02.2024-INSUSIRE-DOCUMENTATIE-TEHNICA-CADASTRALA-DE-DEZLIPIRE-TEREN-SITUAT-PE-RAZA-UAT-ORAS-ABRUD-site.pdf",
+     "sha256": "b5eec8efe075453cc181471fcdecf88b8c1d2f184b3e27f3d430b20532141bcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-16-2024",
+   "path": "local/alba/abrud/2024/16",
+   "short": "HCL Abrud nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 16/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-16-DIN-22.02.2024-MODIF-SI-INLOC.-ANEXA-LA-HCL-ABRUD-NR.-4-DIN-2012-COMISIA-LOCALA-URBANISM-SI-AMENAJAREA-TERITORIULUI-site.48.pdf",
+     "sha256": "c27d5b68ca7a2c749fd3b16a6331f4a90a2c2d93c5eb43349bba535ef0409d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-17-2024",
+   "path": "local/alba/abrud/2024/17",
+   "short": "HCL Abrud nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 17/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-17-DIN-22.02.2024-APROBARE-VANZARE-TEREN-PRIN-LICITATIE-PUBLICA-196-MP-STR.-OBOR-DOMENIUL-PRIVAT-site.pdf",
+     "sha256": "e38c06c686624b2ec0f3ca769a499bbb2febe89a1db916a051a3179e5c8d8c12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-18-2024",
+   "path": "local/alba/abrud/2024/18",
+   "short": "HCL Abrud nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 18/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-18-DIN-22.02.2024-APROBARE-VANZARE-TEREN-PRIN-LICITATIE-PUBLICA-169-MP-STR.-OBOR-DOMENIUL-PRIVAT-site.pdf",
+     "sha256": "6cab9945fda3016a7480b183f771c5cc15b5c082640538b16f5bd68e31c0fe66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-19-2024",
+   "path": "local/alba/abrud/2024/19",
+   "short": "HCL Abrud nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 19/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-19-DIN-22.02.2024-APROBAREA-MODIFICARE-ART.-3-DIN-HCL-ABRUD-NR.-1-DIN-08.01.2024-site.pdf",
+     "sha256": "978113b83fe811ec1857dd662a2fd76171411b37da5f4015ad3388c0df9511e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-2-2024",
+   "path": "local/alba/abrud/2024/2",
+   "short": "HCL Abrud nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 2/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-2-DIN-25.01.2024-APROBARE-RETEA-SCOLARA-2024-2024-UAT-ORAS-ABRUD-site.pdf",
+     "sha256": "0f9fb6bee46e156109f284ae6be00230c49a0342dbf06847141ac20d7dc38608"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-20-2024",
+   "path": "local/alba/abrud/2024/20",
+   "short": "HCL Abrud nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 20/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "f9439d5537991e54bce08edacde37217c5c69679af990703935cc08a5a82b70b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-21-2024",
+   "path": "local/alba/abrud/2024/21",
+   "short": "HCL Abrud nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 21/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-21-DIN-07.03.2024-INSUSIREA-Raportului-informarii-si-consultarii-publicului-cu-privire-la-elaborarea-PUZin-vederea-construirii-%E2%80%9EMagaz.pdf",
+     "sha256": "1f27f0ba7c693b5d60237b5818a425034bd0c87e7b9242ee8f6d0e20eab1bfee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-22-2024",
+   "path": "local/alba/abrud/2024/22",
+   "short": "HCL Abrud nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 22/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-22-DIN-07.03.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "126fb6b9e0ef40ba02a4138c322304ba056c29f1489a5725cb4ec6c6b0d4bd77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-24-2024",
+   "path": "local/alba/abrud/2024/24",
+   "short": "HCL Abrud nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 24/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-24-DIN-28.03.2024-INDEXARE-IMPOZITE-SI-TAXE-LOCALE-PT-ANUL-2025-CU-RATA-INFLATIEI-104-site.pdf",
+     "sha256": "740559237844ca761695b9a3acf1bbe32f1b76eea109d806c0955b5090bc1f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-25-2024",
+   "path": "local/alba/abrud/2024/25",
+   "short": "HCL Abrud nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 25/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-25-DIN-28.03.2024-ATRIBUIRE-TEREN-APARTAMENT-DE-LA-BLOC-BOTARIU-site.pdf",
+     "sha256": "0cc0f16da0d4b5f14eb8d523b562467f46839d038dabe35378b05e9c1ab81b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-26-2024",
+   "path": "local/alba/abrud/2024/26",
+   "short": "HCL Abrud nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 26/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-26-DIN-28.03.2024-ACTUALIZARE-INFORMATII-TEHNICE-IMOBIL-STR.-DECEBAL-DOMENIUL-PRIVAT-ABRUD-site.pdf",
+     "sha256": "e9e2e76c6a5bb8a0455213132f135ed8b4f7f5cabd6129b83f195c12b07eaea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-27-2024",
+   "path": "local/alba/abrud/2024/27",
+   "short": "HCL Abrud nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 27/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-27-DIN-28.03.2024-ATRIBUIRE-TEREN-APARTAMENT-DE-LA-BLOC-GRUBER-site-2.pdf",
+     "sha256": "e4e5c05c9978013bc3011ba1cfc534fd451e5260920b6b57ffda8fd4b3e0e8fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-28-2024",
+   "path": "local/alba/abrud/2024/28",
+   "short": "HCL Abrud nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 28/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-28-DIN-28.03.2024-ATRIBUIRE-TEREN-APARTAMENT-DE-LA-BLOC-SARB-LIGIA-site.pdf",
+     "sha256": "d9b2e93c2aff4e59aae4564fc2bd692af71656a66cb7b9443b9ceee7f0df5bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-29-2024",
+   "path": "local/alba/abrud/2024/29",
+   "short": "HCL Abrud nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 29/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-29-DIN-28.03.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "da229dbfb0632568e23da6cc89fd5cab3bd2ae7f68fe4c307663616536b86468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-3-2024",
+   "path": "local/alba/abrud/2024/3",
+   "short": "HCL Abrud nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 3/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-3-DIN-25.01.2024-APROBAREA-MAJORARII-SALARIILOR-FUNCTIONARI-PUBLICI-SI-PERSONAL-CONTRACTUAL-APARAT-DE-SEPCIALITATE-SI-SERVICII-PUBLIC.pdf",
+     "sha256": "e3f2609872389bf70c088f4defaaf7e23ff766098a63049984dff4469571039b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-30-2024",
+   "path": "local/alba/abrud/2024/30",
+   "short": "HCL Abrud nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 30/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-30-DIN-28.03.2024-MODIFICARE-HCL-NR.-872019-COMPONENTA-COMISIE-VIOLENTA-DOMESTICA-site.pdf",
+     "sha256": "a05b1923a972976bd05037373301070435615423a1cd93252c0b84aba5578068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-31-2024",
+   "path": "local/alba/abrud/2024/31",
+   "short": "HCL Abrud nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 31/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-31-DIN-28.03.2024-REVOCARE-HCL-ABRUD-NR.-20-DIN-2024-STRUCTURA-ORGANIZATORICA-SPITALUL-ABRUD-site.pdf",
+     "sha256": "77fbb49575bc2530fa30a958d0a09aa6e7594ec8f0fff5254cf313e145b3a522"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-33-2024",
+   "path": "local/alba/abrud/2024/33",
+   "short": "HCL Abrud nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 33/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-33-DIN-28.03.2024-MODIFICARE-HCL-ABRUD-NR.-1-DIN-2024-EXECEDENT-BUGET-LOCAL-site.pdf",
+     "sha256": "074f92aed70e8f87d9793cd6155480b48d1bc5d07b67cfa294260115ebde1c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-34-2024",
+   "path": "local/alba/abrud/2024/34",
+   "short": "HCL Abrud nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 34/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR-34-DIN-25.04.2024-APROBARE-DOC.-TEHN-EC-FAZA-SF-SI-IND-%E2%80%9EINFIINTARE-STATII-VEHICULE-ELECTRICE-ORASUL-ABRUD-site.pdf",
+     "sha256": "6764e861f5789b40c915fb34f91b0c3f712395e62d89257bf1e5708a1ee8cee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-35-2024",
+   "path": "local/alba/abrud/2024/35",
+   "short": "HCL Abrud nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 35/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-35-DIN-25.04.2024-REVOCARE-DREPT-DE-ADMINISTRARE-SPITAL-CLADIRE-SI-TEREN-STR.-AVRAM-IANCU-NR.-1-A-ABRUD-site.pdf",
+     "sha256": "601c867c4f6e19d24b4ae04bf2bce7665e219c57b873a2597ecb0f6862d7a0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-36-2024",
+   "path": "local/alba/abrud/2024/36",
+   "short": "HCL Abrud nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 36/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "7837ba954610170f9344fdeb790d9565870c43d73c06b641ecad9d6c0ee744f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-37-2024",
+   "path": "local/alba/abrud/2024/37",
+   "short": "HCL Abrud nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 37/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-37-DIN-25.04.2024-APROBARE-SCHIMBARE-TITULAR-CONTRACT-DE-INCHIRIERE-LOCUINTA-site.pdf",
+     "sha256": "17a1186de0619e5da523a1df7132366ac726ab0b1929cfcc4a73a01dec6223ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-38-2024",
+   "path": "local/alba/abrud/2024/38",
+   "short": "HCL Abrud nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 38/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-38-DIN-25.04.2024-ACTUALIZARE-LISTA-CONSUMATORI-CASNICI-REDUCERE-50-ENERGIE-ELECTRICA-site.pdf",
+     "sha256": "c9e129f4515c6434347ec7397e7812dbe36dbe2e02469bb730366caedfdb8c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-39-2024",
+   "path": "local/alba/abrud/2024/39",
+   "short": "HCL Abrud nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 39/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-39-DIN-25.04.2024-APROBARE-PROGRAM-DE-ACTIUNI-COMUNITARE-LA-NIVELUL-UAT-ORAS-ABRUD-PENTRU-ANUL-2024-site.pdf",
+     "sha256": "9d6d6bed3285610350b74a4f449f32b641f3a1c3e014ca8427516eefa1e327bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-4-2024",
+   "path": "local/alba/abrud/2024/4",
+   "short": "HCL Abrud nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 4/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-4-DIN-25.01.2024-APROBAREA-REPARTIZARII-IN-VEDEREA-INCHIRIERII-A-IMOBILULUI-LOCUINTA-site.pdf",
+     "sha256": "8f625bbb0ac19b8d62c78877b793a49e3ef5e6cd7f62b9877ba2a4ecc7c2dad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-40-2024",
+   "path": "local/alba/abrud/2024/40",
+   "short": "HCL Abrud nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 40/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-40-DIN-25.04.2024-APROBAREA-RECTIFICARII-BUGETULUI-LOCAL-AL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "6c2b9e661dee8da2f7f1b3651cd3048375b8ba2b7f21a7cb2ea621c9d7fd2191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-41-2024",
+   "path": "local/alba/abrud/2024/41",
+   "short": "HCL Abrud nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 41/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-41-DIN-25.04.2024-COMPLETARE-SI-MODIFICARE-HCL-ABRUD-NR.-1-DIN-08.01.2024-site.pdf",
+     "sha256": "1148c7ed59197067e31125fc01fcef8dc3993dc8bfd7b04685d26706d1fac148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-44-2024",
+   "path": "local/alba/abrud/2024/44",
+   "short": "HCL Abrud nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 44/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-44-DIN-09.05.2024-ACORDARE-MANDAT-SPECIAL-PRIMAR-PT-A-VOTA-IN-ADUNAREA-GENERALA-A-A.D.I.-%E2%80%9EAPA-ALBA-site.pdf",
+     "sha256": "581f61787e95fa31de11d767fcbe4839f76ed277ad13910ec4f1ff0dffebf27f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-49-2024",
+   "path": "local/alba/abrud/2024/49",
+   "short": "HCL Abrud nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 49/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-49-DIN-30.05.2024-APROBAREA-MODIFICARII-STATULUI-DE-FUNCTII-DIN-APARATUL-DE-SPECIALITATE-AL-PRIMARULUI-site.pdf",
+     "sha256": "c14e3ff91b76fe8ac0037cb135f3494bbcd98cd1ecda13eaabb1d3efaed425df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-5-2024",
+   "path": "local/alba/abrud/2024/5",
+   "short": "HCL Abrud nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 5/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-5-DIN-25.01.2024-APROBAREA-ACTUALIZARII-LISTEI-CONSUMATORILOR-CARE-BENEFICIAZA-DE-REDUCEREA-CU-50-A-TARIFULUI-LA-ENERGIE-ELECTRICA-si.pdf",
+     "sha256": "38eadc330e45f0a1293a2e3356d0ccf39793befb3c8b4d25d83b4b855e4fadc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-50-2024",
+   "path": "local/alba/abrud/2024/50",
+   "short": "HCL Abrud nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 50/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-50-DIN-30.05.2024-APROBARE-INLOCUIRE-ANEXA-NR.-3-LA-HCL-ABRUD-NR.-7-DIN-2020-PERSONAL-site.pdf",
+     "sha256": "c09314f43c2665934b64ca0daacb54fd3d292a8bd6c02d5534d9ceac4f3e4f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-51-2024",
+   "path": "local/alba/abrud/2024/51",
+   "short": "HCL Abrud nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 51/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-51-DIN-30.05.2024-APROBARE-PLAN-URBANISTIC-ZONAL-IN-VEDEREA-CONSTRUIRII-MAGAZIN-PENNY-MARKET-site.pdf",
+     "sha256": "6e17988d13c870c36a5617853c5ab501183a94d150a6bd5208cde275e5ac1a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-52-2024",
+   "path": "local/alba/abrud/2024/52",
+   "short": "HCL Abrud nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 52/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-52-DIN-20.06.2024-ATRIBUIRE-TEREN-APARTAMENT-DE-LA-BLOC-BILC-site.pdf",
+     "sha256": "c15082b2b5e3cdf1a53caf66482e5743608991d70eb463f2a57f101e49233880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-53-2024",
+   "path": "local/alba/abrud/2024/53",
+   "short": "HCL Abrud nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 53/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "6e9f052eaf8eda7ec61fafa60c68b20b1a665721aca6228398cbb8c9fbeb6c78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-54-2024",
+   "path": "local/alba/abrud/2024/54",
+   "short": "HCL Abrud nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 54/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-54-DIN-20.06.2024-DEZLIPIRE-IMOBIL-CF-75912-site.pdf",
+     "sha256": "d8ada7355c9b0b72ed5397ca14a9366029aebe5058d9531b7f077d93fadb3f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-55-2024",
+   "path": "local/alba/abrud/2024/55",
+   "short": "HCL Abrud nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 55/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-NR.-55-DIN-20.06.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-PE-ANUL-2024-site.pdf",
+     "sha256": "d8ebb796a9fae4b85bf9af4fa405eb29899593b2a68e93a0a037c7e263f7fc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-56-2024",
+   "path": "local/alba/abrud/2024/56",
+   "short": "HCL Abrud nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 56/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-56-DIN-20.06.2024-PARTICIPARE-ORAS-ABRUD-LA-PROGRAMUL-REDUCEREA-EMISIILOR-DE-GAZE-DE-SERA-IN-TRANSPORTURI-site.pdf",
+     "sha256": "01f9755be869736aa51cef71affb441e27ab44af2e2a8b2e95063378c7c1d754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-59-2024",
+   "path": "local/alba/abrud/2024/59",
+   "short": "HCL Abrud nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 59/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-59-DIN-17.07.2024-modificarea-art.3-si-art.4-din-Hotararea-Consiliului-Local-al-Orasului-Abrud-nr.45-din-2024-privind-aprob-implement.pdf",
+     "sha256": "b9f4d964966c8559166604156863f87276ddd9628568c1a5d83b9c3ce63667e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-6-2024",
+   "path": "local/alba/abrud/2024/6",
+   "short": "HCL Abrud nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 6/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-6-DIN-25.01.2024-APROBAREA-INCHEIERII-UNUI-NOU-CONTRACT-DE-INCHIRIERE-LOCUINTA-site.pdf",
+     "sha256": "45d38b9c5799aee345922ef52583b4b7841e3356b7a4692175a30d33ec12bc4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-60-2024",
+   "path": "local/alba/abrud/2024/60",
+   "short": "HCL Abrud nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 60/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-60-DIN-25.07.2024-INSUSIRE-DOC.-CADASTRALA-DEZLIPIRE-TEREN-site.pdf",
+     "sha256": "591d08894e4da3732edf418f154f7397d82c452cc83939d640f070c426733db8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-61-2024",
+   "path": "local/alba/abrud/2024/61",
+   "short": "HCL Abrud nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 61/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-61-DIN-25.07.2024-APROBARE-VALORIFICARE-MATERIAL-LEMNOS-DIN-PADUREA-PRPROIETATEA-ORASULUI-site.pdf",
+     "sha256": "9841441eff2ffaa8cbd7125d0b126503ee7422a1a8827356cf61d07f02e9b059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-62-2024",
+   "path": "local/alba/abrud/2024/62",
+   "short": "HCL Abrud nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 62/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-62-DIN-25.07.2024-APROBAREA-CONTULUI-DE-EXECUTIE-AL-BUGETULUI-LOCAL-TRIM-II-2024-site.pdf",
+     "sha256": "ae8259b203c2ea19cf075d85ce21533512b26dbb6e67760ed7932eb4ff2d9e60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-63-2024",
+   "path": "local/alba/abrud/2024/63",
+   "short": "HCL Abrud nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 63/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-63-DIN-25.07.2024-APROBAREA-CONTRACTARII-UNUI-IMPRUMUT-DE-1-MIL-LEI-DIN-TREZORERIA-STATULUI-site.pdf",
+     "sha256": "3bcb7985d8fba9edcd919568ea3d1eb954ab112d75711ce8bbd998a5b62a1f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-64-2024",
+   "path": "local/alba/abrud/2024/64",
+   "short": "HCL Abrud nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 64/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-64-DIN-25.07.2024-APROBAREA-INCHEIRII-UNUI-NOU-CONTRACT-DE-INCHIRIERE-LOCUINTA-FONDUL-LOCATIV-site.pdf",
+     "sha256": "55ec8737a979d56a4a8709cd3aadb14ac40b88107752a6aadadf36a5b2573267"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-65-2024",
+   "path": "local/alba/abrud/2024/65",
+   "short": "HCL Abrud nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 65/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-65-DIN-25.07.2024-APROBAREA-TRANSFERULUI-OPERATIUNILOR-STATII-ELECTRICE-CATRE-OPERATOR-site.pdf",
+     "sha256": "7aec77d46450bda950b9619a5529273c35d3f552d1fa2b7eca978b62b2228b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-66-2024",
+   "path": "local/alba/abrud/2024/66",
+   "short": "HCL Abrud nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 66/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-66-DIN-25.07.2024-APROBARE-LISTA-CONSUMATORI-REDUCERE-50-ENERIGIE-ELECTRICA-site.pdf",
+     "sha256": "f6ef004be2a398eb58fcee73a7730cf88e823be5b6f34f0463b694e3b1340aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-67-2024",
+   "path": "local/alba/abrud/2024/67",
+   "short": "HCL Abrud nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 67/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-67-DIN-25.07.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-PE-ANUL-2024-site.pdf",
+     "sha256": "4e579c7abfe997443d90d223962f7757775ea29589de35f269fa997e38f406a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-68-2024",
+   "path": "local/alba/abrud/2024/68",
+   "short": "HCL Abrud nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 68/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-68-DIN-25.07.2024-APROBARE-ORGANZIARE-FESTIVAL-INIMI-FIERBINTI-IN-TARA-DE-PIATRA-ED.-40-site.pdf",
+     "sha256": "a42ae56ff67e401ace58043d9df39ba6c4959a973a3bdcb9a4ec8b34e26cdb95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-7-2024",
+   "path": "local/alba/abrud/2024/7",
+   "short": "HCL Abrud nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 7/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-7-DIN-25.01.2024-INSUSIREA-LUCRARII-%E2%80%9EANALIZA-PATRIMONIULUI-TURISTIC-ORASUL-ABRUD-JUDETUL-ALBA-site.pdf",
+     "sha256": "10f5c14a625dac7f0d6c649ae889a8d4cc302b73de2bb95a00462ce051f4481b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-71-2024",
+   "path": "local/alba/abrud/2024/71",
+   "short": "HCL Abrud nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 71/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-71-DIN-07.08.2024-APROBARE-MODIFICARE-ART.-2-DIN-HCL-NR.-1-DIN-2024-site.pdf",
+     "sha256": "e80c748714129d60b4134eff74b7dc845e3ce1cfe09f9f078ef169270defdee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-72-2024",
+   "path": "local/alba/abrud/2024/72",
+   "short": "HCL Abrud nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 72/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-72-DIN-07.08.2024-aprobarea-documentatiei-tehnico-economice-pentru-executie-lucrari-aferente-obiectivului-%E2%80%9EMODERNIZARE-SI-REABILITARE.pdf",
+     "sha256": "973ed9d95ad5ae305e0a21ec42be293105bc016137a675fd45ea37b037b5f034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-73-2024",
+   "path": "local/alba/abrud/2024/73",
+   "short": "HCL Abrud nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 73/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-73-DIN-29.08.2024-DEZLIPIRE-IMOBIL-CF-75850-SITE.pdf",
+     "sha256": "e41104f8e8c11b8ecdf84bc67dc2a7d7c9a0b77fcdd07ddd93481b743eff8b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-74-2024",
+   "path": "local/alba/abrud/2024/74",
+   "short": "HCL Abrud nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 74/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-74-DIN-29.08.2024-APROBAREA-MODIFICARII-STATULUI-DE-FUNCTII-AL-APARATUL-DE-SPECIALITATE-AL-PRIMARULUI-SITE.pdf",
+     "sha256": "ef974e18989fd98fd5287dfa1e117c91652845942256e9c3d7eb0c36c0e361d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-75-2024",
+   "path": "local/alba/abrud/2024/75",
+   "short": "HCL Abrud nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 75/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-75-DIN-29.08.2024-APROBARE-VANZARE-TEREN-PRIN-LICITATIE-PUBLICA-2.327-MP-STR.-DECEBAL-DOMENIUL-PRIVAT-SITE.pdf",
+     "sha256": "a2e89b5b950329a3d2ca27f565c25f38aa08e073ef5f8fc82eadd2ed3f907bc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-76-2024",
+   "path": "local/alba/abrud/2024/76",
+   "short": "HCL Abrud nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 76/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "8ecc8f20f816b1b9cda32c137a0d3c4e630f36a5d96631ffdb0d0f28890afcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-77-2024",
+   "path": "local/alba/abrud/2024/77",
+   "short": "HCL Abrud nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 77/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-77-DIN-29.08.2024-MODIFICAREA-ART.-2-DIN-HCL-NR.-1-DIN-08.01.2024-SITE.pdf",
+     "sha256": "62a59248cec71a14423571a1d66c31f48a96f0bce8d98c1aa972f1e6bb8dfbd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-78-2024",
+   "path": "local/alba/abrud/2024/78",
+   "short": "HCL Abrud nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 78/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-78-DIN-29.08.2024-APROBAREA-TRECERII-DIN-DOMENIUL-PUBLIC-IN-DOMENIUL-PRIVAT-A-UNOR-BUNURI-MIJLOACE-FIXE-IMOBILE-IN-SCOPUL-SCOATERII-D.pdf",
+     "sha256": "1a8d108e5911a1e2390d7d0c19add74e9641117b598b601f88c352b94ebf5422"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-79-2024",
+   "path": "local/alba/abrud/2024/79",
+   "short": "HCL Abrud nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 79/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-79-DIN-29.08.2024-APROBARE-RECTIFICARE-BUGET-LOCAL-PE-ANUL-2024-SITE.pdf",
+     "sha256": "8dd0b87e3148b04527cd1a0634b514940314452383f9754c1c80a297811e3062"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-8-2024",
+   "path": "local/alba/abrud/2024/8",
+   "short": "HCL Abrud nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 8/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "6238e3bc73cdd6edd524879c2d01fdcd75919bc67297b745e1e747db553ba18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-80-2024",
+   "path": "local/alba/abrud/2024/80",
+   "short": "HCL Abrud nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 80/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-80-DIN-26.09.2024-APROBAREA-INCLUDERII-IN-INV-BUNURILOR-DOMENIUL-PUBLIC-SI-DELEGAREA-CATRE-APA-ALBA-A-ACESTORA-site.pdf",
+     "sha256": "b83b7895c6fc463562321a878faacb6c99b5239fb43807fac1a54826b7f5065b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-81-2024",
+   "path": "local/alba/abrud/2024/81",
+   "short": "HCL Abrud nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 81/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-81-DIN-26.09.2024-ACORDARE-PREMIU-FAMIILII-50-DE-ANI-DE-CASATORIE-site.pdf",
+     "sha256": "8a2e9e80011fa3e90ce9039a1f6dbfb6a131c409ebac99e090bfdf050284fb8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-82-2024",
+   "path": "local/alba/abrud/2024/82",
+   "short": "HCL Abrud nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 82/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-82-DIN-26.09.2024-APROBAREA-INCHEIERII-UNUI-NOU-CONTRACT-DE-INCHIRIERE-LOCUINTA-site.pdf",
+     "sha256": "03f363e0bef3c1fef07f70a5ef60ff0cc440d5247c3bd383c1d8b025b97cc3a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-83-2024",
+   "path": "local/alba/abrud/2024/83",
+   "short": "HCL Abrud nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 83/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-83-DIN-26.09.2024-ANULAREA-OBLIGATIILOR-ACCESORII-LA-DATA-DE-31.08.2024-DATORATE-BUGETULUI-LOCAL-site.pdf",
+     "sha256": "891ddc5f86fc29d9fab6bdab769d92cd71d1e09135c1b4239fe4087e555ff0d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-84-2024",
+   "path": "local/alba/abrud/2024/84",
+   "short": "HCL Abrud nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 84/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-84-DIN-26.09.2024-MODIFICARE-ORGANIGRAMA-SI-STAT-DE-FUNCTII-APARATUL-DE-SPECIALITATE-A-PRIMARULUI-SI-INT-SUBORDONATE-CL-ABRUD-site.pdf",
+     "sha256": "5f800079ed398ffe7e505cb3c06c3f8283d40d296fe9c781a692b7b868c9563b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-86-2024",
+   "path": "local/alba/abrud/2024/86",
+   "short": "HCL Abrud nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 86/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+     "sha256": "14046bd8ffc0db34d5d8a742d89bb5b7599a2e6579348c5146621c0056fc0576"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--abrud-87-2024",
    "path": "local/alba/abrud/2024/87",
    "short": "HCL Abrud nr. 87/2024",
@@ -14,6 +1334,21 @@
      "units": 1,
      "source_url": "https://primariaabrud.ro/wp-content/uploads/2026/08/HCL-ABRUD-NR.-87-DIN-30.07.2024-CONTRACT-DELEG-CONCESIUNE-ZONE-32-33-SMID-ALBA-site.pdf",
      "sha256": "9d8308298715614f71ac44a08394e5d3f13dc8276328e2ee2a17216cd34e46d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--abrud-9-2024",
+   "path": "local/alba/abrud/2024/9",
+   "short": "HCL Abrud nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Abrud nr. 9/2024",
+   "url": "https://primariaabrud.ro/ova_doc/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://primariaabrud.ro/wp-content/uploads/2024/11/HCL-ABRUD-NR.-9-DIN-12.02.2024-APROBAREA-BUGETULUI-LOCAL-LA-NIVELUL-ORASULUI-ABRUD-PE-ANUL-2024-site.pdf",
+     "sha256": "ec26fb5aa18389370a5e4c6a7cbcc31be0159ee1bb34057852b253fb4e4586f3"
     }
    ]
   }

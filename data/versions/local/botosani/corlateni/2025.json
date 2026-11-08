@@ -3,6 +3,291 @@
  "shard": "local/botosani/corlateni/2025",
  "acts": [
   {
+   "slug": "hcl-botosani--corlateni-1-2025",
+   "path": "local/botosani/corlateni/2025/1",
+   "short": "HCL Corlăteni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 1/2025 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din familia ocupațională ,,Administrație“ din cadrul primăriei comunei Corlăteni, județul Botoșani, începând cu data de 01.01.2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251962",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-10-2025",
+   "path": "local/botosani/corlateni/2025/10",
+   "short": "HCL Corlăteni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 10/2025 privind aprobarea bugetului local al Comunei Corlăteni pe anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251971",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-11-2025",
+   "path": "local/botosani/corlateni/2025/11",
+   "short": "HCL Corlăteni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 11/2025 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Corlăteni pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251972",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-12-2025",
+   "path": "local/botosani/corlateni/2025/12",
+   "short": "HCL Corlăteni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 12/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251973",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-13-2025",
+   "path": "local/botosani/corlateni/2025/13",
+   "short": "HCL Corlăteni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 13/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251974",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-14-2025",
+   "path": "local/botosani/corlateni/2025/14",
+   "short": "HCL Corlăteni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 14/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2024",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251998",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-15-2025",
+   "path": "local/botosani/corlateni/2025/15",
+   "short": "HCL Corlăteni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 15/2025 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului Comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251999",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-17-2025",
+   "path": "local/botosani/corlateni/2025/17",
+   "short": "HCL Corlăteni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 17/2025 privind aprobarea cooperării interinstituționale din cadrul proiectului ,, Furnizarea de servicii integrate în comunitățile rurale –facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente si de calitate,,",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252001",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-18-2025",
+   "path": "local/botosani/corlateni/2025/18",
+   "short": "HCL Corlăteni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 18/2025 privind indexarea taxelor și impozitelor locale pentru anul 2026 cu rata inflației de 5,6 %",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252002",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-19-2025",
+   "path": "local/botosani/corlateni/2025/19",
+   "short": "HCL Corlăteni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 19/2025 privind aprobarea încheierii unui Acord de colaborare între AJVPS Botoșani, gestionarul Fondului Cinegetic și U.A.T.Comuna Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252003",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-2-2025",
+   "path": "local/botosani/corlateni/2025/2",
+   "short": "HCL Corlăteni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 2/2025 privind aprobarea ,,Planului de acţiuni si lucrări de interes local ” pentru anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251963",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-21-2025",
+   "path": "local/botosani/corlateni/2025/21",
+   "short": "HCL Corlăteni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 21/2025 privind rectificarea bugetului local al comunei Corlăteni pentru anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252013",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-23-2025",
+   "path": "local/botosani/corlateni/2025/23",
+   "short": "HCL Corlăteni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 23/2025 privind darea în administrare către Parohia Ortodoxă CARASA, pe o durată de 49 de ani, a terenului cu destinația cimitir, aparținând domeniului public al Comunei Corlăteni, identificat cu nr. cad.51718 Corlăteni, înscris in CF nr.51718 Corlăteni, în suprafață de 2688 mp. situat în P.C.436, intravilan sat Carasa, comuna Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252015",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-24-2025",
+   "path": "local/botosani/corlateni/2025/24",
+   "short": "HCL Corlăteni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 24/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252016",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-26-2025",
+   "path": "local/botosani/corlateni/2025/26",
+   "short": "HCL Corlăteni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 26/2025 privind aprobarea modificării Regulamentului de acordare a voucherelor de vacanță funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252018",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-27-2025",
+   "path": "local/botosani/corlateni/2025/27",
+   "short": "HCL Corlăteni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 27/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252019",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-28-2025",
+   "path": "local/botosani/corlateni/2025/28",
+   "short": "HCL Corlăteni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 28/2025 privind rectificarea bugetului local al comunei Corlăteni pentru anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252023",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-29-2025",
+   "path": "local/botosani/corlateni/2025/29",
+   "short": "HCL Corlăteni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 29/2025 privind reorganizarea, organigrama, regulamentul de organizare și funcționare și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență al comunei Corlăteni",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252024",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-30-2025",
+   "path": "local/botosani/corlateni/2025/30",
+   "short": "HCL Corlăteni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 30/2025 privind stabilirea salariului de bază pentru funcția publică de CONSILIER, clasa I, grad profesional debutant în compartimentul Asistență Socială din cadrul apartului de specialitate al primarului comunei Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/252025",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252025",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-31-2025",
    "path": "local/botosani/corlateni/2025/31",
    "short": "HCL Corlăteni nr. 31/2025",
@@ -288,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--corlateni-5-2025",
+   "path": "local/botosani/corlateni/2025/5",
+   "short": "HCL Corlăteni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 5/2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251966",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--corlateni-50-2025",
    "path": "local/botosani/corlateni/2025/50",
    "short": "HCL Corlăteni nr. 50/2025",
@@ -298,6 +598,66 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/corlateni-bt/registru-hcl/252051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-6-2025",
+   "path": "local/botosani/corlateni/2025/6",
+   "short": "HCL Corlăteni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 6/2025 privind aprobarea amplasării și instalării Display-ului interactiv Meeting Board achiziționat în cadrul proiectului „Inovare și promovare în teritoriul GAL Codrii de Aramă“, în sediul primăriei comunei Corlăteni, județul Botoșani",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251967",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-7-2025",
+   "path": "local/botosani/corlateni/2025/7",
+   "short": "HCL Corlăteni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 7/2025 privind aprobarea actualizării Planului de analiză şi acoperire a riscurilor pe teritoriul comunei Corlăteni, pentru anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251968",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-8-2025",
+   "path": "local/botosani/corlateni/2025/8",
+   "short": "HCL Corlăteni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 8/2025 privind aprobarea Planului de asistență medicală comunitară pentru anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251969",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--corlateni-9-2025",
+   "path": "local/botosani/corlateni/2025/9",
+   "short": "HCL Corlăteni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlăteni nr. 9/2025 privind aprobarea utilizarii excedentului bugetar din anul 2024 în anul 2025",
+   "url": "https://emol.ro/corlateni-bt/registru-hcl/251970",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corlateni-bt/registru-hcl/251970",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/braila/chiscani/2021",
  "acts": [
   {
+   "slug": "hcl-braila--chiscani-1-2021",
+   "path": "local/braila/chiscani/2021/1",
+   "short": "HCL Chiscani nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 1/2021 privind alegerea presedintelui de sedință pentru lunile februarie,martie și aprilie 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17375",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-10-2021",
+   "path": "local/braila/chiscani/2021/10",
+   "short": "HCL Chiscani nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 10/2021 privind aprobarea planului local de actiuni sau lucrari de interes local pentru repartizarea orelor de munca ce se vor efectua de catre persoanele apte de munca beneficiari de ajutor social in anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17384",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17384",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-100-2021",
    "path": "local/braila/chiscani/2021/100",
    "short": "HCL Chiscani nr. 100/2021",
@@ -123,6 +153,951 @@
    ]
   },
   {
+   "slug": "hcl-braila--chiscani-11-2021",
+   "path": "local/braila/chiscani/2021/11",
+   "short": "HCL Chiscani nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 11/2021 privind aprobarea planului local de actiune privind serviciile sociale administrate si/sau finantate di bugetul local la nivelul comunei Chiscani, judetul Braila pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17385",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-12-2021",
+   "path": "local/braila/chiscani/2021/12",
+   "short": "HCL Chiscani nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 12/2021 privind aprobare plan local de actiune privind incluziunea sociala a cetatenilor ramani apartinand minoritatii rome la nivelul comunei Chiscani,judetul Braila pentru anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17386",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-13-2021",
+   "path": "local/braila/chiscani/2021/13",
+   "short": "HCL Chiscani nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 13/2021 privind aprobarea situatiilor deosebite in vederea acordarii unor ajutoare de urgenta precum si prestatiilor financiare exceptionale pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17387",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-14-2021",
+   "path": "local/braila/chiscani/2021/14",
+   "short": "HCL Chiscani nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 14/2021 privind constitutirea consiliului comunitar consultativ al comunei Chiscani si aprobarea Regulamentului de Organizare si Functionare al Consiliululi Comunitar Consultativ al comunei Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17388",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-16-2021",
+   "path": "local/braila/chiscani/2021/16",
+   "short": "HCL Chiscani nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 16/2021 privind completarea anexei nr.1 la Hotararea Consiliului Local nr.101din 2020la Hotararea Consiliului Local nr.23 din 2020 privind modificarea si completarea anexei nr.1 la Hotararea Consiliului Local nr.102 din 2019 privind insusirea proprietati private a comunei Chiscani, jud. Braila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35027",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-19-2021",
+   "path": "local/braila/chiscani/2021/19",
+   "short": "HCL Chiscani nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 19/2021 privind punerea la dispozitia SDEE Muntenia Nord cu titlul gratuit pe o perioada de existenta a instalatiilor,teren in suprafata de 0,5 mp domeniul public al com. Chiscani in vederea realizarii lucrarii de racordare la reteaua electrica a locului de consum permanent anexa exploatatie agricola amplasat in jud. Braila, com. Chiscani, sat Lacu Sarat, str. Alunului, nr. 56",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35030",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-2-2021",
+   "path": "local/braila/chiscani/2021/2",
+   "short": "HCL Chiscani nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 2/2021 Privind : suplimentarea valorii contractului de lucrări la investiția ” Scoala cu clasele I-IV Lacu Sarat, com Chiscani cu schimbare de destinatie in gradinita Lacu Sarat”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17376",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-20-2021",
+   "path": "local/braila/chiscani/2021/20",
+   "short": "HCL Chiscani nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 20/2021 privind punerea la dispozitia SDEE Muntenia Nord cu titlul gratuit pe toata perioada de existenta a instalatiilor, teren in suprafata de 6,5 mp domeniul al com. Chiscani in vederea realizarii lucrari Racordare la reteaua electrica a locului de consum permanent magazie, amplasat in jud.Braila,com. Chiscani, sat Lacu Sarat, str. Principala,nr.116",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35031",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-21-2021",
+   "path": "local/braila/chiscani/2021/21",
+   "short": "HCL Chiscani nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 21/2021 privind punerea la dispozitia SDEE Muntenia Nord cu titlul gratuit pe toata perioada de existenta a instalatiilor, teren in suprafata de 1 mp domeniul public al com. Chiscani in vederea realizarii lucrarii Racordare la reteaua electrica a locului de consum permanent statie de carburanti amplasata in jud. Braila,com. Chiscani, sat Chiscani, str. Principala, nr. 317,lot 4",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35032",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-22-2021",
+   "path": "local/braila/chiscani/2021/22",
+   "short": "HCL Chiscani nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 22/2021 privindmodificarea Hot. nr.22 din 14.02.2020 a Consiliului Local al com. Chiscani privind aprobarea Studiului de Fezabilitate pentru Proiectul Regionalde Dezvoltare a Infrastructurii de Apa si Apa Uzata din jud. Braila pe perioada 2014-2020 a indicatorilor tehnico-economiei al Proiectului pentru UAT Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35033",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-23-2021",
+   "path": "local/braila/chiscani/2021/23",
+   "short": "HCL Chiscani nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 23/2021 privind modificarea Hot. nr.23 din 14.02.2020 a Consilului Local al com. Chiscani privind aprobarea listei de investitii prioritare pe sistemele de alimetare cu apa si a listei de investitii prioritare pe sistemele de apa uzata care se vor realiza pein Proiectul Regional de Dezvoltare ainfrastructurii de Apa si Apa Uzata din jud. Braila in perioada 2014-2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35034",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-24-2021",
+   "path": "local/braila/chiscani/2021/24",
+   "short": "HCL Chiscani nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 24/2021 privind modificarea Hot. nr.25 din 14.02.2020 a Consiliului Local al com. Chiscani privind aprobarea planului anual de evolutie a preturilor/tarifelor serviciilor, comform rezultatelor Analizei cost- Beneficiu din Studiu de Fezabilitate pentru Proiectul Regional de Dezvoltarea a infrastructurii de Apa si Apa Uzata din jud. Braila in perioada 2014-2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35035",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-25-2021",
+   "path": "local/braila/chiscani/2021/25",
+   "short": "HCL Chiscani nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 25/2021 privind modificarea Hot. nr.26 din 14.02.2020 a Consiliului Local al com. Chiscani privind aprobarea contributiei la cofinantare datorata de UAT Chiscaniin calitate de beneficiar direct al investitiilor in Proiectul Regional de Dezvoltare a infrastructuri de Apa si Apa Uzata din jud. Braila in perioada 2014-2020 comform Studiului de Fezabilitate cu anexele aferente",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35036",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-26-2021",
+   "path": "local/braila/chiscani/2021/26",
+   "short": "HCL Chiscani nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 26/2021 privind aprobarea actului aditional nr.24 privind modificarea si completare unor prevederi ale Dispozitiilor Generale,Dispozitiilor Seciale-partea comuna, Dispozitiilor Seciale partea de apa si Dispozitiilor Speciale-partea canalizare alșe contractului de Delegare a Gestiuni Serviciilor Publice de Alimentare cu apa si de canalizare nr.670 din 10.09.2009 cu modificarile si completarile ulterioare in baza Strategiei de tarifare a serviciilor pentru perioada 2021-2025",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35037",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-27-2021",
+   "path": "local/braila/chiscani/2021/27",
+   "short": "HCL Chiscani nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 27/2021 privind aprobarea rezultatului inventarierii patrimoniului com. Chiscani,jud. Braila la 31.12.2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35038",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-28-2021",
+   "path": "local/braila/chiscani/2021/28",
+   "short": "HCL Chiscani nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 28/2021 privind aprobarea contului anual de incheiere a exercitiului bugetar si a situatiilor financiare pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35039",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-29-2021",
+   "path": "local/braila/chiscani/2021/29",
+   "short": "HCL Chiscani nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 29/2021 privindsuplimentarea valorii contractului de lucrari la investitia ,, Reabilitare si extindere sediu primariei si amenajare parcare ,comuna Chiscani, judetul Braila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35040",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-3-2021",
+   "path": "local/braila/chiscani/2021/3",
+   "short": "HCL Chiscani nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 3/2021 Privind modificarea incepand cu 01.02.2021 a tarifelor serviciilor de salubrizare practicate in baza contractului de delegare de gestiune nr.5904/28.05.2019 de catre SC RER ECOLOGIC SRL",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17377",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-30-2021",
+   "path": "local/braila/chiscani/2021/30",
+   "short": "HCL Chiscani nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 30/2021 privind actualizarea valorii contractului de lucrari la investitia Scoala cu clasele i-iv Lacu Sarat, com. Chiscani cu schimbare de destinatie in gradinita Lacu Sarat ca urmare a terminarii lucrarilor",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35041",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-31-2021",
+   "path": "local/braila/chiscani/2021/31",
+   "short": "HCL Chiscani nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 31/2021 privind actualizarea Planului de analiza a riscurilor pentru comuna Chiscani, judetul Braila pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35042",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-32-2021",
+   "path": "local/braila/chiscani/2021/32",
+   "short": "HCL Chiscani nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 32/2021 privind aprobarea numarului si cuanumului unor categorii de burse ce vor fi acordate elevilor din invatamantul oreuniversitar de sat din cadrul Scolii Gimnaziale Chiscani in semestrul ii al anului scolar 2020-2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35043",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-33-2021",
+   "path": "local/braila/chiscani/2021/33",
+   "short": "HCL Chiscani nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 33/2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35044",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-34-2021",
+   "path": "local/braila/chiscani/2021/34",
+   "short": "HCL Chiscani nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 34/2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35045",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-36-2021",
+   "path": "local/braila/chiscani/2021/36",
+   "short": "HCL Chiscani nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 36/2021 privind alegerea presedintelui de sedinta pentru lunile mai, iunie, iulie 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35047",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-37-2021",
+   "path": "local/braila/chiscani/2021/37",
+   "short": "HCL Chiscani nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 37/2021 privind aprobarea bugetului local de venituri si cheluieli al com. Chiscani, jud. Braila pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35048",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-38-2021",
+   "path": "local/braila/chiscani/2021/38",
+   "short": "HCL Chiscani nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 38/2021 privind aprobarea bugetului local de venituri si cheltuieli finantate integral din venituri proprii pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35049",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-39-2021",
+   "path": "local/braila/chiscani/2021/39",
+   "short": "HCL Chiscani nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 39/2021 privind aprobarea sustinerii financiare a ACS SPORTUL cHISCANI",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35050",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-4-2021",
+   "path": "local/braila/chiscani/2021/4",
+   "short": "HCL Chiscani nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 4/2021 privind modificarea anexei nr.1 la HCL nr.52/29.05.2020 referitoare la stabilirea impozitelor locale aplicabile in anul fiscal 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17378",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-40-2021",
+   "path": "local/braila/chiscani/2021/40",
+   "short": "HCL Chiscani nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 40/2021 privind aprobarea contului de executie al bugetului local pe trim.I al anului 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35051",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-41-2021",
+   "path": "local/braila/chiscani/2021/41",
+   "short": "HCL Chiscani nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 41/2021 privind aprobare Proiect tehnic detalii de executie si indicatori tehnico-economici pentru obiectivul de investitii Asfaltare si amenajare parcare str. Cuv. Parascheva sat Chiscani, jud. Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35052",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-42-2021",
+   "path": "local/braila/chiscani/2021/42",
+   "short": "HCL Chiscani nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 42/2021 privind modificarea si complatarea Anexei nr.1la HCL nr.16/2021 privind modificarea si completarea Anexei nr.1 la HCL nr.32/2020, privind modificarea si complatarea Anexei nr.1 la HCL NR.102/2019 privind insusirea proprietatii private COM. cHISCANI, jud. Braila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35053",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-43-2021",
+   "path": "local/braila/chiscani/2021/43",
+   "short": "HCL Chiscani nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 43/2021 privind modificarea statutului de functii si a organigramei aparatului de specialitate al primarului comunei Chiscani, jud. Braila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35054",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-49-2021",
+   "path": "local/braila/chiscani/2021/49",
+   "short": "HCL Chiscani nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 49/2021 privind actualizarea valorii obiectivului de investiții ”Școala cu clasele I-IV Lacu Sărat, com. Chiscani cu schimbare de destinație în grădinița Lacu Sărat”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35060",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-5-2021",
+   "path": "local/braila/chiscani/2021/5",
+   "short": "HCL Chiscani nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 5/2021 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat de la nivelul comunei Chiscani,judetul Braila pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17379",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-50-2021",
+   "path": "local/braila/chiscani/2021/50",
+   "short": "HCL Chiscani nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 50/2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35061",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-51-2021",
+   "path": "local/braila/chiscani/2021/51",
+   "short": "HCL Chiscani nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 51/2021 privind înființarea și organizarea Serviciului de iluminat public al comunei Chiscani, județul Brăila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35062",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-55-2021",
+   "path": "local/braila/chiscani/2021/55",
+   "short": "HCL Chiscani nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 55/2021 privind actualizarea valorii contractului de lucrări la investiția ”Extindere rețea canalizare comuna Chiscani, Județul Brăila-etapa II”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35066",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-56-2021",
+   "path": "local/braila/chiscani/2021/56",
+   "short": "HCL Chiscani nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 56/2021 privind actualizarea valorii obiectivului de investiții ”Școala cu clasele I-IV Lacu Sărat, com. Chiscani cu schimbare de destinație în grădinița Lacu Sărat”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35067",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-57-2021",
+   "path": "local/braila/chiscani/2021/57",
+   "short": "HCL Chiscani nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 57/2021 privind trecerea din domeniul privat în domeniul public al Comunei Chiscani județul Brăila, a bunului înscris la poziția nr. 127, din Anexa nr. 1 la HLC nr. 42/2021 privind modificarea și completarea anexei nr. 1 la HCL nr. 16/2021, privind modificarea și completarea anexei nr. 1 la HCL nr. 102/2019 privind însușirea proprietății private a comunei Chiscani, județul Brăila” teren extravilan categoria de folosință drum”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35068",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-58-2021",
+   "path": "local/braila/chiscani/2021/58",
+   "short": "HCL Chiscani nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 58/2021 privind aprobarea încheierii unui acord de parteneriat între Comuna Chiscani și Municipiul Brăila, în vederea elaborării și implementării proiectului ”Modernizarea conexiunii tramvai Brăila - Chiscani” în cadrul proiectului ”Sprijin la nivelul Regiunii Sud-Est pentru pregătirea de proiecte finanțate din perioada de programare 2021-2027 pe domeniile: mobilitate urbană, regenerare urbană”, cod SMIS 143538",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35069",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-6-2021",
+   "path": "local/braila/chiscani/2021/6",
+   "short": "HCL Chiscani nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 6/2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17380",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-60-2021",
+   "path": "local/braila/chiscani/2021/60",
+   "short": "HCL Chiscani nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 60/2021 privind aprobarea susținerii financiare a ACS SPORTUL Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35071",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-61-2021",
+   "path": "local/braila/chiscani/2021/61",
+   "short": "HCL Chiscani nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 61/2021 privind rectificarea bugetului local de venituri și cheltuieli a comunei Chiscani, pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35072",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-62-2021",
+   "path": "local/braila/chiscani/2021/62",
+   "short": "HCL Chiscani nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 62/2021 privind aprobarea contului de execuție al bugetului local pe trimestrul II al anului 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35073",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-63-2021",
+   "path": "local/braila/chiscani/2021/63",
+   "short": "HCL Chiscani nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 63/2021 privind completarea și modificarea poziției nr. 16 din anexa nr. 1 - inventarul bunurilor care alcătuiesc domeniul public al comunei Chiscani, însușit prin HCL nr. 122/2018",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35074",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-64-2021",
+   "path": "local/braila/chiscani/2021/64",
+   "short": "HCL Chiscani nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 64/2021 privind aprobarea asocierii Comunei Chiscani prin Consiliul Local Chiscani cu județul Braila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de investiții ”Asfaltare și amenajare parcare strada Cuvioasa Parascheva sat Chiscani, comuna Chiscani Județul Brăila”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35075",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-65-2021",
+   "path": "local/braila/chiscani/2021/65",
+   "short": "HCL Chiscani nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 65/2021 privind aprobarea participării Comunei Chiscani la Programul de stimulare a înnoirii parcului auto național 2020-2024, denumit generic RABLA CLASIC, în vederea achiziționării unui autoturism prin acest program de către Comuna Chiscani, județul Brăila”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35076",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-66-2021",
+   "path": "local/braila/chiscani/2021/66",
+   "short": "HCL Chiscani nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 66/2021 privind darea în administrare Școlii Gimnaziale Chiscani a imobilului proprietate publică situat pe str. Școlii, nr. 3, sat Lacu Sărat, comuna Chiscani, județul Brăila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/35077",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/35077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-68-2021",
+   "path": "local/braila/chiscani/2021/68",
+   "short": "HCL Chiscani nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 68/2021 privind rectificarea bugetului local de venituri și cheltuieli a comunei Chișcani, pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44435",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-69-2021",
+   "path": "local/braila/chiscani/2021/69",
+   "short": "HCL Chiscani nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 69/2021 privind aprobarea numărului și cuantumului unor categorii de burse ce vor fi acordate elevilor din învățământul preuniversitar de stat din cadrul Școlii Gimnaziale Chișcani, în semestrul I al anului școlar 2021-2022, conform situației școlare de la sfârșitul anului școlar 2020-2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44436",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-7-2021",
+   "path": "local/braila/chiscani/2021/7",
+   "short": "HCL Chiscani nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 7/2021 privind aprobarea contului de executie al bugetului local la 31 decembrie 2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17381",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-71-2021",
+   "path": "local/braila/chiscani/2021/71",
+   "short": "HCL Chiscani nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 71/2021 privind aprobarea completării invenarului bunurilor care alcătuiesc domeniul privat al comunei Chișcani, județul Brăila, însușit prin HCL nr. 102/2019",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44438",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-72-2021",
+   "path": "local/braila/chiscani/2021/72",
+   "short": "HCL Chiscani nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 72/2021 privind aprobarea documentației de dezmembrare a imobilului - teren în suprafață măsurată de 799 m.p., cu număr cadastral 76195, înscris în Cartea funciară nr. 76195 a UAT Chișcani, județul Brăila",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44439",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-73-2021",
+   "path": "local/braila/chiscani/2021/73",
+   "short": "HCL Chiscani nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 73/2021 privind modificarea poziției nr. 2, coloana 3 ”Străzi comunale sat Chișcani” din Anexa nr. 1 - inventarul bunurilor care alcătuiesc domeniul public al comunei Chișcani, însușit prin HCL nr. 122/2018",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44440",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-74-2021",
+   "path": "local/braila/chiscani/2021/74",
+   "short": "HCL Chiscani nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 74/2021 privind actualizarea valorii contractului de lucrări la investiția ”Modernizare drumuri locale în comuna Chișcani județul Brăila”",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44441",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-75-2021",
+   "path": "local/braila/chiscani/2021/75",
+   "short": "HCL Chiscani nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 75/2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44442",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-8-2021",
+   "path": "local/braila/chiscani/2021/8",
+   "short": "HCL Chiscani nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 8/2021 privind aprobarea utilizarii excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar pe anul 2020",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17382",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-82-2021",
+   "path": "local/braila/chiscani/2021/82",
+   "short": "HCL Chiscani nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 82/2021 privind rectificarea bugetului local de venituri și cheltuieli a comunei Chișcani, pe anul 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44468",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-83-2021",
+   "path": "local/braila/chiscani/2021/83",
+   "short": "HCL Chiscani nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 83/2021 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul fiscal 2022",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44469",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-84-2021",
+   "path": "local/braila/chiscani/2021/84",
+   "short": "HCL Chiscani nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 84/2021 privind aprobarea actualizării Devizului general pentru obiectivul de investiții ”Extindere rețea de apă și canalizare pentru punerea în valoare a stațiunii turistice Lacul Sărat, comuna Chișcani, județul Brăila”, conform deviz general aferent studiului de fezabilitate",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44470",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-85-2021",
+   "path": "local/braila/chiscani/2021/85",
+   "short": "HCL Chiscani nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 85/2021 privind aprobarea actualizării Devizului general pentru obiectivul de investiții ”Modernizare și extindere străzi, parcări, alei pietonale și piste biciclete pentru punerea în valoare a stațiunii turistice Lacu Sărat, comuna Chișcani, județul Brăila”, conform deviz general aferent D.A.L.I",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44471",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-86-2021",
+   "path": "local/braila/chiscani/2021/86",
+   "short": "HCL Chiscani nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 86/2021 privind alocarea in bugetul propriu al Comunei Chișcani pe anul 2021 a sumei de 15.000 lei pentru cheltuieli privind acordarea de pachete cu dulciuri pentru colindători și copiii din comună, cu prilejul sărbătorilor de iarnă 2021",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44472",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-87-2021",
+   "path": "local/braila/chiscani/2021/87",
+   "short": "HCL Chiscani nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 87/2021 privind acceptarea de către Consiliul Local al comunei Chișcani, județul Brăila, a ofertei de donațiie a unui teren intravilan, categoria de folosință arabil, în suprafață de 528 m.p., lotul nr. 1/1, T-75, P-40, nr. carte funciară 77059, situat în localitatea Vărsătura",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/44473",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/44473",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--chiscani-88-2021",
    "path": "local/braila/chiscani/2021/88",
    "short": "HCL Chiscani nr. 88/2021",
@@ -148,6 +1123,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/chiscani-br/registru-hcl/44475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--chiscani-9-2021",
+   "path": "local/braila/chiscani/2021/9",
+   "short": "HCL Chiscani nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 9/2021 privind mentinerea la nivelul lunii decembrie 2020 a cuantumului brut al salariilor de baza aferente functiilor publice si contractuale din cadrul familiei ocupationale administratiei utilizate in cadrul aparatului de specialitate al Primarului comunei Chiscani",
+   "url": "https://emol.ro/chiscani-br/registru-hcl/17383",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiscani-br/registru-hcl/17383",
      "sha256": null
     }
    ]

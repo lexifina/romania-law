@@ -3,6 +3,66 @@
  "shard": "local/judet/valcea/2024",
  "acts": [
   {
+   "slug": "hcj-valcea-13-2024",
+   "path": "local/judet/valcea/2024/13",
+   "short": "HCJ Vâlcea nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 13/2024 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Turism, Agrement și Servicii Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/01-26/hotarari/hot13.pdf",
+     "sha256": "0faacf34542b557c2a31d1644314e43f7997b843538556c7b3b376d0c13b3b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-202-2024",
+   "path": "local/judet/valcea/2024/202",
+   "short": "HCJ Vâlcea nr. 202/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 202/2024 privind aprobarea Regulamentului de Organizare şi Funcţionare a Serviciului Public Judeţean de Pază Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/06-21/hotarari/hot202.pdf",
+     "sha256": "a9f1a5fb79b160a56c8f6504987df6d0065733e4c99443e629cff4dbef34fe4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-246-2024",
+   "path": "local/judet/valcea/2024/246",
+   "short": "HCJ Vâlcea nr. 246/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 246/2024 privind aprobarea taxelor ce se vor încasa de Școala Populară de Arte și Meserii Râmnicu Vâlcea, în anul școlar 2024-2025. Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/08-23/hotarari/hot246.pdf",
+     "sha256": "a9763bb2fef381da8f7c16d417c68f9838e54eb760d9c2c720ac0f03f02bc4c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-25-2024",
+   "path": "local/judet/valcea/2024/25",
+   "short": "HCJ Vâlcea nr. 25/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 25/2024 privind modificarea și înlocuirea Anexei la Hotărârea Consiliului Județean Vâlcea nr.190/2023 privind aprobarea taxelor ce se vor încasa de Școala Populară de Arte și Meserii, Râmnicu Vâlcea, în anul școlar 2023-2024 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/02-12/hotarari/hot25.pdf",
+     "sha256": "ee1bb644a945a6b7fb5c1a0d945b4992bda1070587b9c44d24b0b386e37b3262"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-261-2024",
    "path": "local/judet/valcea/2024/261",
    "short": "HCJ Vâlcea nr. 261/2024",
@@ -14,6 +74,36 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/images/sedinte/2024/09-30/hotarari/hot261.pdf",
      "sha256": "8831d77e78bee478a1a7a3edf779fce9ef488585e9e80e1ef228c538e0e6f035"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-262-2024",
+   "path": "local/judet/valcea/2024/262",
+   "short": "HCJ Vâlcea nr. 262/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 262/2024 privind aprobarea Regulamentului de acordare a stimulentelor financiare pentru elevii din unitățile de învățământ preuniversitar din județul Vâlcea, care au obținut rezultate deosebite – distincții, medalii și premii speciale, media 10 la examenul național de Bacalaureat sau la Evaluarea națională a elevilor de clasa a VIII-a și pentru elevii din județul Vâlcea acceptați ca studenți în cadrul unor",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/09-30/hotarari/hot262.pdf",
+     "sha256": "9a8f4c9cb88c5be3e0e0d53714c5d1d0154c46e7eef9b5571346fa0902dae1bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-263-2024",
+   "path": "local/judet/valcea/2024/263",
+   "short": "HCJ Vâlcea nr. 263/2024",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 263/2024 privind aprobarea Regulamentului de navigație pe Lacul de acumulare Călimănești, Județul Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/images/sedinte/2024/09-30/hotarari/hot263.pdf",
+     "sha256": "2b0da01c888e907710fc53e1ec4bdc6dce2bacd81934633c12a167b1119873fb"
     }
    ]
   },

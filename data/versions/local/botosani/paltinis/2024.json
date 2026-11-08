@@ -3,6 +3,21 @@
  "shard": "local/botosani/paltinis/2024",
  "acts": [
   {
+   "slug": "hcl-botosani--paltinis-1-2024",
+   "path": "local/botosani/paltinis/2024/1",
+   "short": "HCL Păltiniș nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 1/2024 aprobarea organizarii retelei scolare pentru anul scolar 2024-2025 la nivelul comunei Paltinis",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#65428",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#65428",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--paltinis-10-2024",
    "path": "local/botosani/paltinis/2024/10",
    "short": "HCL Păltiniș nr. 10/2024",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--paltinis-2-2024",
+   "path": "local/botosani/paltinis/2024/2",
+   "short": "HCL Păltiniș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2024 aprobarea atestare bunuri care apartin domeniului public al comunei",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#59289",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#59289",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--paltinis-20-2024",
    "path": "local/botosani/paltinis/2024/20",
    "short": "HCL Păltiniș nr. 20/2024",
@@ -298,6 +328,21 @@
      "from": "2024-05-28",
      "units": 1,
      "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#75708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--paltinis-3-2024",
+   "path": "local/botosani/paltinis/2024/3",
+   "short": "HCL Păltiniș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2024 aprobare cesiune contract de concesiune nr. 2815/02 05 2023",
+   "url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#68447",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://paltinis.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19572#68447",
      "sha256": null
     }
    ]
