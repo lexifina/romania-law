@@ -90,12 +90,12 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 322750,
+  "acts": 322751,
   "by_status": {
    "current": 253665,
    "pending-change": 28289,
    "stale": 4468,
-   "unverified": 36328,
+   "unverified": 36329,
    "source-unavailable": 0
   },
   "verified_7d": 267080,
@@ -176,12 +176,12 @@
    "oldest_verified": "2018-07-23"
   },
   "orders": {
-   "acts": 59062,
+   "acts": 59063,
    "by_status": {
     "current": 25530,
     "pending-change": 12314,
     "stale": 0,
-    "unverified": 21218,
+    "unverified": 21219,
     "source-unavailable": 0
    },
    "verified_7d": 25530,
@@ -518,12 +518,12 @@
    "oldest_verified": "2026-11-04"
   },
   "instante": {
-   "acts": 529,
+   "acts": 530,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 529,
+    "unverified": 530,
     "source-unavailable": 0
    },
    "verified_7d": 0,
@@ -862,7 +862,7 @@
     "regulament",
     "tratat"
    ],
-   "acts": 123858,
+   "acts": 123859,
    "last_successful_check": "2026-11-07",
    "unavailable_since": "2026-11-07",
    "sites": null,

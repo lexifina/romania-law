@@ -3411,12 +3411,12 @@
   {
    "shard": "hotarare/2023",
    "kind": "hotarare",
-   "count": 3,
+   "count": 4,
    "acts": "data/acts/hotarare/2023.json",
    "list": "data/acts/hotarare/2023.md",
    "versions": "data/versions/hotarare/2023.json",
    "laws": "data/laws/hotarare/2023.csv",
-   "laws_count": 3,
+   "laws_count": 4,
    "sources": "data/sources/hotarare/2023.csv"
   },
   {

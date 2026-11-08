@@ -3,6 +3,25 @@
 "shard": "hotarare/2023",
 "acts": [
 {
+"slug": "hotarare-asf-506-2023",
+"path": "hotarare/asf/2023/506",
+"kind": "hotarare",
+"year": "2023",
+"number": "506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 506/2023 Hotărârea nr. 506/2023 pentru aprobarea Strategiei naționale privind dezvoltarea pieței de capital din România pentru perioada 2023- 2026",
+"short": "Hotărârea asf nr. 506/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://asfromania.ro/uploads/articole/attachments/6481bd1faa288774482568.pdf",
+"issuer": "asf",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-3-2023",
 "path": "hotarare/bnr/2023/3",
 "kind": "hotarare",

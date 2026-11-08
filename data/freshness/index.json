@@ -5595,12 +5595,12 @@
    "shard": "instante/2023",
    "kind": "instante",
    "file": "data/freshness/instante/2023.csv",
-   "count": 24,
+   "count": 25,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 24,
+    "unverified": 25,
     "source-unavailable": 0
    }
   },

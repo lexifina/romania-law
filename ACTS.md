@@ -23292,7 +23292,7 @@
 | Methodologies (metodologii) | 314 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 78 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Circulars of authorities (circulare) | 1183 | [`data/acts/circulara/`](data/acts/circulara/) |
-| Decisions of authorities' boards (hotărâri) | 664 | [`data/acts/hotarare/`](data/acts/hotarare/) |
+| Decisions of authorities' boards (hotărâri) | 665 | [`data/acts/hotarare/`](data/acts/hotarare/) |
 | Decisions of authorities (decizii) | 2657 | [`data/acts/decizie/`](data/acts/decizie/) |
 | Procedures (proceduri) | 302 | [`data/acts/procedura/`](data/acts/procedura/) |
 | Guides (ghiduri) | 193 | [`data/acts/ghid/`](data/acts/ghid/) |
