@@ -46,6 +46,36 @@
      "sha256": "14f5aa86cd655b7d3d41bd5d8fc5e40b9dd08696652c48bb1c500a1d18cc2e97"
     }
    ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-3-2020",
+   "path": "local/brasov/ghimbav/2020/3",
+   "short": "HCL Ghimbav nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2020 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 23 ianuarie 2020 Consiliul Local al Orașului Ghimbav, întrunit în ședință în data de 23.01.2020, Având în vedere - Proiectul ordinii de zi, prevederile art. 135 din OUG nr. 57/2019 privind Codul administrativ, - prevederile art. 52, art. 53, alin. 1 - 4 din Regulamentul de Organizare și Funcțion",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/77/2020-01-23-HCL-3.pdf",
+     "sha256": "bc5d1cc8509929e3ded35a502c1f59db58f6fdf4de4eff96a1b1f0e7e74df0d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-5-2020",
+   "path": "local/brasov/ghimbav/2020/5",
+   "short": "HCL Ghimbav nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 5/2020 privind încheierea unui contract de asistență juridică cu cabinet individual de avocatură Burcuță Paraschiva Consiliul Local al Orașului Ghimbav, întrunit în ședință în data de 23.01.2020, Văzând Proiectul de hotărâre, prevederile art. 1, alin. 2) din OUG nr. 26/2012 privind unele măsuri de reducere a cheltuielilor publice și întărirea disciplinei financiare și de modificare și completare a unor a",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/77/2020-01-23-HCL-5.pdf",
+     "sha256": "790191913b0405a65d0380077f26464759dc29e4b399ed2ae82d74a3a542ed81"
+    }
+   ]
   }
  ]
 }

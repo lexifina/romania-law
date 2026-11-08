@@ -3,6 +3,36 @@
  "shard": "local/hunedoara/blajeni/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--blajeni-10-2025",
+   "path": "local/hunedoara/blajeni/2025/10",
+   "short": "HCL Blăjeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 10/2025 privind aprobarea participării comunei Blăjeni în cadrul programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/202007",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/202007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-12-2025",
+   "path": "local/hunedoara/blajeni/2025/12",
+   "short": "HCL Blăjeni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 12/2025 privind aprobarea alocării unei sume de la bugetul local în vederea organizării activităților cultural-educative ce se vor desfășura pe raza comunei Blăjeni, județul Hunedoara, în cursul lunii iunie 2025",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/213146",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/213146",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-14-2025",
    "path": "local/hunedoara/blajeni/2025/14",
    "short": "HCL Blăjeni nr. 14/2025",
@@ -88,6 +118,21 @@
      "from": "2025-11-13",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/223702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-2-2025",
+   "path": "local/hunedoara/blajeni/2025/2",
+   "short": "HCL Blăjeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 2/2025 privind aprobarea prețurilor de referință al masei lemnoase din fondul forestier proprietatea comunei Blăjeni, județul Hunedoara",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/191865",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/191865",
      "sha256": null
     }
    ]
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-3-2025",
+   "path": "local/hunedoara/blajeni/2025/3",
+   "short": "HCL Blăjeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 3/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2025, pentru fondul forestier proprietatea comunei Blăjeni",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/191866",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/191866",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-30-2025",
    "path": "local/hunedoara/blajeni/2025/30",
    "short": "HCL Blăjeni nr. 30/2025",
@@ -298,6 +358,21 @@
      "from": "2026-02-23",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/244313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-5-2025",
+   "path": "local/hunedoara/blajeni/2025/5",
+   "short": "HCL Blăjeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 5/2025 privind actualizarea Planului de analiză și acoperire a riscurilor (PAAR) în comuna Blăjeni pe anul 2025",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/196025",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/196025",
      "sha256": null
     }
    ]

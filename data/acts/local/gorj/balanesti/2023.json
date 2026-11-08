@@ -3,6 +3,28 @@
 "shard": "local/gorj/balanesti/2023",
 "acts": [
 {
+"slug": "hcl-gorj--balanesti-3-2023",
+"path": "local/gorj/balanesti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 3/2023 privind aprobarea participării UAT BĂLĂNEȘTI în cadrul “Programului Planul National de Redresare si Reziliență - PNRR, Pilonul VI. Politici pentru noua generație , Componenta C15: Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar Investiția 11. Asigurarea dotărilor pentru sălile de clasă preuniversitare și laboratoarele/atelierele școlare",
+"short": "HCL Bălănești nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/balanesti-gj/registru-hcl/85370",
+"council": "gorj/balanesti",
+"council_name": "Consiliul Local al Comunei Bălănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-gorj--balanesti-60-2023",
 "path": "local/gorj/balanesti/2023/60",
 "kind": "local",

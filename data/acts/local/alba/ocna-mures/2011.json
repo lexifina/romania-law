@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2011",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-7-2011",
+"path": "local/alba/ocna-mures/2011/7",
+"kind": "local",
+"year": "2011",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 7/2011 pentru aprobarea, pentru anul 2011, a criteriilor privind veniturile potentiale provenite din valorificarea bunurilor ce depasesc cantitativ categoriile de bunuri considerate de stricta necesitate pentru nevoile unei familii prevazute in anexa nr. 6 din Hotararea Guvernului Romaniei nr. 50/2011 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii nr. 416/2001 privind venitul min",
+"short": "HCL Ocna Mureș nr. 7/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-9-2011",
+"path": "local/alba/ocna-mures/2011/9",
+"kind": "local",
+"year": "2011",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 9/2011 privind constituirea COMISIEI LOCALE DE ORDINE PUBLICĂ a orașului Ocna Mureș, proiect inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+"short": "HCL Ocna Mureș nr. 9/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-13-2011",
+"path": "local/alba/ocna-mures/2011/13",
+"kind": "local",
+"year": "2011",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2011 privind aprobarea suplimentării, pentru anul 2011, cu un număr de 45 de locuri, la nivelul orasului Ocna Mures, a numarului de persoane care pot beneficia de indemnizatiile lunare cuvenite persoanelor cu handicap grav conform Legii nr.448/06.12.2006 privind protecția și promovarea drepturilor persoanelor cu handicap, cu modificarile si completarile ulterioare si a Normelor Metodologice de aplicare",
+"short": "HCL Ocna Mureș nr. 13/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-23-2011",
+"path": "local/alba/ocna-mures/2011/23",
+"kind": "local",
+"year": "2011",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 23/2011 privind aprobarea noului REGULAMENT AL SERVICIULUI DE SALUBRIZARE A ORAȘULUI OCNA MUREȘ, conform anexei-parte integrantă a prezentei hotărâri, proiect initiat de catre primarul orasului Ocna Mures, prof",
+"short": "HCL Ocna Mureș nr. 23/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-02-28",
+"latest": "2011-02-28",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-99-2011",
+"path": "local/alba/ocna-mures/2011/99",
+"kind": "local",
+"year": "2011",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 99/2011 privind aprobarea noilor taxe și impozite locale ce se vor aplica în anul fiscal 2012 la nivelul orașului Ocna Mureș, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+"short": "HCL Ocna Mureș nr. 99/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-102-2011",
+"path": "local/alba/ocna-mures/2011/102",
+"kind": "local",
+"year": "2011",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 102/2011 pentru modificarea si completarea H.C.L.O.M nr 25/2011 privind „aprobarea Regulamentului-cadru de organizare si functionare al Politiei Locale a orasului Ocna Mures”, proiect initiat de catre primarul orasului Ocna Mures, prof",
+"short": "HCL Ocna Mureș nr. 102/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-165-2011",
+"path": "local/alba/ocna-mures/2011/165",
+"kind": "local",
+"year": "2011",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 165/2011 pentru modificarea și completarea Hotărârii nr.99/30.06.2011 a Consiliului local al orașului Ocna Mureș „privind aprobarea noilor taxe și impozite locale ce se vor aplica în anul fiscal 2012 la nivelul orașului Ocna Mureș”, inițiat și înaintat spre aprobare de către primarul orașului Ocna Mureș, prof",
+"short": "HCL Ocna Mureș nr. 165/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-11-29",
+"latest": "2011-11-29",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2011/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

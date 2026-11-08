@@ -3,6 +3,261 @@
  "shard": "local/gorj/bustuchin/2026",
  "acts": [
   {
+   "slug": "hcl-gorj--bustuchin-10-2026",
+   "path": "local/gorj/bustuchin/2026/10",
+   "short": "HCL Bustuchin nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 10/2026 privind acordarea scutirii de la plata impozitului pentru mijloacele de transport specializate utilizate pentru transportul stupilor în pastoral",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/254356",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/254356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-12-2026",
+   "path": "local/gorj/bustuchin/2026/12",
+   "short": "HCL Bustuchin nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 12/2026 privind modificarea și actualizarea organigramei și a ştatului de funcţii pentru funcţionarii publici şi personalul contractual din aparatul de specialitate al primarului comunei Bustuchin, județul Gorj pe anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/254358",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/254358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-13-2026",
+   "path": "local/gorj/bustuchin/2026/13",
+   "short": "HCL Bustuchin nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 13/2026 pentru aprobarea Regulamentului privind înregistrarea vehiculelor, în comuna Bustuchin, județul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/256953",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/256953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-21-2026",
+   "path": "local/gorj/bustuchin/2026/21",
+   "short": "HCL Bustuchin nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 21/2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/263840",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/263840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-26-2026",
+   "path": "local/gorj/bustuchin/2026/26",
+   "short": "HCL Bustuchin nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 26/2026 privind înființarea serviciului social „Serviciu de îngrijire la domiciliu pentru persoanele vârstnice”, aprobarea Regulamentului de organizare și funcționare al acestuia, precum și aprobarea organigramei și a ștatului de funcții pentru aparatul de specialitate al Primarului comunei Bustuchin",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/267045",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/267045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-3-2026",
+   "path": "local/gorj/bustuchin/2026/3",
+   "short": "HCL Bustuchin nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 3/2026 privind aprobarea utilizarii excedentului anului precedent al bugetului local al Comunei Bustuchin si al Liceului Tehnologic Bustuchin pentru anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/250135",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/250135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-30-2026",
+   "path": "local/gorj/bustuchin/2026/30",
+   "short": "HCL Bustuchin nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 30/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 al Clubului sportiv ”Petrolul Bustuchin”",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/268700",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/268700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-31-2026",
+   "path": "local/gorj/bustuchin/2026/31",
+   "short": "HCL Bustuchin nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 31/2026 privind aprobarea bugetului local al Comunei Bustuchin pe anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/268701",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/268701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-34-2026",
+   "path": "local/gorj/bustuchin/2026/34",
+   "short": "HCL Bustuchin nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 34/2026 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2026 - R1",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/268704",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/268704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-37-2026",
+   "path": "local/gorj/bustuchin/2026/37",
+   "short": "HCL Bustuchin nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 37/2026 privind aprobarea Planului anual de acţiune al serviciilor sociale administrate și finanțate din bugetul local al comunei Bustuchin pentru anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/271979",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/271979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-39-2026",
+   "path": "local/gorj/bustuchin/2026/39",
+   "short": "HCL Bustuchin nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 39/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, județul Gorj, aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/271981",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/271981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-4-2026",
+   "path": "local/gorj/bustuchin/2026/4",
+   "short": "HCL Bustuchin nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 4/2026 privind aprobarea Planului de acţiuni sau lucrări de interes local pe anul 2026, prevăzut de Legea nr.196/2016 privind venitul minim de incluziune, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/250136",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/250136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-44-2026",
+   "path": "local/gorj/bustuchin/2026/44",
+   "short": "HCL Bustuchin nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 44/2026 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2026 - R2",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/274203",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/274203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-47-2026",
+   "path": "local/gorj/bustuchin/2026/47",
+   "short": "HCL Bustuchin nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 47/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, desființarea Compartimentului de implementare proiecte finanțate din fonduri externe nerambursabile – PIDS, modificarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/274206",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/274206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-48-2026",
+   "path": "local/gorj/bustuchin/2026/48",
+   "short": "HCL Bustuchin nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 48/2026 privind aprobarea Regulamentului pentru emiterea autorizației de funcționare locală a operatorilor economici care desfășoară activități de jocuri de noroc - cod CAEN 9200 - pe raza administrativ-teritorială a comunei Bustuchin, județul Gorj și instituirea taxei anuale de autorizare",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/274207",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/274207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-5-2026",
+   "path": "local/gorj/bustuchin/2026/5",
+   "short": "HCL Bustuchin nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 5/2026 privind aprobarea Programului de actiune comunitara destinat prevenirii si combaterii riscului de marginalizare si excluziune sociala în anul 2026 pentru comuna Bustuchin, județul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/250137",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/250137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-56-2026",
+   "path": "local/gorj/bustuchin/2026/56",
+   "short": "HCL Bustuchin nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 56/2026 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2026 - R3",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/282029",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/282029",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--bustuchin-64-2026",
    "path": "local/gorj/bustuchin/2026/64",
    "short": "HCL Bustuchin nr. 64/2026",

@@ -3,6 +3,126 @@
  "shard": "local/galati/poiana/2026",
  "acts": [
   {
+   "slug": "hcl-galati--poiana-11-2026",
+   "path": "local/galati/poiana/2026/11",
+   "short": "HCL Poiana nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 11/2026 privind modificarea elementelor de identificare ale unor bunuri care apartin domeniului public a comunei Poiana , județul Galați",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268629",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-17-2026",
+   "path": "local/galati/poiana/2026/17",
+   "short": "HCL Poiana nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 17/2026 privind actualizarea indicatorilor tehnico-economici, aprobați prin HCL nr. 7 din data 10.03.2025, pentru obiectivul de investiții „Actualizarea Planului Urbanistic General (PUG) si elaborarea Regulamentului Local de Urbanism (RLU) al comunei Poiana,judetul Galati”",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268639",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-18-2026",
+   "path": "local/galati/poiana/2026/18",
+   "short": "HCL Poiana nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 18/2026 privind modificarea anexei Hotărârii Consiliului Local Poiana nr.59/22.12.2025 privind stabilirea valorilor impozabile, a impozitelor, a taxelor locale şi a altor taxe asimilate acestora, care se vor aplica în anul 2026 la nivelul comunei Poiana, judeţul Galaţi”",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268640",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-19-2026",
+   "path": "local/galati/poiana/2026/19",
+   "short": "HCL Poiana nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 19/2026 privind aprobarea bugetului general centralizat și a programului de investiții al comunei Poiana, județul Galați pe anul 2026",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/293579",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/293579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-20-2026",
+   "path": "local/galati/poiana/2026/20",
+   "short": "HCL Poiana nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 20/2026 privind aprobarea Contractului de parteneriat între UAT Comuna Poiana prin Consiliul Local al comunei Poiana şi UAT Județul Galați prin Consiliul Județean Galați în vederea asigurării implementării și sustenabilității proiectului „Asigurarea accesului la educație a elevilor din Județul Galați prin achiziția de microbuze școlare mai puțin poluante”, finanțat de către Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/293615",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/293615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-21-2026",
+   "path": "local/galati/poiana/2026/21",
+   "short": "HCL Poiana nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 21/2026 privind aprobarea contului de încheiere a exerciţiului bugetar pentru anul 2025",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/293581",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/293581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-22-2026",
+   "path": "local/galati/poiana/2026/22",
+   "short": "HCL Poiana nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 22/2026 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2026",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/293616",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/293616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-23-2026",
+   "path": "local/galati/poiana/2026/23",
+   "short": "HCL Poiana nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 23/2026 privind aprobarea tarifului pentru activitatea de colectare separată și transport separat al deșeurilor reziduale, inclusiv a reziduurilor menajere și similare și al altor deșeuri colectate separat decât cele de hârtie, carton, plastic, metal și sticlă precum și aprobarea tarifului pentru activitatea de colectare separată și transportul separat al deșeurilor de hârtie, carton, plastic, metal și sticlă",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/293613",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/293613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--poiana-24-2026",
    "path": "local/galati/poiana/2026/24",
    "short": "HCL Poiana nr. 24/2026",
@@ -88,6 +208,21 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/293618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-3-2026",
+   "path": "local/galati/poiana/2026/3",
+   "short": "HCL Poiana nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 3/2026 privind aprobarea programului de măsuri pentru gospodărirea localităţii Poiana, aferent anului 2026",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268612",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268612",
      "sha256": null
     }
    ]
@@ -243,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--poiana-4-2026",
+   "path": "local/galati/poiana/2026/4",
+   "short": "HCL Poiana nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 4/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268613",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--poiana-40-2026",
    "path": "local/galati/poiana/2026/40",
    "short": "HCL Poiana nr. 40/2026",
@@ -298,6 +448,21 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/poiana-gl/registru-hcl/293612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--poiana-5-2026",
+   "path": "local/galati/poiana/2026/5",
+   "short": "HCL Poiana nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana nr. 5/2026 privind aprobarea Devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „MODERNIZARE ȘI EXTINDERE REȚEA DE ALIMENTARE CU APĂ ÎN COMUNA POIANA, JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/poiana-gl/registru-hcl/268622",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/poiana-gl/registru-hcl/268622",
      "sha256": null
     }
    ]

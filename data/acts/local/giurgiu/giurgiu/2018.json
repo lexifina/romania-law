@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-324-2018",
+"path": "local/giurgiu/giurgiu/2018/324",
+"kind": "local",
+"year": "2018",
+"number": "324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 324/2018 privind modificarea Hotărârii Consiliului Local nr.498/28.12.2017 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2018 și încetarea aplicabilității Hotărârii Consiliului Local nr.72/22.02.2018",
+"short": "HCL Giurgiu nr. 324/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-08-29",
+"latest": "2018-08-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-365-2018",
 "path": "local/giurgiu/giurgiu/2018/365",
 "kind": "local",
@@ -110,6 +132,29 @@
 "council_name": "Consiliul Local al Municipiului Giurgiu",
 "flags": {
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-398-2018",
+"path": "local/giurgiu/giurgiu/2018/398",
+"kind": "local",
+"year": "2018",
+"number": "398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 398/2018",
+"short": "HCL Giurgiu nr. 398/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

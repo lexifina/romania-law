@@ -3,6 +3,681 @@
  "shard": "local/giurgiu/malu/2025",
  "acts": [
   {
+   "slug": "hcl-giurgiu--malu-1-2025",
+   "path": "local/giurgiu/malu/2025/1",
+   "short": "HCL Malu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 1/2025 privind acoperirea definitivă a deficitului bugetar pentru anul 2024 din excedentul anilor precedenți",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216905",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-10-2025",
+   "path": "local/giurgiu/malu/2025/10",
+   "short": "HCL Malu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 10/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru Elaborare Plan Urbanistic General și Regulament Local de urbanism, comuna Malu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216914",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-11-2025",
+   "path": "local/giurgiu/malu/2025/11",
+   "short": "HCL Malu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 11/2025 privind aprobarea solicitării prelungirii până la data de 28.07.2025 a Scrisorii de garanție de la FNGCIMM SA IFN nr. 414/03.08.2018, în sumă de 652.190,00 lei",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216915",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-12-2025",
+   "path": "local/giurgiu/malu/2025/12",
+   "short": "HCL Malu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 12/2025 privind aprobarea actualizării Planului de Analiză şi Acoperirea Riscurilor (PAAR) la nivelul comunei Malu, județul Giurgiu, pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216916",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-13-2025",
+   "path": "local/giurgiu/malu/2025/13",
+   "short": "HCL Malu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 13/2025 privind aprobarea investiției și a indicatorilor tehnico-economici pentru obiectivul de investiții “Construire locuințe sociale și de necesitate, 24 UL în comuna Malu, județul Giurgiu”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216929",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-14-2025",
+   "path": "local/giurgiu/malu/2025/14",
+   "short": "HCL Malu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 14/2025 privind aprobarea Bugetului de venituri și cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216935",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-15-2025",
+   "path": "local/giurgiu/malu/2025/15",
+   "short": "HCL Malu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 15/2025 privind aprobarea contului de execuţie bugetară la data de 31.12.2024",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216936",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-16-2025",
+   "path": "local/giurgiu/malu/2025/16",
+   "short": "HCL Malu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 16/2025 privind aprobarea utilizării excedentului bugetar al anului 2024",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216937",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-18-2025",
+   "path": "local/giurgiu/malu/2025/18",
+   "short": "HCL Malu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 18/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216939",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-19-2025",
+   "path": "local/giurgiu/malu/2025/19",
+   "short": "HCL Malu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 19/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale la nivelul Comunei Malu și a procedurilor necesare acreditării Comunei Malu, prin Primăria comunei Malu, ca furnizor în domeniul serviciilor sociale",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216940",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-2-2025",
+   "path": "local/giurgiu/malu/2025/2",
+   "short": "HCL Malu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 2/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216906",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-21-2025",
+   "path": "local/giurgiu/malu/2025/21",
+   "short": "HCL Malu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 21/2025 privind aprobarea Proiectul Tehnic și Detalii de Execuție (P.T.+D.E.), a indicatorilor tehnico-economici si a Devizului General pentru realizarea obiectivului de investiții „Modernizare și extindere sistem alimentare cu apă și extindere rețea canalizare în Comuna Malu, Județul Giurgiu”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216942",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-23-2025",
+   "path": "local/giurgiu/malu/2025/23",
+   "short": "HCL Malu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 23/2025 privind susținerea financiară a investiției ,,REABILITARE TERMICĂ ȘI REFACERE INSTALAȚII INTERIOARE ȘI FINISAJE LA CĂMINUL CULTURAL MALU, JUDEȚUL GIURGIU” prin introducerea costurilor neeligibile, generate de modificări tehnice și refacerea indicatorilor economici",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216944",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-24-2025",
+   "path": "local/giurgiu/malu/2025/24",
+   "short": "HCL Malu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 24/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216945",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-26-2025",
+   "path": "local/giurgiu/malu/2025/26",
+   "short": "HCL Malu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 26/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216947",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-27-2025",
+   "path": "local/giurgiu/malu/2025/27",
+   "short": "HCL Malu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 27/2025 privind aprobarea proiectul ”Simplificare prin digitalizare - Comuna Malu” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216948",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-28-2025",
+   "path": "local/giurgiu/malu/2025/28",
+   "short": "HCL Malu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 28/2025 privind aprobarea inițierii demersurilor de actualizare a Planului Urbanistic General și a Regulamentului Local de Urbanism al comunei Malu, județul Giurgiu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216949",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-31-2025",
+   "path": "local/giurgiu/malu/2025/31",
+   "short": "HCL Malu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 31/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216952",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-35-2025",
+   "path": "local/giurgiu/malu/2025/35",
+   "short": "HCL Malu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 35/2025 privind aprobarea înființării serviciului social „Cantină socială” în comuna Malu, județul Giurgiu și depunerea proiectului „Cantină socială” în comuna Malu, județul Giurgiu, în cadrul Programului de Interes Național „Servicii de acordare a hranei pentru persoanele vârstnice”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216956",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-36-2025",
+   "path": "local/giurgiu/malu/2025/36",
+   "short": "HCL Malu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 36/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216957",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-38-2025",
+   "path": "local/giurgiu/malu/2025/38",
+   "short": "HCL Malu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 38/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216959",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-39-2025",
+   "path": "local/giurgiu/malu/2025/39",
+   "short": "HCL Malu nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 39/2025 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Primarului comunei Malu, judeţul Giurgiu, în anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216960",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-41-2025",
+   "path": "local/giurgiu/malu/2025/41",
+   "short": "HCL Malu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 41/2025 privind constatarea dreptului de proprietate publică asupra unor imobile (străzi în incinta fostului CAP), situate în intravilanul comunei Malu, județul Giurgiu și atribuirea de denumiri acestora",
+   "url": "https://emol.ro/malu-gr/registru-hcl/216962",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/216962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-42-2025",
+   "path": "local/giurgiu/malu/2025/42",
+   "short": "HCL Malu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 42/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229235",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-44-2025",
+   "path": "local/giurgiu/malu/2025/44",
+   "short": "HCL Malu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 44/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229257",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-46-2025",
+   "path": "local/giurgiu/malu/2025/46",
+   "short": "HCL Malu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 46/2025 privind aprobarea Planului Comitetului Local pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pe anul 2025, la nivelul comunei Malu, județul Giurgiu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229259",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-47-2025",
+   "path": "local/giurgiu/malu/2025/47",
+   "short": "HCL Malu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 47/2025 privind aprobarea Studiului de Fezabilitate revizuit pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Giurgiu”, a indicatorilor tehnico-economici aferenți proiectului și înlocuirea denumirii proiectului “Proiect regional de dezvoltare a infrastructurii de apă și apă uzată în județul Giurgiu, în perioada 2014-2020” cu denumirea “Proiect regional de dezvoltare a infrastructurii de apă și apă uzată în județul Giurgiu’’",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229260",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-48-2025",
+   "path": "local/giurgiu/malu/2025/48",
+   "short": "HCL Malu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 48/2025 privind aprobarea suplimentarii numărului de posturi contractuale destinate încadrării asistenților personali ai persoanelor cu handicap grav",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229261",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-49-2025",
+   "path": "local/giurgiu/malu/2025/49",
+   "short": "HCL Malu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 49/2025 privind achiziționarea serviciilor juridice de consultanță, de asistență și de reprezentare, prin încheierea unui contract de servicii juridice, care să asigure apărarea intereselor UAT Comuna Malu, județul Giurgiu",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229266",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-50-2025",
+   "path": "local/giurgiu/malu/2025/50",
+   "short": "HCL Malu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 50/2025 privind aprobarea Registrului Local al Spațiilor Verzi din intravilanul Comunei Malu, județul Giurgiu, realizat în sistem GIS",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229267",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-51-2025",
+   "path": "local/giurgiu/malu/2025/51",
+   "short": "HCL Malu nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 51/2025 privind aprobarea modului de întocmire și tinere la zi a registrului agricol în perioada 2025-2029",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229268",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-53-2025",
+   "path": "local/giurgiu/malu/2025/53",
+   "short": "HCL Malu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 53/2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229273",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-54-2025",
+   "path": "local/giurgiu/malu/2025/54",
+   "short": "HCL Malu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 54/2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229274",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-55-2025",
+   "path": "local/giurgiu/malu/2025/55",
+   "short": "HCL Malu nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 55/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229275",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-58-2025",
+   "path": "local/giurgiu/malu/2025/58",
+   "short": "HCL Malu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 58/2025 privind aprobarea depunerii cererii de finanţare cu titlul \"Sprijin acasă – Îngrijire integrată pentru vârstnicii vulnerabili din Jud. Giurgiu\" în vederea licențierii și operaționalizării unui serviciului de îngrijire la domiciliu a persoanelor vârstnice în cadrul Apelului „Servicii de îngrijire la domiciliu pentru persoanele vârstnice” - Program: “Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027” - (cod 8810-ID-I Unități de îngrijire la domiciliu)",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229278",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-59-2025",
+   "path": "local/giurgiu/malu/2025/59",
+   "short": "HCL Malu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 59/2025 privind aprobarea depunerii cererii de finanţare cu titlul \"Îngrijire modernă la domiciliu – soluții integrate pentru vârstnicii din Comuna Malu, Jud. Giurgiu\" în vederea licentierii si operationalizarii unui serviciului de ingrijire la domiciliu a persoanelor varstnice in cadrul Apelului „Servicii de îngrijire la domiciliu pentru persoanele vârstnice” - Program: “Programul Incluziune și Demnitate Socială (PIDS) 2021 – 2027” - (cod 8810-ID-I Unități de îngrijire la domiciliu)",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229279",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-61-2025",
+   "path": "local/giurgiu/malu/2025/61",
+   "short": "HCL Malu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 61/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229281",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-62-2025",
+   "path": "local/giurgiu/malu/2025/62",
+   "short": "HCL Malu nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 62/2025 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229292",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-63-2025",
+   "path": "local/giurgiu/malu/2025/63",
+   "short": "HCL Malu nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 63/2025 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Amenajare infrastructură verde-albastră și spații multifuncționale în comuna Malu, Județul Giurgiu”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229293",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-65-2025",
+   "path": "local/giurgiu/malu/2025/65",
+   "short": "HCL Malu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 65/2025 privind aprobarea Proiectului Tehnic, a Devizului General actualizat și a Documentației Tehnice pentru obtinerea Autorizației de Construire pentru obiectivul de investiții „Amenajare infrastructură verde-albastră și spații multifuncționale în comuna Malu, Județul Giurgiu”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229295",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-66-2025",
+   "path": "local/giurgiu/malu/2025/66",
+   "short": "HCL Malu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 66/2025 privind aprobare a proiectului „Amenajare infrastructură verde-albastră și spații multifuncționale în comuna Malu, Județul Giurgiu” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/malu-gr/registru-hcl/229296",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/229296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-71-2025",
+   "path": "local/giurgiu/malu/2025/71",
+   "short": "HCL Malu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 71/2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253081",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-72-2025",
+   "path": "local/giurgiu/malu/2025/72",
+   "short": "HCL Malu nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 72/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253082",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-73-2025",
+   "path": "local/giurgiu/malu/2025/73",
+   "short": "HCL Malu nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 73/2025 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al comunei Malu, județul Giurgiu, pe anul 2025",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253083",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--malu-76-2025",
+   "path": "local/giurgiu/malu/2025/76",
+   "short": "HCL Malu nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Malu nr. 76/2025 privind aprobarea Regulamentului de Organizare și Funcționare, organigrama și Statul de funcții ale „Centrului integrat de servicii sociale pentru vârstnici în comuna Malu, județul Giurgiu”",
+   "url": "https://emol.ro/malu-gr/registru-hcl/253086",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/malu-gr/registru-hcl/253086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--malu-77-2025",
    "path": "local/giurgiu/malu/2025/77",
    "short": "HCL Malu nr. 77/2025",

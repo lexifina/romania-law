@@ -288,6 +288,66 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sansimion-3-2026",
+   "path": "local/harghita/sansimion/2026/3",
+   "short": "HCL Sânsimion nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 3/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269137",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-5-2026",
+   "path": "local/harghita/sansimion/2026/5",
+   "short": "HCL Sânsimion nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 5/2026 privind stabilirea normativelor proprii de cheltuieli pentru UAT Comuna Sânsimion pe anul 2026",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269143",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-7-2026",
+   "path": "local/harghita/sansimion/2026/7",
+   "short": "HCL Sânsimion nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 7/2026 privind aprobarea solicitării de transmitere din domeniul privat al Județului Harghita în domeniul privat al UAT Sânsimion a mijloacelor fixe și obiectivelor de inventar achiziționate în cadrul proiectului cu titlul „Dotarea cu mobilier, materiale didactice și echipamente digitale a 83 unități de învățământ cu personalitate juridică și conexe din județul Harghita” finanțat prin Programul Național de Reziliență și Redresare (PNRR) pentru Pilonul VI. Politici pentru noua generație Componenta C15: Educație: Reforma 4., Investiția 13., Investiția 14, Reforma 5. Investiția 9 și Reforma 6. Investiția 11",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269201",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-8-2026",
+   "path": "local/harghita/sansimion/2026/8",
+   "short": "HCL Sânsimion nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 8/2026 privind modificarea Hotărârii Consiliului Local al comunei Sânsimion nr. 72/14.11.2024 privind aprobarea depunerii proiectului, a cheltuielilor legate de proiect și încheierea unui acord de parteneriat între UAT Sânsimion și UAT Sâncrăieni, UAT Sântimbru, UAT Tușnad",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/269204",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/269204",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-9-2026",
    "path": "local/harghita/sansimion/2026/9",
    "short": "HCL Sânsimion nr. 9/2026",

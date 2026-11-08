@@ -23,6 +23,28 @@
 "flags": {
 "text_source": "pdf_text_layer"
 }
+},
+{
+"slug": "hcl-galati--valea-marului-65-2026",
+"path": "local/galati/valea-marului/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Mărului nr. 65/2026 privind reglementarea și administrarea spațiilor verzi din intravilanul localităților și a OUG nr. 114/2007 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2005 privind protecția mediului; e) Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 1549/2008 privind aprobarea Normelor tehnice pentru elaborarea Registrului local al spațiilor verzi, modific",
+"short": "HCL Valea Mărului nr. 65/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://primariavaleamarului.ro/wp-content/uploads/HCL-nr.-65-din-23.07.2026.pdf",
+"council": "galati/valea-marului",
+"council_name": "Consiliul Local al Comunei Valea Mărului",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

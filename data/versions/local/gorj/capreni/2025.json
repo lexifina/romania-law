@@ -3,6 +3,681 @@
  "shard": "local/gorj/capreni/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--capreni-11-2025",
+   "path": "local/gorj/capreni/2025/11",
+   "short": "HCL Căpreni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 11/2025 privind modificarea şi completarea art.4 din HCL nr. 22 din 15.04.2007 privind aprobarea Regulamentului privind activitatea de înregistrare a autovehiculelor, mopedelor şi a altor vehicule pentru care nu există obligaţia înmatriculării",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232693",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-12-2025",
+   "path": "local/gorj/capreni/2025/12",
+   "short": "HCL Căpreni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 12/2025 privind aprobarea contului anual de execuţie a bugetului local al Comunei Căpreni pe anul 2024",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208002",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-15-2025",
+   "path": "local/gorj/capreni/2025/15",
+   "short": "HCL Căpreni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 15/2025 privind aprobarea trecerii pe cheltuieli și plăţii de la bugetul local a unor sume reprezentând amenzi stabilite în sarcina UAT Comuna Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232694",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-16-2025",
+   "path": "local/gorj/capreni/2025/16",
+   "short": "HCL Căpreni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 16/2025 privind actualizarea HCL 32/23.07.2021 privind aprobarea înființării \"Serviciului Public Apă Canal Căpreni\", serviciu public de interes local în subordinea Consiliului Local Căpreni, judetul Gorj în conformitate cu prevederile art. XXIX , pct.14, lit.a din Legea nr. 296/2023",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208012",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-2-2025",
+   "path": "local/gorj/capreni/2025/2",
+   "short": "HCL Căpreni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 2/2025 privind modificarea HCL NR. 47 din 29.09.2023 privind aprobarea continuării participării UAT Căpreni la finanţarea unor cheltuieli de funcţionare a Centrului de Sănătate Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/207993",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/207993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-20-2025",
+   "path": "local/gorj/capreni/2025/20",
+   "short": "HCL Căpreni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 20/2025 privind actualizarea și completarea HCL 32/23.07.2021 privind aprobarea înființării \"Serviciului Public Apă Canal Căpreni\", serviciu public de interes local în subordinea Consiliului Local Căpreni, judetul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208027",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-24-2025",
+   "path": "local/gorj/capreni/2025/24",
+   "short": "HCL Căpreni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 24/2025 privind aprobărea bugetului local al comunei Căpreni pe anul 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208031",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-25-2025",
+   "path": "local/gorj/capreni/2025/25",
+   "short": "HCL Căpreni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 25/2025 privind reactualizarea Planului de Analiză și Acoperire a Riscurilor al Comunei Căpreni pe anul 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208052",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-28-2025",
+   "path": "local/gorj/capreni/2025/28",
+   "short": "HCL Căpreni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 28/2025 privind participarea la Programul Regional Sud-Vest Oltenia „Investiții în dezvoltarea infrastructurii educaționale pentru nivel preșcolar (grădinițe)” și aprobarea indicatorilor tehnico-economici faza SF/DALI pentru proiectul „REABILITARE, MODERNIZARE ȘI DOTARE GRADINIȚĂ, AMENAJARI EXTERIOARE ȘI ÎMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CĂPRENI, JUDETUL GORJ”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208120",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-29-2025",
+   "path": "local/gorj/capreni/2025/29",
+   "short": "HCL Căpreni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 29/2025 privind aprobarea proiectului „REABILITARE, MODERNIZARE ȘI DOTARE GRADINIȚĂ, AMENAJĂRI EXTERIOARE ȘI ÎMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CĂPRENI, JUDETUL GORJ” și a cheltuielilor aferente",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208121",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-3-2025",
+   "path": "local/gorj/capreni/2025/3",
+   "short": "HCL Căpreni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 3/2025 privind aprobarea Regulamentului privind înfrumusețarea, stabilirea unor măsuri edilitar-gospodăreşti, şi alte măsuri pentru asigurarea ordinii şi curăţeniei în comuna Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208578",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-30-2025",
+   "path": "local/gorj/capreni/2025/30",
+   "short": "HCL Căpreni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 30/2025 privind acordarea unor ajutoare de urgență pentru familii sau persoane aflate în dificultate care nu sunt înscrise în sistemul de asigurări sociale",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208122",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-31-2025",
+   "path": "local/gorj/capreni/2025/31",
+   "short": "HCL Căpreni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 31/2025 privind achiziționarea unor servicii juridice de consultanţă, de asistenţă şi de reprezentare a Unității Administrativ Teritoriale Comuna Căpreni, județul Gorj, a Consiliului Local Căpreni, a Primarului Comunei Căpreni și a Comisiei de Aplicare a Legilor Fundului Funciar",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208123",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-33-2025",
+   "path": "local/gorj/capreni/2025/33",
+   "short": "HCL Căpreni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 33/2025 privind achiziționarea a 3 autovehicule electrice prin Programul Rabla Plus 2025 pentru UAT-uri și instituții publice, Program privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2025-2030",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208126",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-34-2025",
+   "path": "local/gorj/capreni/2025/34",
+   "short": "HCL Căpreni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 34/2025 privind reparația șanțului și consolidarea podețului din comuna Căpreni, sat Căpreni, intersecția străzilor Capra cu Domnișoarelor, județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208127",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-35-2025",
+   "path": "local/gorj/capreni/2025/35",
+   "short": "HCL Căpreni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 35/2025 privind aprobarea contului de execuţie a bugetului local al Comunei Căpreni pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208131",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-36-2025",
+   "path": "local/gorj/capreni/2025/36",
+   "short": "HCL Căpreni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 36/2025 privind aprobarea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208132",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-38-2025",
+   "path": "local/gorj/capreni/2025/38",
+   "short": "HCL Căpreni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 38/2025 privind aprobarea lucrărilor de întreținere și reparații curente a unor sectoare de drumuri din comuna Căpreni, județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208133",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-39-2025",
+   "path": "local/gorj/capreni/2025/39",
+   "short": "HCL Căpreni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 39/2025 privind aprobarea amplasării căminelor de apometru la limita proprietăţii utilizatorilor \"Serviciului Public Apă Canal Căpreni\" pe domeniul public",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/208134",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/208134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-42-2025",
+   "path": "local/gorj/capreni/2025/42",
+   "short": "HCL Căpreni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 42/2025 privind organizarea Zilei Comunei Căpreni ediția a XIII-a în data de 29 iunie 2025 și a Bâlciului anual de Sf. Petru și Pavel",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232704",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-43-2025",
+   "path": "local/gorj/capreni/2025/43",
+   "short": "HCL Căpreni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 43/2025 privind aprobarea continuării participării UAT Căpreni la finanţarea unor cheltuieli de funcţionare a Centrului de Sănătate Căpreni precum și aprobarea de cheltuieli cu organizarea evenimentului privind organizarea Ziua Comunei Căpreni ediția a XIII-a",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232628",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-44-2025",
+   "path": "local/gorj/capreni/2025/44",
+   "short": "HCL Căpreni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 44/2025 privind aprobarea acordării cheltuielilor de deplasare a cadrele didactice pentru lunile martie și aprilie 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232629",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-45-2025",
+   "path": "local/gorj/capreni/2025/45",
+   "short": "HCL Căpreni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 45/2025 privind aprobarea contributiei Comunei Căpreni pentru sustinerea si functionarea activitații de audit public intern realizată în sistem de cooperare la nivelul Filialei Județene Gorj a Asociației Comunelor din România",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232630",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-47-2025",
+   "path": "local/gorj/capreni/2025/47",
+   "short": "HCL Căpreni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 47/2025 privind aprobarea Contractului de voluntariat ce se va încheia între persoanele voluntare din cadrul Serviciului Voluntar pentru Situații de Urgență Urgență de tip V1 la nivelul comunei Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232620",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-48-2025",
+   "path": "local/gorj/capreni/2025/48",
+   "short": "HCL Căpreni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 48/2025 privind însușirea Raportului de Expertiză Tehnică nr. 04/2025 pentru proiectul- Construire Canalizare și Stație de Epurare Ape Uzate, comuna Căpreni, județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232626",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-49-2025",
+   "path": "local/gorj/capreni/2025/49",
+   "short": "HCL Căpreni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 49/2025 privind actualizarea și completarea HCL 32/23.07.2021 privind aprobarea înființării \"Serviciului Public Apă Canal Căpreni\", serviciu public de interes local în subordinea Consiliului Local Căpreni, judetul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232627",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-50-2025",
+   "path": "local/gorj/capreni/2025/50",
+   "short": "HCL Căpreni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 50/2025 privind aprobarea acordării cheltuielilor de deplasare a cadrele didactice pentru lunile mai și iunie 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232688",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-52-2025",
+   "path": "local/gorj/capreni/2025/52",
+   "short": "HCL Căpreni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 52/2025 privind aprobarea lucrărilor de întreținere și reparații curente a unor sectoare de drumuri din comuna Căpreni, județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232698",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-54-2025",
+   "path": "local/gorj/capreni/2025/54",
+   "short": "HCL Căpreni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 54/2025 privind aprobarea documentaţiei tehnico-economice şi a indicatorilor tehnico-economici faza PT pentru obiectivul de investiții “ ÎNFIINȚAREA UNEI CAPACITĂȚI DE PRODUCȚIE A ENERGIEI ELECTRICE DIN SURSA SOLARĂ PENTRU ACOPERIREA CONSUMULUI PROPRIU ÎN COMUNA CĂPRENI, JUDEȚUL GORJ”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232690",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-55-2025",
+   "path": "local/gorj/capreni/2025/55",
+   "short": "HCL Căpreni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 55/2025 privind acceptarea și aprobarea contractului de sponsorizare nr. 28/14.04.2025 încheiat între Comuna Căpreni și societatea comerciala OMV Petrom SA pentru ameajarea izvoarelor publice din satul Brăteşti, Comuna Căpreni, Judeţul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232689",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-58-2025",
+   "path": "local/gorj/capreni/2025/58",
+   "short": "HCL Căpreni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 58/2025 privind aprobarea Regulamentului privind gestionarea deșeurilor din construcții și demolări în comuna Căpreni, județul Gorj",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/221616",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/221616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-59-2025",
+   "path": "local/gorj/capreni/2025/59",
+   "short": "HCL Căpreni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 59/2025 privind actualizarea indicatorilor tehnico-economici FAZA SF/DALI pentru proiectul „REABILITARE, MODERNIZARE SI DOTARE GRĂDINIŢA, AMENAJARI EXTERIOARE ŞI ÎMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CĂPRENI, JUDEŢUL GORJ\"",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/221617",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/221617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-6-2025",
+   "path": "local/gorj/capreni/2025/6",
+   "short": "HCL Căpreni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 6/2025 privind aprobarea reparării unor sectoare de drumuri din comuna Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/207996",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/207996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-60-2025",
+   "path": "local/gorj/capreni/2025/60",
+   "short": "HCL Căpreni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 60/2025 privind modificarea Hotărârii nr. 29 din 16.04.2025 privind aprobarea proiectului \"REABILITARE, MODERNIZARE SI DOTARE GRĂDINIȚA, AMENAJARI EXTERIOARE ȘI ÎMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CĂPRENI, JUDEȚUL GORJ\" Și a cheltuielilor aferente",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/221618",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/221618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-61-2025",
+   "path": "local/gorj/capreni/2025/61",
+   "short": "HCL Căpreni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 61/2025 privind participarea UAT Comuna CĂPRENI la Programul Regional Sud Vest Oltenia - \"INVESTIȚII ÎN CLĂDIRILE PUBLICE ÎN VEDEREA CREȘTERII EFICIENȚEI ENERGETICE ȘI MĂSURI PENTRU UTILIZAREA UNOR SURSE REGENERABILE DE ENERGIE” – APELUL 2 DE PROIECTE",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/221619",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/221619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-62-2025",
+   "path": "local/gorj/capreni/2025/62",
+   "short": "HCL Căpreni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 62/2025 privind actualizarea indicatorilor tehnico-economici faza PT pentru obiectivul de investiții - “ÎNFIINȚAREA UNEI CAPACITĂȚI DE PRODUCȚIE A ENERGIEI ELECTRICE DIN SURSA SOLARĂ PENTRU ACOPERIREA CONSUMULUI PROPRIU ÎN COMUNA CĂPRENI, JUDEȚUL GORJ”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232443",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-63-2025",
+   "path": "local/gorj/capreni/2025/63",
+   "short": "HCL Căpreni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 63/2025 privind modificarea și completarea anexei 1 la HCL 5 din 26.02.2006 privind aprobarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Căpreni , județul Gorj, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232506",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-65-2025",
+   "path": "local/gorj/capreni/2025/65",
+   "short": "HCL Căpreni nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 65/2025 privind modului de utilizarea a microbuzelor școlare destinate transportului elevilor, la nivelul comunei Căpreni, județul Gorj pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232510",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-66-2025",
+   "path": "local/gorj/capreni/2025/66",
+   "short": "HCL Căpreni nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 66/2025 privind actualizarea indicatorilor tehnico-economici FAZA SF/DALI pentru proiectul „REABILITARE, MODERNIZARE SI DOTARE GRADINITA, AMENAJARI EXTERIOARE SI IMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CAPRENI, JUDETUL GORJ”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232515",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-67-2025",
+   "path": "local/gorj/capreni/2025/67",
+   "short": "HCL Căpreni nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 67/2025 privind actualizarea HOTARARII NR. 60 DIN 21.08.2025 PRIVIND APROBAREA PROIECTULUI „REABILITARE, MODERNIZARE SI DOTARE GRADINITA, AMENAJARI EXTERIOARE SI SI IMPREJMUIRE TEREN, SAT CĂPRENI, COMUNA CĂPRENI, JUDETUL GORJ” ȘI A CHELTUIELILOR AFERENTE",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232516",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-68-2025",
+   "path": "local/gorj/capreni/2025/68",
+   "short": "HCL Căpreni nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 68/2025 privind aprobarea asigurării spațiul necesar pentru colectarea separată a deșeurilor periculoase și voluminoase provenite de la populație",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232561",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-69-2025",
+   "path": "local/gorj/capreni/2025/69",
+   "short": "HCL Căpreni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 69/2025 privind declararea de utilitate publică și de interes public local a obiectivului de investiție „Amenajare Cismele Publice, sat Brătești”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232566",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-7-2025",
+   "path": "local/gorj/capreni/2025/7",
+   "short": "HCL Căpreni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 7/2025 privind aprobarea utilizarii excedentului bugetului local pe anul 2024",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/207997",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/207997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-70-2025",
+   "path": "local/gorj/capreni/2025/70",
+   "short": "HCL Căpreni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 70/2025 privind colaborarea cu Școala Populară de Arte ,,Constantin Brancuși ,, Târgu Jiu pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232573",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-71-2025",
+   "path": "local/gorj/capreni/2025/71",
+   "short": "HCL Căpreni nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 71/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/232582",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/232582",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--capreni-73-2025",
    "path": "local/gorj/capreni/2025/73",
    "short": "HCL Căpreni nr. 73/2025",
@@ -88,6 +763,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/capreni-gj/registru-hcl/244655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-8-2025",
+   "path": "local/gorj/capreni/2025/8",
+   "short": "HCL Căpreni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 8/2025 privind modificarea anexei la hotărârea nr. 62/19.11.2023 privind participarea Comunei Căpreni la “Programul-cheie 1: Surse regenerabile de energie și stocarea energiei din Fondul pentru modernizare – Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice”, implementarea proiectului și aprobarea cheltuielilor legate de proiectul cu titlul “ ÎNFIINȚAREA UNEI CAPACITĂȚI DE PRODUCȚIE A ENERGIEI ELECTRICE DIN SURSĂ SOLARĂ PENTRU ACOPERIREA CONSUMULUI PROPRIU ÎN COMUNA CĂPRENI, JUDEȚUL GORJ “",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/207998",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/207998",
      "sha256": null
     }
    ]
@@ -238,6 +928,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/capreni-gj/registru-hcl/244665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-9-2025",
+   "path": "local/gorj/capreni/2025/9",
+   "short": "HCL Căpreni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 9/2025 privind aprobarea Strategiei anuale de achiziții publice și a Programului anual de achiziții publice la nivelul comunei Căpreni, județul Gorj pe anul 2025",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/207999",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/207999",
      "sha256": null
     }
    ]

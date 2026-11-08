@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/ghimbav/2018",
+"acts": [
+{
+"slug": "hcl-brasov--ghimbav-170-2018",
+"path": "local/brasov/ghimbav/2018/170",
+"kind": "local",
+"year": "2018",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 170/2018 privind norAnAnn A coNSrLruLUt LocAL stabirirea taxcror gi impoziteror locare pentru anur fiscar 2rrg ,l'riii,.';,;i,;l]i il.t',,,;;;;l;,i il pmIcnorrrerec'catm2uol1ncod5r.Ldo1vcuci2oedlroA0uinzics0nsidrn1idircerrr'diirpeuriocnctrddupuierf5rcrimo'eroiouipoenccaaiccosailcltrilipidurlf.raeirercp\"r.rdricdaeo.srrcirrirL'il,earerr\"r,cgr..pgoqi,uirdeitriieilnraucavuirtiorcrenr.mGrdrcrleeo.e,hpii.rtrip:i",
+"short": "HCL Ghimbav nr. 170/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-18",
+"latest": "2018-12-18",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2018-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

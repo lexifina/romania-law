@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-9-2024",
+   "path": "local/galati/negrilesti/2024/9",
+   "short": "HCL Negrilești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 9/2024 privind aprobarea rețelei școlare de pe raza unității administrativ-teritoriale a comunei Negrilești, județul Galați pentru anul școlar 2024 - 2025",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/157064",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/157064",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

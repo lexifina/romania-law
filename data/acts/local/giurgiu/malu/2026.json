@@ -3,6 +3,28 @@
 "shard": "local/giurgiu/malu/2026",
 "acts": [
 {
+"slug": "hcl-giurgiu--malu-1-2026",
+"path": "local/giurgiu/malu/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 1/2026 privind acoperirea definitivă a deficitului bugetar pentru anul 2025 din excedentul anilor precedenți",
+"short": "HCL Malu nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253065",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-giurgiu--malu-2-2026",
 "path": "local/giurgiu/malu/2026/2",
 "kind": "local",

@@ -3,6 +3,171 @@
  "shard": "local/giurgiu/varasti/2020",
  "acts": [
   {
+   "slug": "hcl-giurgiu--varasti-1-2020",
+   "path": "local/giurgiu/varasti/2020/1",
+   "short": "HCL Vărăști nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 1/2020 privind aprobarea incheierii conturilor anuale de executie la finele anului 2019 la sectiunea de functionare si de dezvoltare",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1346",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-11-2020",
+   "path": "local/giurgiu/varasti/2020/11",
+   "short": "HCL Vărăști nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 11/2020 privind rectificarea bugetului local anul 2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1356",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-13-2020",
+   "path": "local/giurgiu/varasti/2020/13",
+   "short": "HCL Vărăști nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 13/2020 privind ”INFIINTAREA DISTRIBUTIEI GAZE NATURALE IN COMUNA VARASTI, JUDETUL GIURGIU”",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1358",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-14-2020",
+   "path": "local/giurgiu/varasti/2020/14",
+   "short": "HCL Vărăști nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 14/2020 privind modificarea si completarea caietului de sarcini, anexa nr. 2 la HCL nr. 48/28.11.2019",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/4824",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/4824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-15-2020",
+   "path": "local/giurgiu/varasti/2020/15",
+   "short": "HCL Vărăști nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 15/2020 privind modificarea pozitiilor 8 si 9 din inventarul terenurilor domeniului public",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/4825",
+   "versions": [
+    {
+     "from": "2020-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/4825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-16-2020",
+   "path": "local/giurgiu/varasti/2020/16",
+   "short": "HCL Vărăști nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 16/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/4846",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/4846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-18-2020",
+   "path": "local/giurgiu/varasti/2020/18",
+   "short": "HCL Vărăști nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 18/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/4848",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/4848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-19-2020",
+   "path": "local/giurgiu/varasti/2020/19",
+   "short": "HCL Vărăști nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 19/2020 privind aprobarea nivelului minim al redevenței pentru cabinete medicale",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/4849",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/4849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-2-2020",
+   "path": "local/giurgiu/varasti/2020/2",
+   "short": "HCL Vărăști nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 2/2020 privind utilizarea sumei de 955.659,55 lei pentru acoperirea definitiva a deficitului sectiunii de dezvoltare la finele anului 2019",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1347",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-21-2020",
+   "path": "local/giurgiu/varasti/2020/21",
+   "short": "HCL Vărăști nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 21/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/8035",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/8035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-23-2020",
+   "path": "local/giurgiu/varasti/2020/23",
+   "short": "HCL Vărăști nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 23/2020 privind aprobarea planului pentru asigurarea resurselor destinate situațiilor de urgență",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/8037",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/8037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-34-2020",
    "path": "local/giurgiu/varasti/2020/34",
    "short": "HCL Vărăști nr. 34/2020",
@@ -88,6 +253,21 @@
      "from": "2020-11-20",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/31895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-4-2020",
+   "path": "local/giurgiu/varasti/2020/4",
+   "short": "HCL Vărăști nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 4/2020 privind stabilirea taxei de salubrizare incepand cu luna ianuarie 2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1349",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1349",
      "sha256": null
     }
    ]
@@ -243,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--varasti-5-2020",
+   "path": "local/giurgiu/varasti/2020/5",
+   "short": "HCL Vărăști nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 5/2020 privind aprobarea retelei scolare a unitatilor de invatamant de pe raza comunei Varasti, judetul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1350",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-50-2020",
    "path": "local/giurgiu/varasti/2020/50",
    "short": "HCL Vărăști nr. 50/2020",
@@ -298,6 +493,51 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/31909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-7-2020",
+   "path": "local/giurgiu/varasti/2020/7",
+   "short": "HCL Vărăști nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 7/2020 privind aprobarea Regulamentului aplicabil inchirierii prin licitatie publica a bunurilor imobile care apartin domeniul public si privat al comunei Varasti, judetul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1352",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-8-2020",
+   "path": "local/giurgiu/varasti/2020/8",
+   "short": "HCL Vărăști nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 8/2020 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2020 si estimari pentru anii 2021-2023",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1353",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-9-2020",
+   "path": "local/giurgiu/varasti/2020/9",
+   "short": "HCL Vărăști nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 9/2020 privind inscrierea unui teren in inventarul bunurilor care alcatuiesc domeniului privat al comunei Varasti, judetul Giurgiu",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/1354",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/1354",
      "sha256": null
     }
    ]

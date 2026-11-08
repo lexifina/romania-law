@@ -3,6 +3,216 @@
  "shard": "local/hunedoara/certeju-de-sus/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--certeju-de-sus-1-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/1",
+   "short": "HCL Certeju de Sus nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 1/2026 privind participarea Școlii Gimnaziale Certeju de Sus la Programul național „MASĂ SĂNĂTOASĂ” în anul 2026, stabilirea tipului de suport alimentar și aprobarea modalității distribuirii mesei calde pentru elevi și preșcolar",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/248822",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/248822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-13-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/13",
+   "short": "HCL Certeju de Sus nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 13/2026 privind revocarea HCL nr.4/2026 privind modulul de valorificare a masei lemnoase din fondul forestier proprietatea publică a comunei Certeju de Sus pe anul 2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/263779",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/263779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-14-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/14",
+   "short": "HCL Certeju de Sus nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 14/2026 privind modul de valorificare a masei lemnoase din fondul forestier proprietatea publică a comunei Certeju de Sus pe anul 2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/263780",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/263780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-15-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/15",
+   "short": "HCL Certeju de Sus nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 15/2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/263782",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/263782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-16-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/16",
+   "short": "HCL Certeju de Sus nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 16/2026 privind aprobarea taxei de închiriere a unui utilaj aflat în patrimoniul Comunei Certeju de Sus, Județul Hunedoara începând cu data de 01.04.2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/263783",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/263783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-17-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/17",
+   "short": "HCL Certeju de Sus nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 17/2026 privind aprobarea înființării compartimentului așezăminte culturale, Cămine culturale comuna Certeju de Sus, județul Hunedoara",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/266895",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/266895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-19-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/19",
+   "short": "HCL Certeju de Sus nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 19/2026 privind aprobarea Planului de Achiziții al Proiectului „Canalizare menajera în localitățile Bocșa Mica și Hondol, comuna Certeju de Sus, județul Hunedoara”",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/266902",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/266902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-2-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/2",
+   "short": "HCL Certeju de Sus nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 2/2026 privind aprobarea contului anual de execuție a bugetului local al comunei Certeju de Sus, județul Hunedoara pentru anul 2025",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/253389",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/253389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-20-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/20",
+   "short": "HCL Certeju de Sus nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 20/2026 privind aprobarea devizului general revizuit al obiectivului de investiții „Canalizare menajeră în localitățile Bocșa mică și Hondol, comuna Certeju de Sus, județul Hunedoara” și indicatorii tehnico economici revizuiți ai oniectivului de investiții",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/266903",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/266903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-21-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/21",
+   "short": "HCL Certeju de Sus nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 21/2026 privind aprobarea Studiului de fezabilitate al obiectivului de investiții „Alimentare cu apă în localitățile Măgura Toplița și Săcărâmb, comuna Certeju de Sus, județul Hunedoara”",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/266904",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/266904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-23-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/23",
+   "short": "HCL Certeju de Sus nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 23/2026 privind aprobarea execuției bugetului local al comunei Certeju de Sus, județul Hunedoara pe, trimestrul I, al anului 2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/269044",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/269044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-25-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/25",
+   "short": "HCL Certeju de Sus nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 25/2026 privind folosirea excedentului bugetului local al comunei Certeju de Sus, județul Hunedoara rezultat la sfârșitul anului bugetar 2025",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/269046",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/269046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-26-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/26",
+   "short": "HCL Certeju de Sus nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 26/2026 privind aprobarea bugetului local al comunei Certeju de Sus, județul Hunedoara, pe anul 2026 și estimările anilor 2027-2029",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/269047",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/269047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-28-2026",
+   "path": "local/hunedoara/certeju-de-sus/2026/28",
+   "short": "HCL Certeju de Sus nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 28/2026 privind rectificarea prin suplimentare și modificare de alocații trimestriale a bugetului de venituri și cheltuieli la data de 21.05.2026",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/275674",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/275674",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--certeju-de-sus-34-2026",
    "path": "local/hunedoara/certeju-de-sus/2026/34",
    "short": "HCL Certeju de Sus nr. 34/2026",

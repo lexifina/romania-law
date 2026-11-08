@@ -3,6 +3,94 @@
 "shard": "local/giurgiu/ulmi/2024",
 "acts": [
 {
+"slug": "hcl-giurgiu--ulmi-3-2024",
+"path": "local/giurgiu/ulmi/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 3/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului Local de Salubrizare Ulmi ,pe anul 2023",
+"short": "HCL Ulmi nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-09",
+"latest": "2024-02-09",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/142772",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-6-2024",
+"path": "local/giurgiu/ulmi/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 6/2024 privind aprobarea bugetului local al comunei Ulmi pe anul 2024",
+"short": "HCL Ulmi nr. 6/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/143474",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-13-2024",
+"path": "local/giurgiu/ulmi/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 13/2024 privind rectificarea bugetului local al comunei Ulmi si modificarea listei de investitii",
+"short": "HCL Ulmi nr. 13/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/153331",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-17-2024",
+"path": "local/giurgiu/ulmi/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 17/2024 privind rectificarea bugetului local al comunei Ulmi si modificarea listei de investitii",
+"short": "HCL Ulmi nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/156924",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-giurgiu--ulmi-21-2024",
 "path": "local/giurgiu/ulmi/2024/21",
 "kind": "local",

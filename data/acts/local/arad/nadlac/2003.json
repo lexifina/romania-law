@@ -247,6 +247,50 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-arad--nadlac-96-2003",
+"path": "local/arad/nadlac/2003/96",
+"kind": "local",
+"year": "2003",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 96/2003 privind scutirea de la plata impozitului pe cladire si terenul aferent – str. N. Balcescu, nr. 109 a d-lui Ciul Visarion",
+"short": "HCL Nădlac nr. 96/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-10-28",
+"latest": "2003-10-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-105-2003",
+"path": "local/arad/nadlac/2003/105",
+"kind": "local",
+"year": "2003",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 105/2003 privind stabilirea criteriilor de acordare a venitului minim garantat pentru anul 2004",
+"short": "HCL Nădlac nr. 105/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-11-28",
+"latest": "2003-11-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
 }
 ]
 }

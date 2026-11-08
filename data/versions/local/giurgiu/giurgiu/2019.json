@@ -3,6 +3,36 @@
  "shard": "local/giurgiu/giurgiu/2019",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-11-2019",
+   "path": "local/giurgiu/giurgiu/2019/11",
+   "short": "HCL Giurgiu nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 11/2019 privind modificarea și completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.518/19.12.2018 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2019 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/11.pdf",
+     "sha256": "9df45ebd9bdca32e7d6ce26753404ef6ed06fe035c7fcd29c3782fba984690c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-173-2019",
+   "path": "local/giurgiu/giurgiu/2019/173",
+   "short": "HCL Giurgiu nr. 173/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 173/2019 privind completarea Hotărârii Consiliului Local nr.111 din data de 28 mai 2010 privind stabilirea taxelor pentru eliberarea copiilor de pe documentele arhivate și de pe documentele ce reprezintă informații de interes public întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/173.pdf",
+     "sha256": "d414600ee317c63433e32b5d151e4aa664e9abc8bc66401cb5a50fcfa5a1ff9e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-43-2019",
    "path": "local/giurgiu/giurgiu/2019/43",
    "short": "HCL Giurgiu nr. 43/2019",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/151/HCL-NR.-43-din-18.02.2019.pdf",
      "sha256": "e6c391dc6ca56f21cb0fd785b48c5e4fbe4af414d422f3d65e4235868b7258a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-68-2019",
+   "path": "local/giurgiu/giurgiu/2019/68",
+   "short": "HCL Giurgiu nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 68/2019 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.521 din data de 19 decembrie 2018 privind completarea Regulamentului pentru activitatea de blocare, ridicare, transport și eliberare a autovehiculelor/vehiculelor staționate, parcate neregulamentar/abandonate pe domeniul public al Municipiului Giurgiu, precum și prevederi privind respectarea normelor de parcare pe domeniul public în parcările de domiciliu/reședință sau sediu/punct de lucru, de pe raza Municipiului Giurgiu, forma consolidată, aprobată prin Hotărârea Consiliului Local al Municipiului Giurgiu nr.323 din data de 29 august 2018 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2019-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/151/68.pdf",
+     "sha256": "c57cb7f7e29d9cfe789966ae32fc840307b46a321707994958b0990a4eed9b5a"
     }
    ]
   }

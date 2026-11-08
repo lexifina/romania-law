@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2020",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-110-2020",
+"path": "local/constanta/navodari/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 110/2020 privind aprobarea detalierii Regulamentului Local de Urbanism aferent Planului Urbanistic Zonal Litoral Mamaia Nord aprobat prin HCL nr. 275/24.11.2014 si HCL nr. 302/01.08.2016",
+"short": "HCL Năvodari nr. 110/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2020/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-166-2020",
+"path": "local/constanta/navodari/2020/166",
+"kind": "local",
+"year": "2020",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 166/2020 privind aprobarea Planului Urbanistic Zonal pentru introducere teren din extravilan in intravilan pentru realizare zona de servicii, comert si locuire, Oras Navodari, Pa A348/18/1 LOT 2 si A348/18/2 LOT 2",
+"short": "HCL Năvodari nr. 166/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-07",
+"latest": "2020-08-07",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2020/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-193-2020",
+"path": "local/constanta/navodari/2020/193",
+"kind": "local",
+"year": "2020",
+"number": "193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 193/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+"short": "HCL Năvodari nr. 193/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2020/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-195-2020",
+"path": "local/constanta/navodari/2020/195",
+"kind": "local",
+"year": "2020",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 195/2020 privind aprobarea schemei de ajutor de minimis reprezentand reducerea cu 50% a impozitului pe cladiri si a impozitului pe teren prevazute de art. 456 alin. (4) si art. 464 alin. (4) din Legea 227/2015 privind Codul Fiscal cu modificarile si completarile ulterioare, la bugetul",
+"short": "HCL Năvodari nr. 195/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2020/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-212-2020",
+"path": "local/constanta/navodari/2020/212",
+"kind": "local",
+"year": "2020",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 212/2020",
+"short": "HCL Năvodari nr. 212/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

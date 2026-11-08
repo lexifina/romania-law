@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/navodari/2023",
+ "acts": [
+  {
+   "slug": "hcl-constanta--navodari-10-2023",
+   "path": "local/constanta/navodari/2023/10",
+   "short": "HCL Năvodari nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 10/2023 privind constituirea Comisiei Locale de Ordine Publica a Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/02/HCL-nr10-din-02.02.2023.pdf",
+     "sha256": "f7c9867eaef030ce728cdf44bf176f7d1e1f076d075a0b3dab4e73893c500c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-120-2023",
+   "path": "local/constanta/navodari/2023/120",
+   "short": "HCL Năvodari nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 120/2023 cu privire la aprobarea modificarii Regulamentului serviciului de alimentare cu apa si de canalizare in unitatile administrativ-teritoriale membre ale Asociatiei de Dezvoltare Intercomunitara de apa si canalizare âApa â Canal Constantaâ si in care isi desfasoara activita",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/07/HCL-nr120-din-24.07.2023.pdf",
+     "sha256": "ec3f1c594e2be1a5a595bdaad187f41879aca5fb36479fecca88bc08a9c2e72f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-139-2023",
+   "path": "local/constanta/navodari/2023/139",
+   "short": "HCL Năvodari nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 139/2023 privind aprobarea Planului Urbanistic Zonal â stabilire reglementari urbanistice: amplasare statie de betoane, cazare personal si conexe",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/07/HCL-nr139-din-24.07.2023.pdf",
+     "sha256": "527dd50a7de9690f89ac475369ba2bf0764c671ad8d7b8cd8e2dffa63c1bb1f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-143-2023",
+   "path": "local/constanta/navodari/2023/143",
+   "short": "HCL Năvodari nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 143/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/07/HCL-nr143-din-24.07.2023.pdf",
+     "sha256": "c3a4dca165548ebc0745104943b0f275f77187cc74844f628e1edea1c68d80e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-156-2023",
+   "path": "local/constanta/navodari/2023/156",
+   "short": "HCL Năvodari nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 156/2023 privind aprobarea Planului Urbanistic Zonal â pentru stabilire reglementÄri urbanistice â hale industriale, spaÈii cazare personal Èi activitÄÈi conexe",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/07/HCL-nr156-din-23.08.2023.pdf",
+     "sha256": "1898753eb1369a8073cd47c782c3520538ac9bfa0f1d0c19f208b3823a74c58e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-157-2023",
+   "path": "local/constanta/navodari/2023/157",
+   "short": "HCL Năvodari nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 157/2023 cu privire la modificare Èi completarea Anexei nr. 7 la HCL nr. 320/2022 privind stabilirea impozitelor Èi taxelor locale pentru anul 2023",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/07/HCL-nr157-din-23.08.2023.pdf",
+     "sha256": "d0b8bf76c05914a14b238a581c97f308d71e0182e6428fb3a901458927c91b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-195-2023",
+   "path": "local/constanta/navodari/2023/195",
+   "short": "HCL Năvodari nr. 195/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 195/2023 privind aprobarea Planului Urbanistic Zonal in vederea modificarii indicatorilor urbanistici, Oras Navodari, B-dul Mamaia Nord, nr. 34-34A-34B, loturi cu nr. cadastrale 111661, 121776",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/10/HCL-nr195-din-26.10.2023.pdf",
+     "sha256": "1048d16dd2e8fc7b1058f6a05345f6b1cff04db7433555fe37b464f9f5cea249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-199-2023",
+   "path": "local/constanta/navodari/2023/199",
+   "short": "HCL Năvodari nr. 199/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 199/2023 cu privire la Ã®ndreptarea erorii materiale din art. 1 la HCL nr. 91/11.05.2023 cu privire la modificarea art. 13 din HCL nr. 178/20.06.2022 Èi aprobarea caietului de sarcini refÄcut",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/10/HCL-nr199-din-26.10.2023.pdf",
+     "sha256": "da280cc050af7f157e352dec5b5565fa546d4f4f6f3ef611acc18f31706d3794"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-2-2023",
+   "path": "local/constanta/navodari/2023/2",
+   "short": "HCL Năvodari nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 2/2023 privind modificarea Èi completarea HCL nr. 320/22.12.2022 privind stabilirea nivelului impozitelor Èi taxelor locale pentru anul 2023 Ã®n oraÈul NÄvodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/02/HCL-nr2-din-13.01.2023.pdf",
+     "sha256": "26c74cf7a9d573f6333e96429e79c9df7465ed557fe2938d32aeed8bb69e832b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-210-2023",
+   "path": "local/constanta/navodari/2023/210",
+   "short": "HCL Năvodari nr. 210/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 210/2023 privind stabilirea impozitelor si taxelor locale pentru anul 2024",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr210-din-20.12.2023.pdf",
+     "sha256": "b28858d12ccbd89df4147cf943adddb01f82cfef507e3a80445fb814d5e844fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-211-2023",
+   "path": "local/constanta/navodari/2023/211",
+   "short": "HCL Năvodari nr. 211/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 211/2023 cu privire la completarea si modificarea Regulamentului pentru instituirea taxei speciale pentru promovarea turismului in zona Mamaia Nord a orasului Navodari, aprobat prin HCL nr.324/22.12.2022",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr211-din-20.12.2023.pdf",
+     "sha256": "f35faafd5b4d25d3f94288af9fb29189b37dc2a8b14850982a349d719926cdbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-214-2023",
+   "path": "local/constanta/navodari/2023/214",
+   "short": "HCL Năvodari nr. 214/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 214/2023 privind reorganizarea aparatului de specialitate al Primarului Orasului Navodari in conformitate cu Legea nr.296 din 26 octombrie 2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare a Romaniei pe termen lung, cu modificarile si completarile",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr214-din-20.12.2023.pdf",
+     "sha256": "a6d615466b2a04942001a943278d6c73b0246bda7f51ecc5b16f1b1b11a5cf95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-217-2023",
+   "path": "local/constanta/navodari/2023/217",
+   "short": "HCL Năvodari nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 217/2023 cu privire la aprobarea ajustarii tarifului de depozitare si neutralizare a deseurilor menajere si asimilate",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr217-din-20.12.2023.pdf",
+     "sha256": "42172de8789a466c4a6322c92f0b573c4400b1061fd3a3913707b1c9dc763c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-218-2023",
+   "path": "local/constanta/navodari/2023/218",
+   "short": "HCL Năvodari nr. 218/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 218/2023 privind prelungirea valabilitatii Planului Urbanistic General (P.U.G) al orasului Navodari aprobat prin HCL nr.42/25.08.1994 si a Regulamentului de Urbanism aferent PUG etapa II a, aprobat prin HCL nr.69/12.05.2004 pana la intrarea in vigoare a noului Plan Urbanistic General",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr218-din-20.12.2023.pdf",
+     "sha256": "202199c38780b55c4f379ed9db5e63733d05d12c94f07a1e12fc5165152a8915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-228-2023",
+   "path": "local/constanta/navodari/2023/228",
+   "short": "HCL Năvodari nr. 228/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 228/2023 privind aprobarea Planului Urbanistic Zonal in vederea modificarii indicatorilor urbanistici cu scopul obtinerii unui regim de inaltime mai mare D+P+11E",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr228-din-20.12.2023.pdf",
+     "sha256": "ec1b43c4e57f028d7e820109f21df3771f91a10a9557926bdc43fed44a68d9d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-230-2023",
+   "path": "local/constanta/navodari/2023/230",
+   "short": "HCL Năvodari nr. 230/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 230/2023 privind aprobarea documentatiei de urbanism âReactualizare PUZ ANSAMBLU LOCUINTE PARCELA A 277/77 âinvestitor SC MANHATTANÂ DEVELOPMENT SRL",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/12/HCL-nr230-din-20.12.2023.pdf",
+     "sha256": "910c1c694f71da019db9f3113a4fb65f1f718a4eb4914402143c2af0577257e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-50-2023",
+   "path": "local/constanta/navodari/2023/50",
+   "short": "HCL Năvodari nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 50/2023 privind aprobarea Regulamentului de acordare a ajutoarelor de urgenta din bugetul local al Orasului Navodari",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/03/HCL-nr50-din-07.03.2023.pdf",
+     "sha256": "a7afa3c7839d4c9be5b544aedf28a3febea48936c0a9c50ff61484fe082322af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-83-2023",
+   "path": "local/constanta/navodari/2023/83",
+   "short": "HCL Năvodari nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 83/2023 privind aprobarea Planului Urbanistic Zonal pentru stabilire reglementari urbanistice, oras Navodari, str. D25 LOT 1, LOT 1/1 cu numere cadastrale 122104 si 122105",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/05/HCL-nr83-din-11.05.2023.pdf",
+     "sha256": "d8e98e1e43d8e04ea994935938484671d8820ca15f8a605d617cdaeafe555ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--navodari-91-2023",
+   "path": "local/constanta/navodari/2023/91",
+   "short": "HCL Năvodari nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 91/2023 cu privire la modificarea art. 13 din HCL nr. 178/20.06.2022 Èi aprobarea caietului de sarcini refÄcut",
+   "url": "https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primaria-navodari.ro/wp-content/uploads/2023/05/HCL-nr91-din-11.05.2023.pdf",
+     "sha256": "fab07096bac8e518279cf658a39c9dea104e3ae3e108506d7598100776b67692"
+    }
+   ]
+  }
+ ]
+}

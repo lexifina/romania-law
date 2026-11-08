@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--giurgiu-437-2015",
+   "path": "local/giurgiu/giurgiu/2015/437",
+   "short": "HCL Giurgiu nr. 437/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 437/2015 cu privire la modificarea Hotărârii Consiliu Local nr.63 din 28 februarie 2013 și reglementarea taxelor anuale pentru utilizarea domeniului public și a domeniului privat al Municipiului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/437-modificare-HCL-63-1.pdf",
+     "sha256": "330a3ca05cc53e001c26baf733481d7842282873a087bf2292e15579fce4ce52"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-454-2015",
    "path": "local/giurgiu/giurgiu/2015/454",
    "short": "HCL Giurgiu nr. 454/2015",
@@ -209,6 +224,36 @@
      "units": 1,
      "source_url": "https://primariagiurgiu.ro/storage/formidable/193/462-modificare-454-1.pdf",
      "sha256": "7e8a99a80caa2e48b4edbe6e20fda8ffed5f15e2c4aaab41ddbf49982d0369b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-472-2015",
+   "path": "local/giurgiu/giurgiu/2015/472",
+   "short": "HCL Giurgiu nr. 472/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 472/2015 privind completarea Hotărârii Consiliului Local nr.384 din data de 04 noiembrie 2015 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2016 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/472-completare-384-1.pdf",
+     "sha256": "44a78c2a09039867feeb3004f514bace237c725e9595af1fd1e6933f72770776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-473-2015",
+   "path": "local/giurgiu/giurgiu/2015/473",
+   "short": "HCL Giurgiu nr. 473/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 473/2015 privind modificarea Hotărârii Consiliului Local nr.385 din data de 04 noiembrie 2015 privind taxa de habitat pentru persoanele fizice începând cu anul 2016 întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/473-modificare-385-1.pdf",
+     "sha256": "9e797aa084ec3fc3bf74eb4f3d44e34b23e187dc2f166504fc38b9dd41fd560e"
     }
    ]
   },

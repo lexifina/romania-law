@@ -3,6 +3,246 @@
  "shard": "local/galati/scanteiesti/2021",
  "acts": [
   {
+   "slug": "hcl-galati--scanteiesti-1-2021",
+   "path": "local/galati/scanteiesti/2021/1",
+   "short": "HCL Scânteiești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 1/2021 privind aprobarea execuţiei bugetelor pe cele două secţiuni pentru trimestrul IV 2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/18960",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/18960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-10-2021",
+   "path": "local/galati/scanteiesti/2021/10",
+   "short": "HCL Scânteiești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 10/2021 privind darea în folosinţă gratuită a unui spaţiu de 10 mp în vederea încheierii unui contract de comodat cu CASA DE AJUTOR RECIPROC A PENSIONARILOR GALATI",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21523",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-11-2021",
+   "path": "local/galati/scanteiesti/2021/11",
+   "short": "HCL Scânteiești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 11/2021 privind aprobarea sumei necesare pentru achiziţia de servicii de management pentru proiectul ”Achiziție scenă necesară desfăşurării activităților culturale şi sociale în aer liber în comuna Scânteieşti, județul Galați”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21524",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-12-2021",
+   "path": "local/galati/scanteiesti/2021/12",
+   "short": "HCL Scânteiești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 12/2021 privind preluarea bunurilor care aparţin Sistemului de alimentare cu apă al Comunei Scânteieşti de la APACAN SCINTEIESTI SRL, în vederea delegării gestiunii acestora către Operatorul Regional „Apă Canal SA Galaţi”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21525",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-13-2021",
+   "path": "local/galati/scanteiesti/2021/13",
+   "short": "HCL Scânteiești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 13/2021 privind delegarea gestiunii serviciului public de alimentare cu apă al Comunei Scânteieşti, judeţul Galaţi către Operatorul Regional „Apă Canal SA Galaţi”, aprobarea Studiului de oportunitate, a Caietului de sarcini, a Regulamentului Serviciului public de alimentare cu apă al comunei Scânteieşti, a Contractului de delegare a gestiunii Serviciului public de alimentare cu apă al comunei Scânteieşti, precum și a listei bunurilor aferente sistemului de alimentare cu apă",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21526",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-14-2021",
+   "path": "local/galati/scanteiesti/2021/14",
+   "short": "HCL Scânteiești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 14/2021 privind aprobarea Planului anual de evolutie a tarifelor la apă și canalizare pentru implementarea “Proiectului regional de dezvoltare a infrastructurii de apă și apa uzată în județul Galați ”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21527",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-15-2021",
+   "path": "local/galati/scanteiesti/2021/15",
+   "short": "HCL Scânteiești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 15/2021 privind participarea comunei Scânteieşti, judeţul Galaţi cu capital social în cuantum de 2500 lei la capitalul social al Operatorul Regional „Apă Canal SA Galaţi”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21528",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-16-2021",
+   "path": "local/galati/scanteiesti/2021/16",
+   "short": "HCL Scânteiești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 16/2021 privind aprobarea contului anual de execuţie a bugetelor, a situaţiilor financiare şi anexelor pe anul 2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21529",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-17-2021",
+   "path": "local/galati/scanteiesti/2021/17",
+   "short": "HCL Scânteiești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 17/2021 privind aprobarea contului anual de execuţie a bugetelor, a situaţiilor financiare şi anexelor pe anul 2020",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21530",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-18-2021",
+   "path": "local/galati/scanteiesti/2021/18",
+   "short": "HCL Scânteiești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 18/2021 privind aprobarea bugetului general al unităţii administrativ teritoriale Comuna Scânteieşti, cu bugetele componente ale acestuia precum şi programul de investiţii publice locale pe anul 2021 şi estimările pentru anii 2022-2024",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38126",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-19-2021",
+   "path": "local/galati/scanteiesti/2021/19",
+   "short": "HCL Scânteiești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 19/2021 privind utilizarea excedentului bugetului local pentru finantarea secţiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38127",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-2-2021",
+   "path": "local/galati/scanteiesti/2021/2",
+   "short": "HCL Scânteiești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 2/2021 privind utilizarea excedentului bugetului local pentru acoperirea temporară a golurilor de casă a secţiunii de funcţionare pe anul 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/18961",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/18961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-20-2021",
+   "path": "local/galati/scanteiesti/2021/20",
+   "short": "HCL Scânteiești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 20/2021 privind aprobarea achiziţionării de servicii juridice de asistenţă şi reprezentare juridică a UAT Comuna Scânteieşti în vederea acţionării în instanţă a SC IRUM SA",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38128",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-21-2021",
+   "path": "local/galati/scanteiesti/2021/21",
+   "short": "HCL Scânteiești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 21/2021 privind aprobarea modificării Statului de funcţii al aparatului de specialitate al primarului Comunei Scânteieşti",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38129",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-23-2021",
+   "path": "local/galati/scanteiesti/2021/23",
+   "short": "HCL Scânteiești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 23/2021 privind aprobarea execuţiei bugetelor pe cele două secţiuni pentru trimestrul I 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38131",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-24-2021",
+   "path": "local/galati/scanteiesti/2021/24",
+   "short": "HCL Scânteiești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 24/2021 privind utilizarea excedentului bugetului local pentru acoperirea temporară a golurilor de casă ale secţiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/38132",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38132",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-25-2021",
    "path": "local/galati/scanteiesti/2021/25",
    "short": "HCL Scânteiești nr. 25/2021",
@@ -73,6 +313,21 @@
      "from": "2021-06-11",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-3-2021",
+   "path": "local/galati/scanteiesti/2021/3",
+   "short": "HCL Scânteiești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 3/2021 privind acoperirea deficitului secţiunii de dezvoltare al bugetului local pe anul 2020 din excedentul bugetului local al anilor precedenţi",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/18962",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/18962",
      "sha256": null
     }
    ]
@@ -228,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--scanteiesti-4-2021",
+   "path": "local/galati/scanteiesti/2021/4",
+   "short": "HCL Scânteiești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 4/2021 privind aprobarea Planului de acţiuni şi lucrări de interes local ce se vor realiza în anul 2021 cu beneficiarii de ajutor social",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21517",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21517",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-40-2021",
    "path": "local/galati/scanteiesti/2021/40",
    "short": "HCL Scânteiești nr. 40/2021",
@@ -298,6 +568,36 @@
      "from": "2021-09-03",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/38601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-6-2021",
+   "path": "local/galati/scanteiesti/2021/6",
+   "short": "HCL Scânteiești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 6/2021 privind aprobarea înfiinţării Subfilialei Crucea Roşie Scânteieşti, comuna Scânteieşti, judeţul Galaţi",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21519",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-8-2021",
+   "path": "local/galati/scanteiesti/2021/8",
+   "short": "HCL Scânteiești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 8/2021 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente Programului pentru Scoli al României în perioada 2017-2023 şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului, la nivelul UAT Comuna Scânteieşti, judeţul Galaţi, pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/21521",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/21521",
      "sha256": null
     }
    ]

@@ -3,6 +3,50 @@
 "shard": "local/constanta/navodari/2021",
 "acts": [
 {
+"slug": "hcl-constanta--navodari-24-2021",
+"path": "local/constanta/navodari/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 24/2021 privind aprobarea Planului Urbanistic Zonal in vederea modificarii reglementarilor urbanistice",
+"short": "HCL Năvodari nr. 24/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-25-2021",
+"path": "local/constanta/navodari/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 25/2021 privind aprobarea Planului Urbanistic Zonal in vederea modificarii idicatorilor urbanistici in vederea obtinerii unui regim de inaltime P+10E",
+"short": "HCL Năvodari nr. 25/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--navodari-36-2021",
 "path": "local/constanta/navodari/2021/36",
 "kind": "local",
@@ -91,6 +135,94 @@
 }
 },
 {
+"slug": "hcl-constanta--navodari-65-2021",
+"path": "local/constanta/navodari/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 65/2021 privind indreptarea erorii materiale dinProcedura privind aprobarea schemei de minimis reprezentand reducerea cu50% a impozitului pe cladiri si a impozitului pe teren prevazuta de art.456(4) si 464(4) din Legea 227/2015 privind Codul fiscal, aprobata prin HCL nr. 195/22.12.2020",
+"short": "HCL Năvodari nr. 65/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-67-2021",
+"path": "local/constanta/navodari/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 67/2021 privind aprobarea Regulamentului de Organizaresi Functionare a Consiliului Local al Orasului Navodari",
+"short": "HCL Năvodari nr. 67/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-123-2021",
+"path": "local/constanta/navodari/2021/123",
+"kind": "local",
+"year": "2021",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 123/2021 privind completarea Regulamentului in vederea stabilirii a unor masuri pentru buna gospodarire, pastrarea curateniei, respectarea normativelor de igiena si infrumusetare, pastrarea ordinii precum si constatarea faptelor ce constituie contraventii, respectiv Capitolul IV art. 7",
+"short": "HCL Năvodari nr. 123/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-131-2021",
+"path": "local/constanta/navodari/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 131/2021 privind aprobarea Planului Urbanistic Detaliu in vederea modificarii retragerilor constructiei fata de limitele de proprietate pentru proprietate privata reglementata urbanistic prin HCL nr.212/28.12.2020",
+"short": "HCL Năvodari nr. 131/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
 "slug": "hcl-constanta--navodari-135-2021",
 "path": "local/constanta/navodari/2021/135",
 "kind": "local",
@@ -110,6 +242,204 @@
 "council_name": "Consiliul Local al Orașului Năvodari",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-constanta--navodari-287-2021",
+"path": "local/constanta/navodari/2021/287",
+"kind": "local",
+"year": "2021",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 287/2021 privind stabilirea impozitelor si taxelor locale pentru anul 2022",
+"short": "HCL Năvodari nr. 287/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-292-2021",
+"path": "local/constanta/navodari/2021/292",
+"kind": "local",
+"year": "2021",
+"number": "292",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 292/2021 cu privire la aprobarea Regulamentului privind comercializarea produselor si serviciilor de piata pe teritoriul administrativ al Orasului Navodari",
+"short": "HCL Năvodari nr. 292/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-293-2021",
+"path": "local/constanta/navodari/2021/293",
+"kind": "local",
+"year": "2021",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 293/2021 privind modificarea anexei la Hotararea Consiliului Local nr. 348/06.11.2015 privind Strategia tarifara pentru perioada 2021-2029",
+"short": "HCL Năvodari nr. 293/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-301-2021",
+"path": "local/constanta/navodari/2021/301",
+"kind": "local",
+"year": "2021",
+"number": "301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 301/2021 privind aprobarea Planului Urbanistic Zonal in vederea introducerii terenului in intravilan industrial pentru investitiile cladiri industriale, depozitare, ateliere, garaje, service auto, functiuni agricole si cladiri birouri",
+"short": "HCL Năvodari nr. 301/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-302-2021",
+"path": "local/constanta/navodari/2021/302",
+"kind": "local",
+"year": "2021",
+"number": "302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 302/2021 privind aprobarea Planului Urbanistic Zonal âConstruire Complex â hotel, aparthotel, locuinte colective si functiuni conexeâ, situat in Orasul Navodari, str. D25, Prelungirea D17, Prelungirea D18 si Promenada Navodari, Mamaia Nord TRUP 5",
+"short": "HCL Năvodari nr. 302/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-03",
+"latest": "2021-12-03",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-310-2021",
+"path": "local/constanta/navodari/2021/310",
+"kind": "local",
+"year": "2021",
+"number": "310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 310/2021 cu privire la aprobarea atribuirii directe a gestiunii serviciului public specializat pentru gestionarea cainilor fara stapan din Orasul Navodari",
+"short": "HCL Năvodari nr. 310/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-313-2021",
+"path": "local/constanta/navodari/2021/313",
+"kind": "local",
+"year": "2021",
+"number": "313",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 313/2021 privind aprobarea Planului Urbanistic Zonal in vederea modificarii indicatorilor urbanistici in scopul obtinerii unui regim de inaltime S+P+11E",
+"short": "HCL Năvodari nr. 313/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-314-2021",
+"path": "local/constanta/navodari/2021/314",
+"kind": "local",
+"year": "2021",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 314/2021 privind aprobarea Planului Urbanistic Zonal in vederea modificarii indicatorilor urbanistici in scopul obtinerii unui regim de inaltime mai mare (P+10E)",
+"short": "HCL Năvodari nr. 314/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-constanta--navodari-315-2021",
+"path": "local/constanta/navodari/2021/315",
+"kind": "local",
+"year": "2021",
+"number": "315",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 315/2021 cu privire la Ã®ncheierea unui act adiÈional la contractul de prestÄri servicii nr. 5/14.12.1994 pentru depozitare Èi neutralizare deÈeuri pentru modificarea tarifului de depozitare Èi neutralizare a deÈeurilor menajare Èi asimilate",
+"short": "HCL Năvodari nr. 315/2021",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://www.primaria-navodari.ro/hotarari-ale-consiliului-local-2021/",
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_pending": "ocr"
 }
 }
 ]

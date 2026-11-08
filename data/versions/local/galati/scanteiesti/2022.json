@@ -3,6 +3,726 @@
  "shard": "local/galati/scanteiesti/2022",
  "acts": [
   {
+   "slug": "hcl-galati--scanteiesti-1-2022",
+   "path": "local/galati/scanteiesti/2022/1",
+   "short": "HCL Scânteiești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 1/2022 privind aprobarea execuției bugetelor pe cele două secțiuni pentru trimestrul IV 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61343",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-10-2022",
+   "path": "local/galati/scanteiesti/2022/10",
+   "short": "HCL Scânteiești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 10/2022 privind utilizarea excedentului bugetului local pentru finanţarea secţiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61377",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-11-2022",
+   "path": "local/galati/scanteiesti/2022/11",
+   "short": "HCL Scânteiești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 11/2022 privind modificarea HCL nr. 62/29.10.2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții ,,Înființare sistem centralizat de canalizare menajeră în satul Scânteiești , extindere sistem centralizat de canalizare menajeră în satul Fântânele, modernizare gospodărie de apă în satul Fântânele și modernizare sistem de captare a apei, comuna Scânteiești, județul Galați”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61378",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-12-2022",
+   "path": "local/galati/scanteiesti/2022/12",
+   "short": "HCL Scânteiești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 12/2022 privind utilizarea excedentului bugetului local pentru finanţarea secţiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61379",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-13-2022",
+   "path": "local/galati/scanteiesti/2022/13",
+   "short": "HCL Scânteiești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 13/2022 privind aprobarea bugetului general al unităţii administrativ teritoriale Comuna Scânteieşti, cu bugetele componente ale acestuia precum şi programul de investiţii publice locale pe anul 2022 şi estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61380",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-15-2022",
+   "path": "local/galati/scanteiesti/2022/15",
+   "short": "HCL Scânteiești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 15/2022 privind aprobarea studiului de oportunitate privind concesiune teren/asociere în participaţiune pentru dezvoltarea unui parc eolian",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61382",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-17-2022",
+   "path": "local/galati/scanteiesti/2022/17",
+   "short": "HCL Scânteiești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 17/2022 privind utilizarea excedentului bugetului local pentru finanţarea secţiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61400",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-18-2022",
+   "path": "local/galati/scanteiesti/2022/18",
+   "short": "HCL Scânteiești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 18/2022 privind rectificarea bugetului general al unităţii administrativ teritoriale Comuna Scânteieşti, cu bugetele componente ale acestuia precum şi programul de investiţii publice locale pe anul 2022 şi estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61401",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-19-2022",
+   "path": "local/galati/scanteiesti/2022/19",
+   "short": "HCL Scânteiești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 19/2022 privind aprobare PUZ (Plan Urbanistic Zonal) ” Construire ansamblu eolian Foltești format din maxim 8 turbine eoliene cu o capacitate totalã maximã de 29,50MW, numite WTG22-WTG29; construire drum de acces din drumurile de exploatare; întãrire drumuri DE 168, DE 312, DE 170, DE 24, DE 24/1, DE 257/1, DE 156 și DC 30 pemtru transport elemente turbine și material de construcţii; construire platformã macara; construire puncta de conexiune și record; organizare de șantier.”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61402",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-2-2022",
+   "path": "local/galati/scanteiesti/2022/2",
+   "short": "HCL Scânteiești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 2/2022 privind acoperirea deficitului secțiunii de funcționare pe sursa E al bugetului local pe anul 2021 din excedentul anilor precedenți",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61344",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-20-2022",
+   "path": "local/galati/scanteiesti/2022/20",
+   "short": "HCL Scânteiești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 20/2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61403",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-21-2022",
+   "path": "local/galati/scanteiesti/2022/21",
+   "short": "HCL Scânteiești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 21/2022 privind aprobarea serviciilor de consultanţă şi realizarea Studiului de Fezabilitate pentru obiectivul de investiții „INFIINTAREA SISTEMULUI INTELIGENT DE DISTRIBUȚIE A GAZELOR NATURALE ÎN COMUNA SCANTEIESTI JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61404",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-23-2022",
+   "path": "local/galati/scanteiesti/2022/23",
+   "short": "HCL Scânteiești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 23/2022 privind schimbarea categoriei de folosinţă din vie în arabil a terenului în suprafaţă de 12,3947 ha teren aparţinând domeniului privat al Comunei Scânteieşti",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61406",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-24-2022",
+   "path": "local/galati/scanteiesti/2022/24",
+   "short": "HCL Scânteiești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 24/2022 privind modificarea şi completarea inventarului domeniului public al Comunei Scânteiesti, aprobat prin HCL nr. 27/04.06.2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61407",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-25-2022",
+   "path": "local/galati/scanteiesti/2022/25",
+   "short": "HCL Scânteiești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 25/2022 privind actualizarea comisiei de analiză a solicitărilor de locuinţe din fondul locativ aflate în administrarea Comunei Scânteieşti",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61408",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-26-2022",
+   "path": "local/galati/scanteiesti/2022/26",
+   "short": "HCL Scânteiești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 26/2022 privind utilizarea excedentului bugetului local pentru finantarea sectiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131668",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-27-2022",
+   "path": "local/galati/scanteiesti/2022/27",
+   "short": "HCL Scânteiești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 27/2022 privind rectificarea bugetului general al unităţii administrativ teritoriale Comuna Scânteieşti, cu bugetele componente ale acestuia precum şi programul de investiţii publice locale pe anul 2022 şi estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131669",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-28-2022",
+   "path": "local/galati/scanteiesti/2022/28",
+   "short": "HCL Scânteiești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 28/2022 privind aprobarea contului anual de execuţie a bugetelor, a situaţiilor financiare şi anexelor pe anul 2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131670",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-29-2022",
+   "path": "local/galati/scanteiesti/2022/29",
+   "short": "HCL Scânteiești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 29/2022 privind aprobarea depunerii proiectului „EFICIENTIZAREA ENERGETICĂ CĂMIN CULTURAL ȘI BIBLIOTECĂ ÎN SAT SCÂNTEIEȘTI, COM. SCÂNTEIEȘTI, JUD. GALAȚI” și a cheltuielilor pentru realizarea acestuia",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131687",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-3-2022",
+   "path": "local/galati/scanteiesti/2022/3",
+   "short": "HCL Scânteiești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 3/2022 privind acoperirea deficitului secțiunii de dezvoltyare al bugetului local pe anul 2021 din excedentul anilor precedenți",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61345",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-30-2022",
+   "path": "local/galati/scanteiesti/2022/30",
+   "short": "HCL Scânteiești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 30/2022 privind aprobarea proiectului „EFICIENTIZARE ENERGETICĂ SEDIU ADMINISTRATIV ÎN SAT FÂNTÂNELE, COM. SCÂNTEIEȘTI, JUD. GALAȚI” și a cheltuielilor pentru realizarea acestuia",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131688",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-31-2022",
+   "path": "local/galati/scanteiesti/2022/31",
+   "short": "HCL Scânteiești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 31/2022 privind aprobarea parteneriatului pentru proiectul „ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE PE TERITORUL COMUNELOR BĂLENI, CUCA, FRUMUȘIȚA, REDIU, SCÂNTEIEȘTI ȘI SUHURULUI, JUDEȚUL GALAȚI”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131689",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-32-2022",
+   "path": "local/galati/scanteiesti/2022/32",
+   "short": "HCL Scânteiești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 32/2022 privind aprobarea Cererii de finanțare și a Devizului general estimativ a obiectivului de investiții „ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE PE TRITORIUL COMUNELOR BĂLENI, CUCA, FRUMUȘIȚA, REDIU, SCÂNTEIEȘTI ȘI SUHURULUI , JUDEȚUL GALAȚI” pentru finanțare acestuia în cadrul Programului Național de Investiții „ANGHEL SALIGNY”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131690",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-33-2022",
+   "path": "local/galati/scanteiesti/2022/33",
+   "short": "HCL Scânteiești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 33/2022 privind aprobarea cuantumului și a numărului de burse care se acordă elevilor din învățământul preuniversitar de stat din Comuna Scânteiești, județul Galați, în semestrul II an școlar 2021-2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131691",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-34-2022",
+   "path": "local/galati/scanteiesti/2022/34",
+   "short": "HCL Scânteiești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 34/2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131692",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-36-2022",
+   "path": "local/galati/scanteiesti/2022/36",
+   "short": "HCL Scânteiești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 36/2022 privind aprobarea depunerii proiectului ”EFICIENTIZARE ENERGETICĂ SEDIU ADMINISTRATIV ÎN SAT FÂNTÂNELE, COM. SCÂNTEIEȘTI, JUD. GALAȚI”, și a cheltuielilor pentru realizarea acestuia",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131694",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-38-2022",
+   "path": "local/galati/scanteiesti/2022/38",
+   "short": "HCL Scânteiești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 38/2022 privind aprobarea execuției bugetelor pe cele două secțiuni pentru trimestrul I-2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131698",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-39-2022",
+   "path": "local/galati/scanteiesti/2022/39",
+   "short": "HCL Scânteiești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 39/2022 privind actualizarea devizului general prin ajustarea prețului potrivit prevederilor Ordonanței de Urgență nr. 47/14.04.2022, pentru investiția „Inființare sistem canalizare și stație de epurare apă uzată în comuna Scânteiești, județul Galați”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131699",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-4-2022",
+   "path": "local/galati/scanteiesti/2022/4",
+   "short": "HCL Scânteiești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 4/2022 privind utilizarea excedentului bugetului local pentru acoperirea temporară a golurilor de casă a secțiunii de funcționare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61346",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-40-2022",
+   "path": "local/galati/scanteiesti/2022/40",
+   "short": "HCL Scânteiești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 40/2022 privind aprobarea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131700",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-43-2022",
+   "path": "local/galati/scanteiesti/2022/43",
+   "short": "HCL Scânteiești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 43/2022 privind aprobarea achiziționării de servicii juridice de asistență și reprezentare juridică a UAT Comuna Scânteiești în vederea formulării de acțiuni împotriva Deciziei nr. 66027/15.06.2022 aferentă investiției „Dotarea unitățiilor de învățământ din Comuna Scânteiești, județul Galați cu echipamente electronice",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131709",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-44-2022",
+   "path": "local/galati/scanteiesti/2022/44",
+   "short": "HCL Scânteiești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 44/2022 privind actualizarea devizului general prin ajustarea prețului potrivit prevederilor Ordonanței de Urgență nr. 47/14.04.2022, pentru investiția „Extindere și modernizare rețea apă în Comuna Scânteiești”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131710",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-45-2022",
+   "path": "local/galati/scanteiesti/2022/45",
+   "short": "HCL Scânteiești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 45/2022 privind utilizarea excedentului bugetului local pentru finanțarea secțiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131711",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-46-2022",
+   "path": "local/galati/scanteiesti/2022/46",
+   "short": "HCL Scânteiești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 46/2022 privind rectificarea bugetului general al unității administrativ teritoriale Comuna Scânteiești, cu bugetele componente ale acestuia precum și programul de investiții publice locale pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131712",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-48-2022",
+   "path": "local/galati/scanteiesti/2022/48",
+   "short": "HCL Scânteiești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 48/2022 privind aprobarea execuției bugetelor pe cele două secțiuni trimestrul II-2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131714",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-49-2022",
+   "path": "local/galati/scanteiesti/2022/49",
+   "short": "HCL Scânteiești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 49/2022 privind utilizarea excedentului bugetului local pentru finanțarea secțiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131715",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-5-2022",
+   "path": "local/galati/scanteiesti/2022/5",
+   "short": "HCL Scânteiești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 5/2022 privind aprobarea Planului de acșiuni și lucrări de interes local ce se vor realiza în anul 2022 cu beneficiarii de ajutor social",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61358",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-50-2022",
+   "path": "local/galati/scanteiesti/2022/50",
+   "short": "HCL Scânteiești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 50/2022 privind rectificarea bugetului general al unității administrativ teritoriale Comuna Scânteiești, cu bugetele componente ale acestuia precum și programul de investiții publice locale pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131716",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-51-2022",
+   "path": "local/galati/scanteiesti/2022/51",
+   "short": "HCL Scânteiești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 51/2022 privind repunerea în evidență contabilă a instalației de gaze din Comuna Scânteiești",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131717",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-53-2022",
+   "path": "local/galati/scanteiesti/2022/53",
+   "short": "HCL Scânteiești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 53/2022 privind aprobarea Studiului de fundamentare, Studiului de oportunitate pentru delegarea serviciului de operare, Documentului de poziție, delegarea serviciilor de operare, documentație de atribuire precum și acordarea unui mandat special pentru reprezentantului UAT Comuna Scânteiești în Adunarea Generală a Asociației de Dezvoltare intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131719",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-54-2022",
+   "path": "local/galati/scanteiesti/2022/54",
+   "short": "HCL Scânteiești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 54/2022 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131720",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-55-2022",
+   "path": "local/galati/scanteiesti/2022/55",
+   "short": "HCL Scânteiești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 55/2022 privind aprobarea studiului de oportunitate și fundamentare pentru delegrea gestiunii activității de operare a Centrului de Management Integral al Deșeurilor și Stației de Sortare Valea Mărului din județul Galați, delegarea serviciilor de operare, documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Scânteiești în Adunarea Generală a Asociațieii de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131721",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-56-2022",
+   "path": "local/galati/scanteiesti/2022/56",
+   "short": "HCL Scânteiești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 56/2022 privind angajarea de personal pentru compartimentele financiare -contabil și asistență socială prin Filiala Județeană Galați a Asociației Comunelor din România, în baza Acordurilor de cooperare",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131722",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-57-2022",
+   "path": "local/galati/scanteiesti/2022/57",
+   "short": "HCL Scânteiești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 57/2022 privind revocarea HCL nr. 24/14.03.2022 privind modificarea și completarea inventarului domeniului public al Comunei Scânteiești, aprobat prin HCL nr. 27/04.06.2021",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131723",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-58-2022",
+   "path": "local/galati/scanteiesti/2022/58",
+   "short": "HCL Scânteiești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 58/2022 privind rectificarea bugetului general al unității administrativ teritoriale Comuna Scânteiești, cu bugetele componente ale acestuia precum și programul de investiții publice locale pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131724",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-61-2022",
+   "path": "local/galati/scanteiesti/2022/61",
+   "short": "HCL Scânteiești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 61/2022 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru proiectul „Reabilitare și dotare cămin cultural Fântânele, cvartal43, percela 955, comuna Scânteiești, județul Galați”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131727",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-63-2022",
+   "path": "local/galati/scanteiesti/2022/63",
+   "short": "HCL Scânteiești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 63/2022 privind aprobarea realizării proiectului tehnic și execuție lucrări pentru proiectul „EFICIENTIZARE ENERGETICĂ SEDIU ADMINISTRATIV ÎN SAT FÂNTÂNELE, COM. SCÂNTEIEȘTI, JUD.GALAȚI”",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131729",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-64-2022",
+   "path": "local/galati/scanteiesti/2022/64",
+   "short": "HCL Scânteiești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 64/2022 privind aprobarea cuantumului și a numărului de burse care se acordă elevilor din învățămâtul preuniversitar de stat din Comuna Scânteiești, județul Galați",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/131730",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--scanteiesti-65-2022",
    "path": "local/galati/scanteiesti/2022/65",
    "short": "HCL Scânteiești nr. 65/2022",
@@ -223,6 +943,21 @@
      "from": "2023-12-04",
      "units": 1,
      "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/131747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--scanteiesti-8-2022",
+   "path": "local/galati/scanteiesti/2022/8",
+   "short": "HCL Scânteiești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteiești nr. 8/2022 privind aprobarea modificării indicatorilor minimi de performanţă conform Ordonanţei de Urgenţă nr.92/2021 privind regimul deşeurilor",
+   "url": "https://emol.ro/scanteiesti-gl/registru-hcl/61361",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteiesti-gl/registru-hcl/61361",
      "sha256": null
     }
    ]

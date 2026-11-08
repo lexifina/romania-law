@@ -3,6 +3,141 @@
  "shard": "local/giurgiu/varasti/2021",
  "acts": [
   {
+   "slug": "hcl-giurgiu--varasti-10-2021",
+   "path": "local/giurgiu/varasti/2021/10",
+   "short": "HCL Vărăști nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 10/2021 privind aprobare regulament utilizare locuri de joacă, parcuri, terenuri de sport din administrarea consiliului local",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31926",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-15-2021",
+   "path": "local/giurgiu/varasti/2021/15",
+   "short": "HCL Vărăști nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 15/2021 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2021 și estimările pentru anii 2022-2024",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31939",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-18-2021",
+   "path": "local/giurgiu/varasti/2021/18",
+   "short": "HCL Vărăști nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 18/2021 privind darea în administrare către Apele Române spații amplasare sirene avertivare",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31967",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-20-2021",
+   "path": "local/giurgiu/varasti/2021/20",
+   "short": "HCL Vărăști nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 20/2021 privind aprobarea numărului maxim de posturi pentru anul 2021",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31969",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-22-2021",
+   "path": "local/giurgiu/varasti/2021/22",
+   "short": "HCL Vărăști nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 22/2021 privind revocarea HCL nr6/2020",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31971",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-24-2021",
+   "path": "local/giurgiu/varasti/2021/24",
+   "short": "HCL Vărăști nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 24/2021 privind darea în folosință gratuită către SC Distrigaz",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31973",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-26-2021",
+   "path": "local/giurgiu/varasti/2021/26",
+   "short": "HCL Vărăști nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 26/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31975",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-41-2021",
+   "path": "local/giurgiu/varasti/2021/41",
+   "short": "HCL Vărăști nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 41/2021 privind actualizarea/ajustarea indicatorilor tehnico-economici pentru obiectivul de investiții „EXTINDERE REȚEA ALIMENTARR CU APĂ ÎN COMUNA VĂRĂȘTI, JUDEȚUL GIURGIU”",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/51853",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/51853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-43-2021",
+   "path": "local/giurgiu/varasti/2021/43",
+   "short": "HCL Vărăști nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 43/2021 privind aprobarea Planului operativ propriu de acțiune pe timpul iernii 2021-2022",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/51855",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/51855",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-52-2021",
    "path": "local/giurgiu/varasti/2021/52",
    "short": "HCL Vărăști nr. 52/2021",
@@ -273,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--varasti-7-2021",
+   "path": "local/giurgiu/varasti/2021/7",
+   "short": "HCL Vărăști nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 7/2021 privind aprobarea inițierii procedurii de închiriere a izlazului disponibil pentru anul 2021",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31923",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31923",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--varasti-70-2021",
    "path": "local/giurgiu/varasti/2021/70",
    "short": "HCL Vărăști nr. 70/2021",
@@ -298,6 +448,36 @@
      "from": "2021-12-30",
      "units": 1,
      "source_url": "https://emol.ro/varasti-gr/registru-hcl/51903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-8-2021",
+   "path": "local/giurgiu/varasti/2021/8",
+   "short": "HCL Vărăști nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 8/2021 privind aderarea comunei Vărăști la Asociația Comunelor din România",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31924",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-9-2021",
+   "path": "local/giurgiu/varasti/2021/9",
+   "short": "HCL Vărăști nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 9/2021 privind stabilirea unor sancțiuni și contravenții pe raza administrativ-teritorială a comunei Vărăști",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31925",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31925",
      "sha256": null
     }
    ]

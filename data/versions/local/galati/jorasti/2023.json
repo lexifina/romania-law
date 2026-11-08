@@ -3,6 +3,81 @@
  "shard": "local/galati/jorasti/2023",
  "acts": [
   {
+   "slug": "hcl-galati--jorasti-1-2023",
+   "path": "local/galati/jorasti/2023/1",
+   "short": "HCL Jorăști nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 1/2023 privind aprobarea acoperirii definitive a deficitului bugetar al secțiunii de dezvoltare din excedentul bugetului local",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125066",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-10-2023",
+   "path": "local/galati/jorasti/2023/10",
+   "short": "HCL Jorăști nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 10/2023 privind delegarea gestiunii serviciului public de alimentare cu apă al comunei Jorăști, județul Galați, către Operatorul Regional ''Apă Canal SA Galați'', aprobarea Studiului de oportunitate, a Caietului de sarcini, a Regulamentului serviciului public de alimentare cu apă, a Contractului de delegare a gestiunii serviciului de alimentare cu apă, precum și a listei bunurilor aferente sistemului de alimentare cu apă",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125084",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-13-2023",
+   "path": "local/galati/jorasti/2023/13",
+   "short": "HCL Jorăști nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 13/2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125098",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-24-2023",
+   "path": "local/galati/jorasti/2023/24",
+   "short": "HCL Jorăști nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 24/2023 privind rectificarea bugetului local al Comunei Jorăști, Județul Galați pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125109",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-26-2023",
+   "path": "local/galati/jorasti/2023/26",
+   "short": "HCL Jorăști nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 26/2023 privind rectificarea bugetului local al Comunei Jorăști, Județul Galați pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125111",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125111",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-27-2023",
    "path": "local/galati/jorasti/2023/27",
    "short": "HCL Jorăști nr. 27/2023",
@@ -193,6 +268,21 @@
      "from": "2023-10-18",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-4-2023",
+   "path": "local/galati/jorasti/2023/4",
+   "short": "HCL Jorăști nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 4/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ''Reabilitare străzi în lungime de aprox. 6,0 km în comuna Jorști, județul Galați'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125078",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125078",
      "sha256": null
     }
    ]

@@ -3,6 +3,117 @@
 "shard": "local/hunedoara/branisca/2021",
 "acts": [
 {
+"slug": "hcl-hunedoara--branisca-1-2021",
+"path": "local/hunedoara/branisca/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 1/2021 Privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiuniide dezvoltare in anul 2020",
+"short": "HCL Brănișca nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/24366",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-3-2021",
+"path": "local/hunedoara/branisca/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 3/2021 Privind aprobarea modificarisi actualizarii indicatorilor tehnico-economici prntru obiectivul de investitii ” Reabilitarea, modernizarea si doatrea Caminelor culturale din satele Branisca si Boz, Comuna Branisca , Judetul Hunedoara",
+"short": "HCL Brănișca nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-22",
+"latest": "2021-02-22",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/24635",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-4-2021",
+"path": "local/hunedoara/branisca/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 4/2021 Privind punerea in aplicare a OUG nr 74/2018 pentru modificare si completarea legii nr. 211/2011 privind regimul deseurilori a OUG nr 196/2005 privind fondul pentru mediu, prin aditionarea Contractului de delegare a gestiunii serviciului de salubrizare in zona de colectare 3 centru Barcea Mare nr. 1760/760/27.11.2018",
+"short": "HCL Brănișca nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-22",
+"latest": "2021-02-22",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/24637",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-5-2021",
+"path": "local/hunedoara/branisca/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 5/2021",
+"short": "HCL Brănișca nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-22",
+"latest": "2021-02-22",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/24636",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--branisca-6-2021",
+"path": "local/hunedoara/branisca/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 6/2021 Privind aprobarea propunerii de schimbare a destinatiei imobilului apartind domeniului public al Comunei Branisca constand in cladire Scoala Tarnava situata in sat Tarnava, Comuna Branisca, Judetul Hunedoara, din imobil cu destinatie de invatamant in imobil cu destinatia de locuinta sociala",
+"short": "HCL Brănișca nr. 6/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-24",
+"latest": "2021-03-24",
+"portal": "https://emol.ro/branisca-hd/registru-hcl/24642",
+"council": "hunedoara/branisca",
+"council_name": "Consiliul Local al Comunei Brănișca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-hunedoara--branisca-7-2021",
 "path": "local/hunedoara/branisca/2021/7",
 "kind": "local",

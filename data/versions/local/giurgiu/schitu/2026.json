@@ -3,6 +3,156 @@
  "shard": "local/giurgiu/schitu/2026",
  "acts": [
   {
+   "slug": "hcl-giurgiu--schitu-1-2026",
+   "path": "local/giurgiu/schitu/2026/1",
+   "short": "HCL Schitu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 1/2026 privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2025",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/259237",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/259237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-12-2026",
+   "path": "local/giurgiu/schitu/2026/12",
+   "short": "HCL Schitu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 12/2026 privind reorganizarea aparatul de specialitate al Primarului comunei Schitu şi aprobarea Organigramei şi a Statului de funcţii pentru aparatul de specialitate al Primarului comunei Schitu",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279083",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-13-2026",
+   "path": "local/giurgiu/schitu/2026/13",
+   "short": "HCL Schitu nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 13/2026 privind aprobarea documentatiei tehnico – economica (Studiu de Fezabilitate ) pentru proiectul „Construire teren multisport 38 x 18 m cu gazon sintetic multifunctional comuna Schitu – judetul Giurgiu”",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279084",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-14-2026",
+   "path": "local/giurgiu/schitu/2026/14",
+   "short": "HCL Schitu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 14/2026 privind implementarea proiectului „Construire teren multisport 38 x 18 m cu gazon sintetic multifunctional comuna Schitu – judetul Giurgiu „",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279085",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-15-2026",
+   "path": "local/giurgiu/schitu/2026/15",
+   "short": "HCL Schitu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 15/2026 privind aprobarea bugetului local pe anul 2026 şi estimările pentru anii 2027,2028 şi 2029",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279088",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-16-2026",
+   "path": "local/giurgiu/schitu/2026/16",
+   "short": "HCL Schitu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 16/2026",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279089",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-17-2026",
+   "path": "local/giurgiu/schitu/2026/17",
+   "short": "HCL Schitu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 17/2026 privind aprobarea execuţiei bugetului local al comunei Schitu, pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279090",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-2-2026",
+   "path": "local/giurgiu/schitu/2026/2",
+   "short": "HCL Schitu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 2/2026 privind aprobarea definitivă a deficitului secțiunii dezvoltare, existent la sfârșitul anului 2025, cu suma de 283.586,42 lei",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/259238",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/259238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-20-2026",
+   "path": "local/giurgiu/schitu/2026/20",
+   "short": "HCL Schitu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 20/2026 privind aprobarea PROIECTULUI TEHNIC, CONTRACTULUI DE EXECUTIE LUCRARI pentru obiectivul de investitie “EFICIENTIZAREA CONSUMULUI DE ENERGIE ELECTRICA LA UAT COMUNA SCHITU, JUD. GIURGIU PRIN INSTALARE DE PANOURI FOTOVOLTAICE CU PUTEREA DE 280 KWp,,",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279093",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-23-2026",
+   "path": "local/giurgiu/schitu/2026/23",
+   "short": "HCL Schitu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 23/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279096",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279096",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--schitu-24-2026",
    "path": "local/giurgiu/schitu/2026/24",
    "short": "HCL Schitu nr. 24/2026",
@@ -243,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--schitu-4-2026",
+   "path": "local/giurgiu/schitu/2026/4",
+   "short": "HCL Schitu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 4/2026 privind aprobarea numărului asistenţilor personali ai persoanelor cu handicap pentru anul 2026",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279075",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--schitu-40-2026",
    "path": "local/giurgiu/schitu/2026/40",
    "short": "HCL Schitu nr. 40/2026",
@@ -298,6 +463,21 @@
      "from": "2026-11-05",
      "units": 1,
      "source_url": "https://emol.ro/schitu-gr/registru-hcl/297471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--schitu-8-2026",
+   "path": "local/giurgiu/schitu/2026/8",
+   "short": "HCL Schitu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Schitu nr. 8/2026 privind acordarea unor facilități fiscale pentru anul 2026",
+   "url": "https://emol.ro/schitu-gr/registru-hcl/279079",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/schitu-gr/registru-hcl/279079",
      "sha256": null
     }
    ]

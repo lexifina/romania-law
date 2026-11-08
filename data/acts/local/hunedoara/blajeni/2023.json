@@ -3,6 +3,72 @@
 "shard": "local/hunedoara/blajeni/2023",
 "acts": [
 {
+"slug": "hcl-hunedoara--blajeni-4-2023",
+"path": "local/hunedoara/blajeni/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 4/2023 privind aprobarea prețurilor de referință al masei lemnoase din fondul forestier proprietatea comunei Blăjeni, județul Hunedoara",
+"short": "HCL Blăjeni nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/111709",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-18-2023",
+"path": "local/hunedoara/blajeni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 18/2023 privind aprobarea alocării unei sume de la bugetul local în vederea organizării activitățiilor cultural-educative ce se vor desfășura pe raza comunei Blăjeni, județul Hunedoara în cursul lunii aprilie 2023",
+"short": "HCL Blăjeni nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/111818",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-21-2023",
+"path": "local/hunedoara/blajeni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 21/2023 privind aprobarea „Programului de măsuri ce vizează îmbunătățirea activităților de gospodărire și înfrumusețare a Comunei Blăjeni, a obligațiilor și responsabilităților care revin instituțiilor publice, agenților economici, cetățenilor pentru buna gospodărire a comunei Blăjeni și respectarea condițiilor de mediu, precum și stabilirea sancțiunilor",
+"short": "HCL Blăjeni nr. 21/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/111821",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-hunedoara--blajeni-38-2023",
 "path": "local/hunedoara/blajeni/2023/38",
 "kind": "local",

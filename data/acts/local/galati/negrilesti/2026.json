@@ -3,6 +3,94 @@
 "shard": "local/galati/negrilesti/2026",
 "acts": [
 {
+"slug": "hcl-galati--negrilesti-2-2026",
+"path": "local/galati/negrilesti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 2/2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pentru anul 2025 din contul de excedent a bugetului local si acoperirea unui gol de casa",
+"short": "HCL Negrilești nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/246856",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-3-2026",
+"path": "local/galati/negrilesti/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 3/2026 privind aprobarea modificării și clarificării modului de deținere a dreptului de proprietate și utilizare a microbuzelor achiziționate în cadrul proiectului „Achiziționare microbuze electrice pentru comunele Matca și Negrilești, județul Galați”",
+"short": "HCL Negrilești nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/248921",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-4-2026",
+"path": "local/galati/negrilesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 4/2026 privind aprobarea planului de lucrari pentru beneficiarii de venit minim garantat pentru anul 2026",
+"short": "HCL Negrilești nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/248922",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-22-2026",
+"path": "local/galati/negrilesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 22/2026 privind: înființarea Serviciului Public Comunitar Local de Evidență a Persoanelor Negrilesti prin reorganizarea compartimentului de Stare Civilă",
+"short": "HCL Negrilești nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-06",
+"latest": "2026-04-06",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/260510",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-35-2026",
 "path": "local/galati/negrilesti/2026/35",
 "kind": "local",

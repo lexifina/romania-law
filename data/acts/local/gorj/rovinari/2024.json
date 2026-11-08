@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-gorj--rovinari-250-2024",
+"path": "local/gorj/rovinari/2024/250",
+"kind": "local",
+"year": "2024",
+"number": "250",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Rovinari nr. 250/2024 privind modificarea art.2 din Hotărârea Consiliului Local nr.115/22.06.2022 privind aprobarea Regulamentului privind criteriile de repartizare a locuințelor sociale din blocul B2 din orașul Rovinari și constituirea comisiei de analiză a solicitărilor de locuințe sociale Vizualizare",
+"short": "HCL Rovinari nr. 250/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://primariarovinari.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/2024-hotararile-consiliului-local/",
+"council": "gorj/rovinari",
+"council_name": "Consiliul Local al Orașului Rovinari",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-gorj--rovinari-271-2024",
 "path": "local/gorj/rovinari/2024/271",
 "kind": "local",

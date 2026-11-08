@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/branisca/2021",
  "acts": [
   {
+   "slug": "hcl-hunedoara--branisca-1-2021",
+   "path": "local/hunedoara/branisca/2021/1",
+   "short": "HCL Brănișca nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 1/2021 Privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiuniide dezvoltare in anul 2020",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24366",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24366",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-10-2021",
    "path": "local/hunedoara/branisca/2021/10",
    "short": "HCL Brănișca nr. 10/2021",
@@ -253,6 +268,66 @@
      "from": "2021-05-26",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/54852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-3-2021",
+   "path": "local/hunedoara/branisca/2021/3",
+   "short": "HCL Brănișca nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 3/2021 Privind aprobarea modificarisi actualizarii indicatorilor tehnico-economici prntru obiectivul de investitii ” Reabilitarea, modernizarea si doatrea Caminelor culturale din satele Branisca si Boz, Comuna Branisca , Judetul Hunedoara",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24635",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-4-2021",
+   "path": "local/hunedoara/branisca/2021/4",
+   "short": "HCL Brănișca nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 4/2021 Privind punerea in aplicare a OUG nr 74/2018 pentru modificare si completarea legii nr. 211/2011 privind regimul deseurilori a OUG nr 196/2005 privind fondul pentru mediu, prin aditionarea Contractului de delegare a gestiunii serviciului de salubrizare in zona de colectare 3 centru Barcea Mare nr. 1760/760/27.11.2018",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24637",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-5-2021",
+   "path": "local/hunedoara/branisca/2021/5",
+   "short": "HCL Brănișca nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 5/2021",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24636",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-6-2021",
+   "path": "local/hunedoara/branisca/2021/6",
+   "short": "HCL Brănișca nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 6/2021 Privind aprobarea propunerii de schimbare a destinatiei imobilului apartind domeniului public al Comunei Branisca constand in cladire Scoala Tarnava situata in sat Tarnava, Comuna Branisca, Judetul Hunedoara, din imobil cu destinatie de invatamant in imobil cu destinatia de locuinta sociala",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24642",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24642",
      "sha256": null
     }
    ]

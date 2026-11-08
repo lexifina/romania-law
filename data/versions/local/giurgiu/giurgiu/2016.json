@@ -226,6 +226,21 @@
      "sha256": "e463a08cb0f41d5a1683fedd82a4111b171b217d2d95427b4b86d6b79e165642"
     }
    ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-446-2016",
+   "path": "local/giurgiu/giurgiu/2016/446",
+   "short": "HCL Giurgiu nr. 446/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 446/2016 privind modificarea și completarea Hotărârilor Consiliului Local al Municipiului Giurgiu nr.192/2001 și nr.215/2001 prin care au fost constituite unele taxe pentru eliberare documente cadastru întrunit în ședință ordinară,",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/157/446-unele-taxe.pdf",
+     "sha256": "11ccae5a003622d42a4d6bfd1cc704056458a71f16aa7ccd00960dce7360f3d9"
+    }
+   ]
   }
  ]
 }

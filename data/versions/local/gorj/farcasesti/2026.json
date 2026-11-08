@@ -3,6 +3,396 @@
  "shard": "local/gorj/farcasesti/2026",
  "acts": [
   {
+   "slug": "hcl-gorj--farcasesti-1-2026",
+   "path": "local/gorj/farcasesti/2026/1",
+   "short": "HCL Fărcășești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 1/2026 privind deblocarea și utilizarea excedentului de la sfârșitul anului 2025 în anul 2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/246272",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/246272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-10-2026",
+   "path": "local/gorj/farcasesti/2026/10",
+   "short": "HCL Fărcășești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 10/2026 privind Modificarea Structurii Organigramei, a Statului de funcții al aparatului de specialitate al Primarului comunei Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/255482",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/255482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-12-2026",
+   "path": "local/gorj/farcasesti/2026/12",
+   "short": "HCL Fărcășești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 12/2026 privind aprobarea Programului de acțiune comunitară destinate prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/261141",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/261141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-14-2026",
+   "path": "local/gorj/farcasesti/2026/14",
+   "short": "HCL Fărcășești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 14/2026 privind aprobarea contractării de servicii cu firme specializate, pentru sprijinirea activitații personalului din cadrul aparatului de specialitate al Primarului comunei Fărcășești și a Consiliulul Local Fărcășești,",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/261143",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/261143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-15-2026",
+   "path": "local/gorj/farcasesti/2026/15",
+   "short": "HCL Fărcășești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 15/2026 privind aprobarea documentației tehnico-economice a proiectului „CREȘTEREA CAPACITĂȚII SERVICIILOR PUBLICE LOCALE DIN COMUNA FĂRCĂȘEȘTI, JUDEȚUL GORJ, PRIN DOTAREA CU UTILAJ MULTIFUNCȚIONAL PENTRU LUCRĂRI DE ÎNTREȚINERE A INFRASTRUCTURII”",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/262523",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/262523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-16-2026",
+   "path": "local/gorj/farcasesti/2026/16",
+   "short": "HCL Fărcășești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 16/2026 privind implementarea proiectului „CREȘTEREA CAPACITĂȚII SERVICIILOR PUBLICE LOCALE DIN COMUNA FĂRCĂȘEȘTI, JUDEȚUL GORJ, PRIN DOTAREA CU UTILAJ MULTIFUNCȚIONAL PENTRU LUCRĂRI DE ÎNTREȚINERE A INFRASTRUCTURII”5)",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/262524",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/262524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-17-2026",
+   "path": "local/gorj/farcasesti/2026/17",
+   "short": "HCL Fărcășești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 17/2026 privind Modificarea Structurii Organigramei, a Statului de funcții al aparatului de specialitate al Primarului comunei Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/262525",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/262525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-18-2026",
+   "path": "local/gorj/farcasesti/2026/18",
+   "short": "HCL Fărcășești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 18/2026 Pentru aprobarea Organigramei, Statului de funcții și Regulamentului de organizare și funcționare, ca urmare a reorganizării Primăriei comunei Fărcășești, reorganizare impusă de obligativitatea punerii în aplicare a prevederilor OUG nr. 7/2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/263178",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/263178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-19-2026",
+   "path": "local/gorj/farcasesti/2026/19",
+   "short": "HCL Fărcășești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 19/2026 privind aprobarea bugetului de venituri și cheltuieli al comunei Fărcășești pe anul 2026 și estimările pentru anii 2027, 2028 și 2029",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/267813",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/267813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-2-2026",
+   "path": "local/gorj/farcasesti/2026/2",
+   "short": "HCL Fărcășești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 2/2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare al anului 2025",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/246273",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/246273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-20-2026",
+   "path": "local/gorj/farcasesti/2026/20",
+   "short": "HCL Fărcășești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 20/2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/267814",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/267814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-21-2026",
+   "path": "local/gorj/farcasesti/2026/21",
+   "short": "HCL Fărcășești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 21/2026 privind scutirea de la plata taxei speciale de salubrizare pentru persoanele cu handicap , pentru beneficiarii de venit minim de incluziune precum și subvenționarea din bugetul local a acestor sume",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/271207",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/271207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-22-2026",
+   "path": "local/gorj/farcasesti/2026/22",
+   "short": "HCL Fărcășești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 22/2026 privind însușirea propunerii Comisiei speciale de inventariere a domeniului public pentru actualizarea inventarului bunurilor care alcătuiesc domeniul public al comunei Fărcășești, Str. Călugăreni",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/271208",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/271208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-23-2026",
+   "path": "local/gorj/farcasesti/2026/23",
+   "short": "HCL Fărcășești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 23/2026 privind însușirea propunerii Comisiei speciale de inventariere a domeniului public pentru actualizarea inventarului bunurilor care alcătuiesc domeniul public al comunei Fărcășești, Aleea Gaterului",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/271209",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/271209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-24-2026",
+   "path": "local/gorj/farcasesti/2026/24",
+   "short": "HCL Fărcășești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 24/2026 privind susținerea financiară pentru biserica din satul Fărcășești Moșneni, restaurare pictură interioară și exterioară",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/271210",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/271210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-26-2026",
+   "path": "local/gorj/farcasesti/2026/26",
+   "short": "HCL Fărcășești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 26/2026 privind aprobarea Regulamentului pentru autorizarea, amplasarea și funcționarea activităților de jocuri de noroc pe raza comunei Fărcășești, județul Gorj",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/271212",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/271212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-27-2026",
+   "path": "local/gorj/farcasesti/2026/27",
+   "short": "HCL Fărcășești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 27/2026 privind modificarea art.6 din Hotărârea Consiliului Local Fărcășești nr. 16/08.04.2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/275241",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/275241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-28-2026",
+   "path": "local/gorj/farcasesti/2026/28",
+   "short": "HCL Fărcășești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 28/2026 privind modificarea Anexei nr. 2 (Statul de funcții) la HCL Fărcășești nr. 18/15.04.2026 privind aprobarea Organigramei, Statului de Funcții și a Regulamentului de Organizare și Funcționare, ca urmare a reorganizării Primăriei comunei Fărcășești, reorganizare impusă de obligativitatea punerii în aplicare a prevederilor OUG nr. 7/2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/276825",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/276825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-3-2026",
+   "path": "local/gorj/farcasesti/2026/3",
+   "short": "HCL Fărcășești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 3/2026 privind aprobarea Organigramei și a Statului de funcții al Club Sportiv Vulturii Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/246274",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/246274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-30-2026",
+   "path": "local/gorj/farcasesti/2026/30",
+   "short": "HCL Fărcășești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 30/2026 privind aprobarea indicatorilor tehnico -economici pentru obiectivul de investiţii „ Amenajare scurgere ape pe DC 70 km 1+428 – km 1+624, sat Rogojel, comuna Fărcășești, județul Gorj”",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/276827",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/276827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-31-2026",
+   "path": "local/gorj/farcasesti/2026/31",
+   "short": "HCL Fărcășești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 31/2026 privind completarea Hotărârii Consiliului Local Fărcășești nr. 21/28.05.2026 privind scutirea de la plata taxei speciale de salubrizare pentru persoanele cu handicap , pentru beneficiarii de venit minim de incluziune precum și subvenționarea din bugetul local a acestor sume",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/276828",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/276828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-32-2026",
+   "path": "local/gorj/farcasesti/2026/32",
+   "short": "HCL Fărcășești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 32/2026 privind rectificarea bugetului de venituri și cheltuieli al comunei Fărcășești, pentru anul 2026, cu suma de 36 mii lei",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/276829",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/276829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-33-2026",
+   "path": "local/gorj/farcasesti/2026/33",
+   "short": "HCL Fărcășești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 33/2026 privind alocarea sumei necesare susținerii financiare a evenimentului ,, ZIUA COMUNEI FĂRCĂȘEȘTI “ , ediția a-VIII-a, în data de 09 septembrie 2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/281093",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/281093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-34-2026",
+   "path": "local/gorj/farcasesti/2026/34",
+   "short": "HCL Fărcășești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 34/2026 privind însușirea propunerii Comisiei speciale de inventariere a domeniului public pentru actualizarea inventarului bunurilor care alcătuiesc domeniul public al comunei Fărcășești, modificarea anexei nr.1 la HCL nr. 12/31.07.2021, DC 72 Roșia Jiu-Timișeni",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/281094",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/281094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-35-2026",
+   "path": "local/gorj/farcasesti/2026/35",
+   "short": "HCL Fărcășești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 35/2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/281095",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/281095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-36-2026",
+   "path": "local/gorj/farcasesti/2026/36",
+   "short": "HCL Fărcășești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 36/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Farcasesti, pentru anul 2026, cu suma de 160 mii lei",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/281096",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/281096",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-37-2026",
    "path": "local/gorj/farcasesti/2026/37",
    "short": "HCL Fărcășești nr. 37/2026",
@@ -43,6 +433,21 @@
      "from": "2026-08-31",
      "units": 1,
      "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/285811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-4-2026",
+   "path": "local/gorj/farcasesti/2026/4",
+   "short": "HCL Fărcășești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 4/2026 privind Modificarea Structurii Organigramei, a Statului de funcții al aparatului de specialitate al Primarului comunei Farcasesti",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/246275",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/246275",
      "sha256": null
     }
    ]
@@ -198,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-gorj--farcasesti-5-2026",
+   "path": "local/gorj/farcasesti/2026/5",
+   "short": "HCL Fărcășești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 5/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „Racordarea parcului fotovoltaic la linia electrică de 20 kV” în comuna Fărcășești, județul Gorj,",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/249749",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/249749",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--farcasesti-50-2026",
    "path": "local/gorj/farcasesti/2026/50",
    "short": "HCL Fărcășești nr. 50/2026",
@@ -298,6 +718,66 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/296355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-6-2026",
+   "path": "local/gorj/farcasesti/2026/6",
+   "short": "HCL Fărcășești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 6/2026 privind stabilirea Planului de acţiuni sau de lucrări de interes local pentru persoanele apte de muncă, beneficiare de ajutor social, în anul 2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/249750",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/249750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-7-2026",
+   "path": "local/gorj/farcasesti/2026/7",
+   "short": "HCL Fărcășești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 7/2026 privind modificarea și completarea HCL Fărcășești nr. 3 din 09.01.2026 privind aprobarea Organigramei, a Statului de funcții al Club Sportiv Vulturii Fărcășești",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/249751",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/249751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-8-2026",
+   "path": "local/gorj/farcasesti/2026/8",
+   "short": "HCL Fărcășești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 8/2026 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii ” Alimentare cu energie electrică stație de tratare a apei, sat Peșteana de Jos – Călugăreni, comuna Fărcășești”",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/249752",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/249752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--farcasesti-9-2026",
+   "path": "local/gorj/farcasesti/2026/9",
+   "short": "HCL Fărcășești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcășești nr. 9/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Unității Administrativ Teritoriale - comuna Fărcășești, pentru anul 2026",
+   "url": "https://emol.ro/farcasesti-gj/registru-hcl/255481",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasesti-gj/registru-hcl/255481",
      "sha256": null
     }
    ]

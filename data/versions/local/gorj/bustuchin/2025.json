@@ -3,6 +3,171 @@
  "shard": "local/gorj/bustuchin/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--bustuchin-1-2025",
+   "path": "local/gorj/bustuchin/2025/1",
+   "short": "HCL Bustuchin nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 1/2025 privind aprobarea Planului de acţiuni sau lucrări de interes local pe anul 2025, prevăzut de Legea nr.196/2016 privind venitul minim de incluziune, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/191453",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/191453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-18-2025",
+   "path": "local/gorj/bustuchin/2025/18",
+   "short": "HCL Bustuchin nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 18/2025 privind aprobarea bugetului local al Comunei Bustuchin pe anul 2025",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/201713",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/201713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-19-2025",
+   "path": "local/gorj/bustuchin/2025/19",
+   "short": "HCL Bustuchin nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 19/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 - R1",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/206151",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/206151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-3-2025",
+   "path": "local/gorj/bustuchin/2025/3",
+   "short": "HCL Bustuchin nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 3/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare a Consiliului Local al comunei Bustuchin, judetul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/191455",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/191455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-30-2025",
+   "path": "local/gorj/bustuchin/2025/30",
+   "short": "HCL Bustuchin nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 30/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025-r2 si modificarea programului de investitii conform anexei nr.1, precum si aprobarea rectificarii bugetului de venituri si cheltuieli finantata din venituri proprii pe anul 2025 a Liceului Tehnologic Bustuchin",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/214644",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/214644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-36-2025",
+   "path": "local/gorj/bustuchin/2025/36",
+   "short": "HCL Bustuchin nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 36/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 - R3",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/219770",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/219770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-39-2025",
+   "path": "local/gorj/bustuchin/2025/39",
+   "short": "HCL Bustuchin nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 39/2025 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, județul Gorj, aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/219773",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/219773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-4-2025",
+   "path": "local/gorj/bustuchin/2025/4",
+   "short": "HCL Bustuchin nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 4/2025 privind aprobarea ,,Regulamentului privind instituirea si administrarea taxei speciale de salubrizare si tariful in cadrul ADIS Gorj’’",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/191456",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/191456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-42-2025",
+   "path": "local/gorj/bustuchin/2025/42",
+   "short": "HCL Bustuchin nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 42/2025 de aprobare a propunerii privind Criteriile pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în comuna Bustuchin, judetul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/221532",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/221532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-44-2025",
+   "path": "local/gorj/bustuchin/2025/44",
+   "short": "HCL Bustuchin nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 44/2025 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, județul Gorj, aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/223094",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/223094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-53-2025",
+   "path": "local/gorj/bustuchin/2025/53",
+   "short": "HCL Bustuchin nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 53/2025 de aprobare a Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în comuna Bustuchin, judetul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/228495",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/228495",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--bustuchin-54-2025",
    "path": "local/gorj/bustuchin/2025/54",
    "short": "HCL Bustuchin nr. 54/2025",

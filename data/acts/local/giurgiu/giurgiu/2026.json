@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-giurgiu--giurgiu-194-2026",
+"path": "local/giurgiu/giurgiu/2026/194",
+"kind": "local",
+"year": "2026",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 194/2026 privind aprobarea modificării Anexei 2 la Hotărârea Consiliului Local nr.227/31.08.2023 privind aprobarea Regulamentului privind activitatea de turism realizată cu nava de pasageri „VALAHIA”, a normelor privind desfășurarea curselor de agrement și a taxelor pe categorii de prestații întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 194/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2026-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-219-2026",
 "path": "local/giurgiu/giurgiu/2026/219",
 "kind": "local",

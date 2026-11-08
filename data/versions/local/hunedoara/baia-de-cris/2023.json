@@ -3,6 +3,111 @@
  "shard": "local/hunedoara/baia-de-cris/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--baia-de-cris-1-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/1",
+   "short": "HCL Baia de Criș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 1/2023 acoperirea deficitului bugetar pe anul 2022 a sectiunii de functionare si a sectiunii de dezvoltare din excedentul anului 2021",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#38846",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#38846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-10-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/10",
+   "short": "HCL Baia de Criș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 10/2023 aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat și privat din Comuna Baia de Cris pentru anul şcolar 2023-2024",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40405",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-11-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/11",
+   "short": "HCL Baia de Criș nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 11/2023 alegerea preşedintelui de şedinţă",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40406",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-12-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/12",
+   "short": "HCL Baia de Criș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 12/2023 aprobarea Regulamentului de instituire și administrare a taxei de salubrizare în comuna Baia de Criș, judetul Hunedoara",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44479",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-13-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/13",
+   "short": "HCL Baia de Criș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 13/2023 aprobarea taxei de salubrizare în comuna Baia de Criș, judetul Hunedoara",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44488",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-14-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/14",
+   "short": "HCL Baia de Criș nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 14/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-15-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/15",
+   "short": "HCL Baia de Criș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 15/2023 aprobarea Strategiei de contractare privind atribuirea contractului de achiziție publică având ca obiect: Delegarea gestiunii serviciului de salubrizare în zonele de colectare1 - Brad,2- Hațeg, 3- Centru județul Hunedoara prin procedura licitație deschisă precum și Documentația de atribuirea pentru organizarea procedurii de licitație deschisă pentru atribuirea contractului de achiziție publică având ca obiect: Delegarea gestiunii serviciului de salubrizare în zonele de colectare 1 -Brad,2 -Hațeg, 3 -Centru județul Hunedoara și mandatarea Asociației să organizeze procedura de achiziție până la finalizarea acesteia precum și mandatarea Președintelui să semneze contractul de delegare",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44498",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44498",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baia-de-cris-16-2023",
    "path": "local/hunedoara/baia-de-cris/2023/16",
    "short": "HCL Baia de Criș nr. 16/2023",
@@ -13,6 +118,891 @@
      "from": "2023-02-17",
      "units": 1,
      "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-17-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/17",
+   "short": "HCL Baia de Criș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 17/2023 aprobarea planului anual de acţiune privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local Baia de Cris pentru anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44503",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-18-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/18",
+   "short": "HCL Baia de Criș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 18/2023 participarea comunei Baia de Criș la implementarea Proiectului “ HUB DE SERVICII MMSS-SII MMSS” Cod MySmis 130963",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44504",
+   "versions": [
+    {
+     "from": "2023-02-17",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#44504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-19-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/19",
+   "short": "HCL Baia de Criș nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 19/2023 aprobarea devizului general si a indicatorilor tehnico-economici ai obiectivului de investitii ‘’Reparatii rigolă carosabilă în sat Baia de Criș,comuna Baia de Criș’’",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49154",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-2-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/2",
+   "short": "HCL Baia de Criș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 2/2023 aprobarea executiei bugetului local al comunei Baia de Criş si a contului de executie al bugetului din venituri proprii si subventii din bugetul local pe trimestrul IV 2022",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40394",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-20-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/20",
+   "short": "HCL Baia de Criș nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 20/2023 aprobarea rezultatului inventarierii elementelor de natura activelor, datoriilor şi capitalurilor proprii aflate în patrimoniul comunei Baia de",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49155",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-21-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/21",
+   "short": "HCL Baia de Criș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 21/2023 aprobarea Actului Adițional nr.1 la contractul de prestare a serviciului de salubrizare în zona de colectare 1 Brad.județul Hunedoara nr.11/11.01.2023 precum și mandatarea Președintelui să semneze actul adițional",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49156",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-22-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/22",
+   "short": "HCL Baia de Criș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 22/2023 însușirea Actului aditional nr.2 la Documentul de poziţie privind modul de implementare al proiectului \"Sistem de management integrat al deşeurilor în judeţul Hunedoara\"",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49157",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-23-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/23",
+   "short": "HCL Baia de Criș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 23/2023 actualizarea programului anual de achizitii publice pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49159",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-24-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/24",
+   "short": "HCL Baia de Criș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 24/2023 aprobarea Regulamentului de organizare și funcționare a capelelor mortuare din comuna Baia de Criș",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49160",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-25-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/25",
+   "short": "HCL Baia de Criș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 25/2023 rectificarea bugetului local al comunei Baia de Criş pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49166",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-26-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/26",
+   "short": "HCL Baia de Criș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 26/2023 stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Baia de Cris,a Serviciului voluntar pentru situatii de urgenta si Serviciul de alimentare cu apa si canalizare aflate in subordinea Consiliului local",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49247",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-27-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/27",
+   "short": "HCL Baia de Criș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 27/2023 aprobarea executiei bugetului local al comunei Baia de Criş si a contului de executie al bugetului din venituri proprii si subventii din bugetul local pe trimestrul I 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49236",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-28-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/28",
+   "short": "HCL Baia de Criș nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 28/2023 indexarea impozitelor şi taxelor locale cu rata inflatiei in comuna Baia de Cris judetul Hunedoara pentru anul fiscal 2024",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49237",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-3-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/3",
+   "short": "HCL Baia de Criș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 3/2023 aprobarea bugetului local al comunei Baia de Cri; pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#39181",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#39181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-30-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/30",
+   "short": "HCL Baia de Criș nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 30/2023 analiza stadiului de inscriere a datelor in Registrul Agricol pentru trimestrul I al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49241",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-31-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/31",
+   "short": "HCL Baia de Criș nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 31/2023 aprobarea alocării unei sume de bani din bugetul local al comunei Baia de Criș pentru organizarea acțiunii Zilel comunei ‘’ Pe vremea cireșelor ‘’- Ediția A III A",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49242",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-32-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/32",
+   "short": "HCL Baia de Criș nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 32/2023 aprobarea organigramei, a statului de funcţii si a numărului de personal pentru aparatul de specialitate al Primarului Comunei Baia de Cris ,a Serviciului voluntar pentru situatii de urgenţă si a Serviciului de alimentare cu apă si canalizare aflate in subordinea Consiliului Local",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49243",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-33-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/33",
+   "short": "HCL Baia de Criș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 33/2023 însușirea în domeniul public al comunei Baia de Criș a imobilului compus din construcții și teren aferent",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49246",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-34-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/34",
+   "short": "HCL Baia de Criș nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 34/2023 aprobarea cererii de finantare Programul National de Investitii”Anghel Saligny”si a devizului general estimativ al obiectivului de investitie ”Alimentare cu apă in comuna Baia de Criș județul Hunedoara’’",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49248",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-35-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/35",
+   "short": "HCL Baia de Criș nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 35/2023 alegerea preşedintelui de şedinţă",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53267",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-36-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/36",
+   "short": "HCL Baia de Criș nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 36/2023 aprobarea participarii Comunei Baia de Cris; Județul Hunedoara la Parteneriatul LEADER cu denumirea ”Parteneriatul Țara Zarandului 2023 - 2027”",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53269",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-37-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/37",
+   "short": "HCL Baia de Criș nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-38-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/38",
+   "short": "HCL Baia de Criș nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 38/2023 aprobarea contului de incheiere a exercitiului bugetar pe anul 2022",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53289",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-39-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/39",
+   "short": "HCL Baia de Criș nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 39/2023 rectificarea bugetului local al comunei Baia de Criş pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53290",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-40-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/40",
+   "short": "HCL Baia de Criș nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 40/2023 însuşirea contractului de folosire a infrastructurii sistemului de distribuţie a energiei electrice pentru realizarea serviciului de iluminat public la nivelul comunei Baia de Criș, judeţul Hunedoara",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53291",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-41-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/41",
+   "short": "HCL Baia de Criș nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 41/2023 aprobarea valorificării masei lemnoase pe picior din proprietatea privată a comunei Baia de Criș-pășune, aflată în afara fondului forestier și stabilirea prețului de pornire la negociere",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53294",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-42-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/42",
+   "short": "HCL Baia de Criș nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 42/2023 modificarea art. 61 alin. 2 a Anexei nr. 1 la HCL nr. 16/2021 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Baia de Criș",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53263",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-43-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/43",
+   "short": "HCL Baia de Criș nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 43/2023 stabilirea domeniilor serviciilor publice și locurilor in care persoanele care au săvârșit infracțiuni sau care au fost sancționate contravențional vor presta activitati in folosul comunitatii precum și aprobarea regulamentului privind modul de executare a muncii neremunerate în folosul comunității ca obligație stabilită de către instanța de judecată",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53744",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-44-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/44",
+   "short": "HCL Baia de Criș nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 44/2023 solicitarea de transmitere temporară a dreptului de administrare asupra unor sectoare de drumuri județene DJ706 ȘI DJ762 și aprobarea preluării temporare în administrarea Consiliului local al comunei Baia de Criș a acestor sectoare de drum",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53745",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-45-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/45",
+   "short": "HCL Baia de Criș nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 45/2023 rectificarea bugetului local al comunei Baia de Criş pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53750",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-48-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/48",
+   "short": "HCL Baia de Criș nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 48/2023 însușirea în domeniul public al comunei Baia de Criș a imobilului compus din construcție și teren aferent",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53772",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#53772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-49-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/49",
+   "short": "HCL Baia de Criș nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 49/2023 revocarea art.3 din HCL nr.44/2023 privind solicitarea de transmitere temporară a dreptului de administrare asupra unor sectoare de drumuri județene DJ706 ȘI DJ762 și aprobarea preluării temporare în administrarea Consiliului local al comunei Baia de Criș a acestor sectoare de drum",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57815",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-50-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/50",
+   "short": "HCL Baia de Criș nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 50/2023 aprobarea incheierii unui protocol de colaborare cu Administrația Bazinală de Apă Crișuri pentru realizarea lucrărilor de decolmatare și amenajare pe cursul de apă a unor vai de pe teritoriul comunei Baia de Cris",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57818",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-51-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/51",
+   "short": "HCL Baia de Criș nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 51/2023 aprobarea executiei bugetului local al comunei Baia de Criş si a contului de executie al bugetului din venituri proprii si subventii din bugetul local pe trimestrul II 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57820",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-52-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/52",
+   "short": "HCL Baia de Criș nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 52/2023 analiza stadiului de inscriere a datelor in Registrul Agricol pentru trimestrul II al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57824",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-54-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/54",
+   "short": "HCL Baia de Criș nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 54/2023 rectificarea bugetului local al comunei Baia de Cris pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57855",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-55-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/55",
+   "short": "HCL Baia de Criș nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 55/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57856",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#57856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-56-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/56",
+   "short": "HCL Baia de Criș nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 56/2023 aprobarea organizării manifestării cultural-patriotice “ Serbarile Nationale Tebea 2023 in colaborare cu Instituția Prefectului județul Hunedoara și Consiliul Județean Hunedoara precum și aprobarea Regulamentului de Organizare a Serbarilor Nationale Tebea 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61661",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-57-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/57",
+   "short": "HCL Baia de Criș nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 57/2023 acordarea “Diplomei de Excelenta ” și a unui premiu , din bugetul local al comunei Baia de Cris , unei personalități ale comunei Baia de Criș și cuplurilor din comuna Baia de Criș care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61662",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-58-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/58",
+   "short": "HCL Baia de Criș nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 58/2023 trecerea din domeniul public al comunei Baia de Criș în domeniul public al județului Hunedoara,a imobilului-construcții și teren aferent în suprafață totală de 7486 m.p,în vederea asigurării condițiilor optime de funcționare a Unității de Asistență Medico-Socială Baia de Criș",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61677",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-6-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/6",
+   "short": "HCL Baia de Criș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 6/2023 privind analiza stadiului de inscriere a datelor in Registrul Agricol pentru trimestrul IV al anului 2022 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40401",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-60-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/60",
+   "short": "HCL Baia de Criș nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 60/2023 aprobarea modificării Statutului și a Actului Constitutiv al Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare a Deșeurilor judetul Hunedoara”",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61679",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-61-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/61",
+   "short": "HCL Baia de Criș nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 61/2023 rectificarea bugetului local al comunei Baia de Criș pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61680",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#61680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-62-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/62",
+   "short": "HCL Baia de Criș nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 62/2023 alegerea preşedintelui de şedinţă",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66596",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-63-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/63",
+   "short": "HCL Baia de Criș nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 63/2023 aprobarea executiei bugetului local al comunei Baia de Criş si a contului de executie al bugetului din venituri proprii si subventii din bugetul local pe trimestrul III 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66600",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-65-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/65",
+   "short": "HCL Baia de Criș nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 65/2023 analiza stadiului de inscriere a datelor in Registrul Agricol pentru trimestrul III al anului 2023 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66606",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-66-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/66",
+   "short": "HCL Baia de Criș nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 66/2023 aprobarea organigramei și a statului de funcţii ale aparatului de specialitate al Primarului Comunei Baia de Cris",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66608",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-67-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/67",
+   "short": "HCL Baia de Criș nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 67/2023 rectificarea bugetului local al comunei Baia de Criș pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66609",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-68-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/68",
+   "short": "HCL Baia de Criș nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 68/2023 aprobarea Actului Adițional nr.2 la contractul de prestare a serviciului de salubrizare în zona de colectare 1 Brad.județul Hunedoara nr.11/11.01.2023 precum și mandatarea Președintelui să semneze actul adițional",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66610",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#66610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-69-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/69",
+   "short": "HCL Baia de Criș nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 69/2023 stabilirea nivelurilor impozitelor si taxelor locale in comuna Baia de Cris pentru anul 2024",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68059",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-7-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/7",
+   "short": "HCL Baia de Criș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 7/2023 aprobarea planului de actiuni sau lucrari de interes local pe anul 2023 pentru repartizarea orelor de munca prestate lunar de catre peroanele majore apte de munca din familiile beneficiare de ajutor social potrivit Lg.nr.416/2001",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40402",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-70-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/70",
+   "short": "HCL Baia de Criș nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 70/2023 aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General și a Regulamentului local aferent comunei Baia de Cris",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68061",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-71-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/71",
+   "short": "HCL Baia de Criș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 71/2023 aprobarea devizului general si a indicatorilor tehnico-economici ai obiectivului de investitii ‘’Reparatii drum,sat Rișculița,comuna Baia de Criș ’’",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68064",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-72-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/72",
+   "short": "HCL Baia de Criș nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 72/2023 aprobarea devizului general si a indicatorilor tehnico-economici ai obiectivului de investitii ‘’Asfaltare drum sat Țebea,comuna Baia de Criș’’",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68065",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-73-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/73",
+   "short": "HCL Baia de Criș nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 73/2023 aprobarea devizului general si a indicatorilor tehnico-economici ai obiectivului de investitii ‘’Reparatii rigolă betonată, sat Țebea,,comuna Baia de Criș,’’",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68067",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-74-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/74",
+   "short": "HCL Baia de Criș nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 74/2023 rectificarea bugetului local al comunei Baia de Criș pe anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68069",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-75-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/75",
+   "short": "HCL Baia de Criș nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 75/2023 stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Baia de Cris",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68070",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#68070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-8-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/8",
+   "short": "HCL Baia de Criș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 8/2023 aprobarea bugetului de venituri si cheltuieli pentru anul 2023 pentru administrarea suprafetei de 148,4 Ha padure proprietatea publica a comunei Baia de Cris",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40403",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-9-2023",
+   "path": "local/hunedoara/baia-de-cris/2023/9",
+   "short": "HCL Baia de Criș nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 9/2023 aprobarea prețurilor de referință pentru anul de productie- 2023 a masei lemnoase din fondul forestier proprietatea comunei Baia de Cris și a tipului licitațiilor de masa lemnosă pentru anul 2023",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40404",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#40404",
      "sha256": null
     }
    ]

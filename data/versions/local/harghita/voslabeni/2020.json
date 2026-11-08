@@ -3,6 +3,381 @@
  "shard": "local/harghita/voslabeni/2020",
  "acts": [
   {
+   "slug": "hcl-harghita--voslabeni-1-2020",
+   "path": "local/harghita/voslabeni/2020/1",
+   "short": "HCL Voșlăbeni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 1/2020 privind aprobarea acoperirii deficitului bugetar al anului 2019",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16194",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-11-2020",
+   "path": "local/harghita/voslabeni/2020/11",
+   "short": "HCL Voșlăbeni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 11/2020 privind aprobarea bugetului general de venituri și cheltuieli întocmit de SC CLV PADINA SRL pe anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16220",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-12-2020",
+   "path": "local/harghita/voslabeni/2020/12",
+   "short": "HCL Voșlăbeni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 12/2020 privind aprobarea bugetului general de venituri și cheltuieli întocmit de SC. COCOSELUL CLV SRL pe anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16221",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-16-2020",
+   "path": "local/harghita/voslabeni/2020/16",
+   "short": "HCL Voșlăbeni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 16/2020 privind aprobarea destinației și a prețului de pornire la licitație a masei lemnoase pusă în valoare din fondul forestier proprietate privată a comunei Voșlăbeni, aflate în administrarea direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16224",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-17-2020",
+   "path": "local/harghita/voslabeni/2020/17",
+   "short": "HCL Voșlăbeni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 17/2020 privind aprobarea accesării schemei de ajutor de stat ” Servicii de silvomediu, servicii climatic și conservarea pădurilor” aferente măsurii 15, submăsura 15.1 plăți pentru angajamente de silvomediu, pe proprietățile comunei Voșlăbeni prin programul PNDR 2014-2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16225",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-18-2020",
+   "path": "local/harghita/voslabeni/2020/18",
+   "short": "HCL Voșlăbeni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 18/2020 privind modificarea art.7 din anexa nr. 1 la HCL 81/2019 cu privire la stabilirea și aprobarea impozitelor și taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16226",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-2-2020",
+   "path": "local/harghita/voslabeni/2020/2",
+   "short": "HCL Voșlăbeni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 2/2020 privind utilizarea excedentului bugetului local și activităților finanțate integral sau parțial din venituri proprii al anului 2019",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16195",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-20-2020",
+   "path": "local/harghita/voslabeni/2020/20",
+   "short": "HCL Voșlăbeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 20/2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16228",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-23-2020",
+   "path": "local/harghita/voslabeni/2020/23",
+   "short": "HCL Voșlăbeni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 23/2020 privind aprobarea destinației și a prețului de pornire la licitație a masei lemnoase pusă în valoare prin APV 13.192/2020, din fondul forestier proprietate publică a comunei Voșlăbeni, aflat în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16231",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-28-2020",
+   "path": "local/harghita/voslabeni/2020/28",
+   "short": "HCL Voșlăbeni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 28/2020 privind aprobarea destinației și a prețului de pornire la licitației a masei lemnoase pusă în valoare prin APV 13.246, 13.247, 13.248/2020, din fondul forestier proprietate publivă a comunei Voșlăbeni, aflat în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16242",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-3-2020",
+   "path": "local/harghita/voslabeni/2020/3",
+   "short": "HCL Voșlăbeni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 3/2020 privind aprobarea prețurilor de referință pentru masa lemnoasă, producția 2020, volumul ce se va recolta în anul 2020 modul de valorificare și destinația acestuia din fondul forestier proprietate publică a comunei Voslăbeni, aflată în administrarea direcției silvice Harghita pe raza Ocolului Silvic Borsec",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16196",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-31-2020",
+   "path": "local/harghita/voslabeni/2020/31",
+   "short": "HCL Voșlăbeni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 31/2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16245",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-32-2020",
+   "path": "local/harghita/voslabeni/2020/32",
+   "short": "HCL Voșlăbeni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 32/2020 privind modificarea HCL nr.12/2020 privind aprobarea bugetului general de venituri și cheltuieli întocmit de SC. CLV Pandina SRL pe anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16246",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-33-2020",
+   "path": "local/harghita/voslabeni/2020/33",
+   "short": "HCL Voșlăbeni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 33/2020 privind modificarea HCL nr. 13/2020 privind aprobarea bugetului general de venituri și cheltuieli întocmit de SC. Cocoșelul CLV SRL pe anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16247",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-34-2020",
+   "path": "local/harghita/voslabeni/2020/34",
+   "short": "HCL Voșlăbeni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 34/2020 privind modificarea HCL nr. 14/2020 privind modificarea Anexei nr. 1 a Hotărârii Consiliului Județean Harghita nr. 139/2009 privind aprobarea participării Județului Harghita, în calitatea de membru fondator la constituirea Asociației de Dezvoltare Intercomunitar ”Harghita”",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16248",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-36-2020",
+   "path": "local/harghita/voslabeni/2020/36",
+   "short": "HCL Voșlăbeni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 36/2020 privind aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului Comunei Voșlăbeni",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16253",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-37-2020",
+   "path": "local/harghita/voslabeni/2020/37",
+   "short": "HCL Voșlăbeni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 37/2020 privind modificarea Hotărârii nr. 81/2019 privind stabilirea impozitelor și taxelor locale precum și a taxelor speciale pe anul 2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16254",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-38-2020",
+   "path": "local/harghita/voslabeni/2020/38",
+   "short": "HCL Voșlăbeni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 38/2020 privind aprobarea destinației a prețului de pornire la licitație a masei lemnoase pusă în valoare din fondul forestier proprietate privată a comunei Voșlăbeni, aflate în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16255",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-4-2020",
+   "path": "local/harghita/voslabeni/2020/4",
+   "short": "HCL Voșlăbeni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 4/2020 privind aprobarea prețurilor de referință pentru masa lemnoasă, producția 2020, volumul ce se va recolta în anul 2020, modul de valorificare și destinația acestuia din fondul forestier proprietate publică a comunei Voșlăbeni, aflată în administrarea direcției silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16197",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-41-2020",
+   "path": "local/harghita/voslabeni/2020/41",
+   "short": "HCL Voșlăbeni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 41/2020 privind aprobarea destinației a prețului de pornire la licitație a masei lemnoase pusă în valoare din fondul forestier proprietate privată a comunei Voșlăbeni, aflate în administarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16285",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-42-2020",
+   "path": "local/harghita/voslabeni/2020/42",
+   "short": "HCL Voșlăbeni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 42/2020 privind aprobarea destinației și a prețului de pornire la licitație a masei lemnoase pusă în valoare prin APV 1.256/2020, din fondul forestier proprietate publică a comunei Voșlăbeni, aflat în administrarea Direcției Silvice Neamț pe raza Ocolului Silvic Bicaz",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16269",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-43-2020",
+   "path": "local/harghita/voslabeni/2020/43",
+   "short": "HCL Voșlăbeni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 43/2020 privind aprobarea destinației a prețului de pornire la licitație a masei lemnoase pusă în valoare din fondul forestier proprietate privată a comunei Voșlăbeni, aflate în administrarea Direcției silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16270",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-47-2020",
+   "path": "local/harghita/voslabeni/2020/47",
+   "short": "HCL Voșlăbeni nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 47/2020 privind ajustarea tarifelor pentru serviciile prestate de către serviciul Public de Interes Local de Alimentare cu apă și de canalizare, organizat în subordinea Consiliului Local al comunei Voșlăbeni, județul Harghita-operator de servicii comunitare de utilități publice locale cu personalitate juridică",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16286",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-5-2020",
+   "path": "local/harghita/voslabeni/2020/5",
+   "short": "HCL Voșlăbeni nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 5/2020 privind aprobarea prețurilor de referință pentru masa lemnoasă, producția 2020, volumul ce se va recolta în anul 2020, modul de valorificare și destinația acestuia din fondul forestier proprietate privată, (pășuni împădurite) a comunei Voșlăbeni, aflată în administrarea direcției silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16198",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-51-2020",
+   "path": "local/harghita/voslabeni/2020/51",
+   "short": "HCL Voșlăbeni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 51/2020 privind participarea comunei Voșlăbeni la Programul de finanțare al Proiectului ”Modernizarea sistemului de iluminat public stradal în comuna Voșlăbeni, județul Harghita” din fonduri AFM",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16291",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16291",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--voslabeni-53-2020",
    "path": "local/harghita/voslabeni/2020/53",
    "short": "HCL Voșlăbeni nr. 53/2020",
@@ -258,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--voslabeni-7-2020",
+   "path": "local/harghita/voslabeni/2020/7",
+   "short": "HCL Voșlăbeni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 7/2020 privind aprobarea destinației și a prețului de pornire la licitație a masei lemnoase pusă în valoare din fondul forestier proprietate privată a comunei Voslăbeni, aflate în administrarea direcției silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16200",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--voslabeni-70-2020",
    "path": "local/harghita/voslabeni/2020/70",
    "short": "HCL Voșlăbeni nr. 70/2020",
@@ -298,6 +688,36 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/20363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-8-2020",
+   "path": "local/harghita/voslabeni/2020/8",
+   "short": "HCL Voșlăbeni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 8/2020 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență din subordinea Consiliului Local Voșlăbeni prin actualizarea componenței, modificarea organigramei și a regulamentului de organizare și funcționare ale acestuia",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16201",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--voslabeni-9-2020",
+   "path": "local/harghita/voslabeni/2020/9",
+   "short": "HCL Voșlăbeni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 9/2020",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/16203",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/16203",
      "sha256": null
     }
    ]

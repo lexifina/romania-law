@@ -3,6 +3,73 @@
 "shard": "local/harghita/sansimion/2022",
 "acts": [
 {
+"slug": "hcl-harghita--sansimion-7-2022",
+"path": "local/harghita/sansimion/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 7/2022 privind primă înscriere în cartea funciară a dreptului de proprietate publică a comunei Sânsimion asupra imobilelor (drum sătesc) din comuna Sânsimion",
+"short": "HCL Sânsimion nr. 7/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-13",
+"latest": "2022-01-13",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/115004",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-23-2022",
+"path": "local/harghita/sansimion/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 23/2022",
+"short": "HCL Sânsimion nr. 23/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-21",
+"latest": "2022-04-21",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/115479",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-36-2022",
+"path": "local/harghita/sansimion/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 36/2022 privind modificarea anexei nr. 1 la HCL nr. 76/2020, privind aprobarea acordului parteneriat actualizat, privind proiectul „ÎNFIINȚAREA REȚELELOR INTELIGENTE DE DISTRIBUȚIE DE GAZE NATURALE ȘI BRANȘAMENTELE ÎN COMUNELE SÂNSIMION ȘI SÂNTIBRU, JUDEȚUL HARGHITA”",
+"short": "HCL Sânsimion nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/115495",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-harghita--sansimion-74-2022",
 "path": "local/harghita/sansimion/2022/74",
 "kind": "local",

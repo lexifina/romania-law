@@ -3,6 +3,28 @@
 "shard": "local/giurgiu/giurgiu/2017",
 "acts": [
 {
+"slug": "hcl-giurgiu--giurgiu-11-2017",
+"path": "local/giurgiu/giurgiu/2017/11",
+"kind": "local",
+"year": "2017",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 11/2017 cu privire la aprobarea Metodologiei privind acordarea cardului de călătorie pentru elevii înmatriculați în unitățile de învățământ din Municipiului Giurgiu, conform Hotărârii Consiliului Local nr.409 din data de 24 noiembrie 2016 întrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 11/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-01-17",
+"latest": "2017-01-17",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-giurgiu--giurgiu-12-2017",
 "path": "local/giurgiu/giurgiu/2017/12",
 "kind": "local",
@@ -133,6 +155,50 @@
 "flags": {
 "annex_missing": true,
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-364-2017",
+"path": "local/giurgiu/giurgiu/2017/364",
+"kind": "local",
+"year": "2017",
+"number": "364",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 364/2017 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr.174 din 12 mai 2017 privind actualizarea numărului de locuitori ai Municipiului Giurgiu, înregistrați ca plătitori de taxă de habitat, în sensul înlocuirii sintagmei de „numărul de locuitori înregistrați ca plătitori de taxă de habitat” cu sintagma „utilizatori ai serviciului de salubritate” Intrunit în ședință ordinară,",
+"short": "HCL Giurgiu nr. 364/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-405-2017",
+"path": "local/giurgiu/giurgiu/2017/405",
+"kind": "local",
+"year": "2017",
+"number": "405",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 405/2017 privind completarea Hotărârii Consiliului Local nr.302 din data de 31 august 2017 pentru aprobarea Regulamentului privind activitatea de blocare, ridicare, transport, depozitare și eliberare a autovehiculelor/vehiculelor staționate, parcate neregulamentar/abandonate pe domeniul public al Municipiului Giurgiu precum și prevederi privind respectarea normelor de parcare pe domeniul public, în parcările de domiciliu/reședință sau sediu/punct de lucru, de pe raza Municipiului Giurgiu",
+"short": "HCL Giurgiu nr. 405/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-10-26",
+"latest": "2017-10-26",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
 }
 },
 {

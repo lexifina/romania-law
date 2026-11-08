@@ -3,6 +3,276 @@
  "shard": "local/giurgiu/ulmi/2023",
  "acts": [
   {
+   "slug": "hcl-giurgiu--ulmi-1-2023",
+   "path": "local/giurgiu/ulmi/2023/1",
+   "short": "HCL Ulmi nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 1/2023 privind aprobarea contului anual al execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi pe anul 2022 si al Serviciului Local de Salubrizare al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/89155",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/89155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-10-2023",
+   "path": "local/giurgiu/ulmi/2023/10",
+   "short": "HCL Ulmi nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 10/2023 privind modificarea anexei 2 Sursa E din HCL nr.2/2023 pentru aprobarea bugetului local al comunei Ulmi si bugetului Serviciului Local de Salubrizare al comunei Ulmi pe anul 2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92465",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-11-2023",
+   "path": "local/giurgiu/ulmi/2023/11",
+   "short": "HCL Ulmi nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 11/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92466",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-13-2023",
+   "path": "local/giurgiu/ulmi/2023/13",
+   "short": "HCL Ulmi nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 13/2023 privind rectificarea bugetului local al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92468",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-14-2023",
+   "path": "local/giurgiu/ulmi/2023/14",
+   "short": "HCL Ulmi nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 14/2023 privind la „Aderarea comunei Ulmi la Asociatia pentru Supravegherea si Protectia Animalelor IVETS-ASPA IVETS”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/94741",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/94741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-15-2023",
+   "path": "local/giurgiu/ulmi/2023/15",
+   "short": "HCL Ulmi nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 15/2023 privind modificarea Hotărârii nr.8/28.02.2023 a Consiliului Local al comunei Ulmi privind aprobarea participării comunei Ulmi în cadrul proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”, în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență al României, Componenta 15 - Educatie, în parteneriat cu Consiliul Judetean Giurgiu",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/94742",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/94742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-16-2023",
+   "path": "local/giurgiu/ulmi/2023/16",
+   "short": "HCL Ulmi nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 16/2023 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi în trimestrul I/2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103688",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-18-2023",
+   "path": "local/giurgiu/ulmi/2023/18",
+   "short": "HCL Ulmi nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 18/2023 aprobarea înscrierii definitive în Cartea Funciară a imobilului identificat prin CF 37834, nr. cad. 37834 a terenului in suprafata de 2642 și completarea inventarului bunurilor care aparțin Domeniului privat al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103690",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-19-2023",
+   "path": "local/giurgiu/ulmi/2023/19",
+   "short": "HCL Ulmi nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 19/2023 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, in baza ratei inflatiei aplicabile din anul 2024",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103691",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-2-2023",
+   "path": "local/giurgiu/ulmi/2023/2",
+   "short": "HCL Ulmi nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 2/2023 privind aprobarea bugetului local al comunei Ulmi pe anul 2023 si bugetul Serviciului local de Salubrizare al comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/89156",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/89156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-20-2023",
+   "path": "local/giurgiu/ulmi/2023/20",
+   "short": "HCL Ulmi nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2023 privind aprobarea procedurii de scutire de la plata majorărilor de întârziere aferente obligațiilor bugetare, constând în impozite şi taxe locale, redevențe si chirii datorate bugetului local de către persoanele fizice de pe raza UAT Ulmi în anul 2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103692",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-21-2023",
+   "path": "local/giurgiu/ulmi/2023/21",
+   "short": "HCL Ulmi nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 21/2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103693",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-22-2023",
+   "path": "local/giurgiu/ulmi/2023/22",
+   "short": "HCL Ulmi nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 22/2023 privind asumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, pentru perioada august 2023 - iulie 2029 în cadrul Programului pentru şcoli al României",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103694",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-24-2023",
+   "path": "local/giurgiu/ulmi/2023/24",
+   "short": "HCL Ulmi nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 24/2023 privind actualizarea Studiu de Fezabilitate pentru obiectivul de investitii„ Construire Scoala Gimnaziala nr.1 sat Poenari comuna Ulmi judetul Giurgiu ”",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103696",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-25-2023",
+   "path": "local/giurgiu/ulmi/2023/25",
+   "short": "HCL Ulmi nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 25/2023 privind rectificarea bugetului local al comunei Ulmi si utilizarea sumei de 110.000 lei din excedentul begetar al anilor anteriori",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/103697",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/103697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-28-2023",
+   "path": "local/giurgiu/ulmi/2023/28",
+   "short": "HCL Ulmi nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 28/2023 privind scăderea din evidenţa fiscală a amenzilor achitate de catre persoane care au fost sanctionate in baza legii 129/2021 de catre Directia de Sanatate Publica si domiciliate pe raza comunei Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/110199",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/110199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-3-2023",
+   "path": "local/giurgiu/ulmi/2023/3",
+   "short": "HCL Ulmi nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 3/2023 privind aprobarea utilizării excedentului bugetar rezultat la încheierea exercițiului bugetar al anului 2022 si al anilor anteriori în anul 2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/89157",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/89157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-32-2023",
+   "path": "local/giurgiu/ulmi/2023/32",
+   "short": "HCL Ulmi nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 32/2023 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului local de salubrizare al comunei Ulmi pentru trimestrul II/2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/115646",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/115646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-33-2023",
    "path": "local/giurgiu/ulmi/2023/33",
    "short": "HCL Ulmi nr. 33/2023",
@@ -258,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-giurgiu--ulmi-5-2023",
+   "path": "local/giurgiu/ulmi/2023/5",
+   "short": "HCL Ulmi nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 5/2023 privind aprobarea planului de actiune sau lucrari de interes local pentru repartizarea orelor de munca pentru persoanele majore apte de muncã din familia beneficiarã de ajutor social",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/89159",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/89159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--ulmi-50-2023",
    "path": "local/giurgiu/ulmi/2023/50",
    "short": "HCL Ulmi nr. 50/2023",
@@ -298,6 +583,66 @@
      "from": "2023-12-20",
      "units": 1,
      "source_url": "https://emol.ro/ulmi-gr/registru-hcl/135231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-6-2023",
+   "path": "local/giurgiu/ulmi/2023/6",
+   "short": "HCL Ulmi nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 6/2023 privind delegarea gestiunii prin achiziție publică de servicii a activităţilor de transfer, sortare, tratare şi/sau de eliminare, prin depozitare, a deşeurilor municipale din Unitatea Administrativ Teritoriala Ulmi",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/89160",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/89160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-7-2023",
+   "path": "local/giurgiu/ulmi/2023/7",
+   "short": "HCL Ulmi nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 7/2023 aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Comuna Ulmi județul Giurgiu , referitor la colaborarea instituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92462",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-8-2023",
+   "path": "local/giurgiu/ulmi/2023/8",
+   "short": "HCL Ulmi nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 8/2023 privind aprobarea participării comunei Ulmi în cadrul proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”, în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență al României, Componenta 15 - Educatie, în parteneriat cu Consiliul Judetean Giurgiu",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92463",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-9-2023",
+   "path": "local/giurgiu/ulmi/2023/9",
+   "short": "HCL Ulmi nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 9/2023",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/92464",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/92464",
      "sha256": null
     }
    ]

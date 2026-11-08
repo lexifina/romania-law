@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/santana/2017",
+"acts": [
+{
+"slug": "hcl-arad--santana-186-2017",
+"path": "local/arad/santana/2017/186",
+"kind": "local",
+"year": "2017",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 186/2017 privind aptobarca continut'lui cadru al documentatiei tehnico - economice aferente investitijlor publice , precum si a itructurii si metodologiei de elaborare a devizului general pentru obiective de investitii si lucrari de interventii precum si modificarea si acfrtaltzarea preturilor conform stasurilor si normelor in vigoare Prevederile ^tt.44 alin. (6) din Legea m.273/2006 privind finantele publ",
+"short": "HCL Sântana nr. 186/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-10-13",
+"latest": "2017-10-13",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=201",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

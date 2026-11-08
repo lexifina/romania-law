@@ -3,6 +3,29 @@
 "shard": "local/alba/ocna-mures/2020",
 "acts": [
 {
+"slug": "hcl-alba--ocna-mures-57-2020",
+"path": "local/alba/ocna-mures/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 57/2020",
+"short": "HCL Ocna Mureș nr. 57/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-alba--ocna-mures-149-2020",
 "path": "local/alba/ocna-mures/2020/149",
 "kind": "local",

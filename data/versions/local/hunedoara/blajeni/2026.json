@@ -3,6 +3,66 @@
  "shard": "local/hunedoara/blajeni/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--blajeni-10-2026",
+   "path": "local/hunedoara/blajeni/2026/10",
+   "short": "HCL Blăjeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 10/2026 privind modificarea și completarea hotărârii consiliului local al comunei Blăjeni nr. 33/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026 la nivelul comunei Blăjeni",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254124",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-11-2026",
+   "path": "local/hunedoara/blajeni/2026/11",
+   "short": "HCL Blăjeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 11/2026 privind însușirea Actului Adițional nr.4 la Contractul nr.4 la Contractul nr. 34/61 din 13.03.2025 privind „Prestarea Serviciului de Salubrizare în zona de colectare 1 Brad, Județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/261819",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/261819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-12-2026",
+   "path": "local/hunedoara/blajeni/2026/12",
+   "short": "HCL Blăjeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 12/2026 privind însușirea Actului Adițional nr.5 la Contractul nr. 34/61 din 13.03.2025 privind „Prestarea Serviciului de Salubrizare în zona de colectare 1 Brad, Județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/261820",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/261820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-16-2026",
+   "path": "local/hunedoara/blajeni/2026/16",
+   "short": "HCL Blăjeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 16/2026 privind actualizarea planului de analiză și acoperire a riscurilor (PAAR) în comuna Blăjeni pe anul 2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/266200",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/266200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-17-2026",
    "path": "local/hunedoara/blajeni/2026/17",
    "short": "HCL Blăjeni nr. 17/2026",
@@ -43,6 +103,21 @@
      "from": "2026-07-09",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/268339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-2-2026",
+   "path": "local/hunedoara/blajeni/2026/2",
+   "short": "HCL Blăjeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 2/2026 privind modificarea și completarea HCL Nr.33/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026 la nivelul comunei Blăjeni",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/247078",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/247078",
      "sha256": null
     }
    ]
@@ -198,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-3-2026",
+   "path": "local/hunedoara/blajeni/2026/3",
+   "short": "HCL Blăjeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 3/2026 privind utilizarea excedentului bugetului local al Comunei Blăjeni rezultat la încheierea exercițiului bugetar 2025 pentru finanțarea cheltuielilor secțiunii de dezvoltare pentru anul 2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254117",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254117",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-30-2026",
    "path": "local/hunedoara/blajeni/2026/30",
    "short": "HCL Blăjeni nr. 30/2026",
@@ -298,6 +388,81 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/297267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-5-2026",
+   "path": "local/hunedoara/blajeni/2026/5",
+   "short": "HCL Blăjeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 5/2026 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2026, pentru fondul forestier proprietatea publică a comunei Blăjeni",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254119",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-6-2026",
+   "path": "local/hunedoara/blajeni/2026/6",
+   "short": "HCL Blăjeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 6/2026 privind aprobarea prețurilor de referință pentru masa lemnoasă pe picior care se recoltează din fondul forestier, proprietatea publică a Comunei Blăjeni, precum și a Listei de partizi pentru anul de producție 2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254120",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-7-2026",
+   "path": "local/hunedoara/blajeni/2026/7",
+   "short": "HCL Blăjeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 7/2026",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254121",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-8-2026",
+   "path": "local/hunedoara/blajeni/2026/8",
+   "short": "HCL Blăjeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 8/2026 privind implementarea proiectului „REABILITARE TEREN DE SPORT ÎN COMUNA bLĂJENP, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254122",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-9-2026",
+   "path": "local/hunedoara/blajeni/2026/9",
+   "short": "HCL Blăjeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 9/2026 privind însușirea Actului Adițional nr. 3 la Contractul nr. 34/61 din 13.03.2025 privind „Prestarea Serviciului de Salubrizare în zona de colectare 1 Brad, Județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/254123",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/254123",
      "sha256": null
     }
    ]

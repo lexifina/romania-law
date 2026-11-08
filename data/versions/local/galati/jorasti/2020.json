@@ -3,6 +3,411 @@
  "shard": "local/galati/jorasti/2020",
  "acts": [
   {
+   "slug": "hcl-galati--jorasti-13-2020",
+   "path": "local/galati/jorasti/2020/13",
+   "short": "HCL Jorăști nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 13/2020 privind aprobarea bugetului local al comunei jorăști, județul Galați, pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8240",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-15-2020",
+   "path": "local/galati/jorasti/2020/15",
+   "short": "HCL Jorăști nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 15/2020 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''Reabilitare străzi în lungimea de aproximativ 6 km în comuna Jorăști, județul Galați'",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8253",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-16-2020",
+   "path": "local/galati/jorasti/2020/16",
+   "short": "HCL Jorăști nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 16/2020 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''Înființare sistem de distribuție gaze naturale în comuna Jorăști, satele Jorăști, Zărnești și Lunca, județul Galați''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8254",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-17-2020",
+   "path": "local/galati/jorasti/2020/17",
+   "short": "HCL Jorăști nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 17/2020 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''Realizare sistem de canalizare și stație de epurare în comuna Jorăști, sat Lunca, județul Galați''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8255",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-18-2020",
+   "path": "local/galati/jorasti/2020/18",
+   "short": "HCL Jorăști nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 18/2020 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului Comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8256",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-19-2020",
+   "path": "local/galati/jorasti/2020/19",
+   "short": "HCL Jorăști nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 19/2020 privind aprobarea programului anual al achizițiilor pulice și a Strategiei anuale de achiziții publice pentru anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8257",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-20-2020",
+   "path": "local/galati/jorasti/2020/20",
+   "short": "HCL Jorăști nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 20/2020 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''Realizare sistem de canalizare și stație de epurare în comuna Jorăști, satele Jorăști și Zărnești, județul Galați''",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8258",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-22-2020",
+   "path": "local/galati/jorasti/2020/22",
+   "short": "HCL Jorăști nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 22/2020 privind utlizarea exedentului raportat din anul precedent pentru finanțarea secțiunii de dezvoltare a bugetului pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8277",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-23-2020",
+   "path": "local/galati/jorasti/2020/23",
+   "short": "HCL Jorăști nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 23/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8278",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-24-2020",
+   "path": "local/galati/jorasti/2020/24",
+   "short": "HCL Jorăști nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 24/2020 privind însușirea Raportului anual, elaborat de primarul comunei Jorăști, privind starea economică, socială și de mediu a Comunei Jorăști, județul Galați, pe anul 2019",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8279",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-25-2020",
+   "path": "local/galati/jorasti/2020/25",
+   "short": "HCL Jorăști nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 25/2020 privind aprobarea programului de măsuri de gospodărire, înfrumusețare și păstrare a ordinii și curățeniei, în Comuna Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8280",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-26-2020",
+   "path": "local/galati/jorasti/2020/26",
+   "short": "HCL Jorăști nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 26/2020 privind aprobarea implementării proiectului ''Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale '' cod SMIS 126924",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8281",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-27-2020",
+   "path": "local/galati/jorasti/2020/27",
+   "short": "HCL Jorăști nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 27/2020 privind aprobarea completării art. 36 alin (1) din Regulamentul de Organizare și Funcționare al Consiliului Local Jorăști, județul Galați aprobat prin HCL nr. 6 din 26.01.2017",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8284",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-28-2020",
+   "path": "local/galati/jorasti/2020/28",
+   "short": "HCL Jorăști nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 28/2020 privind aprobarea modificării art (3) din HCL nr. 58 din 16.12.2019 pentru stabilirea impozitelor și taxelor locale pentru anul fiscal 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8285",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-29-2020",
+   "path": "local/galati/jorasti/2020/29",
+   "short": "HCL Jorăști nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 29/2020 privind aprobarea indicatorilor tehnico-economici și a Documentației de Avizare a Lucrărilor de Intervenții (DALI) privind proiectul nr. 17/4572/192/2020, investiția, Reabilitare Dispensar ăn Comuna Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8286",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-32-2020",
+   "path": "local/galati/jorasti/2020/32",
+   "short": "HCL Jorăști nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 32/2020 privind aprobarea stabilirii tarifului privind contravaloarea eliberării avizului de către Serviciul Public de Alimentare cu Apă în scopul obținerii autorizației de construire",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8289",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-33-2020",
+   "path": "local/galati/jorasti/2020/33",
+   "short": "HCL Jorăști nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 33/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8307",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-34-2020",
+   "path": "local/galati/jorasti/2020/34",
+   "short": "HCL Jorăști nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 34/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8311",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-40-2020",
+   "path": "local/galati/jorasti/2020/40",
+   "short": "HCL Jorăști nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 40/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8318",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-41-2020",
+   "path": "local/galati/jorasti/2020/41",
+   "short": "HCL Jorăști nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 41/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8326",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-42-2020",
+   "path": "local/galati/jorasti/2020/42",
+   "short": "HCL Jorăști nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 42/2020 privind aprobarea Regulamentului de organizare și utilizare a locurilor de joacă din Comuna Jorăști și satele componente",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8327",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-43-2020",
+   "path": "local/galati/jorasti/2020/43",
+   "short": "HCL Jorăști nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 43/2020 privind revocarea HCL nr. 39/25.06.2020 privind transformarea unui post contractual de execuție și aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al primarului Comunei Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8328",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-44-2020",
+   "path": "local/galati/jorasti/2020/44",
+   "short": "HCL Jorăști nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 44/2020 privind aprobarea reorganizării aparatului de specialitate al primarului Comunei Jorăști",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8329",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-45-2020",
+   "path": "local/galati/jorasti/2020/45",
+   "short": "HCL Jorăști nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 45/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați, pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14673",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-49-2020",
+   "path": "local/galati/jorasti/2020/49",
+   "short": "HCL Jorăști nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 49/2020 privind rectificarea bugetului local al Comunei Jorăști, județul Galați, pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14677",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-51-2020",
+   "path": "local/galati/jorasti/2020/51",
+   "short": "HCL Jorăști nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 51/2020 privind rectificarea bugetului local al comunei Jorăști, județul Galați, pe anul 2020",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14679",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-54-2020",
+   "path": "local/galati/jorasti/2020/54",
+   "short": "HCL Jorăști nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 54/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/14685",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/14685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-55-2020",
    "path": "local/galati/jorasti/2020/55",
    "short": "HCL Jorăști nr. 55/2020",
@@ -228,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--jorasti-7-2020",
+   "path": "local/galati/jorasti/2020/7",
+   "short": "HCL Jorăști nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 7/2020 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului Comunei Jorăști, județul Galați",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8239",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8239",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--jorasti-70-2020",
    "path": "local/galati/jorasti/2020/70",
    "short": "HCL Jorăști nr. 70/2020",
@@ -298,6 +718,21 @@
      "from": "2020-12-24",
      "units": 1,
      "source_url": "https://emol.ro/jorasti-gl/registru-hcl/16018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-8-2020",
+   "path": "local/galati/jorasti/2020/8",
+   "short": "HCL Jorăști nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 8/2020 privind aprobarea stabilirii salariilor funcționarilor publici și a personalului contractual din cadrul aparatului propriu al primăriei și consiliului local al Comunei Jorțti în conformitate cu prevederile Legii nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/8234",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/8234",
      "sha256": null
     }
    ]

@@ -3,6 +3,116 @@
 "shard": "local/galati/negrilesti/2025",
 "acts": [
 {
+"slug": "hcl-galati--negrilesti-2-2025",
+"path": "local/galati/negrilesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 2/2025 privind aprobarea încheierii exercițiului bugetar al anului 2024 și acoperirea deficitului bugetar a secțiunii de dezvoltare cu suma de 80 000 lei, pentru comuna Negrilești, județul Galați",
+"short": "HCL Negrilești nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/187123",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-4-2025",
+"path": "local/galati/negrilesti/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 4/2025 privind aprobarea planului de actiuni si lucrari de interes local pentru anul 2025",
+"short": "HCL Negrilești nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/188528",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-5-2025",
+"path": "local/galati/negrilesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 5/2025 privind aprobarea Programullui de activițăți cultural-artistice, sociale și educative propuse a se desfășura în comuna Negrilești, județul Galați în anul 2025",
+"short": "HCL Negrilești nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/188529",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-20-2025",
+"path": "local/galati/negrilesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 20/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+"short": "HCL Negrilești nr. 20/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-20",
+"latest": "2025-06-20",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/216006",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--negrilesti-21-2025",
+"path": "local/galati/negrilesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 21/2025 privind aprobarea Regulamentului Serviciului Judetean de Salubrizare Galati",
+"short": "HCL Negrilești nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-20",
+"latest": "2025-06-20",
+"portal": "https://emol.ro/negrilesti-gl/registru-hcl/216007",
+"council": "galati/negrilesti",
+"council_name": "Consiliul Local al Comunei Negrilești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-galati--negrilesti-22-2025",
 "path": "local/galati/negrilesti/2025/22",
 "kind": "local",

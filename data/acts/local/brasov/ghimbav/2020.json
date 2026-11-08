@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-3-2020",
+"path": "local/brasov/ghimbav/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2020 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 23 ianuarie 2020 Consiliul Local al Orașului Ghimbav, întrunit în ședință în data de 23.01.2020, Având în vedere - Proiectul ordinii de zi, prevederile art. 135 din OUG nr. 57/2019 privind Codul administrativ, - prevederile art. 52, art. 53, alin. 1 - 4 din Regulamentul de Organizare și Funcțion",
+"short": "HCL Ghimbav nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-5-2020",
+"path": "local/brasov/ghimbav/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 5/2020 privind încheierea unui contract de asistență juridică cu cabinet individual de avocatură Burcuță Paraschiva Consiliul Local al Orașului Ghimbav, întrunit în ședință în data de 23.01.2020, Văzând Proiectul de hotărâre, prevederile art. 1, alin. 2) din OUG nr. 26/2012 privind unele măsuri de reducere a cheltuielilor publice și întărirea disciplinei financiare și de modificare și completare a unor a",
+"short": "HCL Ghimbav nr. 5/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-24-2020",
 "path": "local/brasov/ghimbav/2020/24",
 "kind": "local",

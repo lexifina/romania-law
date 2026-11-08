@@ -93,6 +93,411 @@
    ]
   },
   {
+   "slug": "hcl-gorj--bustuchin-37-2024",
+   "path": "local/gorj/bustuchin/2024/37",
+   "short": "HCL Bustuchin nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 37/2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/158446",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/158446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-38-2024",
+   "path": "local/gorj/bustuchin/2024/38",
+   "short": "HCL Bustuchin nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 38/2024 privind aprobarea bilanţului contabil, a contului de profit şi pierdere, precum și a raportului de activitate a administratorului pentru SC BUSTEDIL PREST S.R.L aferent anului 2023",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/158447",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/158447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-43-2024",
+   "path": "local/gorj/bustuchin/2024/43",
+   "short": "HCL Bustuchin nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 43/2024 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, județul Gorj, aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/161152",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/161152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-44-2024",
+   "path": "local/gorj/bustuchin/2024/44",
+   "short": "HCL Bustuchin nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 44/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r3",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/161153",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/161153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-49-2024",
+   "path": "local/gorj/bustuchin/2024/49",
+   "short": "HCL Bustuchin nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 49/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r4",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/164778",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/164778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-50-2024",
+   "path": "local/gorj/bustuchin/2024/50",
+   "short": "HCL Bustuchin nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 50/2024 privind completarea anexei la protocolul de predare primire, aprobat prin HCL nr. 24 din 31 august 2012",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/164779",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/164779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-51-2024",
+   "path": "local/gorj/bustuchin/2024/51",
+   "short": "HCL Bustuchin nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 51/2024 privind aprobarea dezmembrarii in patru loturi a imobilului inscris in Cartea funciara a comunei Bustuchin cu nr. 6155, in suprafata de 7460 mp",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/164780",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/164780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-52-2024",
+   "path": "local/gorj/bustuchin/2024/52",
+   "short": "HCL Bustuchin nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 52/2024 privind aprobarea dezmembrarii in doua loturi a imobilului inscris in Cartea funciara a comunei Bustuchin cu nr. 3826, in suprafata de 4281 mp",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/164781",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/164781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-55-2024",
+   "path": "local/gorj/bustuchin/2024/55",
+   "short": "HCL Bustuchin nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 55/2024 privind acordul Consiliului Local al comunei Bustuchin pentru delegarea în numele și pentru comuna Bustuchin a activității de colectare separată si transport separat deșeuri municipale, în favoarea ADIS Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/165488",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/165488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-56-2024",
+   "path": "local/gorj/bustuchin/2024/56",
+   "short": "HCL Bustuchin nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 56/2024 privind aprobarea regulamentului de ordine interioara pentru utilizarea echipamentelor fitness aflate in dotarea Salii de Sport a comunei Bustuchin si stabilirea unei taxe de acces",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/165489",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/165489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-57-2024",
+   "path": "local/gorj/bustuchin/2024/57",
+   "short": "HCL Bustuchin nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 57/2024 privind aprobarea indicatorilor tehnico - economici si a devizului general pentru obiectivul de investitie ,,Extinderea sistemului de distributie gaze naturale in localitatile Namete si Poienita apartinatoare comunei Bustuchin, Judetul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/166521",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/166521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-58-2024",
+   "path": "local/gorj/bustuchin/2024/58",
+   "short": "HCL Bustuchin nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 58/2024 privind aprobare indicatori tehnico economici si D.A.L.I la proiectul ,,Consolidarea si reabilitarea Liceului Tehnologic Bustuchin, Comuna Bustuchin, Judetul Gorj,,",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/167928",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/167928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-59-2024",
+   "path": "local/gorj/bustuchin/2024/59",
+   "short": "HCL Bustuchin nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 59/2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/167929",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/167929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-60-2024",
+   "path": "local/gorj/bustuchin/2024/60",
+   "short": "HCL Bustuchin nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 60/2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/167930",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/167930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-61-2024",
+   "path": "local/gorj/bustuchin/2024/61",
+   "short": "HCL Bustuchin nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 61/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – R5 si completarea listei de investitii cu investitia ,,Construirea unor parcuri fotovoltaice in satele Namete, Poiana Seciuri, Cionti, Bustuchin peste Apa, Valea Pojarului si Poienita din comuna Bustuchin, Judetul Gorj",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/167931",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/167931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-62-2024",
+   "path": "local/gorj/bustuchin/2024/62",
+   "short": "HCL Bustuchin nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 62/2024 privind reorganizarea aparatului de specialitate al Primarului comunei Bustuchin, județul Gorj, aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/167932",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/167932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-64-2024",
+   "path": "local/gorj/bustuchin/2024/64",
+   "short": "HCL Bustuchin nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 64/2024 privind aprobarea studiului de fezabilitate, a devizului general, a cofinantarii si acceptarea ocuparii terenului pentru Proiectul ,,Extinderea sistemului de distributie gaze naturale in localitatile Namete si Poienita apartinatoare comunei Bustuchin, Judetul Gorj''",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/168634",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/168634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-66-2024",
+   "path": "local/gorj/bustuchin/2024/66",
+   "short": "HCL Bustuchin nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 66/2024 privind aprobarea devizului general, a cofinantarii si a anexei nr.2.2 la Normele Metodologice pentru Proiectul ,,Extinderea sistemului de distributie gaze naturale in localitatile Namete si Poienita apartinatoare comunei Bustuchin, Judetul Gorj''",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/169367",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/169367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-67-2024",
+   "path": "local/gorj/bustuchin/2024/67",
+   "short": "HCL Bustuchin nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 67/2024 privind aprobarea devizului general actualizat si a indicatorilor tehnico - economici cu ajustarea aferenta contributiei de la bugetul de stat pentru obiectivul de investitii ,,Modernizare drumuri de interes local: DC 31 Valea Pojarului, DV 83, DC 31 C BUSTUCHIN PESTE APA SI DC 29 POIANA SECIURI IN COMUNA BUSTUCHIN, JUDETUL GORJ'' finantat prin Programul national de investiii ,,Anghel Saligny''",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/170373",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/170373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-69-2024",
+   "path": "local/gorj/bustuchin/2024/69",
+   "short": "HCL Bustuchin nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 69/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r6",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/171002",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/171002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-70-2024",
+   "path": "local/gorj/bustuchin/2024/70",
+   "short": "HCL Bustuchin nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 70/2024 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Bustuchin, judeţul Gorj, pentru anul 2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/171003",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/171003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-75-2024",
+   "path": "local/gorj/bustuchin/2024/75",
+   "short": "HCL Bustuchin nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 75/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r7 si completarea Programului de Investitii Publice pentru anul 2024 cu investitia ''Reparatie statie de epurare in sat Pojaru, Comuna Bustuchin, Judetul Gorj''",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/172376",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/172376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-76-2024",
+   "path": "local/gorj/bustuchin/2024/76",
+   "short": "HCL Bustuchin nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 76/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r8 si completarea Programului de Investitii Publice pentru anul 2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/173172",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/173172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-77-2024",
+   "path": "local/gorj/bustuchin/2024/77",
+   "short": "HCL Bustuchin nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 77/2024 privind anularea unor obligatii bugetare principale si accesoriile aferente acestora la data de 31 august 2024",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/173781",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/173781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-78-2024",
+   "path": "local/gorj/bustuchin/2024/78",
+   "short": "HCL Bustuchin nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 78/2024 privind aprobarea Metodologiei cadru de evaluare a nevoilor comunitatii in vederea organizarii serviciilor sociale pentru persoanele varstnice",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/173782",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/173782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-82-2024",
+   "path": "local/gorj/bustuchin/2024/82",
+   "short": "HCL Bustuchin nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 82/2024 privind aprobarea documentatiei tehnico-economica si a indicatorilor tehnico-economici pentru proiectul “CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC IN COMUNA BUSTUCHIN, JUDETUL GORJ”, din cadrul ,,Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public,, respectiv acordul privind asigurarea si sutinerea contributiei financiare aferente chelutielilor implementarii proiectului si care nu sunt finantate de AFM",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/174544",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/174544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-83-2024",
+   "path": "local/gorj/bustuchin/2024/83",
+   "short": "HCL Bustuchin nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 83/2024 privind aprobarea proiectului ,,Energie electrica din sursa regenerabila - fotovoltaica, in UAT Bustuchin, judetul Gorj’’",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/174545",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/174545",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--bustuchin-86-2024",
    "path": "local/gorj/bustuchin/2024/86",
    "short": "HCL Bustuchin nr. 86/2024",

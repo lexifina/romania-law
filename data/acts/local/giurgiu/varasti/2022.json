@@ -3,6 +3,116 @@
 "shard": "local/giurgiu/varasti/2022",
 "acts": [
 {
+"slug": "hcl-giurgiu--varasti-3-2022",
+"path": "local/giurgiu/varasti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 3/2022 privind înființarea Clubului Sportiv de drept public - Club sportiv ,, Giganții Vărăști 2022” cu participarea Consiliului Local al comunei Vărăști și aprobarea Regulamentului de organizare și funcționare",
+"short": "HCL Vărăști nr. 3/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/56998",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-19-2022",
+"path": "local/giurgiu/varasti/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 19/2022 privind aprobarea actualizării nomeclatorului stradal al comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/70370",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-27-2022",
+"path": "local/giurgiu/varasti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 27/2022 privind aprobarea retragerii comunelor Frătești și Oinacu din Asociația de Dezvoltare Intercomunitara „SĂNĂTATE ASIGURATĂ PRIN APĂ CURATĂ”",
+"short": "HCL Vărăști nr. 27/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/70378",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-39-2022",
+"path": "local/giurgiu/varasti/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 39/2022 privind aprobarea proiectului ”Realizare sistem de monitorizare și supraveghere video în comuna Vărăști, județul Giurgiu”, Planul Național de Redresare și Reziliență, Componenta 10-Fondul Local 1.1.2-Asigurarea infrastructurii pentru transportul verde-ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+"short": "HCL Vărăști nr. 39/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/70512",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-47-2022",
+"path": "local/giurgiu/varasti/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 47/2022 privind aprobarea retragerii comunei Clejani din Asociația de Dezvoltare Intercomunitară „SĂNĂTATE ASIGURATĂ PRIN APĂ CURATĂ”",
+"short": "HCL Vărăști nr. 47/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/70531",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-giurgiu--varasti-62-2022",
 "path": "local/giurgiu/varasti/2022/62",
 "kind": "local",
