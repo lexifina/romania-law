@@ -3,6 +3,28 @@
 "shard": "local/prahova/banesti/2020",
 "acts": [
 {
+"slug": "hcl-prahova--banesti-1-2020",
+"path": "local/prahova/banesti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 1/2020 privind alegerea”Preşedintelui de şedinţă” al Consiliului Local al comunei Băneşti pentru şedinţele din luna ianuarie 2020",
+"short": "HCL Bănești nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5072",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-2-2020",
 "path": "local/prahova/banesti/2020/2",
 "kind": "local",
@@ -133,6 +155,50 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-8-2020",
+"path": "local/prahova/banesti/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 8/2020 privind alegerea”Preşedintelui de şedinţă”al Consiliului Local al comunei Băneşti pentru şedinţele din luna februarie 2020",
+"short": "HCL Bănești nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5079",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-9-2020",
+"path": "local/prahova/banesti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 9/2020 privind aprobarea efectuării unui schimb de terenuri",
+"short": "HCL Bănești nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5080",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-19-2020",
+"path": "local/prahova/banesti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 19/2020 privind alegerea”Preşedintelui de şedinţă”al Consiliului Local al comunei Băneşti pentru şedinţele din luna aprilie 2020",
+"short": "HCL Bănești nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5090",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-20-2020",
 "path": "local/prahova/banesti/2020/20",
 "kind": "local",
@@ -445,6 +533,50 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-25-2020",
+"path": "local/prahova/banesti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 25/2020 privind aprobarea prelungirii prin act adițional a Contractului de închiriere nr.1788/13.05.2010, încheiat între COMUNA BĂNEȘTI și S.C.” IACĂRII ACROBAȚI” S.R.L",
+"short": "HCL Bănești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5096",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-26-2020",
+"path": "local/prahova/banesti/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 26/2020 privind aprobarea modificării prin act adițional a Contractului de concesiune nr.2260/22.06.2010, încheiat între COMUNA BĂNEȘTI și BISERICA ADVENTISTĂ DE ZIUA A ȘAPTEA – CONFERINȚA MUNTENIA",
+"short": "HCL Bănești nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5097",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-27-2020",
 "path": "local/prahova/banesti/2020/27",
 "kind": "local",
@@ -508,6 +640,28 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-30-2020",
+"path": "local/prahova/banesti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 30/2020 privind alegerea”Preşedintelui de şedinţă”al Consiliului Local al comunei Băneşti pentru şedinţele din luna mai 2020",
+"short": "HCL Bănești nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-13",
+"latest": "2020-05-13",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/5101",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -643,6 +797,28 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-37-2020",
+"path": "local/prahova/banesti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 37/2020 privind alegerea”Preşedintelui de şedinţă”al Consiliului Local al comunei Băneşti pentru şedinţele din luna iunie 2020",
+"short": "HCL Bănești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-15",
+"latest": "2020-06-15",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/9230",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-38-2020",
 "path": "local/prahova/banesti/2020/38",
 "kind": "local",
@@ -707,6 +883,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--banesti-41-2020",
+"path": "local/prahova/banesti/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 41/2020 privind alegerea”Preşedintelui de şedinţă”al Consiliului Local al comunei Băneşti pentru şedinţele din luna iulie 2020",
+"short": "HCL Bănești nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/9234",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -865,6 +1063,28 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-49-2020",
+"path": "local/prahova/banesti/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 49/2020 privind aprobarea documentaţiei de urbanism Plan Urbanistic de Detaliu (PUD) – RIDICARE RESTRICȚIE DE CONSTRUIRE (S=2263 MP) PENTRU AMPLASARE DEPOZIT PIESE AUTO, SEDIU ADMINISTRATIV, ATELIERE DEZMEMBRĂRI AUTO ȘI AMENAJARE DRUM ACCES (Sstud=2734 MP) în com. Băneşti, sat Băneşti, str. Cățin (De1269/1), nr. cadastral 23483, tarla 29/1, parcela A 1269/3",
+"short": "HCL Bănești nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17145",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-50-2020",
 "path": "local/prahova/banesti/2020/50",
 "kind": "local",
@@ -906,6 +1126,29 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-52-2020",
+"path": "local/prahova/banesti/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 52/2020",
+"short": "HCL Bănești nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/17148",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

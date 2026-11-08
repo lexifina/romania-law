@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-4-2020",
+"path": "local/prahova/bertea/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 4/2020 privind alegerea preşedintelui de şedinţă care va conduce şedinţele Consiliului Local al Comunei Bertea în lunile februarie, martie si aprilie 2020",
+"short": "HCL Bertea nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17154",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-5-2020",
 "path": "local/prahova/bertea/2020/5",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-9-2020",
+"path": "local/prahova/bertea/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 9/2020 privind disponibilizarea in vederea vanzarii prin licitatie a buldoescavatorului marca JCB 3C",
+"short": "HCL Bertea nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17159",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -418,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-22-2020",
+"path": "local/prahova/bertea/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 22/2020 privind alegerea preşedintelui de şedinţă care va conduce şedinţele Consiliului Local al Comunei Bertea în lunile mai, iunie si iulie, anul 2020",
+"short": "HCL Bertea nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-19",
+"latest": "2020-05-19",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/17230",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

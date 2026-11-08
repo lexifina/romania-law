@@ -3,6 +3,36 @@
  "shard": "local/prahova/cornu/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--cornu-1-2022",
+   "path": "local/prahova/cornu/2022/1",
+   "short": "HCL Cornu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 1/2022 pentru validarea dispoziției primarului nr.161 din 27 decembrie 2021 privind rectificarea bugetului local al comunei Cornu pe anul 2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48195",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-10-2022",
+   "path": "local/prahova/cornu/2022/10",
+   "short": "HCL Cornu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 10/2022 privind modificarea Hotărârii Consiliului local al comunei Cornu nr.58 din 6.08.2020, modificată și completată prin Hotărârea Consiliului local al comunei Cornu nr.73 din 18.11.2020 privind aprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”, a indicatorilor tehnico-economici și documentația de avizare a lucrărilor de intervenție (DALI) pentru această investiție precum și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55298",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55298",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-100-2022",
    "path": "local/prahova/cornu/2022/100",
    "short": "HCL Cornu nr. 100/2022",
@@ -138,6 +168,111 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-11-2022",
+   "path": "local/prahova/cornu/2022/11",
+   "short": "HCL Cornu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 11/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55299",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-12-2022",
+   "path": "local/prahova/cornu/2022/12",
+   "short": "HCL Cornu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 12/2022 privind aprobarea cuantumului burselor şcolare aferente anului şcolar 2021-2022, semestrul al II-lea",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55300",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-13-2022",
+   "path": "local/prahova/cornu/2022/13",
+   "short": "HCL Cornu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 13/2022 privind aprobarea drepturilor băneşti aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile decembrie 2021-februarie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55301",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-14-2022",
+   "path": "local/prahova/cornu/2022/14",
+   "short": "HCL Cornu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 14/2022 privind aprobarea documentației tehnice faza D.A.L.I și a indicatorilor tehnico-economici ai obiectivului de investiții „Refacere străzi L=0.035 km( PV nr.4283/02.06.2021 poziția nr.65), comuna Cornu, Județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55302",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-15-2022",
+   "path": "local/prahova/cornu/2022/15",
+   "short": "HCL Cornu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 15/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55303",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-16-2022",
+   "path": "local/prahova/cornu/2022/16",
+   "short": "HCL Cornu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 16/2022 privind aprobarea documentației tehnice faza D.A.L.I și a indicatorilor tehnico-economici ai obiectivului de investiții ”Amenajări interioare și parcare în curtea primăriei din comuna Cornu, județul Prahova”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55304",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-17-2022",
+   "path": "local/prahova/cornu/2022/17",
+   "short": "HCL Cornu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 17/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55305",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-18-2022",
    "path": "local/prahova/cornu/2022/18",
    "short": "HCL Cornu nr. 18/2022",
@@ -148,6 +283,36 @@
      "from": "2022-03-29",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/55306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-19-2022",
+   "path": "local/prahova/cornu/2022/19",
+   "short": "HCL Cornu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 19/2022 privind aprobarea depunerii proiectului ”Creșterea eficienței energetice în clădirile rezidențiale(blocuri) din comuna Cornu, județ Prahova” în cadrul apelurilor de proiecte cu titlul PNRR/2022/c5/1/a.3.1/1, PNRR/2022/c5/1/a.3.2/1 - Componenta C5 – Valul Renovării Axa 1 - Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale - Operațiunea A.3: Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/55822",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/55822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-2-2022",
+   "path": "local/prahova/cornu/2022/2",
+   "short": "HCL Cornu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 2/2022 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul IV pe anul 2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48196",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48196",
      "sha256": null
     }
    ]
@@ -168,6 +333,456 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-21-2022",
+   "path": "local/prahova/cornu/2022/21",
+   "short": "HCL Cornu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 21/2022 privind constituirea unei comisii mixte de analiză și verificare a solicitărilor de sprijin financiar depuse de unitățile de cult cult din comuna Cornu, aparţinând cultelor religioase recunoscute din România, în vederea acordării unor sume de la bugetul comunei Cornu în anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59356",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-22-2022",
+   "path": "local/prahova/cornu/2022/22",
+   "short": "HCL Cornu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 22/2022 privind modificarea și completarea organigramei, a statului de funcții și a numărului de personal, de la nivelul comunei Cornu, ca instituție publică locală",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59357",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-23-2022",
+   "path": "local/prahova/cornu/2022/23",
+   "short": "HCL Cornu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 23/2022 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul I pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59358",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-24-2022",
+   "path": "local/prahova/cornu/2022/24",
+   "short": "HCL Cornu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 24/2022 privind aprobarea contractului de finanțare nr.3363 din 15 aprilie 2022 încheiat cu Asociația Clubul Sportiv de Drept Privat Cornu pentru activităţi sportive organizate în baza legii nr.69/2000 a educației fizice şi sportului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59359",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-25-2022",
+   "path": "local/prahova/cornu/2022/25",
+   "short": "HCL Cornu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 25/2022 privind aprobarea solicitării de preluare temporară, din administrarea Consiliului județean Prahova în administrarea Consiliului local al comunei Cornu, a unui bun imobil teren în suprafață de 2526 m.p din drumul județean DJ 205G, proprietate publică a județului Prahova, în vederea realizării obiectivului de investiții “Consolidare teren punct Cimitir pe strada Carol I, comuna Cornu, județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59360",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-26-2022",
+   "path": "local/prahova/cornu/2022/26",
+   "short": "HCL Cornu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 26/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59361",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-27-2022",
+   "path": "local/prahova/cornu/2022/27",
+   "short": "HCL Cornu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 27/2022 privind vânzarea prin licitație publică a unui imobil format din teren și construcție ce apartine domeniului privat al comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59362",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-28-2022",
+   "path": "local/prahova/cornu/2022/28",
+   "short": "HCL Cornu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 28/2022 privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/59363",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/59363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-29-2022",
+   "path": "local/prahova/cornu/2022/29",
+   "short": "HCL Cornu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 29/2022 privind aprobarea depunerii proiectului ”Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Cornu” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/60548",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/60548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-3-2022",
+   "path": "local/prahova/cornu/2022/3",
+   "short": "HCL Cornu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 3/2022 privind stabilirea reţelei şcolare a unităţilor de învăţământ a unităților de învățământ preuniversitar de stat de la nivelul comunei Cornu, în anul şcolar 2022-2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48197",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-30-2022",
+   "path": "local/prahova/cornu/2022/30",
+   "short": "HCL Cornu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 30/2022 privind pentru participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public pentru proiectul \"Creșterea eficienței energetice a sistemului de iluminat public în Comuna Cornu, județul Prahova\"",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/62510",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/62510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-31-2022",
+   "path": "local/prahova/cornu/2022/31",
+   "short": "HCL Cornu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 31/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „ Refacere fântână arteziană parc primărie comuna Cornu, Județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/62511",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/62511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-32-2022",
+   "path": "local/prahova/cornu/2022/32",
+   "short": "HCL Cornu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 32/2022 privind aprobarea drepturilor băneşti aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile martie -aprilie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/62512",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/62512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-33-2022",
+   "path": "local/prahova/cornu/2022/33",
+   "short": "HCL Cornu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 33/2022 privind vânzarea prin licitație publică a unui imobil – teren în suprafață de 297 m.p. ce apartine domeniului privat al comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/62513",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/62513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-34-2022",
+   "path": "local/prahova/cornu/2022/34",
+   "short": "HCL Cornu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 34/2022 privind aprobarea unor măsuri pentru asigurarea furnizării/prestării serviciului de apă și de canalizare în comuna Cornu și stabilirea formei de organizare a acestui serviciu la nivelul comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/62514",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/62514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-35-2022",
+   "path": "local/prahova/cornu/2022/35",
+   "short": "HCL Cornu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 35/2022 privind modificarea valorii de investiție și a indicatorilor tehnico-economici ai documentației faza D.A.L.I pentru obiectivul de investiții „ Refacere strada Aleea Alunilor, Sat Cornu de Jos-0,050 km “",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64414",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-36-2022",
+   "path": "local/prahova/cornu/2022/36",
+   "short": "HCL Cornu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 36/2022 privind aprobarea Regulamentului de organizare şi funcţionare a Consiliului Local al comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64415",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-37-2022",
+   "path": "local/prahova/cornu/2022/37",
+   "short": "HCL Cornu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 37/2022 privind aprobarea închirierii prin licitație publică a imobilului proprietatea comunei, situat pe strada Stadionului, FN, nr.cad.23491 și a documentației de atribuire",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64416",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-38-2022",
+   "path": "local/prahova/cornu/2022/38",
+   "short": "HCL Cornu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 38/2022 pentru modificarea Hotărârii Consiliului local al comunei Cornu nr.10 din 24 martie 2022, privind aprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”, respectiv a indicatorilor economici și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64417",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-39-2022",
+   "path": "local/prahova/cornu/2022/39",
+   "short": "HCL Cornu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 39/2022 privind modificarea valorii de investiție și a indicatorilor economici ai obiectivului ”CONSTRUIRE SEDIUL NOU PRIMĂRIE ÎN COMUNA CORNU, JUDEȚUL PRAHOVA”, în conformitate cu prevederile Ordonanței de urgență a Guvernului nr.93/2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64418",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-4-2022",
+   "path": "local/prahova/cornu/2022/4",
+   "short": "HCL Cornu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 4/2022 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48198",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-40-2022",
+   "path": "local/prahova/cornu/2022/40",
+   "short": "HCL Cornu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 40/2022 privind modificarea cofinanţării obiectivului de investiţie ”CONSTRUIRE SEDIUL NOU PRIMĂRIE ÎN COMUNA CORNU, JUDEȚUL PRAHOVA” în conformitate cu prevederile Ordonanței de urgență a Guvernului nr.93/2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/64419",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/64419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-41-2022",
+   "path": "local/prahova/cornu/2022/41",
+   "short": "HCL Cornu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 41/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: ”Refacere strada Plaiul Cornului punct Balea, sat Cornu de Jos, județul Prahova”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66441",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-42-2022",
+   "path": "local/prahova/cornu/2022/42",
+   "short": "HCL Cornu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 42/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66442",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-43-2022",
+   "path": "local/prahova/cornu/2022/43",
+   "short": "HCL Cornu nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 43/2022 privind privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii: „Consolidare teren punct Cimitir pe strada Carol I, comuna Cornu, județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66443",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-44-2022",
+   "path": "local/prahova/cornu/2022/44",
+   "short": "HCL Cornu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 44/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66444",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-45-2022",
+   "path": "local/prahova/cornu/2022/45",
+   "short": "HCL Cornu nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 45/2022 privind modificarea indicatorilor tehnico-economici ai obiectivului de investiții „ Reabilitarea, modernizarea și dotarea Centrului Cultural, Sat Cornu de Jos, str.Veteranilor, nr.11, Comuna Cornu, Județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66445",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-46-2022",
+   "path": "local/prahova/cornu/2022/46",
+   "short": "HCL Cornu nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 46/2022 privind aprobarea Analizei stadiului de mobilizare la nivelul comunei Cornu pentru anul 2021 şi a Planului de activitate al comisiei pentru probleme de apărare pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66446",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-47-2022",
+   "path": "local/prahova/cornu/2022/47",
+   "short": "HCL Cornu nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 47/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66447",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-48-2022",
+   "path": "local/prahova/cornu/2022/48",
+   "short": "HCL Cornu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 48/2022 privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/66448",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/66448",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-49-2022",
    "path": "local/prahova/cornu/2022/49",
    "short": "HCL Cornu nr. 49/2022",
@@ -178,6 +793,36 @@
      "from": "2022-07-26",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/66671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-5-2022",
+   "path": "local/prahova/cornu/2022/5",
+   "short": "HCL Cornu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 5/2022 privind aprobarea planului de acţiuni şi lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48199",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-50-2022",
+   "path": "local/prahova/cornu/2022/50",
+   "short": "HCL Cornu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 50/2022 pentru participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu investiția \"Creșterea eficienței energetice a sistemului de iluminat public în Comuna Cornu, județul Prahova\"",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/68015",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/68015",
      "sha256": null
     }
    ]
@@ -198,6 +843,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-52-2022",
+   "path": "local/prahova/cornu/2022/52",
+   "short": "HCL Cornu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 52/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „ Creșterea eficienței energetice în clădirile rezidențiale (blocuri) din comuna Cornu, județ Prahova “",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/68017",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/68017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-53-2022",
+   "path": "local/prahova/cornu/2022/53",
+   "short": "HCL Cornu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 53/2022 pentru modificarea Hotărârii Consiliului local al comunei Cornu nr.10 din 24 martie 2022 privind aprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”, a indicatorilor tehnico-economici și documentația de avizare a lucrărilor de intervenție (DALI) pentru această investiție precum și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/68018",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/68018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-54-2022",
    "path": "local/prahova/cornu/2022/54",
    "short": "HCL Cornu nr. 54/2022",
@@ -208,6 +883,216 @@
      "from": "2022-09-07",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/70812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-55-2022",
+   "path": "local/prahova/cornu/2022/55",
+   "short": "HCL Cornu nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 55/2022 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul II pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70813",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-56-2022",
+   "path": "local/prahova/cornu/2022/56",
+   "short": "HCL Cornu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 56/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70814",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-57-2022",
+   "path": "local/prahova/cornu/2022/57",
+   "short": "HCL Cornu nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 57/2022 privind aprobarea bugetului de venituri și cheltuieli al societății APĂ CANAL CORNU S.R.L pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70815",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-58-2022",
+   "path": "local/prahova/cornu/2022/58",
+   "short": "HCL Cornu nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 58/2022 privind aprobarea drepturilor băneşti aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile mai -iulie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70816",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-59-2022",
+   "path": "local/prahova/cornu/2022/59",
+   "short": "HCL Cornu nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 59/2022 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70817",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-6-2022",
+   "path": "local/prahova/cornu/2022/6",
+   "short": "HCL Cornu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 6/2022 privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/48200",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/48200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-60-2022",
+   "path": "local/prahova/cornu/2022/60",
+   "short": "HCL Cornu nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 60/2022 privind modificarea unei funcții contractuale vacante într-o funcție contractuală de nivel superior, cu încadrarea în numărul maxim de posturi aprobat",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70818",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-61-2022",
+   "path": "local/prahova/cornu/2022/61",
+   "short": "HCL Cornu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 61/2022 privind modificarea proiectului ”Creșterea eficienței energetice în clădirile rezidențiale(blocuri) din comuna Cornu, județ Prahova” în cadrul apelurilor de proiecte cu titlul PNRR/2022/c5/1/a.3.1/1, PNRR/2022/c5/1/a.3.2/1 - Componenta C5 – Valul Renovării Axa 1 - Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale - Operațiunea A.3: Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70819",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-62-2022",
+   "path": "local/prahova/cornu/2022/62",
+   "short": "HCL Cornu nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 62/2022 privind modificarea indicatorilor tehnico-economici ai obiectivului de investiții „ Creșterea eficienței energetice în clădirile rezidențiale (blocuri) din comuna Cornu, județ Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/70820",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/70820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-63-2022",
+   "path": "local/prahova/cornu/2022/63",
+   "short": "HCL Cornu nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 63/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/72540",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/72540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-64-2022",
+   "path": "local/prahova/cornu/2022/64",
+   "short": "HCL Cornu nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 64/2022 privind reactualizarea valorii de investiție și a indicatorilor tehnico-economici ai obiectivul de investiţii ”Refacere Strada Oprii (colmatare fisuri) - 1,000 km, satul Cornu de Jos”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/72541",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/72541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-65-2022",
+   "path": "local/prahova/cornu/2022/65",
+   "short": "HCL Cornu nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 65/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/72542",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/72542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-66-2022",
+   "path": "local/prahova/cornu/2022/66",
+   "short": "HCL Cornu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 66/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/72543",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/72543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-67-2022",
+   "path": "local/prahova/cornu/2022/67",
+   "short": "HCL Cornu nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 67/2022 privind modificarea și completarea Anexei nr.12 la Hotărârea Consiliului Local Cornu nr.51/2022 privind stabilirea modalității de gestiune a serviciului de alimentare cu apă și de canalizare din comuna Cornu și atribuirea directă a contractului de delegare a gestiunii către societatea ”APĂ CANAL CORNU S.R.L.”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/72544",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/72544",
      "sha256": null
     }
    ]
@@ -228,6 +1113,111 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-69-2022",
+   "path": "local/prahova/cornu/2022/69",
+   "short": "HCL Cornu nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 69/2022 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul III pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78030",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-7-2022",
+   "path": "local/prahova/cornu/2022/7",
+   "short": "HCL Cornu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 7/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/51024",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/51024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-70-2022",
+   "path": "local/prahova/cornu/2022/70",
+   "short": "HCL Cornu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 70/2022 privind desemnarea reprezentanților Consiliului Local al comunei Cornu în Consiliul de Administraţie și în Comisia pentru evaluarea și asigurarea calității în educație de la nivelul Şcolii gimnaziale \"Profesor Cristea STĂNESCU\" Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78031",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-71-2022",
+   "path": "local/prahova/cornu/2022/71",
+   "short": "HCL Cornu nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 71/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru luna noiembrie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78032",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-72-2022",
+   "path": "local/prahova/cornu/2022/72",
+   "short": "HCL Cornu nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 72/2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78033",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-73-2022",
+   "path": "local/prahova/cornu/2022/73",
+   "short": "HCL Cornu nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 73/2022 privind aprobarea demolării construcției C1 parter cu nr.cadastral 28554-C1 situată în comuna Cornu, satul Cornu de Sus, aleea Stejarilor, nr.1",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78034",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-74-2022",
+   "path": "local/prahova/cornu/2022/74",
+   "short": "HCL Cornu nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 74/2022 privind pentru modificarea Hotărârii Consiliului local al comunei Cornu nr.53 din 5 august 2022 pentru modificarea Hotărârii nr.10 din 24 martie 2022 privind aprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”, a indicatorilor tehnico-economici și documentația de avizare a lucrărilor de intervenție (DALI) pentru această investiție precum și a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78035",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78035",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-75-2022",
    "path": "local/prahova/cornu/2022/75",
    "short": "HCL Cornu nr. 75/2022",
@@ -238,6 +1228,126 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/78036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-76-2022",
+   "path": "local/prahova/cornu/2022/76",
+   "short": "HCL Cornu nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 76/2022 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare și extindere a rețelei de alimentare cu apă potabilă și a rețelei de canalizare în comuna Cornu, Județul Prahova -etapa I“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78037",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-77-2022",
+   "path": "local/prahova/cornu/2022/77",
+   "short": "HCL Cornu nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 77/2022 privind actualizarea devizului general estimativ pentru obiectivul de investiții „Modernizare și extindere a rețelei de alimentare cu apă potabilă și a rețelei de canalizare în comuna Cornu, Județul Prahova -etapa I “ și modificarea cofinanțării de la bugetul local",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78038",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-78-2022",
+   "path": "local/prahova/cornu/2022/78",
+   "short": "HCL Cornu nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 78/2022 privind încheierea unui Acord de Parteneriat între UAT comuna Cornu și UAT județul Prahova în vederea realizării, reabilitării, extinderii și modernizării unor obiective de investiții în sistemul de alimentare cu apă și canalizare destinate îmbunătățirii sănătății publice și mediului în conformitate cu îndeplinirea obligațiilor privind gestionarea apelor uzate și accesul populației la apă potabilă",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78039",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-79-2022",
+   "path": "local/prahova/cornu/2022/79",
+   "short": "HCL Cornu nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 79/2022 aprobarea devizului general estimativ, a cererii de finanțare pentru proiectul \"Asigurarea infrastructurii pentru transportul verde-infrastructura pentru biciclete la nivel local, în comuna Cornu, județ Prahova\" precum și a altor măsuri necesare participării comunei Cornu la Programul național de realizare a pistelor pentru biciclete",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78378",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-8-2022",
+   "path": "local/prahova/cornu/2022/8",
+   "short": "HCL Cornu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 8/2022 pentru modificarea Anexei nr.4 la Hotărârea Consiliului Local al comunei Cornu nr.34/2014, privind mandatarea A.D.I „Măgura” să delege gestiunea serviciului de alimentare cu apă şi canalizare către operatorul UTILITĂŢI APASERV CORNU S.R.L",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/51025",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/51025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-80-2022",
+   "path": "local/prahova/cornu/2022/80",
+   "short": "HCL Cornu nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 80/2022 privind asocierea comunei Cornu cu judeţul Prahova în vederea realizării obiectivului de investiţii de interes public ”Modernizare stație de epurare, inclusiv stații intermediare”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/78379",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/78379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-81-2022",
+   "path": "local/prahova/cornu/2022/81",
+   "short": "HCL Cornu nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 81/2022 privind aprobarea transmiterii în domeniul public al Județului Prahova a drumului comunal DC1 înscris sub numerele cadastrale 28468 și 27886, aflat în domeniul public al comunei Cornu, în scopul clasificării ca drum județean",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81170",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-82-2022",
+   "path": "local/prahova/cornu/2022/82",
+   "short": "HCL Cornu nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 82/2022 privind pentru modificarea art.1 din Hotărârea Consiliului Local nr.70/2022 privind desemnarea reprezentanților Consiliului Local al comunei Cornu în Consiliul de Administraţie și în Comisia pentru evaluarea și asigurarea calității în educație de la nivelul Şcolii gimnaziale \"Profesor Cristea STĂNESCU\" Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81171",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81171",
      "sha256": null
     }
    ]
@@ -258,6 +1368,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-84-2022",
+   "path": "local/prahova/cornu/2022/84",
+   "short": "HCL Cornu nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 84/2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81173",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-85-2022",
+   "path": "local/prahova/cornu/2022/85",
+   "short": "HCL Cornu nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 85/2022 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile august-septembrie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81174",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81174",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-86-2022",
    "path": "local/prahova/cornu/2022/86",
    "short": "HCL Cornu nr. 86/2022",
@@ -268,6 +1408,36 @@
      "from": "2022-12-09",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/81175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-87-2022",
+   "path": "local/prahova/cornu/2022/87",
+   "short": "HCL Cornu nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 87/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru luna decembrie 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81176",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-88-2022",
+   "path": "local/prahova/cornu/2022/88",
+   "short": "HCL Cornu nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 88/2022 privind privind aprobarea proiectului și a indicatorilor asociați ai acestuia pentru realizarea obiectivului de investiții ”Capacități de producere energie din surse regenerabile pentru consum propriu al Comunei Cornu”, în vederea includerii la finanțare prin Programul Operațional Infrastructură Mare (POIM) 2014-2020",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/81177",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/81177",
      "sha256": null
     }
    ]

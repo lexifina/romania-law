@@ -33,6 +33,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-11-2024",
+   "path": "local/prahova/bertea/2024/11",
+   "short": "HCL Bertea nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 11/2024 privind aprobarea decontarii costurilor de transport pentru cadrele didactice si personal auxiliar",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/145695",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/145695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-12-2024",
+   "path": "local/prahova/bertea/2024/12",
+   "short": "HCL Bertea nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 12/2024",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/150345",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/150345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-13-2024",
+   "path": "local/prahova/bertea/2024/13",
+   "short": "HCL Bertea nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 13/2024 privind aprobarea retelei scolare la nivelul unitatii administrativ teritoriale- Comuna Bertea pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/150346",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/150346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-14-2024",
+   "path": "local/prahova/bertea/2024/14",
+   "short": "HCL Bertea nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 14/2024 privind actualizarea indicatorilor tahnico economici a obiectivului de investitii\"Modernizarea strada Iederii si strada Falcesti in comuna Bertea, Judetul Prahova",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/155661",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/155661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-15-2024",
+   "path": "local/prahova/bertea/2024/15",
+   "short": "HCL Bertea nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 15/2024 privind aprobarea executiei bugetului local la trim.I, anul 2024",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/157268",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/157268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-16-2024",
    "path": "local/prahova/bertea/2024/16",
    "short": "HCL Bertea nr. 16/2024",
@@ -43,6 +118,21 @@
      "from": "2024-05-27",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/157269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-17-2024",
+   "path": "local/prahova/bertea/2024/17",
+   "short": "HCL Bertea nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 17/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/162919",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/162919",
      "sha256": null
     }
    ]
@@ -123,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-22-2024",
+   "path": "local/prahova/bertea/2024/22",
+   "short": "HCL Bertea nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 22/2024 privind punerea la dispozitia viitorului concesionar , cu titlu gratuit, pe durata concesiunii , a terenurilor necesare pentru realizarea obiectivelor de distributie a gazelor naturale, precum si a terenurilor necesare organizarii de santier pe durata realizarii investitiei",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/162924",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/162924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-23-2024",
    "path": "local/prahova/bertea/2024/23",
    "short": "HCL Bertea nr. 23/2024",
@@ -148,6 +253,21 @@
      "from": "2024-07-22",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/162935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-25-2024",
+   "path": "local/prahova/bertea/2024/25",
+   "short": "HCL Bertea nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 25/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/168100",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/168100",
      "sha256": null
     }
    ]
@@ -378,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-4-2024",
+   "path": "local/prahova/bertea/2024/4",
+   "short": "HCL Bertea nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 4/2024",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/144992",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/144992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-40-2024",
    "path": "local/prahova/bertea/2024/40",
    "short": "HCL Bertea nr. 40/2024",
@@ -513,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-5-2024",
+   "path": "local/prahova/bertea/2024/5",
+   "short": "HCL Bertea nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 5/2024",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/144993",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/144993",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-6-2024",
    "path": "local/prahova/bertea/2024/6",
    "short": "HCL Bertea nr. 6/2024",
@@ -538,6 +688,21 @@
      "from": "2024-02-27",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/144995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-8-2024",
+   "path": "local/prahova/bertea/2024/8",
+   "short": "HCL Bertea nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 8/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/145692",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/145692",
      "sha256": null
     }
    ]

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-4-2020",
+"path": "local/prahova/filipestii-de-padure/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 4/2020 privind prelungirea duratei contractelor de inchiriere pentru terenurile si cladirile aparținând domeniului public 2020",
+"short": "HCL Filipeștii de Pădure nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/571",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-5-2020",
 "path": "local/prahova/filipestii-de-padure/2020/5",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-8-2020",
+"path": "local/prahova/filipestii-de-padure/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 8/2020 privind aprobarea grilei de salarizare a personalului din aparatul de specialitate al primarului comunei Filipeștii de Pădure",
+"short": "HCL Filipeștii de Pădure nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/575",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +264,94 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-13-2020",
+"path": "local/prahova/filipestii-de-padure/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 13/2020 privind aprobarea finanțării cheltuielilor Clubului de Vacanță",
+"short": "HCL Filipeștii de Pădure nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/580",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-14-2020",
+"path": "local/prahova/filipestii-de-padure/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 14/2020 privind aprobarea decontării contravalorii transportului cadrelor didactice pentru lunile NOIEMBRIE , DECEMBRIE și IANUARIE 2020",
+"short": "HCL Filipeștii de Pădure nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/581",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-15-2020",
+"path": "local/prahova/filipestii-de-padure/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 15/2020 privind alegerea președintelui de sedință",
+"short": "HCL Filipeștii de Pădure nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-02",
+"latest": "2020-03-02",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/582",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-16-2020",
+"path": "local/prahova/filipestii-de-padure/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 16/2020 privind alegerea viceprimarului",
+"short": "HCL Filipeștii de Pădure nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/584",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -330,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-22-2020",
+"path": "local/prahova/filipestii-de-padure/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 22/2020 privind desemnarea reprezentantului consiliului local în Consiliul de administrație al Liceului Teoretic Comuna Filipeștii de Pădure",
+"short": "HCL Filipeștii de Pădure nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2721",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +663,51 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-31-2020",
+"path": "local/prahova/filipestii-de-padure/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 31/2020 privind închirierea terenului în suprafață de 30 mp situat în vecinătatea Pieței Agroalimentare",
+"short": "HCL Filipeștii de Pădure nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-15",
+"latest": "2020-06-15",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4080",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-32-2020",
+"path": "local/prahova/filipestii-de-padure/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 32/2020",
+"short": "HCL Filipeștii de Pădure nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-15",
+"latest": "2020-06-15",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4081",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-33-2020",
 "path": "local/prahova/filipestii-de-padure/2020/33",
 "kind": "local",
@@ -528,6 +727,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-34-2020",
+"path": "local/prahova/filipestii-de-padure/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 34/2020 privind acordarea de laptopuri pentru elevii cu rezultate deosebite la învățătură și care au obținut media generală 9,99",
+"short": "HCL Filipeștii de Pădure nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-15",
+"latest": "2020-06-15",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4083",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -598,6 +819,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-38-2020",
+"path": "local/prahova/filipestii-de-padure/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 38/2020 privind acordarea de laptopuri pentru elevii cu rezultate deosebite la învățătură și au obținut minim nota 9 la examenul de evaluare națională în anul 2020",
+"short": "HCL Filipeștii de Pădure nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5925",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-39-2020",
 "path": "local/prahova/filipestii-de-padure/2020/39",
 "kind": "local",
@@ -664,6 +907,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-42-2020",
+"path": "local/prahova/filipestii-de-padure/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 42/2020 privind prelungirea duratei unor contracte de închiriere",
+"short": "HCL Filipeștii de Pădure nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-09",
+"latest": "2020-07-09",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5929",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-43-2020",
 "path": "local/prahova/filipestii-de-padure/2020/43",
 "kind": "local",
@@ -727,6 +992,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-46-2020",
+"path": "local/prahova/filipestii-de-padure/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 46/2020 privind aprobarea concesionării prin licitație publică a terenului neproductiv, în suprafață de 22566 mp, situat în Tarlaua 62 Parcela Np 1731, cu nr. cadastral 23424",
+"short": "HCL Filipeștii de Pădure nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8242",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -864,6 +1151,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-53-2020",
+"path": "local/prahova/filipestii-de-padure/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 53/2020 privind aprobarea vânzării suprafeței de 80 mp teren",
+"short": "HCL Filipeștii de Pădure nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9407",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-54-2020",
 "path": "local/prahova/filipestii-de-padure/2020/54",
 "kind": "local",
@@ -905,6 +1214,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-56-2020",
+"path": "local/prahova/filipestii-de-padure/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 56/2020 privind aprobarea preluării contractului de închiriere pentru suprafața de 779 mp teren deținut de către SC ALS TRANS SRL Filipeștii de Pădure de către SC GENESIS BIOTECH",
+"short": "HCL Filipeștii de Pădure nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9410",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -971,6 +1302,72 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-60-2020",
+"path": "local/prahova/filipestii-de-padure/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 60/2020 privind desemnarea reprezentanților consiliului local în consiliile de administrație ale unităților de învățământ preuniversitar cu personalitate juridică",
+"short": "HCL Filipeștii de Pădure nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/11826",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-61-2020",
+"path": "local/prahova/filipestii-de-padure/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 61/2020 privind desemnarea reprezentanților consiliului local în comisiile de evaluare și asigurarea calității ale unităților de învățământ de pe raza comunei",
+"short": "HCL Filipeștii de Pădure nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/11827",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-62-2020",
+"path": "local/prahova/filipestii-de-padure/2020/62",
+"kind": "local",
+"year": "2020",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 62/2020 privind închirierea unui teren în suprafață de 8 mp situat în incinta Pieței Agroalimentaree Filipeștii de Pădure",
+"short": "HCL Filipeștii de Pădure nr. 62/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-30",
+"latest": "2020-11-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/11828",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

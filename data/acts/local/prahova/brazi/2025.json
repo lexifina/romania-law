@@ -69,6 +69,139 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-4-2025",
+"path": "local/prahova/brazi/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 4/2025 privind desemnarea reprezentanților Consiliului local al comunei Brazi, județul Prahova, care vor avea calitatea de membri în cadrul Comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Brazi",
+"short": "HCL Brazi nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190906",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-5-2025",
+"path": "local/prahova/brazi/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 5/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul IV anul 2024 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Brazi nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190907",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-6-2025",
+"path": "local/prahova/brazi/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 6/2025 privind acordarea unui mandat special reprezentantului Comunei Brazi în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “Parteneriatul pentru Managementul Deșeurilor - Prahova”",
+"short": "HCL Brazi nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190908",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-7-2025",
+"path": "local/prahova/brazi/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 7/2025 privind acordarea normei de hrană personalului din cadrul Poliției Locale Brazi, județul Prahova, in anul 2025",
+"short": "HCL Brazi nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190909",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-8-2025",
+"path": "local/prahova/brazi/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 8/2025",
+"short": "HCL Brazi nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190910",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-9-2025",
+"path": "local/prahova/brazi/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 9/2025 privind aprobarea organigramei și statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/190911",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-10-2025",
 "path": "local/prahova/brazi/2025/10",
 "kind": "local",
@@ -88,6 +221,72 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-11-2025",
+"path": "local/prahova/brazi/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 11/2025 privind alegerea președintelui de ședintă pentru perioada martie - aprilie 2025",
+"short": "HCL Brazi nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/194592",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-12-2025",
+"path": "local/prahova/brazi/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 12/2025 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova”",
+"short": "HCL Brazi nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199358",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-13-2025",
+"path": "local/prahova/brazi/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 13/2025 privind acordarea unui mandat special reprezentantului Comunei Brazi în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “Parteneriatul pentru Managementul Deșeurilor - Prahova”",
+"short": "HCL Brazi nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199359",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +357,118 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-17-2025",
+"path": "local/prahova/brazi/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 17/2025",
+"short": "HCL Brazi nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199363",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-18-2025",
+"path": "local/prahova/brazi/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 18/2025 privind stabilirea agenților economici care vor fi cuprinși în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raționalizat populației, în situații deosebite stabilite de lege",
+"short": "HCL Brazi nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199364",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-19-2025",
+"path": "local/prahova/brazi/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 19/2025",
+"short": "HCL Brazi nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199365",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-20-2025",
+"path": "local/prahova/brazi/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 20/2025 privind acordarea unui mandat special reprezentantului Comunei Brazi în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “Parteneriatul pentru Managementul Deșeurilor - Prahova”",
+"short": "HCL Brazi nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/199366",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-21-2025",
+"path": "local/prahova/brazi/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 21/2025 privind stabilirea tarifului pentru serviciile de salubritate prestate pe raza comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207789",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-22-2025",
 "path": "local/prahova/brazi/2025/22",
 "kind": "local",
@@ -202,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-24-2025",
+"path": "local/prahova/brazi/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 24/2025 privind aprobarea închirierii prin atribuire directă a unor suprafețe de pajişti aflate în proprietatea privată a comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207792",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-25-2025",
 "path": "local/prahova/brazi/2025/25",
 "kind": "local",
@@ -221,6 +554,182 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-26-2025",
+"path": "local/prahova/brazi/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 26/2025 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova”",
+"short": "HCL Brazi nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207794",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-27-2025",
+"path": "local/prahova/brazi/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 27/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul I anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Brazi nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207795",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-28-2025",
+"path": "local/prahova/brazi/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 28/2025 privind alegerea președintelui de ședintă pentru perioada mai - iunie 2025",
+"short": "HCL Brazi nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207796",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-29-2025",
+"path": "local/prahova/brazi/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 29/2025 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova”",
+"short": "HCL Brazi nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207797",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-30-2025",
+"path": "local/prahova/brazi/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 30/2025 privind aprobarea participării aleșilor locali și a funcționarilor din cadrul Primăriei Brazi, județul Prahova, la cursuri de pregătire, formare și perfecționare profesională în anul 2025 și stabilirea modalității de decontare a cheltuielilor de deplasare",
+"short": "HCL Brazi nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207798",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-31-2025",
+"path": "local/prahova/brazi/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 31/2025 privind acordarea unui mandat special reprezentantului comunei Brazi, județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova”",
+"short": "HCL Brazi nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-18",
+"latest": "2025-05-18",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/207799",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-32-2025",
+"path": "local/prahova/brazi/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 32/2025 privind acordarea unor premii cuplurilor care aniversează 50 de ani de căsătorie neîntreruptă în anul 2025, elevilor din cadrul Școlilor Gimnaziale de pe raza comunei Brazi, județul Prahova care au obținut la examenul de evaluare națională din anul 2025 medii peste 9,00, precum și elevilor care au obținut rezultate deosebite la concursuri/olimpiade în anul 2025",
+"short": "HCL Brazi nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-04",
+"latest": "2025-07-04",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/210234",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-33-2025",
+"path": "local/prahova/brazi/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 33/2025 privind privind aprobarea participării UAT Comuna Brazi la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030, derulat de Administrația Fondului pentru Mediu",
+"short": "HCL Brazi nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-04",
+"latest": "2025-07-04",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/210235",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +777,95 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-36-2025",
+"path": "local/prahova/brazi/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 36/2025 privind alegerea președintelui de ședintă pentru perioada iulie - august 2025",
+"short": "HCL Brazi nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-07",
+"latest": "2025-07-07",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/215587",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-37-2025",
+"path": "local/prahova/brazi/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 37/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol în trimestrul II anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+"short": "HCL Brazi nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/217745",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-38-2025",
+"path": "local/prahova/brazi/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 38/2025 privind desemnarea reprezentanților Consiliului Local al comunei Brazi îin Biroul Clubului Sportiv Brazi, județul Prahova",
+"short": "HCL Brazi nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/217746",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-39-2025",
+"path": "local/prahova/brazi/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 39/2025",
+"short": "HCL Brazi nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/218365",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--brazi-40-2025",
 "path": "local/prahova/brazi/2025/40",
 "kind": "local",
@@ -287,6 +885,50 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-41-2025",
+"path": "local/prahova/brazi/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 41/2025 privind emiterea unui acord de principiu al Consiliului Local Brazi pentru realizarea unor obiective de interes local pe raza comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/221521",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-42-2025",
+"path": "local/prahova/brazi/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 42/2025 privind alegerea președintelui de ședintă pentru perioada septembrie - octombrie 2025",
+"short": "HCL Brazi nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/221522",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +973,95 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-45-2025",
+"path": "local/prahova/brazi/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 45/2025",
+"short": "HCL Brazi nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/225843",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-46-2025",
+"path": "local/prahova/brazi/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 46/2025 privind aprobarea organigramei și statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/225844",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-47-2025",
+"path": "local/prahova/brazi/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 47/2025 privind desemnarea reprezentanților Consiliului Local al comunei Brazi în Consiliul de Administrație al Școlii Gimnaziale ”Învățător Miu Stana” Comuna Brazi, județul Prahova, în anul școlar 2025 - 2026",
+"short": "HCL Brazi nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/225845",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-48-2025",
+"path": "local/prahova/brazi/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 48/2025 privind desemnarea reprezentantului Consiliului Local al comunei Brazi în Comisia de evaluare și asigurare a calității (CEAC), constituită la nivelul Școlii Gimnaziale ”Învățător Miu Stana” Comuna Brazi, județul Prahova, în anul școlar 2025-2026",
+"short": "HCL Brazi nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/225846",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

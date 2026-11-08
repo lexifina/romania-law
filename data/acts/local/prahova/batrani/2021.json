@@ -690,6 +690,28 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-32-2021",
+"path": "local/prahova/batrani/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 32/2021 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/33366",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-33-2021",
 "path": "local/prahova/batrani/2021/33",
 "kind": "local",
@@ -731,6 +753,51 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-35-2021",
+"path": "local/prahova/batrani/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 35/2021 privind desemnarea reprezentanților Consiliului Local al comunei Bătrâni în Consiliul de Administrație al Școlii Gimnaziale, comuna Bătrâni",
+"short": "HCL Bătrâni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/34698",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-36-2021",
+"path": "local/prahova/batrani/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 36/2021",
+"short": "HCL Bătrâni nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/34699",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

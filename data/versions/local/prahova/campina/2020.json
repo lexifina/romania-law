@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-13-2020",
+   "path": "local/prahova/campina/2020/13",
+   "short": "HCL Câmpina nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 13/2020 privind aprobarea alipirii terenului proprietatea Municipiului în suprafață de 112,00 m.p., Nr.Cadastral/CF 26044, cu terenurile în suprafață de 71,00 m.p., Nr.Cadastral/CF 27795 și 98,00 m.p., Nr.Cadastral/CF 26302, situate în Municipiul Câmpina, str.Teilor, nr.13, Tarla 36, Parcela Cc 1348 Având în vedere referatul de aprobare nr.1.165/20 ianuarie 2020 al membrilor Comisiei buget, finanțe, progr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.-13-alipire-terenuri-71mp-98mp-112mp-str.-Teilor-nr.-13.pdf",
+     "sha256": "fa616e9a17e6f22ae57be06c7b959f1f2595a5d2dba0867b7b0c596ec8164b91"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-131-2020",
    "path": "local/prahova/campina/2020/131",
    "short": "HCL Câmpina nr. 131/2020",
@@ -483,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-15-2020",
+   "path": "local/prahova/campina/2020/15",
+   "short": "HCL Câmpina nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 15/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ff562e6b0d3f12c4d599af584244ed256a71a5bf1c91b76e85b0d673ace53d14"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-150-2020",
    "path": "local/prahova/campina/2020/150",
    "short": "HCL Câmpina nr. 150/2020",
@@ -629,6 +659,51 @@
      "units": 1,
      "source_url": null,
      "sha256": "c56e78e13a67b2f75486fe77c6554731091484306f5da39edf84a479d5562a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-164-2020",
+   "path": "local/prahova/campina/2020/164",
+   "short": "HCL Câmpina nr. 164/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2020 privind aprobarea actualizării devizului general și a indicatorilor tehnico-economici (faza DATI) pentru realizarea obiectivului de investiții “Creșterea eficienței energetice în clădirile rezidențiale din Municipiul Câmpina”, COD SMIS 120681 Având în vedere Referatul de aprobare nr.28.466/8 decembrie 2020 al d-lui Moldoveanu loan - Alin -- Primarul Municipiului Câmpina, prin care propune aprobare",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/02/Hotararea-nr164-actualiz-deviz-si-ind-tehnico-ec-cladiri-rezidentiale-Bloc-7-ABC.pdf",
+     "sha256": "b8cddc55c410798d421189a365863f935a6a10dc90cf15a226f76497c44e59b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-167-2020",
+   "path": "local/prahova/campina/2020/167",
+   "short": "HCL Câmpina nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 167/2020 privind aprobarea Cererii de finanțare și a cheltuielilor aterente, în conformitate cu ultima formă a bugetului rezultat în urma actualizării devizului general pentru proicctul „Îmbunătățirea infrastructurii educaționale prin construirea unci grădinițe în Municipiul Câmpina”, Cod SMIS 124533 Având în vedere Referatul de aprobare nr.28.505/8 decembrie 2020 al d-lui Moldoveanu loan Alin — Primarul M",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/02/Hotararea-nr167-Gradinita-cerere-finantare.pdf",
+     "sha256": "5d0391ceefb9122ca9e8ea4aed499cc0a35903cd76949df7ec8fb08422face5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-169-2020",
+   "path": "local/prahova/campina/2020/169",
+   "short": "HCL Câmpina nr. 169/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 169/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fab39abe00c03a304b229a4d209844b6d43d14bf8bf241209340ad4e7d3ae09d"
     }
    ]
   },
@@ -1064,6 +1139,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "ced353281998001cc51cc5cb382b070befc9268633380289baf0a001cf9cfb21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-5-2020",
+   "path": "local/prahova/campina/2020/5",
+   "short": "HCL Câmpina nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 5/2020",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2020/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2020/03/Hot%C4%83r%C3%A2rea-nr.-5-modificare-%C8%99i-completare-Anexa-la-HCL-nr.-110-din-2017-salarii.pdf",
+     "sha256": "4064ed77b3b63143c29c76d1c1f110a61e8a757de18360b6ac3d7dd7e5303fd5"
     }
    ]
   },

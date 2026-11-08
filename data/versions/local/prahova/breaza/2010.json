@@ -3,6 +3,321 @@
  "shard": "local/prahova/breaza/2010",
  "acts": [
   {
+   "slug": "hcl-prahova--breaza-104-2010",
+   "path": "local/prahova/breaza/2010/104",
+   "short": "HCL Breaza nr. 104/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 104/2010 PRIVIND ATRIBUIREA IN FOLOSINTA GRATUITA CATRE ASOCIATIA SPORTIVA ORASENEASCA BREAZA A BAZEI SPORTIVE, PROPRIETATE PUBLICA A ORASULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304324503hot104.pdf",
+     "sha256": "457a92c396afe6e8902a8497d9273708c112fda13545074e0b2988b69850c9cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-105-2010",
+   "path": "local/prahova/breaza/2010/105",
+   "short": "HCL Breaza nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 105/2010 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304324885hot105.pdf",
+     "sha256": "7b71b75e5a9b19120dd30258addb8b594cf5f17a4cdfcb7ba5cb2661e88133df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-108-2010",
+   "path": "local/prahova/breaza/2010/108",
+   "short": "HCL Breaza nr. 108/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 108/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304325004hot108.pdf",
+     "sha256": "e9ed52a23acf8c21e36b34540aaf985db750f1eb1c467e90ff6439b51dda1eef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-11-2010",
+   "path": "local/prahova/breaza/2010/11",
+   "short": "HCL Breaza nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 11/2010 PRIVIND DEZMEMBRAREA UNOR SUPRAFETE DE TEREN DIN TERENURILE PROPRIETATE PRIVATA A ORASULUI BREAZA, IN SUPRAFATA DE 33.697 MP, RESPECTIV 61.631 MP",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1268212462hot11.pdf",
+     "sha256": "3e8b017f66cdb37a161c692cce21e0d8c37fcccba0c0aae81c386c3f0396588d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-116-2010",
+   "path": "local/prahova/breaza/2010/116",
+   "short": "HCL Breaza nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 116/2010 privind revocarea HCL nr.114/20.12.2010 pentru aprobarea normelor și regimului contravențiilor privind buna gospodărire și înfrumusețare a orașului Breaza, conviețuire socială, administrarea domeniului public, protecția mediului și conservarea mediului înconjurător",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304326079hot116.pdf",
+     "sha256": "f62b12e38e51e83cbe0f1cc0c792aa7430fe45dc089bf70fce26214b2dd6f0d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-12-2010",
+   "path": "local/prahova/breaza/2010/12",
+   "short": "HCL Breaza nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 12/2010 PRIVIND MODIFICAREA UNOR HOTARARI ADOPTATE DE CONSILIUL LOCAL BREAZA AV�ND",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1268212499hot12.pdf",
+     "sha256": "0b7b3ad39121a54a3ffe773da7a46aa69bb26129a79b03a7319628e3071ff1d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-16-2010",
+   "path": "local/prahova/breaza/2010/16",
+   "short": "HCL Breaza nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 16/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1268212637hot16.pdf",
+     "sha256": "2806804cf331f13700847598e7cd044b46dfa71d61e1bed63ee7b56849f1ab01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-19-2010",
+   "path": "local/prahova/breaza/2010/19",
+   "short": "HCL Breaza nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 19/2010 PRIVIND REORGANIZAREA RETELEI UNITATILOR DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA ORASULUI BREAZA PENTRU ANUL SCOLAR 2010-2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1273131192hot19.pdf",
+     "sha256": "2f08d7d30143fee009182b35f375eac3f610c91e3b41cf305ccfd39d0b9ec6b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-30-2010",
+   "path": "local/prahova/breaza/2010/30",
+   "short": "HCL Breaza nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 30/2010 PRIVIND APROBAREA DEZMEMBRARII TERENULUI IN SUPRAFATA TOTALA DE 1515 MP, PROPRIETATE PRIVATA A ORASULUI BREAZA,INTABULAT IN CF NR.9765 A UNITATII ADMINISTRATIV TERITORIALE BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1273133566hot30.pdf",
+     "sha256": "5c8d63a548e5d0b65a7f90dd151e71d14277b4a678b02456b0fe76a6ba813f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-33-2010",
+   "path": "local/prahova/breaza/2010/33",
+   "short": "HCL Breaza nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 33/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1273133876hot33.pdf",
+     "sha256": "ab484a230f697ec71464f343436935dbbec2f6bbb9db5b8f8b0d805469a3563e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-35-2010",
+   "path": "local/prahova/breaza/2010/35",
+   "short": "HCL Breaza nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 35/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-04-21",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1273133960hot35.pdf",
+     "sha256": "5212fad2e0201fd676a63fc641a409ee2eecf2cc90a7085fe8a76c4b070be63e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-40-2010",
+   "path": "local/prahova/breaza/2010/40",
+   "short": "HCL Breaza nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 40/2010 pentru modificarea HCL nr.40/29.04.2010 privind modificarea formei de organizare şi funcţionare a aşezamantului cultural local, din casa de cultură, in centru cultural",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1400134200hcl-40-2014.pdf",
+     "sha256": "1d9ccabc0ba09f364db45186f900551392f93ffb4575e1164005103c37ef5af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-53-2010",
+   "path": "local/prahova/breaza/2010/53",
+   "short": "HCL Breaza nr. 53/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 53/2010 pentru revocarea HCL nr.44/29.04.2010 privind inchirierea prin licitatie publica cu strigare a unui imobil teren in suprafata de 27,5 ha, apartinand domeniului privat, situat in orasul Breaza, Pct.Frasinet",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1277102002hot53.pdf",
+     "sha256": "b519693e86fe2d748af1c1eeb62df74c94401ddc85b199b133b2c38502af7780"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-54-2010",
+   "path": "local/prahova/breaza/2010/54",
+   "short": "HCL Breaza nr. 54/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 54/2010 PRIVIND ACORDUL DE PRINCIPIU AL CONSILIULUI LOCAL BREAZA IN VEDEREA EXECUTARII UNOR LUCRARI DE UTILITATE PUBLICA PE BLD.EROILOR",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1277102052hot54.pdf",
+     "sha256": "f34aca80452e7969ab3231323caef262362565053e60c9d4e54131fe27c8ccc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-56-2010",
+   "path": "local/prahova/breaza/2010/56",
+   "short": "HCL Breaza nr. 56/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 56/2010 pentru modificarea si completarea HCL nr.21/24.03.2010 privind acordul de principiu al Consiliului Local Breaza, pentru asigurarea unui spatiu Spitalului de Boli Pulmonare in vederea desfasurarii activitatii",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1277102133hot56.pdf",
+     "sha256": "95cf0c24385d9d6fbd4108e35cc849c0c393728deb6888266e25570fb892de04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-58-2010",
+   "path": "local/prahova/breaza/2010/58",
+   "short": "HCL Breaza nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 58/2010 PRIVIND APROBAREA ORGANIZăRII şI STATULUI DE FUNCţII AL APARATULUI DE SPECIALITATE AL PRIMARULUI ORAşULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1280404281hot58.pdf",
+     "sha256": "8448310a25fc624cdb694b0034d0cf148b92397a38f83620f465cf601c801181"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-64-2010",
+   "path": "local/prahova/breaza/2010/64",
+   "short": "HCL Breaza nr. 64/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 64/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1280404835hot64.pdf",
+     "sha256": "5ebe8b63eedbd1a4e28b4a3631a5837eff124aa43e6986d6092c69dfc4dbceae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-66-2010",
+   "path": "local/prahova/breaza/2010/66",
+   "short": "HCL Breaza nr. 66/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 66/2010 privind revocarea Anexei la HCL nr.36/21.04.2010 reprezentand plan de situatie pentru identificarea unor terenuri",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1280405093hot66.pdf",
+     "sha256": "99f3e89f0ca5181eca9708c7f6c91ae357799865f39a11626671613f3b2bee00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-68-2010",
+   "path": "local/prahova/breaza/2010/68",
+   "short": "HCL Breaza nr. 68/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 68/2010 PRIVIND APROBAREA ORGANIZARII SI STATULUI DE FUNCTII AL APARATULUI DE SPECIALITATE AL PRIMARULUI ORASULUI BREAZA SI A SERVICIILOR PUBLICE DIN SUBORDINE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1283841366hot68.pdf",
+     "sha256": "caf535cca925096f7d664c25c9eef7eaca2b2bd99c1e536a462e2e118ce128d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-69-2010",
+   "path": "local/prahova/breaza/2010/69",
+   "short": "HCL Breaza nr. 69/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 69/2010 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1283841570hot69.pdf",
+     "sha256": "e210dc4ed2ae16086684bca177a7f45382666cb41cf21bdaab4b884e86aed558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-74-2010",
+   "path": "local/prahova/breaza/2010/74",
+   "short": "HCL Breaza nr. 74/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 74/2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1283842102hot74.pdf",
+     "sha256": "2123d12fa518727aa613a596742440e36cb271f21d8954142452cf2c0a1b0796"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-79-2010",
    "path": "local/prahova/breaza/2010/79",
    "short": "HCL Breaza nr. 79/2010",
@@ -14,6 +329,36 @@
      "units": 1,
      "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1283842438hot79.pdf",
      "sha256": "62372e8af9b87a3404e6143af5310e82ab58fd2d62a859a2b8e0b4074b6b6d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-93-2010",
+   "path": "local/prahova/breaza/2010/93",
+   "short": "HCL Breaza nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 93/2010 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-10-15",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1288168863hot93.pdf",
+     "sha256": "a5ae6a554f240535f5387e4840a5257826a6560d6c1dcb4e0cc52688122bccac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-96-2010",
+   "path": "local/prahova/breaza/2010/96",
+   "short": "HCL Breaza nr. 96/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 96/2010 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304323703hot96.pdf",
+     "sha256": "376b1b93dac342ac39ed0c728c0bffe218fe5a2606b700758192ed752761057b"
     }
    ]
   }

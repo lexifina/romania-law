@@ -3,6 +3,28 @@
 "shard": "local/prahova/cornu/2020",
 "acts": [
 {
+"slug": "hcl-prahova--cornu-1-2020",
+"path": "local/prahova/cornu/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 1/2020 privind alegerea Președintelui de ședință pentru o perioadă de trei luni",
+"short": "HCL Cornu nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/199",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-2-2020",
 "path": "local/prahova/cornu/2020/2",
 "kind": "local",
@@ -267,6 +289,72 @@
 "council_name": "Consiliul Local al Comunei Cornu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-14-2020",
+"path": "local/prahova/cornu/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 14/2020 privind aprobarea regulamentului de acordare a finanţărilor din bugetul comunei Cornu în anul 2020, pentru activităţi sportive organizate în baza legii nr.69/2000 a educației fizice şi sportului",
+"short": "HCL Cornu nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/212",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-15-2020",
+"path": "local/prahova/cornu/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 15/2020 privind constituirea unei comisii mixte de analiză și verificare a solicitărilor de sprijin financiar depuse de unitățile de cult cult din comuna Cornu, aparţinând cultelor religioase recunoscute din România, în vederea acordării unor sume de la bugetul comunei Cornu în anul 2020",
+"short": "HCL Cornu nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/213",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-16-2020",
+"path": "local/prahova/cornu/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 16/2020 privind înlocuirea unui reprezentant al Consiliului Local al comunei Cornu în Consiliul de Administraţie din cadrul Şcolii gimnaziale \"Profesor Cristea STĂNESCU\" Cornu",
+"short": "HCL Cornu nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/214",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -622,6 +710,50 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-33-2020",
+"path": "local/prahova/cornu/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 33/2020 privind aprobarea dezmembrării în 3 loturi a imobilului situat în comuna Cornu, strada Aniniș, nr.17, nr. cadastral 23548",
+"short": "HCL Cornu nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/613",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-34-2020",
+"path": "local/prahova/cornu/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 34/2020 privind aprobarea dezmembrării în 3 loturi a imobilului situat în comuna Cornu, strada Aniniș, nr.17, nr. cadastral 23547",
+"short": "HCL Cornu nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/614",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-35-2020",
 "path": "local/prahova/cornu/2020/35",
 "kind": "local",
@@ -755,6 +887,28 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-41-2020",
+"path": "local/prahova/cornu/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 41/2020 privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+"short": "HCL Cornu nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/621",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-42-2020",
 "path": "local/prahova/cornu/2020/42",
 "kind": "local",
@@ -774,6 +928,28 @@
 "council_name": "Consiliul Local al Comunei Cornu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-43-2020",
+"path": "local/prahova/cornu/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 43/2020 pentru validarea Dispoziției primarului comunei nr. 44 din 6 mai 2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Cornu nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-13",
+"latest": "2020-05-13",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/2402",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -845,6 +1021,28 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-47-2020",
+"path": "local/prahova/cornu/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 47/2020 privind repartizarea sprijinului financiar alocat pentru anul 2020, de la bugetul comunei Cornu pentru unităţile de cult din comuna Cornu, aparţinând cultelor religioase recunoscute din România",
+"short": "HCL Cornu nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/3822",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-48-2020",
 "path": "local/prahova/cornu/2020/48",
 "kind": "local",
@@ -890,6 +1088,94 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-50-2020",
+"path": "local/prahova/cornu/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 50/2020 privind atestarea aparteneței la domeniul privat al comunei Cornu a unor suprafețe de teren, în vederea înscrierii în cartea funciară",
+"short": "HCL Cornu nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7881",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-51-2020",
+"path": "local/prahova/cornu/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 51/2020 privind modificarea unei funcții contractuale vacante într-o funcție contractuală de nivel inferior",
+"short": "HCL Cornu nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7882",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-52-2020",
+"path": "local/prahova/cornu/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 52/2020 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul II pe anul 2020",
+"short": "HCL Cornu nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7883",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-53-2020",
+"path": "local/prahova/cornu/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 53/2020 privind aprobarea drepturilor băneşti aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile martie-iunie 2020",
+"short": "HCL Cornu nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7884",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-54-2020",
 "path": "local/prahova/cornu/2020/54",
 "kind": "local",
@@ -912,6 +1198,72 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-55-2020",
+"path": "local/prahova/cornu/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 55/2020 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2020",
+"short": "HCL Cornu nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7886",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-56-2020",
+"path": "local/prahova/cornu/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 56/2020 privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+"short": "HCL Cornu nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7887",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-57-2020",
+"path": "local/prahova/cornu/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 57/2020 privind rectificarea bugetului local al comunei Cornu pe anul 2020",
+"short": "HCL Cornu nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7888",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-58-2020",
 "path": "local/prahova/cornu/2020/58",
 "kind": "local",
@@ -931,6 +1283,50 @@
 "council_name": "Consiliul Local al Comunei Cornu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-59-2020",
+"path": "local/prahova/cornu/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 59/2020 privind modificarea parțială a Inventarului bunurilor care aparţin domeniului public al comunei Cornu",
+"short": "HCL Cornu nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/7890",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-60-2020",
+"path": "local/prahova/cornu/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 60/2020 privind aprobarea încheierii unui protocol de colaborare (contract de parteneriat) cu Centrul Rezidențial de Asistență și Reintegrare Socială a Personelor fără adăpost Câmpina",
+"short": "HCL Cornu nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-01",
+"latest": "2020-09-01",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/8336",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1066,6 +1462,72 @@
 }
 },
 {
+"slug": "hcl-prahova--cornu-67-2020",
+"path": "local/prahova/cornu/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 67/2020 privind înființarea unui compartiment Cabinet medical școlar",
+"short": "HCL Cornu nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/9850",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-68-2020",
+"path": "local/prahova/cornu/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 68/2020 privind rectificarea bugetului local al comunei Cornu pe anul 2020",
+"short": "HCL Cornu nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/9851",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-69-2020",
+"path": "local/prahova/cornu/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 69/2020 privind privind alegerea Preşedintelui de şedinţă pentru o perioadă de trei luni",
+"short": "HCL Cornu nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11655",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cornu-70-2020",
 "path": "local/prahova/cornu/2020/70",
 "kind": "local",
@@ -1085,6 +1547,72 @@
 "council_name": "Consiliul Local al Comunei Cornu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cornu-71-2020",
+"path": "local/prahova/cornu/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 71/2020 privind alegerea Viceprimarului comunei Cornu",
+"short": "HCL Cornu nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11750",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-72-2020",
+"path": "local/prahova/cornu/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 72/2020 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul III pe anul 2020",
+"short": "HCL Cornu nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11751",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cornu-73-2020",
+"path": "local/prahova/cornu/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornu nr. 73/2020 privind modificarea Hotărârii Consiliului local al comunei Cornu nr.58/6.08.2020 privind aprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice” a indicatorilor tehnico-economici ai documentației de avizare a lucrărilor de intervenție (DALI) pentru această investiție precum și a cheltuielilor aferente proiectului",
+"short": "HCL Cornu nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://emol.ro/cornu-ph/registru-hcl/11752",
+"council": "prahova/cornu",
+"council_name": "Consiliul Local al Comunei Cornu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

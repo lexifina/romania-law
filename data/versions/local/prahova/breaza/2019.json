@@ -3,6 +3,21 @@
  "shard": "local/prahova/breaza/2019",
  "acts": [
   {
+   "slug": "hcl-prahova--breaza-1-2019",
+   "path": "local/prahova/breaza/2019/1",
+   "short": "HCL Breaza nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 1/2019 privind achiziţionarea unor servicii juridice de consultanţă, asistenţă şi reprezentare a UAT Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-01",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-01-02-19-hcl-1.pdf",
+     "sha256": "5758bb87bcbc48bf40a93f071af05319967bccf3b51a517c47a37cb87adf6222"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-135-2019",
    "path": "local/prahova/breaza/2019/135",
    "short": "HCL Breaza nr. 135/2019",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/11/hotarari-c-l-10-45-14-11-19-hcl-1.pdf",
      "sha256": "e02624bd34d41d3498251b241f979e10857f0341e17c0f6c195ac9563017192b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-3-2019",
+   "path": "local/prahova/breaza/2019/3",
+   "short": "HCL Breaza nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 3/2019 privind utilizarea în anul 2019 a excedentului bugetar al anului 2018",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-07",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-07-02-19-hcl-3.pdf",
+     "sha256": "733cec31e32f534db06c69346eab6d92c19daa46b33c41aa57ba1a344a897d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-5-2019",
+   "path": "local/prahova/breaza/2019/5",
+   "short": "HCL Breaza nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 5/2019 privind aprobarea Planului de acţiuni şi lucrări de interes local pentru persoanele apte de muncă din familiile beneficiare de ajutor social, pentru anul 2019",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-12-02-19-hcl-5.pdf",
+     "sha256": "87ec0c09550f04950840820f10d18283ee24c1fb5bb63203c75c7599a35fedbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-6-2019",
+   "path": "local/prahova/breaza/2019/6",
+   "short": "HCL Breaza nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 6/2019 privind aprobarea noii structuri organizatorice a Serviciului Voluntar pentru Situaţii de Urgenţă din oraşul Breaza şi a Regulamentului de organizare şi funcţionare a acestui serviciu",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-16",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-16-02-19-hcl-6.pdf",
+     "sha256": "4f7b2d7078a2e6d8a00f6fcef415e4beb495d14b0cdfc1b7e1186eaf7069a13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-7-2019",
+   "path": "local/prahova/breaza/2019/7",
+   "short": "HCL Breaza nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 7/2019 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor al Oraşului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-20-02-19-hcl-7.pdf",
+     "sha256": "c6fc63fd60b7ed77514ba7e11a54783ad7eb49c4b55a2966efe67150efbdd07e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-8-2019",
+   "path": "local/prahova/breaza/2019/8",
+   "short": "HCL Breaza nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 8/2019 privind aprobarea închirierii prin licitaţie publică a 2 (două) spaţii comerciale (chioşcuri), în suprafaţă utilă de 2,70 m.p./fiecare, situate în incinta staţiilor de transport în comun din oraşul Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-22",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-22-02-19-hcl-8.pdf",
+     "sha256": "4456dd10b94c1a4a6572e79a5a7c915898e3c6715e27ad695f4db7878a252692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-9-2019",
+   "path": "local/prahova/breaza/2019/9",
+   "short": "HCL Breaza nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 9/2019 privind aprobarea cumpărării unui teren în suprafaţă de 334 mp, situat în Breaza, str",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2019-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2019/02/hotarari-2-06-31-24-02-19-hcl-9.pdf",
+     "sha256": "d29bd922a6215556b0765be955f422beb0d0b5164c308a1e9b84091d8319095a"
     }
    ]
   }

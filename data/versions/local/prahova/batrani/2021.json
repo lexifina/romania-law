@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-32-2021",
+   "path": "local/prahova/batrani/2021/32",
+   "short": "HCL Bătrâni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 32/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/33366",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/33366",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-33-2021",
    "path": "local/prahova/batrani/2021/33",
    "short": "HCL Bătrâni nr. 33/2021",
@@ -403,6 +418,36 @@
      "from": "2021-08-25",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/33365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-35-2021",
+   "path": "local/prahova/batrani/2021/35",
+   "short": "HCL Bătrâni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 35/2021 privind desemnarea reprezentanților Consiliului Local al comunei Bătrâni în Consiliul de Administrație al Școlii Gimnaziale, comuna Bătrâni",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/34698",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/34698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-36-2021",
+   "path": "local/prahova/batrani/2021/36",
+   "short": "HCL Bătrâni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 36/2021",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/34699",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/34699",
      "sha256": null
     }
    ]

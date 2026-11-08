@@ -3,6 +3,36 @@
  "shard": "local/prahova/cornu/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--cornu-1-2023",
+   "path": "local/prahova/cornu/2023/1",
+   "short": "HCL Cornu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 1/2023 privind validarea dispoziției primarului nr.192 din 23 decembrie 2022 privind rectificarea bugetului local al comunei Cornu pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86049",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-10-2023",
+   "path": "local/prahova/cornu/2023/10",
+   "short": "HCL Cornu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 10/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenție, actualizarea caracteristicilor principale și a indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare drumuri comuna Cornu, Etapa II: str.Primăverii etapa 2, str.Plaiul Cornului etapa 2, str.Topșenilor, str.Murelor, Aleea Nucilor, Aleea Zorilor, Aleea Rozelor, Aleea Iancului, Aleea Haiducilor, Aleea Mioriței din comuna Cornu, județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/88536",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/88536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-100-2023",
    "path": "local/prahova/cornu/2023/100",
    "short": "HCL Cornu nr. 100/2023",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-11-2023",
+   "path": "local/prahova/cornu/2023/11",
+   "short": "HCL Cornu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 11/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/88537",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/88537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-110-2023",
    "path": "local/prahova/cornu/2023/110",
    "short": "HCL Cornu nr. 110/2023",
@@ -258,6 +303,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-12-2023",
+   "path": "local/prahova/cornu/2023/12",
+   "short": "HCL Cornu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 12/2023 privind aprobarea bugetului de venituri și cheltuieli al societății APĂ CANAL CORNU S.R.L pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/88538",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/88538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-13-2023",
+   "path": "local/prahova/cornu/2023/13",
+   "short": "HCL Cornu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 13/2023 privind aprobarea depunerii proiectului ”Dotare cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar la nivelul comunei Cornu, județ Prahova - Școala Gimnazială Profesor Stănescu Cristea din comuna Cornu” în cadrul apelului de proiecte PNRR/2022/C15/-Educație",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/88539",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/88539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-14-2023",
+   "path": "local/prahova/cornu/2023/14",
+   "short": "HCL Cornu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 14/2023 privind aprobarea depunerii și implementării proiectului ”EXTINDERE A REȚELELOR DE APĂ POTABILĂ ȘI APĂ UZATĂ ÎN COMUNA CORNU, JUDEȚUL PRAHOVA – ETAPA 3” în cadrul apelului de proiecte cu titlul PNRR/2022/C1/I1, Componenta 1.Managementul apei, pentru Investiția I.1 \"Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2.000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene\"",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/90910",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/90910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-15-2023",
    "path": "local/prahova/cornu/2023/15",
    "short": "HCL Cornu nr. 15/2023",
@@ -268,6 +358,66 @@
      "from": "2023-03-07",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/93710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-16-2023",
+   "path": "local/prahova/cornu/2023/16",
+   "short": "HCL Cornu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 16/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93711",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-17-2023",
+   "path": "local/prahova/cornu/2023/17",
+   "short": "HCL Cornu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 17/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93712",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-18-2023",
+   "path": "local/prahova/cornu/2023/18",
+   "short": "HCL Cornu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 18/2023 privind actualizarea caracteristicilor principale și a indicatorilor tehnico-economici, a devizului general și a cofinanțării de la bugetul local pentru obiectivul de investiții „Modernizare drumuri comuna Cornu, Etapa II: str.Primăverii etapa 2, str.Plaiul Cornului etapa 2, str.Topșenilor, str.Murelor, Aleea Nucilor, Aleea Zorilor, Aleea Rozelor, Aleea Iancului, Aleea Haiducilor, Aleea Mioriței din comuna Cornu, județul Prahova“ – faza Documentație de avizare a lucrărilor de intervenție",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93713",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-19-2023",
+   "path": "local/prahova/cornu/2023/19",
+   "short": "HCL Cornu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 19/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiţii ”Conservare, restaurare, consolidare (după caz) și punere în valoare a monumentului din punctul Straștie-Plaiul Cornului, comuna Cornu, județul Prahova”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93714",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93714",
      "sha256": null
     }
    ]
@@ -288,6 +438,246 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-20-2023",
+   "path": "local/prahova/cornu/2023/20",
+   "short": "HCL Cornu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 20/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93715",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-21-2023",
+   "path": "local/prahova/cornu/2023/21",
+   "short": "HCL Cornu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 21/2023 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile decembrie 2022-ianuarie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93716",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-22-2023",
+   "path": "local/prahova/cornu/2023/22",
+   "short": "HCL Cornu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 22/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna martie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93717",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-23-2023",
+   "path": "local/prahova/cornu/2023/23",
+   "short": "HCL Cornu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 23/2023 privind aprobarea depunerii proiectului ”Dotare cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar la nivelul comunei Cornu, județ Prahova - Școala Gimnazială Profesor Stănescu Cristea din comuna Cornu” în cadrul apelului de proiecte PNRR/2022/C15/-Educație",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/93718",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/93718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-24-2023",
+   "path": "local/prahova/cornu/2023/24",
+   "short": "HCL Cornu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 24/2023 privind participarea Comunei Cornu în parteneriat cu Județul Prahova și unități administrativ-teritoriale din județul Prahova, la depunerea și implementarea proiectului „PH BIBLIOHUB” finanțat din PNRR - Investiția I17. Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, Componenta 7 – Transformare digitală",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/94053",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/94053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-25-2023",
+   "path": "local/prahova/cornu/2023/25",
+   "short": "HCL Cornu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 25/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97226",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-26-2023",
+   "path": "local/prahova/cornu/2023/26",
+   "short": "HCL Cornu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 26/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97227",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-27-2023",
+   "path": "local/prahova/cornu/2023/27",
+   "short": "HCL Cornu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 27/2023 privind asocierea comunei Cornu cu judeţul Prahova în vederea realizării obiectivului de investiţii de interes public ”Modernizare și automatizare instalații, utilități Școala Gimnazială Profesor Stănescu Cristea din comuna Cornu în vederea îmbunătățirii eficienței energetice",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97228",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-28-2023",
+   "path": "local/prahova/cornu/2023/28",
+   "short": "HCL Cornu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 28/2023 privind aprobarea a Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97229",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-29-2023",
+   "path": "local/prahova/cornu/2023/29",
+   "short": "HCL Cornu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 29/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97230",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-3-2023",
+   "path": "local/prahova/cornu/2023/3",
+   "short": "HCL Cornu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 3/2023 privind stabilirea salariilor de bază pentru personalul plătit din fonduri publice din organigrama comunei Cornu, judeţul Prahova",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86051",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-30-2023",
+   "path": "local/prahova/cornu/2023/30",
+   "short": "HCL Cornu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 30/2023 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna februarie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97231",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-31-2023",
+   "path": "local/prahova/cornu/2023/31",
+   "short": "HCL Cornu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 31/2023 privind actualizarea Anexei nr.6 la Hotărârea Consiliului Local Cornu nr.51/2022 privind stabilirea modalității de gestiune a serviciului de alimentare cu apă și de canalizare din comuna Cornu și atribuirea directă a contractului de delegare a gestiunii către societatea ”APĂ CANAL CORNU S.R.L.”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97232",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-32-2023",
+   "path": "local/prahova/cornu/2023/32",
+   "short": "HCL Cornu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 32/2023 privind aprobarea contractului de finanțare nr.6531/2023 încheiat cu Asociația Clubul Sportiv de Drept Privat Cornu pentru activităţi sportive organizate în baza legii nr.69/2000 a educației fizice şi sportului în anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97233",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-33-2023",
+   "path": "local/prahova/cornu/2023/33",
+   "short": "HCL Cornu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 33/2023 privind aprobarea închirierii prin licitație publică a imobilului teren în suprafață de 5582 m.p.proprietate a comunei CORNU, situat în satul Cornu de Jos, zona DN1, FN, nr.cad.26825, a documentației de atribuire și a contractului de închiriere",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97234",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-34-2023",
+   "path": "local/prahova/cornu/2023/34",
+   "short": "HCL Cornu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 34/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna aprilie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/97235",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/97235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-35-2023",
    "path": "local/prahova/cornu/2023/35",
    "short": "HCL Cornu nr. 35/2023",
@@ -298,6 +688,141 @@
      "from": "2023-04-28",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/102502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-36-2023",
+   "path": "local/prahova/cornu/2023/36",
+   "short": "HCL Cornu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 36/2023 privind asocierea comunei Cornu cu judeţul Prahova în vederea realizării obiectivului de investiţii de interes public ”Modernizare și automatizare instalații, utilități Școala Gimnazială Profesor Stănescu Cristea din comuna Cornu în vederea îmbunătățirii eficienței energetice”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102503",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-37-2023",
+   "path": "local/prahova/cornu/2023/37",
+   "short": "HCL Cornu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 37/2023 privind aprobarea documentației proiect tehnic și modificarea indicatorilor tehnico-economici ai obiectivului de investiții ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102504",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-38-2023",
+   "path": "local/prahova/cornu/2023/38",
+   "short": "HCL Cornu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 38/2023 privind privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna martie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102505",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-39-2023",
+   "path": "local/prahova/cornu/2023/39",
+   "short": "HCL Cornu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 39/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102506",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-4-2023",
+   "path": "local/prahova/cornu/2023/4",
+   "short": "HCL Cornu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 4/2023 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86052",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-40-2023",
+   "path": "local/prahova/cornu/2023/40",
+   "short": "HCL Cornu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 40/2023 privind modificarea salariilor de bază pentru personalul din aparatul de specialitate al primarului comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102507",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-41-2023",
+   "path": "local/prahova/cornu/2023/41",
+   "short": "HCL Cornu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 41/2023 privind modificarea unei funcții contractuale vacante",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102508",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-42-2023",
+   "path": "local/prahova/cornu/2023/42",
+   "short": "HCL Cornu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 42/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna mai 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102509",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-43-2023",
+   "path": "local/prahova/cornu/2023/43",
+   "short": "HCL Cornu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 43/2023 privind aprobarea participării Comunei Cornu, judetul Prahova la parteneriatul LEADER cu denumirea ,,Parteneriatul pentru Dezvoltarea Zonei GAL Colinele Prahovei”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/102510",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/102510",
      "sha256": null
     }
    ]
@@ -333,6 +858,351 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-46-2023",
+   "path": "local/prahova/cornu/2023/46",
+   "short": "HCL Cornu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 46/2023 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul I pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108240",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-47-2023",
+   "path": "local/prahova/cornu/2023/47",
+   "short": "HCL Cornu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 47/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108241",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-48-2023",
+   "path": "local/prahova/cornu/2023/48",
+   "short": "HCL Cornu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 48/2023 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna aprilie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108242",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-49-2023",
+   "path": "local/prahova/cornu/2023/49",
+   "short": "HCL Cornu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 49/2023 privind stabilirea de măsuri privind organizarea evenimentului cultural-artistic prilejuit de ZILELE COMUNEI CORNU respectiv “Sărbătoarea florilor de tei” ediţia a XIV-a",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108243",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-5-2023",
+   "path": "local/prahova/cornu/2023/5",
+   "short": "HCL Cornu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 5/2023 privind modificarea Anexei nr.6 la Hotărârea Consiliului Local Cornu nr.51/2022 privind stabilirea modalității de gestiune a serviciului de alimentare cu apă și de canalizare din comuna Cornu și atribuirea directă a contractului de delegare a gestiunii către societatea ”APĂ CANAL CORNU S.R.L.”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86053",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-50-2023",
+   "path": "local/prahova/cornu/2023/50",
+   "short": "HCL Cornu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 50/2023 privind actualizarea inventarului bunurilor care aparţin domeniului privat al comunei Cornu, județul Prahova, ca urmare a finalizării cadastrului sistematic și atestarea aparteneței la domeniul privat al comunei Cornu a unor imobile",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108244",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-51-2023",
+   "path": "local/prahova/cornu/2023/51",
+   "short": "HCL Cornu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 51/2023 privind reactualizarea indicatorilor tehnico-economici ai obiectivului de investiții „ Creșterea eficienței energetice în clădirile rezidențiale (blocuri) din comuna Cornu, județ Prahova“- faza Documentație de avizare a lucrărilor de intervenții",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108245",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-52-2023",
+   "path": "local/prahova/cornu/2023/52",
+   "short": "HCL Cornu nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 52/2023 privind reactualizarea documentației proiect tehnic și modificarea indicatorilor tehnico-economici ai obiectivului de investiții „Creșterea eficienței energetice în clădirile rezidențiale (blocuri) din comuna Cornu, județ Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108246",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-53-2023",
+   "path": "local/prahova/cornu/2023/53",
+   "short": "HCL Cornu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 53/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108247",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-54-2023",
+   "path": "local/prahova/cornu/2023/54",
+   "short": "HCL Cornu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 54/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna iunie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/108248",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/108248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-55-2023",
+   "path": "local/prahova/cornu/2023/55",
+   "short": "HCL Cornu nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 55/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna iulie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113898",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-56-2023",
+   "path": "local/prahova/cornu/2023/56",
+   "short": "HCL Cornu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 56/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113899",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-57-2023",
+   "path": "local/prahova/cornu/2023/57",
+   "short": "HCL Cornu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 57/2023 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113900",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-58-2023",
+   "path": "local/prahova/cornu/2023/58",
+   "short": "HCL Cornu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 58/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113901",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-59-2023",
+   "path": "local/prahova/cornu/2023/59",
+   "short": "HCL Cornu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 59/2023 privind aprobarea unui parteneriat între Comuna Cornu și Orașul Breaza",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113902",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-6-2023",
+   "path": "local/prahova/cornu/2023/6",
+   "short": "HCL Cornu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 6/2023 privind nominalizarea a doi consilieri locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale ale secretarului general al comunei pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86054",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-60-2023",
+   "path": "local/prahova/cornu/2023/60",
+   "short": "HCL Cornu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 60/2023 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Cornu, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile mai-iunie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113903",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-61-2023",
+   "path": "local/prahova/cornu/2023/61",
+   "short": "HCL Cornu nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 61/2023 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiţii „Reabilitarea, modernizarea și dotarea Centrului Cultural -sat Cornu de Jos, str.Veteranilor, nr.11, Comuna Cornu, Județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113904",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-62-2023",
+   "path": "local/prahova/cornu/2023/62",
+   "short": "HCL Cornu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 62/2023 privind reaprobarea proiectului ”Modernizare și automatizare instalații, utilități Școala Gimnazială ”Profesor Stănescu Cristea” din comuna Cornu în vederea îmbunătățirii eficienței energetice”, a cheltuielilor legate de acest proiect și reactualizarea indicatorilor tehnico-economici ai obiectivului de investiție",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113905",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-63-2023",
+   "path": "local/prahova/cornu/2023/63",
+   "short": "HCL Cornu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 63/2023 privind modificarea și completarea H.C.L nr.51/2023 privind reactualizarea indicatorilor tehnico-economici ai obiectivului de investiții „ Creșterea eficienței energetice în clădirile rezidențiale (blocuri) din comuna Cornu, județ Prahova“- faza Documentație de avizare a lucrărilor de intervenții",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113906",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-64-2023",
+   "path": "local/prahova/cornu/2023/64",
+   "short": "HCL Cornu nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 64/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna august 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113907",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-65-2023",
+   "path": "local/prahova/cornu/2023/65",
+   "short": "HCL Cornu nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 65/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113908",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-66-2023",
+   "path": "local/prahova/cornu/2023/66",
+   "short": "HCL Cornu nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 66/2023 privind aprobarea valorii finale a obiectivului de investiții ”CONSTRUIRE SEDIUL NOU PRIMĂRIE ÎN COMUNA CORNU, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/113909",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/113909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-67-2023",
    "path": "local/prahova/cornu/2023/67",
    "short": "HCL Cornu nr. 67/2023",
@@ -363,6 +1233,126 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-69-2023",
+   "path": "local/prahova/cornu/2023/69",
+   "short": "HCL Cornu nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 69/2023 privind actualizarea devizului general, caracteristicile principale și indicatorii tehnico-economici ai obiectivului de investiții „Modernizare drumuri în comuna Cornu etapa III “",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/117278",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/117278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-7-2023",
+   "path": "local/prahova/cornu/2023/7",
+   "short": "HCL Cornu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 7/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru luna februarie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/86055",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/86055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-70-2023",
+   "path": "local/prahova/cornu/2023/70",
+   "short": "HCL Cornu nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 70/2023 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiţii „Reabilitare, modernizare și dotare așezământ cultural sat Cornu de Jos, comuna Cornu, județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/117279",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/117279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-71-2023",
+   "path": "local/prahova/cornu/2023/71",
+   "short": "HCL Cornu nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 71/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/117280",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/117280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-72-2023",
+   "path": "local/prahova/cornu/2023/72",
+   "short": "HCL Cornu nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 72/2023 privind modificarea unor funcții contractuale vacante, cu încadrarea în numărul maxim de posturi aprobat",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/117281",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/117281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-73-2023",
+   "path": "local/prahova/cornu/2023/73",
+   "short": "HCL Cornu nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 73/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru ședințele lunii septembrie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/117282",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/117282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-74-2023",
+   "path": "local/prahova/cornu/2023/74",
+   "short": "HCL Cornu nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 74/2023 privind actualizarea caracteristicilor principale și a indicatorilor tehnico-economici, a devizului general și a cofinanțării de la bugetul local pentru obiectivul de investiții „Modernizare drumuri comuna Cornu, Etapa II: str.Primăverii etapa 2, str.Plaiul Cornului etapa 2, str.Topșenilor, str.Murelor, Aleea Nucilor, Aleea Zorilor, Aleea Rozelor, Aleea Iancului, Aleea Haiducilor, Aleea Mioriței din comuna Cornu, județul Prahova“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/120406",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/120406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-75-2023",
+   "path": "local/prahova/cornu/2023/75",
+   "short": "HCL Cornu nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 75/2023 privind actualizarea devizului general, caracteristicile principale și indicatorii tehnico-economici ai obiectivului de investiții „Modernizare și extindere a rețelei de alimentare cu apă potabilă și a rețelei de canalizare în comuna Cornu, Județul Prahova-etapa I“",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/120407",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/120407",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-76-2023",
    "path": "local/prahova/cornu/2023/76",
    "short": "HCL Cornu nr. 76/2023",
@@ -378,6 +1368,216 @@
    ]
   },
   {
+   "slug": "hcl-prahova--cornu-77-2023",
+   "path": "local/prahova/cornu/2023/77",
+   "short": "HCL Cornu nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 77/2023 privind declararea unor bunuri de interes public local și aprobarea trecerii acestora din patrimoniul privat al comunei Cornu în patrimoniul public al acesteia precum și inventarierea în domeniul public a construcțiilor sediu nou primărie și fântână arteziană",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122020",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-78-2023",
+   "path": "local/prahova/cornu/2023/78",
+   "short": "HCL Cornu nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 78/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122021",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-79-2023",
+   "path": "local/prahova/cornu/2023/79",
+   "short": "HCL Cornu nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 79/2023 privind aprobarea dezemembrării imobilului-teren intravilan în suprafață de 69.343 m², aflat în domeniul privat al comunei Cornu cu nr.cadastral 24822",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122022",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-8-2023",
+   "path": "local/prahova/cornu/2023/8",
+   "short": "HCL Cornu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 8/2023 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul IV pe anul 2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/88534",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/88534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-80-2023",
+   "path": "local/prahova/cornu/2023/80",
+   "short": "HCL Cornu nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 80/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122023",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-81-2023",
+   "path": "local/prahova/cornu/2023/81",
+   "short": "HCL Cornu nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 81/2023 privind modificarea statului de funcții al aparatului de specialitate al Primarului comunei Cornu, județul Prahova",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122024",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-82-2023",
+   "path": "local/prahova/cornu/2023/82",
+   "short": "HCL Cornu nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 82/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru ședințele lunii octombrie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/122025",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/122025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-83-2023",
+   "path": "local/prahova/cornu/2023/83",
+   "short": "HCL Cornu nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 83/2023 privind desemnarea reprezentanților Consiliului Local al comunei Cornu în Consiliul de Administraţie și în Comisia pentru evaluarea și asigurarea calității în educație de la nivelul Şcolii gimnaziale \"Profesor Cristea STĂNESCU\" Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127801",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-84-2023",
+   "path": "local/prahova/cornu/2023/84",
+   "short": "HCL Cornu nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 84/2023 privind rectificarea bugetului de venituri și cheltuieli al societății APĂ CANAL CORNU S.R.L pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127802",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-85-2023",
+   "path": "local/prahova/cornu/2023/85",
+   "short": "HCL Cornu nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 85/2023 privind rectificarea bugetului local al comunei Cornu pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127803",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-86-2023",
+   "path": "local/prahova/cornu/2023/86",
+   "short": "HCL Cornu nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 86/2023 privind aprobarea execuţiei bugetare pe secţiunea de funcţionare şi secţiunea de dezvoltare ale bugetului local al comunei în trimestrul III pe anul 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127804",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-87-2023",
+   "path": "local/prahova/cornu/2023/87",
+   "short": "HCL Cornu nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 87/2023 privind modificarea Anexei nr.1 la Hotărârea Consiliului local al comunei Cornu nr.17 din 28 februarie 2019 privind stabilirea normativelor proprii de cheltuieli la nivelul comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127805",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-88-2023",
+   "path": "local/prahova/cornu/2023/88",
+   "short": "HCL Cornu nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 88/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127806",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-89-2023",
+   "path": "local/prahova/cornu/2023/89",
+   "short": "HCL Cornu nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 89/2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127807",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127807",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-9-2023",
    "path": "local/prahova/cornu/2023/9",
    "short": "HCL Cornu nr. 9/2023",
@@ -388,6 +1588,96 @@
      "from": "2023-02-09",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/88535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-90-2023",
+   "path": "local/prahova/cornu/2023/90",
+   "short": "HCL Cornu nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 90/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții(D.A.L.I.) , a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiţii „Renovare integrată (Consolidare seismică și renovare energetică) a clădirii publice social culturală Bibliotecă și Muzeu”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127808",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-91-2023",
+   "path": "local/prahova/cornu/2023/91",
+   "short": "HCL Cornu nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 91/2023 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiţii ”Conservare, restaurare, consolidare (după caz) și punere în valoare a monumentului din punctul Straștie-Plaiul Cornului, comuna Cornu, județul Prahova”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127809",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-92-2023",
+   "path": "local/prahova/cornu/2023/92",
+   "short": "HCL Cornu nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 92/2023 privind alegerea președintelui și a potențialului președinte de ședință pentru ședințele lunii noiembrie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127810",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-93-2023",
+   "path": "local/prahova/cornu/2023/93",
+   "short": "HCL Cornu nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 93/2023 privind stabilirea salariilor de bază pentru funcțiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cornu, judeţul Prahova, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127811",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-94-2023",
+   "path": "local/prahova/cornu/2023/94",
+   "short": "HCL Cornu nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 94/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cornu, judeţul Prahova, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/127812",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/127812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-95-2023",
+   "path": "local/prahova/cornu/2023/95",
+   "short": "HCL Cornu nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 95/2023 privind modificarea și completarea Hotărârii Consiliului Local nr.62/2023 privind reaprobarea proiectului „Modernizare și automatizare instalații, utilități Școala Gimnazială Profesor Stănescu Cristea din comuna Cornu în vederea îmbunătățirii eficienței energetice”, a cheltuielilor legate de acest proiect și reactualizarea indicatorilor tehnico-economici ai obiectivului de investiție",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/128169",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/128169",
      "sha256": null
     }
    ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-10-2022",
+   "path": "local/prahova/bertea/2022/10",
+   "short": "HCL Bertea nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 10/2022 privind decontarea cheltuielilor de transport a cadrelor didactice si personalului auxiliar",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/52167",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/52167",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-11-2022",
    "path": "local/prahova/bertea/2022/11",
    "short": "HCL Bertea nr. 11/2022",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-23-2022",
+   "path": "local/prahova/bertea/2022/23",
+   "short": "HCL Bertea nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 23/2022 privind aprobarea presedintelui de sedinta",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/61693",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/61693",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-24-2022",
    "path": "local/prahova/bertea/2022/24",
    "short": "HCL Bertea nr. 24/2022",
@@ -258,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-27-2022",
+   "path": "local/prahova/bertea/2022/27",
+   "short": "HCL Bertea nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 27/2022 privind stabilirea inchirierii prin atribuire directa/licitatie in conditiile prevazute de OUG nr. 34/2013",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/61697",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/61697",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-28-2022",
    "path": "local/prahova/bertea/2022/28",
    "short": "HCL Bertea nr. 28/2022",
@@ -283,6 +328,21 @@
      "from": "2022-06-22",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/61699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-3-2022",
+   "path": "local/prahova/bertea/2022/3",
+   "short": "HCL Bertea nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 3/2022 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Bertea, precum si stabilirea nivelului indemnizatiei lunare de care benficiaza consilierii locali",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/51005",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/51005",
      "sha256": null
     }
    ]

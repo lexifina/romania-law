@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-3-2022",
+"path": "local/prahova/bertea/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 3/2022 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Bertea, precum si stabilirea nivelului indemnizatiei lunare de care benficiaza consilierii locali",
+"short": "HCL Bertea nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/51005",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-4-2022",
 "path": "local/prahova/bertea/2022/4",
 "kind": "local",
@@ -177,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-10-2022",
+"path": "local/prahova/bertea/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 10/2022 privind decontarea cheltuielilor de transport a cadrelor didactice si personalului auxiliar",
+"short": "HCL Bertea nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-14",
+"latest": "2022-02-14",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/52167",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -446,6 +490,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-23-2022",
+"path": "local/prahova/bertea/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 23/2022 privind aprobarea presedintelui de sedinta",
+"short": "HCL Bertea nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/61693",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-24-2022",
 "path": "local/prahova/bertea/2022/24",
 "kind": "local",
@@ -509,6 +575,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-27-2022",
+"path": "local/prahova/bertea/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 27/2022 privind stabilirea inchirierii prin atribuire directa/licitatie in conditiile prevazute de OUG nr. 34/2013",
+"short": "HCL Bertea nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-22",
+"latest": "2022-06-22",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/61697",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

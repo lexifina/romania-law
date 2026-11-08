@@ -158,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-8-2022",
+"path": "local/prahova/filipestii-de-padure/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 8/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna decembrie 2021",
+"short": "HCL Filipeștii de Pădure nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/49391",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-9-2022",
 "path": "local/prahova/filipestii-de-padure/2022/9",
 "kind": "local",
@@ -359,6 +381,50 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-18-2022",
+"path": "local/prahova/filipestii-de-padure/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 18/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile IANUARIE si FEBRUARIE 2022",
+"short": "HCL Filipeștii de Pădure nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/55504",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-19-2022",
+"path": "local/prahova/filipestii-de-padure/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 19/2022 privind aprobarea inchirierii prin licitatie publica a unui bun imobil (teren) in suprafata de 36 mp , apartinand domeniului public al Comunei Filipestii de Padure",
+"short": "HCL Filipeștii de Pădure nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/55505",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-20-2022",
 "path": "local/prahova/filipestii-de-padure/2022/20",
 "kind": "local",
@@ -378,6 +444,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-21-2022",
+"path": "local/prahova/filipestii-de-padure/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 21/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna martie 2022",
+"short": "HCL Filipeștii de Pădure nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/59613",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +554,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-26-2022",
+"path": "local/prahova/filipestii-de-padure/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 26/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna aprilie 2022",
+"short": "HCL Filipeștii de Pădure nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/63094",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -691,6 +801,50 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-37-2022",
+"path": "local/prahova/filipestii-de-padure/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 37/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile mai si iunie 2022",
+"short": "HCL Filipeștii de Pădure nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/66951",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-38-2022",
+"path": "local/prahova/filipestii-de-padure/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 38/2022 privind aprobarea inchirierii prin licitatie publica a unor bunuri imobile (terenuri ) apartinand domeniului public al Comunei Filipestii de Padure",
+"short": "HCL Filipeștii de Pădure nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/66952",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-39-2022",
 "path": "local/prahova/filipestii-de-padure/2022/39",
 "kind": "local",
@@ -868,6 +1022,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-47-2022",
+"path": "local/prahova/filipestii-de-padure/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 47/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna iulie 2022",
+"short": "HCL Filipeștii de Pădure nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/68684",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-48-2022",
 "path": "local/prahova/filipestii-de-padure/2022/48",
 "kind": "local",
@@ -998,6 +1174,72 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-54-2022",
+"path": "local/prahova/filipestii-de-padure/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 54/2022 privind desemnarea reprezentanților consiliului local în consiliile de administrație ale unităților de învățământ preuniversitar cu personalitate juridică, pentru anul scolar 2022-2023",
+"short": "HCL Filipeștii de Pădure nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/72864",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-55-2022",
+"path": "local/prahova/filipestii-de-padure/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 55/2022 privind desemnarea reprezentanților consiliului local în comisiile de evaluare și asigurarea calității ale unităților de învățământ de pe raza comunei, pentru anul scolar 2022-2023",
+"short": "HCL Filipeștii de Pădure nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/72865",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-56-2022",
+"path": "local/prahova/filipestii-de-padure/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 56/2022 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna august 2022",
+"short": "HCL Filipeștii de Pădure nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/72866",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,126 @@
  "shard": "local/prahova/breaza/2009",
  "acts": [
   {
+   "slug": "hcl-prahova--breaza-106-2009",
+   "path": "local/prahova/breaza/2009/106",
+   "short": "HCL Breaza nr. 106/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 106/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1257514101hot106.pdf",
+     "sha256": "a1ab6d161030e55c30f7698f61d4493c70d1501ec9a703805a0858abdb8c258e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-108-2009",
+   "path": "local/prahova/breaza/2009/108",
+   "short": "HCL Breaza nr. 108/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 108/2009 PRIVIND ANGAJAMENTUL CONSILIULUI LOCAL BREAZA DE A ASIGURA UNELE FINANTARI IN VEDEREA REALIZARII OBIECTIVULUI DE INVESTITIE „SALA DE SPORT” PRIN CNI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1257514225hot108.pdf",
+     "sha256": "c65cbd49461700811b5f0019ee6ffc2416d97dbfb853a9d449198487960a1390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-109-2009",
+   "path": "local/prahova/breaza/2009/109",
+   "short": "HCL Breaza nr. 109/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 109/2009 privind completarea obiectului contractului de concesiune nr.6510/25.08.1999 incheiat intre Primaria orasului Breaza si SC Floricon Salub SRL",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1257514412hot109.pdf",
+     "sha256": "fc8157412dcf3c46f82821c705e68ebd71c5ee7a75950ed5353faf2bc0dfb671"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-119-2009",
+   "path": "local/prahova/breaza/2009/119",
+   "short": "HCL Breaza nr. 119/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 119/2009 PRIVIND ASOCIEREA ORASULUI BREAZA CU CONSILIUL JUDETEAN PRAHOVA, IN VEDEREA REALIZARII UNOR LUCRARI DE INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1260354611hot119.pdf",
+     "sha256": "ea8abf1ba1bf4e2c456091ee328dac1dcee1c329a9a2d0474137ca8bbf589cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-129-2009",
+   "path": "local/prahova/breaza/2009/129",
+   "short": "HCL Breaza nr. 129/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 129/2009 PRIVIND INCETAREA ACORDARII SPORULUI DE MOBILITATE PENTRU CONSILIERUL JURIDIC DIN CADRUL APARATULUI PERMANENT AL CONSILIULUI LOCAL BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1260356272hot129.pdf",
+     "sha256": "3d0768f67abdb5a3c5e3e875cd2b0ed326523455b0aade9bb3d7125fb1d109b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-130-2009",
+   "path": "local/prahova/breaza/2009/130",
+   "short": "HCL Breaza nr. 130/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 130/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1260357706hot130.pdf",
+     "sha256": "736470b3664132873dfa050b7455f60cf8d799d375b4a83d11602ea16c5a1d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-133-2009",
+   "path": "local/prahova/breaza/2009/133",
+   "short": "HCL Breaza nr. 133/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 133/2009 PRIVIND ATRIBUIREA IN FOLOSINTA GRATUITA A TERENULUI IN SUPRAFATA DE 47 MP, PROPRIETATE PRIVATA A ORASULUI BREAZA, PENTRU REALIZAREA UNOR LUCRARI DE INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1260357943hot133.pdf",
+     "sha256": "ca2aa1eee25f2b6131909e8d7a918179721825a3b9369f4956cd2bf8bf327084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-136-2009",
+   "path": "local/prahova/breaza/2009/136",
+   "short": "HCL Breaza nr. 136/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 136/2009 privind suspendarea obligatiei de plata a chiriei prevazuta in contractul de inchiriere nr.2795/22.02.2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1263554825hot136.pdf",
+     "sha256": "747746be5cab5ce12f8fe845da2d3e2deeb7eda9c2928be6276c2be3cda47a0f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-140-2009",
    "path": "local/prahova/breaza/2009/140",
    "short": "HCL Breaza nr. 140/2009",
@@ -14,6 +134,141 @@
      "units": 5,
      "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1263555244hot140.pdf",
      "sha256": "b62fca2419129ce8285d0db5fe8e89cb5b3c41027fc991bc4c7bf3878a055048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-141-2009",
+   "path": "local/prahova/breaza/2009/141",
+   "short": "HCL Breaza nr. 141/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 141/2009 PRIVIND ACORDAREA SALARIULUI DE MERIT",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1263555312hot141.pdf",
+     "sha256": "acd9eaae02ea4fdaeaaabdc63caf4b2b8d97d0b28029a773eea91bb423d8a8db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-144-2009",
+   "path": "local/prahova/breaza/2009/144",
+   "short": "HCL Breaza nr. 144/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 144/2009 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL APARATULUI DE SPECIALITATE AL PRIMARULUI ORASULUI BREAZA, PE ANUL 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1263555430hot144.pdf",
+     "sha256": "2eb57811568158891a520c21986a356dd7b314dcd996d4023d09960a03827d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-34-2009",
+   "path": "local/prahova/breaza/2009/34",
+   "short": "HCL Breaza nr. 34/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 34/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1241422766hot34.pdf",
+     "sha256": "90b03a03fdb25116c87845ecccb93f4e14a307315f16d9f0c3feb1293a003ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-44-2009",
+   "path": "local/prahova/breaza/2009/44",
+   "short": "HCL Breaza nr. 44/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 44/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1251720769hot44.pdf",
+     "sha256": "b3929df2e4a71eb2f456ec09d8dd9a355ddeaf5e46d4c3d715858c1a933aad1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-54-2009",
+   "path": "local/prahova/breaza/2009/54",
+   "short": "HCL Breaza nr. 54/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 54/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1251721792hot54.pdf",
+     "sha256": "a9141f42bb402895ac125d1b3ef0593825e981fd1d05b98e66f9efe46aa0a103"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-58-2009",
+   "path": "local/prahova/breaza/2009/58",
+   "short": "HCL Breaza nr. 58/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 58/2009 Pentru revocarea Anexei II la HCL nr. 39/2008 privind stabilirea impozitelor si taxelor locale pentru anul 2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1251722062hot58.pdf",
+     "sha256": "4aa8436b776582957ddf1a0cdb943f6b02ab02b6e5a592c0037a42159a7afb9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-63-2009",
+   "path": "local/prahova/breaza/2009/63",
+   "short": "HCL Breaza nr. 63/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 63/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1251722338hot63.pdf",
+     "sha256": "0cb42dc8ab2bdad1aa91bce1eb36e84038f21f7c3eaa84b0818392a3cd03a2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-66-2009",
+   "path": "local/prahova/breaza/2009/66",
+   "short": "HCL Breaza nr. 66/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 66/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1251722619hot66.pdf",
+     "sha256": "f4e7b4719099196f9fbd550d8417061cbd945916f66865c44822eca86e7d04e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-81-2009",
+   "path": "local/prahova/breaza/2009/81",
+   "short": "HCL Breaza nr. 81/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 81/2009",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1255598650hot81.pdf",
+     "sha256": "221c134989eb9d9c652db4e0aed36e8116b9af905b46dbbbad6517a77194235b"
     }
    ]
   }

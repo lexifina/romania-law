@@ -179,6 +179,73 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-9-2022",
+"path": "local/prahova/dumbrava/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 9/2022",
+"short": "HCL Dumbrava nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53294",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-10-2022",
+"path": "local/prahova/dumbrava/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 10/2022 privind acceptarea unei sponsorizări",
+"short": "HCL Dumbrava nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53295",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-11-2022",
+"path": "local/prahova/dumbrava/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 11/2022 privind aprobarea organizării evenimentelor din zilele de 1 și 8 martie",
+"short": "HCL Dumbrava nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53296",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-12-2022",
 "path": "local/prahova/dumbrava/2022/12",
 "kind": "local",
@@ -198,6 +265,72 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-13-2022",
+"path": "local/prahova/dumbrava/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 13/2022 privind aprobarea acordării unui ajutor de urgență",
+"short": "HCL Dumbrava nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53298",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-14-2022",
+"path": "local/prahova/dumbrava/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 14/2022 privind stabilirea/menținerea salariilor de bază pentru personalul bugetar din cadrul Primăriei comunei Dumbrava",
+"short": "HCL Dumbrava nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53299",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-15-2022",
+"path": "local/prahova/dumbrava/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 15/2022 privind desemnarea reprezentantului consiliului local și membrului supleant în comisia de evaluare a probei de interviu pentru concursul ocupării funcției de director și director adjunct în unitățile de învățământ preuniversitar de stat din comuna Dumbrava",
+"short": "HCL Dumbrava nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/53300",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-17-2022",
+"path": "local/prahova/dumbrava/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 17/2022 privind modificarea anexei Hotărârii Consiliului Local al Comunei Dumbrava privind alegerea președintelui de ședință nr. 14/2021",
+"short": "HCL Dumbrava nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58418",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-18-2022",
 "path": "local/prahova/dumbrava/2022/18",
 "kind": "local",
@@ -245,6 +400,50 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-19-2022",
+"path": "local/prahova/dumbrava/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 19/2022 privind aprobarea contractelor de comodat și de distribuție carburanți cu asigurarea unei baze interne de incintă",
+"short": "HCL Dumbrava nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58420",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-20-2022",
+"path": "local/prahova/dumbrava/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 20/2022 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului",
+"short": "HCL Dumbrava nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58421",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-21-2022",
 "path": "local/prahova/dumbrava/2022/21",
 "kind": "local",
@@ -264,6 +463,161 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-22-2022",
+"path": "local/prahova/dumbrava/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 22/2022 privind aprobarea susţinerii financiare pentru Asociaţia Sportivă “Vulturul” Zănoaga, Asociaţia Sportivă ”Recolta” Dumbrava și unor evenimente locale",
+"short": "HCL Dumbrava nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58423",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-23-2022",
+"path": "local/prahova/dumbrava/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 23/2022 privind achiziționarea unor truse medicale profesionale și medicamente strict necesare pentru acordarea primului ajutor medical",
+"short": "HCL Dumbrava nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58424",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-24-2022",
+"path": "local/prahova/dumbrava/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 24/2022 privind aprobarea documentației lucrărilor de ”Reabilitare seismică și îmbunătățirea eficienței energetice în cadrul căminului cultural Zănoaga” şi a indicatorilor tehnico-economici la obiectivul de investiţie și pentru aprobarea proiectului „Reabilitare seismică și îmbunătățirea eficienței energetice în cadrul căminului cultural din Zănoaga, comuna Dumbrava, județul Prahova”",
+"short": "HCL Dumbrava nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58425",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-25-2022",
+"path": "local/prahova/dumbrava/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 25/2022 privind aprobarea depunerii proiectului „Reabilitare seismică și îmbunătățirea eficienței energetice în cadrul căminului cultural din Zănoaga, comuna Dumbrava, județul Prahova”",
+"short": "HCL Dumbrava nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58426",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-26-2022",
+"path": "local/prahova/dumbrava/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 26/2022",
+"short": "HCL Dumbrava nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58447",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-27-2022",
+"path": "local/prahova/dumbrava/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 27/2022 privind aprobarea documentației tehnico-economică pentru investiția ”Reabilitare, consolidare, modernizare și dotare Grădinița cu program normal, sat Dumbrava, comuna Dumbrava, județul Prahova”",
+"short": "HCL Dumbrava nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58448",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-28-2022",
+"path": "local/prahova/dumbrava/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 28/2022 privind aprobarea cererii de finanțare și devizele generale estimative ale proiectului privind obiectivul de investiții „EXTINDEREA SISTEMULUI DE DISTRIBUȚIE A GAZELOR NATURALE ÎN SATELE TRESTIENII DE SUS ȘI TRESTIENII DE JOS, COMUNA DUMBRAVA, JUDEȚUL PRAHOVA”",
+"short": "HCL Dumbrava nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58449",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +665,50 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-31-2022",
+"path": "local/prahova/dumbrava/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 31/2022 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului",
+"short": "HCL Dumbrava nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58470",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-32-2022",
+"path": "local/prahova/dumbrava/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 32/2022 privind aprobarea cererii de finanțare și devizul general estimativ al proiectului privind obiectivul de investiții „EXTINDEREA SISTEMULUI DE DISTRIBUȚIE A GAZELOR NATURALE ÎN SATELE TRESTIENII DE SUS ȘI TRESTIENII DE JOS, COMUNA DUMBRAVA, JUDEȚUL PRAHOVA”",
+"short": "HCL Dumbrava nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/58471",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-33-2022",
 "path": "local/prahova/dumbrava/2022/33",
 "kind": "local",
@@ -352,6 +750,51 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-35-2022",
+"path": "local/prahova/dumbrava/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 35/2022",
+"short": "HCL Dumbrava nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/64725",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-36-2022",
+"path": "local/prahova/dumbrava/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 36/2022 privind desemnarea șefului serviciului voluntar pentru situații de urgență",
+"short": "HCL Dumbrava nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/64726",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +908,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-42-2022",
+"path": "local/prahova/dumbrava/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 42/2022",
+"short": "HCL Dumbrava nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/64733",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-43-2022",
 "path": "local/prahova/dumbrava/2022/43",
 "kind": "local",
@@ -484,6 +950,50 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-44-2022",
+"path": "local/prahova/dumbrava/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 44/2022 privind aprobarea acordării unui ajutor de urgență",
+"short": "HCL Dumbrava nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/64735",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-45-2022",
+"path": "local/prahova/dumbrava/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 45/2022 privind modificarea anexei Hotărârii Consiliului Local al Comunei Dumbrava privind alegerea președintelui de ședință nr. 14/2021",
+"short": "HCL Dumbrava nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/65502",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +1085,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-50-2022",
+"path": "local/prahova/dumbrava/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 50/2022 privind modificarea anexei Hotărârii Consiliului Local al Comunei Dumbrava privind numerotarea birourilor si repartizarea acestora personalului compartimentelor de specialitate in contextul Covid-19 nr. 5/2021",
+"short": "HCL Dumbrava nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/65507",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-51-2022",
 "path": "local/prahova/dumbrava/2022/51",
 "kind": "local",
@@ -616,6 +1148,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-53-2022",
+"path": "local/prahova/dumbrava/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 53/2022",
+"short": "HCL Dumbrava nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/66078",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -707,6 +1262,73 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-58-2022",
+"path": "local/prahova/dumbrava/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 58/2022 privind modificarea art. 2 alin. (1) și anexa Hotărârii Consiliului Local nr. 25/17.03.2022 privind aprobarea depunerii proiectului „Reabilitare seismică și îmbunătățirea eficienței energetice în cadrul căminului cultural din Zănoaga, comuna Dumbrava, județul Prahova”",
+"short": "HCL Dumbrava nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71675",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-59-2022",
+"path": "local/prahova/dumbrava/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 59/2022",
+"short": "HCL Dumbrava nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71676",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-60-2022",
+"path": "local/prahova/dumbrava/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 60/2022 privind stabilirea prețului de vânzare a grâului din recolta anului 2021-2022",
+"short": "HCL Dumbrava nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71677",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-61-2022",
 "path": "local/prahova/dumbrava/2022/61",
 "kind": "local",
@@ -751,6 +1373,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-63-2022",
+"path": "local/prahova/dumbrava/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 63/2022 privind aprobarea inițierii demersurilor de elaborare a documentației de urbanism – Plan Urbanistic Zonal pentru extindere intravilan, zona unități industriale și depozite pentru amplasare parc fotovoltaic",
+"short": "HCL Dumbrava nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71680",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-64-2022",
 "path": "local/prahova/dumbrava/2022/64",
 "kind": "local",
@@ -770,6 +1414,117 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-65-2022",
+"path": "local/prahova/dumbrava/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 65/2022 privind trecerea din domeniul public în domeniul privat al comunei Dumbrava a unor imobile aprobarea demolării acestora",
+"short": "HCL Dumbrava nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71682",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-66-2022",
+"path": "local/prahova/dumbrava/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 66/2022 privind modificarea art. 1 din Hotărârea Consiliului Local al comunei Dumbrava nr. 43/2020 cu privire la desemnarea unor consilieri în consiliul de administrație al școlilor",
+"short": "HCL Dumbrava nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71683",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-67-2022",
+"path": "local/prahova/dumbrava/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 67/2022 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului privat în vederea accesării gropilor de împrumut și realizare groapă de împrumut la construcția Autostrăzii Dumbrava-Buzău",
+"short": "HCL Dumbrava nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/71684",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-68-2022",
+"path": "local/prahova/dumbrava/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 68/2022",
+"short": "HCL Dumbrava nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-07",
+"latest": "2022-11-07",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/78577",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-69-2022",
+"path": "local/prahova/dumbrava/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 69/2022 privind aprobarea participării Comunei DUMBRAVA în cadrul proiectului „ÎMBUNĂTĂȚIREA EFICIENȚEI ENERGETICE ÎN CADRUL PRIMĂRIEI DIN COMUNA DUMBRAVA, JUDEȚUL PRAHOVA”, de aprobare a depunerii proiectului, a notei de fundamentare a investiției, a cheltuielilor legate de proiect și anexei privind descrierea sumară a investiției propusă a fi realizată prin proiect",
+"short": "HCL Dumbrava nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/78606",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -814,6 +1569,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-72-2022",
+"path": "local/prahova/dumbrava/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 72/2022 privind aprobarea consumurilor de carburanți pentru autovehicule",
+"short": "HCL Dumbrava nr. 72/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/79158",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

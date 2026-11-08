@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-2-2022",
+"path": "local/prahova/batrani/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 2/2022 privind preluarea unui contract de închiriere având ca obiect spaţiul ocupat cu destinaţie de farmacie din Dispensarul Uman situat în comuna Bătrâni, sat Bătrâni, strada Speranţei, nr. 9, judeţul Prahova",
+"short": "HCL Bătrâni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-13",
+"latest": "2022-01-13",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/47318",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-3-2022",
 "path": "local/prahova/batrani/2022/3",
 "kind": "local",
@@ -44,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-4-2022",
+"path": "local/prahova/batrani/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 4/2022 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/48981",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-5-2022",
+"path": "local/prahova/batrani/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 5/2022 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap pentru anul 2022",
+"short": "HCL Bătrâni nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/48982",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +157,52 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-8-2022",
+"path": "local/prahova/batrani/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 8/2022",
+"short": "HCL Bătrâni nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/48985",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-9-2022",
+"path": "local/prahova/batrani/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 9/2022",
+"short": "HCL Bătrâni nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/49895",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--batrani-10-2022",
 "path": "local/prahova/batrani/2022/10",
 "kind": "local",
@@ -132,6 +244,29 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-12-2022",
+"path": "local/prahova/batrani/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 12/2022",
+"short": "HCL Bătrâni nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-25",
+"latest": "2022-02-25",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/52238",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -179,6 +314,342 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-15-2022",
+"path": "local/prahova/batrani/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 15/2022 privind aprobarea scoaterii la licitatie, în vederea închirierii, a unui spaţiu în suprafaţă de 40,85 mp, aparţinând domeniului public al comunei Bătrâni, situat în cadrul Dispensarului Uman Bătrâni",
+"short": "HCL Bătrâni nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/52584",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-16-2022",
+"path": "local/prahova/batrani/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 16/2022 privind modificarea organigramei şi ştatului de funcţii pentru Primăria comunei Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/52585",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-17-2022",
+"path": "local/prahova/batrani/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 17/2022 privind aprobarea cuantumului şi a numărului burselor şcolare acordate elevilor din învăţământul preuniversitar de stat din comuna Bătrâni, judeţul Prahova în anul şcolar 2021-2022",
+"short": "HCL Bătrâni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/52586",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-18-2022",
+"path": "local/prahova/batrani/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 18/2022 privind alegerea viceprimarului comunei Bătrâni",
+"short": "HCL Bătrâni nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-04",
+"latest": "2022-03-04",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/53187",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-19-2022",
+"path": "local/prahova/batrani/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 19/2022",
+"short": "HCL Bătrâni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55431",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-20-2022",
+"path": "local/prahova/batrani/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 20/2022 privind asocierea comunei Bătrâni cu județul Prahova și cu unele unități administrativ teritoriale din județ, în vederea constituirii Asociației de Dezvoltare Intercomunitară „Ținutul Vinului”",
+"short": "HCL Bătrâni nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55432",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-21-2022",
+"path": "local/prahova/batrani/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 21/2022 privind modificarea articolului 61 din Regulamentul de organizare şi funcţionare al Consiliului Local al comunei Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55433",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-22-2022",
+"path": "local/prahova/batrani/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 22/2022",
+"short": "HCL Bătrâni nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55434",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-23-2022",
+"path": "local/prahova/batrani/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 23/2022",
+"short": "HCL Bătrâni nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55435",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-24-2022",
+"path": "local/prahova/batrani/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 24/2022",
+"short": "HCL Bătrâni nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55436",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-25-2022",
+"path": "local/prahova/batrani/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 25/2022",
+"short": "HCL Bătrâni nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55437",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-26-2022",
+"path": "local/prahova/batrani/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 26/2022 privind asocierea Comunei Bătrâni cu Județul Prahova și cu Unităţile Administrativ Teritoriale Cerașu, Ariceștii Zeletin, Starchiojd, Posești, Cărbunești, în vederea includerii în Programul Național de Investiții ”Anghel Saligny”",
+"short": "HCL Bătrâni nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/55438",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-27-2022",
+"path": "local/prahova/batrani/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 27/2022 privind aprobarea depunerii solicitării de finanțare prin Programul Național de Investiții ”Anghel Saligny” pentru obiectivul de investiții„Înființare rețea inteligentă de distribuție gaze naturale în Județul Prahova – Comunele Cerașu, Ariceștii Zeletin, Starchiojd, Bătrâni, Posești, Cărbunești”",
+"short": "HCL Bătrâni nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/56725",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-28-2022",
+"path": "local/prahova/batrani/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 28/2022 privind aprobarea documentaţiei tehnico-economice pentru investiția„ REABILITARE, MODERNIZARE, EXTINDERE ŞI DOTARE SEDIU PRIMĂRIE ÎN SAT BĂTRÂNI,COMUNA BĂTRÂNI,JUDEŢUL PRAHOVA”",
+"short": "HCL Bătrâni nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/57101",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-29-2022",
+"path": "local/prahova/batrani/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 29/2022",
+"short": "HCL Bătrâni nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/57102",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--batrani-30-2022",
 "path": "local/prahova/batrani/2022/30",
 "kind": "local",
@@ -198,6 +669,73 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-31-2022",
+"path": "local/prahova/batrani/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 31/2022",
+"short": "HCL Bătrâni nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/58410",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-32-2022",
+"path": "local/prahova/batrani/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 32/2022 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/58411",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-33-2022",
+"path": "local/prahova/batrani/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 33/2022 privind aprobarea studiului de fezabilitate,indicatorilor tehnico economici, strategiei de tarifare și cofinanțării obiectivului de investiție prevăzute în cadrul \"Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Prahova,în perioada 2014-2020\"",
+"short": "HCL Bătrâni nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/58412",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +761,29 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-35-2022",
+"path": "local/prahova/batrani/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 35/2022",
+"short": "HCL Bătrâni nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/61989",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--batrani-36-2022",
 "path": "local/prahova/batrani/2022/36",
 "kind": "local",
@@ -245,6 +806,95 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-37-2022",
+"path": "local/prahova/batrani/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 37/2022 privind radierea dreptului de administrare înscris în Cartea Funciară 20503 în comuna Bătrâni, număr cadastral 20503 precum și schimbarea destinației bazei materiale și a terenului \"Școala cu clasele I-IV Poiana Mare\"",
+"short": "HCL Bătrâni nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/61991",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-38-2022",
+"path": "local/prahova/batrani/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 38/2022",
+"short": "HCL Bătrâni nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/61992",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-39-2022",
+"path": "local/prahova/batrani/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 39/2022 privind aprobarea documentaţiei tehnico-economice pentru investiția„ REABILITARE, MODERNIZARE, EXTINDERE ŞI DOTARE SEDIU PRIMĂRIE ÎN SAT BĂTRÂNI,COMUNA BĂTRÂNI,JUDEŢUL PRAHOVA”",
+"short": "HCL Bătrâni nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/61993",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-40-2022",
+"path": "local/prahova/batrani/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 40/2022 privind modificarea organigramei şi ştatului de funcţii pentru Primăria comunei Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/64869",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-41-2022",
 "path": "local/prahova/batrani/2022/41",
 "kind": "local",
@@ -264,6 +914,51 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-42-2022",
+"path": "local/prahova/batrani/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 42/2022 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/66258",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-43-2022",
+"path": "local/prahova/batrani/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 43/2022",
+"short": "HCL Bătrâni nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/66256",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

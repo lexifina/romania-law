@@ -1128,6 +1128,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-83-2019",
+   "path": "local/prahova/campina/2019/83",
+   "short": "HCL Câmpina nr. 83/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 83/2019",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/08/Hotararea-nr.-83-modificare-%C8%99i-completare-Anexa-HCL-99-din-2009-inventarul-domeniului-public-Cap-IV-litA-poz-12-%C8%99i-13.pdf",
+     "sha256": "720d61a5423a5e62947f46f1a1d60fe6a4de6eedb389369af2c5e3fa17fe0341"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-84-2019",
    "path": "local/prahova/campina/2019/84",
    "short": "HCL Câmpina nr. 84/2019",

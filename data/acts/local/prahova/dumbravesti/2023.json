@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-5-2023",
+"path": "local/prahova/dumbravesti/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 5/2023 privind aprobarea pentru anul 2023 a numarului de posturi pentru incadrarea in functia de asistent personal al persoanei cu handicap grav si a numarului de indemnizatii acordate persoanelor cu handicap grav",
+"short": "HCL Dumbrăvești nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-10",
+"latest": "2023-02-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/88336",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-6-2023",
 "path": "local/prahova/dumbravesti/2023/6",
 "kind": "local",
@@ -466,6 +488,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-23-2023",
+"path": "local/prahova/dumbravesti/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 23/2023",
+"short": "HCL Dumbrăvești nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/98205",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-24-2023",
 "path": "local/prahova/dumbravesti/2023/24",
 "kind": "local",
@@ -507,6 +552,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-26-2023",
+"path": "local/prahova/dumbravesti/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 26/2023",
+"short": "HCL Dumbrăvești nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/98208",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -953,6 +1021,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-47-2023",
+"path": "local/prahova/dumbravesti/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 47/2023",
+"short": "HCL Dumbrăvești nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/115225",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-48-2023",
 "path": "local/prahova/dumbravesti/2023/48",
 "kind": "local",
@@ -1040,6 +1131,232 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-52-2023",
+"path": "local/prahova/dumbravesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 52/2023",
+"short": "HCL Dumbrăvești nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121504",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-53-2023",
+"path": "local/prahova/dumbravesti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 53/2023",
+"short": "HCL Dumbrăvești nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121505",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-54-2023",
+"path": "local/prahova/dumbravesti/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 54/2023",
+"short": "HCL Dumbrăvești nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121506",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-55-2023",
+"path": "local/prahova/dumbravesti/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 55/2023 privind includerea în domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești a terenului situat în sat Plopeni, comuna Dumbrăvești, T 30 P 1002/2, nr. cadastral 23521 și completarea “Inventarului bunurilor care fac parte din domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești“",
+"short": "HCL Dumbrăvești nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121507",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-56-2023",
+"path": "local/prahova/dumbravesti/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 56/2023 privind trecerea unor bunuri din domeniul privat în domeniul public al Unității Administrativ Teritoriale Comuna Dumbrăvești",
+"short": "HCL Dumbrăvești nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121508",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-57-2023",
+"path": "local/prahova/dumbravesti/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 57/2023 privind stabilirea salariului de baza pentru funcția contractuală de execuție de Consilier personal al Primarului Comunei Dumbrăvești",
+"short": "HCL Dumbrăvești nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121509",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-58-2023",
+"path": "local/prahova/dumbravesti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 58/2023",
+"short": "HCL Dumbrăvești nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121510",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-59-2023",
+"path": "local/prahova/dumbravesti/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 59/2023 privind punerea în executare a Sentinței civile nr. 1215 din 03.12.2020 pronunțată de Tribunal Prahova",
+"short": "HCL Dumbrăvești nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/121511",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-60-2023",
+"path": "local/prahova/dumbravesti/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 60/2023",
+"short": "HCL Dumbrăvești nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/123928",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-61-2023",
+"path": "local/prahova/dumbravesti/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 61/2023",
+"short": "HCL Dumbrăvești nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/123929",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

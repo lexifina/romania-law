@@ -963,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-45-2018",
+   "path": "local/prahova/campina/2018/45",
+   "short": "HCL Câmpina nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 45/2018 privind modelul de steag Municipiul Campina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-45-privind-modelul-de-steag-Municipiul-Campina.pdf",
+     "sha256": "ec766da00f2938267de89d0bfc5cb42d4a05e1589fc54d46ddf35ef58151ec9a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-46-2018",
    "path": "local/prahova/campina/2018/46",
    "short": "HCL Câmpina nr. 46/2018",

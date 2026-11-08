@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-15-2022",
+   "path": "local/prahova/berceni/2022/15",
+   "short": "HCL Berceni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 15/2022 privind inițierea procedurii de închiriere prin atribuire directă sau licitație a pajiştilor din proprietatea privatã sau publicã a comunei Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71205",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71205",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-16-2022",
    "path": "local/prahova/berceni/2022/16",
    "short": "HCL Berceni nr. 16/2022",
@@ -118,6 +133,21 @@
      "from": "2022-02-28",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/71207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-18-2022",
+   "path": "local/prahova/berceni/2022/18",
+   "short": "HCL Berceni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 18/2022 privind completarea HCL nr. 69/27.07.2017 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familei ocupaționale “Administrație” utilizate în aparatul de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71208",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71208",
      "sha256": null
     }
    ]
@@ -168,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-21-2022",
+   "path": "local/prahova/berceni/2022/21",
+   "short": "HCL Berceni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 21/2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71211",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-22-2022",
+   "path": "local/prahova/berceni/2022/22",
+   "short": "HCL Berceni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 22/2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71212",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-23-2022",
+   "path": "local/prahova/berceni/2022/23",
+   "short": "HCL Berceni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 23/2022 privind completarea Anexei nr. 1 la HCL nr. 69/27.07.2017 privind aprobarea salariilor de bază aferente funcțiilor din cadrul familei ocupaționale “Administrație” utilizate în aparatul de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71213",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-24-2022",
    "path": "local/prahova/berceni/2022/24",
    "short": "HCL Berceni nr. 24/2022",
@@ -178,6 +253,21 @@
      "from": "2022-03-31",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/71216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-25-2022",
+   "path": "local/prahova/berceni/2022/25",
+   "short": "HCL Berceni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 25/2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71217",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71217",
      "sha256": null
     }
    ]
@@ -198,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-27-2022",
+   "path": "local/prahova/berceni/2022/27",
+   "short": "HCL Berceni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 27/2022 privind cu privire la aprobarea participării din cadrul Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C5/2/B.1/1, componenta 5 — Valul renovării, axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiunea B.1: Renovarea integrată (consolidare seismică și renovare energetică moderată) a clădirilor publice,, cu proiectul: „Reabilitare Cămin Cultural Cătunu, Comuna Berceni, Județul Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71219",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-28-2022",
+   "path": "local/prahova/berceni/2022/28",
+   "short": "HCL Berceni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 28/2022 privind cu privire la aprobarea participării din cadrul Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C5/2/B.1/1, componenta 5 — Valul renovării, axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiunea B.1: Renovarea integrată (consolidare seismică și renovare energetică moderată) a clădirilor publice,, cu proiectul: „Reabilitare Cămin Cultural Dâmbu, Comuna Berceni, Județul Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71220",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-29-2022",
+   "path": "local/prahova/berceni/2022/29",
+   "short": "HCL Berceni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 29/2022 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile aprilie, mai, iunie 2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71221",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71221",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-3-2022",
    "path": "local/prahova/berceni/2022/3",
    "short": "HCL Berceni nr. 3/2022",
@@ -208,6 +343,36 @@
      "from": "2022-01-28",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/71140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-30-2022",
+   "path": "local/prahova/berceni/2022/30",
+   "short": "HCL Berceni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 30/2022 privind aprobarea solicitării de preluare temporară, din administrarea Consiliului Județean Prahova în administrarea Consiliului Local al comunei Berceni, jud. Prahova, a suprafeței cuprinse între carosabil și limitele de proprietate a terenurilor vicinale, pe toată lungimea drumului județean DJ 139 de pe raza comunei Berceni, jud. Prahova, proprietate publică a Județului Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71222",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-31-2022",
+   "path": "local/prahova/berceni/2022/31",
+   "short": "HCL Berceni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 31/2022 privind aprobarea solicitării de preluare temporară, din administrarea Consiliului Județean Prahova în administrarea Consiliului Local al comunei Berceni, jud. Prahova, a suprafeței cuprinse între carosabil și limitele de proprietate a terenurilor vicinale, pe toată lungimea drumului județean DJ 101D de pe raza comunei Berceni, jud. Prahova, proprietate publică a Județului Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71223",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71223",
      "sha256": null
     }
    ]
@@ -243,6 +408,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-34-2022",
+   "path": "local/prahova/berceni/2022/34",
+   "short": "HCL Berceni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 34/2022 privind acordarea burselor elevilor din învățământul preuniversitar de stat în anul școlar 2021-2022, semestrul II",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72327",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-35-2022",
+   "path": "local/prahova/berceni/2022/35",
+   "short": "HCL Berceni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 35/2022 privind aprobare dosar în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personală",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72328",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-36-2022",
    "path": "local/prahova/berceni/2022/36",
    "short": "HCL Berceni nr. 36/2022",
@@ -268,6 +463,21 @@
      "from": "2022-04-24",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/72330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-38-2022",
+   "path": "local/prahova/berceni/2022/38",
+   "short": "HCL Berceni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 38/2022 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72331",
+   "versions": [
+    {
+     "from": "2022-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72331",
      "sha256": null
     }
    ]
@@ -303,6 +513,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-40-2022",
+   "path": "local/prahova/berceni/2022/40",
+   "short": "HCL Berceni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 40/2022 privind acordul de înstrăinare a locuinței construite pe terenul situat în comuna Berceni, sat. Berceni, jud. Prahova, tarla 7, parcela 93, lot 18, aflat în proprietatea privată a comunei Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72333",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-41-2022",
+   "path": "local/prahova/berceni/2022/41",
+   "short": "HCL Berceni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 41/2022 privind darea în folosință gratuită către serviciul social furnizat în comunitate: “Centrul pentru servicii de asistență comunitară” a clădirii administrative, proprietate pubică a Comunei Berceni, situată în comuna Berceni, sat. Berceni, jud. Prahova, str. Regina Maria, nr. 5 (fosta str. Grădiniței, nr. 359A), precum și a tererenului aferent",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72334",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-42-2022",
+   "path": "local/prahova/berceni/2022/42",
+   "short": "HCL Berceni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 42/2022 privind aprobarea participării din cadrul Planului național de redresare și reziliență în cadrul apelului de proiecte ,,COMPONENTA 10 - Fondul Local în cadrul Planului Național de Redresare și Reziliență (PNRR),, cu proiectul: „ Piste pentru biciclete in comuna Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72335",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72335",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-43-2022",
    "path": "local/prahova/berceni/2022/43",
    "short": "HCL Berceni nr. 43/2022",
@@ -333,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-45-2022",
+   "path": "local/prahova/berceni/2022/45",
+   "short": "HCL Berceni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 45/2022 privind aprobarea participării din cadrul Planului național de redresare și reziliență în cadrul apelului de proiecte ,,COMPONENTA 10 - Fondul Local în cadrul Planului Național de Redresare și Reziliență (PNRR),, cu proiectul: „Elaborarea în format GIS a Planului Urbanistic General in comuna Berceni”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72338",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-46-2022",
    "path": "local/prahova/berceni/2022/46",
    "short": "HCL Berceni nr. 46/2022",
@@ -358,6 +628,51 @@
      "from": "2022-05-26",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/72340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-48-2022",
+   "path": "local/prahova/berceni/2022/48",
+   "short": "HCL Berceni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 48/2022 privind aprobarea vânzării cu exercitarea dreptului de preempțiune de către UAT Comuna Berceni, jud. Prahova prin Consiliul Local al comunei Berceni pentru cumpărarea imobilului situat în comuna Berceni, sat. Berceni, jud. Prahova, cu destinația de cabinet medical",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72341",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-49-2022",
+   "path": "local/prahova/berceni/2022/49",
+   "short": "HCL Berceni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 49/2022 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/72342",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/72342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-5-2022",
+   "path": "local/prahova/berceni/2022/5",
+   "short": "HCL Berceni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 5/2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71142",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71142",
      "sha256": null
     }
    ]
@@ -678,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-7-2022",
+   "path": "local/prahova/berceni/2022/7",
+   "short": "HCL Berceni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 7/2022 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71144",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71144",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-70-2022",
    "path": "local/prahova/berceni/2022/70",
    "short": "HCL Berceni nr. 70/2022",
@@ -703,6 +1033,21 @@
      "from": "2022-01-28",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/71145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-9-2022",
+   "path": "local/prahova/berceni/2022/9",
+   "short": "HCL Berceni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 9/2022",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/71146",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/71146",
      "sha256": null
     }
    ]

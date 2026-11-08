@@ -3,6 +3,21 @@
  "shard": "local/prahova/barcanesti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--barcanesti-1-2025",
+   "path": "local/prahova/barcanesti/2025/1",
+   "short": "HCL Bărcănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 1/2025 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare stabilit în anul 2024, din excedentul bugetului local al anilor precedenți, în suma de 2.418.700,96 lei",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/186267",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/186267",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-10-2025",
    "path": "local/prahova/barcanesti/2025/10",
    "short": "HCL Bărcănești nr. 10/2025",
@@ -273,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-13-2025",
+   "path": "local/prahova/barcanesti/2025/13",
+   "short": "HCL Bărcănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 13/2025 privind aprobarea transformării unor funcţii publice de execuție din statul de funcţii al aparatului de specialitate al primarului comunei Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189858",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-14-2025",
+   "path": "local/prahova/barcanesti/2025/14",
+   "short": "HCL Bărcănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 14/2025 privind aprobarea proiectului „Valorificarea avantajelor digitalizării în beneficiul cetățenilor și al autorității publice din Primăria Bărcănești, Județul Prahova”,a cheltuielilor legate de proiect și a documentației TIC",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189859",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-15-2025",
+   "path": "local/prahova/barcanesti/2025/15",
+   "short": "HCL Bărcănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 15/2025 privind alegerea viceprimarului Comunei Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189860",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189860",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-16-2025",
    "path": "local/prahova/barcanesti/2025/16",
    "short": "HCL Bărcănești nr. 16/2025",
@@ -318,6 +378,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-19-2025",
+   "path": "local/prahova/barcanesti/2025/19",
+   "short": "HCL Bărcănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 19/2025 pentru aprobarea tipului de suport alimentar pentru preșcolarii și elevii unităţilor de învăţământ cu personalitate juridică din comuna Bărcăneşti, judeţul Prahova pentru anul 2025 în cadrul Programului Național \"Masă sănătoasă\"",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/192277",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/192277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-2-2025",
+   "path": "local/prahova/barcanesti/2025/2",
+   "short": "HCL Bărcănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 2/2025 privind aprobarea utilizării excedentului anual al bugetului local pe anul 2024 în anul 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/186268",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/186268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-20-2025",
    "path": "local/prahova/barcanesti/2025/20",
    "short": "HCL Bărcănești nr. 20/2025",
@@ -333,6 +423,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-21-2025",
+   "path": "local/prahova/barcanesti/2025/21",
+   "short": "HCL Bărcănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 21/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/195936",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/195936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-22-2025",
+   "path": "local/prahova/barcanesti/2025/22",
+   "short": "HCL Bărcănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 22/2025 privind reorganizarea Comisiei Locale de Ordine Publica a comunei Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/195937",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/195937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-23-2025",
+   "path": "local/prahova/barcanesti/2025/23",
+   "short": "HCL Bărcănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 23/2025 privind aprobarea acordării normei de hrană personalului din cadrul Compartimentului Poliţie locală din aparatul de specialitate al primarului comunei Bărcăneşti , judeţul Prahova, în anul 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/195938",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/195938",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-24-2025",
    "path": "local/prahova/barcanesti/2025/24",
    "short": "HCL Bărcănești nr. 24/2025",
@@ -343,6 +478,51 @@
      "from": "2025-03-11",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/195939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-25-2025",
+   "path": "local/prahova/barcanesti/2025/25",
+   "short": "HCL Bărcănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 25/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/196935",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/196935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-26-2025",
+   "path": "local/prahova/barcanesti/2025/26",
+   "short": "HCL Bărcănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 26/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/196936",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/196936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-27-2025",
+   "path": "local/prahova/barcanesti/2025/27",
+   "short": "HCL Bărcănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 27/2025 privind mandatarea reprezentantului comunei Bărcănești , județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze retragerea din cadrul asociației a unităților administrativ-teritoriale membre: Comuna Ariceștii Rahtivani, Oraș Băicoi și Municipiul Ploiești și aderarea unităților administrativ-teritoriale : Comuna Dumbrava și Comuna Albești-Paleologu",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/196937",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/196937",
      "sha256": null
     }
    ]
@@ -378,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-3-2025",
+   "path": "local/prahova/barcanesti/2025/3",
+   "short": "HCL Bărcănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 3/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189848",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189848",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-30-2025",
    "path": "local/prahova/barcanesti/2025/30",
    "short": "HCL Bărcănești nr. 30/2025",
@@ -388,6 +583,126 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/196940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-31-2025",
+   "path": "local/prahova/barcanesti/2025/31",
+   "short": "HCL Bărcănești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 31/2025 privind stabilirea agentilor economici care vor fi cuprinși în Programul de aprovizionare cu produse alimentare și nealimentare ce urmeaza a fi distribuite rationalizat populației, în situații deosebite stabilite de lege",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/199260",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/199260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-32-2025",
+   "path": "local/prahova/barcanesti/2025/32",
+   "short": "HCL Bărcănești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 32/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/199261",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/199261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-33-2025",
+   "path": "local/prahova/barcanesti/2025/33",
+   "short": "HCL Bărcănești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 33/2025 privind aprobarea prelungirii contractelor de închiriere a pajiștilor prin atribuire directă aflate în proprietatea privată a Comunei Bărcănești, Județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/199262",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/199262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-34-2025",
+   "path": "local/prahova/barcanesti/2025/34",
+   "short": "HCL Bărcănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 34/2025 privind acordarea unui mandat special reprezentantului UAT Comuna Bărcănești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “Parteneriatul pentru Managementul Deșeurilor - Prahova”",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/199263",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/199263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-35-2025",
+   "path": "local/prahova/barcanesti/2025/35",
+   "short": "HCL Bărcănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 35/2025 privind mandatarea reprezentantului comunei Bărcănești , județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze aderarea unității administrativ-teritoriale Comuna Izvoarele",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/202947",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/202947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-36-2025",
+   "path": "local/prahova/barcanesti/2025/36",
+   "short": "HCL Bărcănești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 36/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/202948",
+   "versions": [
+    {
+     "from": "2025-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/202948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-37-2025",
+   "path": "local/prahova/barcanesti/2025/37",
+   "short": "HCL Bărcănești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 37/2025 privind aprobarea proiectului „Valorificarea avantajelor digitalizării în beneficiul cetățenilor și al autorității publice din Primăria Bărcănești, Județul Prahova”,a cheltuielilor legate de proiect și a documentației TIC",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/202949",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/202949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-38-2025",
+   "path": "local/prahova/barcanesti/2025/38",
+   "short": "HCL Bărcănești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 38/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/205172",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205172",
      "sha256": null
     }
    ]
@@ -408,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-4-2025",
+   "path": "local/prahova/barcanesti/2025/4",
+   "short": "HCL Bărcănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 4/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru anul 2024 şi stabilirea masurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189849",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189849",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-40-2025",
    "path": "local/prahova/barcanesti/2025/40",
    "short": "HCL Bărcănești nr. 40/2025",
@@ -418,6 +748,51 @@
      "from": "2025-04-30",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-41-2025",
+   "path": "local/prahova/barcanesti/2025/41",
+   "short": "HCL Bărcănești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 41/2025 privind alegerea președintelui de ședinţă pentru lunile mai, iunie și iulie 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/205175",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-42-2025",
+   "path": "local/prahova/barcanesti/2025/42",
+   "short": "HCL Bărcănești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 42/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I din anul 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/205176",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-43-2025",
+   "path": "local/prahova/barcanesti/2025/43",
+   "short": "HCL Bărcănești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 43/2025 privind aprobarea contului de execuţie al bugetului local al comunei Bărcăneşti , județul Prahova pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/205177",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205177",
      "sha256": null
     }
    ]
@@ -438,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-45-2025",
+   "path": "local/prahova/barcanesti/2025/45",
+   "short": "HCL Bărcănești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 45/2025 privind mandatarea reprezentantului comunei Bărcănești , județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze aderarea unității administrativ-teritoriale Comuna Mănești",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/205179",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/205179",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-46-2025",
    "path": "local/prahova/barcanesti/2025/46",
    "short": "HCL Bărcănești nr. 46/2025",
@@ -448,6 +838,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/209814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-47-2025",
+   "path": "local/prahova/barcanesti/2025/47",
+   "short": "HCL Bărcănești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 47/2025 privind închirierea pajiștilor prin atribuire directă aflate în proprietatea privată a Comunei Bărcănești, Județul Prahova, rămase disponibile în urma rezilierii unor contracte",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/209815",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/209815",
      "sha256": null
     }
    ]
@@ -483,6 +888,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-5-2025",
+   "path": "local/prahova/barcanesti/2025/5",
+   "short": "HCL Bărcănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 5/2025 privind alegerea președintelui de ședinţă pentru lunile februarie, martie și aprilie 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189850",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-50-2025",
+   "path": "local/prahova/barcanesti/2025/50",
+   "short": "HCL Bărcănești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 50/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/209818",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/209818",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-51-2025",
    "path": "local/prahova/barcanesti/2025/51",
    "short": "HCL Bărcănești nr. 51/2025",
@@ -508,6 +943,21 @@
      "from": "2025-06-20",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/213046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-53-2025",
+   "path": "local/prahova/barcanesti/2025/53",
+   "short": "HCL Bărcănești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 53/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/213047",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/213047",
      "sha256": null
     }
    ]
@@ -543,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-56-2025",
+   "path": "local/prahova/barcanesti/2025/56",
+   "short": "HCL Bărcănești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 56/2025 pentru aprobarea Notei conceptuale şi Temei de proiectare pentru obiectivul de investiţii “ Cresterea Performantei Energetice a Blocurilor de Locuinte din Comuna Barcanesti A1,A2,A4,A5,A7,A8,A9,A11,B3,B4,B6,SMA’’",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/213050",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/213050",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-57-2025",
    "path": "local/prahova/barcanesti/2025/57",
    "short": "HCL Bărcănești nr. 57/2025",
@@ -558,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-58-2025",
+   "path": "local/prahova/barcanesti/2025/58",
+   "short": "HCL Bărcănești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 58/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/213052",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/213052",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-59-2025",
    "path": "local/prahova/barcanesti/2025/59",
    "short": "HCL Bărcănești nr. 59/2025",
@@ -568,6 +1048,21 @@
      "from": "2025-09-04",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-6-2025",
+   "path": "local/prahova/barcanesti/2025/6",
+   "short": "HCL Bărcănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 6/2025 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2024 , de către Primarul Comunei Bărcăneşti, judeţul Prahova, în cursului anul 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189851",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189851",
      "sha256": null
     }
    ]
@@ -603,6 +1098,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-62-2025",
+   "path": "local/prahova/barcanesti/2025/62",
+   "short": "HCL Bărcănești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 62/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru semestrul I din anul 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/218086",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-63-2025",
+   "path": "local/prahova/barcanesti/2025/63",
+   "short": "HCL Bărcănești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 63/2025 privind aprobarea contului de execuţie al bugetului local al comunei Bărcăneşti , județul Prahova pe semestrul I al anului 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/218087",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218087",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-64-2025",
    "path": "local/prahova/barcanesti/2025/64",
    "short": "HCL Bărcănești nr. 64/2025",
@@ -613,6 +1138,21 @@
      "from": "2025-08-01",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-65-2025",
+   "path": "local/prahova/barcanesti/2025/65",
+   "short": "HCL Bărcănești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 65/2025 privind alegerea președintelui de ședinţă pentru lunile august, septembrie și octombrie 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/218089",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218089",
      "sha256": null
     }
    ]
@@ -648,6 +1188,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-68-2025",
+   "path": "local/prahova/barcanesti/2025/68",
+   "short": "HCL Bărcănești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 68/2025 privind aprobarea transformării unor funcţii publice din statul de funcţii al aparatului de specialitate al primarului comunei Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/218092",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/218092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-69-2025",
+   "path": "local/prahova/barcanesti/2025/69",
+   "short": "HCL Bărcănești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 69/2025 privind atribuirea denumirii “Liceul Tehnologic Ion C. Brătianu”, Liceului Tehnologic Agricol, comuna Bărcănești, începând cu anul școlar 2025 - 2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/220459",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/220459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-7-2025",
+   "path": "local/prahova/barcanesti/2025/7",
+   "short": "HCL Bărcănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 7/2025 privind aprobarea Regulamentului privind măsurile metodologice referitoare la circulația proiectelor de hotărâri ale Consiliului local al comunei Bărcăneşti, judeţul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189852",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189852",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-70-2025",
    "path": "local/prahova/barcanesti/2025/70",
    "short": "HCL Bărcănești nr. 70/2025",
@@ -673,6 +1258,51 @@
      "from": "2025-09-01",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/222754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-72-2025",
+   "path": "local/prahova/barcanesti/2025/72",
+   "short": "HCL Bărcănești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 72/2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/222755",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/222755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-73-2025",
+   "path": "local/prahova/barcanesti/2025/73",
+   "short": "HCL Bărcănești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 73/2025 privind aprobarea alocarii unui sprijin financiar Parohiei Românești de la bugetul local al comunei Bărcăneşti , județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/222756",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/222756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-74-2025",
+   "path": "local/prahova/barcanesti/2025/74",
+   "short": "HCL Bărcănești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 74/2025 privind aprobarea dezmembrării, în două loturi , a unui imobil-teren , situat în intravilanul comunei Bărcănești, județul Prahova, identificat cu numar cadastral 27164, aflat în proprietatea privată a comunei Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/222757",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/222757",
      "sha256": null
     }
    ]
@@ -723,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-78-2025",
+   "path": "local/prahova/barcanesti/2025/78",
+   "short": "HCL Bărcănești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 78/2025 privind aprobarea concesionarii prin licitație publică a terenului aparținând domeniului privat al comunei Bărcănești, în suprafață de 188.402 mp, situat în intravilanul municipiului Ploiești înscris în Cartea Funciară nr. 152456 Ploiești identificat cu nr. cadastral 152456 pentru construirea unui parc fotovoltaic de producere a energiei electrice prin captarea energiei verzi",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/226593",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/226593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-79-2025",
    "path": "local/prahova/barcanesti/2025/79",
    "short": "HCL Bărcănești nr. 79/2025",
@@ -738,6 +1383,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-8-2025",
+   "path": "local/prahova/barcanesti/2025/8",
+   "short": "HCL Bărcănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 8/2025 privind completarea Anexei salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaționale ,,Administrație” din aparatul de specialitate al Primarului comunei Bărcăneşti, judetul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189853",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-80-2025",
+   "path": "local/prahova/barcanesti/2025/80",
+   "short": "HCL Bărcănești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 80/2025 privind darea în administrare a unor imobile ce aparțin domeniului public al comunei Bărcănești către Liceul Tehnologic \"Ion C.Brătianu \" Bărcănești , județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/226595",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/226595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-81-2025",
+   "path": "local/prahova/barcanesti/2025/81",
+   "short": "HCL Bărcănești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 81/2025 privind desemnarea reprezentanţilor Consiliului local al comunei Bărcăneşti în consiliul de administraţie al Liceul Tehnologic \"Ion C. Brătianu \" ,comuna Bărcănești , județul Prahova pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/226596",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/226596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-82-2025",
+   "path": "local/prahova/barcanesti/2025/82",
+   "short": "HCL Bărcănești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 82/2025 privind desemnarea reprezentantului Consiliului local al comunei Bărcăneşti în Comisia pentru evaluarea și asigurarea calității (C.E.A.C.) a Liceului Tehnologic \"Ion C.Brătianu \" , Comuna Bărcănești,unitate de învăţământ cu personalitate juridică din comuna Bărcăneşti, judeţul Prahova, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/226597",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/226597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-83-2025",
+   "path": "local/prahova/barcanesti/2025/83",
+   "short": "HCL Bărcănești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 83/2025 privind desemnarea reprezentantului Consiliului local al comunei Bărcăneşti în Comisia pentru prevenirea și eliminarea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității a Liceului Tehnologic \"Ion C.Brătianu \" , Comuna Bărcănești , unitate de învătământ cu personalitate juridica din comuna Bărcăneşti, judeţul Prahova ,pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/226598",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/226598",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-84-2025",
    "path": "local/prahova/barcanesti/2025/84",
    "short": "HCL Bărcănești nr. 84/2025",
@@ -748,6 +1468,51 @@
      "from": "2025-10-09",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/228772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-85-2025",
+   "path": "local/prahova/barcanesti/2025/85",
+   "short": "HCL Bărcănești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 85/2025 pentru aprobarea listei beneficiarilor din comuna Bărcănești care au obținut rezultate deosebite la învațătură sau la concursurile județene, naționale și internaționale oficiale în anul 2025 ,precum și cuantumul premiilor acordate",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/232778",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-86-2025",
+   "path": "local/prahova/barcanesti/2025/86",
+   "short": "HCL Bărcănești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 86/2025 privind alegerea președintelui de ședinţă pentru lunile noiembrie și decembrie 2025,ianuarie 2026",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/232779",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-87-2025",
+   "path": "local/prahova/barcanesti/2025/87",
+   "short": "HCL Bărcănești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 87/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul III din anul 2025 şi stabilirea masurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/232780",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232780",
      "sha256": null
     }
    ]
@@ -783,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--barcanesti-9-2025",
+   "path": "local/prahova/barcanesti/2025/9",
+   "short": "HCL Bărcănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 9/2025 privind actualizarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Bărcăneşti, judeţul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/189854",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/189854",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-90-2025",
    "path": "local/prahova/barcanesti/2025/90",
    "short": "HCL Bărcănești nr. 90/2025",
@@ -808,6 +1588,36 @@
      "from": "2025-11-04",
      "units": 1,
      "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-92-2025",
+   "path": "local/prahova/barcanesti/2025/92",
+   "short": "HCL Bărcănești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 92/2025 privind alocarea unui sprijin financiar de la bugetul local pentru unitățile de cult aparținând cultelor religioase recunoscute din România care funcționează pe raza U.A.T.Comuna Bărcănești, județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/232785",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-93-2025",
+   "path": "local/prahova/barcanesti/2025/93",
+   "short": "HCL Bărcănești nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 93/2025 privind mandatarea reprezentantului comunei Bărcănești , județul Prahova în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Mobilitate Prahova” să voteze retragerea din cadrul asociației a comunei Bucov și actualizarea Statutului asociației",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/232786",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/232786",
      "sha256": null
     }
    ]

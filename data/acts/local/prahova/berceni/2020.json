@@ -3,6 +3,28 @@
 "shard": "local/prahova/berceni/2020",
 "acts": [
 {
+"slug": "hcl-prahova--berceni-1-2020",
+"path": "local/prahova/berceni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 1/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile ianuarie – martie 2020",
+"short": "HCL Berceni nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8173",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-2-2020",
 "path": "local/prahova/berceni/2020/2",
 "kind": "local",
@@ -44,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-4-2020",
+"path": "local/prahova/berceni/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 4/2020 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+"short": "HCL Berceni nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8176",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-5-2020",
+"path": "local/prahova/berceni/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 5/2020 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+"short": "HCL Berceni nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8177",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +201,50 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-10-2020",
+"path": "local/prahova/berceni/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 10/2020 privind inițierea procedurii de închiriere prin atribuire directă sau licitație a pajiştilor din proprietatea privatã sau publicã a comunei Berceni",
+"short": "HCL Berceni nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8182",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-11-2020",
+"path": "local/prahova/berceni/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 11/2020 privind constituirea Comisiei de analiză a cererilor privind închirierea prin atribuire directă sau licitație a pajiştilor din proprietatea privatã sau publicã a comunei Berceni, aprobarea calendarului de desfãsurare a procedurii de închiriere, fixare taxa de închiriere si taxe speciale",
+"short": "HCL Berceni nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8183",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-12-2020",
 "path": "local/prahova/berceni/2020/12",
 "kind": "local",
@@ -176,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-14-2020",
+"path": "local/prahova/berceni/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 14/2020 privind aprobarea propunerii privind evaluarea performanțelor profesionale individuale ale Secretarului general al comunei Berceni, pentru perioada 01.01.2019-31.12.2019",
+"short": "HCL Berceni nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8186",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +355,120 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-17-2020",
+"path": "local/prahova/berceni/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 17/2020 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+"short": "HCL Berceni nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8189",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-18-2020",
+"path": "local/prahova/berceni/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 18/2020",
+"short": "HCL Berceni nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8190",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-19-2020",
+"path": "local/prahova/berceni/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 19/2020",
+"short": "HCL Berceni nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8191",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-20-2020",
+"path": "local/prahova/berceni/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 20/2020",
+"short": "HCL Berceni nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8192",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-21-2020",
+"path": "local/prahova/berceni/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 21/2020",
+"short": "HCL Berceni nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8193",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--berceni-22-2020",
 "path": "local/prahova/berceni/2020/22",
 "kind": "local",
@@ -242,6 +488,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-23-2020",
+"path": "local/prahova/berceni/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 23/2020 privind emiterea Acordului de principiu pentru închirierea prin licitație publică a terenurilor în vederea amplasării a 3 panouri publicitare",
+"short": "HCL Berceni nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/8195",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +535,28 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-25-2020",
+"path": "local/prahova/berceni/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 25/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile aprilie – iunie 2020",
+"short": "HCL Berceni nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-16",
+"latest": "2020-04-16",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9439",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-26-2020",
 "path": "local/prahova/berceni/2020/26",
 "kind": "local",
@@ -286,6 +576,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-27-2020",
+"path": "local/prahova/berceni/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 27/2020 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+"short": "HCL Berceni nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-16",
+"latest": "2020-04-16",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9441",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +821,96 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-38-2020",
+"path": "local/prahova/berceni/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 38/2020 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentruconstruirea unei locuinte proprietate personalã",
+"short": "HCL Berceni nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9471",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-39-2020",
+"path": "local/prahova/berceni/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 39/2020",
+"short": "HCL Berceni nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9472",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-40-2020",
+"path": "local/prahova/berceni/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 40/2020",
+"short": "HCL Berceni nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9473",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-41-2020",
+"path": "local/prahova/berceni/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 41/2020 privind acordul de intervenție și aplicare de sancțiuni de către Jandarmeria Română,pe raza comunei Berceni",
+"short": "HCL Berceni nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9474",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-42-2020",
 "path": "local/prahova/berceni/2020/42",
 "kind": "local",
@@ -597,6 +999,50 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-46-2020",
+"path": "local/prahova/berceni/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 46/2020 privind modificarea HCL nr. 18/28.02.2019",
+"short": "HCL Berceni nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/9476",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-47-2020",
+"path": "local/prahova/berceni/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 47/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile iulie – septembrie 2020",
+"short": "HCL Berceni nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11333",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-48-2020",
 "path": "local/prahova/berceni/2020/48",
 "kind": "local",
@@ -616,6 +1062,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-49-2020",
+"path": "local/prahova/berceni/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 49/2020 privind actualizare nr. cadastral 21108 (S=1354 mp)",
+"short": "HCL Berceni nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11335",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -660,6 +1128,75 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-52-2020",
+"path": "local/prahova/berceni/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 52/2020",
+"short": "HCL Berceni nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11338",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-53-2020",
+"path": "local/prahova/berceni/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 53/2020",
+"short": "HCL Berceni nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11339",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--berceni-54-2020",
+"path": "local/prahova/berceni/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 54/2020",
+"short": "HCL Berceni nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11340",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -729,6 +1266,29 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-58-2020",
+"path": "local/prahova/berceni/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 58/2020",
+"short": "HCL Berceni nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11345",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--berceni-59-2020",
 "path": "local/prahova/berceni/2020/59",
 "kind": "local",
@@ -770,6 +1330,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-61-2020",
+"path": "local/prahova/berceni/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 61/2020 privind completarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+"short": "HCL Berceni nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11348",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1017,6 +1599,28 @@
 }
 },
 {
+"slug": "hcl-prahova--berceni-73-2020",
+"path": "local/prahova/berceni/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 73/2020 privind aprobare dosare în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+"short": "HCL Berceni nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-25",
+"latest": "2020-09-25",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/11615",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--berceni-74-2020",
 "path": "local/prahova/berceni/2020/74",
 "kind": "local",
@@ -1036,6 +1640,28 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-75-2020",
+"path": "local/prahova/berceni/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 75/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţa din data de 16.10.2020",
+"short": "HCL Berceni nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17883",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1080,6 +1706,50 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-78-2020",
+"path": "local/prahova/berceni/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 78/2020 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al Primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+"short": "HCL Berceni nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17886",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-79-2020",
+"path": "local/prahova/berceni/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 79/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţa din data de 28.10.2020",
+"short": "HCL Berceni nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-28",
+"latest": "2020-10-28",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17912",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1212,6 +1882,116 @@
 "council_name": "Consiliul Local al Comunei Berceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-86-2020",
+"path": "local/prahova/berceni/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 86/2020 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din perioada 30 octombrie 2020-31 decembrie 2020",
+"short": "HCL Berceni nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17919",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-87-2020",
+"path": "local/prahova/berceni/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 87/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Berceni, județul Prahova",
+"short": "HCL Berceni nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17920",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-88-2020",
+"path": "local/prahova/berceni/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 88/2020 privind alegerea Viceprimarului comunei Berceni, județul Prahova",
+"short": "HCL Berceni nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17921",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-89-2020",
+"path": "local/prahova/berceni/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 89/2020 privind modificarea HCL nr. 80/28.10.2020 privind aprobarea proiectului Asigurarea accesului la învățământul online în scolile din comuna Berceni, în vederea finanțării acestuia în cadrul Programului Operaţional Competitivitate 2014-2020",
+"short": "HCL Berceni nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17922",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--berceni-90-2020",
+"path": "local/prahova/berceni/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 90/2020 privind revocarea HCL nr. 88/30.10.2020 privind alegerea Viceprimarului comunei Berceni, județul Prahova",
+"short": "HCL Berceni nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/17928",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

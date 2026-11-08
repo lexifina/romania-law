@@ -1,11 +1,11 @@
 {
  "schema": "romania-law-status/1",
- "generated": "2026-11-08T20:47:37Z",
+ "generated": "2026-11-08T21:47:37Z",
  "updates": "running",
- "last_published": "2026-11-08T20:34:31Z",
+ "last_published": "2026-11-08T21:45:36Z",
  "published_last_24h": {
-  "commits": 79750,
-  "new_acts": 44065
+  "commits": 56845,
+  "new_acts": 44039
  },
  "official_sources": [
   {

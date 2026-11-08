@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbrava-14-2020",
+   "path": "local/prahova/dumbrava/2020/14",
+   "short": "HCL Dumbrava nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 14/2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/32",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/32",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-15-2020",
    "path": "local/prahova/dumbrava/2020/15",
    "short": "HCL Dumbrava nr. 15/2020",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbrava-23-2020",
+   "path": "local/prahova/dumbrava/2020/23",
+   "short": "HCL Dumbrava nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 23/2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/5621",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/5621",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-24-2020",
    "path": "local/prahova/dumbrava/2020/24",
    "short": "HCL Dumbrava nr. 24/2020",
@@ -223,6 +253,21 @@
      "from": "2020-07-11",
      "units": 1,
      "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/6436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-25-2020",
+   "path": "local/prahova/dumbrava/2020/25",
+   "short": "HCL Dumbrava nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 25/2020 privind stabilirea pretului de vanzare a graului din recolta anului 2019-2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/6437",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/6437",
      "sha256": null
     }
    ]
@@ -328,6 +373,21 @@
      "from": "2020-08-31",
      "units": 1,
      "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-32-2020",
+   "path": "local/prahova/dumbrava/2020/32",
+   "short": "HCL Dumbrava nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 32/2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13371",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13371",
      "sha256": null
     }
    ]

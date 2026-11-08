@@ -1126,6 +1126,50 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-52-2023",
+"path": "local/prahova/filipestii-de-padure/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 52/2023 privind desemnarea reprezentanților Consiliului local al Comunei Filipestii de Padure în consiliile de administrație ale unităților de învățământ preuniversitar cu personalitate juridică, pentru anul scolar 2023-2024",
+"short": "HCL Filipeștii de Pădure nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/122716",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-53-2023",
+"path": "local/prahova/filipestii-de-padure/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 53/2023 privind desemnarea reprezentanților Consiliului local al Comunei Filipestii de Padure în comisiile de evaluare și asigurarea calității ale unităților de învățământ de pe raza comunei, pentru anul scolar 2023-2024",
+"short": "HCL Filipeștii de Pădure nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/122717",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-54-2023",
 "path": "local/prahova/filipestii-de-padure/2023/54",
 "kind": "local",

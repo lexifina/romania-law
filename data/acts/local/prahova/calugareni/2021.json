@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-prahova--calugareni-6-2021",
+"path": "local/prahova/calugareni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 6/2021 INCETAREA CONTRACTULUI DE INCHIRIERE PASUNE IORDACHE G",
+"short": "HCL Călugăreni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#3145",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--calugareni-7-2021",
 "path": "local/prahova/calugareni/2021/7",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Călugăreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-9-2021",
+"path": "local/prahova/calugareni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 9/2021 APROBAREA INCHIRIERE PASUNE",
+"short": "HCL Călugăreni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#3162",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -486,6 +530,50 @@
 "council_name": "Consiliul Local al Comunei Călugăreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-25-2021",
+"path": "local/prahova/calugareni/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 25/2021 DESEMNAREA REPREZENTANTILOR CL IN CONSILIUL DE ADMINISTRATIE AL SCOLII",
+"short": "HCL Călugăreni nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#12081",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-26-2021",
+"path": "local/prahova/calugareni/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 26/2021 DESEMNAREA REPREZENTANTULUI CL IN CEAC",
+"short": "HCL Călugăreni nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#12082",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-targ-11-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/11",
+   "short": "HCL Filipeștii de Târg nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 11/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1554",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1554",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-12-2020",
    "path": "local/prahova/filipestii-de-targ/2020/12",
    "short": "HCL Filipeștii de Târg nr. 12/2020",
@@ -88,6 +103,21 @@
      "from": "2020-04-01",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-16-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/16",
+   "short": "HCL Filipeștii de Târg nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 16/2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1559",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1559",
      "sha256": null
     }
    ]
@@ -193,6 +223,21 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/2770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-23-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/23",
+   "short": "HCL Filipeștii de Târg nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 23/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/2771",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/2771",
      "sha256": null
     }
    ]
@@ -408,6 +453,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-targ-37-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/37",
+   "short": "HCL Filipeștii de Târg nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 37/2020 privind aprobarea inchirierii prin licitatie publica deschisa a terenului in suprafata de 30.000 mp situat in T 17 parcela A130 , numar cadastral 23288, satul Marginenii de Jos, comuna Filipestii de Targ, bun apartinand domeniului privat al comunei Filipestii de Targ",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6759",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-38-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/38",
+   "short": "HCL Filipeștii de Târg nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 38/2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6760",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-39-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/39",
+   "short": "HCL Filipeștii de Târg nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 39/2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6761",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/6761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-4-2020",
    "path": "local/prahova/filipestii-de-targ/2020/4",
    "short": "HCL Filipeștii de Târg nr. 4/2020",
@@ -418,6 +508,51 @@
      "from": "2020-01-28",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/1547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-40-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/40",
+   "short": "HCL Filipeștii de Târg nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 40/2020 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7295",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-41-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/41",
+   "short": "HCL Filipeștii de Târg nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 41/2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7567",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-42-2020",
+   "path": "local/prahova/filipestii-de-targ/2020/42",
+   "short": "HCL Filipeștii de Târg nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 42/2020",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7568",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/7568",
      "sha256": null
     }
    ]

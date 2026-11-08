@@ -598,6 +598,72 @@
 }
 },
 {
+"slug": "hcl-prahova--carbunesti-28-2024",
+"path": "local/prahova/carbunesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 28/2024 HCL privind desemnarea unui membru al CL in Consiliul de Administratie al Scoli Gimnaziale",
+"short": "HCL Cărbunești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#89628",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--carbunesti-29-2024",
+"path": "local/prahova/carbunesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 29/2024 HCL privind desemnarea unui membru al CL in comisia CEAC a Scolii Gimnaziale Carbunesti",
+"short": "HCL Cărbunești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#89629",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--carbunesti-30-2024",
+"path": "local/prahova/carbunesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 30/2024 HCL privind desemnare membru Cosiliul Local",
+"short": "HCL Cărbunești nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-20",
+"latest": "2024-11-20",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#89630",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--carbunesti-31-2024",
 "path": "local/prahova/carbunesti/2024/31",
 "kind": "local",

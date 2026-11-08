@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/prahova/breaza/2017",
+"acts": [
+{
+"slug": "hcl-prahova--breaza-35-2017",
+"path": "local/prahova/breaza/2017/35",
+"kind": "local",
+"year": "2017",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 35/2017 Privind aprobarea contului de executie al bugetului local al orasului Breaza pentru anul financiar 2012",
+"short": "HCL Breaza nr. 35/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-16",
+"latest": "2017-03-16",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--breaza-187-2017",
+"path": "local/prahova/breaza/2017/187",
+"kind": "local",
+"year": "2017",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 187/2017 privind aprobarea contului de execuţie al bugetului local al oraşului Breaza, la data de 08.12.2017",
+"short": "HCL Breaza nr. 187/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-08",
+"latest": "2017-12-08",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

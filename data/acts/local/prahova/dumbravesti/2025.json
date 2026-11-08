@@ -224,6 +224,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-11-2025",
+"path": "local/prahova/dumbravesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 11/2025",
+"short": "HCL Dumbrăvești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/189005",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-12-2025",
 "path": "local/prahova/dumbravesti/2025/12",
 "kind": "local",
@@ -268,6 +291,51 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-14-2025",
+"path": "local/prahova/dumbravesti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 14/2025 privind alegerea preşedintelui de şedinţă pentru perioada martie -mai 2025",
+"short": "HCL Dumbrăvești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/195733",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-15-2025",
+"path": "local/prahova/dumbravesti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 15/2025",
+"short": "HCL Dumbrăvești nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/195734",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-16-2025",
 "path": "local/prahova/dumbravesti/2025/16",
 "kind": "local",
@@ -290,6 +358,52 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-17-2025",
+"path": "local/prahova/dumbravesti/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 17/2025",
+"short": "HCL Dumbrăvești nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/195736",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-18-2025",
+"path": "local/prahova/dumbravesti/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 18/2025",
+"short": "HCL Dumbrăvești nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/195737",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-19-2025",
 "path": "local/prahova/dumbravesti/2025/19",
 "kind": "local",
@@ -309,6 +423,51 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-20-2025",
+"path": "local/prahova/dumbravesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 20/2025",
+"short": "HCL Dumbrăvești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/196635",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-21-2025",
+"path": "local/prahova/dumbravesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 21/2025 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții „ Demolare și construire Grădinița cu program normal, sat Mălăeștii de Jos, comuna Dumbrăvești”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+"short": "HCL Dumbrăvești nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/196636",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -400,6 +559,51 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-26-2025",
+"path": "local/prahova/dumbravesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 26/2025 privind reorganizarea Echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul comunei Dumbrăvești, județul Prahova",
+"short": "HCL Dumbrăvești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/199647",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-27-2025",
+"path": "local/prahova/dumbravesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 27/2025",
+"short": "HCL Dumbrăvești nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/199648",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-28-2025",
 "path": "local/prahova/dumbravesti/2025/28",
 "kind": "local",
@@ -441,6 +645,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-30-2025",
+"path": "local/prahova/dumbravesti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 30/2025 privind însușirea Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în județul Prahova - comunele Cocorăștii Mislii, Vâlcănești, Cosminele, Dumbrăvești, Vărbilău, Aluniș, Stefești, Bertea și orașul Slănic",
+"short": "HCL Dumbrăvești nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/205767",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +714,50 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-33-2025",
+"path": "local/prahova/dumbravesti/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 33/2025 privind nominalizarea operatorilor economici din reţeaua comercială a Comunei Dumbrăvești care vor fi prinși în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raţionalizat populaţie în situații deosebite stabilite de lege",
+"short": "HCL Dumbrăvești nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/205770",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-34-2025",
+"path": "local/prahova/dumbravesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 34/2025 privind punerea la dispoziția concesionarului, cu titlu gratuit, pe toată durata concesiunii, a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției în cadrul obiectivului de investiții: “Conectare rețea inteligentă de distribuție gaze naturale în județul Prahova - comunele Cocorăștii Mislii, Vâlcănești, Cosminele, Dumbrăvești, Vărbilău, Aluniș, Stefești, Bertea și orașul Slănic la Sistemul Național de Transport Gaze (SNT)”",
+"short": "HCL Dumbrăvești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/205771",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-35-2025",
 "path": "local/prahova/dumbravesti/2025/35",
 "kind": "local",
@@ -510,6 +780,116 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-36-2025",
+"path": "local/prahova/dumbravesti/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 36/2025 privind includerea în domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești a terenului situat în comuna Dumbrăvești, T 39 P 1540/54/1 și completarea “Inventarului bunurilor care fac parte din domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești“",
+"short": "HCL Dumbrăvești nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/205774",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-37-2025",
+"path": "local/prahova/dumbravesti/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 37/2025 privind aprobarea prelungirii prin act adițional a Contractului de închiriere nr. 1296 din 11.05.2005",
+"short": "HCL Dumbrăvești nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/205773",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-38-2025",
+"path": "local/prahova/dumbravesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 38/2025 privind alegerea preşedintelui de şedinţă pentru perioada iunie - august 2025",
+"short": "HCL Dumbrăvești nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/210247",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-39-2025",
+"path": "local/prahova/dumbravesti/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 39/2025 privind stabilirea spațiului necesar pentru colectarea separată a deșeurilor textile de la locuitorii comunei DumbrăveștI",
+"short": "HCL Dumbrăvești nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/210248",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-40-2025",
+"path": "local/prahova/dumbravesti/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 40/2025 privind modificarea Hotărârii de Consiliu Local al comunei Dumbrăvești nr. 37 din 30.04.2025",
+"short": "HCL Dumbrăvești nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/210249",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-41-2025",
 "path": "local/prahova/dumbravesti/2025/41",
 "kind": "local",
@@ -529,6 +909,29 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-42-2025",
+"path": "local/prahova/dumbravesti/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 42/2025",
+"short": "HCL Dumbrăvești nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/215905",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -665,6 +1068,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-49-2025",
+"path": "local/prahova/dumbravesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 49/2025 privind includerea în domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești a unor suprafețe de teren situate în comuna Dumbrăvești, T 50 P 1861/1 și P 1846/1 și completarea “Inventarului bunurilor care fac parte din domeniul privat al Unității Administrativ Teritoriale Comuna Dumbrăvești“",
+"short": "HCL Dumbrăvești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/219721",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-50-2025",
 "path": "local/prahova/dumbravesti/2025/50",
 "kind": "local",
@@ -684,6 +1109,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-51-2025",
+"path": "local/prahova/dumbravesti/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 51/2025 privind alegerea preşedintelui de şedinţă pentru perioada septembrie - noiembrie 2025",
+"short": "HCL Dumbrăvești nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/223096",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -731,6 +1178,52 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbravesti-54-2025",
+"path": "local/prahova/dumbravesti/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 54/2025",
+"short": "HCL Dumbrăvești nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/223099",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-55-2025",
+"path": "local/prahova/dumbravesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 55/2025",
+"short": "HCL Dumbrăvești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228170",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbravesti-56-2025",
 "path": "local/prahova/dumbravesti/2025/56",
 "kind": "local",
@@ -750,6 +1243,119 @@
 "council_name": "Consiliul Local al Comunei Dumbrăvești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-57-2025",
+"path": "local/prahova/dumbravesti/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 57/2025",
+"short": "HCL Dumbrăvești nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228172",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-58-2025",
+"path": "local/prahova/dumbravesti/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 58/2025",
+"short": "HCL Dumbrăvești nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228173",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-59-2025",
+"path": "local/prahova/dumbravesti/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 59/2025",
+"short": "HCL Dumbrăvești nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228174",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-60-2025",
+"path": "local/prahova/dumbravesti/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 60/2025 privind aprobarea reorganizării și reavizării Serviciului Voluntar pentru Situații de Urgență constituit la nivelul comunei Dumbrăvești aprobat prin Hotărârea Consiliului Local al comunei Dumbrăvești nr. 26 din 30.03.2009",
+"short": "HCL Dumbrăvești nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228175",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbravesti-61-2025",
+"path": "local/prahova/dumbravesti/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 61/2025 privind aprobarea încheierii unui acord de parteneriat între Unitatea Administrativ Teritorială Județul Prahova și Unitățile Administrativ Teritoriale Orasul Vălenii de Munte, Comuna Gura Vitioarei, Comuna Măgurele, Comuna Teișani și Comuna Dumbrăvești în vederea realizării obiectivului de investiții ’’Varianta ocolitoare Vălenii de Munte”",
+"short": "HCL Dumbrăvești nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/dumbravesti-ph/registru-hcl/228176",
+"council": "prahova/dumbravesti",
+"council_name": "Consiliul Local al Comunei Dumbrăvești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

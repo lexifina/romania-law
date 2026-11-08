@@ -1998,6 +1998,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-72-2011",
+   "path": "local/prahova/campina/2011/72",
+   "short": "HCL Câmpina nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 72/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2fda0589b2e9116efc70e9626e2c0c852dcefd7c572867ff115a41291d42c869"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-74-2011",
    "path": "local/prahova/campina/2011/74",
    "short": "HCL Câmpina nr. 74/2011",

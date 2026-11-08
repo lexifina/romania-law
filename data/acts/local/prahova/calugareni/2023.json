@@ -1062,6 +1062,50 @@
 }
 },
 {
+"slug": "hcl-prahova--calugareni-49-2023",
+"path": "local/prahova/calugareni/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 49/2023 DESEMNARE REPREZENTANTI CL IN CA SCOALA",
+"short": "HCL Călugăreni nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#64080",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-50-2023",
+"path": "local/prahova/calugareni/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 50/2023 DESEMNARE REPREZENTANTI CL IN CEAC",
+"short": "HCL Călugăreni nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-26",
+"latest": "2023-10-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#64082",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--calugareni-51-2023",
 "path": "local/prahova/calugareni/2023/51",
 "kind": "local",
@@ -1301,6 +1345,28 @@
 "council_name": "Consiliul Local al Comunei Călugăreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-62-2023",
+"path": "local/prahova/calugareni/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 62/2023 APROBARE NR DE ASISTENTI PERSONALI SI NR. DE INDEMNIZATII 2024",
+"short": "HCL Călugăreni nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#64091",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

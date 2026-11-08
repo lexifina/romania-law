@@ -16,6 +16,441 @@
      "sha256": "fc4dcbf969f42ac24f2c78cee8b31cdb1feda8394cd56c5ca640e67a9a1b9021"
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-100-2008",
+   "path": "local/prahova/breaza/2008/100",
+   "short": "HCL Breaza nr. 100/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 100/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot100.pdf",
+     "sha256": "1490f3b7befe1dccf7968b0eebef1693e5cb0e4a3a14081c6a1e482787cd9e59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-102-2008",
+   "path": "local/prahova/breaza/2008/102",
+   "short": "HCL Breaza nr. 102/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 102/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot102.pdf",
+     "sha256": "3abaf851115de4e393010328af267e516c1fe1a3d58f6ced977fdfe7a389eb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-103-2008",
+   "path": "local/prahova/breaza/2008/103",
+   "short": "HCL Breaza nr. 103/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 103/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot103.pdf",
+     "sha256": "fa71fa79287500e395b359738cd2457328f69a2e33661f5f629282d0cb09f9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-104-2008",
+   "path": "local/prahova/breaza/2008/104",
+   "short": "HCL Breaza nr. 104/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 104/2008 privind stabilirea unor masuri de reglementare a circulatiei in zona Pietei orasului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot104.pdf",
+     "sha256": "5b7315a6afb97871acda8e7d039fb7878ae9b65b5bc6e36a4b23ca340239381c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-114-2008",
+   "path": "local/prahova/breaza/2008/114",
+   "short": "HCL Breaza nr. 114/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 114/2008 privind atribuirea in folosinta gratuita Clubului “Lastunul”, a terenului in suprafata de 24 mp situat in Breaza, str.Grivitei, FN, jud.Prahova",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot114.pdf",
+     "sha256": "54595a361419808a9612d7110d674cc4bfb7e2f7038344690a06225019d64ba8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-116-2008",
+   "path": "local/prahova/breaza/2008/116",
+   "short": "HCL Breaza nr. 116/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 116/2008 Privind aprobarea cererilor si atribuirea in conditiile legii a terenurilor pentru construirea unor locuinte proprietate personala",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot116.pdf",
+     "sha256": "17124c07ab2afe0a2e0cae2ef19b2ac86bc390366d190f8ef64e820fbc2ad089"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-13-2008",
+   "path": "local/prahova/breaza/2008/13",
+   "short": "HCL Breaza nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 13/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot13.pdf",
+     "sha256": "e7779a9490fd14d21ac0f1f953b2e8e6a85bb1f4b0350f2db30a04dd9566e854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-14-2008",
+   "path": "local/prahova/breaza/2008/14",
+   "short": "HCL Breaza nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 14/2008 Privind aprobarea bugetului local HCL nr. 14/21.02.2007",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot14.pdf",
+     "sha256": "016d798c4977a5f859b6e5157618d2585fff30e64001e16e9b5a0ced9d96a765"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-17-2008",
+   "path": "local/prahova/breaza/2008/17",
+   "short": "HCL Breaza nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 17/2008 privind inlocuirea Anexei la HCL nr. 114/13.12.2007",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot17.pdf",
+     "sha256": "3e4c36ad2d6032742d7353f8b37a27c510a5e747ece13204d839e25a9469b487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-19-2008",
+   "path": "local/prahova/breaza/2008/19",
+   "short": "HCL Breaza nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 19/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot19.pdf",
+     "sha256": "c1997b1f1de5ac5cf62797d1fc40f9e469845360fd6cb103df0be8a9a5d22aac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-2-2008",
+   "path": "local/prahova/breaza/2008/2",
+   "short": "HCL Breaza nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 2/2008 privind aprobarea Planului de ocupare a functiilor publice pentru anul 2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot2.pdf",
+     "sha256": "5dcf321d6cbf053e8ed53763e775de02b79bd06ae8794bf99f3916b089a193f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-24-2008",
+   "path": "local/prahova/breaza/2008/24",
+   "short": "HCL Breaza nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 24/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot24.pdf",
+     "sha256": "bc1e3cad15df0b6367dd43b82b3c857f373b501e181ba80b5afd91069a346bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-27-2008",
+   "path": "local/prahova/breaza/2008/27",
+   "short": "HCL Breaza nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 27/2008 Pentru revocarea art.1 al HCL nr. 12/14.02.2008 privind aprobarea acordarii unui ajutor de urgenta",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot27.pdf",
+     "sha256": "44ef04bc6a44c288a761a073c44950c0ead28bf0d18135300c7610530e043ea2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-28-2008",
+   "path": "local/prahova/breaza/2008/28",
+   "short": "HCL Breaza nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 28/2008 Pentru revocarea HCL nr. 38/26.04.2007 privind atribuirea in folosinta gratuita Asociatiei “Trandafirul Negru”, a terenului in suprafata de 4 ha situat in Breaza, Pct.Frasinet in vederea realizarii obiectivului – Centrul “Trandafirul Negru”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot28.pdf",
+     "sha256": "126a08340c96036c4fab8a9dfa1912003f6f25ceafa803e2085f184c94927d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-29-2008",
+   "path": "local/prahova/breaza/2008/29",
+   "short": "HCL Breaza nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 29/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot29.pdf",
+     "sha256": "d1ebbb98f9039aaef556c72c6723b94ce08ecb730a098ddc9565daa25206609b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-31-2008",
+   "path": "local/prahova/breaza/2008/31",
+   "short": "HCL Breaza nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 31/2008 Pentru modificarea si completarea HCL nr. 117/13.12.2007 privind inchirierea unor suprafete de teren, proprietate privata a orasului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot31.pdf",
+     "sha256": "3eb4ea5d36ae8b0f55b7b713afa63e6d0a0993c9d449868e757ca92e1bc57cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-51-2008",
+   "path": "local/prahova/breaza/2008/51",
+   "short": "HCL Breaza nr. 51/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 51/2008 privind validarea mandatelor consilierilor aleşi la alegerile locale din data de 01.06.2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot51.pdf",
+     "sha256": "22741dc7a088ce1c49e7c22b664d55b11c16593a654cd38c6d2ca59b3c93348e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-55-2008",
+   "path": "local/prahova/breaza/2008/55",
+   "short": "HCL Breaza nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 55/2008 privind aprobarea numărului și stabilirea comisiilor de specialitate pe domenii de activitate",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot55.pdf",
+     "sha256": "15b01a0d3c0df33d77caad9a791cda50bffb49b9ed230eacf4e34ec96169d840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-6-2008",
+   "path": "local/prahova/breaza/2008/6",
+   "short": "HCL Breaza nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 6/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot6.pdf",
+     "sha256": "4da8a2a877613bbd6f2974c582183f9a2de1d5cb8272ff85e599945f5a96e43f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-66-2008",
+   "path": "local/prahova/breaza/2008/66",
+   "short": "HCL Breaza nr. 66/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 66/2008 pentru revocarea HCL nr. 29/27.03.2008 privind modificarea si completarea Contractului de Asociere nr.3940/22.03.2007 incheiat intre Consiliul Local Breaza si CS Tricolorul Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot66.pdf",
+     "sha256": "392b05a1e1af2216a938b33e5b8ed3f7b299df400e238c8fcef972d4176f02b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-72-2008",
+   "path": "local/prahova/breaza/2008/72",
+   "short": "HCL Breaza nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 72/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot72.pdf",
+     "sha256": "d31003f533f147b1f12228f08cbb46dc54e4fc17426a718fb40ba7b8fe0c57a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-78-2008",
+   "path": "local/prahova/breaza/2008/78",
+   "short": "HCL Breaza nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 78/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot78.pdf",
+     "sha256": "baad68171cd0d95716555d0b23447116686307e26b182ea109e6c4a7a684e5b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-79-2008",
+   "path": "local/prahova/breaza/2008/79",
+   "short": "HCL Breaza nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 79/2008 privind desemnarea reprezentantilor Consiliului Local Breaza ce vor face parte din consiliul de administrare al asocierii incheiate in baza HCL nr. 30/29.03.2007",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot79.pdf",
+     "sha256": "18b70f8d82ebf5afb706ebbb740f48728968504fe090d73c896649f80c03f7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-81-2008",
+   "path": "local/prahova/breaza/2008/81",
+   "short": "HCL Breaza nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 81/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot81.pdf",
+     "sha256": "43619ba6ad209a3239fb0185dcd4f4456ecc797a54b5e72da2a2711a89a87155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-84-2008",
+   "path": "local/prahova/breaza/2008/84",
+   "short": "HCL Breaza nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 84/2008 privind aprobarea organizarii si statului de functii al aparatului de specialitate al Primarului orasului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot84.pdf",
+     "sha256": "58ec0ecee9a92af29bdc445e05711bb8668dd1b0517cd9c32e79fae10b10b98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-9-2008",
+   "path": "local/prahova/breaza/2008/9",
+   "short": "HCL Breaza nr. 9/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 9/2008 privind inchirierea salii amfiteatru din incinta Primariei orasului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot9.pdf",
+     "sha256": "c2fe24f9421183c2b7af8f41a86da07ce6a272418da328abebe2d0d8d891bf78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-90-2008",
+   "path": "local/prahova/breaza/2008/90",
+   "short": "HCL Breaza nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 90/2008 privind rectificarea bugetului local pe anul 2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot90.pdf",
+     "sha256": "d4aff47208d1f84178658d9d7d7babec9b26211f12ea13b0080cd70ed06342e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-91-2008",
+   "path": "local/prahova/breaza/2008/91",
+   "short": "HCL Breaza nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 91/2008",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariabreaza.ro/wp-content/uploads/2017/04/hot91.pdf",
+     "sha256": "648ccc0ca472a2c14de963e8388069dae79b8187b595ac4df29466fc2408b0f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-98-2008",
+   "path": "local/prahova/breaza/2008/98",
+   "short": "HCL Breaza nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 98/2008 privind alocarea unei sume din bugetul local al orasului Breaza, Parohiei Nistoresti",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot98.pdf",
+     "sha256": "c387ea807d4334b12639325f7b665a3a9c5665dca4aebcc6f4b416a4ae4d409f"
+    }
+   ]
   }
  ]
 }

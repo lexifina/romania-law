@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-prahova--breaza-105-2016",
+"path": "local/prahova/breaza/2016/105",
+"kind": "local",
+"year": "2016",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 105/2016 pentru modificarea HCL nr.105/28.07.2016 privind desemnarea reprezentanţilor Consiliului Local al oraşului Breaza în Consiliile de Administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii din unităţile de învăţământ de pe raza oraşului Breaza",
+"short": "HCL Breaza nr. 105/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-07-28",
+"latest": "2016-07-28",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

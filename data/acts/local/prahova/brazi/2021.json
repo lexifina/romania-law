@@ -47,6 +47,51 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-3-2021",
+"path": "local/prahova/brazi/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 3/2021 privind desemnarea reprezentantilor Consiliului Local al comunei Brazi in Comisia de evaluare si asigurare a calitatii si in Comisia pentru prevenirea si combaterea violentei in mediul scolar, constituite la nivelul Scolii Gimnaziale Comuna Brazi, judetul Prahova",
+"short": "HCL Brazi nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/20193",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--brazi-4-2021",
+"path": "local/prahova/brazi/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 4/2021",
+"short": "HCL Brazi nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/20194",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--brazi-5-2021",
 "path": "local/prahova/brazi/2021/5",
 "kind": "local",
@@ -137,6 +182,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-9-2021",
+"path": "local/prahova/brazi/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 9/2021 privind desemnarea reprezentaților Consiliului local al comunei Brazi, județul Prahova, care vor avea calitatea de membri în cadrul Comsiei de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Brazi",
+"short": "HCL Brazi nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37932",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-10-2021",
 "path": "local/prahova/brazi/2021/10",
 "kind": "local",
@@ -203,6 +270,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-13-2021",
+"path": "local/prahova/brazi/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 13/2021 privind desemnarea reprezentanților Consiliul Local al comunei Brazi în Biroul Clubului Sportiv Brazi, județul Prahova",
+"short": "HCL Brazi nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37936",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-14-2021",
 "path": "local/prahova/brazi/2021/14",
 "kind": "local",
@@ -266,6 +355,29 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-17-2021",
+"path": "local/prahova/brazi/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 17/2021",
+"short": "HCL Brazi nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37940",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -490,6 +602,29 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-28-2021",
+"path": "local/prahova/brazi/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 28/2021",
+"short": "HCL Brazi nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37951",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--brazi-29-2021",
 "path": "local/prahova/brazi/2021/29",
 "kind": "local",
@@ -509,6 +644,28 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-30-2021",
+"path": "local/prahova/brazi/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 30/2021 privind aprobarea închirierii prin atribuire directă a unor suprafețe de pajiști aflate în proprietatea privată a comunei Brazi, județul Prahova",
+"short": "HCL Brazi nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37953",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -553,6 +710,28 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-33-2021",
+"path": "local/prahova/brazi/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 33/2021 privind alegerea președintelui de ședință pentru perioada mai-iunie 2021",
+"short": "HCL Brazi nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37956",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -623,6 +802,28 @@
 }
 },
 {
+"slug": "hcl-prahova--brazi-37-2021",
+"path": "local/prahova/brazi/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 37/2021 privind aprobarea participarii alesilor locali si a functionarilor din cadrul Primariei Brazi, judetul Prahova, la cursuri de pregatire, formare si perfectionare profesionala in anul 2021 si stabilirea modalitatii de decontare a cheltuielilor de deplasare",
+"short": "HCL Brazi nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37974",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--brazi-38-2021",
 "path": "local/prahova/brazi/2021/38",
 "kind": "local",
@@ -664,6 +865,28 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-40-2021",
+"path": "local/prahova/brazi/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 40/2021 privind alegerea presedintelui de sedinta pentru perioada iulie - august 2021",
+"short": "HCL Brazi nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37977",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -709,6 +932,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--brazi-43-2021",
+"path": "local/prahova/brazi/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 43/2021 privind aprobarea prelungirii unor contracte de inchiriere a locuintelor sociale aflate in domeniul public al comunei Brazi, judetul Prahova",
+"short": "HCL Brazi nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/37980",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -775,6 +1020,28 @@
 "council_name": "Consiliul Local al Comunei Brazi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--brazi-47-2021",
+"path": "local/prahova/brazi/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brazi nr. 47/2021 privind desemnarea reprezentantilor Consiliului Local al comunei Brazi in Consiliul de administratie al Scolii Gimnaziale Comuna Brazi, judetul Prahova, unitate de invatamant cu personalitate juridica",
+"short": "HCL Brazi nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/brazi-ph/registru-hcl/46578",
+"council": "prahova/brazi",
+"council_name": "Consiliul Local al Comunei Brazi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

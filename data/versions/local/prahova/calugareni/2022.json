@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--calugareni-17-2022",
+   "path": "local/prahova/calugareni/2022/17",
+   "short": "HCL Călugăreni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 17/2022 STABILIREA CUANTUMULUI INDEMNIZATIEI LUNARE CONSILIERI LOCALI",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23406",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23406",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--calugareni-18-2022",
    "path": "local/prahova/calugareni/2022/18",
    "short": "HCL Călugăreni nr. 18/2022",
@@ -133,6 +148,21 @@
      "from": "2022-02-28",
      "units": 1,
      "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-19-2022",
+   "path": "local/prahova/calugareni/2022/19",
+   "short": "HCL Călugăreni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 19/2022 DESEMNARE REPREZENTANT CL COMISIE DE EVALUARE",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23413",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23413",
      "sha256": null
     }
    ]
@@ -673,6 +703,51 @@
      "from": "2022-10-26",
      "units": 1,
      "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-52-2022",
+   "path": "local/prahova/calugareni/2022/52",
+   "short": "HCL Călugăreni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 52/2022 DESEMNARE REPREZENTANTI CL IN CA SCOALA",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44312",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-53-2022",
+   "path": "local/prahova/calugareni/2022/53",
+   "short": "HCL Călugăreni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 53/2022 DESEMNARE REPREZENTANTI CL IN CEAC",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44313",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-54-2022",
+   "path": "local/prahova/calugareni/2022/54",
+   "short": "HCL Călugăreni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 54/2022 APROBAREA NUMARULUI DE INDEMNIZATI PERSOANE CU HANDICAP",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44314",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44314",
      "sha256": null
     }
    ]

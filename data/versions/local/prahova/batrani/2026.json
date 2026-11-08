@@ -48,6 +48,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-12-2026",
+   "path": "local/prahova/batrani/2026/12",
+   "short": "HCL Bătrâni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 12/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/257498",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/257498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-13-2026",
+   "path": "local/prahova/batrani/2026/13",
+   "short": "HCL Bătrâni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 13/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/262905",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/262905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-14-2026",
+   "path": "local/prahova/batrani/2026/14",
+   "short": "HCL Bătrâni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 14/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/262906",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/262906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-15-2026",
+   "path": "local/prahova/batrani/2026/15",
+   "short": "HCL Bătrâni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 15/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/262907",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/262907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-16-2026",
+   "path": "local/prahova/batrani/2026/16",
+   "short": "HCL Bătrâni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 16/2026 privind aprobarea măsurilor necesare în vederea încadrării în numărul maxim de posturi redus în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrative-teritoriale",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/262908",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/262908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-17-2026",
    "path": "local/prahova/batrani/2026/17",
    "short": "HCL Bătrâni nr. 17/2026",
@@ -63,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-18-2026",
+   "path": "local/prahova/batrani/2026/18",
+   "short": "HCL Bătrâni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 18/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/265646",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/265646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-19-2026",
    "path": "local/prahova/batrani/2026/19",
    "short": "HCL Bătrâni nr. 19/2026",
@@ -73,6 +163,21 @@
      "from": "2026-05-05",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/265647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-2-2026",
+   "path": "local/prahova/batrani/2026/2",
+   "short": "HCL Bătrâni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 2/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249016",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249016",
      "sha256": null
     }
    ]
@@ -228,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-3-2026",
+   "path": "local/prahova/batrani/2026/3",
+   "short": "HCL Bătrâni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 3/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249017",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-30-2026",
    "path": "local/prahova/batrani/2026/30",
    "short": "HCL Bătrâni nr. 30/2026",
@@ -358,6 +478,96 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/295060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-4-2026",
+   "path": "local/prahova/batrani/2026/4",
+   "short": "HCL Bătrâni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 4/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249018",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-5-2026",
+   "path": "local/prahova/batrani/2026/5",
+   "short": "HCL Bătrâni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 5/2026 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor /acordurilor cadru pentru achiziţia produselor aferente programului şi a contractelor /acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Bătrâni, în vederea derulării “Programului pentru şcoli al României în perioada 2023-2029”",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249019",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-6-2026",
+   "path": "local/prahova/batrani/2026/6",
+   "short": "HCL Bătrâni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 6/2026 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap pentru anul 2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249020",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-7-2026",
+   "path": "local/prahova/batrani/2026/7",
+   "short": "HCL Bătrâni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 7/2026 privind aprobarea implementării proiectului „ACHIZIȚIE DE UTILAJE ȘI ECHIPAMENTE ÎN COMUNA BĂTRÂNI, JUDEȚUL PRAHOVA” finanțat din Fondul European Agricol pentru Dezvoltare Rurală (FEADR) prin Planul Strategic PS PAC 2023-2027 – Intervenția DR36 LEADER – „Dezvoltarea locală plasată sub responsabilitatea comunității” – SDL Grup de Acțiune Locală (GAL) „Valea Teleajenului” – Intervenția 7 – „DEZVOLTAREA INFRASTRUCTURII ȘI SERVICIILOR DE BAZĂ ÎN TERITORIU”",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249021",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-8-2026",
+   "path": "local/prahova/batrani/2026/8",
+   "short": "HCL Bătrâni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 8/2026 privind aprobarea inventarului bunurilor care apartin sistemului public de colectare a apelor uzate si epurarea acestora al comunei Bătrâni, ce vor fi predate catre S.C.Hidro Prahova S.A",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/249022",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/249022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-9-2026",
+   "path": "local/prahova/batrani/2026/9",
+   "short": "HCL Bătrâni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 9/2026",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/255180",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/255180",
      "sha256": null
     }
    ]

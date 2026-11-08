@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-4-2023",
+"path": "local/prahova/bertea/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 4/2023 privind decontarea cheltuielilor de transport a cadrelor didacticesi personalulului auxiliar",
+"short": "HCL Bertea nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-22",
+"latest": "2023-03-22",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/91607",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-5-2023",
 "path": "local/prahova/bertea/2023/5",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-9-2023",
+"path": "local/prahova/bertea/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 9/2023 privind insdusirea raportului de evaluare si stabilirea pretului de vanzare a suprafetei de 615 mp T 61, P F 370, cu nr. cadastral 20 773",
+"short": "HCL Bertea nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-22",
+"latest": "2023-03-22",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/91612",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +532,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-25-2023",
+"path": "local/prahova/bertea/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 25/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Bertea nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/105362",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-26-2023",
 "path": "local/prahova/bertea/2023/26",
 "kind": "local",
@@ -576,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-30-2023",
+"path": "local/prahova/bertea/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 30/2023 privind insusirea rapoartelor de evaluare si stabilireapretului de vanzare(vanzare directa)a imobilelor din domeniul privat cu 1. cu umatoarele numere cadastrale : 20920,20921 si 20922 dezmembrate in cate 3 loturi fiecare astfel,NC 21000,NC 21001, NC 21002,21003,21004,21005,21006 21007, 21008 si pentru NC 20929 rezultate din dezmembrarea nr. cadastral 20776;",
+"short": "HCL Bertea nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/110529",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-31-2023",
 "path": "local/prahova/bertea/2023/31",
 "kind": "local",
@@ -595,6 +683,29 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-32-2023",
+"path": "local/prahova/bertea/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 32/2023",
+"short": "HCL Bertea nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-21",
+"latest": "2023-07-21",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/113378",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -709,6 +820,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-38-2023",
+"path": "local/prahova/bertea/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 38/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Bertea nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/120073",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-39-2023",
 "path": "local/prahova/bertea/2023/39",
 "kind": "local",
@@ -750,6 +883,95 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-41-2023",
+"path": "local/prahova/bertea/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 41/2023 privind insusirea rapoartului de evaluare si stabilirea pretului de vanzare (vanzare directa) a imobilului din domeniul privat al localitatii cu numarul cadastral: 21020, T 61, Cc 369",
+"short": "HCL Bertea nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/120076",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-42-2023",
+"path": "local/prahova/bertea/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 42/2023",
+"short": "HCL Bertea nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-13",
+"latest": "2023-09-13",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/120077",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--bertea-43-2023",
+"path": "local/prahova/bertea/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 43/2023 privind acordarea unui mandat special reprezentantului legal , cu drept de vot in A.G.A.- ADI „Parteneriatul pentru Managementul Deseurilor Prahova”",
+"short": "HCL Bertea nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/121310",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-44-2023",
+"path": "local/prahova/bertea/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 44/2023 privind acordarea unui mandat special reprezentantului legal, cu drept de vot in A.G.A.- ADI „Parteneriatul pentru Managementul Apei Prahova",
+"short": "HCL Bertea nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/121311",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

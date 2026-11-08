@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-colt-3-2023",
+"path": "local/prahova/cocorastii-colt/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 3/2023",
+"short": "HCL Cocorăștii Colț nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": null,
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-colt-4-2023",
 "path": "local/prahova/cocorastii-colt/2023/4",
 "kind": "local",
@@ -88,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-6-2023",
+"path": "local/prahova/cocorastii-colt/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 6/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru lunile noiembrie si decembrie 2022",
+"short": "HCL Cocorăștii Colț nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#39741",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-12-2023",
+"path": "local/prahova/cocorastii-colt/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 12/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna IANUARIE 2023",
+"short": "HCL Cocorăștii Colț nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#42965",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +510,28 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-colt-24-2023",
+"path": "local/prahova/cocorastii-colt/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 24/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru lunile FEBRUARIE si MARTIE 2023",
+"short": "HCL Cocorăștii Colț nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#48070",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-colt-25-2023",
 "path": "local/prahova/cocorastii-colt/2023/25",
 "kind": "local",
@@ -509,6 +598,50 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-colt-28-2023",
+"path": "local/prahova/cocorastii-colt/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 28/2023 pentru modificarea HCL nr.14/2018 cu privire la inchirierea suprafetelor de pajisti disponibile, prin atribuire directa, crescatorilor de animale din comuna Cocorastii Colt",
+"short": "HCL Cocorăștii Colț nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#48065",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-29-2023",
+"path": "local/prahova/cocorastii-colt/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 29/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna APRILIE 2023",
+"short": "HCL Cocorăștii Colț nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#49663",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-colt-30-2023",
 "path": "local/prahova/cocorastii-colt/2023/30",
 "kind": "local",
@@ -550,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-32-2023",
+"path": "local/prahova/cocorastii-colt/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 32/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna MAI 2023 ¬¬¬",
+"short": "HCL Cocorăștii Colț nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#51841",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -726,6 +881,28 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-41-2023",
+"path": "local/prahova/cocorastii-colt/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 41/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna IUNIE 2023",
+"short": "HCL Cocorăștii Colț nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-25",
+"latest": "2023-07-25",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#53867",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1040,6 +1217,50 @@
 }
 },
 {
+"slug": "hcl-prahova--cocorastii-colt-56-2023",
+"path": "local/prahova/cocorastii-colt/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 56/2023 privind închirierea prin licitație publică a terenului, în suprafață de 36528 mp, situat în comuna Cocorăștii Colt, sat Cocorăștii Grind, T. 47, parcela A 370/217, număr cadastral 24144, proprietate privata a comunei Cocorăștii Colt",
+"short": "HCL Cocorăștii Colț nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#60599",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-57-2023",
+"path": "local/prahova/cocorastii-colt/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 57/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna SEPTEMBRIE 2023",
+"short": "HCL Cocorăștii Colț nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#60601",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--cocorastii-colt-58-2023",
 "path": "local/prahova/cocorastii-colt/2023/58",
 "kind": "local",
@@ -1059,6 +1280,28 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-59-2023",
+"path": "local/prahova/cocorastii-colt/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 59/2023 cu privire la aprobarea decontarii cheltuielilor pentru naveta cadrelor didactice si a personalului didactic auxiliar din unitatile de invatamant preuniversitar de stat din comuna Cocorastii Colt, pentru luna OCTOMBRIE 2023",
+"short": "HCL Cocorăștii Colț nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://cocorastiicolt.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4398#62668",
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1170,6 +1413,29 @@
 "council_name": "Consiliul Local al Comunei Cocorăștii Colț",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--cocorastii-colt-65-2023",
+"path": "local/prahova/cocorastii-colt/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cocorăștii Colț nr. 65/2023",
+"short": "HCL Cocorăștii Colț nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": null,
+"council": "prahova/cocorastii-colt",
+"council_name": "Consiliul Local al Comunei Cocorăștii Colț",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

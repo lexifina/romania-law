@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2013",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-36-2013",
+   "path": "local/prahova/breaza/2013/36",
+   "short": "HCL Breaza nr. 36/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 36/2013 Privind aprobarea contului de executie al bugetului local al orasului Breaza pentru trimestrul I al anului financiar 2013",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371463237hot36.2013.pdf",
+     "sha256": "9f4adc51d2862007f00e76329ba7bb63f720af7f2c8b2f37d4afa26481acbb34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-37-2013",
+   "path": "local/prahova/breaza/2013/37",
+   "short": "HCL Breaza nr. 37/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 37/2013 Privind utilizarea in anul 2013 a excedentului bugetar al anului 2012",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371463436hot37.2013.pdf",
+     "sha256": "2431b2adf6498c149d1bd625ca75f1c7d9627e16908e98f116bc3d0d5fd88a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-39-2013",
+   "path": "local/prahova/breaza/2013/39",
+   "short": "HCL Breaza nr. 39/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 39/2013 Privind alocarea unei sume din bugetul local al orasului Breaza, Parohiei „Podu Vadului”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371463835hot39.2013.pdf",
+     "sha256": "23d89c0da20694ce86c2e3ff2f415db0e0e248f1ce58d1e4b278aa3e12e6af21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-40-2013",
+   "path": "local/prahova/breaza/2013/40",
+   "short": "HCL Breaza nr. 40/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 40/2013 Privind alocarea unei sume din bugetul local al orasului Breaza, Parohiei „Adormirea Maicii Domnului”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371469705hot40.2013.pdf",
+     "sha256": "3f037591facc872e9b13f6b41298cf7151d44423311ab22290c4cae2575d490c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-41-2013",
+   "path": "local/prahova/breaza/2013/41",
+   "short": "HCL Breaza nr. 41/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 41/2013 Privind alocarea unei sume din bugetul local al orasului Breaza, Parohiei „Breaza de Jos”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371469845hot41.2013.pdf",
+     "sha256": "619e77fe1067ff56168d050b23135a4a65ab348caa2be57ef95c9762329acae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-42-2013",
+   "path": "local/prahova/breaza/2013/42",
+   "short": "HCL Breaza nr. 42/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 42/2013 Privind alocarea unei sume din bugetul local al orasului Breaza, Parohiei „Breaza de Sus ll-Schimbarea la Fata”",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371469948hot42.2013.pdf",
+     "sha256": "968c128cf6f5132ab267b9a6b6380d993ed950bbbed99ca3f60b065d65f7ce83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-44-2013",
+   "path": "local/prahova/breaza/2013/44",
+   "short": "HCL Breaza nr. 44/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 44/2013 Privind inventarierea in domeniul privat al orasului Breaza a terenului in suprafata de 281 mp, situat ln Breaza, Pct.Valea Tarsei, str.Ocinei, nr.l74D,T9,P 691",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371470265hot44.2013.pdf",
+     "sha256": "dd5c274095fd82afd6d988f15573712375897b2ddbbd82a3b5e6604f5f509b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-46-2013",
+   "path": "local/prahova/breaza/2013/46",
+   "short": "HCL Breaza nr. 46/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 46/2013 Privind aprobarea rezultatului final al evaluirii managerului Centrului Cultural „lon Manolescu” Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371470537hot46.2013.pdf",
+     "sha256": "cbc77d25f0d08b48e62df717665ae37931e35532dfa9de42530a17ccb6f354cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-47-2013",
+   "path": "local/prahova/breaza/2013/47",
+   "short": "HCL Breaza nr. 47/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 47/2013 Privind aprobarea lucrarilor de investitii pe anul 2013 in cadrul sistemului de alimentare cu apa si canalizare al orasului Breaza, care se vor realiza cu finantare din Fond IID",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371470665hot47.2013.pdf",
+     "sha256": "c054dcfd6ba0e6e98895656282974f2fb175f12d2195b28e84354445d68526c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-53-2013",
+   "path": "local/prahova/breaza/2013/53",
+   "short": "HCL Breaza nr. 53/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 53/2013 Privind acordul de principiu al Consiliului Local Breaza in vederea efectuarii unui schimb de teren cu dna Sarafoleanu Ligia",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1371471469hot53.2013.pdf",
+     "sha256": "2d587bb3c015a379e3fd15cf64aa272bd361e41db545ea08f112f76c0a566b7a"
+    }
+   ]
+  }
+ ]
+}

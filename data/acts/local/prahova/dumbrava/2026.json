@@ -25,6 +25,52 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-2-2026",
+"path": "local/prahova/dumbrava/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 2/2026",
+"short": "HCL Dumbrava nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273575",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-3-2026",
+"path": "local/prahova/dumbrava/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 3/2026",
+"short": "HCL Dumbrava nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273576",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-4-2026",
 "path": "local/prahova/dumbrava/2026/4",
 "kind": "local",
@@ -44,6 +90,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-5-2026",
+"path": "local/prahova/dumbrava/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 5/2026 privind aprobarea numărului asistenților personali ai persoanelor cu handicap grav pe anul 2026 și raportul de activitate pentru semestrul II 2025",
+"short": "HCL Dumbrava nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273578",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +137,72 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-7-2026",
+"path": "local/prahova/dumbrava/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 7/2026 privind stabilirea situațiilor deosebite și aprobarea modului de acordare a ajutoarelor de urgență din bugetul local al comunei Dumbrava pentru anul 2026",
+"short": "HCL Dumbrava nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273580",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-8-2026",
+"path": "local/prahova/dumbrava/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 8/2026 privind aprobarea Planului de acțiuni și lucrări de interes local ce se vor efectua cu beneficiarii venitului minim de incluziune și persoanele care efectuează muncă în folosul comunității pentru anul 2026",
+"short": "HCL Dumbrava nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273581",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-9-2026",
+"path": "local/prahova/dumbrava/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 9/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru prevenirea separării copilului de familie la nivelul comunei Dumbrava, județul Prahova Consiliul Local al Comunei Dumbrava, județul Prahova",
+"short": "HCL Dumbrava nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273582",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-10-2026",
 "path": "local/prahova/dumbrava/2026/10",
 "kind": "local",
@@ -88,6 +222,140 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-11-2026",
+"path": "local/prahova/dumbrava/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 11/2026 privind aprobarea aderării Autorității Publice Locale Comuna Dumbrava, județul Prahova la Asociația Grupul de Acțiune Locală Meleagurile Cricovului”",
+"short": "HCL Dumbrava nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273584",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-12-2026",
+"path": "local/prahova/dumbrava/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 12/2026",
+"short": "HCL Dumbrava nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273585",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-13-2026",
+"path": "local/prahova/dumbrava/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 13/2026",
+"short": "HCL Dumbrava nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273586",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-14-2026",
+"path": "local/prahova/dumbrava/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 14/2026 privind aprobarea Documentației tehnico-economice fazele D.T.A.C și PT. și a devizului general actualizat pentru obiectivul de investitii,, CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE- GRADINITA DUMBRAVA, COM DUMBRAVA, JUDET PRAHOVA”",
+"short": "HCL Dumbrava nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273587",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-15-2026",
+"path": "local/prahova/dumbrava/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 15/2026 privind aprobarea Documentației tehnico-economice faza D.T.A.C, P.T.și D.D.E.și a devizului general actualizat pentru obiectivul de investitii ,,CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE- GRADINITA ZANOAGA, COM DUMBRAVA, JUDET PRAHOVA",
+"short": "HCL Dumbrava nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273588",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-16-2026",
+"path": "local/prahova/dumbrava/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 16/2026 privind aprobarea Documentației tehnico-economice fazele D.T.A.C și P.Th.și a devizului general actualizat pentru obiectivul de investitii ,, CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE- SCOALA ZANOAGA, COM DUMBRAVA, JUDET PRAHOVA”",
+"short": "HCL Dumbrava nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273589",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +379,119 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-18-2026",
+"path": "local/prahova/dumbrava/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 18/2026 privind neasumarea responsabilității organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente derulării “Programului pentru școli al României în perioada 2023-2029”, pentru anii școlari 2026-2027,2027-2028,2028-2029 la nivelul comunei Dumbrava, județul Prahova",
+"short": "HCL Dumbrava nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273591",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-19-2026",
+"path": "local/prahova/dumbrava/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 19/2026",
+"short": "HCL Dumbrava nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273592",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-20-2026",
+"path": "local/prahova/dumbrava/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 20/2026",
+"short": "HCL Dumbrava nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273593",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-21-2026",
+"path": "local/prahova/dumbrava/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 21/2026",
+"short": "HCL Dumbrava nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273594",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-22-2026",
+"path": "local/prahova/dumbrava/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 22/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dumbrava nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273600",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +561,72 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-26-2026",
+"path": "local/prahova/dumbrava/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 26/2026 privind modificarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului comunei Dumbrava",
+"short": "HCL Dumbrava nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273604",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-27-2026",
+"path": "local/prahova/dumbrava/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 27/2026 privind aprobarea decontării contravalorii cheltuielilor de transport între localitatea de domiciliu/reşedinṭă şi localitatea unde se află locul de muncă al funcṭionarilor publici şi personalului contractual din cadrul aparatului de specialitate al Primarului comunei Dumbrava, judeṭul Prahova",
+"short": "HCL Dumbrava nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273605",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-28-2026",
+"path": "local/prahova/dumbrava/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 28/2026 privind aprobarea retragerii Comunei Dumbrava din Asociația de Dezvoltare Intercomunitară ”Mobilitate Prahova”",
+"short": "HCL Dumbrava nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273606",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-29-2026",
 "path": "local/prahova/dumbrava/2026/29",
 "kind": "local",
@@ -199,6 +646,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-30-2026",
+"path": "local/prahova/dumbrava/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 30/2026 privind acordarea unui ajutor de urgență",
+"short": "HCL Dumbrava nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273608",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +803,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-37-2026",
+"path": "local/prahova/dumbrava/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 37/2026 privind prelungirea contractelor de închiriere a pașunilor, pe suprafețele pe care le dețin la această dată, pentru o perioada de 1 an, crescatorilor de bovine, ovine și caprine, deținători de animale, situate pe teritoriul comunei Dumbrava, Județul Prahova",
+"short": "HCL Dumbrava nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-12",
+"latest": "2026-06-12",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/273615",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-38-2026",
 "path": "local/prahova/dumbrava/2026/38",
 "kind": "local",
@@ -424,6 +915,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-42-2026",
+"path": "local/prahova/dumbrava/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 42/2026",
+"short": "HCL Dumbrava nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274717",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-43-2026",
 "path": "local/prahova/dumbrava/2026/43",
 "kind": "local",
@@ -443,6 +957,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-44-2026",
+"path": "local/prahova/dumbrava/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 44/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dumbrava nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274776",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +1067,50 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-49-2026",
+"path": "local/prahova/dumbrava/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 49/2026 privind acordarea unui ajutor de urgență",
+"short": "HCL Dumbrava nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274781",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-50-2026",
+"path": "local/prahova/dumbrava/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 50/2026 privind aprobarea încheierii actului adițional nr.3 la contractul de comodat nr. 3818 din 3 mai 2023",
+"short": "HCL Dumbrava nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274782",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -642,6 +1222,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-56-2026",
+"path": "local/prahova/dumbrava/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 56/2026 privind aprobarea unor contribuții sub formă de cotizații pe anul 2026",
+"short": "HCL Dumbrava nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274788",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-57-2026",
+"path": "local/prahova/dumbrava/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 57/2026 privind aprobarea modului de întocmire a registrului agricol pentru perioada 2025 - 2029 la nivelul comunei Dumbrava, județul Prahova",
+"short": "HCL Dumbrava nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274789",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-58-2026",
+"path": "local/prahova/dumbrava/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 58/2026 privind aprobarea modificării Organigramei și a Statului de Funcții pentru aparatul de specialitate al Primarului Comunei Dumbrava, aprobate prin Hotărârea Consiliului local al comunei Dumbrava nr.43/24.04.2026",
+"short": "HCL Dumbrava nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/274790",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -799,6 +1445,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-66-2026",
+"path": "local/prahova/dumbrava/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 66/2026",
+"short": "HCL Dumbrava nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/292244",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-67-2026",
 "path": "local/prahova/dumbrava/2026/67",
 "kind": "local",
@@ -890,6 +1559,50 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-71-2026",
+"path": "local/prahova/dumbrava/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 71/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dumbrava nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/292431",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-72-2026",
+"path": "local/prahova/dumbrava/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 72/2026 privind aprobarea susținerii financiare pentru Asociația Sportivă „Vulturul” Zănoaga și Asociația Sportivă ”Recolta” Dumbrava",
+"short": "HCL Dumbrava nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/292432",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-73-2026",
 "path": "local/prahova/dumbrava/2026/73",
 "kind": "local",
@@ -909,6 +1622,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-74-2026",
+"path": "local/prahova/dumbrava/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 74/2026 privind aprobarea consumurilor de carburanți pentru autovehicule în trimestrul II 2026",
+"short": "HCL Dumbrava nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/292434",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

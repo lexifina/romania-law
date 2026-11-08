@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-12-2024",
+"path": "local/prahova/filipestii-de-padure/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 12/2024 privind aprobarea bugetului local al comunei Filipestii de Padure pe anul 2024",
+"short": "HCL Filipeștii de Pădure nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/142973",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-13-2024",
 "path": "local/prahova/filipestii-de-padure/2024/13",
 "kind": "local",
@@ -466,6 +488,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-23-2024",
+"path": "local/prahova/filipestii-de-padure/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 23/2024 privind aprobarea vanzarii prin licitatie publica a unor imobile-terenuri apartinand domeniului privat al Comunei Filipesiti de Padure",
+"short": "HCL Filipeștii de Pădure nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/151119",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-24-2024",
 "path": "local/prahova/filipestii-de-padure/2024/24",
 "kind": "local",
@@ -598,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-30-2024",
+"path": "local/prahova/filipestii-de-padure/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 30/2024 privind reglementarea unor aspecte tehnice ale Hotărârii Consiliului Local al Comunei Filipeștii de Pădure nr. 23 din 22.03.2024 si pentru constituirea Comisiilor de evaluare a ofertelor și de soluționare a contestațiilor din cadrul licitatiei publice privind vânzarea unor imobile-terenuri aparținând domeniului privat al Comunei Filipeștii de Pădure, judetul Prahova",
+"short": "HCL Filipeștii de Pădure nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-18",
+"latest": "2024-06-18",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/158287",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-31-2024",
 "path": "local/prahova/filipestii-de-padure/2024/31",
 "kind": "local",
@@ -617,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-32-2024",
+"path": "local/prahova/filipestii-de-padure/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 32/2024 privind acordarea unui ajutor de urgenta",
+"short": "HCL Filipeștii de Pădure nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-18",
+"latest": "2024-06-18",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/158289",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +973,28 @@
 }
 },
 {
+"slug": "hcl-prahova--filipestii-de-padure-45-2024",
+"path": "local/prahova/filipestii-de-padure/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 45/2024 privind modificarea si completarea HCL nr.34 din 27.06.2024 privind acordarea de laptopuri sefilor de promotie ai claselor a VIII-a si a XII-a de la institutiile de invatamant de pe raza comunei Filipestii de Padure",
+"short": "HCL Filipeștii de Pădure nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-19",
+"latest": "2024-08-19",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/164567",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--filipestii-de-padure-46-2024",
 "path": "local/prahova/filipestii-de-padure/2024/46",
 "kind": "local",
@@ -904,6 +1014,28 @@
 "council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--filipestii-de-padure-47-2024",
+"path": "local/prahova/filipestii-de-padure/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 47/2024 privind aprobarea PLANULUI URBANISTIC ZONAL „PLAN URBANISTIC ZONAL SCHIMBARE DESTINAȚIE DIN ZONĂ MIXTĂ INSTITUȚII ȘI SERVICII ȘI LOCUINȚE, ZONĂ LOCUINȚE ÎN ZONĂ INSTITUȚII ȘI SERVICII (Sstudiată =1600 mp) ȘI A REGULAMENTULUI LOCAL DE URBANISM AFERENT ACESTUIA”",
+"short": "HCL Filipeștii de Pădure nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/filipestiidepadure-ph/registru-hcl/166036",
+"council": "prahova/filipestii-de-padure",
+"council_name": "Consiliul Local al Comunei Filipeștii de Pădure",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

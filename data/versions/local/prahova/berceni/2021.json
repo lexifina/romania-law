@@ -3,6 +3,21 @@
  "shard": "local/prahova/berceni/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--berceni-1-2021",
+   "path": "local/prahova/berceni/2021/1",
+   "short": "HCL Berceni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 1/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile ianuarie-martie 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27658",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27658",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-10-2021",
    "path": "local/prahova/berceni/2021/10",
    "short": "HCL Berceni nr. 10/2021",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-100-2021",
+   "path": "local/prahova/berceni/2021/100",
+   "short": "HCL Berceni nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 100/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54868",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54868",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-101-2021",
    "path": "local/prahova/berceni/2021/101",
    "short": "HCL Berceni nr. 101/2021",
@@ -28,6 +58,36 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-102-2021",
+   "path": "local/prahova/berceni/2021/102",
+   "short": "HCL Berceni nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 102/2021 privind desemnarea reprezentantului Consiliului Local al comunei Berceni în Comisia de evaluare a probei de interviu pentru ocuparea funcției de director al Școlii Gimnaziale Comuna Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54870",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-103-2021",
+   "path": "local/prahova/berceni/2021/103",
+   "short": "HCL Berceni nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 103/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54871",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54871",
      "sha256": null
     }
    ]
@@ -118,6 +178,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-11-2021",
+   "path": "local/prahova/berceni/2021/11",
+   "short": "HCL Berceni nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 11/2021 privind inițierea procedurii de închiriere prin atribuire directă sau licitație a pajiştilor din proprietatea privatã sau publicã a comunei Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27668",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27668",
      "sha256": null
     }
    ]
@@ -273,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-12-2021",
+   "path": "local/prahova/berceni/2021/12",
+   "short": "HCL Berceni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 12/2021 privind constituirea Comisiei de analiză a cererilor privind închirierea prin atribuire directă sau licitație a pajiştilor din proprietatea privatã sau publicã a comunei Berceni, aprobarea calendarului de desfãsurare a procedurii de închiriere, fixare taxa de închiriere si taxe speciale",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27669",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-120-2021",
    "path": "local/prahova/berceni/2021/120",
    "short": "HCL Berceni nr. 120/2021",
@@ -423,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-18-2021",
+   "path": "local/prahova/berceni/2021/18",
+   "short": "HCL Berceni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 18/2021 privind constituirea Grupului de lucru în vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, la nivelul comunei Berceni, jud. Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30947",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-19-2021",
+   "path": "local/prahova/berceni/2021/19",
+   "short": "HCL Berceni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 19/2021 privind acordarea burselor elevilor din învățământul preuniversitar de stat în anul școlar 2020-2021, semestrul II",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30948",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30948",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-2-2021",
    "path": "local/prahova/berceni/2021/2",
    "short": "HCL Berceni nr. 2/2021",
@@ -438,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-20-2021",
+   "path": "local/prahova/berceni/2021/20",
+   "short": "HCL Berceni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 20/2021 privind aprobarea prelungirii prin act aditional a contractului de închiriere nr. 1481 din 30.04.2010 încheiat cu Engie România SA pentru terenul în suprafatã de de 1 mp, situat pe domeniul public de interes local din satul Corlãtesti, aferent Statiei de protectie catodicã pentru conducte",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30949",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30949",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-21-2021",
    "path": "local/prahova/berceni/2021/21",
    "short": "HCL Berceni nr. 21/2021",
@@ -448,6 +583,66 @@
      "from": "2021-03-30",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/30950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-22-2021",
+   "path": "local/prahova/berceni/2021/22",
+   "short": "HCL Berceni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 22/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30951",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-23-2021",
+   "path": "local/prahova/berceni/2021/23",
+   "short": "HCL Berceni nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 23/2021 privind desemnarea reprezentanților Consiliului Local al comunei Berceni în Consiliul de conducere al Clubului Sportiv Comuna Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30952",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-24-2021",
+   "path": "local/prahova/berceni/2021/24",
+   "short": "HCL Berceni nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 24/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30953",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-25-2021",
+   "path": "local/prahova/berceni/2021/25",
+   "short": "HCL Berceni nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 25/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din aprilie-iunie 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30958",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30958",
      "sha256": null
     }
    ]
@@ -603,6 +798,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-35-2021",
+   "path": "local/prahova/berceni/2021/35",
+   "short": "HCL Berceni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 35/2021 privind aprobarea prelungirii prin act aditional a Conventiei nr. 2474 din 30.04.2014 încheiată cu SC SC Tuv Austria SRL si stabilirea chiriei pentru utilizarea suprafetei de 86 m2 pentru conectarea investitiei “Laborator control nedistructiv în regim de înãltime P+E, cabinã poartã, împrejmuire teren si organizare de santier, la reteaua de distributie energie electricã LEA 20 Vega- derivație Moara Nouã, stâlpul 21 de pe teritoriul Moara Nouã”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30968",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-36-2021",
+   "path": "local/prahova/berceni/2021/36",
+   "short": "HCL Berceni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 36/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30969",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-37-2021",
+   "path": "local/prahova/berceni/2021/37",
+   "short": "HCL Berceni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 37/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30970",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30970",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-38-2021",
    "path": "local/prahova/berceni/2021/38",
    "short": "HCL Berceni nr. 38/2021",
@@ -633,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-4-2021",
+   "path": "local/prahova/berceni/2021/4",
+   "short": "HCL Berceni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 4/2021 privind aprobarea numărului de asistenți personali și a numărului de indemnizații lunare care să asigure îngrijirea persoanelor încadrate în gradul de invaliditate grav de pe raza comunei Berceni pe anul 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27661",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27661",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-40-2021",
    "path": "local/prahova/berceni/2021/40",
    "short": "HCL Berceni nr. 40/2021",
@@ -648,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-41-2021",
+   "path": "local/prahova/berceni/2021/41",
+   "short": "HCL Berceni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 41/2021 privind modificarea și completarea HCL nr. 19/30.03.2020 privind acordarea burselor elevilor din învățământul preuniversitar de stat în anul școlar 2020-2021, semestrul II",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30979",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30979",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-42-2021",
    "path": "local/prahova/berceni/2021/42",
    "short": "HCL Berceni nr. 42/2021",
@@ -658,6 +928,21 @@
      "from": "2021-05-13",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/30980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-43-2021",
+   "path": "local/prahova/berceni/2021/43",
+   "short": "HCL Berceni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 43/2021 privind constituirea dreptului de superficie cu titlu gratuit asupra terenului în suprafață de 4655 mp, aflat în proprietatea privată a comunei Berceni, jud. Prahova, situat în intravilanul comunei Berceni, sat. Berceni, județul Prahova T 7, parcele Cc 90, A93, Berceni, având număr cadastral 23736, înscris în CF nr. 23736 Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30981",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30981",
      "sha256": null
     }
    ]
@@ -703,6 +988,51 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/30984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-47-2021",
+   "path": "local/prahova/berceni/2021/47",
+   "short": "HCL Berceni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 47/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30985",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-48-2021",
+   "path": "local/prahova/berceni/2021/48",
+   "short": "HCL Berceni nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 48/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30986",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-49-2021",
+   "path": "local/prahova/berceni/2021/49",
+   "short": "HCL Berceni nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 49/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/30987",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/30987",
      "sha256": null
     }
    ]
@@ -798,6 +1128,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-55-2021",
+   "path": "local/prahova/berceni/2021/55",
+   "short": "HCL Berceni nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 55/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din iulie-septembrie 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54734",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54734",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-56-2021",
    "path": "local/prahova/berceni/2021/56",
    "short": "HCL Berceni nr. 56/2021",
@@ -853,6 +1198,51 @@
      "from": "2021-07-15",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-6-2021",
+   "path": "local/prahova/berceni/2021/6",
+   "short": "HCL Berceni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 6/2021 privind aprobare dosar în vederea atribuirii unui lot în suprafatã de max. 500 mp pentru beneficiari ai Legii 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personalã",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27663",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-60-2021",
+   "path": "local/prahova/berceni/2021/60",
+   "short": "HCL Berceni nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 60/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54739",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-61-2021",
+   "path": "local/prahova/berceni/2021/61",
+   "short": "HCL Berceni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 61/2021 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54740",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54740",
      "sha256": null
     }
    ]
@@ -963,6 +1353,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-69-2021",
+   "path": "local/prahova/berceni/2021/69",
+   "short": "HCL Berceni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 69/2021 privind aprobarea documentaței tehnico-economice, a indicatorilor tehnico-economici și a devizului general- faza PT pentru obiectivul de investiții \"Aducțiune apă potabilă comuna Berceni\"",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54827",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-7-2021",
+   "path": "local/prahova/berceni/2021/7",
+   "short": "HCL Berceni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 7/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27664",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-70-2021",
+   "path": "local/prahova/berceni/2021/70",
+   "short": "HCL Berceni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 70/2021 privind aprobarea participării consilierilor locali din cadrul Consiliului Local al comunei Berceni la programul anual de pregătire, formare și perfecționare profesională",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54828",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54828",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-71-2021",
    "path": "local/prahova/berceni/2021/71",
    "short": "HCL Berceni nr. 71/2021",
@@ -973,6 +1408,36 @@
      "from": "2021-08-20",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-72-2021",
+   "path": "local/prahova/berceni/2021/72",
+   "short": "HCL Berceni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 72/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54830",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-73-2021",
+   "path": "local/prahova/berceni/2021/73",
+   "short": "HCL Berceni nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 73/2021 privind acordarea unui sprijin financiar pentru unitatea de cult „Biserica Sf. Alexie si Sf Mina” din satul Dâmbu, com. Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54831",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54831",
      "sha256": null
     }
    ]
@@ -1023,6 +1488,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-77-2021",
+   "path": "local/prahova/berceni/2021/77",
+   "short": "HCL Berceni nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 77/2021 privind modificare a HCL nr. 04/28.01.2021 privind aprobarea numărului de asistenți personali și a numărului de indemnizații lunare care să asigure îngrijirea persoanelor încadrate în gradul de invaliditate grav de pe raza comunei Berceni pe anul 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54837",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54837",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-78-2021",
    "path": "local/prahova/berceni/2021/78",
    "short": "HCL Berceni nr. 78/2021",
@@ -1033,6 +1513,51 @@
      "from": "2021-09-23",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-79-2021",
+   "path": "local/prahova/berceni/2021/79",
+   "short": "HCL Berceni nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 79/2021 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54839",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-8-2021",
+   "path": "local/prahova/berceni/2021/8",
+   "short": "HCL Berceni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 8/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27665",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-80-2021",
+   "path": "local/prahova/berceni/2021/80",
+   "short": "HCL Berceni nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 80/2021 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “ Realizarea unui sistem de canalizare a apelor menajere pentru satele Berceni, Corlãteşti, Dâmbu și Cãtunu, cu staţie de epurare în satul Cãtunul și satul Moara Nouã cu staţie de epurare separatã”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54840",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54840",
      "sha256": null
     }
    ]
@@ -1053,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-82-2021",
+   "path": "local/prahova/berceni/2021/82",
+   "short": "HCL Berceni nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 82/2021 privind desemnarea reprezentanților Consiliului Local al comunei Berceni în Comisia de recepție a lucrărilor efectuate de unitățile de cult din comuna Beceni, jud. Prahova, care au primit sprijin financiar din bugetul local",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54842",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54842",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-83-2021",
    "path": "local/prahova/berceni/2021/83",
    "short": "HCL Berceni nr. 83/2021",
@@ -1063,6 +1603,126 @@
      "from": "2021-09-23",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-84-2021",
+   "path": "local/prahova/berceni/2021/84",
+   "short": "HCL Berceni nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 84/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54844",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-85-2021",
+   "path": "local/prahova/berceni/2021/85",
+   "short": "HCL Berceni nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 85/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54845",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-86-2021",
+   "path": "local/prahova/berceni/2021/86",
+   "short": "HCL Berceni nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 86/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Berceni pentru şedinţele din lunile octombrie, noiembrie, decembrie 2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54853",
+   "versions": [
+    {
+     "from": "2021-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-87-2021",
+   "path": "local/prahova/berceni/2021/87",
+   "short": "HCL Berceni nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 87/2021",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54854",
+   "versions": [
+    {
+     "from": "2021-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-88-2021",
+   "path": "local/prahova/berceni/2021/88",
+   "short": "HCL Berceni nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 88/2021 privind aprobarea Centralizatorului lucrărilor rest de executat la obiectivul de investiții “ Realizarea unui sistem de canalizare a apelor menajere pentru satele Berceni, Corlãteşti, Dâmbu și Cãtunu, cu staţie de epurare în satul Cãtunul și satul Moara Nouã cu staţie de epurare separatã”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54856",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-89-2021",
+   "path": "local/prahova/berceni/2021/89",
+   "short": "HCL Berceni nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 89/2021 privind aprobarea Centralizatorului lucrărilor rest de executat la obiectivul de investiții “CONSTRUIRE GRĂDINIȚĂ Sp+P+1E CU PROGRAM PRELUNGIT”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54857",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-9-2021",
+   "path": "local/prahova/berceni/2021/9",
+   "short": "HCL Berceni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 9/2021 privind aprobare PUZ – MODIFICARE PUZ APROBAT CU HCL NR. 36/19.05.2010, REPARCELARE TEREN PENTRU AMPLASARE LOCUINȚĂ (S stud.=4563 mp)",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/27666",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/27666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-90-2021",
+   "path": "local/prahova/berceni/2021/90",
+   "short": "HCL Berceni nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 90/2021 privind completarea HCL nr. 51/10.06.2021 privind modificarea și completarea HCL nr. 81/28.10.2020 privind aprobarea proiectului “Creșterea capacității de gestionare a pandemiei în școlile din comuna Berceni în vederea finanțării acestuia în cadrul Programului Operațional Infrastructură Mare 2014-2020, cod SMIS 144472”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54858",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54858",
      "sha256": null
     }
    ]
@@ -1123,6 +1783,81 @@
      "from": "2021-10-19",
      "units": 1,
      "source_url": "https://emol.ro/berceni-ph/registru-hcl/54862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-95-2021",
+   "path": "local/prahova/berceni/2021/95",
+   "short": "HCL Berceni nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 95/2021 privind aprobarea documentaței tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții “MODERNIZARE DRUMURI PUBLICE ÎN COM. BERCENI, JUD. PRAHOVA”-faza D.A.L.I",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54863",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-96-2021",
+   "path": "local/prahova/berceni/2021/96",
+   "short": "HCL Berceni nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 96/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții “MODERNIZARE DRUMURI PUBLICE ÎN COM. BERCENI, JUD. PRAHOVA”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54864",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-97-2021",
+   "path": "local/prahova/berceni/2021/97",
+   "short": "HCL Berceni nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 97/2021 privind modificarea Structurii organizatorice (Organigrama) și a Statului de funcții al aparatului de specialitate al primarului comunei Berceni și a instituțiilor din subordinea Consiliului Local Berceni",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54865",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-98-2021",
+   "path": "local/prahova/berceni/2021/98",
+   "short": "HCL Berceni nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 98/2021 privind aprobarea participării la „ Programului privind creşterea eficienţei energetice şi gestionarea inteligentă a energiei în clădirile publice” cu proiectul “CRESTEREA EFICENTEI ENERGETICE SI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE - SCOALA SAT CORLĂTEȘTI”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54866",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-99-2021",
+   "path": "local/prahova/berceni/2021/99",
+   "short": "HCL Berceni nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 99/2021 privind aprobarea participării la „ Programului privind creşterea eficienţei energetice şi gestionarea inteligentă a energiei în clădirile publice” cu proiectul “CREȘTEREA EFICENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE - ȘCOALĂ SAT MOARA NOUĂ”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/54867",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/54867",
      "sha256": null
     }
    ]

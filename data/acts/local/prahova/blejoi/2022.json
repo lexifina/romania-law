@@ -157,6 +157,29 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-8-2022",
+"path": "local/prahova/blejoi/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 8/2022",
+"short": "HCL Blejoi nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/58048",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-9-2022",
 "path": "local/prahova/blejoi/2022/9",
 "kind": "local",
@@ -400,6 +423,29 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-20-2022",
+"path": "local/prahova/blejoi/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 20/2022",
+"short": "HCL Blejoi nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/58162",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-21-2022",
 "path": "local/prahova/blejoi/2022/21",
 "kind": "local",
@@ -533,6 +579,50 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-27-2022",
+"path": "local/prahova/blejoi/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 27/2022 privind acordarea unui sprijin financiar Parohiei Blejoi",
+"short": "HCL Blejoi nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/58240",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-28-2022",
+"path": "local/prahova/blejoi/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 28/2022 privind acordarea unui sprijin financiar pentru achiziționarea de materiale didactice",
+"short": "HCL Blejoi nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/58241",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-29-2022",
 "path": "local/prahova/blejoi/2022/29",
 "kind": "local",
@@ -552,6 +642,51 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-30-2022",
+"path": "local/prahova/blejoi/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 30/2022",
+"short": "HCL Blejoi nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/68418",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-31-2022",
+"path": "local/prahova/blejoi/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 31/2022 privind acordarea unui sprijin financiar Parohiei Ploieștiori",
+"short": "HCL Blejoi nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/68419",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -932,6 +1067,28 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-49-2022",
+"path": "local/prahova/blejoi/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 49/2022 privind scoaterea la licitație în vederea închirierii Grădiniței Ploieștiori",
+"short": "HCL Blejoi nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/68962",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-50-2022",
 "path": "local/prahova/blejoi/2022/50",
 "kind": "local",
@@ -1021,6 +1178,28 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-54-2022",
+"path": "local/prahova/blejoi/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 54/2022 privind acordarea unui sprijin financiar Parohiei Blejoi",
+"short": "HCL Blejoi nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/68967",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-55-2022",
 "path": "local/prahova/blejoi/2022/55",
 "kind": "local",
@@ -1107,6 +1286,28 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-59-2022",
+"path": "local/prahova/blejoi/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 59/2022 privind aprobarea Studiului de oportunitate privind închirierea imobilului, Grădinița cu program normal și a terenului aferent, înscris în Cartea Funciară a comunei Blejoi nr. 27204, având nr. cadastral 27204, situat în comuna Blejoi, sat Ploieștiori, str. Teleajenului, nr. 126",
+"short": "HCL Blejoi nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/69083",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1200,6 +1401,28 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-64-2022",
+"path": "local/prahova/blejoi/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 64/2022 privind însușirea raportului de evaluare și aprobarea documentației de atribuire privind închirierea imobilului, Grădinița cu program normal și a terenului aferent,înscris în Cartea Funciară a comunei Blejoi nr. 27204, având nr. cadastral 27204, situat în comuna Blejoi, sat Ploieștiori, str. Teleajenului, nr. 126",
+"short": "HCL Blejoi nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/78996",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-65-2022",
 "path": "local/prahova/blejoi/2022/65",
 "kind": "local",
@@ -1263,6 +1486,72 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-68-2022",
+"path": "local/prahova/blejoi/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 68/2022 privind desemnarea reprezentantilor Consiliului Local al comunei Blejoi in consiliile de administratie ale unitatilor de invatamant de pe raza comunei Blejoi",
+"short": "HCL Blejoi nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79038",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-69-2022",
+"path": "local/prahova/blejoi/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 69/2022 privind desemnarea reprezentantilor Consiliului Local al comunei Blejoi in comisiile pentru evaluarea si asigurarea calitatii la unitatile de invatamant de pe raza comunei Blejoi",
+"short": "HCL Blejoi nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79039",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-70-2022",
+"path": "local/prahova/blejoi/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 70/2022 privind desemnarea reprezentantilor Consiliului Local al comunei Blejoi in comisiile pentru prevenirea si combaterea violentei in mediul scolar, ce se vor constitui la nivelul unitatilor de invatamant de pe raza comunei Blejoi",
+"short": "HCL Blejoi nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-14",
+"latest": "2022-11-14",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79040",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1354,6 +1643,29 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-75-2022",
+"path": "local/prahova/blejoi/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 75/2022",
+"short": "HCL Blejoi nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79385",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-76-2022",
 "path": "local/prahova/blejoi/2022/76",
 "kind": "local",
@@ -1395,6 +1707,50 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-78-2022",
+"path": "local/prahova/blejoi/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 78/2022 privind acordarea unui sprijin financiar Parohiei Blejoi",
+"short": "HCL Blejoi nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79388",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-79-2022",
+"path": "local/prahova/blejoi/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 79/2022 privind acordarea unui sprijin financiar Bisericii Creștine dupa Evanghelie ,,Betania’’ Ploiestiori",
+"short": "HCL Blejoi nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/79389",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

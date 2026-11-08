@@ -16,6 +16,21 @@
      "sha256": "9d0ca4ee4ec58426dfa11670b5ca13d013c7200beef56fc89428bdda431e3f07"
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-80-2018",
+   "path": "local/prahova/breaza/2018/80",
+   "short": "HCL Breaza nr. 80/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 80/2018 privind aprobarea contului de execuţie al bugetului local al oraşului Breaza, la data de 30.06.2018",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2018-06-30",
+     "units": 1,
+     "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2018/08/HCL-80-2018.pdf",
+     "sha256": "22d88af8ed96bce17381db0140b5fd197e1870321c8cc93d2826869a6c874dd9"
+    }
+   ]
   }
  ]
 }

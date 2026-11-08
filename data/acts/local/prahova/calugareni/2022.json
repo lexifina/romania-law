@@ -357,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-prahova--calugareni-17-2022",
+"path": "local/prahova/calugareni/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 17/2022 STABILIREA CUANTUMULUI INDEMNIZATIEI LUNARE CONSILIERI LOCALI",
+"short": "HCL Călugăreni nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23406",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--calugareni-18-2022",
 "path": "local/prahova/calugareni/2022/18",
 "kind": "local",
@@ -376,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Călugăreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-19-2022",
+"path": "local/prahova/calugareni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 19/2022 DESEMNARE REPREZENTANT CL COMISIE DE EVALUARE",
+"short": "HCL Călugăreni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#23413",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1085,6 +1129,72 @@
 "council_name": "Consiliul Local al Comunei Călugăreni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-52-2022",
+"path": "local/prahova/calugareni/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 52/2022 DESEMNARE REPREZENTANTI CL IN CA SCOALA",
+"short": "HCL Călugăreni nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44312",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-53-2022",
+"path": "local/prahova/calugareni/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 53/2022 DESEMNARE REPREZENTANTI CL IN CEAC",
+"short": "HCL Călugăreni nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44313",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-54-2022",
+"path": "local/prahova/calugareni/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 54/2022 APROBAREA NUMARULUI DE INDEMNIZATI PERSOANE CU HANDICAP",
+"short": "HCL Călugăreni nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#44314",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

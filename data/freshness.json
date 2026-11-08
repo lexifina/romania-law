@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 520787,
+  "acts": 523787,
   "by_status": {
-   "current": 449563,
+   "current": 452563,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 462975,
-  "verified_30d": 463018,
-  "pct_verified_7d": 88.9,
-  "pct_verified_30d": 88.9,
-  "pct_current": 86.3,
+  "verified_7d": 465975,
+  "verified_30d": 466018,
+  "pct_verified_7d": 89.0,
+  "pct_verified_30d": 89.0,
+  "pct_current": 86.4,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 363166,
+   "acts": 366166,
    "by_status": {
-    "current": 357073,
+    "current": 360073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 357031,
-   "verified_30d": 357073,
+   "verified_7d": 360031,
+   "verified_30d": 360073,
    "pct_verified_7d": 98.3,
    "pct_verified_30d": 98.3,
    "pct_current": 98.3,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 363166,
+   "acts": 366166,
    "by_status": {
-    "current": 357073,
+    "current": 360073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 357031,
-   "verified_30d": 357073,
+   "verified_7d": 360031,
+   "verified_30d": 360073,
    "pct_verified_7d": 98.3,
    "pct_verified_30d": 98.3,
    "pct_current": 98.3,
@@ -904,12 +904,12 @@
    "kinds": [
     "local"
    ],
-   "acts": 361190,
+   "acts": 364190,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
-   "sites": 686,
+   "sites": 687,
    "sites_unavailable": 7,
-   "pct_verified_7d": 98.8,
+   "pct_verified_7d": 98.9,
    "pct_verified_30d": 98.9
   },
   {
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6920
+ "shards": 6927
 }

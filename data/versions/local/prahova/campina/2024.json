@@ -3,6 +3,36 @@
  "shard": "local/prahova/campina/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-1-2024",
+   "path": "local/prahova/campina/2024/1",
+   "short": "HCL Câmpina nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 1/2024 privind organizarea rețelei școlare pentru anul școlar 2024 — 20 Municipiului Câmpina Având în vedere Referatul de aprobare nr.972/09 ianuarie 2024 al d-lui Ioan-Alin Moldoveanu — Primarul Municipiului Câmpina, prin care propune organizarea rețelei școlare pentru anul școlar 2024 — 2025, la nivelul Municipiului Câmpina; : Ținând seama de: - raportul nr.1.160/09 ianuarie 2024, întocmit de Direcția",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/01/Hotararea-nr1-aprobare-retea-scolara-2024_2025.pdf",
+     "sha256": "fe83442fb83352f6e2ab9c443c228b26986c9d0bca78a9da535b15e7c3c94859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-100-2024",
+   "path": "local/prahova/campina/2024/100",
+   "short": "HCL Câmpina nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2024 privind aprobarea proiectului și a cheltuielilor legate de pro „Îmbunătățirea infrastructurii educaționale prin construirea unei gră Municipiul Câmpina”, cod SMIS2021- 329044, în cadrul Programului Regional Sud Muntenia 2021-2027, Prioritatea PS. O regiune educată, Obiectiv specific RS04.2 Îmbunătățirea accesului egal la servicii de calitate și incluzive în educație, formare și învățarea pe tot pa",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr100-aprob-pr-si-chelt-Imbunatat-infrastr-education-constr-gradinita.pdf",
+     "sha256": "770f199d2c7fe0cda0b7923a5dd3809d8dd235fd2e3495be3b86abf695d941e5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-101-2024",
    "path": "local/prahova/campina/2024/101",
    "short": "HCL Câmpina nr. 101/2024",
@@ -18,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-102-2024",
+   "path": "local/prahova/campina/2024/102",
+   "short": "HCL Câmpina nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 102/2024 privind aprobarea proiectului și a cheltuielilor legate de proiectul “ eficienței energetice în Spitalul Municipal Câmpina”, cod SMIS2021- 329994, în cadrul Programului Regional Sud Muntenia 2021-2027, Prioritatea 2. O regiune cu orașe prietenoase cu mediul, Obiectiv specific RSO2.1- Promovarea eficienței energetice și reducerea emisiilor de gaze cu efect de seră, Operațiunea C — Promovarea eficie",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr102-aprob-pr-si-chelt-Crestere-efic-energetica-Spital-Municipal-Etapa-II.pdf",
+     "sha256": "da8be868a438b1cf875bf0d321116a82ecef3d99471c835cfbcffaf17e2f0670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-104-2024",
+   "path": "local/prahova/campina/2024/104",
+   "short": "HCL Câmpina nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 104/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr104-mod-Anexa-2-la-HCL-95_2024-stat-functii-Spital-Municipal-Campina.pdf",
+     "sha256": "1da8c17139fdb87808dfbd1a6ed4112f6d5c8ac03406c31abe1ee1906a69c5a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-105-2024",
    "path": "local/prahova/campina/2024/105",
    "short": "HCL Câmpina nr. 105/2024",
@@ -29,6 +89,66 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr105-aprob-modif-HCL-24_19-feb-2024-manif-culturale.pdf",
      "sha256": "8b509c753748acc09ac5c2f7d96350b043962bfd79c67d5f4e9e3f43c4114258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-106-2024",
+   "path": "local/prahova/campina/2024/106",
+   "short": "HCL Câmpina nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 106/2024 privind aprobarea criteriilor pentru stabilirea ordinii de priotftate soluționarea cererilor de locuințe și în repartizarea locuințelor pentru tineri, destinate închirierii, în Municipiul Câmpina Având în vedere Referatul de aprobare nr.29.356/11 iulie 2024 al membrilor Comisiei administrație publică locală, juridic, relații cu publicul, servicii și comerț, muncă și probleme sociale, spațiu locati",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr106-criterii-repartizare-locuinte-pt-tineri-prin-inchiriere-ANL.pdf",
+     "sha256": "bd513ff3f29b5edd75c54b92f484df1ca8a6561a981da0b70c000af3000cf008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-107-2024",
+   "path": "local/prahova/campina/2024/107",
+   "short": "HCL Câmpina nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 107/2024 privind exploatarea și întreținerea bazei sportive cuprinzând Bazinul de înot didactic — Cartier Hernea, din Municipiul Câmpina Având în vedere Referatul de aprobare nr.31.144/23 iulie 2024 al d-lui Raț Cosmin-Gicu, consilier local, prin care propune aprobarea modificării și completării Regulamentelor de organizare și funcționare ale ”Terenului de sport municipal cu gazon artificial” și ”Terenului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr107-referitor-la-bunuri-date-adstrare-Clubul-Sportiv-Campina_Regulamente.pdf",
+     "sha256": "a64d7d3d53cffb08fbd7acd67a14470be5ee798c5de6a725d0037fa4e024c2ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-11-2024",
+   "path": "local/prahova/campina/2024/11",
+   "short": "HCL Câmpina nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 11/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "99ae3972dbbdd73a44795e6cbfe391735ab19b303bfb14fb972d590f20df50d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-110-2024",
+   "path": "local/prahova/campina/2024/110",
+   "short": "HCL Câmpina nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 110/2024 privind îndreptarea erorilor materiale existente în Anexa nr.1 : 31 iulie 2024 pentru modificarea și completarea Regulamentelor de organizare și funcționare ale ”Terenului de sport municipal cu gazon artificial” și \"Terenului de sport multifuncțional”, precum și a Regulamentului privind exploatarea și întreținerea bazei sportive cuprinzând Bazinul de înot didactic — Cartier Hernea, din Municipiul",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr110-indreptare-erori-materiale-HCL-107-din-2024-bun-date-adstrare-Club-Sportiv.pdf",
+     "sha256": "390ffd6feb840b2e1802e46b89cc30045c0d929408475ffea8e542dc80aaf649"
     }
    ]
   },
@@ -108,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-116-2024",
+   "path": "local/prahova/campina/2024/116",
+   "short": "HCL Câmpina nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1c42547a0857ee702b4aaba24c280f45047db01b541e6945ad6e63095a159c40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-117-2024",
+   "path": "local/prahova/campina/2024/117",
+   "short": "HCL Câmpina nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2024 privind instituirea unor măsuri fiscale și de aprobare a procedurii de acordare a facilității fiscale de anulare a accesoriilor în cazul obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv, datorate bugetului local al Municipiului Câmpina Având în vedere Referatul de aprobare nr.38.960/18 septembrie 2024 al d-lui Moldoveanu lIoan-Alin - Primarului Municipiului Câmpina, prin ca",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr117-instituire-masuri-fiscale-si-aprob-procedura-acordare-facilit-.pdf",
+     "sha256": "421813f372b35a3572dfe8dea589c1f7926c190c37484d800faaef8cee81f7cc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-12-2024",
    "path": "local/prahova/campina/2024/12",
    "short": "HCL Câmpina nr. 12/2024",
@@ -119,6 +269,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "0ed09d57d9decd06c15157984649b4ea4a1be61acfdb5573d957323662d50f2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-121-2024",
+   "path": "local/prahova/campina/2024/121",
+   "short": "HCL Câmpina nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 121/2024 privind înregistrarea, analiza, repartizarea și administrarea locuințelor sociale construite prin Strategia de Dezvoltare Locală a Zonelor Urbane Marginalizate din Municipiul Câmpina, aprobata prin Hotărârea Consiliului Local nr. 221/15.12.2023; În conformitate cu prevederile: - art.43 din Legea locuinței nr.114/1996, republicată, cu modificările și completările ulterioare; - art.21 alin.(2), alin",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/10/Hotararea-nr121-aprobare-lista-prioritati-locuinte-sociale.pdf",
+     "sha256": "3e50b7e317987fa30786e2cdfbbf7443ce5149e9edd1d2ec5ea4036bc2eee4c5"
     }
    ]
   },
@@ -153,6 +318,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-131-2024",
+   "path": "local/prahova/campina/2024/131",
+   "short": "HCL Câmpina nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c82a0d6d62975e2d2ab64ea70eb988f63434caf6fa4eec57565da313305918db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-132-2024",
+   "path": "local/prahova/campina/2024/132",
+   "short": "HCL Câmpina nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 132/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "30f423dc01cdc45a1e64f66d940ad01924f0d6fea29097046358505c5c24def7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-133-2024",
+   "path": "local/prahova/campina/2024/133",
+   "short": "HCL Câmpina nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 133/2024 pentru tineri destinate închirierii, construite de A.N.L,, situate în Municipiul Câmpina, str.Erupției, nr.1D, bl.E6 și nr.1], bLEI-ElI3 și str.Ecaterina Teodoroiu, nr.35B, sc.1 și sc.2; - raportul nr.42.67/11 octombrie 2024, întocmit de Direcția administrarea domeniului public și privat din cadrul Primăriei Municipiului Câmpina; - raportul nr.42.672/11 octombrie 2024, întocmit de Direcția economi",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/11/Hotararea-nr133-chirii-actualizate-locuinte-tineri-blANL-strEruptie_strEcTeodoroiu.pdf",
+     "sha256": "7ab7b17bd66983e7f7b22ac96f207ad7f0b57e58e52e353745994a56832df29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-134-2024",
+   "path": "local/prahova/campina/2024/134",
+   "short": "HCL Câmpina nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 134/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "58994f7dfbb31cfbe523e0dc4699dafa7e3210a5db1d004ce4d8abfe9d2e47f4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-136-2024",
    "path": "local/prahova/campina/2024/136",
    "short": "HCL Câmpina nr. 136/2024",
@@ -183,6 +408,126 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-138-2024",
+   "path": "local/prahova/campina/2024/138",
+   "short": "HCL Câmpina nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2024 privind aprobarea realizării unei piste de motocros, enduro și A în Municipiul Câmpina, Județul Prahova Având în vedere Referatul de aprobare nr.43.865/17 octombrie 2024 al d-lui Raț Cosmin-Gicu - consilier local, prin care propune aprobarea realizării unei piste de motocros, enduro și ATV-uri în Municipiul Câmpina, Județul Prahova; Ținând seama de: -raportul nr.43.976/18 octombrie 2024, întocmit",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/11/Hotararea-nr138-realizare-pista-motocros_enduro-si-ATV-uri.pdf",
+     "sha256": "cf1236290a1e23655252b31e531c4d3b238505c63d9c90a0b29d70e73833cbbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-14-2024",
+   "path": "local/prahova/campina/2024/14",
+   "short": "HCL Câmpina nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 14/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/02/Hotararea-nr14-mod-Anexa-1-si-2-la-HCL-nr159-din-2022-infiintare-Cresa-Municip-Campina.pdf",
+     "sha256": "2acc9a49411929fdfa4ccd60bace3b87b6d5652887b9bd7bc7890ef5b63606f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-141-2024",
+   "path": "local/prahova/campina/2024/141",
+   "short": "HCL Câmpina nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 141/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/11/Hotararea-nr141-constituire-comisii-de-specialitate-CL-1.pdf",
+     "sha256": "425ff6f9113243f308fe3663edcdc2bde1dfde1da208d048ede2b4dc279a629e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-142-2024",
+   "path": "local/prahova/campina/2024/142",
+   "short": "HCL Câmpina nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 142/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ada0479a51422cd5a13b07f0b312257ace5eccf95fabf4afd09bcebefd34862d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-145-2024",
+   "path": "local/prahova/campina/2024/145",
+   "short": "HCL Câmpina nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 145/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "936984e4a9f70ed54d933f3827cd0ba3390e852994ccc8cf0ff2fe376cd79e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-147-2024",
+   "path": "local/prahova/campina/2024/147",
+   "short": "HCL Câmpina nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 147/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4fe51b08f92bbb99a9d674ff52f788e0fd94b7ca9725270bed9349ea24e24d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-148-2024",
+   "path": "local/prahova/campina/2024/148",
+   "short": "HCL Câmpina nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 148/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d651336b8943c5ad2c9872b28c333581a63eb7f01daf2277b4747e2abe8047a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-149-2024",
+   "path": "local/prahova/campina/2024/149",
+   "short": "HCL Câmpina nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 149/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1d339a2ab551c7fdf13fa51c8ab0b7acad0f359f1cc1ea69761c237c392a7dd2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-150-2024",
    "path": "local/prahova/campina/2024/150",
    "short": "HCL Câmpina nr. 150/2024",
@@ -194,6 +539,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "f0f750e2dbba4799910e311fed1d6a71d9a46acfd12013476e707517e2783e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-154-2024",
+   "path": "local/prahova/campina/2024/154",
+   "short": "HCL Câmpina nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 154/2024 privind alocarea unor sume de bani pentru susținerea financiară a unor manifestări culturale, artistice, sportive și educative organizate de Consiliul Local, în anul 2024; Ținând seama de: - raportul nr.48.967/19 noiembrie 2024, întocmit de Direcția economică din cadrul Primăriei Municipiului Câmpina; - avizul comisiei de specialitate din cadrul Consiliului local al Municipiului Câmpina, respectiv",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr154-aprob-modif-HCL-nr24-din-2024-manif-culturale.pdf",
+     "sha256": "d4c27c91ab1313ebac955c62dbc520c53b0a1e9d2272f2a3d1cce701aa414319"
     }
    ]
   },
@@ -243,6 +603,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-160-2024",
+   "path": "local/prahova/campina/2024/160",
+   "short": "HCL Câmpina nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 160/2024 privind înregistrarea, analiza, repartizarea și administrarea locuințelor sociale construite prin Strategia de Dezvoltare Locală a Zonelor Urbane Marginalizate din Municipiul Câmpina, aprobată prin Hotărârea Consiliului Local nr.221/15 decembrie 2023; În conformitate cu prevederile: _ - art43 din Legea locuinței nr.114/1996, republicată, cu modificările și completările ulterioare; - art.22 alin(1)",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr160-lista-repartizare-locuinte-sociale-prin-SDL_ZUM.pdf",
+     "sha256": "cdd7e65c8a8de02e377e3d019822b33c01edb9a90f511c5237613ff6e2ee96c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-164-2024",
+   "path": "local/prahova/campina/2024/164",
+   "short": "HCL Câmpina nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ab056439917a2f548b3da6d1c0a1bc3720580d8793c83d653c40a603816a74fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-165-2024",
+   "path": "local/prahova/campina/2024/165",
+   "short": "HCL Câmpina nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2024 privind organizarea rețelei școlare pentru anul școlar 2025 — 20% la nivelul Municipiului Câmpina Având în vedere Referatul de aprobare nr.52.961/11 decembrie 2024 al d-nei lrina-Mihaela Nistor — Primarul Municipiului Câmpina, prin care propune organizarea rețelei școlare pentru anul școlar 2025 — 2026, la nivelul Municipiului Câmpina; Ținând seama de: - raportul nr.53.142/12 decembrie 2024, întoc",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr165-aprobare-retea-scolara-2025_2026.pdf",
+     "sha256": "22e8f067839a348951b45b2453447dd9984e24caa6d3fec2ee4e901d60793b23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-166-2024",
+   "path": "local/prahova/campina/2024/166",
+   "short": "HCL Câmpina nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1e6884d0fe0378858884eb3dd10c588ee50d14844287d2e746e675d864e15ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-167-2024",
+   "path": "local/prahova/campina/2024/167",
+   "short": "HCL Câmpina nr. 167/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 167/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "329670a3f6063c45eeaaacb043bd4da20d776f4616efd8440f70e55dab9485cd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-168-2024",
    "path": "local/prahova/campina/2024/168",
    "short": "HCL Câmpina nr. 168/2024",
@@ -269,6 +704,186 @@
      "units": 1,
      "source_url": null,
      "sha256": "d436f6b96c5431b71b58a2aaaf80bfcb96e902ae0a1c811b7845059b4ebdf031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-170-2024",
+   "path": "local/prahova/campina/2024/170",
+   "short": "HCL Câmpina nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 170/2024 privind aprobarea noii durate de implementare a proiectului cu titlul “Construirea de locuințe sociale pentru persoanele care trăiesc în locuințe amenințate de alunecări de teren sau adăposturi improvizate”, strada Petrolistului, nr.11A, Municipiul Câmpina, Județ Prahova, Cod SMIS 153543, finanțat în cadrul Programului Operațional Regional 2014-2020 Având în vedere Referatul de aprobare nr.53.253/",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/12/Hotararea-nr170-aprob-durata-implem-pr-Constr-loc-sociale-strPetrolistului-nr11A.pdf",
+     "sha256": "a26996ca6f67f6b564c3e87f57bd64567f67ddd60a2aea396e2c74cf3936bc64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-171-2024",
+   "path": "local/prahova/campina/2024/171",
+   "short": "HCL Câmpina nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 171/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f0fb3d62daea0248340ed827d2e494fd6ccedac900a3e80448c3adb45770d34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-173-2024",
+   "path": "local/prahova/campina/2024/173",
+   "short": "HCL Câmpina nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 173/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "125ccb2e1d09c71302595732067a49c969b4fa1f9cf3d039b70b161df13a21c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-174-2024",
+   "path": "local/prahova/campina/2024/174",
+   "short": "HCL Câmpina nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 174/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fa913d980a05e24751432b6ec2f750e3d5d43f9b42905788d1128d853af108c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-176-2024",
+   "path": "local/prahova/campina/2024/176",
+   "short": "HCL Câmpina nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 176/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ad48e9494590d823a29abad112446e9f9bde55fb4d60e8b92862de15b7349c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-177-2024",
+   "path": "local/prahova/campina/2024/177",
+   "short": "HCL Câmpina nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 177/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0bf703a835a3a19eecbcf47ce675189b96e265aaf4369d333ab7f4df1030cf74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-178-2024",
+   "path": "local/prahova/campina/2024/178",
+   "short": "HCL Câmpina nr. 178/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 178/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1f2d2316a8e7eb9c8230e541996c21274634f631043898cbd321b15583baa81c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-18-2024",
+   "path": "local/prahova/campina/2024/18",
+   "short": "HCL Câmpina nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 18/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2cc7b2bbb3a362dc41e399ca0550fac3b21bcf7d12f4dc74bb1111bb5208dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-180-2024",
+   "path": "local/prahova/campina/2024/180",
+   "short": "HCL Câmpina nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 180/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4d75f72ec6374f61139a4ea2846a7c43d9a8ad1ac879313f79953b070d7203b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-182-2024",
+   "path": "local/prahova/campina/2024/182",
+   "short": "HCL Câmpina nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 182/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0ca2fea28062cb5eeb545af5ab3c751f66f7c18f10b64e5dc2ede5a0eecc6156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-183-2024",
+   "path": "local/prahova/campina/2024/183",
+   "short": "HCL Câmpina nr. 183/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 183/2024 privind aprobarea prelungirii duratei de implementare a proiec ar „Îmbunătățirea infrastructurii educaționale prin construirea unei gr Municipiul Câmpina”, etapa a II-a, cod SMIS 329044 (Cod SMIS 153543 - anterior etapizării) Având în vedere Referatul de aprobare nr.54.809/20 decembrie 2024 al d-nei lrina-Mihaela Nistor - Primarul Municipiului Câmpina, prin care propune aprobarea prelungirii durat",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2025/02/Hotararea-nr183-prelungire-durata-implem-pr-Imbun-infrastr-educ-constr-gradinita-1.pdf",
+     "sha256": "1f798774ba986c10a1a888f0f01ba001417af1e9aff34b37cd70a532e043e2d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-185-2024",
+   "path": "local/prahova/campina/2024/185",
+   "short": "HCL Câmpina nr. 185/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 185/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "09a22c46a87805fa2a9034a9d69691c028ce134e8782280033f5ed35bde8f1c8"
     }
    ]
   },
@@ -303,6 +918,111 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-27-2024",
+   "path": "local/prahova/campina/2024/27",
+   "short": "HCL Câmpina nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 27/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "24f7ee2beca9608f8354b21b36382f2d535ae4462426c1c313b7687fcf949016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-29-2024",
+   "path": "local/prahova/campina/2024/29",
+   "short": "HCL Câmpina nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 29/2024 privind mandatarea d-lui Moldoveanu Ioan-Alin - Primarul eiprălui Câmpina, în calitate de reprezentant al Unității Administrativ Teritoriale - Municipiul Câmpina, să voteze retragerea Comunei Ceptura, Județul Prahova, din Asociația de Dezvoltare Intercomunitară \"Parteneriatul pentru Managementul Apei - Prahova” Având în vedere Referatul de aprobare nr.8.090/22 februarie 2024 al d-lui Moldoveanu Io",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+     "sha256": "e7bedbe5609e18210c4a8cc242ad4a3e9ee6d7a85c7cf568c623206d821328cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-30-2024",
+   "path": "local/prahova/campina/2024/30",
+   "short": "HCL Câmpina nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2024 pentru aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al Municipiului Câmpina, pentru anul 2024 Având în vedere Referatul de aprobare nr.7.852/21 februarie 2024 al d-lui Moldoveanu Ioan-Alin — Primarul Municipiului Câmpina, prin care propune aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul local al",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/03/Hotararea-nr30-aprobare-Plan-de-actiune-serv-sociale-1.pdf",
+     "sha256": "c11e04b2b9f7a2486fbc63fb2257f99b602810b4d2ab1400b960fedb54ddf9e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2024",
+   "path": "local/prahova/campina/2024/31",
+   "short": "HCL Câmpina nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/03/Hotararea-nr31-mod-Anexa-2-la-HCL-nr6-din-2024-organigr_stat-functii-Spital-Municipal.pdf",
+     "sha256": "88ceadc0904d4274a68256f26efd24b9e41796bc43121589f4d0ba18a966d3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2024",
+   "path": "local/prahova/campina/2024/34",
+   "short": "HCL Câmpina nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dfabb8d92fd03c53c3a84e306eec80a18cdddf726da78811984769d4ca7c0ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-35-2024",
+   "path": "local/prahova/campina/2024/35",
+   "short": "HCL Câmpina nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 35/2024 privind aprobarea vânzării locuinței pentru tineri, construită prin Ai Națională pentru Locuințe, situată în str",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/03/Hotararea-nr35-vanzare-locuinta-ANL-.pdf",
+     "sha256": "30d25298227883494079587ce87ec0c766018668adc3a9592c1725021003393c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2024",
+   "path": "local/prahova/campina/2024/36",
+   "short": "HCL Câmpina nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bd0836dece70e738c2dce785dccde2897f66e6522b5286b9046216ddc35bdc97"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-40-2024",
    "path": "local/prahova/campina/2024/40",
    "short": "HCL Câmpina nr. 40/2024",
@@ -318,6 +1038,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-43-2024",
+   "path": "local/prahova/campina/2024/43",
+   "short": "HCL Câmpina nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0267e7d74a87a2628d77061632b6cb34dd6aee2ba0881585aa44104ebf16e76f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-46-2024",
+   "path": "local/prahova/campina/2024/46",
+   "short": "HCL Câmpina nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/05/Hotararea-nr46-mod-Anexa-2-la-HCL-nr.6-din-2024-organigr_stat-functii-Spital-Municipal.pdf",
+     "sha256": "e36db553c536046f44bd05795b257138088fcca8cfb3f217087fd5dc1e5a03bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-47-2024",
+   "path": "local/prahova/campina/2024/47",
+   "short": "HCL Câmpina nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2024",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/05/Hotararea-nr47-completare-Anexa-HCL-nr1-din-2024-retea-scolara-2024_2025.pdf",
+     "sha256": "bb193803cd6cda429e874302e6320f0d4fb655726aecd7f955d670c99eb9747b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-48-2024",
    "path": "local/prahova/campina/2024/48",
    "short": "HCL Câmpina nr. 48/2024",
@@ -329,6 +1094,66 @@
      "units": 1,
      "source_url": null,
      "sha256": "e965f5f607a6d7de568a93c39d0682e46652450f779fd99a1f133c1c50baa34b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-49-2024",
+   "path": "local/prahova/campina/2024/49",
+   "short": "HCL Câmpina nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 49/2024 privind aprobarea listei cuprinzând solicitanții îndreptățiți să prim PASCIB locuință cu chirie din fondul locativ al Municipiului Câmpina, în anul 2024 Având în vedere Referatul de aprobare nr.12.752/21 martie 2024 al membrilor Comisiei administrație publică locală, juridic, relații cu publicul, servicii și comerț, muncă și probleme sociale, spațiu locativ, ș.a.m.d., prin care propun aprobarea li",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/05/Hotararea-nr49-aprobare-lista-prioritati-locuinte-fond-locativ-2024.pdf",
+     "sha256": "264999c89216ca35af1746e2dad43df1f714e3a7f11b73b7570aa8841804a821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-52-2024",
+   "path": "local/prahova/campina/2024/52",
+   "short": "HCL Câmpina nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 52/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b2e688e88538680fac5e602a40738f1d61cac46d811f27c7092a920cf3477c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2024",
+   "path": "local/prahova/campina/2024/59",
+   "short": "HCL Câmpina nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2024 privind mandatarea d-lui Moldoveanu Ioan-Alin, Primarul Municipiului Câmpina, în calitate de reprezentant al Unității Administrativ Teritoriale - Municipiul Câmpina, să voteze retragerea Comunei Puchenii Mari, Județul Prahova, din Asociația de Dezvoltare Intercomunitară \"Parteneriatul pentru Managementul Apei - Prahova” Având în vedere Referatul de aprobare nr.17.559/18 aprilie 2024 al d-lui Moldo",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+     "sha256": "c9d29e0734a301cf77fc785716492a80127c5052be6600de5133d2807b84d161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2024",
+   "path": "local/prahova/campina/2024/62",
+   "short": "HCL Câmpina nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "da39eb324ea90734fba70a33e8d206c0c329b7067d4d91807fbfa2baaf72c3e2"
     }
    ]
   },
@@ -359,6 +1184,21 @@
      "units": 3,
      "source_url": null,
      "sha256": "d282348f0da8b3e60b758cc1cfe234c79a11555c43167fd621cda1145e520180"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-67-2024",
+   "path": "local/prahova/campina/2024/67",
+   "short": "HCL Câmpina nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 67/2024 privind asocierea Municipiului Câmpina cu Județul Prahova în ve realizării unui obiectiv de interes public Având în vedere Referatul de aprobare nr.21.395/16 mai 2024 al d-lui Moldoveanu loan-Alin - Primarul Municipiului Câmpina, prin care propune asocierea Municipiului Câmpina cu Județul Prahova în vederea realizării unui obiectiv de interes public; Ținând seama de: - raportul nr.21.396/16 mai 20",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/07/Hotararea-nr-67-asociere-Mun-Campina-cu-Jud-Prahova-obiective-investitii.pdf",
+     "sha256": "26d8aaca5964fa7490667f2a8cb079dc124834d7cfd7210843a0ae6e9ec3e5df"
     }
    ]
   },
@@ -404,6 +1244,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/07/Hotararea-nr75-aprob-modif-HCL-24_19-feb-2024-manif-culturale.pdf",
      "sha256": "aeb2e283b6c464ceffb9111b12213f1130cfd5af6e1d4e120cab6f393e759d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-76-2024",
+   "path": "local/prahova/campina/2024/76",
+   "short": "HCL Câmpina nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 76/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8d8afb2b70b32a0bfb8b7ee270508e8a621f06850550b10b63c789112b2a538d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-79-2024",
+   "path": "local/prahova/campina/2024/79",
+   "short": "HCL Câmpina nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 79/2024 privind aprobarea dezlipirii imobilului-teren, propriH&t Municipiului Câmpina, în suprafață măsurată de 32.794 mp, dir 8 situat în Municipiul Câmpina, B-dul Nicolae Bălcescu, nr.45, Tarlă 83, Parcelele Cc 709, L 719, Cc 711, P 712, Cp 715, Județul Prahova, cu Nr.Cadastral/Carte funciară 27025 Având în vedere Referatul de aprobare nr.22.466/23 mai 2024 al d-lui Crețu Valentin-Mihai, consilier local",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2024/07/Hotararea-nr79-dezlipire-teren-32794-mp-Bdul-NBalcescu-nr45.pdf",
+     "sha256": "e4daf2b4af03583b7f2e071fc7e81147ca8c1a105980c8aaaf1844b95718f309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-86-2024",
+   "path": "local/prahova/campina/2024/86",
+   "short": "HCL Câmpina nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 86/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4d597cad11d62da21762c12ae0de22d39baf4a71c2ffdace4b8dba6281cf129a"
     }
    ]
   },

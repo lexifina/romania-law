@@ -78,6 +78,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-14-2024",
+   "path": "local/prahova/dumbravesti/2024/14",
+   "short": "HCL Dumbrăvești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 14/2024 privind aplicarea unei sancțiuni disciplinare unui consilier local din cadrul Consiliului local al comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/149767",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/149767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-15-2024",
+   "path": "local/prahova/dumbravesti/2024/15",
+   "short": "HCL Dumbrăvești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 15/2024 privind aplicarea unei sancțiuni disciplinare unui consilier local din cadrul Consiliului local al comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/149768",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/149768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-16-2024",
+   "path": "local/prahova/dumbravesti/2024/16",
+   "short": "HCL Dumbrăvești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 16/2024 privind aplicarea unei sancțiuni disciplinare unui consilier local din cadrul Consiliului local al comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/149769",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/149769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-17-2024",
+   "path": "local/prahova/dumbravesti/2024/17",
+   "short": "HCL Dumbrăvești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 17/2024 privind alegerea preşedintelui de şedinţă pentru sedinta din 27.03.2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/149770",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/149770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-18-2024",
    "path": "local/prahova/dumbravesti/2024/18",
    "short": "HCL Dumbrăvești nr. 18/2024",
@@ -153,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-22-2024",
+   "path": "local/prahova/dumbravesti/2024/22",
+   "short": "HCL Dumbrăvești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 22/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/150494",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/150494",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-23-2024",
    "path": "local/prahova/dumbravesti/2024/23",
    "short": "HCL Dumbrăvești nr. 23/2024",
@@ -163,6 +238,36 @@
      "from": "2024-04-17",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/150495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-24-2024",
+   "path": "local/prahova/dumbravesti/2024/24",
+   "short": "HCL Dumbrăvești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 24/2024 privind alegerea preşedintelui de şedinţă pentru sedinta din 28.03.2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/150496",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/150496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-25-2024",
+   "path": "local/prahova/dumbravesti/2024/25",
+   "short": "HCL Dumbrăvești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 25/2024 privind aprobarea participării la „Programul vizand sisteme de alimentare cu apa, canalizare si epurare a apelor uzate\" pentru obiectivul de investiții “Extindere retele canalizare in satele Sfârleanca, Malaestii de Sus, Malaestii de Jos si Dumbravesti” , a Studiului de Fezabilitate si a indicatorilor tehnico-economici aferenti proiectului",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/151479",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/151479",
      "sha256": null
     }
    ]
@@ -238,6 +343,21 @@
      "from": "2024-02-08",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/138717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-30-2024",
+   "path": "local/prahova/dumbravesti/2024/30",
+   "short": "HCL Dumbrăvești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 30/2024 privind punerea la dispoziția concesionarului, cu titlu gratuit, pe toată durata concesiunii, a terenurilor necesare pentru realizarea obiectivelor aferente sistemelor de distribuție a gazelor naturale, precum și a terenurilor necesare organizării de șantier pe durata realizării investiției în cadrul obiectivului de investiții “Înființare rețea inteligentă de distribuție gaze naturale în județul Prahova - comunele Cocorăștii Mislii, Vâlcănești, Cosminele, Dumbrăvești, Vărbilău, Aluniș, Stefești, Bertea și orașul Slănic”",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/155543",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/155543",
      "sha256": null
     }
    ]
@@ -423,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-42-2024",
+   "path": "local/prahova/dumbravesti/2024/42",
+   "short": "HCL Dumbrăvești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 42/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/165261",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/165261",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-43-2024",
    "path": "local/prahova/dumbravesti/2024/43",
    "short": "HCL Dumbrăvești nr. 43/2024",
@@ -433,6 +568,21 @@
      "from": "2024-08-19",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/165262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-44-2024",
+   "path": "local/prahova/dumbravesti/2024/44",
+   "short": "HCL Dumbrăvești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 44/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/167920",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/167920",
      "sha256": null
     }
    ]
@@ -498,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-49-2024",
+   "path": "local/prahova/dumbravesti/2024/49",
+   "short": "HCL Dumbrăvești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 49/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/167925",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/167925",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-5-2024",
    "path": "local/prahova/dumbravesti/2024/5",
    "short": "HCL Dumbrăvești nr. 5/2024",
@@ -538,6 +703,21 @@
      "from": "2024-09-19",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/168545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-52-2024",
+   "path": "local/prahova/dumbravesti/2024/52",
+   "short": "HCL Dumbrăvești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 52/2024 privind acordarea unui mandat special .................. pentru a semna toate documentele necesare solutionării dosarului nr. 2694/105/2024 aflat pe rolul Tribunalului Prahova precum și împuternicirea avocațială în dosarul anterior menționat",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/170909",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/170909",
      "sha256": null
     }
    ]
@@ -613,6 +793,21 @@
      "from": "2024-11-01",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/173946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-58-2024",
+   "path": "local/prahova/dumbravesti/2024/58",
+   "short": "HCL Dumbrăvești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 58/2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/173947",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/173947",
      "sha256": null
     }
    ]
@@ -723,6 +918,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-65-2024",
+   "path": "local/prahova/dumbravesti/2024/65",
+   "short": "HCL Dumbrăvești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 65/2024 privind alegerea preşedintelui de şedinţă pentru sedinta din 11.11.2024",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176185",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-66-2024",
+   "path": "local/prahova/dumbravesti/2024/66",
+   "short": "HCL Dumbrăvești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 66/2024 privind constituirea comisiilor de specialitate din cadrul Consiliului Local al comunei Dumbrăvești, pe întreaga durată a mandatului 2024-2028",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176186",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-67-2024",
+   "path": "local/prahova/dumbravesti/2024/67",
+   "short": "HCL Dumbrăvești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 67/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176899",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-68-2024",
    "path": "local/prahova/dumbravesti/2024/68",
    "short": "HCL Dumbrăvești nr. 68/2024",
@@ -763,6 +1003,36 @@
      "from": "2024-02-08",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/138721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-70-2024",
+   "path": "local/prahova/dumbravesti/2024/70",
+   "short": "HCL Dumbrăvești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 70/2024 privind stabilirea componenței Comisiei speciale de numărare a voturilor în cazul votului secret organizat în cadrul Consiliului Local al comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176902",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-71-2024",
+   "path": "local/prahova/dumbravesti/2024/71",
+   "short": "HCL Dumbrăvești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 71/2024 privind alegerea viceprimarului comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/176903",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/176903",
      "sha256": null
     }
    ]

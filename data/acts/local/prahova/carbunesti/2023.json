@@ -642,6 +642,50 @@
 }
 },
 {
+"slug": "hcl-prahova--carbunesti-30-2023",
+"path": "local/prahova/carbunesti/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 30/2023 HCL pprivind desemnare reprezentanti Consiliul Local in Consiliul de administratie al Scoli Gimnaziale Carbunesti",
+"short": "HCL Cărbunești nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#62459",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--carbunesti-31-2023",
+"path": "local/prahova/carbunesti/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 31/2023 HCL privind desemnarea unui reprezentant al CL in comisia CEAC ,Scoala Gimnaziala Carbunesti",
+"short": "HCL Cărbunești nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#62460",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--carbunesti-32-2023",
 "path": "local/prahova/carbunesti/2023/32",
 "kind": "local",
@@ -683,6 +727,28 @@
 "council_name": "Consiliul Local al Comunei Cărbunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--carbunesti-34-2023",
+"path": "local/prahova/carbunesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 34/2023 HCL privind desemnare reprezentanti in comisia antibullying la Scoala Gimnaziala Carbunesti",
+"short": "HCL Cărbunești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#62464",
+"council": "prahova/carbunesti",
+"council_name": "Consiliul Local al Comunei Cărbunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

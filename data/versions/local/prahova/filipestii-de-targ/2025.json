@@ -3,6 +3,21 @@
  "shard": "local/prahova/filipestii-de-targ/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--filipestii-de-targ-1-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/1",
+   "short": "HCL Filipeștii de Târg nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 1/2025 privind aprobarea indicatorilor tehnico-economici și a implementării proiectului ,,Dotarea Primăriei Comunei Filipeștii de Târg cu utilaje noi”",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187596",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187596",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-10-2025",
    "path": "local/prahova/filipestii-de-targ/2025/10",
    "short": "HCL Filipeștii de Târg nr. 10/2025",
@@ -13,6 +28,36 @@
      "from": "2025-02-20",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-11-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/11",
+   "short": "HCL Filipeștii de Târg nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 11/2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192122",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-12-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/12",
+   "short": "HCL Filipeștii de Târg nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 12/2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192123",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192123",
      "sha256": null
     }
    ]
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-targ-15-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/15",
+   "short": "HCL Filipeștii de Târg nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 15/2025 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Filipeștii de Târg, care vor face parte din Adunarea Generală a Acționarilor a SC APA Filipeștii de Târg SRL",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/199480",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/199480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-16-2025",
    "path": "local/prahova/filipestii-de-targ/2025/16",
    "short": "HCL Filipeștii de Târg nr. 16/2025",
@@ -63,6 +123,261 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-targ-17-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/17",
+   "short": "HCL Filipeștii de Târg nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 17/2025 privind nominalizarea agenților economici care vor fi cuprinși în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raționalizat populației, în caz de mobilizare sau de război, la nivelul Comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/202521",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/202521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-18-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/18",
+   "short": "HCL Filipeștii de Târg nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 18/2025 privind aprobarea unui ajutor individual de minimis pentru majorarea capitalului social al SC ,,Apa Filipeștii de Târg\" S.R.L",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204323",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-19-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/19",
+   "short": "HCL Filipeștii de Târg nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 19/2025 privind stabilirea salariilor de bază pentru funcționarii publici și pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Filipeștii de Târg,județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204324",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-2-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/2",
+   "short": "HCL Filipeștii de Târg nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 2/2025 privind aprobarea încheierii exercițiului bugetar al comunei Filipeștii de Târg pentru anul 2024",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187597",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-20-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/20",
+   "short": "HCL Filipeștii de Târg nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 20/2025 privind aprobarea documentaţiei tehnico-economice: Studiului de fezabilitate și a indicatorilor tehnico – economici la obiectivul de investitii : \"Modernizarea administrației publice prin implementarea unui Sistem Informatic Integrat în Comuna Filipeștii de Târg\" si aprobarea documentației TIC",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204325",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-21-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/21",
+   "short": "HCL Filipeștii de Târg nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 21/2025 privind aprobarea modificării și completării listei inventarului bunurilor din domeniul privat al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204326",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/204326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-22-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/22",
+   "short": "HCL Filipeștii de Târg nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 22/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208889",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-23-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/23",
+   "short": "HCL Filipeștii de Târg nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 23/2025 privind aprobarea închirierii prin licitație publică a terenului în suprafață de 60.887 mp, situat în T 40, N 277/1, nr. Cadastral 24207, în extravilanul satului Filipeștii de Târg, comuna Filipeștii de Târg, județul Prahova, bun aparținând domeniului privat al comunei",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208890",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-24-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/24",
+   "short": "HCL Filipeștii de Târg nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 24/2025 privind aprobarea închirierii prin licitație publică a terenului în suprafață de 14.539 mp, situat în T 36, Cc 262, nr. Cadastral 23849, inclusiv cele 5 construcții existente pe acest teren, precum și a terenului în suprafață de 12.270 mp, număr cadastral 21908, T 36, N 252/10, situate în extravilanul satului Filipeștii de Târg, comuna Filipeștii de Târg, județul Prahova, bun aparținând domeniului privat al comunei",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208891",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-25-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/25",
+   "short": "HCL Filipeștii de Târg nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 25/2025 privind aprobarea completării listei inventarului bunurilor care alcătuiesc domeniul privat al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208892",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-26-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/26",
+   "short": "HCL Filipeștii de Târg nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 26/2025 privind aprobarea înființării Serviciului Social de zi ”Centrul de zi pentru copii din comuna Filipeştii de Târg”, judetul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208893",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/208893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-27-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/27",
+   "short": "HCL Filipeștii de Târg nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 27/2025 privind aprobarea modificării poziției nr. 299, coloana 3 ( elemente de identificare) din lista inventarului bunurilor care alcătuiesc domeniul public al comunei Filipeștii de Târg, județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214085",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-28-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/28",
+   "short": "HCL Filipeștii de Târg nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 28/2025 privind aprobarea indicatorilor tehnico-economici ( faza Proiect Tehnic) pentru obiectivul de investitii “Capacități de producție energie din surse regenerabile de energie, pentru consum propriu în comuna Filipeștii de Târg, județul Prahova “",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214086",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-29-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/29",
+   "short": "HCL Filipeștii de Târg nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 29/2025 privind aprobarea Registrului Local al spatiilor verzi din intravilanul Comunei Filipeștii de Târg , județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214087",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-3-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/3",
+   "short": "HCL Filipeștii de Târg nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 3/2025 privind aprobarea utilizării excedentului bugetar al anului 2024 în anul 2025 în cadrul secțiunii de dezvoltare",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187598",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/187598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-30-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/30",
+   "short": "HCL Filipeștii de Târg nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 30/2025 privind aprobarea actualizării documentației tehnico-economice pentru proiectul “Construire centru social de zi pentru copii, branșamente utilități și organizare de șantier în sat Ungureni, comuna Filipeștii de Târg, județ Prahova”",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214088",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/214088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-31-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/31",
+   "short": "HCL Filipeștii de Târg nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 31/2025 privind acordarea DIPLOMEI DE AUR și a unui premiu în valoare de 500 lei familiilor din Comuna Filipeștii de Târg, care au împlinit 50 de ani de căsătorie neîntreruptă",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217976",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217976",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-32-2025",
    "path": "local/prahova/filipestii-de-targ/2025/32",
    "short": "HCL Filipeștii de Târg nr. 32/2025",
@@ -73,6 +388,216 @@
      "from": "2025-07-31",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-33-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/33",
+   "short": "HCL Filipeștii de Târg nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 33/2025 privind aprobarea implementării proiectului “Amenajare zonă de agrement-Parcul Tineretului, Comuna Filipestii de Târg“ , a indicatorilor tehnico- economici și a proiectului tehnic",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217978",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-34-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/34",
+   "short": "HCL Filipeștii de Târg nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 34/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217979",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-35-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/35",
+   "short": "HCL Filipeștii de Târg nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 35/2025 privind aprobarea completării listei inventarului bunurilor care alcătuiesc domeniul privat al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217980",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/217980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-36-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/36",
+   "short": "HCL Filipeștii de Târg nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 36/2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222601",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-37-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/37",
+   "short": "HCL Filipeștii de Târg nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 37/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222602",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-38-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/38",
+   "short": "HCL Filipeștii de Târg nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 38/2025 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222603",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/222603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-39-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/39",
+   "short": "HCL Filipeștii de Târg nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 39/2025 privind aprobarea scoaterii la licitație în vederea închirierii prin licitație publică deschisă a heleșteului în suprafata de 1,48 ha situat în T 33 HB 230, număr cadastral 22801, satul Filipeștii de Târg, comuna Filipeștii de Târg, judetul Prahova, bun aparținând domeniului public al comunei Filipeștii deTârg, județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226582",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-4-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/4",
+   "short": "HCL Filipeștii de Târg nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 4/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192115",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-40-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/40",
+   "short": "HCL Filipeștii de Târg nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 40/2025 privind aprobarea rectificării bugetului de venituri şi cheltuieli pe anul 2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226583",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-41-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/41",
+   "short": "HCL Filipeștii de Târg nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 41/2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226584",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-42-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/42",
+   "short": "HCL Filipeștii de Târg nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 42/2025 privind declararea imobilului ,, Centru Social de zi pentru copii “ situat în sat Ungureni, str. Principală, nr. 2, comuna Filipeștii de Târg, județul Prahova, ca bun de uz și de interes public local",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226585",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-43-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/43",
+   "short": "HCL Filipeștii de Târg nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 43/2025 privind aprobarea transferului, începând cu anul școlar 2025-2026, a drepturilor, obligațiilor, execuției de casa si bazei materiale din bugetul local, încadrate la unitatea de învățământ absorbită Școala Gimnaziala Sat Mărginenii de Jos, către unitatea de învățământ absorbantă Școala Gimnaziala Comuna Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226586",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/226586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-44-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/44",
+   "short": "HCL Filipeștii de Târg nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 44/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230445",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-45-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/45",
+   "short": "HCL Filipeștii de Târg nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 45/2025 privind aprobarea completării listei inventarului bunurilor care alcătuiesc domeniul privat al comunei Filipeștii de Târg",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230446",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230446",
      "sha256": null
     }
    ]
@@ -133,6 +658,21 @@
      "from": "2025-10-27",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/230450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-5-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/5",
+   "short": "HCL Filipeștii de Târg nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 5/2025 privind aprobarea numărului posturilor asistenților personali ai persoanelor cu handicap grav pentru anul 2025, încadrați la Primăria comunei Filipeștii de Târg cu contract individual de muncă",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192116",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192116",
      "sha256": null
     }
    ]
@@ -288,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-targ-6-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/6",
+   "short": "HCL Filipeștii de Târg nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 6/2025 privind aprobarea Planului de acțiune locală pentru incluziunea comunităților de romi, conform Stategiei de incluziune a cetățenilor români apartinând minorității rome pentru perioada 2022-2027 , pentru anul 2025 și a Raportului de Progres pentru implementarea Stategiei de incluziune a cetățenilor români apartinând minorității rome pentru perioada 2022-2027 , pentru anul 2024",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192117",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192117",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-60-2025",
    "path": "local/prahova/filipestii-de-targ/2025/60",
    "short": "HCL Filipeștii de Târg nr. 60/2025",
@@ -373,6 +928,51 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/243332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-7-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/7",
+   "short": "HCL Filipeștii de Târg nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 7/2025 privind aprobarea Planului anual de acțiuni privind serviciile sociale administrate și finanțate din bugetul consiliului local al comunei Filipeștii de Târg pentru anul 2025",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192118",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-8-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/8",
+   "short": "HCL Filipeștii de Târg nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 8/2025 privind aprobarea utilizării cotei de dezvoltare a SC APA Filipeștii de Târg SRL",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192119",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-9-2025",
+   "path": "local/prahova/filipestii-de-targ/2025/9",
+   "short": "HCL Filipeștii de Târg nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 9/2025 privind aprobarea cotei de 7,56 % pierdere totală de apă de la captare până la utilizatori, pentru SC APA Filipeștii de Târg SRL",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192120",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/192120",
      "sha256": null
     }
    ]

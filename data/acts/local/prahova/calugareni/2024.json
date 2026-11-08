@@ -796,6 +796,50 @@
 }
 },
 {
+"slug": "hcl-prahova--calugareni-37-2024",
+"path": "local/prahova/calugareni/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 37/2024 DESEMNARE REPREZ. CL IN CEAC SCOALA",
+"short": "HCL Călugăreni nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#85030",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--calugareni-38-2024",
+"path": "local/prahova/calugareni/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 38/2024 DESEMNARE REPREZ CL IN CA SCOALA",
+"short": "HCL Călugăreni nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#85031",
+"council": "prahova/calugareni",
+"council_name": "Consiliul Local al Comunei Călugăreni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--calugareni-39-2024",
 "path": "local/prahova/calugareni/2024/39",
 "kind": "local",

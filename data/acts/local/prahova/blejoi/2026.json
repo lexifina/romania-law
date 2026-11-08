@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-6-2026",
+"path": "local/prahova/blejoi/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 6/2026 privind aprobarea decontarii transportului functionarilor publici si personalului contractual din aparatul de specialitate al primarului in anul 2026",
+"short": "HCL Blejoi nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/252426",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-7-2026",
 "path": "local/prahova/blejoi/2026/7",
 "kind": "local",
@@ -333,6 +355,271 @@
 }
 },
 {
+"slug": "hcl-prahova--blejoi-17-2026",
+"path": "local/prahova/blejoi/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 17/2026 privind aprobarea Proiectului tehnic și a cheltuielilor legate de proiect pentru obiectivul de investiții ,,Reabilitare în vederea creșterii eficienței energetice Grădinița Țânțăreni, comuna Blejoi, jud. Prahova”",
+"short": "HCL Blejoi nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/258826",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-18-2026",
+"path": "local/prahova/blejoi/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 18/2026",
+"short": "HCL Blejoi nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/258827",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-19-2026",
+"path": "local/prahova/blejoi/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 19/2026 privind modificarea H.C.L nr. 88/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții ”Reabilitare în vederea creșterii eficienței energetice Școala gimnazială cu clasele I-VIII Ploieștiori, comuna Blejoi, jud. Prahova”",
+"short": "HCL Blejoi nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/258828",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-20-2026",
+"path": "local/prahova/blejoi/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 20/2026 privind revocarea Hotararii Consiliului Local al comunei Blejoi nr. 27/29.04.2025 privind revenirea terenului in suprafata de 4143 mp, nr. cadastral 29576 (imobil inscris in Cartea Funciara sporadic cu nr. 29001), in domeniul public al comunei Blejoi ca urmare a nerealizarii scopului pentru care a fost transmis Judetului Prahova",
+"short": "HCL Blejoi nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/261633",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-21-2026",
+"path": "local/prahova/blejoi/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 21/2026 privind aprobarea prelungirii duratei Contractului nr. 1884/15.04.2025 de delegare a gestiunii activitatii de colectare si transport si transfer a deseurilor municipale in zonele 2 – Boldesti Scaeni – Valea Doftanei",
+"short": "HCL Blejoi nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/261634",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-22-2026",
+"path": "local/prahova/blejoi/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 22/2026 privind aprobarea PUZ – ,,Introducere in intravilan pentru zona institutii si servicii, amenajare drum acces (Sstud.= 29306 mp.)”",
+"short": "HCL Blejoi nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/261635",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-23-2026",
+"path": "local/prahova/blejoi/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 23/2026 privind aprobarea PUZ – Extindere intravilan (S=22500 mp) pentru zona institutii si servicii si amenajare drum acces (Sstudiata=73142 mp)",
+"short": "HCL Blejoi nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/261636",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-24-2026",
+"path": "local/prahova/blejoi/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 24/2026 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Blejoi pentru anul 2026",
+"short": "HCL Blejoi nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/261637",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-25-2026",
+"path": "local/prahova/blejoi/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 25/2026 privind alegerea preşedintelui de şedinţă pentru perioada mai - iulie 2026",
+"short": "HCL Blejoi nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/263870",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-26-2026",
+"path": "local/prahova/blejoi/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 26/2026 privind actualizarea devizului general de la faza Proiectului Tehnic precum si a cheltuielilor aferente bugetului proiectului „Construirea, echiparea, operaționalizarea și funcționarea serviciilor sociale in cadrul centrului de zi de asistență și recuperare pentru persoane vârstnice in comuna Blejoi, jud. Prahova”",
+"short": "HCL Blejoi nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/263871",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-27-2026",
+"path": "local/prahova/blejoi/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 27/2026 privind aprobarea principalilor indicatori tehnico-economici si a Devizului General pentru obiectivul de investitii ,,Asigurarea sigurantei rutiere la intersectia strazii Gageni (DJ 102) cu strada Hortensiei (DE 107)“",
+"short": "HCL Blejoi nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/263872",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-28-2026",
+"path": "local/prahova/blejoi/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 28/2026 privind diminuarea cheltuielilor de personal pentru anul 2026",
+"short": "HCL Blejoi nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/263873",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--blejoi-29-2026",
 "path": "local/prahova/blejoi/2026/29",
 "kind": "local",
@@ -484,6 +771,29 @@
 "council_name": "Consiliul Local al Comunei Blejoi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--blejoi-36-2026",
+"path": "local/prahova/blejoi/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 36/2026",
+"short": "HCL Blejoi nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-26",
+"latest": "2026-08-26",
+"portal": "https://emol.ro/blejoi-ph/registru-hcl/277583",
+"council": "prahova/blejoi",
+"council_name": "Consiliul Local al Comunei Blejoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

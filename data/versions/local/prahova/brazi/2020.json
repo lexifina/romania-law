@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-13-2020",
+   "path": "local/prahova/brazi/2020/13",
+   "short": "HCL Brazi nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 13/2020 privind alegerea președintelui de ședință pentru perioada aprilie-mai 2020",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/2874",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/2874",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-14-2020",
    "path": "local/prahova/brazi/2020/14",
    "short": "HCL Brazi nr. 14/2020",
@@ -198,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--brazi-22-2020",
+   "path": "local/prahova/brazi/2020/22",
+   "short": "HCL Brazi nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 22/2020 privind aprobarea prelungirii unor contracte de închiriere a locuințelor sociale aflate în domeniul public al comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/10134",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/10134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-23-2020",
+   "path": "local/prahova/brazi/2020/23",
+   "short": "HCL Brazi nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 23/2020 privind aprobarea dezmembrării unui imobil situat în comuna Brazi, satul Brazii de Sus, județul Prahova, T 10, Ds 41/10, număr cadastral 25304",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/10135",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/10135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-24-2020",
    "path": "local/prahova/brazi/2020/24",
    "short": "HCL Brazi nr. 24/2020",
@@ -253,6 +298,36 @@
      "from": "2020-07-23",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/10139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-28-2020",
+   "path": "local/prahova/brazi/2020/28",
+   "short": "HCL Brazi nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 28/2020",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/10140",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/10140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-29-2020",
+   "path": "local/prahova/brazi/2020/29",
+   "short": "HCL Brazi nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 29/2020 privind modificarea art. 3 din Hotărârea Consiliului Local Brazi nr. 27/2018 privind acordarea unui sprijin financiar cuplurilor infertile din comuna Brazi, care au indicație medicală pentru efectuarea procedurii de fertilizare in vitro - FIV",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/10141",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/10141",
      "sha256": null
     }
    ]
@@ -583,6 +658,21 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/20160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-5-2020",
+   "path": "local/prahova/brazi/2020/5",
+   "short": "HCL Brazi nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 5/2020 privind alegerea președintelui de sedință pentru perioada februarie - martie 2020",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/2866",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/2866",
      "sha256": null
     }
    ]

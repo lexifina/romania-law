@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-12-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/12",
+   "short": "HCL Filipeștii de Pădure nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 12/2021 privind concesionarea terenului aflat in domeniul public al comunei Filipestii de Padure in vederea transferului dreptului de proprietate al imobilului \"Gradinita-Cresa\" , apartinand Societatii Nationale a Carbunelui Ploiesti prin contract de vanzare-cumparare in forma autentica",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20919",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20919",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-120-2021",
    "path": "local/prahova/filipestii-de-padure/2021/120",
    "short": "HCL Filipeștii de Pădure nr. 120/2021",
@@ -438,6 +453,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-17-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/17",
+   "short": "HCL Filipeștii de Pădure nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 17/2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20924",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-18-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/18",
+   "short": "HCL Filipeștii de Pădure nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 18/2021 privind revocarea Hotararii nr. 56/24.09.2020 privind aprobarea preluarii contractului de inchiriere pentru suprafata de 779 mp detinut de catre SC ALT Trans SRl Filipestii de Padure , de catre SC Genesis Biotech",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20925",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-19-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/19",
+   "short": "HCL Filipeștii de Pădure nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 19/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile ianuarie si februarie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20926",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/20926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-2-2021",
    "path": "local/prahova/filipestii-de-padure/2021/2",
    "short": "HCL Filipeștii de Pădure nr. 2/2021",
@@ -513,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-24-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/24",
+   "short": "HCL Filipeștii de Pădure nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 24/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/25348",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/25348",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-25-2021",
    "path": "local/prahova/filipestii-de-padure/2021/25",
    "short": "HCL Filipeștii de Pădure nr. 25/2021",
@@ -538,6 +613,21 @@
      "from": "2021-05-26",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/25350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-27-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/27",
+   "short": "HCL Filipeștii de Pădure nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 27/2021 aprobarea decontarii contravalorii transportului cadrelor didactice pentru lunile martie si aprilie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/25351",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/25351",
      "sha256": null
     }
    ]
@@ -618,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-32-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/32",
+   "short": "HCL Filipeștii de Pădure nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 32/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna mai 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/27225",
+   "versions": [
+    {
+     "from": "2021-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/27225",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-33-2021",
    "path": "local/prahova/filipestii-de-padure/2021/33",
    "short": "HCL Filipeștii de Pădure nr. 33/2021",
@@ -643,6 +748,21 @@
      "from": "2021-06-23",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/27227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-35-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/35",
+   "short": "HCL Filipeștii de Pădure nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 35/2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/29601",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/29601",
      "sha256": null
     }
    ]
@@ -733,6 +853,21 @@
      "from": "2021-07-22",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/30665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-41-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/41",
+   "short": "HCL Filipeștii de Pădure nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 41/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna iunie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/30666",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/30666",
      "sha256": null
     }
    ]
@@ -888,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-51-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/51",
+   "short": "HCL Filipeștii de Pădure nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 51/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna iulie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/32879",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/32879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-52-2021",
    "path": "local/prahova/filipestii-de-padure/2021/52",
    "short": "HCL Filipeștii de Pădure nr. 52/2021",
@@ -918,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-54-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/54",
+   "short": "HCL Filipeștii de Pădure nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 54/2021 privind desemnarea reprezentanților consiliului local în consiliile de administrație ale unităților de învățământ preuniversitar cu personalitate juridică",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36326",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-55-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/55",
+   "short": "HCL Filipeștii de Pădure nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 55/2021 privind desemnarea reprezentanților consiliului local în comisiile de evaluare și asigurarea calității ale unităților de învățământ de pe raza comunei",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36327",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36327",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-56-2021",
    "path": "local/prahova/filipestii-de-padure/2021/56",
    "short": "HCL Filipeștii de Pădure nr. 56/2021",
@@ -943,6 +1123,21 @@
      "from": "2021-09-28",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-58-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/58",
+   "short": "HCL Filipeștii de Pădure nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 58/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna august 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36330",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36330",
      "sha256": null
     }
    ]
@@ -1098,6 +1293,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-68-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/68",
+   "short": "HCL Filipeștii de Pădure nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 68/2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36700",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/36700",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-69-2021",
    "path": "local/prahova/filipestii-de-padure/2021/69",
    "short": "HCL Filipeștii de Pădure nr. 69/2021",
@@ -1138,6 +1348,21 @@
      "from": "2021-10-27",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-71-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/71",
+   "short": "HCL Filipeștii de Pădure nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 71/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna septembrie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39840",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39840",
      "sha256": null
     }
    ]
@@ -1233,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-78-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/78",
+   "short": "HCL Filipeștii de Pădure nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 78/2021 privind desemnarea membrului Consiliului local al comunei Filipestii de Padure in Comisiile de evaluare a probei interviu in vederea organizarii si desfasurarii concursurilor pentru ocuparea functiilor de director la unitatile de invatamant de pe raza localitatii",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39847",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39847",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-79-2021",
    "path": "local/prahova/filipestii-de-padure/2021/79",
    "short": "HCL Filipeștii de Pădure nr. 79/2021",
@@ -1243,6 +1483,21 @@
      "from": "2021-10-27",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/39848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-8-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/8",
+   "short": "HCL Filipeștii de Pădure nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 8/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/17523",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/17523",
      "sha256": null
     }
    ]
@@ -1368,6 +1623,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--filipestii-de-padure-88-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/88",
+   "short": "HCL Filipeștii de Pădure nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 88/2021 privind aprobarea decontarii contravalorii transportului cadrelor didactice pentru luna septembrie 2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/40190",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/40190",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-89-2021",
    "path": "local/prahova/filipestii-de-padure/2021/89",
    "short": "HCL Filipeștii de Pădure nr. 89/2021",
@@ -1453,6 +1723,21 @@
      "from": "2021-11-03",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/40195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-94-2021",
+   "path": "local/prahova/filipestii-de-padure/2021/94",
+   "short": "HCL Filipeștii de Pădure nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 94/2021 privind desemnarea membrului Consiliului local al comunei Filipestii de Padure in Comisiile de evaluare a probei interviu in vederea organizarii si desfasurarii concursurilor pentru ocuparea functiilor de director la unitatile de invatamant de pe raza localitatii",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/40196",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/40196",
      "sha256": null
     }
    ]

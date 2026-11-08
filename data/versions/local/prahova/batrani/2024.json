@@ -33,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--batrani-11-2024",
+   "path": "local/prahova/batrani/2024/11",
+   "short": "HCL Bătrâni nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 11/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/140883",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/140883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-12-2024",
+   "path": "local/prahova/batrani/2024/12",
+   "short": "HCL Bătrâni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 12/2024 privind modificarea si completarea H.C.L nr.61/27.12.2023 privind aprobarea implementării proiectului ,,Asfaltare străzi lăturalnice în comuna Bătrâni,județul Prahova” care se va depune in cadrul Planului Strategic (PS) 2023-2027-intervenția DR-28-Crearea /modernizarea infrastructurii rutiere de bază din spațiul rural",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/140884",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/140884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-13-2024",
+   "path": "local/prahova/batrani/2024/13",
+   "short": "HCL Bătrâni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 13/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/142872",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/142872",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-14-2024",
    "path": "local/prahova/batrani/2024/14",
    "short": "HCL Bătrâni nr. 14/2024",
@@ -43,6 +88,66 @@
      "from": "2024-02-16",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/142873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-15-2024",
+   "path": "local/prahova/batrani/2024/15",
+   "short": "HCL Bătrâni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 15/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/146434",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/146434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-16-2024",
+   "path": "local/prahova/batrani/2024/16",
+   "short": "HCL Bătrâni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 16/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/149197",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/149197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-17-2024",
+   "path": "local/prahova/batrani/2024/17",
+   "short": "HCL Bătrâni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 17/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/149198",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/149198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-18-2024",
+   "path": "local/prahova/batrani/2024/18",
+   "short": "HCL Bătrâni nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 18/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/149199",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/149199",
      "sha256": null
     }
    ]
@@ -73,6 +178,36 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/136451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-20-2024",
+   "path": "local/prahova/batrani/2024/20",
+   "short": "HCL Bătrâni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 20/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/153215",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/153215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-21-2024",
+   "path": "local/prahova/batrani/2024/21",
+   "short": "HCL Bătrâni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 21/2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/154279",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/154279",
      "sha256": null
     }
    ]
@@ -493,6 +628,21 @@
      "from": "2024-02-06",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/139351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-6-2024",
+   "path": "local/prahova/batrani/2024/6",
+   "short": "HCL Bătrâni nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 6/2024 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap pentru anul 2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/139352",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/139352",
      "sha256": null
     }
    ]

@@ -1307,6 +1307,50 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-60-2021",
+"path": "local/prahova/banesti/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 60/2021 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiati din Registrul Comerţului de pe lângă Tribunalul Prahova și scăderea societăților radiate din evidența fiscală",
+"short": "HCL Bănești nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-08",
+"latest": "2021-09-08",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/34714",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-61-2021",
+"path": "local/prahova/banesti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 61/2021 privind aprobarea documentației tehnico-economice (faza PT) și a indicatorilor tehnico economici pentru realizarea obiectivului de investiții” AMENAJARE RIGOLE ÎN VEDEREA ASIGURĂRII CONTINUITĂȚII SCURGERII APELOR PLUVIALE PE STRADA URLETEI, ÎN COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA”",
+"short": "HCL Bănești nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-08",
+"latest": "2021-09-08",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/34715",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-62-2021",
 "path": "local/prahova/banesti/2021/62",
 "kind": "local",
@@ -1370,6 +1414,50 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-65-2021",
+"path": "local/prahova/banesti/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 65/2021 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2021",
+"short": "HCL Bănești nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/36644",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-66-2021",
+"path": "local/prahova/banesti/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 66/2021 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna octombrie 2021",
+"short": "HCL Bănești nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40973",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1439,6 +1527,28 @@
 }
 },
 {
+"slug": "hcl-prahova--banesti-70-2021",
+"path": "local/prahova/banesti/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 70/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru realizarea obiectivului de investiții “Reabilitare drumuri în comuna Bănești, județul Prahova” în cadrul Programului national de investitii „Anghel Saligny“",
+"short": "HCL Bănești nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40983",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--banesti-71-2021",
 "path": "local/prahova/banesti/2021/71",
 "kind": "local",
@@ -1458,6 +1568,182 @@
 "council_name": "Consiliul Local al Comunei Bănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--banesti-72-2021",
+"path": "local/prahova/banesti/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 72/2021 privind aprobarea ”Planului de măsuri privind colectarea selectivă a deșeurilor” la nivelul Primăriei comunei Bănești",
+"short": "HCL Bănești nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40985",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-73-2021",
+"path": "local/prahova/banesti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 73/2021 privind aprobarea participării Comunei Bănești la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice pentru realizarea obiectivului de investiții “Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova”-Clădire Scoala Urleta (local nou)",
+"short": "HCL Bănești nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40986",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-74-2021",
+"path": "local/prahova/banesti/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 74/2021 privind aprobarea participării Comunei Bănești la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice pentru realizarea obiectivului de investiții “Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova”- clădire Grădinița Urleta, Bănești, județul Prahova",
+"short": "HCL Bănești nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40987",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-75-2021",
+"path": "local/prahova/banesti/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 75/2021 privind aprobarea participării Comunei Bănești la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice pentru realizarea obiectivului de investiții “Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova”-Clădire Scoală Bănești (local nou)",
+"short": "HCL Bănești nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40988",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-76-2021",
+"path": "local/prahova/banesti/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 76/2021 privind aprobarea participării Comunei Bănești la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice pentru realizarea obiectivului de investiții “Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova”- clădire Grădinița și Biblioteca Bănești",
+"short": "HCL Bănești nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40989",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-77-2021",
+"path": "local/prahova/banesti/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 77/2021 privind înființarea unei societăți comerciale, având ca obiect principal de activitate ”Captarea, tratarea si distribuția apei - cod CAEN 3600”, de drept public și de interes local,având ca acționar unic Comuna Bănești",
+"short": "HCL Bănești nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40990",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-78-2021",
+"path": "local/prahova/banesti/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 78/2021 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2021",
+"short": "HCL Bănești nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40991",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--banesti-79-2021",
+"path": "local/prahova/banesti/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bănești nr. 79/2021 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru realizarea obiectivului de investiții ” CONSOLIDARE PLATFORMĂ CAROSABILĂ, STRADA GHERGHICENI, COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA”",
+"short": "HCL Bănești nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/banesti-ph/registru-hcl/40992",
+"council": "prahova/banesti",
+"council_name": "Consiliul Local al Comunei Bănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

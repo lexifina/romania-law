@@ -135,6 +135,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-7-2021",
+"path": "local/prahova/dumbrava/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 7/2021",
+"short": "HCL Dumbrava nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/14746",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-8-2021",
 "path": "local/prahova/dumbrava/2021/8",
 "kind": "local",
@@ -154,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-9-2021",
+"path": "local/prahova/dumbrava/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 9/2021 privind aprobarea acordarii unor ajutoare de urgenta",
+"short": "HCL Dumbrava nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-20",
+"latest": "2021-01-20",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/15607",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -754,6 +799,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-37-2021",
+"path": "local/prahova/dumbrava/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 37/2021",
+"short": "HCL Dumbrava nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/28688",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-38-2021",
 "path": "local/prahova/dumbrava/2021/38",
 "kind": "local",
@@ -1040,6 +1108,28 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-51-2021",
+"path": "local/prahova/dumbrava/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 51/2021 privind stabilirea prețului de vânzare a grâului din recolta anului 2020-2021",
+"short": "HCL Dumbrava nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/33543",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-52-2021",
 "path": "local/prahova/dumbrava/2021/52",
 "kind": "local",
@@ -1238,6 +1328,29 @@
 }
 },
 {
+"slug": "hcl-prahova--dumbrava-61-2021",
+"path": "local/prahova/dumbrava/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 61/2021",
+"short": "HCL Dumbrava nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/40157",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--dumbrava-62-2021",
 "path": "local/prahova/dumbrava/2021/62",
 "kind": "local",
@@ -1323,6 +1436,50 @@
 "council_name": "Consiliul Local al Comunei Dumbrava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-66-2021",
+"path": "local/prahova/dumbrava/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 66/2021 privind desemnarea reprezentantului consiliului local în comisia de evaluare a probei de interviu pentru concursul ocupării funcției de director în unitățile de învățământ preuniversitar de stat din comuna Dumbrava",
+"short": "HCL Dumbrava nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-14",
+"latest": "2021-10-14",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/40269",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--dumbrava-67-2021",
+"path": "local/prahova/dumbrava/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 67/2021 privind punerea în executare a sentinței civile",
+"short": "HCL Dumbrava nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-14",
+"latest": "2021-10-14",
+"portal": "https://emol.ro/dumbrava-ph/registru-hcl/40270",
+"council": "prahova/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

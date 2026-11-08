@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--breaza-10-2011",
+   "path": "local/prahova/breaza/2011/10",
+   "short": "HCL Breaza nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 10/2011 PRIVIND APROBAREA LISTELOR BUNURILOR CARE SUNT/NU SUNT CONSIDERATE DE STRICTA NECESITATE, PRECUM SI A LIMITELOR VENITURILOR POTENTIALE PROVENITE DIN VALORIFICAREA BUNURILOR CARE NU SUNT CONSIDERATE DE STRICTA NECESITATE,IN VEDEREA ACORDARII UNOR DREPTURI SOCIALE, REGLEMENTATE PRIN LEGE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304319649hot10.pdf",
+     "sha256": "29cc760855e5c2cddf98ff9e90f680d63c5d25013ad47090c33675b4e90c1b41"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-100-2011",
    "path": "local/prahova/breaza/2011/100",
    "short": "HCL Breaza nr. 100/2011",
@@ -29,6 +44,36 @@
      "units": 1,
      "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649496hot100.pdf",
      "sha256": "d413995edca69565518808e48f3dd62303174d82d720fb0f5d58393c17661785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-101-2011",
+   "path": "local/prahova/breaza/2011/101",
+   "short": "HCL Breaza nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 101/2011 PRIVIND REACTUALIZAREA DOMENIULUI PRIVAT AL ORASULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649521hot101.pdf",
+     "sha256": "7500c5c60c7c9d607ace762c60fc51f32767a6925205b64fe16268815f7b369e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-102-2011",
+   "path": "local/prahova/breaza/2011/102",
+   "short": "HCL Breaza nr. 102/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 102/2011 PRIVIND STABILIREA UNOR MASURI CU PRIVIRE LA TRANSPORTUL ELEVILOR LA UNITATI DE INVATAMANT DE PE RAZA LOCALITATII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649553hot102.pdf",
+     "sha256": "7b13c9704c7ddb8d2cb79a040fefda2db04d62a4545bd07649e8d55e5b3f026d"
     }
    ]
   },
@@ -48,6 +93,201 @@
    ]
   },
   {
+   "slug": "hcl-prahova--breaza-105-2011",
+   "path": "local/prahova/breaza/2011/105",
+   "short": "HCL Breaza nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 105/2011 PRIVIND INCHIRIEREA UNUI TEREN IN SUPRAFATA DE 9,50 MP PROPRIETATE PUBLICA A ORASULUI BREAZA, SITUAT IN BREAZA, STR.REPUBLICII, NR.53, JUD.PRAHOVA, IN VEDEREA EXTINDERII SPATIULUI COMERCIAL CU COPERTINA SI AMPLASARE MOBILIER URBAN",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649714hot105.pdf",
+     "sha256": "bb8572d8788eeee2fa10a794c9b4c22459cf413e66db421db623ce5a0323dd04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-106-2011",
+   "path": "local/prahova/breaza/2011/106",
+   "short": "HCL Breaza nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 106/2011 PRIVIND APROBAREA CONCESIONARII PRIN LICITATIE A TERENULUI IN SUPRAFATA DE 11.702 MP, COMPUS DIN S1=2.011 MP SI S2=9.691MP, PROPRIETATEA PRIVATA A ORASULUI BREAZA, SITUAT IN INTRAVILANUL ORASULUI BREAZA, PCT. BORUNGOCI, PENTRU REALIZAREA UNEI FERME PISCICOLE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649774hot106.pdf",
+     "sha256": "62eaa6d5bda46fbd97821d5e03dfeb21ddcadb48f3c7a6b799cb32ba190db1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-107-2011",
+   "path": "local/prahova/breaza/2011/107",
+   "short": "HCL Breaza nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 107/2011 PRIVIND CONSTITUIREA UNEI COMISII SPECIALE PENTRU ANALIZAREA SI VERIFICAREA INVESTITIILOR DE INTERES PUBLIC LOCAL REALIZATE LA NIVELUL ORASULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649842hot107.pdf",
+     "sha256": "145d31ff0f43da4c49c3ecf9371e29b0a46f507d273b5a5376f6587e5fa33108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-108-2011",
+   "path": "local/prahova/breaza/2011/108",
+   "short": "HCL Breaza nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 108/2011 pentru revocarea HCL nr. 107/29.10.2009 și a HCL nr. 108/29.10.2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649869hot108.pdf",
+     "sha256": "fd65f11472e07a287837d3864fa7e3afce89c24e71e864efd504800d5e741914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-109-2011",
+   "path": "local/prahova/breaza/2011/109",
+   "short": "HCL Breaza nr. 109/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 109/2011 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327650333hot109.pdf",
+     "sha256": "7c2f6fe6e9215889b4a465bef90603068d7fdd92df758c60f2c9072610a58ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-11-2011",
+   "path": "local/prahova/breaza/2011/11",
+   "short": "HCL Breaza nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 11/2011 PRIVIND APROBAREA PLANULUI DE ACTIUNI SI LUCRARI DE INTERES LOCAL PENTRU PERSOANELE APTE DE MUNCA DIN FAMILIILE BENEFICIARE DE AJUTOR SOCIAL, PENTRU ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304319682hot11.pdf",
+     "sha256": "8ee0434fae611323ddc574bdfcd02a50ee4f008c04c93790c337c99783b50372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-111-2011",
+   "path": "local/prahova/breaza/2011/111",
+   "short": "HCL Breaza nr. 111/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 111/2011 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327650413hot111.pdf",
+     "sha256": "e63ae31b50ae482d8023261a970138b9394e3a0d19fe09bb641b30f19dbb8c46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-114-2011",
+   "path": "local/prahova/breaza/2011/114",
+   "short": "HCL Breaza nr. 114/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 114/2011 PRIVIND INVENTARIEREA UNUI TEREN PROPRIETATEA ORASULUI BREAZA, SITUAT PE STR. REPUBLICII, NR. 102 SI CONCESIONAREA ACESTUIA, PENTRU EXTINDEREA CONSTRUCTIEI AFLATA PE TERENUL ALATURAT ACESTEIA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327650528hot114.pdf",
+     "sha256": "20bbcb1372db8a73f5b59aff25fc999e193a0dfe5f7b14ce7719ea1603942141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-116-2011",
+   "path": "local/prahova/breaza/2011/116",
+   "short": "HCL Breaza nr. 116/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 116/2011 PRIVIND DAREA IN ADMNISTRARE A BUNURILOR IN CARE-SI DESFASOARA ACTIVITATEA UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA ORASULUI BREAZA, PROPRIETATE PUBLICA, CATRE CONSILIILE DE ADMINISTRATIE ALE UNITATILOR DE INVATAMANT CU PERSONALITATE JURIDICA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327650760hot116.pdf",
+     "sha256": "52cfe1c17a7b7212d1082828702a2a7fc0a43a0956c5c33738872539e54f2066"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-118-2011",
+   "path": "local/prahova/breaza/2011/118",
+   "short": "HCL Breaza nr. 118/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 118/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327650964hot118.pdf",
+     "sha256": "25ddc276c59764235aa4e5d48660798d28ed4bdd66b82ad7a955e7b234e75454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-12-2011",
+   "path": "local/prahova/breaza/2011/12",
+   "short": "HCL Breaza nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 12/2011 PRIVIND CONCESIONAREA UNOR SPATII PENTRU DESFASURAREA DE ACTIVITATI MEDICALE, DIN IMOBILUL CU DESTINATIA DE CABINETE MEDICALE, SITUATIN BREAZA, STR.FLORILOR, FN",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304319728hot12.pdf",
+     "sha256": "8cf65b7ce5cc911f11666ebd6d077ac68d086dcfa7d52a862590883522cd9b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-120-2011",
+   "path": "local/prahova/breaza/2011/120",
+   "short": "HCL Breaza nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 120/2011 PRIVIND APROBAREA REZILIERII CONTRACTULUI DE INCHIRIERE NR. 14363/12.10.2009 INCHEIAT INTRE ORASUL BREAZA SI SC FLUMY TRANS SRL",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327651052hot120.pdf",
+     "sha256": "ac47f378524c25d0befb4dd2693f95270d514eb2ddd717cfb37dd81f861ab363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-123-2011",
+   "path": "local/prahova/breaza/2011/123",
+   "short": "HCL Breaza nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 123/2011 PRIVIND APROBAREA DREPTURILOR BANESTI AFERENTE PERSONALULUI DIDACTIC CARE SOLICITA CHELTUIELI DE DEPLASARE, IN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327651470hot123.pdf",
+     "sha256": "91ae6f24b1de70964a93eb1decfef6d054cc590a517a2fffc9fc9b3aeaed53e0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-125-2011",
    "path": "local/prahova/breaza/2011/125",
    "short": "HCL Breaza nr. 125/2011",
@@ -59,6 +299,36 @@
      "units": 1,
      "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327651912hot125.pdf",
      "sha256": "e8ae65c030bc15a33d4fbf98e05f8b8309902c0057da4f2933eb2eeeb8935687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-126-2011",
+   "path": "local/prahova/breaza/2011/126",
+   "short": "HCL Breaza nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 126/2011 PENTRU APROBARE PUD PRIVIND RIDICARE RESTRICTIE DE CONSTRUIRE PENTRU AMPLASARE SPATIU COMERCIAL S+P+M (S=570 MP)� IN JUD.PRAHOVA, ORAS BREAZA, STR.REPUBLICII, NR.78A",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327651959hot126.pdf",
+     "sha256": "50b0e6cd0644b37db9a1e43a2ba266fe27d81a9fa96589e3fe99f66d5bfe4d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-128-2011",
+   "path": "local/prahova/breaza/2011/128",
+   "short": "HCL Breaza nr. 128/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 128/2011 PRIVIND INVENTARIEREA DISTINCTA IN DOMENIUL PRIVAT AL ORASULUI BREAZA, A SUPRAFETEI DE TEREN DE 254 MP, SITUATA IN ORASUL BREAZA, STR.DRUM NOU, F.N, PCT.ISTRATE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652025hot128.pdf",
+     "sha256": "aa329d88cf35bb44aa6f3b746375aab0fdb86dba8bab5ae237db6062b2b29886"
     }
    ]
   },
@@ -78,6 +348,411 @@
    ]
   },
   {
+   "slug": "hcl-prahova--breaza-132-2011",
+   "path": "local/prahova/breaza/2011/132",
+   "short": "HCL Breaza nr. 132/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 132/2011 PRIVIND INVENTARIEREA IN DOMENIUL PRIVAT AL ORASULUI BREAZA A UNUI TEREN IN SUPRAFATA DE 200 MP, AVAND DESTINATIA CALE DE ACCES SI CONCESIONAREA ACESTUIA PENTRU REALIZAREA UNOR LUCRARI DE AMENAJARE, CONSOLIDARE IN VEDEREA PROTEJARII PROPRIETATII ALATURATE ACESTUIA SI ASIGURAREA UNUI ACCES CORESPUNZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652142hot132.pdf",
+     "sha256": "bcc2721b09a6a838a77cfb4bc2297232e1eafc5efc4fbb93c0bbd6f8340a8e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-133-2011",
+   "path": "local/prahova/breaza/2011/133",
+   "short": "HCL Breaza nr. 133/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 133/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652241hot133.pdf",
+     "sha256": "2919257626c7cebc2514dffcfb1c25bbf3eb3eac7764b35c51c14f43ac9dc29b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-134-2011",
+   "path": "local/prahova/breaza/2011/134",
+   "short": "HCL Breaza nr. 134/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 134/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL APARATULUI DE SPECIALITATE AL PRIMARULUI ORASULUI BREAZA, PE ANUL 2012",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652360hot134.pdf",
+     "sha256": "3ff1b46f71d9fe07b2151a320902e1184b4b337d19e38d82f9936920c301f9de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-135-2011",
+   "path": "local/prahova/breaza/2011/135",
+   "short": "HCL Breaza nr. 135/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 135/2011 PRIVIND APROBAREA DREPTURILOR BANESTI AFERENTE PERSONALULUI DIDACTIC CARE SOLICITA CHELTUIELI DE DEPLASARE, IN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652393hot135.pdf",
+     "sha256": "2d25c837bfb562c9afa21b550f166cba17e6a9ec074962f65aea0d4f33a2356d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-137-2011",
+   "path": "local/prahova/breaza/2011/137",
+   "short": "HCL Breaza nr. 137/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 137/2011 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652435hot137.pdf",
+     "sha256": "c59c9db903ae56a00ea93e10bb6355892074e621def07f6f2b62f55473f7eb38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-138-2011",
+   "path": "local/prahova/breaza/2011/138",
+   "short": "HCL Breaza nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 138/2011 PRIVIND ALOCAREA SUMEI DE 1000 LEI DIN FONDUL CONSTITUIT PRIN CONTRIBUTIA CONSILIERILOR LOCALI PENTRU ORGANIZAREA UNOR EVENIMENTE DE SFARSIT DE AN",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652475hot138.pdf",
+     "sha256": "64176675c55c961d69e3efcfc4395382a741538159f4c4508a77109563a1eaa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-139-2011",
+   "path": "local/prahova/breaza/2011/139",
+   "short": "HCL Breaza nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 139/2011 PRIVIND APROBAREA CONTULUI DE EXECUTIE AL BUGETELOR ORASULUI BREAZA PENTRU TRIMESTRUL IV AL ANULUI FINANCIAR 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652504hot139.pdf",
+     "sha256": "a50fa01e2fb15312fd01fa95a12876b5b8bd8623897d904d5d1849b445df2d6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-140-2011",
+   "path": "local/prahova/breaza/2011/140",
+   "short": "HCL Breaza nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 140/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652539hot140.pdf",
+     "sha256": "047f7df905e72a37face4dabd92a47ec220ca2d77bde22e842c89a971e351df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-141-2011",
+   "path": "local/prahova/breaza/2011/141",
+   "short": "HCL Breaza nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 141/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652562hot141.pdf",
+     "sha256": "efda5e188b8c0df67fd0c018a39ad93118dadbe369716426a48cd32cf2e1d997"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-142-2011",
+   "path": "local/prahova/breaza/2011/142",
+   "short": "HCL Breaza nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 142/2011 PRIVIND APROBAREA DREPTURILOR BANESTI AFERENTE PERSONALULUI DIDACTIC CARE SOLICITA CHELTUIELI DE DEPLASARE, IN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652590hot142.pdf",
+     "sha256": "127e666531c4e616f29e511f3078bca8aa55ec71a20c8f9607ce9a6e416bca00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-143-2011",
+   "path": "local/prahova/breaza/2011/143",
+   "short": "HCL Breaza nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 143/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652612hot143.pdf",
+     "sha256": "d352eb320192c03f71ec0b1cb7854e1546f6f2d8c0825784e44271f228357fce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-144-2011",
+   "path": "local/prahova/breaza/2011/144",
+   "short": "HCL Breaza nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 144/2011 PRIVIND ORGANIZAREA SI FUNCTIONAREA RETELEI SCOLARE A UNITATILOR DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA ORASULUI BREAZA PENTRU ANUL SCOLAR 2012-2013",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327652635hot144.pdf",
+     "sha256": "abbd17d2afd64b0e84542c305e8179da9c0e31eccedfd06228dee6c712f7f31d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-15-2011",
+   "path": "local/prahova/breaza/2011/15",
+   "short": "HCL Breaza nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 15/2011 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE A POLITIEI LOCALE LA NIVELUL ORASULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320165hot15.pdf",
+     "sha256": "c29c12bcf3398648a215bee969e10ae780d0c5e7f50fd21ee30abb8cd74290e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-16-2011",
+   "path": "local/prahova/breaza/2011/16",
+   "short": "HCL Breaza nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 16/2011 PRIVIND STABILIREA BUNURILOR SI OBIECTIVELOR PUBLICE AFLATEIN PROPRIETATEA ORASULUI BREAZA PENTRU CARE SE ORGANIZEAZA SI ASIGURA PAZA,IN CONDITIILE PREVEDERILOR LEGALEIN DOMENIU",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320191hot16.pdf",
+     "sha256": "db2277b69be847d8ccc5a202316f0cf24b67c25550c1ef118c37b00ed4cd12ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-18-2011",
+   "path": "local/prahova/breaza/2011/18",
+   "short": "HCL Breaza nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 18/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320258hot18.pdf",
+     "sha256": "fc1b5bccfdbf928a3393e2398664068c607ea31e684ba1567e8d55af37f800fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-21-2011",
+   "path": "local/prahova/breaza/2011/21",
+   "short": "HCL Breaza nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 21/2011 privind modificarea suprafeței de teren, proprietatea orașului Breaza, situat în Pct.Davidești II-Corneanca, T 13, P 925/1 aprobată spre concesionare, conform HCL nr.43/29.04.2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320354hot21.pdf",
+     "sha256": "fe8b7a1276cd510dd43e29745b080a04956060bfa900cf0d4eb71a9f375d10b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-22-2011",
+   "path": "local/prahova/breaza/2011/22",
+   "short": "HCL Breaza nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 22/2011 privind modificarea suprafeței de teren, proprietatea orașului Breaza, situat în Pct.Corneanca, T 13, P L925/2 prevăzută în contractul de concesiune nr.4352/21.05.1999, modificat și completat prin acte adiționale",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320391hot22.pdf",
+     "sha256": "e250717b540661bbe2ef98d5ef85b148a12250021a5cd439aff145b33efc6ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-24-2011",
+   "path": "local/prahova/breaza/2011/24",
+   "short": "HCL Breaza nr. 24/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 24/2011 PRIVIND INCHIRIEREA UNUI IMOBIL TEREN FANEATAIN SUPRAFATA DE 18,33 HA, PROPRIETATE PRIVATA A ORASULUI BREAZA, SITUATIN PCT. VARFUL MOSULUI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320465hot24.pdf",
+     "sha256": "799fd32e898e0e50ba647961c6e89658ef25e65ed1bed01db3f9de1763b4071e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-26-2011",
+   "path": "local/prahova/breaza/2011/26",
+   "short": "HCL Breaza nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 26/2011 PRIVIND CONCESIONAREA UNUI TERENIN SUPRAFATA DE 40 MP, PROPRIETATEA ORASULUI BREAZA, PENTRU REALIZAREA UNOR LUCRARI DE AMENAJARE, CONSOLIDARE SI PROTEJARE A PROPRIETATII ALATURATE ACESTUIA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320571hot26.pdf",
+     "sha256": "49fc82d126f9b4202e09d0303752ae014a3b155014d6c2e61829a89441d358a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-30-2011",
+   "path": "local/prahova/breaza/2011/30",
+   "short": "HCL Breaza nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 30/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320766hot30.pdf",
+     "sha256": "b047c9c03ce071ba71c9fcb0ac3594f14b46cb7533ce5baed8344efedb6cba58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-31-2011",
+   "path": "local/prahova/breaza/2011/31",
+   "short": "HCL Breaza nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 31/2011 PRIVIND INVENTARIEREAIN DOMENIUL PRIVAT AL ORASULUI BREAZA A UNUI TEREN SI APROBAREA ATRIBUIRIIIN FOLOSINTA GRATUITA A UNEI SUPRAFETE DIN ACEST TEREN, PENTRU REALIZAREA UNOR LUCRARI DE INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320795hot31.pdf",
+     "sha256": "6654fc426cc673f8758de68cb765f648599b0e4f457eea1b09a46555742aee7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-32-2011",
+   "path": "local/prahova/breaza/2011/32",
+   "short": "HCL Breaza nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 32/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII PROPUSIN CADRUL PROGRAMULUI NATIONAL REABILITARE SI MODERNIZARE 10.000 KM DRUMURI DE INTERES JUDETEAN SI DRUMURI DE INTERES LOCAL",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304320829hot32.pdf",
+     "sha256": "c0cfcdd71c700b2142d045dd1957d40b79cc4191f76c5b76ed63198e1aeec5a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-5-2011",
+   "path": "local/prahova/breaza/2011/5",
+   "short": "HCL Breaza nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 5/2011 privind invalidarea amplasamentului propus pentru construire locuințe, în condițiile Legii nr.15/2003, modificată și completată, în St=9,5 ha, situat în Pct.Plai Belia, T=2, P=60",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1304319444hot5.pdf",
+     "sha256": "df2ddcc4443f6df61654476a15814afb4d0b8c0dc670148fe089f850d6aa0766"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-55-2011",
+   "path": "local/prahova/breaza/2011/55",
+   "short": "HCL Breaza nr. 55/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 55/2011 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488699hot55.pdf",
+     "sha256": "43a54c774ba77667ba242519557777f0e2d37745f5ca59d5a20362f827b3438e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-57-2011",
+   "path": "local/prahova/breaza/2011/57",
+   "short": "HCL Breaza nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 57/2011 PRIVIND APROBAREA LUCRARILOR DE INVESTITII PE ANUL 2011 îN CADRUL SISTEMULUI DE ALIMENTARE CU APA SI CANALIZARE AL ORASULUI BREAZA, CARE SE VOR REALIZA DIN SURSE PROPRII ALE OPERATORULUI SC HIDRO PRAHOVA SA SUCURSALA BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488771hot57.pdf",
+     "sha256": "a784ffaba199229a084ee372ff7fabacf22d1a05710cca0f43dccff808bbbb18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-58-2011",
+   "path": "local/prahova/breaza/2011/58",
+   "short": "HCL Breaza nr. 58/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 58/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488796hot58.pdf",
+     "sha256": "8a41bbdf5917ffc02269d0a9e443fbbf3fbdb8ae99570e136a9c86fbbb7a5522"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-59-2011",
+   "path": "local/prahova/breaza/2011/59",
+   "short": "HCL Breaza nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 59/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488823hot59.pdf",
+     "sha256": "7f47573b0596291fb62d0e4a16e633c84e866585104f3fe955e6d69c0011def2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-61-2011",
    "path": "local/prahova/breaza/2011/61",
    "short": "HCL Breaza nr. 61/2011",
@@ -93,6 +768,126 @@
    ]
   },
   {
+   "slug": "hcl-prahova--breaza-62-2011",
+   "path": "local/prahova/breaza/2011/62",
+   "short": "HCL Breaza nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 62/2011 PENTRU STABILIREA UNOR MASURI PRIVIND DESFACEREA CASATORIEI PE CALE ADMINISTRATIVA, DE CATRE OFITERUL DE STARE CIVILA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327488976hot62.pdf",
+     "sha256": "6dcffd1a87e18ded37d0f01507e4ad3195d178978535b9278fa51d361dc32ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-63-2011",
+   "path": "local/prahova/breaza/2011/63",
+   "short": "HCL Breaza nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 63/2011 PRIVIND APROBAREA DREPTURILOR BANESTI AFERENTE PERSONALULUI DIDACTIC CARE SOLICITA CHELTUIELI DE DEPLASARE, îN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327489014hot63.pdf",
+     "sha256": "99236cb832f6e2306c3ebb5de83ee86fba1d631a8a0f6a1456da32b9b9dd3b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-64-2011",
+   "path": "local/prahova/breaza/2011/64",
+   "short": "HCL Breaza nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 64/2011 PRIVIND APROBAREA PLANULUI DE AMPLASAMENT SI DELIMITARE AL TERENULUI îN SUPRAFATA DE 103,49 HA, PROPRIETATE PRIVATA A ORASULUI BREAZA, SITUAT îN PCT.MALAIELE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327489042hot64.pdf",
+     "sha256": "e9f96351b53873ed23f4782abfcd765b10fba547e13dec8b2ea00f6cdb70ad79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-65-2011",
+   "path": "local/prahova/breaza/2011/65",
+   "short": "HCL Breaza nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 65/2011 PRIVIND îNCHIRIEREA UNOR SUPRAFETE DE TEREN, PROPRIETATE PRIVATA A ORASULUI BREAZA, SITUATE îN PCT.TURBATU",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327489064hot65.pdf",
+     "sha256": "794ed3742032b06ac6dec5c408b49cbdd27bb5bf363a2ba922e54adb490b83d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-66-2011",
+   "path": "local/prahova/breaza/2011/66",
+   "short": "HCL Breaza nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 66/2011 PRIVIND CONSTRUIREA UNEI CRESE CU 40 DE LOCURI PE TERENUL PROPRIETATE PUBLICA AL ORASULUI BREAZA, SITUAT îN BREAZA, FDT.LILIACULUI, NR.21, JUD.PRAHOVA – OBIECTIV PROPUS A SE REALIZA PRIN MINISTERUL DEZVOLTARII REGIONALE SI TURISMULUI",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327489172hot66.pdf",
+     "sha256": "57e2ec9d3680fc9c713eca4a61a3c7391d533b167c72cde946780972e4c059ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-67-2011",
+   "path": "local/prahova/breaza/2011/67",
+   "short": "HCL Breaza nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 67/2011 PRIVIND TRECEREA DIN DOMENIUL PUBLIC îN DOMENIUL PRIVAT AL ORASULUI BREAZA A UNOR MIJLOACE FIXE, îN VEDEREA APLICARII PROCEDURII LEGALE DE SCOATERE DIN FUNCTIUNE, CASARE SI VALORIFICARE, îN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327489341hot67.pdf",
+     "sha256": "5d1e48748d1a70403673579439a4ccd906d3989f7a71988bbdeaad2c014a34ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-70-2011",
+   "path": "local/prahova/breaza/2011/70",
+   "short": "HCL Breaza nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 70/2011 PRIVIND APROBAREA REîNNOIRII CONTRACTELOR DE îNCHIRIERE, PENTRU TERENURILE îNCHIRIATE DE ORASUL BREAZA DIN ZONA PIETEI AGROALIMENTARE SI ZONA BLOCURI SI STABILIREA NOILOR CONDITII CONTRACTUALE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327576164hot70.pdf",
+     "sha256": "d5a7364c2ae3e4c38ac9cd9cfed581b39c66e4b59b5641b118dfc7db76b60439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-71-2011",
+   "path": "local/prahova/breaza/2011/71",
+   "short": "HCL Breaza nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 71/2011 PRIVIND îNCHIRIEREA DIRECTA A UNEI SUPRAFETE DE TEREN DE 400 MP, PROPRIETATE PRIVATA A ORASULUI BREAZA, SITUATA îN BREAZA, STR. VIITORULUI (LANGA GARA BREAZA NORD), PENTRU INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327576194hot71.pdf",
+     "sha256": "c7d9ee4507ea70cc892e301a7614f3ad0b5115b447b9cb08cb1e84a98d15b781"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-72-2011",
    "path": "local/prahova/breaza/2011/72",
    "short": "HCL Breaza nr. 72/2011",
@@ -104,6 +899,231 @@
      "units": 1,
      "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327576227hot72.pdf",
      "sha256": "119a2f63c24e7d8c82c439721f784263fff6e48010b73bb251dfc9280785d947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-74-2011",
+   "path": "local/prahova/breaza/2011/74",
+   "short": "HCL Breaza nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 74/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327576309hot74.pdf",
+     "sha256": "d3b70ba7c89093a3365ce1b31ed2ffd3fcbedfb137fc96eb05efc632ed93c76e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-77-2011",
+   "path": "local/prahova/breaza/2011/77",
+   "short": "HCL Breaza nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 77/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327646344hot77.pdf",
+     "sha256": "4ff0dad7aab8bdd5171f638c9b436e0fdc5f765fed927ce3ebbccddb719b89bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-78-2011",
+   "path": "local/prahova/breaza/2011/78",
+   "short": "HCL Breaza nr. 78/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 78/2011 PRIVIND CONCESIONAREA UNUI TEREN îN SUPRAFATA DE 246 MP, PROPRIETATE PRIVATA A ORASULUI BREAZA, PENTRU REALIZAREA UNEI CONSTRUCTII (AMENAJARI) PE TERENUL ALATURAT",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327646400hot78.pdf",
+     "sha256": "4fd6a5e394c8e4da26374316859afb0329e129076212e6c171b4a0b9ff8c0c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-80-2011",
+   "path": "local/prahova/breaza/2011/80",
+   "short": "HCL Breaza nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 80/2011 PRIVIND APROBAREA DREPTURILOR BANESTI AFERENTE PERSONALULUI DIDACTIC CARE SOLICITA CHELTUIELI DE DEPLASARE, îN CONDITIILE LEGII",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327646490hot80.pdf",
+     "sha256": "44f955c930b61f828687f0d0b593e47fabb6e28375108190d9dfafa9b90960c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-81-2011",
+   "path": "local/prahova/breaza/2011/81",
+   "short": "HCL Breaza nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 81/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU REALIZAREA UNOR OBIECTIVE DE INVESTITII DE INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327646533hot81.pdf",
+     "sha256": "fb4dfa16eb42f17c406341442eb8c1aedc587abdc049262d988de396d3d544ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-82-2011",
+   "path": "local/prahova/breaza/2011/82",
+   "short": "HCL Breaza nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 82/2011 PENTRU STABILIREA UNOR MASURI CU PRIVIRE LA ORGANIZAREA CEREMONIALURILOR MILITAR-RELIGIOASE SI CULTURALE, ORGANIZATE DE AUTORITATILE PUBLICE CU OCAZIA ZILELOR FESTIVE",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327646571hot82.pdf",
+     "sha256": "19e1af1f149b30e80666f36252bb3a1ef8b8fd18c7bedef864996ff2070d774e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-84-2011",
+   "path": "local/prahova/breaza/2011/84",
+   "short": "HCL Breaza nr. 84/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 84/2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327648221hot84.pdf",
+     "sha256": "81a489f4cf8836a7be5ee57f71754aa04c1d23686f930091e43202651a01fd22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-85-2011",
+   "path": "local/prahova/breaza/2011/85",
+   "short": "HCL Breaza nr. 85/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 85/2011 PRIVIND APROBAREA CONTULUI DE EXECUTIE AL BUGETELOR ORASULUI BREAZA PENTRU TRIMESTRUL II AL ANULUI FINANCIAR 2011",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327648252hot85.pdf",
+     "sha256": "99ee974800afed55ed3c6aaa16638ece1a578344da81f5437644b116a5cd223a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-86-2011",
+   "path": "local/prahova/breaza/2011/86",
+   "short": "HCL Breaza nr. 86/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 86/2011 PRIVIND UTILIZAREA îN ANUL 2011 A EXCEDENTULUI BUGETAR AL ANULUI 2010",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327648310hot86.pdf",
+     "sha256": "4bd2d678d03a171d418ea63c8193325eea4b90b4cb881a3652e65320c0d2d3b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-88-2011",
+   "path": "local/prahova/breaza/2011/88",
+   "short": "HCL Breaza nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 88/2011 PRIVIND STABILIREA OPORTUNITATII REALIZARII UNEI GRADINI PUBLICE IN ORASUL BREAZA SI APROBAREA ELABORARII DOCUMENTATIEI TEHNICO-ECONOMICE NECESARE REALIZARII ACESTUI OBIECTIV DE INTERES PUBLIC",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327648901hot88.pdf",
+     "sha256": "41010890cebd0aa0457cbf022712b722f9eaea086f521ef06f59e30fa131966b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-89-2011",
+   "path": "local/prahova/breaza/2011/89",
+   "short": "HCL Breaza nr. 89/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 89/2011 PRIVIND APROBAREA STUDIULUI DE OPORTUNITATE IN VEDEREA CONCESIONARII UNUI TEREN IN SUPRAFATA DE 10,3355 HA, SITUAT IN PCT.LACURI-NISTORESTI, PROPRIETATE PRIVATA A ORASULUI BREAZA, PENTRU AMENAJARE ZONA DE AGREMENT SI PESCUIT SPORTIV IN ORASUL BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327648936hot89.pdf",
+     "sha256": "5cac8fb9ba06320ba5f836490487490a51c65286aa1dfe688d52ca0a1d036218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-93-2011",
+   "path": "local/prahova/breaza/2011/93",
+   "short": "HCL Breaza nr. 93/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 93/2011 pentru îndreptarea unei erori materiale din Anexa la HCL nr. 51/2011 privind aprobarea încheierii unui contract de pașunat pentru terenul izlaz din Pct.Caraiman cu crescătorii de animale din zonă",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649102hot93.pdf",
+     "sha256": "71da29dac902e00370dec8344524541cd0956bdd9beb5f6a4c5eda02adae2870"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-94-2011",
+   "path": "local/prahova/breaza/2011/94",
+   "short": "HCL Breaza nr. 94/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 94/2011 PRIVIND ACORDAREA CALITATII DE ORDONATOR TERTIAR DE CREDITE UNITATILOR DE INVATAMANT CU PERSONALITATE JURIDICA, SCOALA CU CLASELE I-VIII BREAZA DE SUS SI GRADINITA CU PROGRAM PRELUNGIT CASTELUL FERMECAT� BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649151hot94.pdf",
+     "sha256": "5e7574a6fed969e0e7a806ac7e9e053609bef285645bc25a8bcb46583400bff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-97-2011",
+   "path": "local/prahova/breaza/2011/97",
+   "short": "HCL Breaza nr. 97/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 97/2011 PRIVIND APROBAREA CONCESIONARII PRIN LICITATIE A TERENULUI IN SUPRAFATA DE 10,3355 HA SITUAT IN PCT LACURI-NISTORESTI, PROPRIETATE PRIVATA A ORASULUI BREAZA, PENTRU AMENAJARE ZONA DE AGREMENT SI PESCUIT SPORTIV IN ORASUL BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649377hot97.pdf",
+     "sha256": "6cfb37b770225ae827d5fdce50eb6f4933f72cf413a1305c2082300bb39a12fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-98-2011",
+   "path": "local/prahova/breaza/2011/98",
+   "short": "HCL Breaza nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 98/2011 PRIVIND ORGANIZAREA SI FUNCTIONAREA RETELEI SCOLARE A UNITATILOR DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA ORASULUI BREAZA",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/1327649428hot98.pdf",
+     "sha256": "594db7232aafe530b9181181c45c2c8c2b91864a0cef7a56d43282f002da0282"
     }
    ]
   }

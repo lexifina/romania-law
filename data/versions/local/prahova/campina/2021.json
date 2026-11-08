@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-124-2021",
+   "path": "local/prahova/campina/2021/124",
+   "short": "HCL Câmpina nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotarare-nr124-alegere-presedinte-de-sedinta-CL_septembrie.pdf",
+     "sha256": "da92a9b4a44fbd54d480b403acba8618c31a12232e6889220d50a6a6f553c1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-129-2021",
+   "path": "local/prahova/campina/2021/129",
+   "short": "HCL Câmpina nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 129/2021 privind revocarea Hotărârii Consiliului Local al Municipiului Câmpina nr.88 din 30 iunie 2021 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local al Municipiului Câmpina nr.13 din 31 ianuarie 2019 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Administrare și Exploatare a Pieței Centrale Agroalimentare a Municipiului Câmpina, modificată și",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/09/Hotararea-nr129-revocare-HCL-nr88_2021-ROF-SPAEPCA.pdf",
+     "sha256": "e181e7a082108e3178645d330f771aebc3bf3866563af6290515943a06b83c56"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-130-2021",
    "path": "local/prahova/campina/2021/130",
    "short": "HCL Câmpina nr. 130/2021",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/10/Hotararea-nr130-rectificare-buget-local-16-sept-2021.pdf",
      "sha256": "c2599daadd027e3ba02654c9999f2c63c639fa0f8dcc4553b59188261991756a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-131-2021",
+   "path": "local/prahova/campina/2021/131",
+   "short": "HCL Câmpina nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/10/Hotararea-nr131-dezlipire-imobil-7515-mp-strVoila-Scoala-nr3.pdf",
+     "sha256": "5710a3ba65df3e23e63f322572969f5215f58243efa50b88e51000621b0b0a4d"
     }
    ]
   },
@@ -138,6 +183,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-136-2021",
+   "path": "local/prahova/campina/2021/136",
+   "short": "HCL Câmpina nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 136/2021",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/10/Hotararea-nr136-mod-Anexa-la-HCL-nr34-din-2017-ROF-Serv-soc-Cantina-de-ajutor-social.pdf",
+     "sha256": "67c32605186cf3224f08c4d57f1308545f10ca7f9bb2eb4d6c754e234a8dae3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-137-2021",
+   "path": "local/prahova/campina/2021/137",
+   "short": "HCL Câmpina nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2021 privind solicitarea Consiliului local al Municipiului Câmpi pentru trecerea terenului în suprafață de 600,00 m.p., Nr.Cadastral/CF 22600, situat în Municipiul Câmpina, str.Petrolistului, f.nr., din domeniul public al statului și administrarea Ministerului Agriculturii și Dezvoltării Rurale — Agenția de Plăți și Intervenție pentru Agricultură — Centrul Județean Prahova, în domeniul public al Munici",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/10/Hotararea-nr137-solicitare-CL-trecere-600-mp-strPetrolistului-din-dom-public-al-stat-in-dom-public-al-Mun-Cp.pdf",
+     "sha256": "859bd25a3c5cbdfce91b641cf2f5bd09cd65fa3731170f06f7662e395cd4f778"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-140-2021",
+   "path": "local/prahova/campina/2021/140",
+   "short": "HCL Câmpina nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Consiliile de administrație și în Comisiile pentru evaluarea și asigurarea calității din unitățile de învățământ preuniversitar din Municipiul Câmpina, pentru anul școlar 2021 - 2022 Având în vedere Referatul de aprobare nr.38.360/20 septembrie 2021 al membrilor Comisiei de specialitate amenajarea teritoriului, urbani",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2021/10/Hotararea-nr140-desemnare-reprez-CL-CA-si-Comisii-evaluare-unitati-inv-preuniv.pdf",
+     "sha256": "605b1592d8e7e302ecc77dcd17be56051197a4d480801c361858d45399bb00f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-142-2021",
+   "path": "local/prahova/campina/2021/142",
+   "short": "HCL Câmpina nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 142/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "86d66fdcbef0dcb17deb796fa42b03c61b1bae704fd5183fa17349eada4a053e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-145-2021",
+   "path": "local/prahova/campina/2021/145",
+   "short": "HCL Câmpina nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 145/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7fbe927ee32334746a70461b7acd00f09060f95c8eb55aab18350260dde11696"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-150-2021",
    "path": "local/prahova/campina/2021/150",
    "short": "HCL Câmpina nr. 150/2021",
@@ -149,6 +269,81 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr150-rectificare-buget-28-oct-2021-1.pdf",
      "sha256": "5e9bac02b04e24cef4a0bcb17346ec51a6e1971314692cc98e9147add3083055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-163-2021",
+   "path": "local/prahova/campina/2021/163",
+   "short": "HCL Câmpina nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 163/2021 pentru modificarea și completarea H.C.L nr.70/28 aprilie 2021 privind alocarea unor sume de bani pentru susținerea financiară a unor manifestări culturale, artistice, sportive și educative organizate de Consiliul Local, în anul 2021, modificată și completată prin H.C.L nr.141/30 septembrie 2021 Având în vedere Referatul de aprobare nr.43.929/22 octombrie 2021 al d-lui Ioan-Alin Moldoveanu — Primar",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr163-mod-si-complet-HCL-nr-70-din-2021-manifestari-culturale-1.pdf",
+     "sha256": "bd4cb71ea1d74ef50edbc45deb086cd4e6594336be7f1e0037373df1a47c077b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-164-2021",
+   "path": "local/prahova/campina/2021/164",
+   "short": "HCL Câmpina nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2021 privind transmiterea fără plată, către Inspectoratul Județean de Poliție Prahova a unor bunuri aflate în patrimoniul Municipiului Câmpina și în dotarea Direcției Poliția Locală Câmpina Având în vedere Referatul de aprobare nr.43.763/21 octombrie 2021 al d-lui Moldoveanu Ioan-Alin — Primarul Municipiului Câmpina, prin care propune transmiterea fără plată, către Inspectoratul Județean de Poliție Pra",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr164-transmitere-catre-Inspectorat-Jud-Politie-bunuri-Directia-Pol-Locala-1.pdf",
+     "sha256": "e2863a6a57239448c09795fb758d898da8656d6357e60ef072311e26d7dd679a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-165-2021",
+   "path": "local/prahova/campina/2021/165",
+   "short": "HCL Câmpina nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2021",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr165-mod_complet-Anexa-1A-la-HCL-nr.176-din-2018-contractare-imprumut-25-mil-lei-1.pdf",
+     "sha256": "59df95ce60444261cb9be7bbdf06b578a2c484c53ea519ae92c484c2b1fd36e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-166-2021",
+   "path": "local/prahova/campina/2021/166",
+   "short": "HCL Câmpina nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2021 pentru desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Comisiile de evaluare a probei de interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ de stat din Municipiul Câmpina Având în vedere Referatul de aprobare nr.44.643/27 octombrie 2021 al d-lui Moldoveanu loan Alin - Primarul Muni",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2022/01/Hotararea-nr166-desemnare-reprez-CL-comisii-evaluare-dir-unit-invat-1.pdf",
+     "sha256": "86e86ab5cb5d6794e7c3a30c3b41aeb4b76873f8014e613ff9cbbac60e31234c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-172-2021",
+   "path": "local/prahova/campina/2021/172",
+   "short": "HCL Câmpina nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "25d1130a9b0ab562a1f98288b7b1af89934f51042ad6c69df57ca47dbec401e9"
     }
    ]
   },
@@ -573,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-40-2021",
+   "path": "local/prahova/campina/2021/40",
+   "short": "HCL Câmpina nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4a731c0c58fc8fb0de9804d71399c8c16eef2faf0646a038724fcb01a568f940"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-42-2021",
    "path": "local/prahova/campina/2021/42",
    "short": "HCL Câmpina nr. 42/2021",
@@ -674,6 +884,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "6423603705aa808e6b93dc1b181dc0aba88098526b2b8dab7e4e29f9d7ca37b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2021",
+   "path": "local/prahova/campina/2021/59",
+   "short": "HCL Câmpina nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "db98ddb6048061b5e4f8d09f12cf2a87f4dc7cc4e8dccbebcfd47f43d1472a38"
     }
    ]
   },

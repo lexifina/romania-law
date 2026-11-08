@@ -47,6 +47,117 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-3-2025",
+"path": "local/prahova/batrani/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 3/2025 privind aprobarea valorii de investiție a proiectului intitulat ,,Asfaltare străzi lăturalnice în comuna Bătrâni, județul Prahova” si aprobarea solicitării unei Scrisori de garanție de la FNGCIMM SA IFN",
+"short": "HCL Bătrâni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/188040",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-4-2025",
+"path": "local/prahova/batrani/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 4/2025 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/193790",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-5-2025",
+"path": "local/prahova/batrani/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 5/2025 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap pentru anul 2025",
+"short": "HCL Bătrâni nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/193791",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-6-2025",
+"path": "local/prahova/batrani/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 6/2025 privind aprobarea actualizării ștatului de funcţii a aparatului de specialitate al primarului comunei Bătrâni, judeţul Prahova",
+"short": "HCL Bătrâni nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/193792",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-7-2025",
+"path": "local/prahova/batrani/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 7/2025",
+"short": "HCL Bătrâni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/193793",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--batrani-8-2025",
 "path": "local/prahova/batrani/2025/8",
 "kind": "local",
@@ -136,6 +247,73 @@
 }
 },
 {
+"slug": "hcl-prahova--batrani-12-2025",
+"path": "local/prahova/batrani/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 12/2025 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investitii: ,,Asfaltare străzi lăturalnice în comuna Bătrâni, județul Prahova”",
+"short": "HCL Bătrâni nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/198350",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-13-2025",
+"path": "local/prahova/batrani/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 13/2025",
+"short": "HCL Bătrâni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/199166",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--batrani-14-2025",
+"path": "local/prahova/batrani/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 14/2025 privind nominalizarea operatorilor economici din reţeaua comercială a comunei Bătrâni, judeţul Prahova, care vor distribui produse raţionalizate către populaţie la mobilizare sau război",
+"short": "HCL Bătrâni nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/201339",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--batrani-15-2025",
 "path": "local/prahova/batrani/2025/15",
 "kind": "local",
@@ -155,6 +333,50 @@
 "council_name": "Consiliul Local al Comunei Bătrâni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-16-2025",
+"path": "local/prahova/batrani/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 16/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul intitulat “Inovație Digitală în Comuna Bătrâni – Servicii publice moderne” din cadrul - Programul Regional, Sud-Muntenia 2021-2027; Prioritatea 1 - O regiune competitivă prin inovare, digitalizare și întreprinderi dinamice, Obiectivul Specific RSO 1.2 - Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizațiilor de cercetare și al autorităților publice",
+"short": "HCL Bătrâni nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/203833",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--batrani-17-2025",
+"path": "local/prahova/batrani/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 17/2025 privind alegerea președintelui de ședință",
+"short": "HCL Bătrâni nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/209999",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

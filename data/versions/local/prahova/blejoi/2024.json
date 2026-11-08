@@ -3,6 +3,21 @@
  "shard": "local/prahova/blejoi/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--blejoi-1-2024",
+   "path": "local/prahova/blejoi/2024/1",
+   "short": "HCL Blejoi nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 1/2024 privind aprobarea acoperirii definitive, din excedentul bugetului local al anilor precedenti, a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/137053",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/137053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-10-2024",
    "path": "local/prahova/blejoi/2024/10",
    "short": "HCL Blejoi nr. 10/2024",
@@ -28,6 +43,21 @@
      "from": "2024-06-12",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-12-2024",
+   "path": "local/prahova/blejoi/2024/12",
+   "short": "HCL Blejoi nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 12/2024 privind aprobarea decontarii transportului functionarilor publici si personalului contractual din aparatul de specialitate al primarului",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/147060",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147060",
      "sha256": null
     }
    ]
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-18-2024",
+   "path": "local/prahova/blejoi/2024/18",
+   "short": "HCL Blejoi nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 18/2024 privind aprobarea documentației și a comisiei de negociere în vederea achiziției unor imobile situate în intravilanul comunei Blejoi, sat Blejoi, str. Radu Tudoran, nr. 14-16",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/147066",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147066",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-19-2024",
    "path": "local/prahova/blejoi/2024/19",
    "short": "HCL Blejoi nr. 19/2024",
@@ -118,6 +163,21 @@
      "from": "2024-06-12",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-2-2024",
+   "path": "local/prahova/blejoi/2024/2",
+   "short": "HCL Blejoi nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 2/2024 privind aprobarea retelei scolare in anul scolar 2024/2025 din comuna Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/137054",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/137054",
      "sha256": null
     }
    ]
@@ -163,6 +223,36 @@
      "from": "2024-06-12",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-23-2024",
+   "path": "local/prahova/blejoi/2024/23",
+   "short": "HCL Blejoi nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 23/2024 privind aprobarea achiziției unor imobile situate în intravilanul comunei Blejoi, sat Blejoi, str. Radu Tudoran, nr. 14-16",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/147071",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/147071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-24-2024",
+   "path": "local/prahova/blejoi/2024/24",
+   "short": "HCL Blejoi nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 24/2024 privind aprobarea Planului Urbanistic Zonal–“Ridicare restricție de construire și schimbare parțială destinatie din zona instituții și servicii în zonă mixtă locuințe colective și instituții și servicii (S stud=37584 mp.)”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158916",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158916",
      "sha256": null
     }
    ]
@@ -303,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-34-2024",
+   "path": "local/prahova/blejoi/2024/34",
+   "short": "HCL Blejoi nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 34/2024 privind acordarea unui sprijin financiar Parohiei Ploieștiori",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158941",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158941",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-35-2024",
    "path": "local/prahova/blejoi/2024/35",
    "short": "HCL Blejoi nr. 35/2024",
@@ -318,6 +423,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-36-2024",
+   "path": "local/prahova/blejoi/2024/36",
+   "short": "HCL Blejoi nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 36/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158943",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-37-2024",
+   "path": "local/prahova/blejoi/2024/37",
+   "short": "HCL Blejoi nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 37/2024 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul I al anului 2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158951",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-38-2024",
+   "path": "local/prahova/blejoi/2024/38",
+   "short": "HCL Blejoi nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 38/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158952",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-39-2024",
+   "path": "local/prahova/blejoi/2024/39",
+   "short": "HCL Blejoi nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 39/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158953",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158953",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-4-2024",
    "path": "local/prahova/blejoi/2024/4",
    "short": "HCL Blejoi nr. 4/2024",
@@ -328,6 +493,66 @@
      "from": "2024-06-12",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/141418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-40-2024",
+   "path": "local/prahova/blejoi/2024/40",
+   "short": "HCL Blejoi nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 40/2024 privind acordarea unui sprijin financiar Parohiei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158955",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-41-2024",
+   "path": "local/prahova/blejoi/2024/41",
+   "short": "HCL Blejoi nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 41/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/158954",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/158954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-42-2024",
+   "path": "local/prahova/blejoi/2024/42",
+   "short": "HCL Blejoi nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 42/2024 privind alipirea unor terenuri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/163118",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/163118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-43-2024",
+   "path": "local/prahova/blejoi/2024/43",
+   "short": "HCL Blejoi nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 43/2024 privind acordarea unui sprijin financiar Parohiei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/163119",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/163119",
      "sha256": null
     }
    ]
@@ -408,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-49-2024",
+   "path": "local/prahova/blejoi/2024/49",
+   "short": "HCL Blejoi nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 49/2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/164433",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/164433",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-5-2024",
    "path": "local/prahova/blejoi/2024/5",
    "short": "HCL Blejoi nr. 5/2024",
@@ -463,6 +703,36 @@
      "from": "2024-10-08",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/164436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-53-2024",
+   "path": "local/prahova/blejoi/2024/53",
+   "short": "HCL Blejoi nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 53/2024 privind aprobarea documentației și a comisiei de negociere în vederea achiziției unui imobil situat în intravilanul comunei Blejoi, sat Blejoi, str. Radu Tudoran, nr. 16",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/164437",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/164437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-54-2024",
+   "path": "local/prahova/blejoi/2024/54",
+   "short": "HCL Blejoi nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 54/2024 privind aprobarea achiziției unor imobile situate în intravilanul comunei Blejoi, sat Blejoi, str. Radu Tudoran, nr. 16",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/172161",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/172161",
      "sha256": null
     }
    ]
@@ -573,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-61-2024",
+   "path": "local/prahova/blejoi/2024/61",
+   "short": "HCL Blejoi nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 61/2024 privind acordarea unor ajutoare de urgenta comunelor Cudalbi si Costache Negri din judetul Galati",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/172176",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/172176",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-62-2024",
    "path": "local/prahova/blejoi/2024/62",
    "short": "HCL Blejoi nr. 62/2024",
@@ -613,6 +898,21 @@
      "from": "2025-01-10",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/177310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-65-2024",
+   "path": "local/prahova/blejoi/2024/65",
+   "short": "HCL Blejoi nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 65/2024 privind aprobarea preluării in domeniul privat al comunei Blejoi a unor terenuri situate in comuna Blejoi, în baza unor declarații de renunțare la dreptul de proprietate",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/177311",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/177311",
      "sha256": null
     }
    ]

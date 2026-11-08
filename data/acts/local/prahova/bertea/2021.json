@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-5-2021",
+"path": "local/prahova/bertea/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 5/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/35607",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-6-2021",
 "path": "local/prahova/bertea/2021/6",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-11-2021",
+"path": "local/prahova/bertea/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 11/2021 privind desemnarea reprezentantilor consiliului local in comisia de evaluare a performantelor profesionale individuale ale secretarului general al unitatii administrativ teritoriale",
+"short": "HCL Bertea nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/35617",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +375,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--bertea-18-2021",
+"path": "local/prahova/bertea/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 18/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/35629",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -686,6 +752,28 @@
 }
 },
 {
+"slug": "hcl-prahova--bertea-35-2021",
+"path": "local/prahova/bertea/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 35/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-10",
+"latest": "2021-08-10",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/49844",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--bertea-36-2021",
 "path": "local/prahova/bertea/2021/36",
 "kind": "local",
@@ -705,6 +793,28 @@
 "council_name": "Consiliul Local al Comunei Bertea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-37-2021",
+"path": "local/prahova/bertea/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 37/2021 privind aprobarea închirierii prin atribuire directa a terenului in suprafață de 144 metri patrați situat în sat Lutu Rosu, comuna Bertea, județul Prahova în vederea amplasării unei stații de telefonie mobilă GSM Telekom",
+"short": "HCL Bertea nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/49846",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1104,6 +1214,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--bertea-56-2021",
+"path": "local/prahova/bertea/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 56/2021 privind desemnarea reprezentantilui Consiliului Local al Comunei Bertea în Consiliul de Administratie al Scolii Gimnaziale Bertea",
+"short": "HCL Bertea nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/49869",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-57-2021",
+"path": "local/prahova/bertea/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 57/2021 privind desemnarea reprezentantului Consiliului Local al Comunei Bertea în Comisia de evaluare a probei de interviu pentru numirea directorului Scolii Gimnaziale Bertea",
+"short": "HCL Bertea nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/49870",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--bertea-58-2021",
+"path": "local/prahova/bertea/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 58/2021 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Bertea, Judeţul Prahova",
+"short": "HCL Bertea nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/49871",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

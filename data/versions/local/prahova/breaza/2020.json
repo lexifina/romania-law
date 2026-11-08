@@ -3,6 +3,21 @@
  "shard": "local/prahova/breaza/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--breaza-100-2020",
+   "path": "local/prahova/breaza/2020/100",
+   "short": "HCL Breaza nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 100/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2020/10/hotarari-c-l-12-02-44-10-20-hcl-1.pdf",
+     "sha256": "866cc489c50f5f7ade0a0b2b170c49e55f4e63a2ed9156ab70b546b576ef7e6c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--breaza-29-2020",
    "path": "local/prahova/breaza/2020/29",
    "short": "HCL Breaza nr. 29/2020",
@@ -89,6 +104,21 @@
      "units": 1,
      "source_url": "https://www.primariabreaza.ro/wp-content/uploads/2020/08/hotarari-c-l-11-12-32-08-20-hcl-6.pdf",
      "sha256": "8ed6efae47baa642032b69dedb2efee5d9911a0ddb5ec221e0087fbc0ca32567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--breaza-98-2020",
+   "path": "local/prahova/breaza/2020/98",
+   "short": "HCL Breaza nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 98/2020",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2020/10/hotarari-c-l-12-02-37-10-20-hcl-9.pdf",
+     "sha256": "48ad3abba0e384a82c3534dfebdb1eae69df2c42cf4f7d28530e7ffcce844f64"
     }
    ]
   }

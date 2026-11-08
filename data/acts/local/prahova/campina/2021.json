@@ -343,6 +343,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-40-2021",
+"path": "local/prahova/campina/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2021",
+"short": "HCL Câmpina nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-42-2021",
 "path": "local/prahova/campina/2021/42",
 "kind": "local",
@@ -471,6 +494,29 @@
 "versions": 1,
 "from": "2021-03-31",
 "latest": "2021-03-31",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-59-2021",
+"path": "local/prahova/campina/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2021",
+"short": "HCL Câmpina nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
 "portal": null,
 "council": "prahova/campina",
 "council_name": "Consiliul Local al Municipiului Câmpina",
@@ -1195,6 +1241,51 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-124-2021",
+"path": "local/prahova/campina/2021/124",
+"kind": "local",
+"year": "2021",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2021",
+"short": "HCL Câmpina nr. 124/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-129-2021",
+"path": "local/prahova/campina/2021/129",
+"kind": "local",
+"year": "2021",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 129/2021 privind revocarea Hotărârii Consiliului Local al Municipiului Câmpina nr.88 din 30 iunie 2021 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local al Municipiului Câmpina nr.13 din 31 ianuarie 2019 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Public de Administrare și Exploatare a Pieței Centrale Agroalimentare a Municipiului Câmpina, modificată și",
+"short": "HCL Câmpina nr. 129/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--campina-130-2021",
 "path": "local/prahova/campina/2021/130",
 "kind": "local",
@@ -1214,6 +1305,29 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-131-2021",
+"path": "local/prahova/campina/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2021",
+"short": "HCL Câmpina nr. 131/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1239,6 +1353,118 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-136-2021",
+"path": "local/prahova/campina/2021/136",
+"kind": "local",
+"year": "2021",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 136/2021",
+"short": "HCL Câmpina nr. 136/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-137-2021",
+"path": "local/prahova/campina/2021/137",
+"kind": "local",
+"year": "2021",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2021 privind solicitarea Consiliului local al Municipiului Câmpi pentru trecerea terenului în suprafață de 600,00 m.p., Nr.Cadastral/CF 22600, situat în Municipiul Câmpina, str.Petrolistului, f.nr., din domeniul public al statului și administrarea Ministerului Agriculturii și Dezvoltării Rurale — Agenția de Plăți și Intervenție pentru Agricultură — Centrul Județean Prahova, în domeniul public al Munici",
+"short": "HCL Câmpina nr. 137/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-140-2021",
+"path": "local/prahova/campina/2021/140",
+"kind": "local",
+"year": "2021",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Consiliile de administrație și în Comisiile pentru evaluarea și asigurarea calității din unitățile de învățământ preuniversitar din Municipiul Câmpina, pentru anul școlar 2021 - 2022 Având în vedere Referatul de aprobare nr.38.360/20 septembrie 2021 al membrilor Comisiei de specialitate amenajarea teritoriului, urbani",
+"short": "HCL Câmpina nr. 140/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-142-2021",
+"path": "local/prahova/campina/2021/142",
+"kind": "local",
+"year": "2021",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 142/2021",
+"short": "HCL Câmpina nr. 142/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-145-2021",
+"path": "local/prahova/campina/2021/145",
+"kind": "local",
+"year": "2021",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 145/2021",
+"short": "HCL Câmpina nr. 145/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-15",
+"latest": "2021-10-15",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-150-2021",
 "path": "local/prahova/campina/2021/150",
 "kind": "local",
@@ -1258,6 +1484,117 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-163-2021",
+"path": "local/prahova/campina/2021/163",
+"kind": "local",
+"year": "2021",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 163/2021 pentru modificarea și completarea H.C.L nr.70/28 aprilie 2021 privind alocarea unor sume de bani pentru susținerea financiară a unor manifestări culturale, artistice, sportive și educative organizate de Consiliul Local, în anul 2021, modificată și completată prin H.C.L nr.141/30 septembrie 2021 Având în vedere Referatul de aprobare nr.43.929/22 octombrie 2021 al d-lui Ioan-Alin Moldoveanu — Primar",
+"short": "HCL Câmpina nr. 163/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-164-2021",
+"path": "local/prahova/campina/2021/164",
+"kind": "local",
+"year": "2021",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2021 privind transmiterea fără plată, către Inspectoratul Județean de Poliție Prahova a unor bunuri aflate în patrimoniul Municipiului Câmpina și în dotarea Direcției Poliția Locală Câmpina Având în vedere Referatul de aprobare nr.43.763/21 octombrie 2021 al d-lui Moldoveanu Ioan-Alin — Primarul Municipiului Câmpina, prin care propune transmiterea fără plată, către Inspectoratul Județean de Poliție Pra",
+"short": "HCL Câmpina nr. 164/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-165-2021",
+"path": "local/prahova/campina/2021/165",
+"kind": "local",
+"year": "2021",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2021",
+"short": "HCL Câmpina nr. 165/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-166-2021",
+"path": "local/prahova/campina/2021/166",
+"kind": "local",
+"year": "2021",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 166/2021 pentru desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Comisiile de evaluare a probei de interviu privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ de stat din Municipiul Câmpina Având în vedere Referatul de aprobare nr.44.643/27 octombrie 2021 al d-lui Moldoveanu loan Alin - Primarul Muni",
+"short": "HCL Câmpina nr. 166/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2021/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-172-2021",
+"path": "local/prahova/campina/2021/172",
+"kind": "local",
+"year": "2021",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2021",
+"short": "HCL Câmpina nr. 172/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

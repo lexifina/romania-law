@@ -3,6 +3,36 @@
  "shard": "local/prahova/campina/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-1-2026",
+   "path": "local/prahova/campina/2026/1",
+   "short": "HCL Câmpina nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 1/2026 privind asocierea Municipiului Câmpina cu Județul Prahova, cu localitățile Azuga și Cornu, precum și cu Asociația de Dezvoltare Intercomunitară \"Ținutul Vinului” și Asociația pentru Promovarea și Dezvoltarea Turismului Prahova și constituirea Organizației de Managernent al Destinației Prahova Analizând temeiurile juridice, respectiv: - prevederile Ordonanței Guvernului nr.58/1998 privind organizar",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr1-asociere-Mun-Campina-cu-Jud-Prahova_loc-Azuga_Cornu_OMD.pdf",
+     "sha256": "76dac351fb5b189c7446a251df240bba34de954fcd4b70b222f3ed6e959a4985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-10-2026",
+   "path": "local/prahova/campina/2026/10",
+   "short": "HCL Câmpina nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 10/2026 privind acordarea unui mandat special dnei lrina-Mihaela Nistor - Primarul Municipiului CEFREAR calitate de reprezentant al Unității Administrativ-Teritoriale - Municipiul Câmpina, în Asociația de Dezvoltare intercomunitară “Parteneriatul pentru Managementul Apei - Prahova” Analizând temeiurile juridice, respectiv: - art.13, art.16, alin.(3) și art.21 alin(1) din Statutul Asociației de Dezvoltare",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+     "sha256": "cfa23012c53e25ba0ad75af543fe7084b1a852897167d1b4bf306cfd80bb9bff"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-101-2026",
    "path": "local/prahova/campina/2026/101",
    "short": "HCL Câmpina nr. 101/2026",
@@ -33,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-103-2026",
+   "path": "local/prahova/campina/2026/103",
+   "short": "HCL Câmpina nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 103/2026 privind aprobarea încheierii unei convenții de constituire a drepturilor de uz și de servit societății Distrigaz Sud Rețele S.R.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr103-incheiere-conventie-constit-drept-uz-si-servitute-in-fav-Distrigaz-Sud-Retele-SRL.pdf",
+     "sha256": "4144c4aac476de4be5aca81afb41e7304181821a5707e74ba39dacafa2967dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-104-2026",
+   "path": "local/prahova/campina/2026/104",
+   "short": "HCL Câmpina nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 104/2026 privind fondul funciar, republicată, cu modificările și completările ulterioare și Decizia Înaltei Curți de Casație și Justiție nr.22/2016 privind pronunțarea unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept în ceea ce privește regimul juridic al terenurilor din intravilanul localităților, rămase la dispoziția autorităților administrației publice locale de la persoanele care au d",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr104-inv-si-atestare-dom-privat-teren-231-mp-strPlevnei-fnr.pdf",
+     "sha256": "260b6b4fa9e7611503e87ee3d0d413aaf41d550400d256c087a778acfbc304e7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-105-2026",
    "path": "local/prahova/campina/2026/105",
    "short": "HCL Câmpina nr. 105/2026",
@@ -48,6 +108,141 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-106-2026",
+   "path": "local/prahova/campina/2026/106",
+   "short": "HCL Câmpina nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 106/2026 privind acordarea “Premiilor Municipiului Câmpina\" pentru elevii din unitățile de învăț Municipiul Câmpina, anul școlar 2026-2027 Analizând temeiurile juridice, respectiv: - art.127, fit.l), art.135, alin.(4), art.136, alin.(2), art.140, alin (1) ȘI alin.(2), lit.e), art.144, alin.(3), alin.(4) și alin.(3) din Legea nr.198/2023 a învățământului preuniversitar, cu modificările și completările ulter",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr106-acordare-Premiile-Mun-Campina-pt-elevii-din-unit-invat-liceal-an-scolar-2026-2027.pdf",
+     "sha256": "afdb2d7015e1fc214f3d5f755bd38110b839e1c82eb24e2a8ff4bc86e09f38d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-109-2026",
+   "path": "local/prahova/campina/2026/109",
+   "short": "HCL Câmpina nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2026 privind aprobarea participării U.A.T",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr109-particip-UAT-Campina-pr-capacit-stocare-en-regenerabila-CASTER-PH3.pdf",
+     "sha256": "c2fcf3b2669bf6484f2bd78b28ac784a583a637e37af71ef474fabb73ad298f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-110-2026",
+   "path": "local/prahova/campina/2026/110",
+   "short": "HCL Câmpina nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 110/2026 privind aprobarea tarifelor pentru serviciul public de salubrizare prestat pe proprietatea Municipiului Câmpina în baza actului adițional nr.54854/09 decembrie 2022 la contractul de concesiune nr.16844/23 decembrie 2002 Analizând teneiurile juridice, respectiv: - art,5, alin.(5) și art.8, alin.(4) din Contractul de concesiune privind serviciul public de salubrizare a Municipiului Câmpina nr.16.844",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr110-aprobare-tarife-salubrizare.pdf",
+     "sha256": "7ee18aebf44ebe6a98bed454e10b418d0273a59ecef494dbe23415872a1d2691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-112-2026",
+   "path": "local/prahova/campina/2026/112",
+   "short": "HCL Câmpina nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2026",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr112-modif-Anexa-2-la-HCL-20-din-2026_stat-functii_ROF-Spital-Campina.pdf",
+     "sha256": "94f662700d3aa8399fe8519731c858e24d55241da5e28c933e9c9153862450a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2026",
+   "path": "local/prahova/campina/2026/114",
+   "short": "HCL Câmpina nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2026 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Cornisiile de evaluare a probei de interviu a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din Municipiul Câmpina Î Analizând temeiurile juridice, respectiv: - Legea învățământului preuniversitar nr.198/2023, cu modificările și completările u",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr114-desemnare-reprez-CL-in-Com-pt-concurs-director-unit-inv.pdf",
+     "sha256": "ac54045a2f456b1b38ac215d9ed4851a7991a18b32c02e1a1b2ee125edb5fc54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-115-2026",
+   "path": "local/prahova/campina/2026/115",
+   "short": "HCL Câmpina nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 115/2026 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Consiliile de administrație și în Cornisiile pentru evaluarea și asigurarea calității din unitățile de învățărnânt preuniversitar din Municipiul Câmpina, pentru anul școlar 2026 - 2027 Analizând temeiurile juridice, respectiv: - art.128, alin.(1), alin (2) și alin(8) și art.234, alin(2) și alin(5) din Legea nr.198/202",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr115-desemnare-reprez-CL-in-CA-si-Comisii-eval-unit-inv-preuniv-2026-2027.pdf",
+     "sha256": "f7278002cc8179dd1a324defbb69d6e79f15ae042ed4da5960ef04f9aab1fde6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-116-2026",
+   "path": "local/prahova/campina/2026/116",
+   "short": "HCL Câmpina nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2026 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Cornisiile pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalită ți din unitățile de învățământ preuniversitar din Municipiul Câmpina, pentru anul școlar 2026 - 2027 Analizând temeiurile juridice, respectiv: - art.71, alin(1), pct.1, alin.(2)",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr116-desemnare-reprez-CL-in-Comisia-ptr-combaterea-violentei_fapte-coruptie-2026_2027.pdf",
+     "sha256": "e238a712990ee39b009eb978233a77f7074cba7362f5b4a09987a971a4b19610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-117-2026",
+   "path": "local/prahova/campina/2026/117",
+   "short": "HCL Câmpina nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2026",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr117-modif-si-complt-anexa-la-HCL-2-din-2026_retea-scolara.pdf",
+     "sha256": "8a8d7f9ddfc4c1863f997bd2b17b43569f769d0f16c735eda0fb43583ded263a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-13-2026",
+   "path": "local/prahova/campina/2026/13",
+   "short": "HCL Câmpina nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 13/2026 privind neasumarea responsabilitatii organizarii și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor aferente Programului pentru școli al României în perioada 2023-2029 și a contractelor/acordurilorcadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, pentru anii școlari 2026-2027, 2027-2028, 2028-2029 Analizând teme",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr13-neasumare-respons-proc-atrib-pt-achiz-produse-Program-scoli.pdf",
+     "sha256": "652eaa1ead788e6a8497a0ba345508556eef2fce754971461b03207ab117f0f4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-14-2026",
    "path": "local/prahova/campina/2026/14",
    "short": "HCL Câmpina nr. 14/2026",
@@ -59,6 +254,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr14-desemn-reprez-CL-Com-concurs_solut-contest-dir-ingrijiri-Sp-Psihiatrie.pdf",
      "sha256": "0feb2d0de538b8272da1078f04e467a8f6a67d68c70765c12e6fef5c2a3b3328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-15-2026",
+   "path": "local/prahova/campina/2026/15",
+   "short": "HCL Câmpina nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 15/2026 Privind organizarea manifestărilor culturale, artistice și educative — \"T. ârgul Mierii” Câmpina, ediția 2026 și \"B.P",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr15-org-manif-culturale-Targu-mierii_BPHasdeu-in-memoriam.pdf",
+     "sha256": "d421637130184ae303ac9590e0ccd1c10d95a69116dcdf7ec4355b5a4ff3b47c"
     }
    ]
   },
@@ -108,6 +318,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-22-2026",
+   "path": "local/prahova/campina/2026/22",
+   "short": "HCL Câmpina nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 22/2026 privind inventarierea și atestarea apartenenței fa domeniul privat al Municipiului Câmpina a imobilului format din teren - nr. cadastral 27297 și construcție - nr. cadastral 27297 - C1, înscris în Cartea Funciară nr.27297, situat în Municipiul Câmpina, str. Țițeiului, nr.16, Județul Prahova Analizând temeiurile juridice, respectiv: - art.551, art.552, art.553, alin.(1) și alin.(2), art.557, art.88",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr22-inv-si-atestare-dom-privat-imobil-str.Titeiului-16.pdf",
+     "sha256": "9b30cbb53772b9d8298b8ad63135eb5b02275eac78e4edc2e43a4f2a2138d48a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-23-2026",
+   "path": "local/prahova/campina/2026/23",
+   "short": "HCL Câmpina nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 23/2026 privind aprobarea vânzării fără licitație publică a terenului aparținând domeniului privat al Municipiului Câmpina, în a de 319,00 mp, aferent construcției proprietate privată, situat în Municipiul Câmpina, NWudețul Prahova, Nr.Cadastral/Carte Funciară nr, rin exercitarea dreptului de preemțiune de câtr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr23-vzare-fara-licitatie-teren-dom-privat-319-mp-.pdf",
+     "sha256": "c892577f73f368b1b7737b5a666b2988b375ca563e02cef3c1087e49005b3ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2026",
+   "path": "local/prahova/campina/2026/24",
+   "short": "HCL Câmpina nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2026 privind aprobarea încheierii unei convenții de constituire a drepturilor de uz și servitute în favoarea societății Distrigaz Sud Rețele S.R.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr24-incheiere-conventie-constit-drept-uz-si-servitute-Distrigaz.pdf",
+     "sha256": "6a092e17f4fd4ec5f3b2dced1d261b35c571991478bf8d27b60f915cb484d9fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-25-2026",
    "path": "local/prahova/campina/2026/25",
    "short": "HCL Câmpina nr. 25/2026",
@@ -119,6 +374,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr25-lista-solicitanti-locuinta-cu-chirie-fond-locativ-2026.pdf",
      "sha256": "939d7a7aa63a5d2fda7e2affdbf9a8642671fc4f314db6f04ca49f49d2685c55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2026",
+   "path": "local/prahova/campina/2026/26",
+   "short": "HCL Câmpina nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2026 privind aprobarea listei cuprinzând stabilirea ordinii de prioritate în soluționarea cererilor în vederea închirierii unui spațiu pentru sediu către asociații și fundații Analizând temeiurile juridice, respectiv: - art.49, alin.(1), lit.a) și alin.(2) din Ordonanța Guvernului nr.26/2000 cu privire la asociații și fundații, cu modificările și completările ulterioare; - Legea nr.24/2000 privind norm",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr26-lista-ordine-priorit-cereri-inchir-spatiu-sediu-asoc-si-fundatii.pdf",
+     "sha256": "621efa348e8e9ece166f7f6fbead2b91886fec2ede43d2d721933cd89258fabd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-27-2026",
+   "path": "local/prahova/campina/2026/27",
+   "short": "HCL Câmpina nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 27/2026 privind aprobarea dezlipirii imobilului-teren, proprietate privată a Municipiului Cârnpina, în suprafață de 2.398 mp, situat în Municipiul Câmpina, B-dul Carol, nr.337, Județul Prahova, Nr.Ca dastral/ Carte Funciară nr.27683 Analizând temeiurile juridice, respectiv: - art.25, alin(2) din Legea nr.7/1996 a cadastrului și a publicității imobiliare, republicată, cu modificările și completările ulteri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+     "sha256": "842d4961e22c8b0325a245d3940cfdc0c868cc1b9a14ed28805b4ee088168639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-28-2026",
+   "path": "local/prahova/campina/2026/28",
+   "short": "HCL Câmpina nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2026 privind participarea Municipiului Câmpina în parteneriat cu U.A.T",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr28-participare-Mun-Campina-in-parteneriat-cu-Jud-Prahova-si-Azuga.pdf",
+     "sha256": "d66604c3ba9c99f47c98db6b04eb9e807e852784439ec584f3cee914453785e4"
     }
    ]
   },
@@ -138,6 +438,111 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-30-2026",
+   "path": "local/prahova/campina/2026/30",
+   "short": "HCL Câmpina nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2026 privind schimbarea denurnirii Grădiniței cu program prelungit nr.9 Câmpina și a structurilor acesteia Analizând temeiurile juridice, respectiv: - art.2, lit.d), art.3 și art 5, alin(1) din 0.6. nr.63/2002 privind atribuirea sau schimbarea de denumiri, cu modificările și completările ulterioare; - art.2, art.3, lit.d), art, lit.a), pct.(i), (ii), (iv) și art.10 din Procedura de atribuire a denumiri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr30-schimbare-denumiri-Gradinita-PP-nr9-si-a-structurilor.pdf",
+     "sha256": "754983d9c6bed1651adad64eab85369583f2cbe25d5ccebfe82462529923ea0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-32-2026",
+   "path": "local/prahova/campina/2026/32",
+   "short": "HCL Câmpina nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 32/2026 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Câmpina nr.130/23 octornbrie 2024 privind aprobarea trecerii din domeniul public în domeniul privat al Municipiului Câmpina a unei construcții în vederea scoaterii din funcțiune, casării și demolării acesteia Analizând terneiurile juridice, respectiv: - Ordonanța Guvernului nr.112/2000 pentru reglementarea procesului de",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr32-mod-si-complet-HCL-130-din-2024-trecere-din-dom-publ-in-privat-constr-Spital-Voila.pdf",
+     "sha256": "9766ba06f224102bbd219f5b01cbd4e2ae3cbd72715e3ef306ab8087ec9a7f49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2026",
+   "path": "local/prahova/campina/2026/33",
+   "short": "HCL Câmpina nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2026 nr.33 din 26.03.2026 privind modificarea Anexei nr.3 - Contractul-cadru de închiriere, la Metodologia privind înregistrarea, analiza, repartizarea și administrarea locuințelor sociale construite prin Strategia de Dezvoltare Locală a Zonelor Urbane Marginalizate din Municipiul Câmpina, aprobată prin Hotărârea Consiliului Local al Municipiului Câmpina nr. 221/15 decembrie 2023",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr33-mod-Anexa-3-la-Metodologia-repartiz-adstrare-loc-soc-la-HCL-221-din-2023.pdf",
+     "sha256": "1fe015e8f3bcb797a601f5230bae948dff5bfed2ee24d8556df730f11ce945b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2026",
+   "path": "local/prahova/campina/2026/34",
+   "short": "HCL Câmpina nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "433f7f115e4c31acb0915ac1fdf7433ae46da0459b1b77da8639a3b4c4774452"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-35-2026",
+   "path": "local/prahova/campina/2026/35",
+   "short": "HCL Câmpina nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 35/2026 privind aprobarea inventarierii și atestării apartenenței la domeniul privat al Municipiului Câmpina a terenului în suprafață de 903,00 mp, situat în Municipiul Câmpina, Aleea Parcului - zona Poligonului auto, Tarla 83, - Parcela 726 - parțial, Județul Prahova : Analizând temeiurile juridice, respectiv: - art.552, art.553, alin(1), art.557, alin.(2) și alin.(4) și art.888 din Codul Civil din 17 iu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr35-inv-si-atestare-dom-privat-903-mp-Al-Parcului-zona-Poligon.pdf",
+     "sha256": "3fadcc671572994902b2d50487c0cca72607a5d17588c81b25ac4212b5ed029e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2026",
+   "path": "local/prahova/campina/2026/36",
+   "short": "HCL Câmpina nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2026 privind trecerea din domeniul privat al Municipiului Câmpina în dorneniul public al acestuia a imobilului - teren în suprafață de 2.395,00 mp, situat în Municipiul Câmpina, Nr. Cadastral/Carte Funciară nr.30225 Analizând temelurile juridice, respectiv: - arca lit.e) din Codul Civil din 17 iulie 2009 (Legea nr. 287/2009), republicat, cu modificările și completările ulterioare; - art.41, alin.(5) di",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr36-trecere-dom-privat-in-dom-public-teren-2395-mp.pdf",
+     "sha256": "f90fec9af86708386a84c818ab3bac547158673bbda5f44b42225072ef1a25c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2026",
+   "path": "local/prahova/campina/2026/37",
+   "short": "HCL Câmpina nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2026 privind modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale; - art.lll și Anexa din Ordonanța de urgență a Guvernului nr.63/2010 pentru modificarea și completarea Legii nr. 273/2006 privind finanțele publice locale, precum și pentru stabilirea unor măsuri financiare, cu modificările și",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr37-stabilire-nr-maxim-posturi-Mun-Campina.pdf",
+     "sha256": "cab4b4fc9ed0dcab8a59094c4e40aed3adedc8e46a376912d9d68ae1c3315b61"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-38-2026",
    "path": "local/prahova/campina/2026/38",
    "short": "HCL Câmpina nr. 38/2026",
@@ -153,6 +558,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-39-2026",
+   "path": "local/prahova/campina/2026/39",
+   "short": "HCL Câmpina nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2026 privind plata din bugetul local al Municipiului Câmpina a procentului de 20% din suma eligibilă estimată a fi decontată în cursul anului 2026, pentru obiectivul de investiții „Modernizare strada Orizontului”, finanțat prin Programul Național de Investiții “Anghel Saligny” Analizând temeiurile juridice, respectiv: - art.ll, alin.(1), alin.(2) și alin.(10) din Ordonanța de urgență a Guvernului nr.87",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr39-plata-buget-local-procent-20_-obiectiv-inv-Moderniz-strOrizontului-.pdf",
+     "sha256": "35139a183ed7ccb6e995f2e3b6f50daa751b7ada2077ead1fef99653116f51ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-4-2026",
+   "path": "local/prahova/campina/2026/4",
+   "short": "HCL Câmpina nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 4/2026 privind inventarierea în domeniul public al Municipiului Câmpina a imobilului — Creșa mică, situat în Municipiul Câmpina, str.Voila, nr.19, Județul Prahova, construit pe terenul proprietate publică a Municipiului Câmpina identificat cu Nr.Cadastral/Carte funciară 29303 Analizând temeiurile juridice, respectiv: - art.552, art.554, art.858 și art.863 din Codul Civil din 17 iulie 2009 (Legea nr.287/2",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr4-inv-dom-public-imobil-Cresa-mica-strVoila19.pdf",
+     "sha256": "c17d56d6580beaaeb686ac40d6cd6a27fb706abbacf3fa31bef8297fd85b4f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2026",
+   "path": "local/prahova/campina/2026/40",
+   "short": "HCL Câmpina nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2026 privind stabilirea măsurilor referitoare la desfășurarea activităților de jocuri de noroc pe teritoriul Municipiului Câmpina Analizând temeiurile juridice, respectiv: - art.10, alin.(1), lit.a) și lit.h), art.18 și art.18\" din Ordonanța de urgență a Guvernului nr.77/2009 privind organizarea și exploatarea jocurilor de noroc, cu modificările și completările ulterioare; - art, XXXIX și art.Lil, alin",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr40-stabilire-masuri-desf-activ-jocuri-de-noroc-Mun-Campina.pdf",
+     "sha256": "3c9dd953c1715788927eb2fe97f2c3f942c63b48586ca8f9676ed13f6c16786f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2026",
+   "path": "local/prahova/campina/2026/41",
+   "short": "HCL Câmpina nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2026 pentru modificarea Hotărârii Consiliului local nr.39/ 27.04.2026 privind plata din bugetul local al Municipiului Câmpina a procentului de 20% din suma eligibilă estimată a fi decontată în cursul anului 2026, pentru obiectivul de investiții „Modernizare strada Orizontului”, finanțat prin Programul Național de Investiții “Anghel Saligny” Analizând temeiurile juridice, respectiv: - art.ll, alin.(1)",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr41-pt-mod-HCL-39-din-2026-plata-buget-local-ob-inv-Moderniz-Orizontului.pdf",
+     "sha256": "025e191457e5cde5e1868919e8f069b5f783e2903388739a59af07ef257bab68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-44-2026",
+   "path": "local/prahova/campina/2026/44",
+   "short": "HCL Câmpina nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 44/2026 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Câmpina nr.134/25 septembrie 2025 privind acordarea “Premiilor Municipiului Câmpina“ pentru elevii din unitățile de învățământ liceal din Municipiul Câmpina, în anul școlar 2025-2026 Analizând temeiurile juridice, respectiv: - art.127, lit.), art.135, alin.(4), art.136, alin.(2), art.140, alin.(1) și alin.(2), lit.e) și",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr44-mod-si-complet-HCL-134-din-2025-acordare-Premiile-Mun-Campina.pdf",
+     "sha256": "f30618a7b80faa9f541624c451329c780ecd53a26119d8974c6ee390689e46b8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-49-2026",
    "path": "local/prahova/campina/2026/49",
    "short": "HCL Câmpina nr. 49/2026",
@@ -164,6 +644,21 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr49-atestare-inv-bun-dom-public-Mun-Campina.pdf",
      "sha256": "c2bfd182346cb1c306d86ec744c16f56be659857507b54e62362b2d2f658655a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-5-2026",
+   "path": "local/prahova/campina/2026/5",
+   "short": "HCL Câmpina nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 5/2026 privind inventarierea în domeniul public al Municipiului Câmpina a imobilului - bloc de locuințe sociale, situat în Municipiul Câmpina, str. Năsăud, nr.1 și a imobilelor-blocuri de locuințe sociale, situate în Municipiul Câmpina, str. Petralistului, nr. 11A, construite pe terenuri proprietate publică a Municipiului Câmpina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr5-inv-dom-public-blocuri-loc-strNasaud-si-Petrolistului-11A.pdf",
+     "sha256": "0e2319209c150ea8540877e84456f26b4805704be68b19be35decefe95d9a91c"
     }
    ]
   },
@@ -198,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-57-2026",
+   "path": "local/prahova/campina/2026/57",
+   "short": "HCL Câmpina nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 57/2026 privind aprobarea actualizării Devizului general și a indicatorilor tehnico-economici, faza PT, p „Restaurarea și punerea în valoare a monumentului istoric Capela «Dumitru V. Hernia» din Municipiul Câmpina” Analizând temeiurile juridice, respectiv: - art.5, alin.(1), lit.b), pct.(iii), art.10 și Anexa nr.6 din Hotărârea Guvernului nr.907/2016 privind etapele de elaborare și conținutul-cadru al doc",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr57-actualiz-DG_ind-tehn-ec-pt-Restaurare-Capela-Hernia.pdf",
+     "sha256": "5e278e71b8777565171150bd51aa4e18566c0e89017136f86f4cf82effd80499"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-58-2026",
    "path": "local/prahova/campina/2026/58",
    "short": "HCL Câmpina nr. 58/2026",
@@ -228,6 +738,186 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-60-2026",
+   "path": "local/prahova/campina/2026/60",
+   "short": "HCL Câmpina nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 60/2026 privind desemnarea reprezentanților Consiliului Local al Municipiului Câmpina în Comisia de concurs/examen, respectiv în Comisia de soluționare a contestațiilor ce se constituie pentru ocuparea funcției vacante de director financiar-contabil din cadrul Spitalului de Psihiatrie Voila, funcție specifică Comitetului director Analizând temneiurile juridice, respectiv: - art2, alin.(2) și alin.(3) din",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr60-desemnare-reprez-CL-in-Com-conc-si-solut-contestatii-Spital-Psihiatrie-Voila-1.pdf",
+     "sha256": "1f88d02d3d8f4d71a995f6deeeb9a84b7c18d06dcccefa444ccf3e901a328561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-66-2026",
+   "path": "local/prahova/campina/2026/66",
+   "short": "HCL Câmpina nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2026 privind aprobarea Planului revizuit de acțiuni/lucrări de interes local ce se vor efectua pe domeniul public sau privat al Municipiului Câmpina, de către persoanele apte de muncă din farniliile beneficiare de venit minim de incluziune, componenta ajutor de incluziune, conform prevederilor Legii nr.1 96/2016, pentru anul 2026 Analizând teneiurile juridice, respectiv: - art. 13|, alin. (1), lit. d)",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr66-aprobare-Plan-revizuit-actiuni-Legea-196-pt-2026.pdf",
+     "sha256": "441f5a2a4f2cbf8da5668138f2ad2a773645e2a3d49fc12c3fa2be25ccbad816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2026",
+   "path": "local/prahova/campina/2026/68",
+   "short": "HCL Câmpina nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2026 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Câmpina nr.229/27 decembrie 2023 privind reorganizarea activității instituțiilor cu personalitate juridică din subordinea Consiliului Local al Municipiului Câmpina Analizând ternelurile juridice, respectiv: - art.129, alin,(1), alin.(2), lic.c) și lit.d) și alin.(7), lit.d) din Ordonanța de urgență a Guvernului nr.57/201",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr68-mod-si-complet-HCL-229-din-2023-reorg-activ-instit-personalit-jr-subordine-CL.pdf",
+     "sha256": "4062628723e72b297d66c1a5e958a8f5d100e2bf10109e4c5bc2a0217bcf2ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-71-2026",
+   "path": "local/prahova/campina/2026/71",
+   "short": "HCL Câmpina nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 71/2026 privind aprobarea dezlipirii imobilului — teren, proprietate publică a Municipiului Câmpina, în suprafață de 25.542 mp, situat în Municipiul Câmpina, strada Izvoarelor, nr.1B, Tarla 83, Parcela 455, Județul Prahova, Carte funciară/Număr cadastral 28897, precum și a schimbării destinației unei suprafețe rezultată în urma dezmembrării Analizând terneiurile juridice, respectiv: - art.25, alin42) din",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr71-dezlipire-teren-Cimitir-Lumina-25542-mp-strIzvoarelor-1B_schimb-destin-suprafata-dezlip.pdf",
+     "sha256": "73c6b318eaf5a957de672cc1e55b46a1b187ab1f4b13718e5dc381f8f26b7ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-73-2026",
+   "path": "local/prahova/campina/2026/73",
+   "short": "HCL Câmpina nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 73/2026 pentru modificarea Hotărârii Consiliului Local al Municipiului Câmpina nr.57 din 28.05.20, actualizarii Devizului general și a indicatorilor tehnico-economici, faza PT, pentru proiectul „ punerea în valoare a monumentului istoric Capela «Dumitru V. Hernia» din Municipiul Câmpina” Analizând temeiurile juridice, respectiv: - art. 5, alin.(1), lit.b), pct. (iii), art. 10 și Anexa nr. 6 din Hotărârea",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/HCL-nr73-modif-HCL-57-actualiz-deviz-gen-si-indicatori-Capela-Hernia.pdf",
+     "sha256": "651468cf9ef173f678a90438b34b5ab078dec598e7c431b14fe81baabc409a49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2026",
+   "path": "local/prahova/campina/2026/77",
+   "short": "HCL Câmpina nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2026",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr77-complet-Anexa-la-HCL-2-din-2026-organiz-retea-scolara-pt-an-scolar-2026-2027.pdf",
+     "sha256": "93cd0ed09a86310ce7fa3534980ba91b0cd9139b2863a54912d5ccb3f729a9cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-78-2026",
+   "path": "local/prahova/campina/2026/78",
+   "short": "HCL Câmpina nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 78/2026 privind declararea ca bun de uz și de interes public local și inventarierea în domeniul public al Municipiului Câmpina a terenului situat în Municipiul Câmpina, Calea Daciei, fn, în suprafață 4657 mp Analizând terneiurile juridice, respectiv: - Legea nr.51/2006 a serviciilor comunitare de utilități publice, republicată, cu modificările și completările ulterioare; _ - Legea nr.241/2006 a serviciulu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr78-declar-ca-bun-uz-interes-publ-loc_inv-dom-public-teren-4657mp-Calea-Dacei-fnr.pdf",
+     "sha256": "560fdf0ddfb279be94b46e4116d0e0fe58d8b37ec94edda6880999f32c80a6a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-8-2026",
+   "path": "local/prahova/campina/2026/8",
+   "short": "HCL Câmpina nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 8/2026 privind aprobarea Planului de acțiuni/lucrări de interes local ce se vor efectua pe dorneniul public sau privat al Municipiului Câmpina, de către persoanele apte de muncă din farnitiile beneficiare de venit minim de incluziune, componenta ajutor de incluziune, conform prevederilor Legii nr.196/2016, pentru anul 2026 Analizând temeiurile juridice, respectiv: - art. 13|, lit. \"d\", art. 59 și art. 61",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr8-aprobare-Plan-actiuni-Legea-196-pt-2026.pdf",
+     "sha256": "9ac08602579c6abe0b39d721ee6175c0080ebd16d0a5c8a46bb9328259733775"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-80-2026",
+   "path": "local/prahova/campina/2026/80",
+   "short": "HCL Câmpina nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 80/2026 privind aprobarea listei de priorități în soluționarea cererilor de atribuire a spațiilor cu destinați partid politic, la nivelul Municipiului Câmpina d&sediu - Analizând temeiurile juridice, respectiv: - art. 26, alin.(1), alin.(2) și alin.(3) din Legea nr.334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale, republicată, cu modificările și completările ulterioa",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/07/Hotararea-nr80-lista-prioritati-cereri-atrib-spatii-destin-sediu-partid-politic-1.pdf",
+     "sha256": "5ef7bfc9a8a9c12879746009695832676058a77e44d7c11a4071cc18709c3115"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-81-2026",
+   "path": "local/prahova/campina/2026/81",
+   "short": "HCL Câmpina nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 81/2026 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Câmpina nr.16 din 26 februarie 2025 privind aprobarea devizului general actualizat și a indicatorilor tehnico-econornici actualizați, după finalizarea procedurii de achiziție lucrări, pentru realizarea obiectivului de investiții “Construire centru de colectare deșeuri prin aport voluntar în Municipiul Câmpina“, în cadrul",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/10/Hotararea-nr81-pt-mod_complet-HCL-16_2025-aprob-DV-actualizat-si-ind-CAV-.pdf",
+     "sha256": "0a31ca53f1e704d4b8ce3aa045cd24d6cdb63c3b5b94ff895f0cabda39bd6c80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-85-2026",
+   "path": "local/prahova/campina/2026/85",
+   "short": "HCL Câmpina nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 85/2026",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/08/Hotararea-nr85-mod-Anexa-2-HCL-20_2026-aprob-organigr_stat-functii_ROF-Spital-Municipal.pdf",
+     "sha256": "4e873e3fa69dce9b840f73154c5fab377e87986fff7848e8a8b6f187e5534af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-86-2026",
+   "path": "local/prahova/campina/2026/86",
+   "short": "HCL Câmpina nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 86/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "84a036cea22670793c9ffa5225bbf343bd4624a4096c5dfbba2dba1557521be7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-88-2026",
    "path": "local/prahova/campina/2026/88",
    "short": "HCL Câmpina nr. 88/2026",
@@ -243,6 +933,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-89-2026",
+   "path": "local/prahova/campina/2026/89",
+   "short": "HCL Câmpina nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 89/2026 privind aprobarea încheierii unei convenții de constituire a drepturilor de uz și de servitute în favoarea societății Distrigaz Sud Rețele S.R.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/08/Hotararea-nr89-incheiere-conventie-const-drept-uz-si-servit-Distrigaz-Sud-Retele-.pdf",
+     "sha256": "4b568279057065dbea3f0674388f30089fde06eae923e9c4e6d00f70f78e06cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-91-2026",
+   "path": "local/prahova/campina/2026/91",
+   "short": "HCL Câmpina nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2026 privind aprobarea actualizării Devizului General, a indicatorilor tehnico-economici, precum Și reprezentând finanțare de la bugetul local pentru realizarea obiectivului de investiții „MODERNIZARE STRADA ORIZONTULUI\", finanțat prin Programul Național de Investiții \"Anghel Saligny” Analizând temeiurile juridice, respectiv: -art.10, alin.(4) și alin.(5) din Hotărârea Guvernului nr.907/2016 privind et",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/08/Hotararea-nr91-actualiz-DG_ind-tehn-eco_suma-ob-inv-Moderniz-strOrizontului-1.pdf",
+     "sha256": "1d218e827d5273246fb8be971dc982a4a8061817c3f803b56fbc5541d70fd7d2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-94-2026",
    "path": "local/prahova/campina/2026/94",
    "short": "HCL Câmpina nr. 94/2026",
@@ -254,6 +974,66 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/08/Hotararea-nr94-complet-HCL-103-din-2020-Regulament-norme-lucrari-refacere-infrastr-dom-public-si-privat.pdf",
      "sha256": "a78c92f6774604c716835e77560fe8de17aa8731c584ea5ee15a38272fee1b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-95-2026",
+   "path": "local/prahova/campina/2026/95",
+   "short": "HCL Câmpina nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 95/2026 privind alegerea Președintelui de ședință a Consiliului Local al Municipiului Câmpina, pentru ședința din data de 27 august 2026 Analizând temeiurile juridice, respectiv: - arț.9 din Regulamentul de organizare și funcționare al Consiliului local al Municipiului Câmpina, aprobat prin Hotărârea Consiliulul Local nr.145/30 octombrie 2025; - Legea nr.24/2000 privind normele de tehnică legislativă pent",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr95-alegere-presedinte-sedinta-CL-pt-sed-din-27-aug2026.pdf",
+     "sha256": "d67e404e2d553526aa26c207e54df99a5f396c0ba274da431a20db049477edb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-96-2026",
+   "path": "local/prahova/campina/2026/96",
+   "short": "HCL Câmpina nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 96/2026 privind aprobarea actualizării Devizului General pentru proiectul „Creșterea eficienței energetice în Spitalul Municipal Câmpina\", etapa Il, Cod SMIS 329994 Analizând teneiurile juridice, respectiv: - art.10, alin.(S) din Hotărârea Guvernului nr.907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-econornice aferente obiectivelor/ proiectelor de investiții finanțate",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr96-aprob-actualiz-DG-pr-Cresterea-efic-energetice-Spital-Municipal-Campina-etapa-II.pdf",
+     "sha256": "dcb5bc0cb100c7d2ef305f1047505e0a0dffc4fb7fb0b94876d1b73399d9278c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-97-2026",
+   "path": "local/prahova/campina/2026/97",
+   "short": "HCL Câmpina nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 97/2026 privind alegerea Președintelui de ședință a Consiliului Local al Municipiului Câmpina Analizând terneiurile Juridice, respectiv: - art.9 din Regulamentul de organizare și funcționare al Consiliului local al Municipiului Câmpina, aprobat prin Hotărârea Consiliului Local nr.145/30 octombrie 2025; , - Legea nr.24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republi",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr97-alegere-presedinte-de-sedinta-CL.pdf",
+     "sha256": "68b3b2bb52a2fa291a56a6b52c527b56c33d1176f5bdc4c8f9fecd8295e3cc24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-99-2026",
+   "path": "local/prahova/campina/2026/99",
+   "short": "HCL Câmpina nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 99/2026 pentru activități nonprofit de interes local Analizând temeiurile juridice, respectiv: -,art.7, alin(13) din Legea nr.52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare; - - art.1 și art.22 din Legea nr.350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes gener",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/09/Hotararea-nr99-aprob-Reg-regim-fin-neramb-Legea-350-din-2005.pdf",
+     "sha256": "b18db8cf20d55095dbbc3d04276560c187a78a5778c678b062a13bf0598b29da"
     }
    ]
   }

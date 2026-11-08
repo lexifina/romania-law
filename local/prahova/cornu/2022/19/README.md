@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cornu nr. 19/2022 privind aprobarea depunerii proiectului ”Creșterea eficienței energetice în clădirile rezidențiale(blocuri) din comuna Cornu, județ Prahova” în cadrul apelurilor de proiecte cu titlul PNRR/2022/c5/1/a.3.1/1, PNRR/2022/c5/1/a.3.2/1 - Componenta C5 – Valul Renovării Axa 1 - Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale - Operațiunea A.3: Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale
+
+HCL Cornu nr. 19/2022 · 1 versions, from 2022-05-04 (latest in force: 2022-05-04) · <https://emol.ro/cornu-ph/registru-hcl/55822>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--cornu-19-2022` (tags `hcl-prahova--cornu-19-2022/<day>`; `python tools/on.py <day> hcl-prahova--cornu-19-2022`).
+
+## Decisions made by hand
+
+- HCL Cornu nr. 19/2022: listed from Consiliul Local al Comunei Cornu (emol.ro); an individual decision: metadata only.
+- HCL Cornu nr. 19/2022: dated from 4 May 2022, the day the council's register gives it as published (adopted 31 March 2022).
+- HCL Cornu nr. 19/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

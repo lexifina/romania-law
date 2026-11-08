@@ -133,6 +133,51 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-prahova--breaza-98-2020",
+"path": "local/prahova/breaza/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 98/2020",
+"short": "HCL Breaza nr. 98/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--breaza-100-2020",
+"path": "local/prahova/breaza/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Breaza nr. 100/2020 privind rectificarea bugetului local pe anul 2020",
+"short": "HCL Breaza nr. 100/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://primariabreaza.ro/hotarari-2/",
+"council": "prahova/breaza",
+"council_name": "Consiliul Local al Orașului Breaza",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

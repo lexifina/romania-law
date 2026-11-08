@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--bertea-22-2020",
+   "path": "local/prahova/bertea/2020/22",
+   "short": "HCL Bertea nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 22/2020 privind alegerea preşedintelui de şedinţă care va conduce şedinţele Consiliului Local al Comunei Bertea în lunile mai, iunie si iulie, anul 2020",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/17230",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/17230",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--bertea-23-2020",
    "path": "local/prahova/bertea/2020/23",
    "short": "HCL Bertea nr. 23/2020",
@@ -478,6 +493,21 @@
      "from": "2020-09-16",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/17433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-4-2020",
+   "path": "local/prahova/bertea/2020/4",
+   "short": "HCL Bertea nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 4/2020 privind alegerea preşedintelui de şedinţă care va conduce şedinţele Consiliului Local al Comunei Bertea în lunile februarie, martie si aprilie 2020",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/17154",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/17154",
      "sha256": null
     }
    ]
@@ -793,6 +823,21 @@
      "from": "2020-02-20",
      "units": 1,
      "source_url": "https://emol.ro/bertea-ph/registru-hcl/17158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--bertea-9-2020",
+   "path": "local/prahova/bertea/2020/9",
+   "short": "HCL Bertea nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bertea nr. 9/2020 privind disponibilizarea in vederea vanzarii prin licitatie a buldoescavatorului marca JCB 3C",
+   "url": "https://emol.ro/bertea-ph/registru-hcl/17159",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bertea-ph/registru-hcl/17159",
      "sha256": null
     }
    ]
