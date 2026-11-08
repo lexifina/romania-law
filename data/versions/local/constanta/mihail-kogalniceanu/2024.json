@@ -3,6 +3,21 @@
  "shard": "local/constanta/mihail-kogalniceanu/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-1-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/1",
+   "short": "HCL Mihail Kogălniceanu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 1/2024 privind organizarea rețelei școlare aferentă anului școlar 2024 -2025 in comuna Mihail Kogălniceanu, județul Constanța,",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141602",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-100-2024",
    "path": "local/constanta/mihail-kogalniceanu/2024/100",
    "short": "HCL Mihail Kogălniceanu nr. 100/2024",
@@ -208,6 +223,561 @@
      "from": "2025-04-01",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/184940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-13-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/13",
+   "short": "HCL Mihail Kogălniceanu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 13/2024 privind infiintarea Serviciului Public de gestionarea a cainilor fara stapan la nivelul comunei Mihail Kogalniceanu, judetul Constanta",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141614",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-16-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/16",
+   "short": "HCL Mihail Kogălniceanu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 16/2024 privind aprobarea a bugetului local consolidat al comunei Mihail Kogalniceanu, judetul Constanta-pe anul 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143567",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-17-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/17",
+   "short": "HCL Mihail Kogălniceanu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 17/2024 privind aprobarea a bugetului de venituri si cheltuieli pentru anul 2024 al MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143568",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-18-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/18",
+   "short": "HCL Mihail Kogălniceanu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 18/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143569",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-19-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/19",
+   "short": "HCL Mihail Kogălniceanu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 19/2024 privind aprobarea actualizarii tarifului pentru serviciile de paza prestate de MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143570",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-2-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/2",
+   "short": "HCL Mihail Kogălniceanu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 2/2024 privind aprobarea acoperirii definitive a deficitului bugetului local al comunei Mihail Kogalniceanu la 31.12.2023 pe sectiuni bugetare din excedentul anului precedent",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141603",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-20-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/20",
+   "short": "HCL Mihail Kogălniceanu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 20/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143571",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-23-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/23",
+   "short": "HCL Mihail Kogălniceanu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 23/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143574",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/143574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-26-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/26",
+   "short": "HCL Mihail Kogălniceanu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 26/2024 privind aprobarea Planului anual de actiune privind serviciile sociale pe anul 2024, la nivelul comunei Mihail Kogalniceanu, judetul Constanta",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148598",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-27-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/27",
+   "short": "HCL Mihail Kogălniceanu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 27/2024 privind aprobarea Programului de actiune comunitara destinat prevenirii si combaterii riscului de saracie si excluziune sociala la nivelul comunei Mihail Kogălniceanu- anul2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148599",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-28-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/28",
+   "short": "HCL Mihail Kogălniceanu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 28/2024 privind aprobarea bugetului local al comunei Mihail Kogălniceanu, județul Constanţa pe anul 2024 -rectificat prin Dispozitia Primarului nr. 128 din 07.03.2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148600",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-3-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/3",
+   "short": "HCL Mihail Kogălniceanu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 3/2024 privind aprobarea repartizarii excedentului anual al bugetului local al comunei Mihail Kogălniceanu rezultat la incheierea exercitiului bugetar la 31.12.2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141604",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-31-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/31",
+   "short": "HCL Mihail Kogălniceanu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 31/2024 privind acordarea de pachete alimentare persoanelor defavorizate şi pensionarilor cu venituri mici din comuna Mihail Kogalniceanu cu ocazia Sărbătorilor Pascale- în anul 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148603",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/148603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-37-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/37",
+   "short": "HCL Mihail Kogălniceanu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 37/2024 privind alocarea unei sume de bani din bugetul local pentru finanțarea cheltuielilor ocazionate de participarea Ansamblului folcloric ” Flori Dobrogene” la Festivalul internațional de folclor Kemer -Antalya , Turcia în perioada 17-21 mai 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/152359",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/152359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-38-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/38",
+   "short": "HCL Mihail Kogălniceanu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 38/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/152360",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/152360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-4-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/4",
+   "short": "HCL Mihail Kogălniceanu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 4/2024 privind aprobarea contului de executie si a indicatorilor aferenti executiei bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, la 31.12.2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141605",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-40-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/40",
+   "short": "HCL Mihail Kogălniceanu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 40/2024 privind aprobarea contului de executie si a indicatorilor aferenti executiei bugetului local al comunei Mihail Kogălniceanu, județul Constanţa la 31.03.2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/153744",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/153744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-42-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/42",
+   "short": "HCL Mihail Kogălniceanu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 42/2024 privind transmiterea suprafetei de 346.140 mp din domeniul public al comunei Mihail Kogălniceanu, județul Constanța in domeniul public al statului si in administrarea Ministerului Apararii Nationale",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/153746",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/153746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-44-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/44",
+   "short": "HCL Mihail Kogălniceanu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 44/2024 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna aprilie a anului 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/155498",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/155498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-46-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/46",
+   "short": "HCL Mihail Kogălniceanu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 46/2024 privind aprobarea rectificarii bugetului local consolidat al comunei Mihail Kogălniceanu, județul Constanţa, pe luna mai a anului 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/157693",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/157693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-47-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/47",
+   "short": "HCL Mihail Kogălniceanu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 47/2024 privind alocarea unei sume de bani din bugetul local al comunei pentru finanțarea cheltuielilor ocazionate de participarea trupei de dans ”THE FUTURE DANCE STUDIO” la DANCE WORLD CUP FINALS din Praga, Republica Cehă în perioada 27 iunie- 2 iulie 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/157694",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/157694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-5-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/5",
+   "short": "HCL Mihail Kogălniceanu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 5/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141606",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-56-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/56",
+   "short": "HCL Mihail Kogălniceanu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 56/2024 privind alocarea unei sume de bani din bugetul local al comunei Mihail Kogălniceanu pentru organizarea și desfășurarea evenimentului lupte tradiționale tătărești ”KUREȘ”- an 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/160817",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/160817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-57-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/57",
+   "short": "HCL Mihail Kogălniceanu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 57/2024 privind aprobarea contului de executie si a indicatorilor aferenti executiei bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, la 30.06.2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/162951",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/162951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-6-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/6",
+   "short": "HCL Mihail Kogălniceanu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 6/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141607",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-60-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/60",
+   "short": "HCL Mihail Kogălniceanu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 60/2024 privind aprobarea Raportului privind activitatea desfasurată în semestrul I al anului 2024 de asistentii personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164492",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-61-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/61",
+   "short": "HCL Mihail Kogălniceanu nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 61/2024 privind aprobarea actualizarii tarifului pentru serviciile de paza prestate de MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164493",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-62-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/62",
+   "short": "HCL Mihail Kogălniceanu nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 62/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164494",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-63-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/63",
+   "short": "HCL Mihail Kogălniceanu nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 63/2024 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna iulie a anului 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164495",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-64-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/64",
+   "short": "HCL Mihail Kogălniceanu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 64/2024 privind aprobarea rectificării bugetului de venituri si cheltuieli pentru anul 2024 al MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164496",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-65-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/65",
+   "short": "HCL Mihail Kogălniceanu nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 65/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164497",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-66-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/66",
+   "short": "HCL Mihail Kogălniceanu nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 66/2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164498",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-67-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/67",
+   "short": "HCL Mihail Kogălniceanu nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 67/2024 privind aprobarea Organigramei și a statului de funcții al cadrul aparatului de specialitate al primarului comunei Mihail Kogalniceanu, judetul Constanta",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164499",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/164499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-80-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/80",
+   "short": "HCL Mihail Kogălniceanu nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 80/2024 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna august a anului 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/167902",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/167902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-83-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/83",
+   "short": "HCL Mihail Kogălniceanu nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 83/2024 privind aprobarea bugetului local al comunei Mihail Kogălniceanu, județul Constanţa pe luna septembrie anul 2024 -rectificat prin Dispozitia Primarului nr. 288 din 23.09.2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/171244",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/171244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-89-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/89",
+   "short": "HCL Mihail Kogălniceanu nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 89/2024 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna octombrie a anului 2024",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/172598",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/172598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-9-2024",
+   "path": "local/constanta/mihail-kogalniceanu/2024/9",
+   "short": "HCL Mihail Kogălniceanu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 9/2024 privind aprobarea Planului de acţiuni sau lucrări de interes local pe anul 2024, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr. 196/2016 privind venitul minim de incluziune și de către părinții apți de muncă obligați la întreținerea copilului în condițiile stabilite de Codul civil",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141610",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/141610",
      "sha256": null
     }
    ]

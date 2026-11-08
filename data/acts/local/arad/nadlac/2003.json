@@ -1,0 +1,252 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2003",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-23-2003",
+"path": "local/arad/nadlac/2003/23",
+"kind": "local",
+"year": "2003",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 23/2003",
+"short": "HCL Nădlac nr. 23/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-03-28",
+"latest": "2003-03-28",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-26-2003",
+"path": "local/arad/nadlac/2003/26",
+"kind": "local",
+"year": "2003",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 26/2003 privind aplicarea metodologiei de salubrizare menajera în intravilanul orasului Nadlac",
+"short": "HCL Nădlac nr. 26/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-03-28",
+"latest": "2003-03-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-36-2003",
+"path": "local/arad/nadlac/2003/36",
+"kind": "local",
+"year": "2003",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 36/2003 privind aprobarea tarifelor pentru activitatea de salubrizare menajera din intravilanul orasului Nadlac",
+"short": "HCL Nădlac nr. 36/2003",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2003-04-15",
+"latest": "2003-04-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-38-2003",
+"path": "local/arad/nadlac/2003/38",
+"kind": "local",
+"year": "2003",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 38/2003 privind ajustarea tarifelor pentru servicii publice de alimentare cu apa prestate de SC Apoterm Nadlac SA la utilizatori cu care a încheiat contracte",
+"short": "HCL Nădlac nr. 38/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-04-15",
+"latest": "2003-04-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-44-2003",
+"path": "local/arad/nadlac/2003/44",
+"kind": "local",
+"year": "2003",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2003 privind stabilirea impozitelor si taxelor locale, valorilor impozabile si a cotelor procentuale prevazute în limite pentru anul 2004",
+"short": "HCL Nădlac nr. 44/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-05-27",
+"latest": "2003-05-27",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--nadlac-45-2003",
+"path": "local/arad/nadlac/2003/45",
+"kind": "local",
+"year": "2003",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2003",
+"short": "HCL Nădlac nr. 45/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-05-27",
+"latest": "2003-05-27",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-46-2003",
+"path": "local/arad/nadlac/2003/46",
+"kind": "local",
+"year": "2003",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 46/2003",
+"short": "HCL Nădlac nr. 46/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-05-27",
+"latest": "2003-05-27",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-47-2003",
+"path": "local/arad/nadlac/2003/47",
+"kind": "local",
+"year": "2003",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 47/2003 privind scutirea de la plata impozitului pe cladire si terenul aferent – str. 1 Mai, nr. 52 a d-lui Palyov Dusan-Martin",
+"short": "HCL Nădlac nr. 47/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-05-27",
+"latest": "2003-05-27",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--nadlac-60-2003",
+"path": "local/arad/nadlac/2003/60",
+"kind": "local",
+"year": "2003",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 60/2003 privind modificarea tarifului de apa rece de la 4358 lei /m3 la 6536 lei/m3",
+"short": "HCL Nădlac nr. 60/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-06-27",
+"latest": "2003-06-27",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--nadlac-68-2003",
+"path": "local/arad/nadlac/2003/68",
+"kind": "local",
+"year": "2003",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2003",
+"short": "HCL Nădlac nr. 68/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-07-29",
+"latest": "2003-07-29",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-77-2003",
+"path": "local/arad/nadlac/2003/77",
+"kind": "local",
+"year": "2003",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 77/2003 privind aprobarea Regulamentului Intern de organizare si functionare al Primariei orasului Nadlac",
+"short": "HCL Nădlac nr. 77/2003",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2003-08-26",
+"latest": "2003-08-26",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2003-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

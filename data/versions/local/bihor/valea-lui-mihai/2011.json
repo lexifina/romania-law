@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2011",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-17-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/17",
+   "short": "HCL Valea lui Mihai nr. 17/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 17/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-03-29",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.17-din-29.03.2011.pdf",
+     "sha256": "d75362d5c8c5b4886e1d27a9c6dfb6e8b17a35e7a3dae8b0dac9815b0166e6a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-6-2011",
+   "path": "local/bihor/valea-lui-mihai/2011/6",
+   "short": "HCL Valea lui Mihai nr. 6/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-08",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2025/07/hot.06-din-08.02.2001.pdf",
+     "sha256": "6a4a626264f875cbe6bc14c297701abc10602529c07ca49b5149d0bf5fec6e3f"
+    }
+   ]
+  }
+ ]
+}

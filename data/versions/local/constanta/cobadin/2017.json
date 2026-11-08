@@ -16,6 +16,21 @@
      "sha256": "2e662bb9f6164fef281f6c7eee3ea24fcf45f5760b7d0380c52ea686ec935938"
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--cobadin-148-2017",
+   "path": "local/constanta/cobadin/2017/148",
+   "short": "HCL Cobadin nr. 148/2017",
+   "title": "Hotărârea Consiliului Local al Comunei Cobadin nr. 148/2017 privind stabilirea Taxelor şi Impozitelor Locale pentru anul 2018",
+   "url": "https://primariacobadin.ro/hotarari-ale-cl",
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "units": 1,
+     "source_url": "http://primariacobadin.ro/wp-content/uploads/2018/03/HCL-TAXE_SI_IMPOZITE_LOCALE_2018.doc",
+     "sha256": "ece0b68a11876e407faeee021e6fec10e1dd74c1851d8fdb3a9a270518d95834"
+    }
+   ]
   }
  ]
 }

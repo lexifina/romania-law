@@ -3,6 +3,66 @@
  "shard": "local/constanta/mihail-kogalniceanu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-117-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/117",
+   "short": "HCL Mihail Kogălniceanu nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 117/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42279",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-118-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/118",
+   "short": "HCL Mihail Kogălniceanu nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 118/2021 privind aprobarea Studiului de Fezabilitate și a Indicatorilor tehnico-economici ai investiției ”INFIINȚARE REȚEA DE INFRASTRUCTURĂ RUTIERĂ ȘI SISTEMATIZARE CARTIER SUD”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42280",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-119-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/119",
+   "short": "HCL Mihail Kogălniceanu nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 119/2021 privind alocarea sumei de 30.000 lei din bugetul local al comunei Mihail Kogălniceanu în vederea organizării sărbătorilor de iarnă din anul 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42281",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-135-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/135",
+   "short": "HCL Mihail Kogălniceanu nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 135/2021 privind declararea de interes public local a unor bunuri dobândite în cadrul investițiilor „alimentare cu apă a localităților Piatra și Palazu Mic, comuna Mihail Kogălniceanu, județul Constanța”, ”Extindere rețele de distribuție apă și realizare branșamente noi” și ”Brașamente apă Piatra-Com. Mihail Kogălniceanu”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42297",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/42297",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-143-2021",
    "path": "local/constanta/mihail-kogalniceanu/2021/143",
    "short": "HCL Mihail Kogălniceanu nr. 143/2021",
@@ -298,6 +358,471 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/47754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-19-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/19",
+   "short": "HCL Mihail Kogălniceanu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 19/2021 privind aprobarea încheierii unui acord de parteneriat între Comuna Mihail Kogălniceanu și Comuna Lumina în vederea elaborării și implementării proiectului “Construirea rețelei inteligente de distribuție gaze naturale în comunele Mihail Kogălniceanu și Lumina”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19998",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-2-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/2",
+   "short": "HCL Mihail Kogălniceanu nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 2/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19981",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-30-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/30",
+   "short": "HCL Mihail Kogălniceanu nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 30/2021 privind aprobarea Planului anual de acțiune privind serviciile sociale pe anul 2021, la nivelul comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21788",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-35-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/35",
+   "short": "HCL Mihail Kogălniceanu nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 35/2021 privind acordarea de pachete persoanelor defavorizate și pensionarilor din comuna Mihail Kogălniceanu cu ocazia Sărbătorilor de Paște și de Crăciun",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21793",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-36-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/36",
+   "short": "HCL Mihail Kogălniceanu nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 36/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21794",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-39-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/39",
+   "short": "HCL Mihail Kogălniceanu nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 39/2021 privind declararea de interes public local a unor bunuri imobile dobândite în cadrul investiției „Grădiniță cu orar prelungit în localitatea Mihail Kogălniceanu” și înscrierea acestora în inventarul bunurilor din domeniul public al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21797",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/21797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-4-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/4",
+   "short": "HCL Mihail Kogălniceanu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 4/2021 privind aprobarea contului anual de execuție al Bugetului Local de Venituri și Cheltuieli al Comunei Mihail Kogălniceanu la 31 decembrie 2020",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19983",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/19983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-42-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/42",
+   "short": "HCL Mihail Kogălniceanu nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 42/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24580",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-43-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/43",
+   "short": "HCL Mihail Kogălniceanu nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 43/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24581",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-44-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/44",
+   "short": "HCL Mihail Kogălniceanu nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 44/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24582",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-58-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/58",
+   "short": "HCL Mihail Kogălniceanu nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 58/2021 privind aprobarea indicatorilor tehnico-economici ai proiectului ” Asfaltare drumuri comunale în localitatea Mihail Kogălniceanu, județul Constanța”, în vederea depunerii acestuia spre finanțare",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24606",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/24606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-60-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/60",
+   "short": "HCL Mihail Kogălniceanu nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 60/2021 privind aprobarea situațiilor financiare anuale ale SC ” SERVICII PUBLICE DE MENTENANȚĂ” SRL încheiate la data de 31.12.2020 ( Bilanț contabil prescurtat, Contul de profit și pierdere și Note explicative la situațiile financiare anuale) Raportul administratorului și descărcarea de gestiune pentru exercițiul financiar 2020, repartizarea profitului net și aprobarea Raportului auditorului independent",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25875",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-61-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/61",
+   "short": "HCL Mihail Kogălniceanu nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 61/2021 privind aprobarea situațiilor financiare anuale ale ”MK PAZĂ ȘI PROTECȚIE” SRL încheiate la data de 31.12.2020 (Bilanț contabil prescurtat, Contul de profit și pierdere și Note explicative la situațiile financiare anuale) Raportul administratorului și descărcarea de gestiune pentru exercițiul financiar 2020, și aprobarea Raportului auditorului independent",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25876",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-62-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/62",
+   "short": "HCL Mihail Kogălniceanu nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 62/2021 privind atestarea apartenenței la domeniul privat al comunei Mihail Kogălniceanu, a unui imobil (teren) situat în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25877",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/25877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-66-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/66",
+   "short": "HCL Mihail Kogălniceanu nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 66/2021 privind aprobarea contului anual de execuție al bugetului Local de Venituri și Cheltuieli al Comunei Mihail Kogălniceanu la 31 Martie 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30823",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-67-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/67",
+   "short": "HCL Mihail Kogălniceanu nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 67/2021 privind rectificarea Bugetului de Venituri și Cheltuieli-2021 al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30824",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-68-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/68",
+   "short": "HCL Mihail Kogălniceanu nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 68/2021 privind aprobarea documentației de dezmembrare a imobilului Lot 36/1/1, situat în comuna Mihail Kogălniceanu, incintă Ceres, având număr cadastral 105227, ce aparține domeniului priviat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30825",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-69-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/69",
+   "short": "HCL Mihail Kogălniceanu nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 69/2021 privind aprobarea documentației de dezmembrare a imobilului Lot 36/3/15, situat în comuna Mihail Kogălniceanu, incintă Ceres, având număr cadastral 105393, ce aparține domeniului privat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30826",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-70-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/70",
+   "short": "HCL Mihail Kogălniceanu nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 70/2021 privind aprobarea documentației de dezmembrare a imobilului Lot 36/3/13/1, situat în comuna Mihail Kogălniceanu, incintă Ceres, având număr cadastral 106499, ce aparține domeniului privat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30827",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-78-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/78",
+   "short": "HCL Mihail Kogălniceanu nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 78/2021 privind aprobarea solicitării de prelungirea a scrisorii de garanție de la FNGCIMM SA pentru implementarea proiectului ” Modernizare străzi și drumuri comunale în localitatea Mihail Kogălniceanu și satele ce aparțin Comunei Mihail Kogălniceanu” com. Mihail Kogălniceanu, jud. Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30835",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/30835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-79-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/79",
+   "short": "HCL Mihail Kogălniceanu nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 79/2021 privind actualizarea Regulamentului Serviciului Public Local de Salubrizare al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33610",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-80-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/80",
+   "short": "HCL Mihail Kogălniceanu nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 80/2021 privind aprobarea contului anual de execuție al Bugetului Local de Venituri și Cheltuieli al Comunei Mihail Kogălniceanu la 30 iunie 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33611",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-81-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/81",
+   "short": "HCL Mihail Kogălniceanu nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 81/2021 privind înregistrarea Primăriei Comunei Mihail Kogălniceanu în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile on-line",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33612",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-82-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/82",
+   "short": "HCL Mihail Kogălniceanu nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 82/2021 privind rectificarea Bugetului de Venituri și Cheltuieli - 2021 al comunei Mihail Kogălniceanu",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33613",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-83-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/83",
+   "short": "HCL Mihail Kogălniceanu nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 83/2021 privind aprobarea documentației pentru organizarea și desfășurarea licitației publice deschise în scopul realizării obiectivului ''exploatare cariera de piatră'' pe terenul în suprafață de 43.712,00 mp, aparținând domeniului privat al comunei Mihail Kogălniceanu, județul Constanța, în vederea asocierii în partipațiune cu persoane juridice",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33614",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-84-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/84",
+   "short": "HCL Mihail Kogălniceanu nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 84/2021 privind aprobarea Raportului privind activitatea asistenților personali ai persoanelor cu handicap grav - semestrul I 2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33615",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-85-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/85",
+   "short": "HCL Mihail Kogălniceanu nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 85/2021 privind completarea Hotărârii nr. 29/31.03.2021 privind aprobarea rețelei unităților de învățământ de pe raza administrativ-teritorială a comunei Mihail Kogălniceanu, care vor funcționa în anul șoclar 2021-2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33616",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-88-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/88",
+   "short": "HCL Mihail Kogălniceanu nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 88/2021",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33619",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-89-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/89",
+   "short": "HCL Mihail Kogălniceanu nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 89/2021 privind aprobarea Nomenclatorului stradal al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33620",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-90-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/90",
+   "short": "HCL Mihail Kogălniceanu nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 90/2021 privind aprobarea prelungirii documentației de urbanism ''Plan Urbanistic Zonal '' în vederea realizării obiectivului de investiții ''Înființare fermă - Hală de găini ouătoare'', județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33621",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/33621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-99-2021",
+   "path": "local/constanta/mihail-kogalniceanu/2021/99",
+   "short": "HCL Mihail Kogălniceanu nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 99/2021 privind aprobarea Planului Urbanistic Zonal al comunei Mihail Kogălniceanu, a Regulamentului Local de Urbanism aferent precum și a Raportului Final de Informare a publicului",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39920",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/39920",
      "sha256": null
     }
    ]

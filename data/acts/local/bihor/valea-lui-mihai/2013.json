@@ -1,0 +1,212 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2013",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-4-2013",
+"path": "local/bihor/valea-lui-mihai/2013/4",
+"kind": "local",
+"year": "2013",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 4/2013",
+"short": "HCL Valea lui Mihai nr. 4/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-01-14",
+"latest": "2013-01-14",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-6-2013",
+"path": "local/bihor/valea-lui-mihai/2013/6",
+"kind": "local",
+"year": "2013",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2013",
+"short": "HCL Valea lui Mihai nr. 6/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-01-30",
+"latest": "2013-01-30",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-26-2013",
+"path": "local/bihor/valea-lui-mihai/2013/26",
+"kind": "local",
+"year": "2013",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2013",
+"short": "HCL Valea lui Mihai nr. 26/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-03-27",
+"latest": "2013-03-27",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-28-2013",
+"path": "local/bihor/valea-lui-mihai/2013/28",
+"kind": "local",
+"year": "2013",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 28/2013",
+"short": "HCL Valea lui Mihai nr. 28/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-03-27",
+"latest": "2013-03-27",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-55-2013",
+"path": "local/bihor/valea-lui-mihai/2013/55",
+"kind": "local",
+"year": "2013",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 55/2013",
+"short": "HCL Valea lui Mihai nr. 55/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-28",
+"latest": "2013-06-28",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-56-2013",
+"path": "local/bihor/valea-lui-mihai/2013/56",
+"kind": "local",
+"year": "2013",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2013",
+"short": "HCL Valea lui Mihai nr. 56/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-28",
+"latest": "2013-06-28",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-67-2013",
+"path": "local/bihor/valea-lui-mihai/2013/67",
+"kind": "local",
+"year": "2013",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2013 privind aprobarea Planului Urbanistic Zonal: „Hale industriale pentru producție nr. cad.50033 – orașul Valea lui Mihai, str",
+"short": "HCL Valea lui Mihai nr. 67/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-08-28",
+"latest": "2013-08-28",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-76-2013",
+"path": "local/bihor/valea-lui-mihai/2013/76",
+"kind": "local",
+"year": "2013",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2013",
+"short": "HCL Valea lui Mihai nr. 76/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-09-27",
+"latest": "2013-09-27",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-100-2013",
+"path": "local/bihor/valea-lui-mihai/2013/100",
+"kind": "local",
+"year": "2013",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 100/2013",
+"short": "HCL Valea lui Mihai nr. 100/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-12-18",
+"latest": "2013-12-18",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

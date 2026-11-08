@@ -3,6 +3,261 @@
  "shard": "local/constanta/cerchezu/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--cerchezu-10-2022",
+   "path": "local/constanta/cerchezu/2022/10",
+   "short": "HCL Cerchezu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 10/2022 privind aprobarea Planului anual de servicii sociale pentru anul 2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/54324",
+   "versions": [
+    {
+     "from": "2022-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/54324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-12-2022",
+   "path": "local/constanta/cerchezu/2022/12",
+   "short": "HCL Cerchezu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 12/2022 privind modificarea si completarea structurii organizatorice și a statului de funcții ale comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/54326",
+   "versions": [
+    {
+     "from": "2022-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/54326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-16-2022",
+   "path": "local/constanta/cerchezu/2022/16",
+   "short": "HCL Cerchezu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 16/2022 privind rectificarea bugetului pe anul 2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/56698",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/56698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-18-2022",
+   "path": "local/constanta/cerchezu/2022/18",
+   "short": "HCL Cerchezu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 18/2022 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/56700",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/56700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-19-2022",
+   "path": "local/constanta/cerchezu/2022/19",
+   "short": "HCL Cerchezu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 19/2022 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor care se află în situații de necesitate",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/56701",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/56701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-2-2022",
+   "path": "local/constanta/cerchezu/2022/2",
+   "short": "HCL Cerchezu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 2/2022 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2022 al Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53450",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-20-2022",
+   "path": "local/constanta/cerchezu/2022/20",
+   "short": "HCL Cerchezu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 20/2022 privind aprobarea Planurilor proprii de pregatire în domeniul situațiilor de urgență în anul 2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/56702",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/56702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-21-2022",
+   "path": "local/constanta/cerchezu/2022/21",
+   "short": "HCL Cerchezu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 21/2022 privind rectificarea bugetului pe anul 2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/58495",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/58495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-23-2022",
+   "path": "local/constanta/cerchezu/2022/23",
+   "short": "HCL Cerchezu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 23/2022 privind stabilirea numărului de burse şi cuantumul burselor aferente semestrului II al anului şcolar 2021 - 2022 pentru elevii din învăţământul preuniversitar de stat",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/58497",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/58497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-24-2022",
+   "path": "local/constanta/cerchezu/2022/24",
+   "short": "HCL Cerchezu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 24/2022 privind stabilirea salariilor de bază pentru funcţionarii publici și personalul contractual din cadrul Primăriei comunei Cerchezu , județul Constanţa",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/58498",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/58498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-27-2022",
+   "path": "local/constanta/cerchezu/2022/27",
+   "short": "HCL Cerchezu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 27/2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/60333",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/60333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-28-2022",
+   "path": "local/constanta/cerchezu/2022/28",
+   "short": "HCL Cerchezu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 28/2022 privind modificarea si completarea Hotărârii Consiliului Local Cerchezu nr. 7/21.01.2021 privind aprobarea investiției ,,Dotarea elevilor şi a instiuţiilor de învăţământ din Comuna Cerchezu cu echipamente mobile din domeniul IT necesare desfăşurării activităţii didactice în mediul on-line în contextul riscului de infecţie cu coronavirus\", finanţat prin Programul operaţional Competitivitate 2014-2020",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/60334",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/60334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-29-2022",
+   "path": "local/constanta/cerchezu/2022/29",
+   "short": "HCL Cerchezu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 29/2022 privind aprobarea depunerii proiectului ”Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Cerchezu” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/60972",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/60972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-3-2022",
+   "path": "local/constanta/cerchezu/2022/3",
+   "short": "HCL Cerchezu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 3/2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53451",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-36-2022",
+   "path": "local/constanta/cerchezu/2022/36",
+   "short": "HCL Cerchezu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 36/2022 privind utilizarea excedentului anual rezultat la încheierea exercțiului financiar pe anul 2021 in vederea finanțarii cheltuielilor secțiunii de functionare",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/65965",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/65965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-40-2022",
+   "path": "local/constanta/cerchezu/2022/40",
+   "short": "HCL Cerchezu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/68803",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/68803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-43-2022",
+   "path": "local/constanta/cerchezu/2022/43",
+   "short": "HCL Cerchezu nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 43/2022 privind aprobarea încheierii unui contract de comodat cu medicul de familie care solicită să deschidă un cabinet medical individual pe raza comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/71244",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/71244",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-46-2022",
    "path": "local/constanta/cerchezu/2022/46",
    "short": "HCL Cerchezu nr. 46/2022",
@@ -58,6 +313,21 @@
      "from": "2022-11-23",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/74746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-5-2022",
+   "path": "local/constanta/cerchezu/2022/5",
+   "short": "HCL Cerchezu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 5/2022 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53453",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53453",
      "sha256": null
     }
    ]
@@ -213,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-6-2022",
+   "path": "local/constanta/cerchezu/2022/6",
+   "short": "HCL Cerchezu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 6/2022 privind aprobarea Regulamentului de organizare și funcționare al Compartimentului de asistență socială din cadrul aparatului de specialitate al Primarului Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53454",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53454",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-60-2022",
    "path": "local/constanta/cerchezu/2022/60",
    "short": "HCL Cerchezu nr. 60/2022",
@@ -298,6 +583,51 @@
      "from": "2023-01-26",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/86094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-7-2022",
+   "path": "local/constanta/cerchezu/2022/7",
+   "short": "HCL Cerchezu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 7/2022 privind aprobarea structurii organizatorice si a statului de functii al aparatului de specialitate al Primarului Comunei Cerchezu, judetul Constanta",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53455",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-8-2022",
+   "path": "local/constanta/cerchezu/2022/8",
+   "short": "HCL Cerchezu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 8/2022 privind reorganizarea rețelei școlare pentru învățământul preuniversitar de stat din comuna Cerchezu în anul școlar 2022 – 2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/53456",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/53456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-9-2022",
+   "path": "local/constanta/cerchezu/2022/9",
+   "short": "HCL Cerchezu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 9/2022 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziționarea de lapte si produse lactate precum si a produselor de panificatie aferente Programului pentru Scoli al României și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/54323",
+   "versions": [
+    {
+     "from": "2022-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/54323",
      "sha256": null
     }
    ]

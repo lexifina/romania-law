@@ -3,6 +3,96 @@
  "shard": "local/ilfov/buftea/2017",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-110-2017",
+   "path": "local/ilfov/buftea/2017/110",
+   "short": "HCL Buftea nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 110/2017 privind aprobarea diminuării nivelului tarifului pentru colectarea taxelor de către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/110.pdf",
+     "sha256": "10d29c18d67f9943e593bec4115a765ff8f76e77ab096eb330403b8367acec66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-134-2017",
+   "path": "local/ilfov/buftea/2017/134",
+   "short": "HCL Buftea nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 134/2017 pentru aprobarea documentaţiei de urbanism Plan Urbanistic Zonal Amenajare parc “Aviaţiei”- loc de joacă pentru copii, fitness adulţi, teren de sport mixt, skateparc, piscină, amfiteatru în aer liber, parcare, împrejmuire şi utilităţi, amplasat în oraşul Bufte",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/134.pdf",
+     "sha256": "e7584ca0b751f2b6f9bb0509c41484eb4abcad4fe5aeb1f83ebb2a97c5c7b616"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-135-2017",
+   "path": "local/ilfov/buftea/2017/135",
+   "short": "HCL Buftea nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 135/2017 pentru aprobarea documentaţiei de urbanism Plan Urbanistic Zonal Construire parc integrat pentru recreere, sport şi agrement, amenajare circulaţii, parcări, asigurare utilităţi, amplasat în oraşul Buftea, judeţul Ilfov, Strada Ştirbei Vodă, nr.53A, nr. cadastr",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/135.pdf",
+     "sha256": "cb169a4f730901062dcb261b86e8372c37799817ba02670b9a3016aaa5e3e6d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-152-2017",
+   "path": "local/ilfov/buftea/2017/152",
+   "short": "HCL Buftea nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 152/2017 privind modificarea tarifelor pentru activităţile specifice serviciului de salubrizare, aprobate prin Hotărârea Consiliului Local nr. 27 /26.02.2013",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/152.pdf",
+     "sha256": "ce2cda5a2c8009fab3d3e3ec61054ae3c1a5c68bb298c513f6ced4a817b98b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-162-2017",
+   "path": "local/ilfov/buftea/2017/162",
+   "short": "HCL Buftea nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 162/2017 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal Ansamblu locuinţe individuale şi servicii complementare locuirii, amenajare circulaţii, împrejmuire şi utilităţi",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 6,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/162.pdf",
+     "sha256": "cd3715ba99bf6df8297a8966070e97be99b1c476c60442660f82bf26bf4595a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-36-2017",
+   "path": "local/ilfov/buftea/2017/36",
+   "short": "HCL Buftea nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 36/2017 privind aprobarea procedurii pentru stabilirea criteriilor de identificare şi încadrare a imobilelor (terenuri/clădiri) neîngrijite de pe raza Unităţii Administrativ Teritoriale Oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/36.pdf",
+     "sha256": "dd3b5a3bd25567a259304fadf1f21117bfd89320b2675571d1034dade4380a0c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-7-2017",
    "path": "local/ilfov/buftea/2017/7",
    "short": "HCL Buftea nr. 7/2017",

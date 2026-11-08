@@ -301,6 +301,66 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-25-2022",
+   "path": "local/constanta/ciocarlia/2022/25",
+   "short": "HCL Ciocârlia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 25/2022 privind închierierea pașunei comunale, ce aparține domeniului privat al comunei Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/58730",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/58730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-28-2022",
+   "path": "local/constanta/ciocarlia/2022/28",
+   "short": "HCL Ciocârlia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 28/2022 privind aprobarea documentaţiei tehnico-economice, pentru obiectivul de investiţii „Înființare distribuție gaze naturale în Comuna Ciocârlia, Județul Constanțaˮ",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/58733",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/58733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-53-2022",
+   "path": "local/constanta/ciocarlia/2022/53",
+   "short": "HCL Ciocârlia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 53/2022 privind aprobarea participării la ”Programul (AFM) privind cresterea eficientei energetice a infrastructurii de iluminat public” cu Proiectul ''Cresterea eficientei energetice a sistemului de iluminat public în comuna CIOCÂRLIA, jud.CONSTANȚA”",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/75962",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/75962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-63-2022",
+   "path": "local/constanta/ciocarlia/2022/63",
+   "short": "HCL Ciocârlia nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 63/2022 privind aprobarea indicatorilor tehnico-economici, pentru investiția : Modernizare trotuare și amenajare piste de biciclete aferente drumurilor naționale și județene, din comuna Ciocârlia, județul Constanța",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/101541",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/101541",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,246 @@
  "shard": "local/constanta/cerchezu/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--cerchezu-13-2024",
+   "path": "local/constanta/cerchezu/2024/13",
+   "short": "HCL Cerchezu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 13/2024 privind aprobare a proiectului „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)” ȘI A CHELTUIELILOR LEGATE DE PROIECT",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/143272",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/143272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-14-2024",
+   "path": "local/constanta/cerchezu/2024/14",
+   "short": "HCL Cerchezu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 14/2024 privind aprobare a documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/143273",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/143273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-15-2024",
+   "path": "local/constanta/cerchezu/2024/15",
+   "short": "HCL Cerchezu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 15/2024 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici FAZA PT pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/143288",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/143288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-18-2024",
+   "path": "local/constanta/cerchezu/2024/18",
+   "short": "HCL Cerchezu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 18/2024 privind aprobarea sarbatoririi Zilei de 8 Martie -Ziua Femeii",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/147924",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/147924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-20-2024",
+   "path": "local/constanta/cerchezu/2024/20",
+   "short": "HCL Cerchezu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 20/2024 privind aprobarea proiectului „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)” și a cheltuielilor reactualizate legate de proiect",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/152603",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/152603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-21-2024",
+   "path": "local/constanta/cerchezu/2024/21",
+   "short": "HCL Cerchezu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 21/2024 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici reactualizati Faza SF pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/152604",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/152604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-22-2024",
+   "path": "local/constanta/cerchezu/2024/22",
+   "short": "HCL Cerchezu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 22/2024 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici reactualizati faza PT pentru proiectul „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/152605",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/152605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-23-2024",
+   "path": "local/constanta/cerchezu/2024/23",
+   "short": "HCL Cerchezu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 23/2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/152606",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/152606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-24-2024",
+   "path": "local/constanta/cerchezu/2024/24",
+   "short": "HCL Cerchezu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 24/2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/156471",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/156471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-25-2024",
+   "path": "local/constanta/cerchezu/2024/25",
+   "short": "HCL Cerchezu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 25/2024 privind alocarea din bugetul local a sumei de 30 000 lei, necesară pentru acordarea unor cadouri, elevilor şi preşcolarilor din cadrul unităţilor de învăţământ de pe raza comunei Cerchezu, jud. Constanţa, cu ocazia sarbătorilor Pascale si a zilei de 1 Iunie - Ziua Nationala a Copilului",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/156472",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/156472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-27-2024",
+   "path": "local/constanta/cerchezu/2024/27",
+   "short": "HCL Cerchezu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 27/2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/156474",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/156474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-32-2024",
+   "path": "local/constanta/cerchezu/2024/32",
+   "short": "HCL Cerchezu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 32/2024 privind aprobarea încheierii unui contract de comodat cu medicul de familie care solicită să deschidă un cabinet medical individual pe raza comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/161065",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/161065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-40-2024",
+   "path": "local/constanta/cerchezu/2024/40",
+   "short": "HCL Cerchezu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2024 privind aprobarea proiectului „Centrul de zi pentru copii aflaţi în situaţie de risc de separare de părinţi in comuna CERCHEZU, judetul CONSTANTA - (cod serviciu social 8891CZ-C-II)” și a cheltuielilor reactualizate legate de proiect",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/168930",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/168930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-45-2024",
+   "path": "local/constanta/cerchezu/2024/45",
+   "short": "HCL Cerchezu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 45/2024 privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din unitățile de învățământ de pe raza comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/172029",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/172029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-49-2024",
+   "path": "local/constanta/cerchezu/2024/49",
+   "short": "HCL Cerchezu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 49/2024 privind actualizarea indicatorilor tehnico-economici a lucrărilor de intervenții, precum și actualizarea devizului general pentru obiectivul de investiții \" MODERNIZARE INFRASTRUCTURA RUTIERA IN COMUNA CERCHEZU,LOCALITATILE VIROAGA, CASCIORELE SI CERCHEZU, JUD. CONSTANTA\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, ca urmare a incheierii contractelor de achizitie publica",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/175090",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/175090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-52-2024",
+   "path": "local/constanta/cerchezu/2024/52",
+   "short": "HCL Cerchezu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 52/2024 privind alegerea viceprimarului comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/177824",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/177824",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-54-2024",
    "path": "local/constanta/cerchezu/2024/54",
    "short": "HCL Cerchezu nr. 54/2024",

@@ -3,6 +3,36 @@
  "shard": "local/constanta/mihail-kogalniceanu/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-1-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/1",
+   "short": "HCL Mihail Kogălniceanu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 1/2026 privind acoperirea definitivă din excedentul bugetului local al comunei Mihail Kogălniceanu pe secțiunea de funcționare 31.12.2025",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253056",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-10-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/10",
+   "short": "HCL Mihail Kogălniceanu nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 10/2026 privind aprobarea Raportului privind activitatea desfasurată în semestrul II al anului 2025 de asistentii personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259217",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259217",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-100-2026",
    "path": "local/constanta/mihail-kogalniceanu/2026/100",
    "short": "HCL Mihail Kogălniceanu nr. 100/2026",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-11-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/11",
+   "short": "HCL Mihail Kogălniceanu nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 11/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale pe anul 2026, la nivelul comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259218",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259218",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-110-2026",
    "path": "local/constanta/mihail-kogalniceanu/2026/110",
    "short": "HCL Mihail Kogălniceanu nr. 110/2026",
@@ -283,6 +328,1011 @@
      "from": "2026-11-05",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/297807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-12-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/12",
+   "short": "HCL Mihail Kogălniceanu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 12/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială la nivelul comunei Mihail Kogălniceanu- anul 2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259219",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-14-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/14",
+   "short": "HCL Mihail Kogălniceanu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 14/2026 privind aprobarea Metodologiei de repartizare și facturare individuală a consumului de apă înregistrat la branșamentul condominiului precum și a Convenției-cadru de facturare individuală a consumurilor de apă și de canalizare",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259221",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-15-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/15",
+   "short": "HCL Mihail Kogălniceanu nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 15/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259222",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-16-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/16",
+   "short": "HCL Mihail Kogălniceanu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 16/2026 privind aprobarea Componentei integrale a Planului de selectie pentru selectia a 3 membri in Consiliul de Administratie al MK Paza si Protectie SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259223",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-17-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/17",
+   "short": "HCL Mihail Kogălniceanu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 17/2026 privind aprobarea depunerii și implementării proiectului cu titlul “Achizitie sisteme și instrumente inteligente destinate administrației publice locale, comuna Mihail Kogalniceanu, judetul Constanta”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259224",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-19-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/19",
+   "short": "HCL Mihail Kogălniceanu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 19/2026 privind stabilirea reprezentanților Consiliului Local Mihail Kogălniceanu în Comisia de aplicare a procedurilor de achiziție imobile, construcții și/sau terenuri, de către comuna Mihail Kogălniceanu potrivit Regulamentului aprobat prin Hotărârea Consiliului Local Mihail Kogălniceanu nr.29 din 28.02.2022",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259226",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-2-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/2",
+   "short": "HCL Mihail Kogălniceanu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 2/2026 privind acoperirea excedentului bugetului local al comunei Mihail Kogalniceanu la 31.12.2025 pentru acoperirea golului de casă",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253057",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-25-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/25",
+   "short": "HCL Mihail Kogălniceanu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 25/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263429",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-26-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/26",
+   "short": "HCL Mihail Kogălniceanu nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 26/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263430",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-27-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/27",
+   "short": "HCL Mihail Kogălniceanu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 27/2026 privind actualizarea devizului general si a indicatorilor economici pentru obiectivul de investiții „RENOVARE ENERGETICA MODERATA A CLADIRILOR REZIDENTIALE MULTIFAMILIALE DIN COMUNA MIHAIL KOGALNICEANU, JUD. CONSTANTA”, componenta bloc F1",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263431",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-28-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/28",
+   "short": "HCL Mihail Kogălniceanu nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 28/2026 privind actualizarea documentatiei tehnice, a devizului general si a indicatorilor economici pentru obiectivul de investiții „RENOVARE ENERGETICA MODERATA A CLADIRILOR REZIDENTIALE MULTIFAMILIALE DIN COMUNA MIHAIL KOGALNICEANU, JUD. CONSTANTA”, componenta bloc F9",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263432",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-29-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/29",
+   "short": "HCL Mihail Kogălniceanu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 29/2026 privind actualizarea devizului general si a indicatorilor economici pentru obiectivul de investiții „RENOVARE ENERGETICA MODERATA A CLADIRILOR REZIDENTIALE MULTIFAMILIALE DIN COMUNA MIHAIL KOGALNICEANU, JUD. CONSTANTA”, componenta bloc G10",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263433",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-3-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/3",
+   "short": "HCL Mihail Kogălniceanu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 3/2026 privind aprobarea contului de execuție și a indicatorilor aferenți execuției bugetului local al comunei Mihail Kogălniceanu, județul Constanța, la 31.12.2025",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253058",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-30-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/30",
+   "short": "HCL Mihail Kogălniceanu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 30/2026 privind aprobarea reorganizarii aparatului de specialitate al primarului comunei Mihail Kogalniceanu, judetul Constanta, a organigramei și a statului de funcții, conform prevederilor OUG nr.7/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263434",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/263434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-31-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/31",
+   "short": "HCL Mihail Kogălniceanu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 31/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264634",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-32-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/32",
+   "short": "HCL Mihail Kogălniceanu nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 32/2026 privind completarea inventarului domeniului privat al comunei Mihail Kogălniceanu cu un bunurile imobile (terenuri) situate în intravilanul și extravilanul UAT comuna Mihail Kogălniceanu, judeţul Constanţa",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264635",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-33-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/33",
+   "short": "HCL Mihail Kogălniceanu nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 33/2026 privind actualizarea devizului general si a indicatorilor economici pentru obiectivul de investiții „Renovare integrată a corpului de clădire C1, Liceul Teoretic Mihail Kogălniceanu, Comuna Mihail Kogalniceanu, județ Constanța”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264636",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-34-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/34",
+   "short": "HCL Mihail Kogălniceanu nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 34/2026 privind actualizarea documentatiei tehnico- economice, a devizului general si a indicatorilor economici pentru obiectivul de investiții „Renovare integrată a corpului de clădire C2, Liceul Teoretic Mihail Kogălniceanu, Comuna Mihail Kogalniceanu, județ Constanța”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264637",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/264637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-37-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/37",
+   "short": "HCL Mihail Kogălniceanu nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 37/2026 privind aprobarea a bugetului local consolidat al comunei Mihail Kogalniceanu, judetul Constanta pe anul 2026 și estimări pentru anii 2027-2029",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268590",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-38-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/38",
+   "short": "HCL Mihail Kogălniceanu nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 38/2026 privind aprobarea a bugetului de venituri si cheltuieli pentru anul 2026 al MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268591",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-39-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/39",
+   "short": "HCL Mihail Kogălniceanu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 39/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268592",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/268592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-5-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/5",
+   "short": "HCL Mihail Kogălniceanu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 5/2026 privind atribuirea de denumiri străzilor din comuna Mihail Kogălniceanu, Județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253060",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-50-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/50",
+   "short": "HCL Mihail Kogălniceanu nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 50/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273445",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-51-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/51",
+   "short": "HCL Mihail Kogălniceanu nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 51/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273446",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-52-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/52",
+   "short": "HCL Mihail Kogălniceanu nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 52/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273447",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-53-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/53",
+   "short": "HCL Mihail Kogălniceanu nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 53/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273448",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-54-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/54",
+   "short": "HCL Mihail Kogălniceanu nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 54/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273449",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/273449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-55-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/55",
+   "short": "HCL Mihail Kogălniceanu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 55/2026 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna iunie a anului 2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277129",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-56-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/56",
+   "short": "HCL Mihail Kogălniceanu nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 56/2026 privind completarea inventarului domeniului privat al comunei Mihail Kogălniceanu cu un bunurile imobile (terenuri) situate în extravilanul UAT comuna Mihail Kogălniceanu, judeţul Constanţa",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277130",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-57-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/57",
+   "short": "HCL Mihail Kogălniceanu nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 57/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277131",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-58-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/58",
+   "short": "HCL Mihail Kogălniceanu nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 58/2026 privind alocarea unei sume de bani din bugetul local al comunei Mihail Kogălniceanu pentru finanțarea cheltuielilor ocazionate de participarea trupei de dans ”THE FUTURE DANCE STUDIO” și a Ansamblului de dansuri ”FLORI DOBROGENE” la concursurile internaționale, precum și pentru alte activități cultural-educative organizate în cursul anului 2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277132",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-6-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/6",
+   "short": "HCL Mihail Kogălniceanu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 6/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253061",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/253061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-60-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/60",
+   "short": "HCL Mihail Kogălniceanu nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 60/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277134",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-61-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/61",
+   "short": "HCL Mihail Kogălniceanu nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 61/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277135",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-62-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/62",
+   "short": "HCL Mihail Kogălniceanu nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 62/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277136",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-63-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/63",
+   "short": "HCL Mihail Kogălniceanu nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 63/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277137",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-64-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/64",
+   "short": "HCL Mihail Kogălniceanu nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 64/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277138",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-65-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/65",
+   "short": "HCL Mihail Kogălniceanu nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 65/2026 privind aprobarea retragerii concesiunii si superficiei si rezilierea contractului de concesiune nr. 2/03.03.2015, contractelor de superficie nr. 1632/30.07.2015 si nr. 2401/23.11.2016-titular GREEN COUNTY SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277139",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-66-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/66",
+   "short": "HCL Mihail Kogălniceanu nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 66/2026 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții „Demolare și construire Școala nr. 1, localitatea Piatra, comuna Mihail Kogălniceanu, județul Constanța”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiții „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277741",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/277741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-67-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/67",
+   "short": "HCL Mihail Kogălniceanu nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 67/2026 privind aprobarea contului de execuție și a indicatorilor aferenți execuției bugetului local al comunei Mihail Kogălniceanu, județul Constanța, la data de 30.06.2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279711",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-68-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/68",
+   "short": "HCL Mihail Kogălniceanu nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 68/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279712",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-69-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/69",
+   "short": "HCL Mihail Kogălniceanu nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 69/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279713",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-70-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/70",
+   "short": "HCL Mihail Kogălniceanu nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 70/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279714",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/279714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-71-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/71",
+   "short": "HCL Mihail Kogălniceanu nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 71/2026 privind aprobarea Raportului privind activitatea desfasurată în semestrul I al anului 2026 de asistentii personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281555",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-73-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/73",
+   "short": "HCL Mihail Kogălniceanu nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 73/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281557",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-77-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/77",
+   "short": "HCL Mihail Kogălniceanu nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 77/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281561",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-79-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/79",
+   "short": "HCL Mihail Kogălniceanu nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 79/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281563",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-8-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/8",
+   "short": "HCL Mihail Kogălniceanu nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 8/2026 privind modificarea și completarea Hotărârii Consiliului Local Mihail Kogălniceanu nr. 176 din 31.12.2025 privind stabilirea nivelului impozitelor, taxelor locale și amenzilor aplicabile la nivelul comunei Mihail Kogalniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259215",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-80-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/80",
+   "short": "HCL Mihail Kogălniceanu nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 80/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281564",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-81-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/81",
+   "short": "HCL Mihail Kogălniceanu nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 81/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281565",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-82-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/82",
+   "short": "HCL Mihail Kogălniceanu nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 82/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281566",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-83-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/83",
+   "short": "HCL Mihail Kogălniceanu nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 83/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281567",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-84-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/84",
+   "short": "HCL Mihail Kogălniceanu nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 84/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281568",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-85-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/85",
+   "short": "HCL Mihail Kogălniceanu nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 85/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281569",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-86-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/86",
+   "short": "HCL Mihail Kogălniceanu nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 86/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281570",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-87-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/87",
+   "short": "HCL Mihail Kogălniceanu nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 87/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281571",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-88-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/88",
+   "short": "HCL Mihail Kogălniceanu nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 88/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281572",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/281572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-89-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/89",
+   "short": "HCL Mihail Kogălniceanu nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 89/2026 privind aprobarea rectificarii bugetului local al comunei Mihail Kogălniceanu, județul Constanţa, pe luna august a anului 2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/282899",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/282899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-9-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/9",
+   "short": "HCL Mihail Kogălniceanu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 9/2026 privind aprobarea Planului de acţiuni și lucrări de interes local pe anul 2026, pentru stabilirea activităților desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr. 196/2016 privind venitul minim de incluziune și de către părinții apți de muncă obligați la întreținerea copilului în condițiile stabilite de Codul civil",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259216",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/259216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-90-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/90",
+   "short": "HCL Mihail Kogălniceanu nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 90/2026 privind rectificarea a bugetului de venituri si cheltuieli pentru anul 2026 al MK PAZA SI PROTECTIE SRL",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/282900",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/282900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-91-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/91",
+   "short": "HCL Mihail Kogălniceanu nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 91/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286333",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-92-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/92",
+   "short": "HCL Mihail Kogălniceanu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 92/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor -cadru pentru achiziție de fructe și legume proaspete, lapte și produse lactate și de produse de panificație și a cotractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României, la nivel local, pentru perioada 2027-2029",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286334",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-93-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/93",
+   "short": "HCL Mihail Kogălniceanu nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 93/2026 privind aprobarea Studiului de Fezabilitate, a Devizului General și a indicatorilor tehnico-economici aferenți obiectivului de investiție „DEMOLARE TOTALĂ CONSTRUCȚIE EXISTENTĂ ȘI CONSTRUIRE IMOBIL CU FUNCȚIUNE ADMINISTRATIVĂ, CU REGIM DE ÎNĂLȚIME P+M” precum și a valorii totale a proiectului",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286335",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-94-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/94",
+   "short": "HCL Mihail Kogălniceanu nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 94/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286336",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-95-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/95",
+   "short": "HCL Mihail Kogălniceanu nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 95/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286337",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-96-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/96",
+   "short": "HCL Mihail Kogălniceanu nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 96/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286338",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-97-2026",
+   "path": "local/constanta/mihail-kogalniceanu/2026/97",
+   "short": "HCL Mihail Kogălniceanu nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 97/2026",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286339",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/286339",
      "sha256": null
     }
    ]

@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2010",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-107-2010",
+   "path": "local/arad/nadlac/2010/107",
+   "short": "HCL Nădlac nr. 107/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 107/2010 privind modificarea impozitelor aplicabile în anul fiscal 2010",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 6,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_107_-_2010.pdf",
+     "sha256": "1293adaf0b4620854163a0ebd7fbc5daae0a1eedc8989c4b9316f98203f10625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-110-2010",
+   "path": "local/arad/nadlac/2010/110",
+   "short": "HCL Nădlac nr. 110/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 110/2010 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare- epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-07-29",
+     "units": 5,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Iulie/hot_110_-_2010.pdf",
+     "sha256": "77db1537f26e2a6c7ba4d51c8ef94f5dfee977a4b15acc10cfcae1b6955f9ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2010",
+   "path": "local/arad/nadlac/2010/162",
+   "short": "HCL Nădlac nr. 162/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2010 privind aprobarea taxelor speciale aplicabile în anul fiscal 2011",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 12,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_162_-_2010.pdf",
+     "sha256": "ec80af377eba2efad96cf7dd64781f5c001ccb6e4160f67cfba7601b1177621c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-163-2010",
+   "path": "local/arad/nadlac/2010/163",
+   "short": "HCL Nădlac nr. 163/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 163/2010 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, precum şi a amenzilor aplicabile începând cu anul fiscal 2011",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_163_-_2010.pdf",
+     "sha256": "1439906ba2c903f4a5da5ede410233a685b6ccbeace0b6f90a325aab453b0fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-164-2010",
+   "path": "local/arad/nadlac/2010/164",
+   "short": "HCL Nădlac nr. 164/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 164/2010 privind încadrarea terenurilor pe zone în cadrul localităţii, în vederea stabilirii impozitului pentru contribuabilii care deţin în proprietate suprafeţe de teren ocupate de clădiri şi alte construcţii",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_164_-_2010.pdf",
+     "sha256": "0656b1d50f4c62ee9842300a7dd431a3a8afeccbee395a02a6869c10d8b534a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-166-2010",
+   "path": "local/arad/nadlac/2010/166",
+   "short": "HCL Nădlac nr. 166/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 166/2010 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare- epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_166_-_2010.pdf",
+     "sha256": "266e6baea3df44f6b4a5c2a601e8c9711ee066d893956ba2e87f9ef9390d204f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-170-2010",
+   "path": "local/arad/nadlac/2010/170",
+   "short": "HCL Nădlac nr. 170/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 170/2010 privind aprobarea măsurilor pentru îndepărtarea deficienţelor la normele de apărare împotriva incendiilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_170_-_2010.pdf",
+     "sha256": "edcec89c443133cdcb25b24d6ae7028c3adaac861e091d898cf4cc57745f8399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-173-2010",
+   "path": "local/arad/nadlac/2010/173",
+   "short": "HCL Nădlac nr. 173/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 173/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Decembrie/hot_173_-_2010.pdf",
+     "sha256": "5a99f59dbff1d22cd351b6820d7349bb62c3127ecf7618c61d696b48ea58ac4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2010",
+   "path": "local/arad/nadlac/2010/20",
+   "short": "HCL Nădlac nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2010 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare- epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 6,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_20_-_2010.pdf",
+     "sha256": "db8b6028490bc8ea4f180e984e96d99c2f15cbb067ec2255aaf21948b944c580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-35-2010",
+   "path": "local/arad/nadlac/2010/35",
+   "short": "HCL Nădlac nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 35/2010 privind interzicerea staţionării voluntare şi parcarea autovehiculelor cu o masă totală maximă autorizată mai mare de 3,5 t pe drumurile publice şi terenurile aparţinând domeniului public sau privat al oraşului Nădlac situate în intravilan",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 8,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Februarie/hot_35_-_2010.pdf",
+     "sha256": "02bb0b785d58bec33d5748d435c28af486d93af935df95aa335d74c352bae9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-70-2010",
+   "path": "local/arad/nadlac/2010/70",
+   "short": "HCL Nădlac nr. 70/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 70/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_70_-_2010.pdf",
+     "sha256": "702c2248a843988aa4798cd52264192caee8fe310ca66b33cc84b3c0326ef3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-71-2010",
+   "path": "local/arad/nadlac/2010/71",
+   "short": "HCL Nădlac nr. 71/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 71/2010 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare- epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 6,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Aprilie/hot_71_-_2010.pdf",
+     "sha256": "28cb20406bc353b26a6e36bc8f4be36ffbc8b68775a7208d29702e202b0c8f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-9-2010",
+   "path": "local/arad/nadlac/2010/9",
+   "short": "HCL Nădlac nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 9/2010 privind aprobarea Regulamentului Serviciului Centrului de zi de îngrijire a copiilor Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2010-2/",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2010/Ianuarie/hot_9_-_2010.pdf",
+     "sha256": "3f3f142169fcfebee9a1cd360ebde42a3be2792b1ea09a7fe76adbce599cf2d3"
+    }
+   ]
+  }
+ ]
+}

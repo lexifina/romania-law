@@ -3,6 +3,51 @@
 "shard": "local/constanta/baneasa/2025",
 "acts": [
 {
+"slug": "hcl-constanta--baneasa-42-2025",
+"path": "local/constanta/baneasa/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 42/2025 Privind aprobarea Regulamentului privind desfășurarea de activități de comercializare a produselor și serviciilor de piață, procedurii și metodologiei de eliberare a Acordului și a Avizului orar de funcționare, procedura de eliberare anuală a Autorizației privind desfășurarea activității de alimentație publică / acord pentru terasă, a Regulamentului pentru eliberarea anuală a autorizației privind desfășurarea activităților recreative și distractive precum și a Regulamentului de ocupare temporară a locurilor publice ce aparțin domeniului public sau privat al Comunei Băneasa",
+"short": "HCL Băneasa nr. 42/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/213350",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-43-2025",
+"path": "local/constanta/baneasa/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 43/2025",
+"short": "HCL Băneasa nr. 43/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/213351",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-66-2025",
 "path": "local/constanta/baneasa/2025/66",
 "kind": "local",

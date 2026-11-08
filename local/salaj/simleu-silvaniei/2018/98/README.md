@@ -1,0 +1,22 @@
+# Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 98/2018 privind completarea Anexei la Hotărârea Consiliului Local nr. 47/1999 Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică în data de 30 august 2018; Având în vedere Expunerea de motive nr. 11679/2018 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 11680/2018 al Administratorului public și Avizul Comisiei pentru amenajarea teritoriului și urbanism, adminis
+
+HCL Șimleu Silvaniei nr. 98/2018 · 1 versions, from 2018-08-30 (latest in force: 2018-08-30) · <https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/page/33/>
+
+**Status:** Published as the council published it; later amendments or repeal, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Preambul | [preambul.md](preambul.md) | 0 |  |
+
+Act id: `hcl-salaj--simleu-silvaniei-98-2018` (tags `hcl-salaj--simleu-silvaniei-98-2018/<day>`; `python tools/on.py <day> hcl-salaj--simleu-silvaniei-98-2018`).
+
+## Decisions made by hand
+
+- HCL Șimleu Silvaniei nr. 98/2018: added from Consiliul Local al Orașului Șimleu Silvaniei (www.simleusilvaniei.ro): the decision as the council published it (https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/page/33/), its text read from the PDF's own text layer (PDF sha256 90e7f4cf372af98b8e94b91b4b81268ebc23bf5b9a802087408a674675205d77). Whether later decisions amended or repealed it has not yet been checked; amendments, if any, are not applied here.
+- HCL Șimleu Silvaniei nr. 98/2018: built by Lexifina with the default rules for a council decision: the letterhead, page numbers, the signatures and the register number and date after the adoption formula are not text; lines are joined into paragraphs, one per line; no word of the body is lost or added.
+- HCL Șimleu Silvaniei nr. 98/2018: in force from 30 August 2018, the day it was adopted (the register gives no later day of publication).
+- HCL Șimleu Silvaniei nr. 98/2018: screened before publishing for natural persons' names, personal numerical codes and home addresses; none was found in the text published.

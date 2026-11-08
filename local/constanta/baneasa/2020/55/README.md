@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Băneasa nr. 55/2020 Privind aprobarea indicatorilor tehnico-economici şi a documentaţiei tehnico-economice a obiectivului de investiţie pentru lucrarea publică „ÎMBUNĂTĂȚIREA EFICIENȚEI ENERGETICE LA CLADIREA PRIMĂRIEI ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA”, faza de proiectare Documentația de Avizare a Lucrarilor de Interventii (DALI), în vederea depunerii spre finanţare prin Programul Operațional Regional 2014 – 2020, Axa Prioritară 3 – „Prioritatea de investitii 3.1.,Componenta B - Cladiri publice”
+
+HCL Băneasa nr. 55/2020 · 1 versions, from 2020-08-06 (latest in force: 2020-08-06) · <https://emol.ro/baneasa-ct/registru-hcl/7324>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-constanta--baneasa-55-2020` (tags `hcl-constanta--baneasa-55-2020/<day>`; `python tools/on.py <day> hcl-constanta--baneasa-55-2020`).
+
+## Decisions made by hand
+
+- HCL Băneasa nr. 55/2020: listed from Consiliul Local al Comunei Băneasa (emol.ro); metadata only for now: no document of it is held.
+- HCL Băneasa nr. 55/2020: dated from 6 August 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Băneasa nr. 55/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

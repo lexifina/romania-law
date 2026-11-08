@@ -3,6 +3,21 @@
  "shard": "local/salaj/simleu-silvaniei/2020",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-11-2020",
+   "path": "local/salaj/simleu-silvaniei/2020/11",
+   "short": "HCL Șimleu Silvaniei nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 11/2020 pentru modificarea anexelor la Hotărârea Consiliului Local nr. 82/31.08.2017 Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică în data de 18 februarie 2020; Având în vedere Referatul de aprobare nr. 2261/2020 al Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 2262/2020 al Administratorului public și Avizul Comisiei pentru amenajarea teritoriului și urbani",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/page/10/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2020/02/HCL-nr.-11-din-18.02.2020.pdf",
+     "sha256": "4db891c922e2a61e8d4a4f7d8b90fa23c68cfdd1e700f4599927bb09d9dcda43"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-90-2020",
    "path": "local/salaj/simleu-silvaniei/2020/90",
    "short": "HCL Șimleu Silvaniei nr. 90/2020",

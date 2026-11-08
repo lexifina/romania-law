@@ -3,6 +3,36 @@
  "shard": "local/salaj/simleu-silvaniei/2011",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-33-2011",
+   "path": "local/salaj/simleu-silvaniei/2011/33",
+   "short": "HCL Șimleu Silvaniei nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 33/2011 privind aprobarea unei taxe locale Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 31 martie 2011; Având în vedere Expunerea de motive nr.3839/2011 a Primarului orașului, Raportul de specialitate nr.3840/2011 al Secretarului orașului și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultur",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2011/page/8/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_033_31032011.pdf",
+     "sha256": "1de0546b06a02895d11f8e0d3c5f19f6fce0c19b0855b5d69903b42f3db928e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-41-2011",
+   "path": "local/salaj/simleu-silvaniei/2011/41",
+   "short": "HCL Șimleu Silvaniei nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 41/2011 privind atestarea apartenenței unui imobil la domeniul privat al orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință ordinară în data de 31 martie 2011; Având în vedere: - Expunerea de motive nr.3774/2011 a Primarului orașului - Raportul de specialitate nr.3775/2011 al Secretarului orașului - Avizul Comisiei pentru amenajarea teritoriului și u",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2011/page/7/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_041_31032011.pdf",
+     "sha256": "366756de339d46c9397172966a7981adc99d152d6add474e7f22d6688b0cd3cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-61-2011",
    "path": "local/salaj/simleu-silvaniei/2011/61",
    "short": "HCL Șimleu Silvaniei nr. 61/2011",

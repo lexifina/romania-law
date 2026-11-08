@@ -317,6 +317,119 @@
 "text_pending": "ocr",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-tulcea--sulina-108-2018",
+"path": "local/tulcea/sulina/2018/108",
+"kind": "local",
+"year": "2018",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 108/2018",
+"short": "HCL Sulina nr. 108/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-10-30",
+"latest": "2018-10-30",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-116-2018",
+"path": "local/tulcea/sulina/2018/116",
+"kind": "local",
+"year": "2018",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 116/2018",
+"short": "HCL Sulina nr. 116/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-11-29",
+"latest": "2018-11-29",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-119-2018",
+"path": "local/tulcea/sulina/2018/119",
+"kind": "local",
+"year": "2018",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 119/2018 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2019",
+"short": "HCL Sulina nr. 119/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-121-2018",
+"path": "local/tulcea/sulina/2018/121",
+"kind": "local",
+"year": "2018",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 121/2018 privind stabilirea taxelor pentru activitatea auto-finanțată „Piață“ pentru anul 2019",
+"short": "HCL Sulina nr. 121/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-126-2018",
+"path": "local/tulcea/sulina/2018/126",
+"kind": "local",
+"year": "2018",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 126/2018",
+"short": "HCL Sulina nr. 126/2018",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2017",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-131-2017",
+   "path": "local/arad/nadlac/2017/131",
+   "short": "HCL Nădlac nr. 131/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h131.pdf",
+     "sha256": "d64c61ce3d17b4ef0fb3765f3fd8e6ba5d8d8400db9ec4b3eb77d323d0b2ffde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-152-2017",
+   "path": "local/arad/nadlac/2017/152",
+   "short": "HCL Nădlac nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h152.pdf",
+     "sha256": "f1c1a14d6ea1d29b572ee2fe6f404d27face18416775729eb7b88c6c980cd486"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-162-2017",
+   "path": "local/arad/nadlac/2017/162",
+   "short": "HCL Nădlac nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h162.pdf",
+     "sha256": "be0aecef74d491ddf555f6166e746c4bdc35b810593c1deeeb0ba82f38587b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-168-2017",
+   "path": "local/arad/nadlac/2017/168",
+   "short": "HCL Nădlac nr. 168/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h168.pdf",
+     "sha256": "98b382b799e934b204861b0c947a9cbf7a1a0a84b75306391aedb9b358ec379e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-169-2017",
+   "path": "local/arad/nadlac/2017/169",
+   "short": "HCL Nădlac nr. 169/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2017 privind aprobarea taxei speciale de salubrizare datorată de persoanele fizice şi juridice pentru perioada 23.04.2018-30.12.2018",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h169.pdf",
+     "sha256": "9dced934b6d88032bf0e6d6e39914b4444b02164e004d95296f387fdfe65f84e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-173-2017",
+   "path": "local/arad/nadlac/2017/173",
+   "short": "HCL Nădlac nr. 173/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 173/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h173.pdf",
+     "sha256": "7d835a755f4168e8e51f349ae5eec74380f737ca6b7ea68bce8846274efacaa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-39-2017",
+   "path": "local/arad/nadlac/2017/39",
+   "short": "HCL Nădlac nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2017 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul fiscal 2018",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h39.pdf",
+     "sha256": "1832988caca79e01480137f17447985704f02f70dcc29f428c6c5d4841d32fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2017",
+   "path": "local/arad/nadlac/2017/40",
+   "short": "HCL Nădlac nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2017 privind aprobarea taxelor speciale aplicabile în anul fiscal 2018",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-04-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h40.pdf",
+     "sha256": "c9f7fb6dd654f53f1a017f665e880214f811f66ba74e9f09dd23ffd1ced2bdce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-52-2017",
+   "path": "local/arad/nadlac/2017/52",
+   "short": "HCL Nădlac nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2017 privind reorganizarea Comisiei locale de ordine publică la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-05-23",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h52.pdf",
+     "sha256": "8b1b6e949d7eca4c88772db553fc12c3f202927656db4a22f8991736d9e56692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-76-2017",
+   "path": "local/arad/nadlac/2017/76",
+   "short": "HCL Nădlac nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h76.pdf",
+     "sha256": "71a10e358f363c82ef4e7edaf983db4eda5b70a5ee46f653795710deff8d50df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2017",
+   "path": "local/arad/nadlac/2017/83",
+   "short": "HCL Nădlac nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+   "versions": [
+    {
+     "from": "2017-07-24",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2017/h83.pdf",
+     "sha256": "3f00f964580dee594a4a62fe51a607f2f5764fdb6b70ccce64b7d975cbc45301"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,28 @@
 "shard": "local/constanta/ghindaresti/2023",
 "acts": [
 {
+"slug": "hcl-constanta--ghindaresti-22-2023",
+"path": "local/constanta/ghindaresti/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghindărești nr. 22/2023 privind modificarea tarifelor pentru activitatile de colectare separata, transport separate si tratare a deseurilor similare generate de catre agentii economici si/sau institutiile publice care isi desfasoara activitatea in aria de administrare a Unitatii Administrativ Teritoriale Comuna Ghindaresti",
+"short": "HCL Ghindărești nr. 22/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/ghindaresti-ct/registru-hcl/120358",
+"council": "constanta/ghindaresti",
+"council_name": "Consiliul Local al Comunei Ghindărești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--ghindaresti-57-2023",
 "path": "local/constanta/ghindaresti/2023/57",
 "kind": "local",

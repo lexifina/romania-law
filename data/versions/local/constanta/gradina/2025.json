@@ -3,6 +3,171 @@
  "shard": "local/constanta/gradina/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-11-2025",
+   "path": "local/constanta/gradina/2025/11",
+   "short": "HCL Grădina nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 11/2025 privind modificarea punctului 1 al Anexei a Hotărârii Consiliului Local nr.51/17.12.2024, al comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/192837",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/192837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-15-2025",
+   "path": "local/constanta/gradina/2025/15",
+   "short": "HCL Grădina nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 15/2025 privind aprobarea Contului anual de execuție al bugetului local de venituri și cheltuieli al comunei Grădina, județul Constanța, pe anul 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/198990",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/198990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-17-2025",
+   "path": "local/constanta/gradina/2025/17",
+   "short": "HCL Grădina nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 17/2025 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Grădina, județul Constanța, pentru anul 2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/198992",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/198992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-20-2025",
+   "path": "local/constanta/gradina/2025/20",
+   "short": "HCL Grădina nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 20/2025 privind aprobarea evenimentelor cultural-artistice, sportive, sociale și educative organizate în anul 2025 elevilor din cadrul Școlii Gimnaziale Nr.1 Grădina, comuna Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/198995",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/198995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-21-2025",
+   "path": "local/constanta/gradina/2025/21",
+   "short": "HCL Grădina nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 21/2025 privind aprobarea evenimentelor social-cultural-artistice adresate comunităţii locale care se vor desfășura în comuna Grădina, județul Constanța, în anul 2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/198996",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/198996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-23-2025",
+   "path": "local/constanta/gradina/2025/23",
+   "short": "HCL Grădina nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 23/2025 privind aprobarea acordării de pachete în anul 2025 elevilor din cadrul Școlii Gimnaziale Nr.1 Grădina, comuna Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/203373",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/203373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-25-2025",
+   "path": "local/constanta/gradina/2025/25",
+   "short": "HCL Grădina nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 25/2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/203375",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/203375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-26-2025",
+   "path": "local/constanta/gradina/2025/26",
+   "short": "HCL Grădina nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 26/2025 privind modificare organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Grădina, județul Constanța, pentru anul 2025",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/203376",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/203376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-38-2025",
+   "path": "local/constanta/gradina/2025/38",
+   "short": "HCL Grădina nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 38/2025 privind aprobarea Planului de gestionare a disconfortului olfactiv pe raza comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/214344",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/214344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-4-2025",
+   "path": "local/constanta/gradina/2025/4",
+   "short": "HCL Grădina nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 4/2025 privind aprobarea organizării de către Asociația Activ Pontica în data de 12 - 13 aprilie 2025 în zona Cheilor Dobrogei și Casian, județul Constanța a competiției sportive ,, Maratonul Argonauților,,",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/188785",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/188785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-40-2025",
+   "path": "local/constanta/gradina/2025/40",
+   "short": "HCL Grădina nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 40/2025 privind reglementarea creșterii și întreținerii animalelor domestice pe raza comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/218919",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/218919",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-49-2025",
    "path": "local/constanta/gradina/2025/49",
    "short": "HCL Grădina nr. 49/2025",

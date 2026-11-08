@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2016",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-156-2016",
+   "path": "local/arad/nadlac/2016/156",
+   "short": "HCL Nădlac nr. 156/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2016 privind aprobarea nivelurilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul 2017",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h156.pdf",
+     "sha256": "e7ab9f359bd0b074bae40d6016316e9f8a2d647e0e33333a6723ceeaad0cdc5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-157-2016",
+   "path": "local/arad/nadlac/2016/157",
+   "short": "HCL Nădlac nr. 157/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2016 privind aprobarea taxelor speciale aplicabile în anul fiscal 2017",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h157.pdf",
+     "sha256": "160f395ca3d4d48850ef07b6892cec4dbaa3692c66536500a17748b40f15736d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-160-2016",
+   "path": "local/arad/nadlac/2016/160",
+   "short": "HCL Nădlac nr. 160/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2016 privind aprobarea măsurilor pentru remedierea deficiențelor la normele de apărare împotriva incendiilor constatate la nivelul orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h160.pdf",
+     "sha256": "9ba0ceb53463a54cdecae446941c8a2970fadf88a50cdac34fa637e26096640f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-17-2016",
+   "path": "local/arad/nadlac/2016/17",
+   "short": "HCL Nădlac nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2016 privind aprobarea scutirilor şi facilităţilor fiscale la plata impozitelor şi taxelor locale şi a procedurilor de acordare a acestora pe raza oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h17.pdf",
+     "sha256": "496463f573861a83348ac60cf6a329bda0c7530e0f7b3a56879a9dd163f00652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-20-2016",
+   "path": "local/arad/nadlac/2016/20",
+   "short": "HCL Nădlac nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2016 privind actualizarea Regulamentului privind organizarea şi funcţionarea Serviciului Public Comunitar Local de Evidenţă a Persoanelor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h20.pdf",
+     "sha256": "76e2ba1e24c9364647a240637379858b8baee87a41effac0392326238453c9a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-61-2016",
+   "path": "local/arad/nadlac/2016/61",
+   "short": "HCL Nădlac nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2016 privind aprobarea scutirii de la plata impozitului pe clădiri proprietatea Asociației Diakonia Evanghelică Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h61.pdf",
+     "sha256": "8dcbb8be6c876b03fe5599b0e16d9f4af607d5cb686447ef5514b099fa3c3c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-83-2016",
+   "path": "local/arad/nadlac/2016/83",
+   "short": "HCL Nădlac nr. 83/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2016 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h83.pdf",
+     "sha256": "d56cec518e6fd29befd4e42bf66b1da6b61e0a4e1b97819ea2a0c606668405cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-87-2016",
+   "path": "local/arad/nadlac/2016/87",
+   "short": "HCL Nădlac nr. 87/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-07-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2016/h87.pdf",
+     "sha256": "6b7350f50caebd0f09c4a8f9f20e54899b621b64d8a95690ab663831eeb6114b"
+    }
+   ]
+  }
+ ]
+}

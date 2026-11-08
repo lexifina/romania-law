@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2015",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-1-2015",
+   "path": "local/covasna/covasna/2015/1",
+   "short": "HCL Covasna nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 1/2015 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2015",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 5,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2015/hcl1-9.pdf",
+     "sha256": "20932ca5bbc4d529f331a3f0f382525b9c497d349946fadb824776287acbb7df"
+    }
+   ]
+  }
+ ]
+}

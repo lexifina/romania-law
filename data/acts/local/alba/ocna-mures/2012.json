@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2012",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-13-2012",
+"path": "local/alba/ocna-mures/2012/13",
+"kind": "local",
+"year": "2012",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 13/2012 privind aprobarea reducerii impozitului aferent anului 2012 pentru cladirile si terenurile pe care le detin, datorat de catre … dimensiune fișier: 108,97 KB | 13.02.2012",
+"short": "HCL Ocna Mureș nr. 13/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-02-13",
+"latest": "2012-02-13",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-20-2012",
+"path": "local/alba/ocna-mures/2012/20",
+"kind": "local",
+"year": "2012",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 20/2012 privind aprobarea reducerii impozitului aferent anului 2012, pentru cladirile si terenurile pe care le detin, datorat de catre … dimensiune fișier: 102,51 KB | 29.02.2012",
+"short": "HCL Ocna Mureș nr. 20/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-22-2012",
+"path": "local/alba/ocna-mures/2012/22",
+"kind": "local",
+"year": "2012",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 22/2012 privind aprobarea Regulamentului privind organizarea si executarea serviciului public de transport persoane in regim de … dimensiune fișier: 98,75 KB | 29.02.2012",
+"short": "HCL Ocna Mureș nr. 22/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-29-2012",
+"path": "local/alba/ocna-mures/2012/29",
+"kind": "local",
+"year": "2012",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 29/2012 privind reducerea impozitului datorat pe anul 2012, pentru cladirile si terenurile ce le detin, de catre contribuabilii … dimensiune fișier: 101,80 KB | 20.03.2012",
+"short": "HCL Ocna Mureș nr. 29/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-03-20",
+"latest": "2012-03-20",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-115-2012",
+"path": "local/alba/ocna-mures/2012/115",
+"kind": "local",
+"year": "2012",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 115/2012 privind aprobarea noilor taxe si impozite locale ce se vor aplica în anul fiscal 2013 la nivelul Orașului Ocna Mureș dimensiune fișier: 126,11 KB | 30.08.2012",
+"short": "HCL Ocna Mureș nr. 115/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-08-30",
+"latest": "2012-08-30",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-131-2012",
+"path": "local/alba/ocna-mures/2012/131",
+"kind": "local",
+"year": "2012",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 131/2012 privind aprobarea unui Regulament pentru acreditarea ziaristilor la Primaria Orașului Ocna Mureș dimensiune fișier: 126 KB | 27.09.2012",
+"short": "HCL Ocna Mureș nr. 131/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-27",
+"latest": "2012-09-27",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-137-2012",
+"path": "local/alba/ocna-mures/2012/137",
+"kind": "local",
+"year": "2012",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 137/2012 privind aprobarea documentaţiei “Plan Urbanistic Zonal – Locuinţe individuale, loc",
+"short": "HCL Ocna Mureș nr. 137/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-09-27",
+"latest": "2012-09-27",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-141-2012",
+"path": "local/alba/ocna-mures/2012/141",
+"kind": "local",
+"year": "2012",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 141/2012 privind aprobarea achizitiei Lucrari de marcaj rutier, cod CPV 45233221-4-lucrari de marcaj rutier prin procedura achizitie directa, criteriul de atribuire fiind pretul cel mai scazut, aprobarea caietului de sarcini al achizitiei lucrari de marcaj rutier cod CPV 45233221-4-lucrari de marcaj rutier si aprobarea comisiei de evaluare a ofertelor dimensiune fișier: 128 KB | 27.09.2012",
+"short": "HCL Ocna Mureș nr. 141/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-27",
+"latest": "2012-09-27",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-153-2012",
+"path": "local/alba/ocna-mures/2012/153",
+"kind": "local",
+"year": "2012",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 153/2012 pentru modificarea şi completarea anexei Hotărârii nr. 131/27.09.2012 privind aprobarea Regulamentului pentru acreditarea ziariştilor la Primăria oraşului Ocna Mureş dimensiune fișier: 161 KB | 07.10.2012",
+"short": "HCL Ocna Mureș nr. 153/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-10-25",
+"latest": "2012-10-25",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-alba--ocna-mures-167-2012",
+"path": "local/alba/ocna-mures/2012/167",
+"kind": "local",
+"year": "2012",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 167/2012 privind aprobarea procedurii de acordare a reducerilor de la plata impozitului pe clădiri sau terenuri, pentru anul 2013 de care vor beneficia persoanele fizice îndreptăţite” dimensiune fișier: 154 KB | 29.11.2012",
+"short": "HCL Ocna Mureș nr. 167/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-11-29",
+"latest": "2012-11-29",
+"portal": "https://www.primariaocnamures.ro/hotarari-ale-consiliului-local-ocna-mures-din-anul-2012/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

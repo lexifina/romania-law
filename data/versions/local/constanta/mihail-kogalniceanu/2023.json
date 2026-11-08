@@ -3,6 +3,66 @@
  "shard": "local/constanta/mihail-kogalniceanu/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--mihail-kogalniceanu-107-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/107",
+   "short": "HCL Mihail Kogălniceanu nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 107/2023 privind schimbarea de denumiri unor străzi situate în comuna Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120314",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-108-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/108",
+   "short": "HCL Mihail Kogălniceanu nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 108/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120315",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-109-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/109",
+   "short": "HCL Mihail Kogălniceanu nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 109/2023 privind aprobarea alipirii terenului intravilan în suprafață de 250,00 mp, situat în comuna Mihail Kogălniceanu, strada Proiectată B, Lot 11, cu terenul intravilan în suprafață de 115,00 mp, situat în comuna Mihail Kogălniceanu, Lot 12, imobile aparținând domeniului privat al comunei Mihail Kogălniceanu, județul Constanța",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120316",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-111-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/111",
+   "short": "HCL Mihail Kogălniceanu nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 111/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120318",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/120318",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihail-kogalniceanu-177-2023",
    "path": "local/constanta/mihail-kogalniceanu/2023/177",
    "short": "HCL Mihail Kogălniceanu nr. 177/2023",
@@ -298,6 +358,156 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/137624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-25-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/25",
+   "short": "HCL Mihail Kogălniceanu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 25/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96055",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-26-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/26",
+   "short": "HCL Mihail Kogălniceanu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 26/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96056",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-27-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/27",
+   "short": "HCL Mihail Kogălniceanu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 27/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96057",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-28-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/28",
+   "short": "HCL Mihail Kogălniceanu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 28/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96058",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-29-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/29",
+   "short": "HCL Mihail Kogălniceanu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 29/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96059",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-30-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/30",
+   "short": "HCL Mihail Kogălniceanu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 30/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96060",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-31-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/31",
+   "short": "HCL Mihail Kogălniceanu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 31/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96061",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/96061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-70-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/70",
+   "short": "HCL Mihail Kogălniceanu nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 70/2023 privind alocarea sumei de 25.000 lei pentru organizarea și desfășurarea evenimentului luptelor tradiționale tătărești ”KURES”-2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/105873",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/105873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-98-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/98",
+   "short": "HCL Mihail Kogălniceanu nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 98/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/113414",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/113414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihail-kogalniceanu-99-2023",
+   "path": "local/constanta/mihail-kogalniceanu/2023/99",
+   "short": "HCL Mihail Kogălniceanu nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 99/2023",
+   "url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/113415",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/113415",
      "sha256": null
     }
    ]

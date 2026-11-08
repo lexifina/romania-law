@@ -3,6 +3,201 @@
  "shard": "local/constanta/aliman/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--aliman-11-2024",
+   "path": "local/constanta/aliman/2024/11",
+   "short": "HCL Aliman nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 11/2024 privind aprobarea programului cu manifestările cultural-artistice, sportive, religioase, sociale și educative ce se desfășoară în comuna Aliman în anul 2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197158",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-13-2024",
+   "path": "local/constanta/aliman/2024/13",
+   "short": "HCL Aliman nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 13/2024 privind aprobarea programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială din comuna Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197170",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-14-2024",
+   "path": "local/constanta/aliman/2024/14",
+   "short": "HCL Aliman nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 14/2024 privind aprobarea Actului adițional nr. 2/2024 și a Actului adițional nr. 3/2024 la Contractul de achiziție publică de servicii privind „Delegarea gestiunii unor activități componenta ale Serviciului public de salubrizare în Comuna Aliman” nr. 6818/06.12.2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197171",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-15-2024",
+   "path": "local/constanta/aliman/2024/15",
+   "short": "HCL Aliman nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 15/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197172",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-16-2024",
+   "path": "local/constanta/aliman/2024/16",
+   "short": "HCL Aliman nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 16/2024 privind aprobarea documentației de atribuire a contractului de delegare a gestiunii serviciului de iluminat public din Comuna Aliman, Județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197173",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-17-2024",
+   "path": "local/constanta/aliman/2024/17",
+   "short": "HCL Aliman nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 17/2024 privind aprobarea regulamentului privind procedura de aliberare a avizului pentru programul de funcționare și/sau a autorizației de funcționare pentru desfășurarea activităților comerciale pe raza comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197174",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-24-2024",
+   "path": "local/constanta/aliman/2024/24",
+   "short": "HCL Aliman nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 24/2024 privind aprobarea achiziționării devizului general, faza Proiect Tehnic Execuție, pentru obiectivul de investiții „Modernizare străzi în satele Aliman și Dunăreni, județul Constanța”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197212",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-31-2024",
+   "path": "local/constanta/aliman/2024/31",
+   "short": "HCL Aliman nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 31/2024 privind aprobarea proiectului tehnic aferent obiectivului de lucrări „Întreținere drum comunal DC 51 Aliman-Dunăreni, comuna Aliman, județul Constanța”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197243",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-32-2024",
+   "path": "local/constanta/aliman/2024/32",
+   "short": "HCL Aliman nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 32/2024 privind aprobarea proiectului tehnic aferent obiectivului de lucrări „Întreținere străzi pietruite localitatea Vlahii, comuna Aliman, județul Constanța”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197253",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-34-2024",
+   "path": "local/constanta/aliman/2024/34",
+   "short": "HCL Aliman nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 34/2024 privind demararea implementării unui program de salubrizare în comuna Aliman, denumit „CURĂȚENIE GENERALĂ ÎN COMUNA ALIMAN, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197255",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-36-2024",
+   "path": "local/constanta/aliman/2024/36",
+   "short": "HCL Aliman nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 36/2024 privind aprobarea proiectului tehnic aferent obiectivului de lucrări „Întreținere drum comunal DC 51 (km 6+500-km 8+000), comuna Aliman, județul Constanța”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197261",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-39-2024",
+   "path": "local/constanta/aliman/2024/39",
+   "short": "HCL Aliman nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 39/2024",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197275",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-40-2024",
+   "path": "local/constanta/aliman/2024/40",
+   "short": "HCL Aliman nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 40/2024 privind modificarea Hotărârii Consiliului Local Aliman nr. 50 din 31 octombrie 2023 privind aprobarea activităților de tăiere și valorificare a arborilor situați pe marginea drumului comunal DC 51 Aliman-Dunăreni care pun în pericol circulația rutieră",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197278",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-58-2024",
    "path": "local/constanta/aliman/2024/58",
    "short": "HCL Aliman nr. 58/2024",

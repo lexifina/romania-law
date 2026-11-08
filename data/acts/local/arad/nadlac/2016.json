@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2016",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-17-2016",
+"path": "local/arad/nadlac/2016/17",
+"kind": "local",
+"year": "2016",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 17/2016 privind aprobarea scutirilor şi facilităţilor fiscale la plata impozitelor şi taxelor locale şi a procedurilor de acordare a acestora pe raza oraşului Nădlac",
+"short": "HCL Nădlac nr. 17/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-02-29",
+"latest": "2016-02-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-20-2016",
+"path": "local/arad/nadlac/2016/20",
+"kind": "local",
+"year": "2016",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 20/2016 privind actualizarea Regulamentului privind organizarea şi funcţionarea Serviciului Public Comunitar Local de Evidenţă a Persoanelor",
+"short": "HCL Nădlac nr. 20/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-02-29",
+"latest": "2016-02-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-61-2016",
+"path": "local/arad/nadlac/2016/61",
+"kind": "local",
+"year": "2016",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 61/2016 privind aprobarea scutirii de la plata impozitului pe clădiri proprietatea Asociației Diakonia Evanghelică Nădlac",
+"short": "HCL Nădlac nr. 61/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-05-26",
+"latest": "2016-05-26",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-83-2016",
+"path": "local/arad/nadlac/2016/83",
+"kind": "local",
+"year": "2016",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2016 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+"short": "HCL Nădlac nr. 83/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-07-22",
+"latest": "2016-07-22",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-87-2016",
+"path": "local/arad/nadlac/2016/87",
+"kind": "local",
+"year": "2016",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 87/2016",
+"short": "HCL Nădlac nr. 87/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-07-22",
+"latest": "2016-07-22",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-156-2016",
+"path": "local/arad/nadlac/2016/156",
+"kind": "local",
+"year": "2016",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 156/2016 privind aprobarea nivelurilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul 2017",
+"short": "HCL Nădlac nr. 156/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-157-2016",
+"path": "local/arad/nadlac/2016/157",
+"kind": "local",
+"year": "2016",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2016 privind aprobarea taxelor speciale aplicabile în anul fiscal 2017",
+"short": "HCL Nădlac nr. 157/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-160-2016",
+"path": "local/arad/nadlac/2016/160",
+"kind": "local",
+"year": "2016",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 160/2016 privind aprobarea măsurilor pentru remedierea deficiențelor la normele de apărare împotriva incendiilor constatate la nivelul orașului Nădlac",
+"short": "HCL Nădlac nr. 160/2016",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2016-12-29",
+"latest": "2016-12-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2016-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

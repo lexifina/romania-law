@@ -3,6 +3,231 @@
  "shard": "local/constanta/ciocarlia/2026",
  "acts": [
   {
+   "slug": "hcl-constanta--ciocarlia-15-2026",
+   "path": "local/constanta/ciocarlia/2026/15",
+   "short": "HCL Ciocârlia nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 15/2026 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli pe trimestrul IV al anului 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/264769",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/264769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-17-2026",
+   "path": "local/constanta/ciocarlia/2026/17",
+   "short": "HCL Ciocârlia nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 17/2026 privind aprobarea încheierii contractului de uz, servitute, utilizare, acces și consolidare a unor drumuri de exploatare agricolă, respectiv: De 49 (nr. cadastral 105682) și De 62 tronson 2 (nr. caastral 105683) ce aparțin domeniului public al Comunei Ciocârlia, județul Constanța, cu titlul oneros pentru obiectivul de investiții „COMPLETARE LINIE RACORD LA TRASEUL DE CABLU ELECTRIC SUBTERAN 400 KV PEȘTERA 2-MEDGIDIA SUD” în favoarea SC RADRAMO POWER SRL",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/264778",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/264778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-19-2026",
+   "path": "local/constanta/ciocarlia/2026/19",
+   "short": "HCL Ciocârlia nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 19/2026 privind aprobarea bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2026 al UAT Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269707",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-20-2026",
+   "path": "local/constanta/ciocarlia/2026/20",
+   "short": "HCL Ciocârlia nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 20/2026 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269708",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-22-2026",
+   "path": "local/constanta/ciocarlia/2026/22",
+   "short": "HCL Ciocârlia nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 22/2026 privind aprobarea Bugetului de venituri si cheltuieli al Asociatiei Sportive ,,RECOLTA CIOCÂRLIA” pe anul 2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269710",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-24-2026",
+   "path": "local/constanta/ciocarlia/2026/24",
+   "short": "HCL Ciocârlia nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 24/2026 privind aprobarea principalelor manifestări cultural-artistice, sportive, sociale, educative și religioase, care se vor desfășura în comuna Ciocârlia în anul 2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269714",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-25-2026",
+   "path": "local/constanta/ciocarlia/2026/25",
+   "short": "HCL Ciocârlia nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 25/2026 privind aprobarea procedurii de publicare a listelor debitorilor care înregistrează obligații fiscale restante la bugetul local al comunei Ciocârlia și a celor care au declarat şi au achitat la scadență obligațiile fiscale de plată și care nu au obligații restante",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269718",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-26-2026",
+   "path": "local/constanta/ciocarlia/2026/26",
+   "short": "HCL Ciocârlia nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 26/2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269720",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-27-2026",
+   "path": "local/constanta/ciocarlia/2026/27",
+   "short": "HCL Ciocârlia nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 27/2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269725",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-28-2026",
+   "path": "local/constanta/ciocarlia/2026/28",
+   "short": "HCL Ciocârlia nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 28/2026",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269732",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-29-2026",
+   "path": "local/constanta/ciocarlia/2026/29",
+   "short": "HCL Ciocârlia nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 29/2026 privind aprobarea utilizării excedentului rezultat la încheierea exercițiului financiar pe anul 2025",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/269735",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/269735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-30-2026",
+   "path": "local/constanta/ciocarlia/2026/30",
+   "short": "HCL Ciocârlia nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 30/2026 privind aprobarea rectificării bugetului local de venituri și cheltuieli pentru anul 2026 și a listei de investiții pe anul 2026 al UAT Ciocârlia",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/278240",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/278240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-31-2026",
+   "path": "local/constanta/ciocarlia/2026/31",
+   "short": "HCL Ciocârlia nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 31/2026 privind înregistrarea Primăriei Comunei Ciocârlia în Sistemul Național Electronic de Plată on-line Ghișeul.ro a taxelor şi impozitelor pentru facilitarea plăților utilizând cardul bancar şi modul de suportare a comisionului bancar și aprobare a comisionului bancar la tranzacțiile on-line",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/278242",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/278242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-33-2026",
+   "path": "local/constanta/ciocarlia/2026/33",
+   "short": "HCL Ciocârlia nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 33/2026 privind însușirea Raportului de Evaluare și stabilirea redevenței în vederea încheierii contractului de uz, servitute, utilizare, acces și consolidare a unor drumuri de exploatare agricolă pentru amplasarea de cabluri electrice și de fibră optică în subteranul drumurilor de exploatare care fac parte din domeniul public al U.A.T Comuna Ciocârlia, județ Constanța, necesar realizării investiției „CONSTRUIRE PARC EOLIAN WESTWIND-VALEA DACILOR-ZONA 1, CONSTRUIRE PARC EOLIAN WESTWIND-VALEA DACILOR-ZONA 2, CONSTRUIRE PARC EOLIAN WESTWIND-VALEA DACILOR-ZONA 3”",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/278244",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/278244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-34-2026",
+   "path": "local/constanta/ciocarlia/2026/34",
+   "short": "HCL Ciocârlia nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 34/2026 privind însușirea Raportului de Evaluare și stabilirea redevenței în vederea încheierii contractului de uz, servitute, utilizare, acces și consolidare a unor drumuri de exploatare agricolă permanente și temporare pentru amplasarea de cabluri electrice și de fibră optică în subteranul drumurilor de exploatare care fac parte din domeniul public al U.A.T Com. Ciocârlia, județ Constanța, necesar realizării investiției „Construire parc eolian Comuna Ciocârlia, fundații montare componente centrale eoliană, amenajare drum acces și platformă montaj în parcelă, realizare stație de transformare zonă pentru instalații de conversie a energie electrice în alte energii (electroliză)”",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/278249",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/278249",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--ciocarlia-36-2026",
    "path": "local/constanta/ciocarlia/2026/36",
    "short": "HCL Ciocârlia nr. 36/2026",
@@ -298,6 +523,21 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/296609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-9-2026",
+   "path": "local/constanta/ciocarlia/2026/9",
+   "short": "HCL Ciocârlia nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 9/2026 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiție „EXTINDERE REȚEA CANALIZARE ÎN COMUNA CIOCÂRLIA, JUDEȚUL CONSTANȚA”, faza Proiect Tehnic cu cota TVA de 21%",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/260361",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/260361",
      "sha256": null
     }
    ]

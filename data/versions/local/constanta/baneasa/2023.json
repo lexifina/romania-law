@@ -3,6 +3,81 @@
  "shard": "local/constanta/baneasa/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-15-2023",
+   "path": "local/constanta/baneasa/2023/15",
+   "short": "HCL Băneasa nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 15/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/92487",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/92487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-26-2023",
+   "path": "local/constanta/baneasa/2023/26",
+   "short": "HCL Băneasa nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 26/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99940",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-28-2023",
+   "path": "local/constanta/baneasa/2023/28",
+   "short": "HCL Băneasa nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 28/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/99942",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/99942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-4-2023",
+   "path": "local/constanta/baneasa/2023/4",
+   "short": "HCL Băneasa nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 4/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87971",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-41-2023",
+   "path": "local/constanta/baneasa/2023/41",
+   "short": "HCL Băneasa nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 41/2023",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/107224",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/107224",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-68-2023",
    "path": "local/constanta/baneasa/2023/68",
    "short": "HCL Băneasa nr. 68/2023",
@@ -298,6 +373,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/134738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-9-2023",
+   "path": "local/constanta/baneasa/2023/9",
+   "short": "HCL Băneasa nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 9/2023 privind adoptarea bugetului general local de venituri si cheltuieli pe anul 2023 si estimarea bugetului de venituri si cheltuieli pentru anii 2024-2026 al Comunei Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/87976",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/87976",
      "sha256": null
     }
    ]

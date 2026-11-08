@@ -3,6 +3,36 @@
  "shard": "local/constanta/agigea/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--agigea-197-2025",
+   "path": "local/constanta/agigea/2025/197",
+   "short": "HCL Agigea nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 197/2025 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/241089",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/241089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--agigea-198-2025",
+   "path": "local/constanta/agigea/2025/198",
+   "short": "HCL Agigea nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Agigea nr. 198/2025 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare la nivelul Comunei Agigea",
+   "url": "https://emol.ro/agigea-ct/registru-hcl/241090",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/agigea-ct/registru-hcl/241090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--agigea-205-2025",
    "path": "local/constanta/agigea/2025/205",
    "short": "HCL Agigea nr. 205/2025",

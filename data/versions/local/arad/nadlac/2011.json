@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2011",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-15-2011",
+   "path": "local/arad/nadlac/2011/15",
+   "short": "HCL Nădlac nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 15/2011 privind aprobarea măsurilor pentru optimizarea capacităţii de apărare împotriva incendiilor şi pentru îndepărtarea deficienţelor la normele de apărare împotriva incendiilor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Ianuarie/hot_15_-_2011.pdf",
+     "sha256": "077c1679f06edb256671aea8defd4197a7a0d2af9f536872106841e714b7705f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-151-2011",
+   "path": "local/arad/nadlac/2011/151",
+   "short": "HCL Nădlac nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 151/2011 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare – epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-06-28",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Iunie/hot_151_-_2011.pdf",
+     "sha256": "d3ed3fa734674b3816c1988fcd2aa9104d1d80395d2fa07e87848ee1e5aaebc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-155-2011",
+   "path": "local/arad/nadlac/2011/155",
+   "short": "HCL Nădlac nr. 155/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 155/2011 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul unităţii administrativ teritoriale Nădlac în semestrul I al anului 2011, precum şi pentru optimizarea capacităţii de apărare împotriva incend",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Iulie/hot_155_-_2011.pdf",
+     "sha256": "1f05b95e197a6b8465178fea7008b424b07f545848d3c84e769d6fc9016cc413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-18-2011",
+   "path": "local/arad/nadlac/2011/18",
+   "short": "HCL Nădlac nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 18/2011 privind modificarea nivelurilor impozitului pentru mijloacele de transport prevăzute la art.263, alin.4,5 din Codul Fiscal, aplicabile anul fiscal 2011",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Ianuarie/hot_18_-_2011.pdf",
+     "sha256": "d0b882be03400cda385535c99df7e1badc67b4dd0579b0c6c715bd07fce93d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-201-2011",
+   "path": "local/arad/nadlac/2011/201",
+   "short": "HCL Nădlac nr. 201/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 201/2011 privind prelungirea valabilității Planului Urbanistic General și a R egulamentului Lo cal de Urbanism al orașului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_201_-_2011.pdf",
+     "sha256": "03971ceb5cedf33f879c04ed1b57d1eb965b8ba1382787b865326a6c95a3450a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-205-2011",
+   "path": "local/arad/nadlac/2011/205",
+   "short": "HCL Nădlac nr. 205/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 205/2011 privind însușirea propunerilor de PUG și RLU de către Consiliul Local Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Octombrie/hot_205_-_2011.pdf",
+     "sha256": "f515f5474fa163809f27b711d9a19e8af30617b3fe85908ecb8829010ef73f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-231-2011",
+   "path": "local/arad/nadlac/2011/231",
+   "short": "HCL Nădlac nr. 231/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 231/2011 privind aprobarea taxelor speciale aplicabile în anul fiscal 2012",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 13,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Decembrie/hot_231_-_2011.pdf",
+     "sha256": "4d899b6a1acb5f25396c377b20f25ab57ffc91aadbd30347d7dae28f89fc438c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-232-2011",
+   "path": "local/arad/nadlac/2011/232",
+   "short": "HCL Nădlac nr. 232/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 232/2011 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, precum și a amenzilor aplicabile începând cu anul fiscal 2012 Consiliul Local al orașului Nădlac, întrunit în ședința ordinară din data de 28.12.2011, Având în vedere: - Expunerea de motive a primarului orașului Nădlac nr.14722/2011 - referatul consilierului juridic din cadrul aparatului",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Decembrie/hot_232_-_2011.pdf",
+     "sha256": "43f735f9f44cd9ac8a9547a988015cfb00695adb6c8d96743bd722a7db880f3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-233-2011",
+   "path": "local/arad/nadlac/2011/233",
+   "short": "HCL Nădlac nr. 233/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 233/2011 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apăra re împotriva incendiilor constatate la nivelul unităţii administrativ teritoriale a oraşului Nădlac , în perioada seme strului II al anului 201 1 , şi pentru optimi zarea capacităţii de a",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Decembrie/hot_233_-_2011.pdf",
+     "sha256": "9a042c7ccaff9c75cd7c32177fce4c7dac69d1e88a5af51933f3339bb0bc05db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-29-2011",
+   "path": "local/arad/nadlac/2011/29",
+   "short": "HCL Nădlac nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 29/2011 privind aprobarea taxelor speciale pentru serviciil e prestate de către Serviciul comunitar local de evidenţă a persoanelor",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Februarie/hot_29_-_2011.pdf",
+     "sha256": "664ddd018b628729bdc51a41084ebad6de3ea046673982e8c7b026f148b8b4d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-32-2011",
+   "path": "local/arad/nadlac/2011/32",
+   "short": "HCL Nădlac nr. 32/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 32/2011 privind aproba rea nivelului taxei de concesiune pentru perioada anilor 2011 – 2031 care se va achita Oraşului Nădlac de către operator",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Februarie/hot_32_-_2011.pdf",
+     "sha256": "68b62ad63b5de832948689394bcad471578113d9e57128357d6b4c8c859f81e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2011",
+   "path": "local/arad/nadlac/2011/45",
+   "short": "HCL Nădlac nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2011 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare – epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Martie/hot_45_-_2011.pdf",
+     "sha256": "0712b8f0594263ad9e6b0b1defe020c5d8e8516bd9b096f79d3f72aa618ac5ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-57-2011",
+   "path": "local/arad/nadlac/2011/57",
+   "short": "HCL Nădlac nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 57/2011 privind aprobarea Regulamentului Local referitor la implicarea publicului în elaborarea sau revizuirea planurilor de amenajare a teritoriului şi urbanism din oraşul Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2011/Martie/hot_57_-_2011.pdf",
+     "sha256": "8bbc92f7a743083c3f52ce9ee187a367350cec974d1d4f3babc602fa89e30bd1"
+    }
+   ]
+  }
+ ]
+}

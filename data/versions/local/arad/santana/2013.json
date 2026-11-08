@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2013",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-153-2013",
+   "path": "local/arad/santana/2013/153",
+   "short": "HCL Sântana nr. 153/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 153/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0153_2013_11_26.pdf",
+     "sha256": "253468fb53fc7a250e837612769121ac7d48a07ac611a2c4c8aa3f36918be055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-160-2013",
+   "path": "local/arad/santana/2013/160",
+   "short": "HCL Sântana nr. 160/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 160/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-17",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0160_2013_12_17.pdf",
+     "sha256": "16504c0f7f75a90b07fa151bb4b9ed90d9ebf6cad36ec1c5979bb1cfffb9e6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-32-2013",
+   "path": "local/arad/santana/2013/32",
+   "short": "HCL Sântana nr. 32/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2013 privind protectia si promovarea drepturilor copilului Prevederile art. 36, alin. (6),litera a. punctul 2 din Legea 21512001 privind administralia publicd locald cu modificarile si completarile ulterioare in temeiul art. 45 din fegea)lSlZO0l privind administralia publici locald cu modificarile si completarile ulterioare HoTARA$TE Art. 1 Se aproba Criteriile de internare si asistare la domiciliu a c",
+   "url": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=290",
+   "versions": [
+    {
+     "from": "2013-02-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0032_2013_02_19.pdf",
+     "sha256": "f624207ea0bd5a0b26cb92ee00d93a760aef8d01fc7e9bd3c75d96b346baeec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--santana-78-2013",
+   "path": "local/arad/santana/2013/78",
+   "short": "HCL Sântana nr. 78/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0078_2013_05_23.pdf",
+     "sha256": "cd68a83a6913644f498ca22665bf56d8f7a8ef8b679cca2aedde124ccdc6b968"
+    }
+   ]
+  }
+ ]
+}

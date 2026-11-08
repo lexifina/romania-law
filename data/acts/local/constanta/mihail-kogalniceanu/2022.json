@@ -3,6 +3,28 @@
 "shard": "local/constanta/mihail-kogalniceanu/2022",
 "acts": [
 {
+"slug": "hcl-constanta--mihail-kogalniceanu-1-2022",
+"path": "local/constanta/mihail-kogalniceanu/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihail Kogălniceanu nr. 1/2022 privind atribuirea de denumiri unor străzi situate în comuna Mihail Kogălniceanu, județul Constanța",
+"short": "HCL Mihail Kogălniceanu nr. 1/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://emol.ro/mihailkogalniceanu-ct/registru-hcl/47778",
+"council": "constanta/mihail-kogalniceanu",
+"council_name": "Consiliul Local al Comunei Mihail Kogălniceanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--mihail-kogalniceanu-142-2022",
 "path": "local/constanta/mihail-kogalniceanu/2022/142",
 "kind": "local",

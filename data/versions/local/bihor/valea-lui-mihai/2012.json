@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2012",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-29-2012",
+   "path": "local/bihor/valea-lui-mihai/2012/29",
+   "short": "HCL Valea lui Mihai nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 29/2012 privind aprobarea Planului Urbanistic Zonal: „Schimbare de destinație din locuință în spații comerciale servicii și locuire”, amplasament: orașul Valea lui Mihai str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2022/08/hot.29-din-26.09.2012.pdf",
+     "sha256": "bc84dd8ca910b93ff051fa1f8ee08a876498820413df98a4a8e19b270a6af5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-3-2012",
+   "path": "local/bihor/valea-lui-mihai/2012/3",
+   "short": "HCL Valea lui Mihai nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 3/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-06-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2022/08/hot.3-din-26.06.2012.pdf",
+     "sha256": "0b71f9108fe646d5807c69026ff2d15b507085f117766a7b4e40e5971a15ae11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-30-2012",
+   "path": "local/bihor/valea-lui-mihai/2012/30",
+   "short": "HCL Valea lui Mihai nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2012 privind aprobarea Planului Urbanistic Zonal: „Amplasare sediu firmă”, amplasament: orașul Valea lui Mihai str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2022/08/hot.30-din-26.09.2012.pdf",
+     "sha256": "388448b2c42eb5a7cc26c28410a8dbeac07105eb9b2317a6cc393452204bdc9b"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/ialomita/tandarei/2017",
+ "acts": [
+  {
+   "slug": "hcl-ialomita--tandarei-142-2017",
+   "path": "local/ialomita/tandarei/2017/142",
+   "short": "HCL Țăndărei nr. 142/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 142/2017 privind modificare Anexa HCL nr. 142 din 20.12.2017 privind stabilirea tarifelor ADP hotarare-privind-modificare-anexa-hcl-nr-142-20122017-privind-stabilirea-tarifelor-adp.pdf",
+   "url": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-26042018",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "https://primaria-tandarei.ro/system/files/articole/2018-05-09/1745/hotarare-privind-modificare-anexa-hcl-nr-142-20122017-privind-stabilirea-tarifelor-adp.pdf",
+     "sha256": "a52eb9373f2960c4239b9289c14316c9d894022b608e4b107162b150d9434fb9"
+    }
+   ]
+  }
+ ]
+}

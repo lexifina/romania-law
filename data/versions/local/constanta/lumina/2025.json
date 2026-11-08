@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--lumina-92-2025",
+   "path": "local/constanta/lumina/2025/92",
+   "short": "HCL Lumina nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lumina nr. 92/2025 privind casarea mijloacelor fixe și a obiectelor de inventar din patrimoniul Comunei Lumina, județul Constanța",
+   "url": "https://emol.ro/lumina-ct/registru-hcl/210503",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/lumina-ct/registru-hcl/210503",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

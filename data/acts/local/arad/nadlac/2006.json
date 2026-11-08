@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2006",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-12-2006",
+"path": "local/arad/nadlac/2006/12",
+"kind": "local",
+"year": "2006",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 12/2006 privind aprobarea Regulamentului Serviciului Centrului de zi de îngrijire a copiilor Nadlac",
+"short": "HCL Nădlac nr. 12/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-01-30",
+"latest": "2006-01-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-41-2006",
+"path": "local/arad/nadlac/2006/41",
+"kind": "local",
+"year": "2006",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 41/2006 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului public de salubrizare la nivelul oraşului Nădllac",
+"short": "HCL Nădlac nr. 41/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-04-07",
+"latest": "2006-04-07",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-50-2006",
+"path": "local/arad/nadlac/2006/50",
+"kind": "local",
+"year": "2006",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 50/2006 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare-epurare",
+"short": "HCL Nădlac nr. 50/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-04-28",
+"latest": "2006-04-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-68-2006",
+"path": "local/arad/nadlac/2006/68",
+"kind": "local",
+"year": "2006",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 68/2006 privind aprobarea Regulamentului privind procedura de vânzare a terenurilor din domeniul privat al oraşului Nădlac",
+"short": "HCL Nădlac nr. 68/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-05-23",
+"latest": "2006-05-23",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-92-2006",
+"path": "local/arad/nadlac/2006/92",
+"kind": "local",
+"year": "2006",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 92/2006 privind instituirea taxei speciale de salubrizare pentru autovehiculele cu tonaj greu (Tir-uri) care tranzitează oraşul Nădlac pe sensul de ieşire din ţară",
+"short": "HCL Nădlac nr. 92/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-07-21",
+"latest": "2006-07-21",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-111-2006",
+"path": "local/arad/nadlac/2006/111",
+"kind": "local",
+"year": "2006",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 111/2006 privind aprobarea nivelurilor impozitului pe mijloacele de transport marfă cu masa totală autorizată de peste 12 tone, pentru anul fiscal 2007",
+"short": "HCL Nădlac nr. 111/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-10-13",
+"latest": "2006-10-13",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-133-2006",
+"path": "local/arad/nadlac/2006/133",
+"kind": "local",
+"year": "2006",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 133/2006 privind aprobarea Regulamentului, a contractului privind delegarea de gestiune a serviciului public de salubrizare, precum şi a instrucţiunilor privind concesionarea prin licitaţie publică deschisă a serviciului public de salubrizare a oraşului Nădlac",
+"short": "HCL Nădlac nr. 133/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-11-24",
+"latest": "2006-11-24",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-136-2006",
+"path": "local/arad/nadlac/2006/136",
+"kind": "local",
+"year": "2006",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 136/2006 privind constituirea fondului de premiere, precum şi stabilirea criteriilor şi a condiţiilor de acordare a premiilor către funcţionarii publici şi personalul contractual din cadrul primăriei",
+"short": "HCL Nădlac nr. 136/2006",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2006-12-15",
+"latest": "2006-12-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-153-2006",
+"path": "local/arad/nadlac/2006/153",
+"kind": "local",
+"year": "2006",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 153/2006 privind stabilirea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, a taxelor speciale, precum şi a amenzilor aplicabile în anul fiscal 2007",
+"short": "HCL Nădlac nr. 153/2006",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2006-12-28",
+"latest": "2006-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2006-2-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 29/2024 privind predarea către Rețele Electrice Dobrogea SA a capacităților energetice rezultate după finalizarea obiectivului de investiții ,,Extindere rețea electrică în comuna Cuza Vodă, județul Constanța” pe str. Stejarului (între str. Molidului și str. Salcâmului tr. 1), str. Mesteacănului, str. Dudului, str. Molidului, str. Mărului (între str. Bradului și str. Medgidiei)
+
+HCL Cuza Vodă nr. 29/2024 · 1 versions, from 2024-02-21 (latest in force: 2024-02-21) · <https://emol.ro/cuzavoda-ct/registru-hcl/142566>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-constanta--cuza-voda-29-2024` (tags `hcl-constanta--cuza-voda-29-2024/<day>`; `python tools/on.py <day> hcl-constanta--cuza-voda-29-2024`).
+
+## Decisions made by hand
+
+- HCL Cuza Vodă nr. 29/2024: listed from Consiliul Local al Comunei Cuza Vodă (emol.ro); metadata only for now: no document of it is held.
+- HCL Cuza Vodă nr. 29/2024: dated from 21 February 2024, the day the council's register gives it as published (adopted 8 February 2024).
+- HCL Cuza Vodă nr. 29/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

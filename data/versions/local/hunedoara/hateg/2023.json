@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/hateg/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--hateg-10-2023",
+   "path": "local/hunedoara/hateg/2023/10",
+   "short": "HCL Hațeg nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 10/2023 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV-lea al anului 2022 și a stabilirii măsurilor pentru eficientizarea acestei activități, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-10-2023-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-iv-lea-al-anului-2022-si-a-stabilirii-masurilor-pentru-eficientizarea-aceste/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr-10-din-2023-1.pdf",
+     "sha256": "b3eeeb2108fba41c5da0128c8a9149bdffb62cd35e0ebe67d890ae0bc0e6244e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-100-2023",
    "path": "local/hunedoara/hateg/2023/100",
    "short": "HCL Hațeg nr. 100/2023",
@@ -59,6 +74,21 @@
      "units": 6,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2023/07/Hotararea-nr-121-din-2023.pdf",
      "sha256": "75a40d3162112cfa9be95728113d411c0b158d187cc05aecd09517ca6ca14446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-14-2023",
+   "path": "local/hunedoara/hateg/2023/14",
+   "short": "HCL Hațeg nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 14/2023 privind aprobarea scutirii, în anul 2023, a Casei de Ajutor Reciproc a Pensionarilor, cu sediul în Hațeg, str. Bisericilor, nr. 7, de la plata impozitului/taxei pe cladirea destinată exclusiv activităților fără scop lucrativ, ce compune corpul A al imobilului",
+   "url": "https://primariehateg.ro/hotararea-nr-14-2023-privind-aprobarea-scutirii-in-anul-2023-a-casei-de-ajutor-reciproc-a-pensionarilor-cu-sediul-in-hateg-str-bisericilor-nr-7-de-la-plata-impozitului-taxei-pe-cladirea-desti/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 5,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr-14-din-2023.pdf",
+     "sha256": "f8f0de17ff61928740dc00783d4e964ccfdf10919b177896da0621ed795c4169"
     }
    ]
   },
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-19-2023",
+   "path": "local/hunedoara/hateg/2023/19",
+   "short": "HCL Hațeg nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr-19-din-2023.pdf",
+     "sha256": "0218e29d9a265be82a6c79dda43bafd6e3ea1e6abcb803b7fc91f9717ee6487e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-194-2023",
    "path": "local/hunedoara/hateg/2023/194",
    "short": "HCL Hațeg nr. 194/2023",
@@ -134,6 +179,36 @@
      "units": 8,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2023/10/Hotararea-nr-194-din-2023.pdf",
      "sha256": "04fd7dda2753676ff317e5c8a552d256e48b6c8df3727c7a3682bdf3d4a00e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-22-2023",
+   "path": "local/hunedoara/hateg/2023/22",
+   "short": "HCL Hațeg nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 22/2023 privind aprobarea regulamentului de instituire și administrare a taxei de salubrizare în Orașul Hațeg, județul Hunedoara",
+   "url": "https://primariehateg.ro/hotararea-nr-22-2023-privind-aprobarea-regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizare-in-orasul-hateg-judetul-hunedoara/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 6,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr22-din-2023.pdf",
+     "sha256": "8639dfd3ea204d6af938119f6e71d827ba12196e0e71a4ed49c54ee0081a5939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-23-2023",
+   "path": "local/hunedoara/hateg/2023/23",
+   "short": "HCL Hațeg nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 23/2023 privind aprobarea cuantumului taxei speciale de salubrizare în Orașul Hațeg, județul Hunedoara",
+   "url": "https://primariehateg.ro/hotararea-nr-23-2023-privind-aprobarea-cuantumului-taxei-speciale-de-salubrizare-in-orasul-hateg-judetul-hunedoara/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr23-din-2023.pdf",
+     "sha256": "4eb4fcf602cd7816cf91488b35fd96c9841b84614f806e8214283e4b6801b107"
     }
    ]
   },
@@ -179,6 +254,21 @@
      "units": 6,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2023/12/Hotararea-nr-253-din-2023.pdf",
      "sha256": "00737ca13fb0081d03a43489212a166a6e50fcdfe6bf4d7b3b9edec316a95443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-31-2023",
+   "path": "local/hunedoara/hateg/2023/31",
+   "short": "HCL Hațeg nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 31/2023 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare al Deșeurilor” pentru a aproba și implementa, în condițiile legii, actualizarea planului tarifar maximal al populației privind plata serviciului de salubrizare în Județul Hunedoara",
+   "url": "https://primariehateg.ro/hotararea-nr-31-2023-privind-acordarea-unui-mandat-special-asociatiei-de-dezvoltare-intercomunitara-sistemul-integrat-de-gestionare-al-deseurilor-pentru-a-aproba-si-implementa-in-conditii/",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 5,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2023/02/Hotararea-nr-31-din-2023.pdf",
+     "sha256": "64212b5c12537cc80f657ef41308c6d2b9983b41b63a00d2e5f560e480609b3e"
     }
    ]
   },

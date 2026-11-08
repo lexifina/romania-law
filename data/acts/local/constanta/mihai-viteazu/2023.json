@@ -3,6 +3,74 @@
 "shard": "local/constanta/mihai-viteazu/2023",
 "acts": [
 {
+"slug": "hcl-constanta--mihai-viteazu-7-2023",
+"path": "local/constanta/mihai-viteazu/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 7/2023 privind aprobarea raportului privind activitatea desfășurată de asistenții personali în semestrul II al anului 2022",
+"short": "HCL Mihai Viteazu nr. 7/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88529",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-11-2023",
+"path": "local/constanta/mihai-viteazu/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 11/2023",
+"short": "HCL Mihai Viteazu nr. 11/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88533",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--mihai-viteazu-35-2023",
+"path": "local/constanta/mihai-viteazu/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 35/2023",
+"short": "HCL Mihai Viteazu nr. 35/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-25",
+"latest": "2023-04-25",
+"portal": "https://emol.ro/mihaiviteazu-ct/registru-hcl/101470",
+"council": "constanta/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--mihai-viteazu-83-2023",
 "path": "local/constanta/mihai-viteazu/2023/83",
 "kind": "local",

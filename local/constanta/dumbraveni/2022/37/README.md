@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 37/2022 privind modificarea și completarea inventarului bunurilor ce apartin domeniului public și privat al Comunei Dumbraveni , jud. Constanta
+
+HCL Dumbrăveni nr. 37/2022 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <https://emol.ro/dumbraveni-ct/registru-hcl/64787>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-constanta--dumbraveni-37-2022` (tags `hcl-constanta--dumbraveni-37-2022/<day>`; `python tools/on.py <day> hcl-constanta--dumbraveni-37-2022`).
+
+## Decisions made by hand
+
+- HCL Dumbrăveni nr. 37/2022: listed from Consiliul Local al Comunei Dumbrăveni (emol.ro); metadata only for now: no document of it is held.
+- HCL Dumbrăveni nr. 37/2022: dated from 10 August 2022, the day the council's register gives it as published (adopted 28 June 2022).
+- HCL Dumbrăveni nr. 37/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2008",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-3-2008",
+"path": "local/arad/nadlac/2008/3",
+"kind": "local",
+"year": "2008",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2008 privind stabilirea nivelurilor impozitului pentru mijloacele de transport marfă cu masa totală autorizată egală sau mai mare de 12 tone pentru anul fiscal 2008",
+"short": "HCL Nădlac nr. 3/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-01-08",
+"latest": "2008-01-08",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-34-2008",
+"path": "local/arad/nadlac/2008/34",
+"kind": "local",
+"year": "2008",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 34/2008 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare- epurare",
+"short": "HCL Nădlac nr. 34/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-02-28",
+"latest": "2008-02-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-51-2008",
+"path": "local/arad/nadlac/2008/51",
+"kind": "local",
+"year": "2008",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 51/2008 privind aprobarea Regulamentului Intern de organizare şi funcţionare al Primăriei oraşului Nădlac",
+"short": "HCL Nădlac nr. 51/2008",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2008-03-19",
+"latest": "2008-03-19",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-66-2008",
+"path": "local/arad/nadlac/2008/66",
+"kind": "local",
+"year": "2008",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 66/2008 privind aprobarea Regulamentului Intern de organizare şi funcţionare al Primăriei oraşului Nădlac",
+"short": "HCL Nădlac nr. 66/2008",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2008-04-15",
+"latest": "2008-04-15",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-86-2008",
+"path": "local/arad/nadlac/2008/86",
+"kind": "local",
+"year": "2008",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 86/2008 privind aprobarea nivelurilor valorilor impozabile, a impozitelor şi taxelor locale şi a altor taxe asimilate, precum şi a amenzilor aplicabile în anul fiscal 2009",
+"short": "HCL Nădlac nr. 86/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-05-29",
+"latest": "2008-05-29",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-117-2008",
+"path": "local/arad/nadlac/2008/117",
+"kind": "local",
+"year": "2008",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 117/2008 privind constituirea Comisiei Locale de ORDINE publică la nivelul oraşului Nădlac",
+"short": "HCL Nădlac nr. 117/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-08-07",
+"latest": "2008-08-07",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-128-2008",
+"path": "local/arad/nadlac/2008/128",
+"kind": "local",
+"year": "2008",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 128/2008 privind aprobarea majorării tarifului referitor la activitatea de colectat, transportat, depozitat deşeuri menajere",
+"short": "HCL Nădlac nr. 128/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-08-07",
+"latest": "2008-08-07",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-168-2008",
+"path": "local/arad/nadlac/2008/168",
+"kind": "local",
+"year": "2008",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2008 privind aprobarea preţului la apă potabilă şi a tarifelor la canalizare-epurare",
+"short": "HCL Nădlac nr. 168/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-10-28",
+"latest": "2008-10-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-196-2008",
+"path": "local/arad/nadlac/2008/196",
+"kind": "local",
+"year": "2008",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 196/2008 privind aprobarea preţurilor locale pentru servicii publice de alimentare cu energie termică prestate de SC Apoterm Nădlac SA la utilizatori cu care a încheiat contracte",
+"short": "HCL Nădlac nr. 196/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-12-05",
+"latest": "2008-12-05",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-204-2008",
+"path": "local/arad/nadlac/2008/204",
+"kind": "local",
+"year": "2008",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 204/2008 privind aprobarea taxelor speciale aplicabile în anul fiscal 2009",
+"short": "HCL Nădlac nr. 204/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-12-23",
+"latest": "2008-12-23",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2008-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

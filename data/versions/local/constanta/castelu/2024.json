@@ -3,6 +3,36 @@
  "shard": "local/constanta/castelu/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--castelu-1-2024",
+   "path": "local/constanta/castelu/2024/1",
+   "short": "HCL Castelu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 1/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-10-2024",
+   "path": "local/constanta/castelu/2024/10",
+   "short": "HCL Castelu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 10/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--castelu-108-2024",
    "path": "local/constanta/castelu/2024/108",
    "short": "HCL Castelu nr. 108/2024",
@@ -13,6 +43,21 @@
      "from": "2024-11-16",
      "units": 1,
      "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#92680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-12-2024",
+   "path": "local/constanta/castelu/2024/12",
+   "short": "HCL Castelu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 12/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]
@@ -63,6 +108,426 @@
    ]
   },
   {
+   "slug": "hcl-constanta--castelu-14-2024",
+   "path": "local/constanta/castelu/2024/14",
+   "short": "HCL Castelu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 14/2024 PRIVIND APROBAREA ORGANIZĂRII REŢELEI ŞCOLARE DE ÎNVĂŢĂMÂNT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI CASTELU ÎN ANUL ŞCOLAR 2024-2025",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76068",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-15-2024",
+   "path": "local/constanta/castelu/2024/15",
+   "short": "HCL Castelu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 15/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-16-2024",
+   "path": "local/constanta/castelu/2024/16",
+   "short": "HCL Castelu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 16/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-17-2024",
+   "path": "local/constanta/castelu/2024/17",
+   "short": "HCL Castelu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 17/2024 PRIVIND DECLARAREA DE UTILITATE PUBLICĂ ŞI INTERES LOCAL A OBIECTIVULUI DE INVESTIŢII “ÎNFIINŢARE REŢEA INTELIGENTĂ DE DISTRIBUTIE GAZE NATURALE ÎN COMUNA CASTELU ŞI SATELE APARŢINĂTOARE, JUDEŢUL CONSTANŢA” PRIN PROGRAMUL NAŢIONAL DE INVESTIŢII “ ANGHEL SALIGNY” SI A TERENULUI ÎN SUPRAFAŢĂ DE 663 MP AMPLASAT ÎN PARCELA PŞ23",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76073",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-2-2024",
+   "path": "local/constanta/castelu/2024/2",
+   "short": "HCL Castelu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 2/2024 PRIVIND APROBAREA UTILIZARII EXCEDENTULUI BUGETULUI LOCAL AL COMUNEI CASTELU DIN ANUL 2023",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76046",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-21-2024",
+   "path": "local/constanta/castelu/2024/21",
+   "short": "HCL Castelu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 21/2024 PRIVIND ELABORAREA DE PROGRAME DE ACŢIUNE COMUNITARĂ DESTINATE PREVENIRII ȘI COMBATERII RISCULUI DE SĂRĂCIE ȘI EXCLUZIUNE SOCIALĂ",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76079",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-22-2024",
+   "path": "local/constanta/castelu/2024/22",
+   "short": "HCL Castelu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 22/2024 PRIVIND VALIDAREA DISPOZIŢIEI PRIMARULUI NR. 53 DIN 12 FEBRUARIE 2024 PRIVIND RECTIFICAREA BUGETULUI LOCAL AL COMUNEI CASTELU PE ANUL 2024",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76080",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-23-2024",
+   "path": "local/constanta/castelu/2024/23",
+   "short": "HCL Castelu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 23/2024 PRIVIND APROBAREA RECTIFICĂRII BUGETULUI LOCAL AL COMUNEI CASTELU PE ANUL 2024, sursa A, sursa G și sursa E",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76081",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-24-2024",
+   "path": "local/constanta/castelu/2024/24",
+   "short": "HCL Castelu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 24/2024 PRIVIND NOMINALIZAREA REPREZENTANȚILOR CONSILIULUI LOCAL AL COMUNEI CASTELU ÎN COMISIA PENTRU EVALUAREA SECRETARULUI GENERAL AL COMUNEI CASTELU",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76082",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-25-2024",
+   "path": "local/constanta/castelu/2024/25",
+   "short": "HCL Castelu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 25/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-26-2024",
+   "path": "local/constanta/castelu/2024/26",
+   "short": "HCL Castelu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 26/2024 PRIVIND APROBAREA MODIFICĂRII ŞI COMPLETĂRII INVENTARULUI BUNURILOR CARE APARŢIN DOMENIULUI PRIVAT AL COMUNEI CASTELU, JUDEŢUL CONSTANŢA",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76084",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-28-2024",
+   "path": "local/constanta/castelu/2024/28",
+   "short": "HCL Castelu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 28/2024 PRIVIND APROBAREA DEZMEMBRĂRII UNOR TERENURI – PROPRIETATE PUBLICĂ A COMUNEI CASTELU",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76087",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-29-2024",
+   "path": "local/constanta/castelu/2024/29",
+   "short": "HCL Castelu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 29/2024 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE, A INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI ȘI A DEVIZULUI GENERAL ACTUAL-IZAT PENTRU OBIECTIVUL DE INVESTIȚII „ÎNFIINȚARE REȚEA INTELI-GENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CASTELU ȘI SATELE APARȚINĂTOARE, JUDEȚUL CONSTANȚA”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTÂND CATEGORIILE DE CHELTUIELI FINANȚATE DE LA BUGETUL LOCAL PENTRU REALIZAREA OBIECTIVULUI",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76088",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-3-2024",
+   "path": "local/constanta/castelu/2024/3",
+   "short": "HCL Castelu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 3/2024 PRIVIND APROBAREA ACOPERIRII DEFINITIVE DIN EXCEDENTUL BUGETULUI LOCAL A DEFICITULUI SECTIUNII DE FUNCȚIONARE PE ANUL 2023",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76047",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-30-2024",
+   "path": "local/constanta/castelu/2024/30",
+   "short": "HCL Castelu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 30/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-31-2024",
+   "path": "local/constanta/castelu/2024/31",
+   "short": "HCL Castelu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 31/2024 PRIVIND APROBAREA PARTICIPARII IN CADRUL PROGRAMULUI VIZÂND SISTEME DE ALIMENTARE CU APĂ, CANALIZARE ŞI EPURARE A APELOR UZATE, FINANTARE AFM, CU PROIECTUL „ÎNFIINȚARE SISTEM DE CANALIZARE ÎN SAT NISIPARI, COMUNA CASTELU, JUDEȚUL CONSTANȚA”, PRECUM ȘI APROBAREA STUDIULUI DE FEZABILITATE, A DEVIZULUI GENERAL ȘI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76090",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-32-2024",
+   "path": "local/constanta/castelu/2024/32",
+   "short": "HCL Castelu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 32/2024 PRIVIND APROBAREA RECTIFICĂRII BUGETULUI LOCAL AL COMUNEI CASTELU PE ANUL 2024, sursa A, sursa G și sursa E",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76091",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-33-2024",
+   "path": "local/constanta/castelu/2024/33",
+   "short": "HCL Castelu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 33/2024 PRIVIND APROBAREA ACTUALIZĂRII INDICATORILOR TEHNICO-ECONOMICI ȘI A DEVIZULUI GENERAL PENTRU OBIECTIVUL DE INVESTIȚII „ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CASTELU ȘI SATELE APARȚINĂTOARE, JUDEȚUL CONSTANȚA”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76092",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-36-2024",
+   "path": "local/constanta/castelu/2024/36",
+   "short": "HCL Castelu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 36/2024 PRIVIND APROBAREA MODIFICĂRII ANEXEI NR. 2 LA HOTĂRÂREA CONSILI-ULUI LOCAL NR. 33/02.04.2024 PRIVIND APROBAREA ACTUALIZĂRII INDICA-TORILOR TEHNICO-ECONOMICI ȘI A DEVIZULUI GENERAL PENTRU OBIEC-TIVUL DE INVESTIȚII „ÎNFIINȚARE REȚEA INTELIGENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CASTELU ȘI SATELE APARȚINĂTOARE, JUDEȚUL CONSTANȚA”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76095",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-37-2024",
+   "path": "local/constanta/castelu/2024/37",
+   "short": "HCL Castelu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 37/2024 PRIVIND APROBAREA SITUAȚIEI FINANCIARE TRIMESTRIALE, PRECUM ŞI A CONTURILOR DE EXECUŢIE EVIDENŢIATE ÎN AFARA BUGETULUI LOCAL AL COMUNEI CASTELU ÎNTOCMITE LA DATA DE 31.03.2024",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76096",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-38-2024",
+   "path": "local/constanta/castelu/2024/38",
+   "short": "HCL Castelu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 38/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-39-2024",
+   "path": "local/constanta/castelu/2024/39",
+   "short": "HCL Castelu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 39/2024 PRIVIND APROBAREA DESFIINȚĂRII PRIN DEMOLARE A CORPULUI C1 – PARTER, SITUAT ÎN STRADA 1 MAI, NR. 26, SAT CASTELU, COMUNA CASTELU, JUDEȚUL CONSTANȚA, ÎN SUPRAFAȚĂ DE 249 MP, IDENTIFICAT PRIN NR. CADASTRAL 106885-C1",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76098",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-4-2024",
+   "path": "local/constanta/castelu/2024/4",
+   "short": "HCL Castelu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-5-2024",
+   "path": "local/constanta/castelu/2024/5",
+   "short": "HCL Castelu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 5/2024 PRIVIND APROBAREA EXECUŢIEI BUGETARE PE SECTIUNEA DE FUNCȚIONARE ȘI PE SECȚIUNEA DE DEZVOLTARE A BUGETULUI LOCAL AL COMUNEI CASTELU, LA DATA DE 31.12.2023",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76049",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-59-2024",
+   "path": "local/constanta/castelu/2024/59",
+   "short": "HCL Castelu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 59/2024 PRIVIND APROBAREA REVOCĂRII HOTĂRÂRILOR CONSILIULUI LOCAL NR.2/10.01.2024 PRIVIND APROBAREA UTILIZARII EXCEDENTULUI BUGETULUI LOCAL AL COMUNEI CASTELU DIN ANUL 2023 ȘI NR. 3/10.01.2024 PRIVIND APROBAREA ACOPERIRII DEFINITIVE DIN EXCEDENTUL BUGETULUI LOCAL A DEFICITULUI SECTIUNII DE FUNCȚIONARE PE ANUL 2023",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#83283",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#83283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-6-2024",
+   "path": "local/constanta/castelu/2024/6",
+   "short": "HCL Castelu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 6/2024 PRIVIND APROBAREA BUGETULUI LOCAL AL COMUNEI CASTELU PE ANUL 2024",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76050",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-7-2024",
+   "path": "local/constanta/castelu/2024/7",
+   "short": "HCL Castelu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 7/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-8-2024",
+   "path": "local/constanta/castelu/2024/8",
+   "short": "HCL Castelu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 8/2024 PRIVIND APROBAREA MODIFICĂRII TARIFELOR PENTRU COLECTAREA SEPARATĂ ȘI TRANSPORTUL SEPARAT AL DEȘEURILOR MUNICIPALE DIN CONTRACTUL DE DELEGARE A GESTIUNII PRIN CONCESIONARE A SERVICIULUI PUBLIC DE SALUBRIZARE AL COMUNEI CASTELU, JUDEŢUL CONSTANȚA, NR. 9031/23.10.2018, PRIN ACT ADIȚIONAL",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76054",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76054",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--castelu-84-2024",
    "path": "local/constanta/castelu/2024/84",
    "short": "HCL Castelu nr. 84/2024",
@@ -73,6 +538,21 @@
      "from": "2024-09-26",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-9-2024",
+   "path": "local/constanta/castelu/2024/9",
+   "short": "HCL Castelu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 9/2024 PRIVIND APROBAREA MODIFICĂRII TARIFELOR PENTRU ACTIVITĂȚILE DE SORTARE, TRATARE MECANO-BIOLOGICĂ ȘI DEPOZITARE A DEȘEURILOR MUNICIPALE DIN UAT CASTELU, FĂRĂ PUNEREA LA DISPOZIȚIE A INFRASTRUCTURII, NR. 2067/20.02.2023, PRIN ACTE ADIȚIONALE",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76056",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76056",
      "sha256": null
     }
    ]

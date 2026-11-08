@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/ialomita/tandarei/2019",
+"acts": [
+{
+"slug": "hcl-ialomita--tandarei-57-2019",
+"path": "local/ialomita/tandarei/2019/57",
+"kind": "local",
+"year": "2019",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Țăndărei nr. 57/2019 privind modificarea anexei HCL nr. 1927.02.2019 privind aprobarea procedurii de acordare a esalonarii la plata hotararea-nr-57-privind-modificarea-anexei-hcl-nr-1927022019-privind-aprobarea-procedurii-acordare-a.pdf",
+"short": "HCL Țăndărei nr. 57/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-02-27",
+"latest": "2019-02-27",
+"portal": "http://www.primaria-tandarei.ro/articole/hotarari-sedinta-ordinara-30052019",
+"council": "ialomita/tandarei",
+"council_name": "Consiliul Local al Orașului Țăndărei",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

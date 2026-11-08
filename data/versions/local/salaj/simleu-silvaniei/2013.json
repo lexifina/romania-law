@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--simleu-silvaniei-24-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/24",
+   "short": "HCL Șimleu Silvaniei nr. 24/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 24/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_024_300420131.pdf",
+     "sha256": "76d9fbe98c6f8d310696a712e53917ec1649b8cc4c41477ec8a9e3ac210cb543"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-3-2013",
    "path": "local/salaj/simleu-silvaniei/2013/3",
    "short": "HCL Șimleu Silvaniei nr. 3/2013",
@@ -29,6 +44,21 @@
      "units": 7,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_003_09012013.pdf",
      "sha256": "02ba421dd77de8fe75e53df6094c19f132b63c4ea6cdfc2b26bed14e5996ef53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-35-2013",
+   "path": "local/salaj/simleu-silvaniei/2013/35",
+   "short": "HCL Șimleu Silvaniei nr. 35/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 35/2013 privind ecarisarea teritoriului orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 iunie 2013; Având în vedere Expunerea de motive nr.7190/2013 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.7191/2013 al Secretarului orașului Șimleu Silvaniei și Avizul Comisiei pentru amenajarea teritoriului și urban",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/page/6/",
+   "versions": [
+    {
+     "from": "2013-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2015/05/HCL_035_30062013.pdf",
+     "sha256": "25fd69a507730dcb016f6a751a97e31b41cc14d2c0cfbe6417d2cb7b767fe2c8"
     }
    ]
   },

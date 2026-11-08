@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2010",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-19-2010",
+"path": "local/bihor/valea-lui-mihai/2010/19",
+"kind": "local",
+"year": "2010",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 19/2010",
+"short": "HCL Valea lui Mihai nr. 19/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-03-23",
+"latest": "2010-03-23",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/hateg/2021",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--hateg-107-2021",
+   "path": "local/hunedoara/hateg/2021/107",
+   "short": "HCL Hațeg nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 107/2021 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al II-lea al anului 2021 și a stabilirii măsurilor pentru eficientizarea acestei activități,inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-107-2021-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-ii-lea-al-anului-2021-si-a-stabilirii-masurilor-pentru-eficientizarea-acest/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-107-din-2021.pdf",
+     "sha256": "0736e2c108e4f9d33b318beddaa117146b07ec60f25f42701ba1092c577c62b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-123-2021",
+   "path": "local/hunedoara/hateg/2021/123",
+   "short": "HCL Hațeg nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 123/2021 privind aprobarea tarifelor pentru activitățile de dezinsecție, dezinfecție și deratizare aferente serviciului de salubrizare, prestate de SC DD CHIM SRL, în unitatea administrativ –teritorială orașul Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-123-2021-privind-aprobarea-tarifelor-pentru-activitatile-de-dezinsectie-dezinfectie-si-deratizare-aferente-serviciului-de-salubrizare-prestate-de-sc-dd-chim-srl-in-unitatea-administra/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 5,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-123-din-2021.pdf",
+     "sha256": "1d5c07b5b29233e8d19b683f32f60b8f79e8a6961737d8f4224225813fb35d2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-137-2021",
+   "path": "local/hunedoara/hateg/2021/137",
+   "short": "HCL Hațeg nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 137/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-137-din-2021.pdf",
+     "sha256": "9d1f5ba331e14e346bac0b8dd3a9f550da344e79d9f5a4028d4a0fe1726a0a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-161-2021",
+   "path": "local/hunedoara/hateg/2021/161",
+   "short": "HCL Hațeg nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 161/2021 privind aprobarea mandatării Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare al Deșeurilor” pentru a aproba/implementa tarifele totale/finale de operare a serviciului de salubrizare în zona de colectare 2 Hațeg, prin aplicarea prevederilor Ordonanței de Urgență a Guvernului nr. 74/2018",
+   "url": "https://primariehateg.ro/hotararea-nr-161-2021-privind-aprobarea-mandatarii-asociatiei-de-dezvoltare-intercomunitara-sistemul-integrat-de-gestionare-al-deseurilor-pentru-a-aproba-implementa-tarifele-totale-finale/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 6,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/11/Hotararea-nr.-161-din-2021.pdf",
+     "sha256": "4764c72163d3a3ddfb378770f42b5912152d94ab9237bc1e05f2b4683560521a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-162-2021",
+   "path": "local/hunedoara/hateg/2021/162",
+   "short": "HCL Hațeg nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 162/2021 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al III-lea al anului 2021 și a stabilirii măsurilor pentru eficientizarea acestei activități,inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-162-2021-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-iii-lea-al-anului-2021-si-a-stabilirii-masurilor-pentru-eficientizarea-aces/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/11/Hotararea-nr.-162-din-2021.pdf",
+     "sha256": "4cc30d4ffb48d37ab0ece3b5d9589bc9c88b01382d246b867eaf69ceca57e567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-17-2021",
+   "path": "local/hunedoara/hateg/2021/17",
+   "short": "HCL Hațeg nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 17/2021 privind aprobarea scutirii, în anul 2021, a Casei de Ajutor Reciproc a Pensionarilor, cu sediul în Hațeg, str. Bisericilor, nr. 7, de la plata impozitului/taxei pe cladirea destinată exclusiv activităților fără scop lucrativ, ce compune corpul A al imobilului",
+   "url": "https://primariehateg.ro/hotararea-nr-17-2021-privind-aprobarea-scutirii-in-anul-2021-a-casei-de-ajutor-reciproc-a-pensionarilor-cu-sediul-in-hateg-str-bisericilor-nr-7-de-la-plata-impozitului-taxei-pe-cladirea-desti/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 5,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-17-din-2021.pdf",
+     "sha256": "ce8f0cb6eae7a6ade268ae03f1e13628c84ec2b6a0290d2542258b278251d9f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-198-2021",
+   "path": "local/hunedoara/hateg/2021/198",
+   "short": "HCL Hațeg nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 198/2021 privind aprobarea nivelurilor impozitelor și taxelor locale pentru anul 2022, în raza administrativ-teritorială a Orașului Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-198-2021-privind-aprobarea-nivelurilor-impozitelor-si-taxelor-locale-pentru-anul-2022-in-raza-administrativ-teritoriala-a-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 48,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/12/Hotararea-nr.-198-din-2021.pdf",
+     "sha256": "63a2a044009aab97ab46939d3c7f3747f432153d81817ff788e2a61fbe965451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-22-2021",
+   "path": "local/hunedoara/hateg/2021/22",
+   "short": "HCL Hațeg nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 22/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-22-din-2021.pdf",
+     "sha256": "6671bcc078947148ed5b67ec26210b322d2d767382add3c24c6bbde30ca3a10a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-27-2021",
+   "path": "local/hunedoara/hateg/2021/27",
+   "short": "HCL Hațeg nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 27/2021 privind aprobarea mandatării Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare al Deșeurilor” și a reprezentantului orașului Hațeg în adunarea generală a asociației pentru a aproba, respectiv vota tarifele finale de prestare a serviciului de salubrizare în zona de colectare 2 Hațeg, incluzând costurile Centrului de Management Integrat al Deșeurilor Bârcea Mare și transfer, actualizate",
+   "url": "https://primariehateg.ro/hotararea-nr-27-2021-privind-aprobarea-mandatarii-asociatiei-de-dezvoltare-intercomunitara-sistemul-integrat-de-gestionare-al-deseurilor-si-a-reprezentantului-orasului-hateg-in-adunarea-ge/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 5,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-27-din-2021.pdf",
+     "sha256": "87b21996870cf2e15125cec0821aca4020ac9cf87fa6071ef46144a511b2eba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-40-2021",
+   "path": "local/hunedoara/hateg/2021/40",
+   "short": "HCL Hațeg nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 40/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-40-din-2021.pdf",
+     "sha256": "ebebf437a2cbf7e04c82d35d3b2bee0880451d17b537c52a640de6a94d58de13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-57-2021",
+   "path": "local/hunedoara/hateg/2021/57",
+   "short": "HCL Hațeg nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 57/2021 privind aprobarea statutului unității administrativ teritoriale Orașul Hațeg, județul Hunedoara",
+   "url": "https://primariehateg.ro/hotararea-nr-57-2021-privind-aprobarea-statutului-unitatii-administrativ-teritoriale-orasul-hateg-judetul-hunedoara-2/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 6,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotararea-nr.-57-din-2021.pdf",
+     "sha256": "55d128c68b9b7891cdb5574e2759d60902f01cc71354454d0a340cac0f8b8d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-62-2021",
+   "path": "local/hunedoara/hateg/2021/62",
+   "short": "HCL Hațeg nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 62/2021 privind aprobarea indexării anuale cu rata inflației de 2,6 % a impozitelor și taxelor locale, care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum si a actualizării cu 2,6 % a limitelor amenzilor prevăzute la",
+   "url": "https://primariehateg.ro/hotararea-nr-62-2021-privind-aprobarea-indexarii-anuale-cu-rata-inflatiei-de-26-a-impozitelor-si-taxelor-locale-care-constau-intr-o-anumita-suma-in-lei-sau-care-sunt-stabilite-pe-baza-unei-anumite/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-62-din-2021.pdf",
+     "sha256": "95f6c75666c1e35f8683e68fc3a11c2727bd0f89591ff92e5b7ec8f9cd52efd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-64-2021",
+   "path": "local/hunedoara/hateg/2021/64",
+   "short": "HCL Hațeg nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 64/2021 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2021 și a stabilirii măsurilor pentru eficientizarea acestei activități,inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotararea-nr-64-2021-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-i-al-anului-2021-si-a-stabilirii-masurilor-pentru-eficientizarea-acestei-activi/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 8,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-64-din-2021.pdf",
+     "sha256": "c30c79a7789c01c004edb0673be540d6694f331c558bcd2837310bc7c94972cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-79-2021",
+   "path": "local/hunedoara/hateg/2021/79",
+   "short": "HCL Hațeg nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 79/2021 privind aprobarea instituirii taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici beneficiari ai serviciului de salubrizare care nu au încheiat contract de salubrizare și aprobarea Regulamentului de instituire, stabilire, aplicare, încasare și administrare a taxei speciale de salubrizare în orașul Hațeg, județul Hunedoara",
+   "url": "https://primariehateg.ro/hotararea-nr-79-2021-privind-aprobarea-instituirii-taxei-speciale-de-salubrizare-pentru-utilizatorii-casnici-si-non-casnici-beneficiari-ai-serviciului-de-salubrizare-care-nu-au-incheiat-contract-de-s/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 7,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-79-din-2021.pdf",
+     "sha256": "fc2fcef4c528229e264739167b3eb785bb3e8a3a4fdcfd51e2495e26e8141238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-8-2021",
+   "path": "local/hunedoara/hateg/2021/8",
+   "short": "HCL Hațeg nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 8/2021 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV-lea al anului 2020 și a stabilirii măsurilor pentru eficientizarea acestei activități,inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://primariehateg.ro/hotarare-nr-8-2021-privind-aprobarea-analizei-stadiului-de-inscriere-a-datelor-in-registrul-agricol-pentru-trimestrul-al-iv-lea-al-anului-2020-si-a-stabilirii-masurilor-pentru-eficientizarea-acestei/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 9,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2021/09/hotarare-nr.-8-din-2021.pdf",
+     "sha256": "84daef254ee83cae3ac02c57f1538516375abc7d101295db74f39621c68a961a"
+    }
+   ]
+  }
+ ]
+}

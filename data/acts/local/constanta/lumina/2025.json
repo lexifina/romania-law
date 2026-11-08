@@ -3,6 +3,28 @@
 "shard": "local/constanta/lumina/2025",
 "acts": [
 {
+"slug": "hcl-constanta--lumina-92-2025",
+"path": "local/constanta/lumina/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lumina nr. 92/2025 privind casarea mijloacelor fixe și a obiectelor de inventar din patrimoniul Comunei Lumina, județul Constanța",
+"short": "HCL Lumina nr. 92/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/lumina-ct/registru-hcl/210503",
+"council": "constanta/lumina",
+"council_name": "Consiliul Local al Comunei Lumina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--lumina-237-2025",
 "path": "local/constanta/lumina/2025/237",
 "kind": "local",

@@ -3,6 +3,51 @@
 "shard": "local/constanta/baneasa/2024",
 "acts": [
 {
+"slug": "hcl-constanta--baneasa-5-2024",
+"path": "local/constanta/baneasa/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 5/2024 Privind aprobarea Planului de acțiune pentru gestionarea cainilor fără stăpân din Comuna Băneasa, pentru anul 2024",
+"short": "HCL Băneasa nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/143311",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-9-2024",
+"path": "local/constanta/baneasa/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 9/2024",
+"short": "HCL Băneasa nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/143315",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-constanta--baneasa-33-2024",
 "path": "local/constanta/baneasa/2024/33",
 "kind": "local",

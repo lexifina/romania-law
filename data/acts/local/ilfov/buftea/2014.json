@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/ilfov/buftea/2014",
+"acts": [
+{
+"slug": "hcl-ilfov--buftea-50-2014",
+"path": "local/ilfov/buftea/2014/50",
+"kind": "local",
+"year": "2014",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 50/2014 privind aprobarea documentaţiei de urbanism Plan Urbanistic Zonal în vederea realizării obiectivului de investiţii “Amplasare staţie fixă de telefonie cu sistem GSM Orange”, în oraşul Buftea, str. Panselelor, nr.6, nr. cadastral 51483, judeţul Ilfov",
+"short": "HCL Buftea nr. 50/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-05-30",
+"latest": "2014-05-30",
+"portal": "https://www.primariabuftea.ro/hcl-2014/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--buftea-123-2014",
+"path": "local/ilfov/buftea/2014/123",
+"kind": "local",
+"year": "2014",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buftea nr. 123/2014 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi pentru amenzile aplicabile în anul fiscal 2015, în oraşul Buftea",
+"short": "HCL Buftea nr. 123/2014",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2014-12-23",
+"latest": "2014-12-23",
+"portal": "https://www.primariabuftea.ro/hcl-2014/",
+"council": "ilfov/buftea",
+"council_name": "Consiliul Local al Orașului Buftea",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

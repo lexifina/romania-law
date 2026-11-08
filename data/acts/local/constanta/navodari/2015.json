@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2015",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-323-2015",
+"path": "local/constanta/navodari/2015/323",
+"kind": "local",
+"year": "2015",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 323/2015",
+"short": "HCL Năvodari nr. 323/2015",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-10-09",
+"latest": "2015-10-09",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+}
+]
+}

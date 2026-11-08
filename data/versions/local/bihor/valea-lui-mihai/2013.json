@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/valea-lui-mihai/2013",
+ "acts": [
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-100-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/100",
+   "short": "HCL Valea lui Mihai nr. 100/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 100/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/11/hot.100-din-18.12.2013.pdf",
+     "sha256": "d6b8ac2a4b532e00d66e0bfef7c35f3f03eda078c4dc1e0a2cc001a18c6fd0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-26-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/26",
+   "short": "HCL Valea lui Mihai nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 26/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.26-din-27.03.2013.pdf",
+     "sha256": "08714a54dd8517b941769622bc7e660266f88820c9b2c9f4463d7eb391583c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-28-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/28",
+   "short": "HCL Valea lui Mihai nr. 28/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 28/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-03-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.28-din-27.03.2013.pdf",
+     "sha256": "3ac92ea55446987b2a4680140e915fdbef1efe5c3fc9662be84565cb8598866f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-4-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/4",
+   "short": "HCL Valea lui Mihai nr. 4/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 4/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.4-din-14.01.2013.pdf",
+     "sha256": "eec93198d49db1fd7510aed98a202dc0c542de60be82706366c7511e8952d631"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-55-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/55",
+   "short": "HCL Valea lui Mihai nr. 55/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 55/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/10/hot.55-din-28.06.2013.pdf",
+     "sha256": "791232c1af4ae26729a78df0396c7d63801e710707f9755e93b11fb62ba922e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-56-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/56",
+   "short": "HCL Valea lui Mihai nr. 56/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 56/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/10/hot.56-din-28.06.2013.pdf",
+     "sha256": "80396952e3afb85f047108aa7846658b08b9c6d12b774f9e36903869087557f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-6-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/6",
+   "short": "HCL Valea lui Mihai nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 6/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/09/hot.6-din-30.01.2013.pdf",
+     "sha256": "76753bd37261b24883098e6f67e49e11bbc98357b1dac2b88ea1422f1ba9fdf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-67-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/67",
+   "short": "HCL Valea lui Mihai nr. 67/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 67/2013 privind aprobarea Planului Urbanistic Zonal: „Hale industriale pentru producție nr. cad.50033 – orașul Valea lui Mihai, str",
+   "url": "https://valealuimihai.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2021/10/hot.67-din-28.08.2013.pdf",
+     "sha256": "d2b9b37f3ddc4eb412c112720f9f0441ed8248e922085e0013f8dcfaf33ecde5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--valea-lui-mihai-76-2013",
+   "path": "local/bihor/valea-lui-mihai/2013/76",
+   "short": "HCL Valea lui Mihai nr. 76/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 76/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-09-27",
+     "units": 1,
+     "source_url": "https://valealuimihai.ro/wp-content/uploads/2023/07/hot.76-din-27.09.2013.pdf",
+     "sha256": "4c16e928afad3c4d75e273df074f72f0f9eff1c418d6ebb72461e3375ddf780a"
+    }
+   ]
+  }
+ ]
+}

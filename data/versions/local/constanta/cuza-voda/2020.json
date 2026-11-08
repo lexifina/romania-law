@@ -3,6 +3,891 @@
  "shard": "local/constanta/cuza-voda/2020",
  "acts": [
   {
+   "slug": "hcl-constanta--cuza-voda-1-2020",
+   "path": "local/constanta/cuza-voda/2020/1",
+   "short": "HCL Cuza Vodă nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 1/2020 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de funcționare și dezvoltare pe anul 2019 , în exercitiul financiar 2020 - Primaria comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3171",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-10-2020",
+   "path": "local/constanta/cuza-voda/2020/10",
+   "short": "HCL Cuza Vodă nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 10/2020 privind aprobarea întocmirii PT pentru amenajare locuri parcare pe strada Medgidiei",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3182",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-11-2020",
+   "path": "local/constanta/cuza-voda/2020/11",
+   "short": "HCL Cuza Vodă nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 11/2020 privind aprobarea SF, PT și indicatorii tehnico-economici pentru investiția: ,,Construire anexă Cămin Cultural Cuza Vodă”",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3183",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-12-2020",
+   "path": "local/constanta/cuza-voda/2020/12",
+   "short": "HCL Cuza Vodă nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 12/2020 privind aprobarea execuției bugetare de venituri și cheltuieli a comunei Cuza Vodă, aferentă trimestrului IV 2019",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3187",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-13-2020",
+   "path": "local/constanta/cuza-voda/2020/13",
+   "short": "HCL Cuza Vodă nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 13/2020 privind aprobarea execuției bugetare de venituri și cheltuieli a Serviciului Public de Alimentare cu Apă și Canalizare Cuza Vodă, aferentă trimestrului IV 2019",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3188",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-14-2020",
+   "path": "local/constanta/cuza-voda/2020/14",
+   "short": "HCL Cuza Vodă nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 14/2020 privind aprobarea bugetului de venituri și cheltuili al comunei Cuza Vodă, pentru anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3189",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-15-2020",
+   "path": "local/constanta/cuza-voda/2020/15",
+   "short": "HCL Cuza Vodă nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 15/2020 privind aprobarea bugetului de venituri și cheltuili al Serviciului Public de Alimentare cu Apă și Canalizare Cuza Vodă, pentru anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3190",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-16-2020",
+   "path": "local/constanta/cuza-voda/2020/16",
+   "short": "HCL Cuza Vodă nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 16/2020 privind însușirea Planului Anual de Achizitii Publice al comunei Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3191",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-17-2020",
+   "path": "local/constanta/cuza-voda/2020/17",
+   "short": "HCL Cuza Vodă nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 17/2020 privind aprobarea suplimentării sumelor pentru copiii cu cerințe educaționale speciale din cadrul Scolii Gimnaziale nr. 1 Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3192",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-18-2020",
+   "path": "local/constanta/cuza-voda/2020/18",
+   "short": "HCL Cuza Vodă nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 18/2020 privind alocarea sumei de 50.000 lei, Bisericii Ortodoxe Cuza Vodă pentru construcția unei capele",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3193",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-19-2020",
+   "path": "local/constanta/cuza-voda/2020/19",
+   "short": "HCL Cuza Vodă nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 19/2020 privind aprobarea achiziționării de echipament pentru polițiști locali",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3194",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-2-2020",
+   "path": "local/constanta/cuza-voda/2020/2",
+   "short": "HCL Cuza Vodă nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 2/2020 privind aprobarea utilizării excedentului anual al bugetului local pe anul 2019, în exercitiul financiar 2020, Primăria comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3172",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-23-2020",
+   "path": "local/constanta/cuza-voda/2020/23",
+   "short": "HCL Cuza Vodă nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 23/2020 privind modificarea și completarea Hotărârii de Consiliu nr. 82/28.10.2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3198",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-24-2020",
+   "path": "local/constanta/cuza-voda/2020/24",
+   "short": "HCL Cuza Vodă nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 24/2020 privind aprobarea de fonduri pentru achiziționarea de materiale de igienă și dezinsecție și produse alimentare de strictă necesitate",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3208",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-26-2020",
+   "path": "local/constanta/cuza-voda/2020/26",
+   "short": "HCL Cuza Vodă nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 26/2020 privind aprobarea execuției bugetare de venituri și cheltuieli a comunei Cuza Vodă, aferentă trimestrului I 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3249",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-27-2020",
+   "path": "local/constanta/cuza-voda/2020/27",
+   "short": "HCL Cuza Vodă nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 27/2020 privind aprobarea execuției bugetare de venituri și cheltuieli a Serviciului Public de Alimentare cu Apă și Canalizare Cuza Vodă, aferentă trimestrului I 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3250",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-28-2020",
+   "path": "local/constanta/cuza-voda/2020/28",
+   "short": "HCL Cuza Vodă nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 28/2020 privind validarea Dispozițiilor primarului nr. 195/20.03.2020, 217/27.04.2020 privind rectificarea bugetului de venituri și cheltuili al comunei Cuza Vodă, pentru anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3251",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-29-2020",
+   "path": "local/constanta/cuza-voda/2020/29",
+   "short": "HCL Cuza Vodă nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 29/2020 privind constituirea fondului de rezervă bugetară aflat la dispoziția Consiliului Local al comunei Cuza Vodă pentru anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3252",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-3-2020",
+   "path": "local/constanta/cuza-voda/2020/3",
+   "short": "HCL Cuza Vodă nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 3/2020 privind aprobarea utilizării excedentului anual al bugetului local pe anul 2019, în exercitiul financiar 2020, Serviciul Public de Alimentare cu Apă Cuza Voda",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3173",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-30-2020",
+   "path": "local/constanta/cuza-voda/2020/30",
+   "short": "HCL Cuza Vodă nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 30/2020 privind aprobarea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3253",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-31-2020",
+   "path": "local/constanta/cuza-voda/2020/31",
+   "short": "HCL Cuza Vodă nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 31/2020 privind dezlipire imobil nr. cadastral nr. 536 în suprafață de 10965 mp în două loturi",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3254",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-32-2020",
+   "path": "local/constanta/cuza-voda/2020/32",
+   "short": "HCL Cuza Vodă nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 32/2020 privind aprobarea întocmirii documentației pentru depunere proiect ,,Centru comunitar integrat” - POR/8/8.1/B/1/7 regiuni",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3255",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-33-2020",
+   "path": "local/constanta/cuza-voda/2020/33",
+   "short": "HCL Cuza Vodă nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 33/2020 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3256",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-34-2020",
+   "path": "local/constanta/cuza-voda/2020/34",
+   "short": "HCL Cuza Vodă nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 34/2020 privind aprobarea ,,Planului anual de acțiune privind dezvoltarea îmbunătățirea activității de asistență medicală comunitară în u.a.t. Cuza Vodă pentru anul 2020”",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3257",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-35-2020",
+   "path": "local/constanta/cuza-voda/2020/35",
+   "short": "HCL Cuza Vodă nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 35/2020 privind alocare fonduri pentru execuție lucrări de extindere apă și canalizare strada Mărului",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3258",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-36-2020",
+   "path": "local/constanta/cuza-voda/2020/36",
+   "short": "HCL Cuza Vodă nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 36/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Cuza Vodă pentru anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5534",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-38-2020",
+   "path": "local/constanta/cuza-voda/2020/38",
+   "short": "HCL Cuza Vodă nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 38/2020 privind aprobarea scrisorii de garanție din partea Fondului Național de Garantare a Creditelor pentru Intreprinderi Mici și Mijlocii-SA, plata comisionului de garantare și valoarea proiectului integrat finanțat pe sub-Măsura 19.2-7.4 al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5536",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-39-2020",
+   "path": "local/constanta/cuza-voda/2020/39",
+   "short": "HCL Cuza Vodă nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 39/2020 privind aprobarea dezmembrării lotului IE 100612",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5537",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-4-2020",
+   "path": "local/constanta/cuza-voda/2020/4",
+   "short": "HCL Cuza Vodă nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 4/2020 privind aprobarea rețelei școlare pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3176",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-40-2020",
+   "path": "local/constanta/cuza-voda/2020/40",
+   "short": "HCL Cuza Vodă nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 40/2020 privind alocarea unor fonduri pentru: lotizare alei cimitir, reparații și împrejmuire gard cimitir",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5538",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-41-2020",
+   "path": "local/constanta/cuza-voda/2020/41",
+   "short": "HCL Cuza Vodă nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 41/2020 privind reorganizarea aparatului de specialitate al Primarului comunei Cuza Vodă, județul Constanța și aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/5539",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/5539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-42-2020",
+   "path": "local/constanta/cuza-voda/2020/42",
+   "short": "HCL Cuza Vodă nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 42/2020 privind aprobarea execuției bugetului local al comunei Cuza Vodă pe trimestrul II, pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7661",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-43-2020",
+   "path": "local/constanta/cuza-voda/2020/43",
+   "short": "HCL Cuza Vodă nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 43/2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7662",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-44-2020",
+   "path": "local/constanta/cuza-voda/2020/44",
+   "short": "HCL Cuza Vodă nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 44/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7663",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-45-2020",
+   "path": "local/constanta/cuza-voda/2020/45",
+   "short": "HCL Cuza Vodă nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 45/2020 privind aprobarea întocmirii documentației cadastrale de alipire a două parcele de teren-imobil aparținând domeniului privat al comunei Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7664",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-46-2020",
+   "path": "local/constanta/cuza-voda/2020/46",
+   "short": "HCL Cuza Vodă nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 46/2020 privind aprobarea Raportului de activitate al asistenților personali ai persoanelor cu handicap grav desfășurată în semestrul I, pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7665",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-47-2020",
+   "path": "local/constanta/cuza-voda/2020/47",
+   "short": "HCL Cuza Vodă nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 47/2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7666",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-48-2020",
+   "path": "local/constanta/cuza-voda/2020/48",
+   "short": "HCL Cuza Vodă nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 48/2020 privind aprobarea indicatorilor tehnico-economici actualizați, devizul general actualizat pentru investiția ,,Construcție grădiniță cu orar prelungit în localitatea Cuza Vodă, județul Constanța”",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7667",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-49-2020",
+   "path": "local/constanta/cuza-voda/2020/49",
+   "short": "HCL Cuza Vodă nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 49/2020 privind aprobarea întocmirii SF, PT, DDE pentru proiect ,,Realizarea de branșamente cu apometre la rețeua de apă și canalizare pentru imobile de pe raza comunei Cuza Vodă”",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7668",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-50-2020",
+   "path": "local/constanta/cuza-voda/2020/50",
+   "short": "HCL Cuza Vodă nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 50/2020 privind alocarea sumei de 60.000 lei pentru realizarea rețelei de internet wifi în fiecare clasă de curs și dotarea sălilor cu calculatoare, cu camere web și placă de rețea wifi",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7669",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-51-2020",
+   "path": "local/constanta/cuza-voda/2020/51",
+   "short": "HCL Cuza Vodă nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 51/2020 privind alocarea sumei de 20.000 lei pentru realizarea capelei mortuare de la Biserica Ortodoxă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7670",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-52-2020",
+   "path": "local/constanta/cuza-voda/2020/52",
+   "short": "HCL Cuza Vodă nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 52/2020 privind aprobarea depunerii proiectului ,,Înfiintare rețea de alimentare și distribuție gaze naturale în comuna Cuza Vodă, județul Constanța” în cadrul proiectului POIM 2014-2020, Axa prioritară 8",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7671",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-53-2020",
+   "path": "local/constanta/cuza-voda/2020/53",
+   "short": "HCL Cuza Vodă nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 53/2020 privind aprobarea încheierii unui contract de prestări servicii cu un auditor extern pentru auditare Serviciul Public de Alimentare cu Apă și Canalizare Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/7672",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/7672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-54-2020",
+   "path": "local/constanta/cuza-voda/2020/54",
+   "short": "HCL Cuza Vodă nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 54/2020 privind alocare fonduri în vederea achiziționării de tablete pentru elevii Scolii Gimnaziale nr. 1 Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/8687",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/8687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-55-2020",
+   "path": "local/constanta/cuza-voda/2020/55",
+   "short": "HCL Cuza Vodă nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 55/2020 privind angajarea unui asistent medical care va asigura efectuarea triajului epidemiologic și supravegherea elevilor pe parcursul programului școlar",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/8688",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/8688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-56-2020",
+   "path": "local/constanta/cuza-voda/2020/56",
+   "short": "HCL Cuza Vodă nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 56/2020 privind validarea Dispozițiilor nr. 334/2020 și 377/2020 privind rectificarea bugetului local al comunei Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/9934",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/9934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-57-2020",
+   "path": "local/constanta/cuza-voda/2020/57",
+   "short": "HCL Cuza Vodă nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 57/2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/9935",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/9935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-58-2020",
+   "path": "local/constanta/cuza-voda/2020/58",
+   "short": "HCL Cuza Vodă nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 58/2020 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Local Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/9936",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/9936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-6-2020",
+   "path": "local/constanta/cuza-voda/2020/6",
+   "short": "HCL Cuza Vodă nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 6/2020 privind aprobarea Raportului de activitate al asistenților personali ai persoanelor cu handicap grav, desfășurată în semestrul II al anului 2019",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3178",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-63-2020",
+   "path": "local/constanta/cuza-voda/2020/63",
+   "short": "HCL Cuza Vodă nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 63/2020 privind aprobarea Statutului comunei Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12484",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-64-2020",
+   "path": "local/constanta/cuza-voda/2020/64",
+   "short": "HCL Cuza Vodă nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 64/2020 privind validarea dispoziției Primarului nr. 421/2020, privind rectificarea bugetului local",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12485",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-65-2020",
+   "path": "local/constanta/cuza-voda/2020/65",
+   "short": "HCL Cuza Vodă nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 65/2020 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Cuza Vodă, pe trimestrul III",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12486",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-66-2020",
+   "path": "local/constanta/cuza-voda/2020/66",
+   "short": "HCL Cuza Vodă nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 66/2020 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al Serviciului Public de Alimentare cu Apă și Canalizare Cuza Vodă, pe trimestrul III",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12487",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-67-2020",
+   "path": "local/constanta/cuza-voda/2020/67",
+   "short": "HCL Cuza Vodă nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 67/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12488",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-68-2020",
+   "path": "local/constanta/cuza-voda/2020/68",
+   "short": "HCL Cuza Vodă nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 68/2020 privind rectificarea bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare Cuza Vodă pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12489",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-7-2020",
+   "path": "local/constanta/cuza-voda/2020/7",
+   "short": "HCL Cuza Vodă nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 7/2020 privind aprobarea Planului de acțiuni sau lucrări de interes local pe anul 2020",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3179",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-70-2020",
+   "path": "local/constanta/cuza-voda/2020/70",
+   "short": "HCL Cuza Vodă nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 70/2020 privind acordarea de burse școlare pentru elevii din Școala Gimnazială nr. 1 Cuza Vodă",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12491",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-71-2020",
+   "path": "local/constanta/cuza-voda/2020/71",
+   "short": "HCL Cuza Vodă nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 71/2020 privind aprobarea depunerii proiectului ,,Asfaltare străzi comuna Cuza Vodă, județul Constanța” la C,N.I",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12492",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-72-2020",
+   "path": "local/constanta/cuza-voda/2020/72",
+   "short": "HCL Cuza Vodă nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 72/2020 privind aprobarea depunerii proiectului ,,Reabilitare și supraetajare sediu primărie în comuna Cuza Vodă” la C.N.I",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/12493",
+   "versions": [
+    {
+     "from": "2020-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12493",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cuza-voda-73-2020",
    "path": "local/constanta/cuza-voda/2020/73",
    "short": "HCL Cuza Vodă nr. 73/2020",
@@ -103,6 +988,21 @@
      "from": "2020-12-10",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-8-2020",
+   "path": "local/constanta/cuza-voda/2020/8",
+   "short": "HCL Cuza Vodă nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 8/2020 privind aprobarea ținerii la zi în format letric a registrului agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3180",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3180",
      "sha256": null
     }
    ]
@@ -253,6 +1153,21 @@
      "from": "2020-12-16",
      "units": 1,
      "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/12692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cuza-voda-9-2020",
+   "path": "local/constanta/cuza-voda/2020/9",
+   "short": "HCL Cuza Vodă nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cuza Vodă nr. 9/2020 privind actualizarea documentelor financiare pentru proiect: ,,Lucrări de amenajare perisageră și loc de recreere, amenajare parc comunal, în localitatea Cuza Vodă, comuna Cuza Vodă, județul Constanța",
+   "url": "https://emol.ro/cuzavoda-ct/registru-hcl/3181",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cuzavoda-ct/registru-hcl/3181",
      "sha256": null
     }
    ]

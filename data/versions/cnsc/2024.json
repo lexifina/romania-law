@@ -3,6 +3,111 @@
  "shard": "cnsc/2024",
  "acts": [
   {
+   "slug": "cnsc-decizie-2024-1821",
+   "path": "cnsc/decizie/2024/1821",
+   "short": "Decizia CNSC nr. 1821/C1/1531 din 30.06.2024",
+   "title": "Decizia CNSC nr. 1821/C1/1531 din 30.06.2024: contestația AGO PROIECT ENGINEERING SRL, GENERAL SECURITY SRL în contradictoriu cu MUNICIPIUL BAIA MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzJhNDgwYjMtYjJlZS00Y2UzLWJiZGItZTg5YTUxMGM2YTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODIxLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzJhNDgwYjMtYjJlZS00Y2UzLWJiZGItZTg5YTUxMGM2YTU3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODIxLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "85a83d59c1ab05b974c28d8782f0e2abcfa93909dd6af8ffd640cff888321747"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1855",
+   "path": "cnsc/decizie/2024/1855",
+   "short": "Decizia CNSC nr. 1855/C1/1372 din 02.07.2024",
+   "title": "Decizia CNSC nr. 1855/C1/1372 din 02.07.2024: contestația SSAB AG SA, DAROCONSTRUCT SRL în contradictoriu cu JUDETUL BACAU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmM2ZGE5OTctOWIzNy00MjhmLWFiZjUtZmIzYzlkMGNmZjRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODU1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NmM2ZGE5OTctOWIzNy00MjhmLWFiZjUtZmIzYzlkMGNmZjRm&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODU1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "83504be6bce37fe679e6629f9903e14deac9a4519d4b4575cbe9cb194da006e4"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1922",
+   "path": "cnsc/decizie/2024/1922",
+   "short": "Decizia CNSC nr. 1922/C1/2429 din 08.07.2024",
+   "title": "Decizia CNSC nr. 1922/C1/2429 din 08.07.2024: contestația ADVANCETECH SRL în contradictoriu cu AUTORITATEA ELECTORALA PERMANENTA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzZiYTRjNzctNzliYi00YWQ5LTlhMGUtMzFiODk1MjdjMGU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTIyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YzZiYTRjNzctNzliYi00YWQ5LTlhMGUtMzFiODk1MjdjMGU1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTIyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a6a12f78c9a656039386b31aa0b1a12667a958b2c1f90d2d7121a12782bfd9e9"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-2018",
+   "path": "cnsc/decizie/2024/2018",
+   "short": "Decizia CNSC nr. 2018/C1/1797 din 16.07.2024",
+   "title": "Decizia CNSC nr. 2018/C1/1797 din 16.07.2024: contestația KEYBOARD SRL, KEYBOARD SRL, KEYBOARD SRL, AL KARON SRL, AL KARON SRL în contradictoriu cu CONSILIUL JUDETEAN BUZAU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjljNjdkNTYtNTg4YS00Y2ZmLWE3MjktODVkOTMwMWVmM2Ew&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDE4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjljNjdkNTYtNTg4YS00Y2ZmLWE3MjktODVkOTMwMWVmM2Ew&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDE4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "4c47156117ce4a87b8eb69d45643cea65c2adc611c1fd4ea40f2dbdcb70d056e"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-2160",
+   "path": "cnsc/decizie/2024/2160",
+   "short": "Decizia CNSC nr. 2160/C6/2754 din 29.07.2024",
+   "title": "Decizia CNSC nr. 2160/C6/2754 din 29.07.2024: contestația LOSPA ȘI ASOCIAȚII SOCIETATE CIVILA DE AVOCATI în contradictoriu cu UNITATEA MILITARĂ 0999 BUCUREȘTI (ȘCOALA DE APLICAȚIE PENTRU OFIȚERI ,,MIHAI VITEAZUL,, A JANDARMERIEI ROMÂNE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWE0OGYxZTMtMjcxZS00NDhkLTgyOTEtY2NiOGRmOGMzMGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTYwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWE0OGYxZTMtMjcxZS00NDhkLTgyOTEtY2NiOGRmOGMzMGM5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTYwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "ff96b54b4bee9d636ef3c28fccf7292426b7e08a2e154dd2114cd2132275fd5f"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-2282",
+   "path": "cnsc/decizie/2024/2282",
+   "short": "Decizia CNSC nr. 2282/C1/2169 din 06.08.2024",
+   "title": "Decizia CNSC nr. 2282/C1/2169 din 06.08.2024: contestația INOVACONS SRL, CLEAN AQUA PROJECT SRL în contradictoriu cu COMPANIA JUDETEANA APA SERV S.A. NEAMT",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mzg1Y2M2NzMtNGRmYS00MWE1LWFhZWQtMzlhNDgwN2E3ZWIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjgyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mzg1Y2M2NzMtNGRmYS00MWE1LWFhZWQtMzlhNDgwN2E3ZWIz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjgyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "88999b883ad55a9a7f5ac13219139024e4a5a25ce98f2405798306e6abdb7073"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-2288",
+   "path": "cnsc/decizie/2024/2288",
+   "short": "Decizia CNSC nr. 2288/C6/2958 din 07.08.2024",
+   "title": "Decizia CNSC nr. 2288/C6/2958 din 07.08.2024: contestația DIAMOND 23 INVEST SRL în contradictoriu cu MINISTERUL APĂRĂRII - UNITATEA MILITARĂ 02133",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGMwNmI2YmEtY2M4Zi00Mzc4LTg5NmQtMjlmMGFmMTYzMTdk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjg4LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OGMwNmI2YmEtY2M4Zi00Mzc4LTg5NmQtMjlmMGFmMTYzMTdk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMjg4LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "13599e9a069e627eeee8fb10befa080d224e06f03ab9bd50621ebf69f99679bb"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2024-2506",
    "path": "cnsc/decizie/2024/2506",
    "short": "Decizia CNSC nr. 2506/C6/2838 din 26.08.2024",

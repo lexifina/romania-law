@@ -3,6 +3,261 @@
  "shard": "local/constanta/baneasa/2022",
  "acts": [
   {
+   "slug": "hcl-constanta--baneasa-10-2022",
+   "path": "local/constanta/baneasa/2022/10",
+   "short": "HCL Băneasa nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 10/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51124",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-11-2022",
+   "path": "local/constanta/baneasa/2022/11",
+   "short": "HCL Băneasa nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 11/2022 Privind aprobarea bugetului de venituri si cheltuieli al Clubului Sportiv „GLORIA BĂNEASA” persoană juridică de drept public în subordinea Consiliului Local al Comunei Băneasa, pentru anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51125",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-20-2022",
+   "path": "local/constanta/baneasa/2022/20",
+   "short": "HCL Băneasa nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 20/2022 privind avizarea Documentației de atribuire a contractului de delegare a gestiunii prin concesiune a serviciului de salubrizare pentru activitățile de sortare, tratare mecano-biologică și depozitare a deșeurilor municipale din județul Constanța în Zona 3 aferentă Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța” și acordarea unor mandate",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62279",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-22-2022",
+   "path": "local/constanta/baneasa/2022/22",
+   "short": "HCL Băneasa nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 22/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62281",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-24-2022",
+   "path": "local/constanta/baneasa/2022/24",
+   "short": "HCL Băneasa nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 24/2022 privind incheierea contului anual de execuţie a bugetului local pe anul 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62283",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-25-2022",
+   "path": "local/constanta/baneasa/2022/25",
+   "short": "HCL Băneasa nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 25/2022 Privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţie „ENERGIE CURATA PENTRU SCOLILE DIN MEDIUL RURAL CERS – CLEAN ENERGY FOR RURAL SCHOOLS IN COMUNA BĂNEASA, JUDETUL CONSTANTA”, cuprinși în devizul general, faza de proiectare PT+DE, PAC, POE",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62284",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-26-2022",
+   "path": "local/constanta/baneasa/2022/26",
+   "short": "HCL Băneasa nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 26/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62285",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-28-2022",
+   "path": "local/constanta/baneasa/2022/28",
+   "short": "HCL Băneasa nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 28/2022 privind incheierea contului anual de execuţie al bugetului Club Sportiv „GLORIA „ Băneasa, pe anul 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/62287",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/62287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-3-2022",
+   "path": "local/constanta/baneasa/2022/3",
+   "short": "HCL Băneasa nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 3/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51117",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-31-2022",
+   "path": "local/constanta/baneasa/2022/31",
+   "short": "HCL Băneasa nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 31/2022 Privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiţie „CENTRU COMUNITAR INTEGRAT ÎN COMUNA BĂNEASA, JUDEȚUL CONSTANȚA”, faza de proiectare Documentația de Avizare a Lucrarilor de Interventii (DALI)",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/64884",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/64884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-34-2022",
+   "path": "local/constanta/baneasa/2022/34",
+   "short": "HCL Băneasa nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 34/2022 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Băneasa şi din serviciile publice din subordinea Consiliului Local al Comunei Baneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/64887",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/64887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-35-2022",
+   "path": "local/constanta/baneasa/2022/35",
+   "short": "HCL Băneasa nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 35/2022 privind aprobarea structurii organizatorice şi a funcţiilor din cadrul aparatului de specialitate al primarului precum şi pentru aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al primarului",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/64888",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/64888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-37-2022",
+   "path": "local/constanta/baneasa/2022/37",
+   "short": "HCL Băneasa nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 37/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/66450",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/66450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-38-2022",
+   "path": "local/constanta/baneasa/2022/38",
+   "short": "HCL Băneasa nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 38/2022 privind rectificarea bugetului local si modificarea si completarea listei obiectivelor de investitii pe anul 2022, luna IULIE 2022 RECTIFICARE III",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/66451",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/66451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-47-2022",
+   "path": "local/constanta/baneasa/2022/47",
+   "short": "HCL Băneasa nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 47/2022 privind înfiinţarea Serviciului de gestionare a câinilor fară stăpân al comunei Băneasa, judeţul Constanța",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/77657",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/77657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-48-2022",
+   "path": "local/constanta/baneasa/2022/48",
+   "short": "HCL Băneasa nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 48/2022 Privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, începând cu luna Noiembrie 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/77658",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/77658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-5-2022",
+   "path": "local/constanta/baneasa/2022/5",
+   "short": "HCL Băneasa nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 5/2022 privind aprobarea Planului anual de acţiuni şi lucrări de interes local pentru persoanele apte de muncă beneficiare de venit minim garantat, pentru anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51119",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51119",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-50-2022",
    "path": "local/constanta/baneasa/2022/50",
    "short": "HCL Băneasa nr. 50/2022",
@@ -153,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--baneasa-6-2022",
+   "path": "local/constanta/baneasa/2022/6",
+   "short": "HCL Băneasa nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 6/2022 Pentru validarea Dispoziției primarului nr. 389/22.12.2021 privind rectificarea bugetului local",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51120",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51120",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--baneasa-60-2022",
    "path": "local/constanta/baneasa/2022/60",
    "short": "HCL Băneasa nr. 60/2022",
@@ -298,6 +568,51 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/baneasa-ct/registru-hcl/83687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-7-2022",
+   "path": "local/constanta/baneasa/2022/7",
+   "short": "HCL Băneasa nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 7/2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51121",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-8-2022",
+   "path": "local/constanta/baneasa/2022/8",
+   "short": "HCL Băneasa nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 8/2022 privind utilizarea excedentului bugetar rezultat la încheierea exerciţiului bugetar pentru anul 2021, ca sursă de finanţare a cheltuielilor secţiunii de dezvoltare, pentru lucrari de investitii propuse a se realiza in anul 2022 conform planului de investitii",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51122",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-9-2022",
+   "path": "local/constanta/baneasa/2022/9",
+   "short": "HCL Băneasa nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 9/2022 privind adoptarea bugetului general local de venituri si cheltuieli pe anul 2022 si estimarea bugetului de venituri si cheltuieli pentru anii 2023-2025 al Comunei Băneasa",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/51123",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/51123",
      "sha256": null
     }
    ]

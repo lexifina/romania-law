@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/bihor/valea-lui-mihai/2012",
+"acts": [
+{
+"slug": "hcl-bihor--valea-lui-mihai-3-2012",
+"path": "local/bihor/valea-lui-mihai/2012/3",
+"kind": "local",
+"year": "2012",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 3/2012",
+"short": "HCL Valea lui Mihai nr. 3/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-06-26",
+"latest": "2012-06-26",
+"portal": null,
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-29-2012",
+"path": "local/bihor/valea-lui-mihai/2012/29",
+"kind": "local",
+"year": "2012",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 29/2012 privind aprobarea Planului Urbanistic Zonal: „Schimbare de destinație din locuință în spații comerciale servicii și locuire”, amplasament: orașul Valea lui Mihai str",
+"short": "HCL Valea lui Mihai nr. 29/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-26",
+"latest": "2012-09-26",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--valea-lui-mihai-30-2012",
+"path": "local/bihor/valea-lui-mihai/2012/30",
+"kind": "local",
+"year": "2012",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Valea lui Mihai nr. 30/2012 privind aprobarea Planului Urbanistic Zonal: „Amplasare sediu firmă”, amplasament: orașul Valea lui Mihai str",
+"short": "HCL Valea lui Mihai nr. 30/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-26",
+"latest": "2012-09-26",
+"portal": "https://valealuimihai.ro/hotararile-consiliului-local/",
+"council": "bihor/valea-lui-mihai",
+"council_name": "Consiliul Local al Orașului Valea lui Mihai",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

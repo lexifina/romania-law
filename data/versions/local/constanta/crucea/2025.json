@@ -3,6 +3,21 @@
  "shard": "local/constanta/crucea/2025",
  "acts": [
   {
+   "slug": "hcl-constanta--crucea-10-2025",
+   "path": "local/constanta/crucea/2025/10",
+   "short": "HCL Crucea nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 10/2025 privind aprobarea indicatorilor economici și a cofinanțării investiției, privind actualizarea Planului Urbanistic General al comunei Crucea (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) al comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194677",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--crucea-100-2025",
    "path": "local/constanta/crucea/2025/100",
    "short": "HCL Crucea nr. 100/2025",
@@ -58,6 +73,966 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/244046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-11-2025",
+   "path": "local/constanta/crucea/2025/11",
+   "short": "HCL Crucea nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 11/2025 privind constituirea dreptului de uz și servitute, de acces pe drum, aparținând domeniului public al comunei Crucea, precum și dreptul de amplasare de cabluri și rețele electrice în subteranul și deasupra acestuia, cu titlu gratuit, în favoarea SC Rețele Electrice Dobrogea S.A prin Comuna Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194678",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-12-2025",
+   "path": "local/constanta/crucea/2025/12",
+   "short": "HCL Crucea nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 12/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194679",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-13-2025",
+   "path": "local/constanta/crucea/2025/13",
+   "short": "HCL Crucea nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 13/2025 privind atribuirea unor numere administrative în localitatea Crucea, comuna Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194680",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-14-2025",
+   "path": "local/constanta/crucea/2025/14",
+   "short": "HCL Crucea nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 14/2025 privind darea în folosinţă gratuită a bunurilor imobile care aparţin domeniului public al comunei Crucea către Liceul tehnologic Crucea, unitate de învăţământ preuniversitar de stat cu personalitate juridică în scopul şi cu destinaţia desfăşurării procesului de învăţământ",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194681",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-15-2025",
+   "path": "local/constanta/crucea/2025/15",
+   "short": "HCL Crucea nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 15/2025 privind aprobarea Devizului general al obiectivului de investiții „Înființare piste de biciclete în intravilanul și extravilanul localității Crucea, județul Constanța”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194682",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-16-2025",
+   "path": "local/constanta/crucea/2025/16",
+   "short": "HCL Crucea nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 16/2025 privind participare Comunei Crucea la „Programul Interreg VI-A România-Bulgaria”, Prioritatea 4 “O Regiune Integrată”, Obiectivul Specific 5.2 „Promovarea dezvoltării sociale, economice și de mediu integrate și favorabile incluziunii, a culturii, a patrimoniului natural, a turismului durabil și a securității, în alte zone decât zonele urbane”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/194683",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/194683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-18-2025",
+   "path": "local/constanta/crucea/2025/18",
+   "short": "HCL Crucea nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 18/2025 privind aprobarea delegării gestiunii serviciului de iluminat public al comunei Crucea, județul Constanța, partea modernizată prin proiectul ”Modernizarea sistemului de iluminat public în comuna Crucea, satele Crișan,Șiriu, Băltăgești”, finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/196748",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/196748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-19-2025",
+   "path": "local/constanta/crucea/2025/19",
+   "short": "HCL Crucea nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 19/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/196749",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/196749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-2-2025",
+   "path": "local/constanta/crucea/2025/2",
+   "short": "HCL Crucea nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 2/2025 privind aprobarea contului de execuție bugetară pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191506",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-21-2025",
+   "path": "local/constanta/crucea/2025/21",
+   "short": "HCL Crucea nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 21/2025 privind aprobarea bugetului de venituri si cheltuieli pe anul 2025 si estimarea bugetului de venituri si cheltuieli pentru anii 2026-2028",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/199053",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/199053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-22-2025",
+   "path": "local/constanta/crucea/2025/22",
+   "short": "HCL Crucea nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 22/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/199054",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/199054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-24-2025",
+   "path": "local/constanta/crucea/2025/24",
+   "short": "HCL Crucea nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 24/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/199056",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/199056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-26-2025",
+   "path": "local/constanta/crucea/2025/26",
+   "short": "HCL Crucea nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 26/2025 privind rectificarea bugetului local pe anul 2025 și a listei de investiții aferentă",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204033",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-27-2025",
+   "path": "local/constanta/crucea/2025/27",
+   "short": "HCL Crucea nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 27/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 108191",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204573",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-28-2025",
+   "path": "local/constanta/crucea/2025/28",
+   "short": "HCL Crucea nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 28/2025 privind aprobarea contului de execuție bugetară pentru trimestrul I al anului 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204574",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-29-2025",
+   "path": "local/constanta/crucea/2025/29",
+   "short": "HCL Crucea nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 29/2025 privind aprobarea indexării cu rata inflației de 5,6% a impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204575",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-3-2025",
+   "path": "local/constanta/crucea/2025/3",
+   "short": "HCL Crucea nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 3/2025 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Crucea și a serviciilor publice",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191507",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-30-2025",
+   "path": "local/constanta/crucea/2025/30",
+   "short": "HCL Crucea nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 30/2025 privind revocarea Hotărârii nr.14/28.02.2025 privind darea în folosinţă gratuită a bunurilor imobile care aparţin domeniului public al comunei Crucea către Liceul tehnologic Crucea, unitate de învăţământ preuniversitar de stat cu personalitate juridică în scopul şi cu destinaţia desfăşurării procesului de învăţământ",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204576",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-31-2025",
+   "path": "local/constanta/crucea/2025/31",
+   "short": "HCL Crucea nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 31/2025 privind atribuirea unui număr administrativ în localitatea Stupina, comuna Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204577",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-32-2025",
+   "path": "local/constanta/crucea/2025/32",
+   "short": "HCL Crucea nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 32/2025 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2025 pentru Societatea Crucea Multiservice S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204578",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-33-2025",
+   "path": "local/constanta/crucea/2025/33",
+   "short": "HCL Crucea nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 33/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 104156",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/204579",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/204579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-34-2025",
+   "path": "local/constanta/crucea/2025/34",
+   "short": "HCL Crucea nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 34/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/208744",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/208744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-35-2025",
+   "path": "local/constanta/crucea/2025/35",
+   "short": "HCL Crucea nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 35/2025 privind aprobarea indicatorilor tehnico - economici rezultați în urma aplicării clauzelor de ajustare a prețurilor în vederea suplimentării sumelor din contractului de finanţare pentru obiectivul de investiții „Modernizare drumuri în localitatea Șiriu, Comuna Crucea, Județul Constanța”, aprobat pentru finanţare prin Programul naţional de investiţii „Anghel Saligny”, precum şi a sumei reprezentând categoriile de cheltuieli finanţate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209740",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-36-2025",
+   "path": "local/constanta/crucea/2025/36",
+   "short": "HCL Crucea nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 36/2025 privind aprobare Devizului general și a indicatorilor tehnico - economici rezultați la faza Proiect tehnic pentru obiectivul de investiții ” Sistem fotovoltaic On Grid având Pi - 279,9 kWp” pentru UAT Crucea, jud.Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209741",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-37-2025",
+   "path": "local/constanta/crucea/2025/37",
+   "short": "HCL Crucea nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 37/2025 privind atribuirea unui număr administrativ în localitatea Crucea, comuna Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209742",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-38-2025",
+   "path": "local/constanta/crucea/2025/38",
+   "short": "HCL Crucea nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 38/2025 privind rectificarea bugetului local pe anul 2025 și a listei de investiții aferentă",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209743",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-39-2025",
+   "path": "local/constanta/crucea/2025/39",
+   "short": "HCL Crucea nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 39/2025 privind reaprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 104156",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209744",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-40-2025",
+   "path": "local/constanta/crucea/2025/40",
+   "short": "HCL Crucea nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 40/2025 privind aprobarea modificării Statului de funcții pentrul aparatul de specialitate al primarului comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209745",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-41-2025",
+   "path": "local/constanta/crucea/2025/41",
+   "short": "HCL Crucea nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 41/2025 privind aprobarea transferului dreptului de proprietate cu titlu gratuit a bunului mobil – activ fix - 1 microbuz electric școlar achiziționat prin proiectul „Dotarea cu microbuze electrice pentru elevi ai unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209746",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-42-2025",
+   "path": "local/constanta/crucea/2025/42",
+   "short": "HCL Crucea nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 42/2025 privind constituirea dreptului de uz si servitute asupra unor imobile terenuri, proprietatea comunei Crucea, precum și dreptul de amplasare în subsolul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente, a cablurilor și rețelelor electrice necesare pentru conectarea la S.E.N a Parcului eolian WINDS FIELDS",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209747",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-43-2025",
+   "path": "local/constanta/crucea/2025/43",
+   "short": "HCL Crucea nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 43/2025 privind constituirea dreptului de uz si servitute asupra unor imobile terenuri, proprietatea comunei Crucea, precum și dreptul de amplasare în subsolul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente, a cablurilor și rețelelor electrice necesare pentru conectarea la S.E.N a Parcului fotovoltaic BĂLTĂGEȘTI, în favoarea SOLAR TWINS S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/209748",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/209748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-44-2025",
+   "path": "local/constanta/crucea/2025/44",
+   "short": "HCL Crucea nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 44/2025 privind necesitatea și oportunitatea reînnoirii parcului auto al UAT Comuna Crucea, juețul Constanța prin achiziționarea autovehiculelor noi pur electrice sau autovehiculelor noi electrice hibride",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/210835",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/210835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-45-2025",
+   "path": "local/constanta/crucea/2025/45",
+   "short": "HCL Crucea nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 45/2025 privind aprobarea Devizului general actualizat al obiectivului de investiții ” Înființare sistem de canalizare ape uzate menajere în sat Gălbiori, comuna Crucea, județul Constanța”, ca urmare a modificării valorii echipamentului stație de epurare prin actualizarea soluției tehnice",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/212446",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/212446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-46-2025",
+   "path": "local/constanta/crucea/2025/46",
+   "short": "HCL Crucea nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 46/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/214287",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/214287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-48-2025",
+   "path": "local/constanta/crucea/2025/48",
+   "short": "HCL Crucea nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 48/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/214289",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/214289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-50-2025",
+   "path": "local/constanta/crucea/2025/50",
+   "short": "HCL Crucea nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 50/2025 privind aprobarea Devizului general actualizat la faza Proiect tehnic, pentru obiectivul de investiție CONSTRUIRE ANEXA PARTER - CAPELA MORTUARĂ",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/214291",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/214291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-52-2025",
+   "path": "local/constanta/crucea/2025/52",
+   "short": "HCL Crucea nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 52/2025 privind constituirea dreptului de acces, utilizare, modernizare și consolidare a unor drumuri de explotare, aparținând domeniului public al comunei Crucea, precum și dreptul de amplasare în subteranul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente acestora a cablurilor și rețelelor electrice necesare pentru construirea unui parc eolian, în favoarea Monsson Trading S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217166",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-53-2025",
+   "path": "local/constanta/crucea/2025/53",
+   "short": "HCL Crucea nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 53/2025 privind constituirea dreptului de acces, utilizare, modernizare și consolidare a unor drumuri de explotare, aparținând domeniului public al comunei Crucea și a unor terenuri neproductive, precum și dreptul de amplasare în subteranul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente acestora a cablurilor și rețelelor electrice necesare pentru construirea unor Centrale Electrice Fotovoltaice în favoarea STUPINA SOLAR S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217167",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-54-2025",
+   "path": "local/constanta/crucea/2025/54",
+   "short": "HCL Crucea nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 54/2025 privind constituirea dreptului de uz si servitute drumului de exploatare De718/5 apartinând domeniului public al comunei Crucea, precum și dreptul de amplasare în subsolul acestuia cât și în zonele de protecție și/sau siguranță adiacente, a cablurilor și echipamentelor electrice necesare pentru construirea Instalației de Stocare Energie Electrică, în favoarea COMPLEX ENERGY SYSTEMS SRL",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217168",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-55-2025",
+   "path": "local/constanta/crucea/2025/55",
+   "short": "HCL Crucea nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 55/2025 privind aprobarea contului de execuție bugetară pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217169",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-56-2025",
+   "path": "local/constanta/crucea/2025/56",
+   "short": "HCL Crucea nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 56/2025 privind declararea unui teren situat pe teritoriul Unității Administrativ Teritoriale Comuna Crucea, județul Constanța, ca bun de uz și de interes public local, clasificat drum, categorie funcțională stradă și atribuirea denumirii ” Strada Prelungirea Argeșului”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217170",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-57-2025",
+   "path": "local/constanta/crucea/2025/57",
+   "short": "HCL Crucea nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 57/2025 privind aprobarea Actului adițional nr. 2 la Documentul de Poziție privind modul de implementare a Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța”",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217171",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-58-2025",
+   "path": "local/constanta/crucea/2025/58",
+   "short": "HCL Crucea nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 58/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/217172",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/217172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-59-2025",
+   "path": "local/constanta/crucea/2025/59",
+   "short": "HCL Crucea nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 59/2025 privind reorganizarea, organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență de tip V2 al comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/221000",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/221000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-6-2025",
+   "path": "local/constanta/crucea/2025/6",
+   "short": "HCL Crucea nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 6/2025 privind aprobarea Planului anual de acţiuni si lucrari de interes local pe anul 2025 conform Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191510",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-60-2025",
+   "path": "local/constanta/crucea/2025/60",
+   "short": "HCL Crucea nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 60/2025 privind aprobarea aderării UAT Comuna Crucea la ASOCIAȚIA GRUP LOCAL DOBROGEA NORD",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/221001",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/221001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-61-2025",
+   "path": "local/constanta/crucea/2025/61",
+   "short": "HCL Crucea nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 61/2025 privind aprobarea Regulamentului referitor la condițiile de desfășurare a activităților de comerț stradal și de amplasare a teraselor pe raza comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222188",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-62-2025",
+   "path": "local/constanta/crucea/2025/62",
+   "short": "HCL Crucea nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 62/2025 privind constituirea dreptului de uz si servitute asupra imobilelor De 262/1 și De 261 a, proprietatea comunei Crucea, precum și dreptul de amplasare în subsolul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente, a cablurilor și rețelelor electrice necesare pentru conectarea la S.E.N a Parcului eolian WINDS FIELDS",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222189",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-63-2025",
+   "path": "local/constanta/crucea/2025/63",
+   "short": "HCL Crucea nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 63/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 106699",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222190",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-64-2025",
+   "path": "local/constanta/crucea/2025/64",
+   "short": "HCL Crucea nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 64/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 106749",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222191",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-65-2025",
+   "path": "local/constanta/crucea/2025/65",
+   "short": "HCL Crucea nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 65/2025 privind aprobarea documentatiei de dezmembrare a unui imobil - teren înscris în Cartea Funciară Crucea, având numărul cadastral 106674",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222192",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-66-2025",
+   "path": "local/constanta/crucea/2025/66",
+   "short": "HCL Crucea nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 66/2025 privind actualizarea listei terenurilor disponible, aflate în domeniul privat al Comunei Crucea, județul Constanța, care pot fi atribuite în folosința gratuită tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222193",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-67-2025",
+   "path": "local/constanta/crucea/2025/67",
+   "short": "HCL Crucea nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 67/2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/222194",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/222194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-69-2025",
+   "path": "local/constanta/crucea/2025/69",
+   "short": "HCL Crucea nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 69/2025 privind aprobarea organigramei aparatului de specialitate al primarului comunei Crucea și a serviciilor publice",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/223797",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/223797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-7-2025",
+   "path": "local/constanta/crucea/2025/7",
+   "short": "HCL Crucea nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 7/2025 privind revocarea Hotărârii nr.85/28.10.2024 privind alegerea viceprimarului Comunei Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191511",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-72-2025",
+   "path": "local/constanta/crucea/2025/72",
+   "short": "HCL Crucea nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 72/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/223800",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/223800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-73-2025",
+   "path": "local/constanta/crucea/2025/73",
+   "short": "HCL Crucea nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 73/2025 privind constituirea dreptului de uz si servitute asupra unor imobile terenuri, proprietatea comunei Crucea, precum și dreptul de amplasare în subsolul sau pe deasupra acestora cât și în zonele de protecție și/sau siguranță adiacente, a cablurilor și rețelelor electrice necesare pentru dezvoltarea unui proiect hibrid compus din Istalație de Stocare si Centrală Electrică Fotovoltaică, în favoarea PPC RENEWABLES ROMANIA S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226459",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-74-2025",
+   "path": "local/constanta/crucea/2025/74",
+   "short": "HCL Crucea nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 74/2025 privind constituirea dreptului de uz și servitute, de acces pe drum aparținând domeniului public al comunei Crucea, precum și dreptului de amplasare subterană și de suprafață a echipamentelor pentru execuția lucrării” Realizare branșament trifazat a obiectivului CEF/ANEXA 1 SSP amplasată în Comuna Crucea, Aleea Fermei- Complex Zootehnic”, cu titlu gratuit, în favoarea societății AL KASTAL CHARTERING SRL",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226460",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-75-2025",
+   "path": "local/constanta/crucea/2025/75",
+   "short": "HCL Crucea nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 75/2025 privind atribuirea unui număr administrativ în localitatea Crucea, comuna Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226461",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-76-2025",
+   "path": "local/constanta/crucea/2025/76",
+   "short": "HCL Crucea nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 76/2025 privind atestarea apartenenței la domeniul privat al comunei Crucea a unui imobil, teren situat în localitatea Crucea, comuna Crucea",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226462",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-77-2025",
+   "path": "local/constanta/crucea/2025/77",
+   "short": "HCL Crucea nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 77/2025 privind aprobarea fazelor Notă conceptuală și Temă de proiectare în vederea elaborării documentației tehnico-economice pentru obiectivul de investiții ”Capacități de stocare a energiei electrice pentru sistem fotovoltaic On Grid având Pi - 279,9 kWp” pentru UAT Crucea, Jud. Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226463",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-78-2025",
+   "path": "local/constanta/crucea/2025/78",
+   "short": "HCL Crucea nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 78/2025 privind aprobarea modificării Statului de funcții pentrul aparatul de specialitate al primarului comunei Crucea, județul Constanța",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/226464",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/226464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-81-2025",
+   "path": "local/constanta/crucea/2025/81",
+   "short": "HCL Crucea nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 81/2025 privind aprobarea contului de execuție bugetară pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/234724",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/234724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-82-2025",
+   "path": "local/constanta/crucea/2025/82",
+   "short": "HCL Crucea nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 82/2025 privind constituirea dreptului de uz și servitute, de acces pe drum, aparținând domeniului public al comunei Crucea, precum și dreptul de amplasare de cabluri și rețele electrice în subteranul acestuia, cu titlu gratuit, în favoarea S.C REȚELE ELECTRICE ROMÂNIA S.A prin OPTICA OKILOR S.R.L",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/234725",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/234725",
      "sha256": null
     }
    ]
@@ -148,6 +1123,21 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/crucea-ct/registru-hcl/239022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--crucea-9-2025",
+   "path": "local/constanta/crucea/2025/9",
+   "short": "HCL Crucea nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Crucea nr. 9/2025 privind aprobarea Devizului actualizat pentru noii indicatori tehnico-economici ai obiectivului de investitii “Construire Complex Sportiv Al. Fermei, nr. 2, sat Crucea, comuna Crucea, județul Constanța\"",
+   "url": "https://emol.ro/crucea-ct/registru-hcl/191707",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/crucea-ct/registru-hcl/191707",
      "sha256": null
     }
    ]

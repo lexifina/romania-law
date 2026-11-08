@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/ineu/2012",
+ "acts": [
+  {
+   "slug": "hcl-arad--ineu-73-2012",
+   "path": "local/arad/ineu/2012/73",
+   "short": "HCL Ineu nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Ineu nr. 73/2012",
+   "url": "https://primariaineu.ro/wp-content/uploads/2013/08/h73-29.06.12.pdf",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "https://primariaineu.ro/wp-content/uploads/2013/08/h73-29.06.12.pdf",
+     "sha256": "80c0b1084354daf664f5d10ea78cb0f3c917c8bb5be26ac0d4b630e848213ce5"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2012",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-39-2012",
+   "path": "local/arad/nadlac/2012/39",
+   "short": "HCL Nădlac nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Martie/hot_39_-_2012.pdf",
+     "sha256": "721c89c9ae0a1f827b27084005d29842319f69d25586f8cbb177204348a0e175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-40-2012",
+   "path": "local/arad/nadlac/2012/40",
+   "short": "HCL Nădlac nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2012 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare – epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Martie/hot_40_-_2012.pdf",
+     "sha256": "9c837cb2f91e1ec69704df43e13fecb54ce4d549a7cdf283cf392c5a5a76ecc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-44-2012",
+   "path": "local/arad/nadlac/2012/44",
+   "short": "HCL Nădlac nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 44/2012 privind a probarea scutirii de la plata impozitului pe clădire proprietatea Societă ții Culturale și Științifice Ivan Krasko",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Aprilie/hot_44_-_2012.pdf",
+     "sha256": "a25374322f8eb887a323ceab67e3f06f07886747558d848b4f38e1da09275a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-45-2012",
+   "path": "local/arad/nadlac/2012/45",
+   "short": "HCL Nădlac nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 45/2012 privind a probarea scutirii de la plata impozitului pe clădire proprietatea Uniunii Democratice a Slovacilor și Cehilor din România",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Aprilie/hot_45_-_2012.pdf",
+     "sha256": "4fc5f7d95cee2c5b6cd3f8f7305ee06f1702207d8ca81911d6ee141ec3c78a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-63-2012",
+   "path": "local/arad/nadlac/2012/63",
+   "short": "HCL Nădlac nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 63/2012 privind prelungirea valabilită ții Planului Urbanistic General și a R egulamentului Loc al de Urbanism al ora șului Nădlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Mai/hot_63_-_2012.pdf",
+     "sha256": "36c90dd60a4129755fc25ff8ee0157ac9918f8631e7ac06a5ad82004358ebebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-72-2012",
+   "path": "local/arad/nadlac/2012/72",
+   "short": "HCL Nădlac nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 72/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Mai/hot_72_-_2012.pdf",
+     "sha256": "d7fb9a7c278f372623661c30777002771ad5bf8e6db1a57a15ad904ac51670b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-95-2012",
+   "path": "local/arad/nadlac/2012/95",
+   "short": "HCL Nădlac nr. 95/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 95/2012 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare – epurare",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2012-2/",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 4,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2012/Iulie/hot.%2095%20-%202012.pdf",
+     "sha256": "6abb12338c9a53508d6d761c9572f4e7721f5656fbaa6d6a79dff6528d657721"
+    }
+   ]
+  }
+ ]
+}

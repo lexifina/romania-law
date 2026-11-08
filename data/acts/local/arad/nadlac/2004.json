@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2004",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-3-2004",
+"path": "local/arad/nadlac/2004/3",
+"kind": "local",
+"year": "2004",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 3/2004 privind stabilirea taxelor speciale pentru servicii prestate de catre Serviciul Public Edilitar- Gospodaresc",
+"short": "HCL Nădlac nr. 3/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-01-08",
+"latest": "2004-01-08",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-4-2004",
+"path": "local/arad/nadlac/2004/4",
+"kind": "local",
+"year": "2004",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 4/2004 privind stabilirea taxelor speciale pe anul 2004 în vederea finantarii cheltuielilor de întretinere si functionare a Serviciului Public de Pompieri Civili al orasului Nadlac",
+"short": "HCL Nădlac nr. 4/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-01-08",
+"latest": "2004-01-08",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-5-2004",
+"path": "local/arad/nadlac/2004/5",
+"kind": "local",
+"year": "2004",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 5/2004 privind aprobarea tarifelor pentru activitatea de salubrizare",
+"short": "HCL Nădlac nr. 5/2004",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2004-01-08",
+"latest": "2004-01-08",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-arad--nadlac-78-2004",
+"path": "local/arad/nadlac/2004/78",
+"kind": "local",
+"year": "2004",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 78/2004 privind stabilirea impozitelor si taxelor locale, valorilor impozabile si a cotelor procentuale prevazute în limite pentru anul 2005",
+"short": "HCL Nădlac nr. 78/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-05-25",
+"latest": "2004-05-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-81-2004",
+"path": "local/arad/nadlac/2004/81",
+"kind": "local",
+"year": "2004",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 81/2004 privind stabilirea taxelor speciale pentru servicii prestate de catre Serviciul Public Edilitar- Gospodaresc pentru anul 2005",
+"short": "HCL Nădlac nr. 81/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-05-25",
+"latest": "2004-05-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-82-2004",
+"path": "local/arad/nadlac/2004/82",
+"kind": "local",
+"year": "2004",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 82/2004 privind stabilirea taxelor speciale pe anul 2005 în vederea finantarii cheltuielilor de întretinere si functionare a Serviciului public de pompieri civili al orasului Nadlac",
+"short": "HCL Nădlac nr. 82/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-05-25",
+"latest": "2004-05-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-84-2004",
+"path": "local/arad/nadlac/2004/84",
+"kind": "local",
+"year": "2004",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 84/2004 privind aprobarea Regulamentului Intern de organizare si functionare al Primariei orasului Nadlac",
+"short": "HCL Nădlac nr. 84/2004",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2004-05-25",
+"latest": "2004-05-25",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-124-2004",
+"path": "local/arad/nadlac/2004/124",
+"kind": "local",
+"year": "2004",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 124/2004 privind modificarea art.1 din HCL nr. 78/25.05.2004 privind stabilirea impozitelor si taxelor locale, valorilor impozabile si a cotelor procentuale prevazute în limite pentru anul 2005",
+"short": "HCL Nădlac nr. 124/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-08-17",
+"latest": "2004-08-17",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-128-2004",
+"path": "local/arad/nadlac/2004/128",
+"kind": "local",
+"year": "2004",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 128/2004 privind acordul de principiu referitor la modificarea Planului Urbanistic General al orasului Nadlac prin elaborarea unui Plan Urbanistic zonal",
+"short": "HCL Nădlac nr. 128/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-08-17",
+"latest": "2004-08-17",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-142-2004",
+"path": "local/arad/nadlac/2004/142",
+"kind": "local",
+"year": "2004",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 142/2004 privind aprobarea majorarii tarifelor pentru serviciul apa-canal în conformitate cu o schema agreata",
+"short": "HCL Nădlac nr. 142/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-09-30",
+"latest": "2004-09-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-157-2004",
+"path": "local/arad/nadlac/2004/157",
+"kind": "local",
+"year": "2004",
+"number": "157",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 157/2004 privind stabilirea criteriilor de acordare a venitului minim garantat pentru anul 2005",
+"short": "HCL Nădlac nr. 157/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-10-26",
+"latest": "2004-10-26",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-176-2004",
+"path": "local/arad/nadlac/2004/176",
+"kind": "local",
+"year": "2004",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 176/2004 privind aprobarea Regulamentului Comitetului local pentru situatii de urgenta al orasului Nadlac",
+"short": "HCL Nădlac nr. 176/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-11-16",
+"latest": "2004-11-16",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-195-2004",
+"path": "local/arad/nadlac/2004/195",
+"kind": "local",
+"year": "2004",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 195/2004 privind modificarea anexei nr. 1 din Hotarârea Consiliului local nr. 31/31.10.1994 privind încadrarea terenurilor pe zone în cadrul localitatii în vederea stabilirii impozitului pentru contribuabilii care detin în proprietate suprafete de teren ocupate de cladiri si",
+"short": "HCL Nădlac nr. 195/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-12-30",
+"latest": "2004-12-30",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2021-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/nadlac/2005",
+ "acts": [
+  {
+   "slug": "hcl-arad--nadlac-114-2005",
+   "path": "local/arad/nadlac/2005/114",
+   "short": "HCL Nădlac nr. 114/2005",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 114/2005 privind modificarea si completarea Hotarârii Consiliului Local nr. 76/28.06.2005 privind impozitele si taxele locale",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2005/",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2005/Octombrie/hot_114_-_2005.pdf",
+     "sha256": "491d6048028d859f12614a13a6a9259f23aaa3e56f68cb660e0b197b868a8fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-129-2005",
+   "path": "local/arad/nadlac/2005/129",
+   "short": "HCL Nădlac nr. 129/2005",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 129/2005 privind stabilirea criteriilor de acordare a venitului minim garantat",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2005/",
+   "versions": [
+    {
+     "from": "2005-11-18",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2005/Noiembrie/hot_129_-_2005.pdf",
+     "sha256": "a0c4b5d258495404a7d85e29819e9246155dc2b4c139470bc5eb8ada12a69b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-16-2005",
+   "path": "local/arad/nadlac/2005/16",
+   "short": "HCL Nădlac nr. 16/2005",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 16/2005 privind aprobarea Regulamentului Serviciului Centrului de zi de îngrijire a copiilor Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2005/",
+   "versions": [
+    {
+     "from": "2005-02-22",
+     "units": 3,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2005/Februarie/hot_16_-_2005.pdf",
+     "sha256": "4abb24e345da644cedf3469ebc66d996813f616a95d0701b030c6b92f6302d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--nadlac-25-2005",
+   "path": "local/arad/nadlac/2005/25",
+   "short": "HCL Nădlac nr. 25/2005",
+   "title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 25/2005 privind constituirea Comisie Locale de ORDINE publica la nivelul orasului Nadlac",
+   "url": "https://primaria-nadlac.ro/hotarari-din-anul-2005/",
+   "versions": [
+    {
+     "from": "2005-03-22",
+     "units": 1,
+     "source_url": "http://www.primaria-nadlac.ro/images/hotarari/2005/Martie/hot_25_-_2005.pdf",
+     "sha256": "9f7dd480fa37ed7dbf4c0278395475142fe810510d4b0f04f47d6d41bc410659"
+    }
+   ]
+  }
+ ]
+}

@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-6-2025",
+   "path": "local/constanta/cerchezu/2025/6",
+   "short": "HCL Cerchezu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 6/2025 privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din unitățile de învățământ de pe raza comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201356",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-8-2025",
+   "path": "local/constanta/cerchezu/2025/8",
+   "short": "HCL Cerchezu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 8/2025 privind trecerea din domeniul privat în domeniul public al Comunei Cerchezu, a parcului din localitatea Cerchezu, în suprafaţă de 2 650 mp, situat pe strada General Cerchez, nr. 21",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/201358",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/201358",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,96 @@
  "shard": "local/constanta/gradina/2024",
  "acts": [
   {
+   "slug": "hcl-constanta--gradina-13-2024",
+   "path": "local/constanta/gradina/2024/13",
+   "short": "HCL Grădina nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 13/2024 privind modificarea tarifelor pentru activitățile de sortare, tratare mecano- biologică și depozitare a deșeurilor municipale din comuna Grădina, fără punerea la dispoziție a infrastructurii",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145596",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-17-2024",
+   "path": "local/constanta/gradina/2024/17",
+   "short": "HCL Grădina nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 17/2024 privind aprobarea Contului anual de execuție al bugetului local al Consiliului Local Grădina, județul Constanța, pe anul 2023",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145600",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-19-2024",
+   "path": "local/constanta/gradina/2024/19",
+   "short": "HCL Grădina nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 19/2024 privind aprobarea acordării de pachete în anul 2024 elevilor din cadrul Școlii Gimnaziale Nr.1 Grădina, comuna Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145602",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-20-2024",
+   "path": "local/constanta/gradina/2024/20",
+   "short": "HCL Grădina nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 20/2024 privind aprobarea evenimentelor cultural-artistice, sportive, sociale și educative organizate în anul 2024 elevilor din cadrul Școlii Gimnaziale Nr.1 Grădina, comuna Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145603",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-21-2024",
+   "path": "local/constanta/gradina/2024/21",
+   "short": "HCL Grădina nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 21/2024 privind aprobarea evenimentelor social-cultural-artistice adresate comunităţii locale care se vor desfășura în comuna Grădina, județul Constanța, în anul 2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/145604",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/145604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-25-2024",
+   "path": "local/constanta/gradina/2024/25",
+   "short": "HCL Grădina nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 25/2024",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/152536",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/152536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-32-2024",
    "path": "local/constanta/gradina/2024/32",
    "short": "HCL Grădina nr. 32/2024",
@@ -118,6 +208,21 @@
      "from": "2025-04-23",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/168332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-4-2024",
+   "path": "local/constanta/gradina/2024/4",
+   "short": "HCL Grădina nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 4/2024 aprobarea Delegării gestiunii activității de colectare și transportul separat al deșeurilor menajere și al deșeurilor similare provenite din activități comerciale din industrie și instituții, inclusiv fracții colectate separat de pe raza comunei Grădina, județul Constanța și aprobarea documentației în vederea atribuirii Contractului de achiziție publică prin procedura de Negociere fără publicarea unui anunț de participare",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/137492",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/137492",
      "sha256": null
     }
    ]
@@ -273,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--gradina-5-2024",
+   "path": "local/constanta/gradina/2024/5",
+   "short": "HCL Grădina nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 5/2024 privind aprobarea organigramei și a statutului de personal ale aparatului de specialitate al primarului comunei Grădina, județul Constanța",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140084",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140084",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--gradina-50-2024",
    "path": "local/constanta/gradina/2024/50",
    "short": "HCL Grădina nr. 50/2024",
@@ -298,6 +418,21 @@
      "from": "2025-04-23",
      "units": 1,
      "source_url": "https://emol.ro/gradina-ct/registru-hcl/182707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--gradina-7-2024",
+   "path": "local/constanta/gradina/2024/7",
+   "short": "HCL Grădina nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Grădina nr. 7/2024 privind aprobarea organizării de către Asociația Activ Pontica în data de 13 - 14 aprilie 2024 pe platoul din Cheile Dobrogei, județul Constanța a competiției sportive ,, Maratonul Argonauților,,",
+   "url": "https://emol.ro/gradina-ct/registru-hcl/140086",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gradina-ct/registru-hcl/140086",
      "sha256": null
     }
    ]

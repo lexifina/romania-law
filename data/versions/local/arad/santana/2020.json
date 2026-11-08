@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/santana/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--santana-35-2020",
+   "path": "local/arad/santana/2020/35",
+   "short": "HCL Sântana nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sântana nr. 35/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "http://www.primariasantana.ro/media/hcl/hcl_0035_2013_02_19.pdf",
+     "sha256": "c6e19c4561e47441564263d6930e5373e8fd9c1970e67ac43b1fccbf5dd08958"
+    }
+   ]
+  }
+ ]
+}

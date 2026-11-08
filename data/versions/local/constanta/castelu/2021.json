@@ -3,6 +3,36 @@
  "shard": "local/constanta/castelu/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--castelu-55-2021",
+   "path": "local/constanta/castelu/2021/55",
+   "short": "HCL Castelu nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 55/2021 PRIVIND APROBAREA MODIFICĂRII HOTĂRÂRII CONSILIULUI LOCAL NR.40 DIN 16.06.2020 PRIVIND APROBAREA VALORII DE INVESTITIE A PROIECTULUI „AMENAJAREA UNUI SPATIU PUBLIC DE RECREERE PENTRU POPULATIA RURALA IN SAT NISIPARI, COMUNA CASTELU, JUDETUL CONSTANTA” SI SOLICITAREA SCRISORII DE GARANTIE DIN PARTEA FONDULUI NATIONAL DE GARANTARE A CREDITELOR PENTRU IMM, PRECUM SI APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AFERENT PROIECTULUI",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#982",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-67-2021",
+   "path": "local/constanta/castelu/2021/67",
+   "short": "HCL Castelu nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 67/2021 PRIVIND MODIFICAREA COMPONENŢEI COMISIEI DE SPECIALITATE NR. 3 - JURIDICĂ ŞI DE DISCIPLINĂ",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#4347",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#4347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--castelu-69-2021",
    "path": "local/constanta/castelu/2021/69",
    "short": "HCL Castelu nr. 69/2021",

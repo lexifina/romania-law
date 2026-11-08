@@ -3,6 +3,50 @@
 "shard": "local/constanta/agigea/2025",
 "acts": [
 {
+"slug": "hcl-constanta--agigea-197-2025",
+"path": "local/constanta/agigea/2025/197",
+"kind": "local",
+"year": "2025",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agigea nr. 197/2025 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2026",
+"short": "HCL Agigea nr. 197/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/agigea-ct/registru-hcl/241089",
+"council": "constanta/agigea",
+"council_name": "Consiliul Local al Comunei Agigea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--agigea-198-2025",
+"path": "local/constanta/agigea/2025/198",
+"kind": "local",
+"year": "2025",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agigea nr. 198/2025 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare pentru utilizatorii serviciului de salubrizare la nivelul Comunei Agigea",
+"short": "HCL Agigea nr. 198/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://emol.ro/agigea-ct/registru-hcl/241090",
+"council": "constanta/agigea",
+"council_name": "Consiliul Local al Comunei Agigea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--agigea-205-2025",
 "path": "local/constanta/agigea/2025/205",
 "kind": "local",

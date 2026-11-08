@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/gura-humorului/2016",
+ "acts": [
+  {
+   "slug": "hcl-suceava--gura-humorului-35-2016",
+   "path": "local/suceava/gura-humorului/2016/35",
+   "short": "HCL Gura Humorului nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Gura Humorului nr. 35/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "09b632ba90b0df7b1c28640afcb8b8a6c152addb6084d02661c235c6c8fbbfd0"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/covasna/covasna/2014",
+ "acts": [
+  {
+   "slug": "hcl-covasna--covasna-55-2014",
+   "path": "local/covasna/covasna/2014/55",
+   "short": "HCL Covasna nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Covasna nr. 55/2014 privind mandatarea reprezentantului orașului Covasna în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „AQUACOV pentru aprobarea modificării prețului/tarifului serviciului public de alimentare cu apă potabilă și de canalizare practicat de operatorul regional Gospodărie Comunală S.A",
+   "url": "https://www.primariacovasna.ro/alte-pagini/ro/arhiva-hcl/",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacovasna.ro/fileadmin/documents/ro/hotarari/2014/hcl_55.pdf",
+     "sha256": "8f4b257264825671b0b8a2c0a2844902a4e8f3acceca3999735a06fe1775bff1"
+    }
+   ]
+  }
+ ]
+}

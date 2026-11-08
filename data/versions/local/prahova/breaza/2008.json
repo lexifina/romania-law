@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/breaza/2008",
+ "acts": [
+  {
+   "slug": "hcl-prahova--breaza-1-2008",
+   "path": "local/prahova/breaza/2008/1",
+   "short": "HCL Breaza nr. 1/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Breaza nr. 1/2008 privind modificarea tarifului pentru serviciul public de salubrizare prestat populatiei orasului Breaza",
+   "url": "https://primariabreaza.ro/hotarari-2/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://primariabreaza.ro/wp-content/uploads/2017/04/hot1.pdf",
+     "sha256": "fc4dcbf969f42ac24f2c78cee8b31cdb1feda8394cd56c5ca640e67a9a1b9021"
+    }
+   ]
+  }
+ ]
+}

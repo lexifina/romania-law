@@ -3,6 +3,72 @@
 "shard": "local/constanta/oltina/2025",
 "acts": [
 {
+"slug": "hcl-constanta--oltina-36-2025",
+"path": "local/constanta/oltina/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 36/2025 privind aprobarea actualizarii Regulamentului de Organizare si Functionare a Aparatului de Specialitate al Primarului comunei Oltina, judetul Constanta",
+"short": "HCL Oltina nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/226167",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--oltina-37-2025",
+"path": "local/constanta/oltina/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 37/2025 privind aprobarea Organigramei si a Statului de functii a Serviciului Public de Alimentare cu Apă și Canalizare la nivelul comunei Oltina, județul Constanța",
+"short": "HCL Oltina nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/226168",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--oltina-38-2025",
+"path": "local/constanta/oltina/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Oltina nr. 38/2025 privind aprobarea organigramei si a statului de functii al aparatului de specialitate al primarului comunei Oltina, judetul Constanta",
+"short": "HCL Oltina nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/oltina-ct/registru-hcl/226169",
+"council": "constanta/oltina",
+"council_name": "Consiliul Local al Comunei Oltina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-constanta--oltina-59-2025",
 "path": "local/constanta/oltina/2025/59",
 "kind": "local",

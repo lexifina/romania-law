@@ -3,6 +3,741 @@
  "shard": "local/constanta/dumbraveni/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--dumbraveni-1-2023",
+   "path": "local/constanta/dumbraveni/2023/1",
+   "short": "HCL Dumbrăveni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 1/2023 privind aprobarea utilizării excedentului bugetului local din anul 2022, în exercițiul financiar 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/85143",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/85143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-10-2023",
+   "path": "local/constanta/dumbraveni/2023/10",
+   "short": "HCL Dumbrăveni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 10/2023 privind modificarea si completarea prin Act Adiţional nr. 4 la Contractul de servicii privind delegarea gestiunii prin concesiune a unei parti a serviciului de salubrizare al „ Asociatiei de dezvoltare intercomunitara Grup Local de Actiune Deleni ” nr 16/17.05.2012 cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87257",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-11-2023",
+   "path": "local/constanta/dumbraveni/2023/11",
+   "short": "HCL Dumbrăveni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 11/2023 privind aprobarea protocolului de colaborare încheiat între Ministerul Muncii și Solidarității Sociale si UAT Comuna Dumbrăveni, județul Constanța pentru implementarea proiectului ”HUB de Servicii MMSS-SII MMSS” COD MYSMIS 2014+ 130963",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87258",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-13-2023",
+   "path": "local/constanta/dumbraveni/2023/13",
+   "short": "HCL Dumbrăveni nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 13/2023 privind aprobarea Planului de pregatire in domeniul situatiilor de urgenta in anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92319",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-14-2023",
+   "path": "local/constanta/dumbraveni/2023/14",
+   "short": "HCL Dumbrăveni nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 14/2023 privind aprobarea rectificării Bugetului local de venituri şi cheltuieli al comunei Dumbrăveni, județul Constanța cu luna februarie anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92320",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-15-2023",
+   "path": "local/constanta/dumbraveni/2023/15",
+   "short": "HCL Dumbrăveni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 15/2023 privind aprobarea Devizului General Final pentru lucrarea ,, Asfaltare străzile Salcîmilor, Viorelelor și Lalelelor în comuna Dumbrăveni, județul Constanța,,",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92321",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-16-2023",
+   "path": "local/constanta/dumbraveni/2023/16",
+   "short": "HCL Dumbrăveni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 16/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92322",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-17-2023",
+   "path": "local/constanta/dumbraveni/2023/17",
+   "short": "HCL Dumbrăveni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 17/2023 privind aprobarea sarbatoririi Zilei de 8 Martie -Ziua Femeii",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92323",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-18-2023",
+   "path": "local/constanta/dumbraveni/2023/18",
+   "short": "HCL Dumbrăveni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 18/2023 privind modificarea poziției 7 din Anexa nr. 2 la HCL nr. 26/20.04.2022 privind stabilirea impozitelor și taxelor locale aplicabile începând cu anul fiscal 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92324",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-19-2023",
+   "path": "local/constanta/dumbraveni/2023/19",
+   "short": "HCL Dumbrăveni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 19/2023 privind instituirea sensului unic de circulație pe strada Salcîmilor începând din str. Lalelelor",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92325",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-2-2023",
+   "path": "local/constanta/dumbraveni/2023/2",
+   "short": "HCL Dumbrăveni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 2/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Dumbrăveni, județul Constanța, pentru anul școlar 2023 - 2024",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87249",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-20-2023",
+   "path": "local/constanta/dumbraveni/2023/20",
+   "short": "HCL Dumbrăveni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 20/2023 privind aprobarea Regulamentului pentru ocuparea temporară a domeniului public sau privat în comuna Dumbrăveni şi modalitatea de încasare a taxelor aferente",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/92326",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/92326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-22-2023",
+   "path": "local/constanta/dumbraveni/2023/22",
+   "short": "HCL Dumbrăveni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 22/2023 privind aprobarea depunerii proiectului ”Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar la nivelul comunei Dumbrăveni, județ Constanța- Școala Gimnazială nr. 1 Dumbrăveni” în cadrul apelului de proiecte PNRR-Pilonul VI, Reforma 5-Investiția 9 și Reforma 6-Investiția 11",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100161",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-23-2023",
+   "path": "local/constanta/dumbraveni/2023/23",
+   "short": "HCL Dumbrăveni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 23/2023 privind atestarea apartenenței la domeniul public al comunei Dumbrăveni, județul Constanța, a unor terenuri intravilane situate în comuna Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100162",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-24-2023",
+   "path": "local/constanta/dumbraveni/2023/24",
+   "short": "HCL Dumbrăveni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 24/2023 privind atestarea apartenenței la domeniul privat al comunei Dumbrăveni, județul Constanța, a unor terenuri intravilane situate în comuna Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100163",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-25-2023",
+   "path": "local/constanta/dumbraveni/2023/25",
+   "short": "HCL Dumbrăveni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 25/2023 privind aprobarea acordarii de pachete cu alimente si dulciuri cu ocazia Sărbătorilor Pascale copiilor, persoanelor cu handicap, persoanelor vârstnice, familiilor defavorizate din Comuna Dumbrăveni, județul Constanța și alocarea sumelor necesare",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100164",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-28-2023",
+   "path": "local/constanta/dumbraveni/2023/28",
+   "short": "HCL Dumbrăveni nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 28/2023 privind completarea HCL nr. 26/20.04.2022 privind stabilirea impozitelor și taxelor locale aplicabile începând cu anul fiscal 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100167",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-29-2023",
+   "path": "local/constanta/dumbraveni/2023/29",
+   "short": "HCL Dumbrăveni nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 29/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100168",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-3-2023",
+   "path": "local/constanta/dumbraveni/2023/3",
+   "short": "HCL Dumbrăveni nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 3/2023 privind aprobarea Planului de acțiuni si de lucrări de interes local pentru persoanele apte de muncă beneficiare de venit minim garantat pentru anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87250",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-30-2023",
+   "path": "local/constanta/dumbraveni/2023/30",
+   "short": "HCL Dumbrăveni nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 30/2023 privind atestarea apartenenței la domeniul privat al comunei Dumbrăveni, județul Constanța, a unui teren extravilan situat în comuna Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100380",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-31-2023",
+   "path": "local/constanta/dumbraveni/2023/31",
+   "short": "HCL Dumbrăveni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 31/2023 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/100381",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/100381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-32-2023",
+   "path": "local/constanta/dumbraveni/2023/32",
+   "short": "HCL Dumbrăveni nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 32/2023 privind aprobarea impozitelor și taxelor locale aplicabile începând cu anul fiscal 2024",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/102111",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/102111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-33-2023",
+   "path": "local/constanta/dumbraveni/2023/33",
+   "short": "HCL Dumbrăveni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 33/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/102112",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/102112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-34-2023",
+   "path": "local/constanta/dumbraveni/2023/34",
+   "short": "HCL Dumbrăveni nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 34/2023 privind aprobarea rectificării Bugetului local de venituri şi cheltuieli al comunei Dumbrăveni, județul Constanța cu luna aprilie anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/102113",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/102113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-35-2023",
+   "path": "local/constanta/dumbraveni/2023/35",
+   "short": "HCL Dumbrăveni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 35/2023 privind aprobarea demararii procedurilor in vederea scoaterii definitive din circuitul agricol a suprafetei de 7,6 ha păsune",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/102114",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/102114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-36-2023",
+   "path": "local/constanta/dumbraveni/2023/36",
+   "short": "HCL Dumbrăveni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 36/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/102115",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/102115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-38-2023",
+   "path": "local/constanta/dumbraveni/2023/38",
+   "short": "HCL Dumbrăveni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 38/2023 privind aprobarea aderării Comunei Dumbrăveni, Județul Constanța la parteneriatul ”Grup de acțiune locală Dobrogea Sud-Vest”",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/105381",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/105381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-39-2023",
+   "path": "local/constanta/dumbraveni/2023/39",
+   "short": "HCL Dumbrăveni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 39/2023 privind aprobarea contului de executie al bugetului local al comunei Dumbraveni pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/105382",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/105382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-4-2023",
+   "path": "local/constanta/dumbraveni/2023/4",
+   "short": "HCL Dumbrăveni nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 4/2023 privind aprobarea rezultatului privind inventarierea generală a elementelor de natura activelor, datoriilor și capitalurilor proprii aflate în patrimoniul comunei Dumbrăveni, județul Constanța pentru anul 2022",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87251",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-40-2023",
+   "path": "local/constanta/dumbraveni/2023/40",
+   "short": "HCL Dumbrăveni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 40/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,“MODERNIZARE MODERATA SEDIU PRIMĂRIE, COMUNA DUMBRĂVENI, JUDEȚUL CONSTANȚA\", aprobat pentru finanțare prin Planul național de Redresare si Rezilienta precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/105383",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/105383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-41-2023",
+   "path": "local/constanta/dumbraveni/2023/41",
+   "short": "HCL Dumbrăveni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 41/2023 privind aprobarea delegarii dreptului de depunere a Cererii de finanțare a proiectului „Dotarea cu microbuze electrice pentru elevi a unităților de învățământ preuniversitar care funcționează în localitățile eligibile de pe raza Județului Constanța” Componenta C15: Educație, Investiția 10: „Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi”, finanțat din bugetul Ministerului Educației, prin Programul Național de Redresare și Reziliență de către UAT Județul Constanța, Consiliul Județean Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/105384",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/105384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-42-2023",
+   "path": "local/constanta/dumbraveni/2023/42",
+   "short": "HCL Dumbrăveni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 42/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/111229",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/111229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-44-2023",
+   "path": "local/constanta/dumbraveni/2023/44",
+   "short": "HCL Dumbrăveni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 44/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico – economici și a devizului general pentru obiectivul de investiţii ,,ÎNFIINȚARE SISTEM CANALIZARE ÎN LOCALITĂȚILE DUMBRĂVENI ȘI FURNICA, JUDEȚUL CONSTANȚA''",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/111231",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/111231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-45-2023",
+   "path": "local/constanta/dumbraveni/2023/45",
+   "short": "HCL Dumbrăveni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 45/2023 privind aprobarea demararii procedurilor in vederea schimbării categoriei de folosință din pășune în neproductiv a suprafetei de teren de 7,6 ha, parcela P 953/3",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/111232",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/111232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-46-2023",
+   "path": "local/constanta/dumbraveni/2023/46",
+   "short": "HCL Dumbrăveni nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 46/2023 privind modificarea HCL nr. 30 din 20.05.2022 pentru înlocuirea unei activități în cadrul proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Dumbrăveni” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/111233",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/111233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-47-2023",
+   "path": "local/constanta/dumbraveni/2023/47",
+   "short": "HCL Dumbrăveni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 47/2023 privind atestarea apartenenței la domeniul public al comunei Dumbrăveni, județul Constanța, a unui teren extravilan situat în comuna Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/111234",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/111234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-48-2023",
+   "path": "local/constanta/dumbraveni/2023/48",
+   "short": "HCL Dumbrăveni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 48/2023 privind aprobarea documentației tehnico-economice faza PT. și a indicatorilor tehnico-economici pentru proiectul:“ Modernizare moderată sediu Primărie, Comuna Dumbrăveni, Județul Constanța” proiect finanțat prin “Planul Național de Redresare și Reziliență Componenta C10- Fondul local, I.3 –Reabilitare moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-terioriale”",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/113960",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/113960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-49-2023",
+   "path": "local/constanta/dumbraveni/2023/49",
+   "short": "HCL Dumbrăveni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 49/2023 privind aprobarea contului de executie al bugetului local al comunei Dumbraveni pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/118371",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/118371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-5-2023",
+   "path": "local/constanta/dumbraveni/2023/5",
+   "short": "HCL Dumbrăveni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 5/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87252",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-51-2023",
+   "path": "local/constanta/dumbraveni/2023/51",
+   "short": "HCL Dumbrăveni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 51/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitionarea de fructe și legume proaspete, de lapte si produse lactate si de produse de panificatie si a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul Comunei Dumbrăveni, Judetul Constanta",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/118373",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/118373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-52-2023",
+   "path": "local/constanta/dumbraveni/2023/52",
+   "short": "HCL Dumbrăveni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 52/2023 privind dezmembrarea imobilului din Dumbrăveni, parcela NST 711/6 număr cadastral 100984",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/118374",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/118374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-55-2023",
+   "path": "local/constanta/dumbraveni/2023/55",
+   "short": "HCL Dumbrăveni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 55/2023 privind aprobarea rectificării Bugetului local de venituri şi cheltuieli al comunei Dumbrăveni, județul Constanța pe luna septembrie anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/122174",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/122174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-56-2023",
+   "path": "local/constanta/dumbraveni/2023/56",
+   "short": "HCL Dumbrăveni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 56/2023 privind aprobarea folosinței gratuite a unei suprafețe totale de 670,4 mp teren aflat în proprietatea domeniului public al UAT Comuna Dumbrăveni pentru amplasarea unor stâlpi 12 G31/10G31, LEA 20kV, LES 20kV, PTA 100kVA 20/0,4kV și BMPT, necesare pentru realizarea serviciului public de distribuție a energiei electrice",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/122175",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/122175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-57-2023",
+   "path": "local/constanta/dumbraveni/2023/57",
+   "short": "HCL Dumbrăveni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 57/2023 privind aprobarea Planului de acțiune pentru gestionarea cainilor fără stăpân din Comuna Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/122176",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/122176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-58-2023",
+   "path": "local/constanta/dumbraveni/2023/58",
+   "short": "HCL Dumbrăveni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 58/2023 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiție ,, Construire locuințe sociale și de necesitate comuna Dumbrăveni, jud. Constanța''",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/124319",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/124319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-6-2023",
+   "path": "local/constanta/dumbraveni/2023/6",
+   "short": "HCL Dumbrăveni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 6/2023 privind aprobarea structurii organizatorice și a statului de funcții al aparatului de specialitate al Primarului Comunei Dumbrăveni, județul Constanța",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87253",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-60-2023",
+   "path": "local/constanta/dumbraveni/2023/60",
+   "short": "HCL Dumbrăveni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 60/2023 privind modificarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/127272",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/127272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-61-2023",
+   "path": "local/constanta/dumbraveni/2023/61",
+   "short": "HCL Dumbrăveni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 61/2023 privind aprobarea rectificării Bugetului local de venituri şi cheltuieli al comunei Dumbrăveni, județul Constanța pe luna octombrie anul 2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/127273",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/127273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-62-2023",
+   "path": "local/constanta/dumbraveni/2023/62",
+   "short": "HCL Dumbrăveni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 62/2023 privind revocarea HCL 56/27.09.2023 privind aprobarea folosinței gratuite a unei suprafețe totale de 670,4 mp teren aflat în proprietatea domeniului public al UAT Comuna Dumbrăveni pentru amplasarea unor stâlpi 12 G31/10G31, LEA 20kV, LES 20kV, PTA 100kVA 20/0,4kV și BMPT, necesare pentru realizarea serviciului public de distribuție a energiei electrice",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/127274",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/127274",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-63-2023",
    "path": "local/constanta/dumbraveni/2023/63",
    "short": "HCL Dumbrăveni nr. 63/2023",
@@ -103,6 +838,21 @@
      "from": "2024-01-10",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/131641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-7-2023",
+   "path": "local/constanta/dumbraveni/2023/7",
+   "short": "HCL Dumbrăveni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 7/2023 privind aprobarea Bugetului local de venituri şi cheltuieli pe anul 2023 al comunei Dumbraveni , judetul Constanta",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87254",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87254",
      "sha256": null
     }
    ]
@@ -258,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--dumbraveni-8-2023",
+   "path": "local/constanta/dumbraveni/2023/8",
+   "short": "HCL Dumbrăveni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 8/2023",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87255",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87255",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--dumbraveni-80-2023",
    "path": "local/constanta/dumbraveni/2023/80",
    "short": "HCL Dumbrăveni nr. 80/2023",
@@ -298,6 +1063,21 @@
      "from": "2024-01-11",
      "units": 1,
      "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/136212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--dumbraveni-9-2023",
+   "path": "local/constanta/dumbraveni/2023/9",
+   "short": "HCL Dumbrăveni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăveni nr. 9/2023 privind aprobarea dizolvarii asociației de dezvolatre intercomunitară Independența-Dumbrăveni",
+   "url": "https://emol.ro/dumbraveni-ct/registru-hcl/87256",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbraveni-ct/registru-hcl/87256",
      "sha256": null
     }
    ]

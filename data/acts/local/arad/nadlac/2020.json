@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-arad--nadlac-31-2020",
+"path": "local/arad/nadlac/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 31/2020",
+"short": "HCL Nădlac nr. 31/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"title_withheld": "personal_data",
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-arad--nadlac-37-2020",
 "path": "local/arad/nadlac/2020/37",
 "kind": "local",
@@ -173,6 +196,28 @@
 "from": "2020-12-22",
 "latest": "2020-12-22",
 "portal": "https://primaria-nadlac.ro/hotarari-din-anul-2020-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-arad--nadlac-234-2020",
+"path": "local/arad/nadlac/2020/234",
+"kind": "local",
+"year": "2020",
+"number": "234",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 234/2020 privind aprobarea preţului la apă potabilă şi a tarifului la canalizare – epurare",
+"short": "HCL Nădlac nr. 234/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2011-2/",
 "council": "arad/nadlac",
 "council_name": "Consiliul Local al Orașului Nădlac",
 "flags": {

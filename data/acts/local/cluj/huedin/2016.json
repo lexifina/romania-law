@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/huedin/2016",
+"acts": [
+{
+"slug": "hcl-cluj--huedin-59-2016",
+"path": "local/cluj/huedin/2016/59",
+"kind": "local",
+"year": "2016",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 59/2016 pentru aprobarea Regulamentului- cadru de organizare și funcționare a consiliilor locale, art. 5, 6, 7 8, din legea nr. 393/2004 privind Statutul Alesilor Locali",
+"short": "HCL Huedin nr. 59/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

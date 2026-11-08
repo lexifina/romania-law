@@ -3,6 +3,66 @@
  "shard": "local/salaj/simleu-silvaniei/2023",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-107-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/107",
+   "short": "HCL Șimleu Silvaniei nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 107/2023 privind aprobarea contractării unui împrumut în valoare de 1.430.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului, aprobată, cu modificări și completări, prin Legea nr.229/2023 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședi",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/20/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/07/HCL-nr.-107-din-27.07.2023-contractare-credit-trezorerie.pdf",
+     "sha256": "4eb1d8578524972ba493e8dda24c97ac41cac81289c349568c8ba1239c3476e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-133-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/133",
+   "short": "HCL Șimleu Silvaniei nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 133/2023 pentru aprobarea REGULAMENTULUI privind organizarea și funcționarea pieței agroalimentare a orașului Șimleu Silvaniei Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică: Având în vedere: - Referatul de aprobare nr.18746/06.10.2023 al Primarul orașului Șimleu Silvaniei; - Raportul de specialitate nr.18747/09.10.2023 al Biroului patrimoniu, administrarea domeniului public ș",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/25/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 8,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/11/HCL-nr.-133-din-31.10.2023-aprobare-Regulament-piata-1.pdf",
+     "sha256": "2439d0763e4b144b538743424b119e5de03cc42d757a035b595a511d446371ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-148-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/148",
+   "short": "HCL Șimleu Silvaniei nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 148/2023 privind stabilirea impozitelor și taxelor locale, a taxelor speciale și a tarifelor și chiriilor pentru administrarea bunurilor ce aparțin domeniului pubic și privat al orașului Șimleu Silvaniei, pe anul 2024 Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 18628/05.10.2023 a Primarului Orașului Șimleu Silvaniei; -Raportul de sp",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/28/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 24,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/12/HCL-nr.-148-din-21.12.2023-impozite-si-taxe-2024-v2.pdf",
+     "sha256": "d79e485258131b41d6dde11df3ab8a18bc8e878afcc04c5988fc39765bbef143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-149-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/149",
+   "short": "HCL Șimleu Silvaniei nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 149/2023 pentru aprobarea REGULAMENTULUI privind organizarea și funcționarea cimitirelor aparținând domeniului public al orașului Șimleu Silvaniei și aflate în administrarea Consiliului Local al orașului Șimleu Silvaniei Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică: Având în vedere: - Referatul de aprobare nr.18816/09.10.2023 al Primarul orașului Șimleu Silvaniei; - Raportul",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/28/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/12/HCL-nr.-149-din-21.12.2023-aprobare-Regulament-cimitire.pdf",
+     "sha256": "8c3f26d05fa47be0f816cea619aff7a31d1cd1d45094caf44a2f1239fcfefa65"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-15-2023",
    "path": "local/salaj/simleu-silvaniei/2023/15",
    "short": "HCL Șimleu Silvaniei nr. 15/2023",
@@ -29,6 +89,186 @@
      "units": 1,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/02/HCL-nr.-19-din-31.01.2023-constiture-Comisie-locala-de-ordine-publica.pdf",
      "sha256": "375a85b5ec0aa92edbe0ad813117c40475925a40ae273155ddcf3f4c2717ae4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-31-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/31",
+   "short": "HCL Șimleu Silvaniei nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 31/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2c7c1fc7ad2c353fd4a48aa9ba45cb1878ff3c3cb81e3c8935bfbc1afe4c886"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-37-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/37",
+   "short": "HCL Șimleu Silvaniei nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 9,
+     "source_url": null,
+     "sha256": "c3818b9ba03f65167b0ded8272d51ac7bf6047d1938a7fbe2e04ad463ebbbb45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-50-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/50",
+   "short": "HCL Șimleu Silvaniei nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 50/2023 privind aprobarea „Regulamentului de premiere a elevilor din învățământul preuniversitar din orașul Șimleu Silvaniei care au obținut rezultate deosebite la competițiile școlare, precum și a elevilor care au obținut cea mai mare medie generală la absolvirea ciclului gimnazial și liceal” Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică, Având în vedere: - Referatul de apr",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/9/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/04/HCL-nr.-50-din-30.03.2023-Regulament-premiere-elevi-2023.pdf",
+     "sha256": "d8700f5a9e94507c796dc3225f1eb6273abd2eb80df75489a2e6f9dcc5abb0ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-57-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/57",
+   "short": "HCL Șimleu Silvaniei nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 57/2023 privind aprobarea încheierii unui protocol de colaborare cu SC CITADIN ZALĂU SRL în vederea realizării programului de gestionare a câinilor fără stăpân la nivelul UAT Orașul Șimleu Silvaniei Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică, Având în vedere: - Referatul de aprobare nr.6661/2023 al Primarul orașului Șimleu Silvaniei - Raportul de specialitate comun nr. 66",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/10/",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/04/HCL-nr.-57-din-12.04.2023-colaborare-cu-CITADIN.pdf",
+     "sha256": "cdc49f44ac4d2842bc7532518010d8c4270257ac59247b910f241d34ee413829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-78-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/78",
+   "short": "HCL Șimleu Silvaniei nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 78/2023 privind aprobarea Planului de Mobilitate Urbană Durabilă Șimleu Silvaniei (P.M.U.D.), pentru perioada 2022-2037 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 2536/2023 al Primarului orașului Șimleu Silvaniei prin care se propune aprobarea Planului de Mobilitate Urbană Durabilă Șimleu Silvaniei (P.M.U.D.), pent",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/15/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-78-din-18.05.2023-aprobare-PMUD-Simleu.pdf",
+     "sha256": "654023d5e8b010f6f6c8bfa4c8b059f6927fff5349424d066bed93bee1cf0ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-79-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/79",
+   "short": "HCL Șimleu Silvaniei nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 79/2023 privind aprobarea Regulamentului pentru obținerea Acordului administratorului drumului public local pentru realizarea în zona drumurilor publice de interes local a lucrărilor de branșamente și racorduri executate pe domeniul public la infrastructura tehnico-edilitară existentă în zonă și pentru intervenție în regim de urgență, precum si amplasarea oricăror construcții, executarea de lucrări, amena",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/15/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-79-din-18.05.2023-Regulament-Acord-Administrator-Drum.pdf",
+     "sha256": "997d68bc96126d8cd6ded90bce92d87153a40711d695f6124be3a748e8524f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-81-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/81",
+   "short": "HCL Șimleu Silvaniei nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 81/2023 privind aprobarea Regulamentului de ocupare a domeniului public și privat al orașului și desfășurare de comerț stradal în orașul Șimleu Silvaniei Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică, Având în vedere: - Referatul de aprobare nr. 5391/2023 al Primarul orașului Șimleu Silvaniei; - Raportul de specialitate comun nr.5394/2023 al Biroului patrimoniu, administrare",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/15/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-81-din-18.05.2023-Regulament-ocupare-domeniu-public-terase.pdf",
+     "sha256": "de5b9fea151812e649e92cba5c6d2a5606df16b0a4f5a0a42fd6d5c1592b600c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-82-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/82",
+   "short": "HCL Șimleu Silvaniei nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 82/2023 privind aprobarea, începând cu anul fiscal 2024, a nivelului valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, amenzilor, prin indexarea cu rata inflației în procent de 13,8% Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 4814/15.03.2023 a Primarului Orașului Șimleu Silvaniei; -Raportul de s",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/16/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 5,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-82-din-18.05.2023-impozite-si-taxe-2024-INDEXAT-138.pdf",
+     "sha256": "cf2722226a90c8687d5819076915d14ec82884c44b11e75268f8833acefeb43e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-89-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/89",
+   "short": "HCL Șimleu Silvaniei nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 89/2023 privind aprobarea Regulamentului de organizare și executare a serviciului de transport în regim de taxi pe raza orașului Șimleu Silvaniei Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr.6551/07.04.2023 al Primarul orașului Șimleu Silvaniei -Raportul de specialitate nr.6552/07.04.2023 al Compartimentului autorizare activități",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/17/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-89-din-30.05.2023-aprobare-regulament-Taxi.pdf",
+     "sha256": "9a0f1b5fbadf381039c169f55659577b2e41c8d70a420b72ceed3ee0b7fe4cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-90-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/90",
+   "short": "HCL Șimleu Silvaniei nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 90/2023 pentru aprobarea Regulamentului privind funcționarea și exploatarea sistemului de supraveghere video pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr.6512/2023 al Primarul orașului Șimleu Silvaniei - Raportul de specialitate nr.6513/2023 al Serviciului Poliția Locală; - Anunțul nr",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/17/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/05/HCL-nr.-90-din-30.05.2023-Regulament-functionare-exploatare-sistem-supraveghere-video.pdf",
+     "sha256": "0ed2a20d6643b759a4e2199f6101a0ea413cf5eb3c2e63496285da0a6df85696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-94-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/94",
+   "short": "HCL Șimleu Silvaniei nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 94/2023 privind aprobarea Procedurii privind cesiunea creanțelor bugetare datorate de debitorii aflați în procedura insolvenței în temeiul art. 264^1 din Legea 207/2015 privind Codul de Procedură Fiscală, cu modificările și completările ulterioare Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 11480/22.06.2023 a Primarului Orașului Și",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/18/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 6,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/06/HCL-nr.-94-din-29.06.2023-procedura-cesiune-creante-bugetare.pdf",
+     "sha256": "b7a1d538d74cccd7d36d3952510be87aa796e1cc526f94bdf64a72f33a10e56e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-98-2023",
+   "path": "local/salaj/simleu-silvaniei/2023/98",
+   "short": "HCL Șimleu Silvaniei nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 98/2023 privind modificarea Regulamentului de Organizare și Funcționare al Aparatului de specialitate al Primarului orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 13115/2023 al Primarului orașului Șimleu Silvaniei; - Raportul de specialitate nr.13116/2023 întocmit de către Compartiment resurse",
+   "url": "https://www.simleusilvaniei.ro/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2021-2023/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2023/page/18/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2023/07/HCL-nr.-98-din-27.07.2023-ROF-aparat-primar-2023.pdf",
+     "sha256": "aeee0b2db18cba8bff1a0fe880cc2090e9bb4366bff7057bbed55c379fbd8aa0"
     }
    ]
   }

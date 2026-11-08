@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-101-2026",
+   "path": "local/alba/cugir/2026/101",
+   "short": "HCL Cugir nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 101/2026 pentru aprobarea Regulamentului privind desfășurarea activităților de picnic în Poiana cu Goruni - Vinerea Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 27 mai 2026; Luând în dezbatere: -Proiectul de hotărâre pentru aprobarea Regulamentului privind desfășurarea activităților de picnic în Poiana cu Goruni - Vinerea; -Referatul de aprobare nr.13",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C58/P140",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.101,_aprobare_Regulament_picnic_Poiana_cu_goruni_.doc",
+     "sha256": "6e856281668c3afe1ac7bded7352a2389e757cb9d6bb8127b99018c1972caf0d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-11-2026",
    "path": "local/alba/cugir/2026/11",
    "short": "HCL Cugir nr. 11/2026",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--cugir-122-2026",
+   "path": "local/alba/cugir/2026/122",
+   "short": "HCL Cugir nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 122/2026 pentru aprobarea Regulamentului privind promovarea deținerii responsabile a câinilor și stoparea înmulțirii necontrolate a câinilor de rasă comună sau metiși din Orașul Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 iunie 2026; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Regulamentului privind promovarea deținerii respo",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C58/P120",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.122,_aprobare_Regulament_caini_cu_stapan_.docx",
+     "sha256": "d0bade1c067c79f2a902d613fc99df5941848b1b03e0a280ae28f7e26296e953"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-13-2026",
    "path": "local/alba/cugir/2026/13",
    "short": "HCL Cugir nr. 13/2026",
@@ -89,6 +119,21 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.14,_Program_Masa_sanatoasa_2026_.docx",
      "sha256": "d77777963eb79a3d960b26118822de67572e8e7ca28a59ae6ece1afbdda1d886"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-140-2026",
+   "path": "local/alba/cugir/2026/140",
+   "short": "HCL Cugir nr. 140/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 140/2026 pentru modificare tarife salubritate",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C58/P100",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.140,_acordare_mandat_special_pentru_modificare_tarife_salubritate_.doc",
+     "sha256": "3d82c22eee549e2ea74a0b73abc036285c67c4ef4dd83a2dcb9da61d8f0adecd"
     }
    ]
   },

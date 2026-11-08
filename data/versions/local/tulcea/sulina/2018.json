@@ -3,6 +3,81 @@
  "shard": "local/tulcea/sulina/2018",
  "acts": [
   {
+   "slug": "hcl-tulcea--sulina-108-2018",
+   "path": "local/tulcea/sulina/2018/108",
+   "short": "HCL Sulina nr. 108/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 108/2018",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+   "versions": [
+    {
+     "from": "2018-10-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hot108din2018.pdf",
+     "sha256": "65e131da6dd122dc49ccd4e2065f741a22764365e673c38595d0819f27beb5a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-116-2018",
+   "path": "local/tulcea/sulina/2018/116",
+   "short": "HCL Sulina nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 116/2018",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hot116din2018.pdf",
+     "sha256": "7b10f6fc81b3c49f25904108e375a8ef56b4bcec68827a6af4ded46eadd836ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-119-2018",
+   "path": "local/tulcea/sulina/2018/119",
+   "short": "HCL Sulina nr. 119/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 119/2018 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hot119din2018.pdf",
+     "sha256": "e36440d8469b1824502805ad825780aee29197efe14791a70583c1f821c8134f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-121-2018",
+   "path": "local/tulcea/sulina/2018/121",
+   "short": "HCL Sulina nr. 121/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 121/2018 privind stabilirea taxelor pentru activitatea auto-finanțată „Piață“ pentru anul 2019",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hot121din2018.pdf",
+     "sha256": "d182d43a5afaba2ab40fbc168260c64962589a5d0d65e740f0fe08454a211664"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-126-2018",
+   "path": "local/tulcea/sulina/2018/126",
+   "short": "HCL Sulina nr. 126/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 126/2018",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2018.html",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/hot126din2018.pdf",
+     "sha256": "56f35251b821c27df2b9a1b8776c7f5442938be89257a720ac74b4e0df12b412"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-13-2018",
    "path": "local/tulcea/sulina/2018/13",
    "short": "HCL Sulina nr. 13/2018",

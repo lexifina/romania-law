@@ -3,6 +3,156 @@
  "shard": "local/constanta/cerchezu/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--cerchezu-1-2023",
+   "path": "local/constanta/cerchezu/2023/1",
+   "short": "HCL Cerchezu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 1/2023 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2023 al Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91326",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-13-2023",
+   "path": "local/constanta/cerchezu/2023/13",
+   "short": "HCL Cerchezu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 13/2023 privind alocarea din bugetul local a sumei de 15 000 lei, necesară pentru acordarea unor cadouri, elevilor şi preşcolarilor din cadrul unităţilor de învăţământ de pe raza comunei Cerchezu, jud. Constanţa, cu ocazia sarbătorilor Pascale",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/100350",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/100350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-14-2023",
+   "path": "local/constanta/cerchezu/2023/14",
+   "short": "HCL Cerchezu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 14/2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/100351",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/100351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-15-2023",
+   "path": "local/constanta/cerchezu/2023/15",
+   "short": "HCL Cerchezu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 15/2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/100352",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/100352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-16-2023",
+   "path": "local/constanta/cerchezu/2023/16",
+   "short": "HCL Cerchezu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 16/2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/100353",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/100353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-17-2023",
+   "path": "local/constanta/cerchezu/2023/17",
+   "short": "HCL Cerchezu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 17/2023 privind utilizarea excedentului anual rezultat la încheierea exercțiului financiar pe anul 2022 in vederea finanțarii cheltuielilor sectiunii de functionare si dezvoltare si rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/105540",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/105540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-2-2023",
+   "path": "local/constanta/cerchezu/2023/2",
+   "short": "HCL Cerchezu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 2/2023 privind validarea Dispozițiilor nr. 187/14.12.2022 si nr. 188/21.12.2022 privind rectificarea bugetului local al comunei Cerchezu, pe anul 2022",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91327",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-21-2023",
+   "path": "local/constanta/cerchezu/2023/21",
+   "short": "HCL Cerchezu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 21/2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/112467",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/112467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-22-2023",
+   "path": "local/constanta/cerchezu/2023/22",
+   "short": "HCL Cerchezu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 22/2023 privind aprobarea aderării Comunei Cerchezu , Județul Constanța la parteneriatul ”Grup de acțiune locală Dobrogea Sud-Vest",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/112468",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/112468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-3-2023",
+   "path": "local/constanta/cerchezu/2023/3",
+   "short": "HCL Cerchezu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 3/2023 privind reorganizarea retelei scolare pentru invatamantul preuniversitar de stat din Comuna Cerchezu, in anul scolar 2023 - 2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91328",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-38-2023",
    "path": "local/constanta/cerchezu/2023/38",
    "short": "HCL Cerchezu nr. 38/2023",
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--cerchezu-5-2023",
+   "path": "local/constanta/cerchezu/2023/5",
+   "short": "HCL Cerchezu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 5/2023 privind aprobarea regulilor şi dispoziţiilor de apărare împotriva incendiilor la nivelul Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91330",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--cerchezu-50-2023",
    "path": "local/constanta/cerchezu/2023/50",
    "short": "HCL Cerchezu nr. 50/2023",
@@ -298,6 +463,51 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/138441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-6-2023",
+   "path": "local/constanta/cerchezu/2023/6",
+   "short": "HCL Cerchezu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 6/2023 privind Organizarea activitatii de aparare impotriva incendiilor in unitatea administrativ - teritoriala Cerchezu, judetul Constanta",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91331",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-7-2023",
+   "path": "local/constanta/cerchezu/2023/7",
+   "short": "HCL Cerchezu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 7/2023",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91332",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-8-2023",
+   "path": "local/constanta/cerchezu/2023/8",
+   "short": "HCL Cerchezu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 8/2023 privind stabilirea salariilor de bază pentru funcţionarii publici și personalul contractual din cadrul Primăriei comunei Cerchezu , județul Constanţa",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/91333",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/91333",
      "sha256": null
     }
    ]

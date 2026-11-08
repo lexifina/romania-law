@@ -47,6 +47,51 @@
 }
 },
 {
+"slug": "hcl-salaj--simleu-silvaniei-24-2013",
+"path": "local/salaj/simleu-silvaniei/2013/24",
+"kind": "local",
+"year": "2013",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 24/2013",
+"short": "HCL Șimleu Silvaniei nr. 24/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-04-30",
+"latest": "2013-04-30",
+"portal": null,
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-35-2013",
+"path": "local/salaj/simleu-silvaniei/2013/35",
+"kind": "local",
+"year": "2013",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 35/2013 privind ecarisarea teritoriului orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 30 iunie 2013; Având în vedere Expunerea de motive nr.7190/2013 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.7191/2013 al Secretarului orașului Șimleu Silvaniei și Avizul Comisiei pentru amenajarea teritoriului și urban",
+"short": "HCL Șimleu Silvaniei nr. 35/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-06-30",
+"latest": "2013-06-30",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2013/page/6/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-69-2013",
 "path": "local/salaj/simleu-silvaniei/2013/69",
 "kind": "local",

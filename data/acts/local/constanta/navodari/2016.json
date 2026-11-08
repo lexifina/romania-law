@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/navodari/2016",
+"acts": [
+{
+"slug": "hcl-constanta--navodari-179-2016",
+"path": "local/constanta/navodari/2016/179",
+"kind": "local",
+"year": "2016",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Năvodari nr. 179/2016 privind completarea Hotărârii nr. 233/15.09.2011 cu privire la aprobare P.U.Z. preliminarLOTIZARE CARTIER MIDIA",
+"short": "HCL Năvodari nr. 179/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-08",
+"latest": "2016-03-08",
+"portal": null,
+"council": "constanta/navodari",
+"council_name": "Consiliul Local al Orașului Năvodari",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+}
+]
+}

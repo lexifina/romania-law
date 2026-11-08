@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/horezu/2015",
+ "acts": [
+  {
+   "slug": "hcl-valcea--horezu-55-2015",
+   "path": "local/valcea/horezu/2015/55",
+   "short": "HCL Horezu nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Horezu nr. 55/2015 privind stabilirea și aplicarea taxei speciale de salubrizare »",
+   "url": "https://www.orasul-horezu.ro/hotarari-ale-consiliului-local?title=&field_data_value_2=All&page=81",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.orasul-horezu.ro/sites/default/files/horezu_documents/hot_nr_55_20151111_id3440.pdf",
+     "sha256": "1c8357fe05185746cb1090ac0acffedb48f377d667c4687a8d16d5b41e444410"
+    }
+   ]
+  }
+ ]
+}

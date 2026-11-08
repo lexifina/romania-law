@@ -3,6 +3,51 @@
  "shard": "local/constanta/oltina/2023",
  "acts": [
   {
+   "slug": "hcl-constanta--oltina-39-2023",
+   "path": "local/constanta/oltina/2023/39",
+   "short": "HCL Oltina nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 39/2023 privind Privind aprobarea devizului general actualizat pentru obiectivul de investiții „ Asfaltare drum comunal DC 48, km 0+000- km 3+570 ,Comuna Oltina, Judetul Constanta ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/123759",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/123759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-42-2023",
+   "path": "local/constanta/oltina/2023/42",
+   "short": "HCL Oltina nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 42/2023 privind aprobarea schimbarii denumirii,, Strazii Gradinitei\"ïn ,,Strada Pana Ion\" din localitatea Razoarele,comuna Oltina,judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/128357",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/128357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-46-2023",
+   "path": "local/constanta/oltina/2023/46",
+   "short": "HCL Oltina nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 46/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția de fructe si legume proaspete, de lapte si produse lactate si de produse de panificatie si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Oltina",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/128361",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/128361",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--oltina-64-2023",
    "path": "local/constanta/oltina/2023/64",
    "short": "HCL Oltina nr. 64/2023",
@@ -238,6 +283,21 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/oltina-ct/registru-hcl/137504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--oltina-8-2023",
+   "path": "local/constanta/oltina/2023/8",
+   "short": "HCL Oltina nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Oltina nr. 8/2023 privind atestarea inventarului bunurilor care alcatuiesc domeniul public al comunei Oltina, judetul Constanta",
+   "url": "https://emol.ro/oltina-ct/registru-hcl/101412",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oltina-ct/registru-hcl/101412",
      "sha256": null
     }
    ]

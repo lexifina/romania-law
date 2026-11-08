@@ -3,6 +3,336 @@
  "shard": "local/constanta/aliman/2021",
  "acts": [
   {
+   "slug": "hcl-constanta--aliman-1-2021",
+   "path": "local/constanta/aliman/2021/1",
+   "short": "HCL Aliman nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 1/2021 privind aprobarea Planului de acţiuni sau de lucrări de interes local pe anul 2021 aplicabil persoanelor apte de muncă din familiile beneficiare de ajutor social din comuna Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34510",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-10-2021",
+   "path": "local/constanta/aliman/2021/10",
+   "short": "HCL Aliman nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 10/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34519",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-11-2021",
+   "path": "local/constanta/aliman/2021/11",
+   "short": "HCL Aliman nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 11/2021 privind aprobarea achiziţionării serviciilor juridice de consultanţă, de asistenţă şi de reprezentare pentru apărarea intereselor Comunei Aliman, Consiliului Local Aliman, precum şi a celorlalte instituţii şi autorităţi publice locale din Comuna Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34520",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-12-2021",
+   "path": "local/constanta/aliman/2021/12",
+   "short": "HCL Aliman nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 12/2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34521",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-14-2021",
+   "path": "local/constanta/aliman/2021/14",
+   "short": "HCL Aliman nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 14/2021 privind demararea implementării proiectului „ÎNFIINŢARE REŢEA INTELIGENTĂ DE DISTRIBUŢIE GAZE NATURALE ÎN COMUNA ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34523",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-16-2021",
+   "path": "local/constanta/aliman/2021/16",
+   "short": "HCL Aliman nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 16/2021 privind aprobarea achiziţionării serviciului de elaborare a strategiei de dezvoltare locală pentru perioada 2021-2027",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34525",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-17-2021",
+   "path": "local/constanta/aliman/2021/17",
+   "short": "HCL Aliman nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 17/2021 privind aprobarea achiziţionarii serviciului de analiză de risc la securitatea fizică pentru obiectivele aflate în proprietatea Comunei Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34526",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-18-2021",
+   "path": "local/constanta/aliman/2021/18",
+   "short": "HCL Aliman nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 18/2021 privind aprobarea cuantumului burselor acordate elevilor din unităţile de învăţământ preuniversitar de stat din comuna Aliman, judeţul Constanţa, în anul şcolar 2020-2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34527",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-19-2021",
+   "path": "local/constanta/aliman/2021/19",
+   "short": "HCL Aliman nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 19/2021 privind aprobarea bugetului local al Comunei Aliman pe anul 2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34528",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-2-2021",
+   "path": "local/constanta/aliman/2021/2",
+   "short": "HCL Aliman nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 2/2021 privind aprobarea reţelei şcolare pe raza comunei Aliman, judeţul Constanţa, pentru anul şcolar 2021-2022",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34511",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-20-2021",
+   "path": "local/constanta/aliman/2021/20",
+   "short": "HCL Aliman nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 20/2021 privind demararea implementării proiectului „PODEŢ TRAVERSARE CANAL PLUVIAL STRADA CARIEREI, LOCALITATEA ALIMAN, COMUNA ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34529",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-21-2021",
+   "path": "local/constanta/aliman/2021/21",
+   "short": "HCL Aliman nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 21/2021 privind demararea implementării proiectului „AMENAJARE SCURGEREA APELOR PLUVIALE ÎN ZONA STRĂZILOR ORHIDEELOR ŞI VIILOR, LOCALITATEA ALIMAN, COMUNA ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34530",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-24-2021",
+   "path": "local/constanta/aliman/2021/24",
+   "short": "HCL Aliman nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 24/2021 privind aprobarea exercitării dreptului de folosinţă asupra terenului ce face parte din imobilul „Şcoala cu clasele I-IV Floriile”, evidenţiat în domeniul public al comunei Aliman, pentru realizarea de către COMUNA ALIMAN a obiectivului de investiţii: „PUŢ FORAT PENTRU ALIMENTARE CU APĂ ÎN LOCALITATEA FLORIILE, COMUNA ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34533",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-25-2021",
+   "path": "local/constanta/aliman/2021/25",
+   "short": "HCL Aliman nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 25/2021 privind aprobarea planurilor pentru asigurarea resurselor umane, materiale şi financiare destinate prevenirii şi gestionării situaţiilor de urgenţă de la nivelul Comunei Aliman, pe anul 2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34534",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-26-2021",
+   "path": "local/constanta/aliman/2021/26",
+   "short": "HCL Aliman nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 26/2021 privind demararea implementării programului „CURĂŢENIE GENERALĂ ÎN COMUNA ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34535",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-27-2021",
+   "path": "local/constanta/aliman/2021/27",
+   "short": "HCL Aliman nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 27/2021 privind achiziţia serviciului de publicitate media pentru autorităţile publice locale din cadrul Comunei Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34536",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-28-2021",
+   "path": "local/constanta/aliman/2021/28",
+   "short": "HCL Aliman nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 28/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Aliman pentru o perioadă de 3 luni (mai-iulie 2021)",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34537",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-29-2021",
+   "path": "local/constanta/aliman/2021/29",
+   "short": "HCL Aliman nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 29/2021 privind aprobarea încheierii exerciţiului bugetar al anului 2020",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34543",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-3-2021",
+   "path": "local/constanta/aliman/2021/3",
+   "short": "HCL Aliman nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 3/2021 privind aprobarea Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav, pe semestrul II anul 2020, angajaţi în cadrul Primăriei Comunei Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34512",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-30-2021",
+   "path": "local/constanta/aliman/2021/30",
+   "short": "HCL Aliman nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 30/2021 privind aprobarea execuţiei bugetare pe trimestrul I, anul 2021, întocmită la data de 31.03.2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34544",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-34-2021",
+   "path": "local/constanta/aliman/2021/34",
+   "short": "HCL Aliman nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 34/2021 privind aprobarea înregistrării Comunei Aliman în Sistemul National Electronic de Plăţi (SNEP) pentru efectuarea plăţilor online, cu cardul, a impozitelor şi taxelor datorate bugetului local al comunei Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34548",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-35-2021",
+   "path": "local/constanta/aliman/2021/35",
+   "short": "HCL Aliman nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 35/2021 privind implementarea unui sistem informatic necesar la efectuarea plăţilor online, cu cardul, a impozitelor şi taxelor datorate bugetului local al comunei Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34549",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34549",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-36-2021",
    "path": "local/constanta/aliman/2021/36",
    "short": "HCL Aliman nr. 36/2021",
@@ -58,6 +388,21 @@
      "from": "2021-06-18",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/34566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-4-2021",
+   "path": "local/constanta/aliman/2021/4",
+   "short": "HCL Aliman nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 4/2021 privind aprobarea contractului de prestări servicii de salubrizare în comuna Aliman până la finalizarea procedurii de delegare a gestiunii serviciului de salubrizare",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34513",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34513",
      "sha256": null
     }
    ]
@@ -213,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-constanta--aliman-5-2021",
+   "path": "local/constanta/aliman/2021/5",
+   "short": "HCL Aliman nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 5/2021 privind scoaterea din evidenţele Primăriei Comunei Aliman a unor creanţe fiscale",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34514",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34514",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--aliman-50-2021",
    "path": "local/constanta/aliman/2021/50",
    "short": "HCL Aliman nr. 50/2021",
@@ -298,6 +658,66 @@
      "from": "2021-07-30",
      "units": 1,
      "source_url": "https://emol.ro/aliman-ct/registru-hcl/34582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-6-2021",
+   "path": "local/constanta/aliman/2021/6",
+   "short": "HCL Aliman nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 6/2021 privind aprobarea Actului Adițional nr. 1 la Documentul de Poziție, avizarea Documentației de atribuire a contractului de delegare, prin concesiune, a gestiunii serviciului de salubrizare aferent Proiectului „Sistem de Management Integrat al Deșeurilor în Județul Constanța” și acordarea unor mandate",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34515",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-7-2021",
+   "path": "local/constanta/aliman/2021/7",
+   "short": "HCL Aliman nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 7/2021 privind aprobarea programului anual al achiziţiilor publice pe anul 2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34516",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-8-2021",
+   "path": "local/constanta/aliman/2021/8",
+   "short": "HCL Aliman nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 8/2021 privind achiziţia serviciului de internet mobil pentru unităţile de învăţământ preuniversitar de stat din comuna Aliman",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34517",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-9-2021",
+   "path": "local/constanta/aliman/2021/9",
+   "short": "HCL Aliman nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 9/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local Aliman pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34518",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34518",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/ocna-mures/2020",
+"acts": [
+{
+"slug": "hcl-alba--ocna-mures-149-2020",
+"path": "local/alba/ocna-mures/2020/149",
+"kind": "local",
+"year": "2020",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ocna Mureș nr. 149/2020 privind aprobarea procedurii de acordare a facilitdlilor de transport pentru elevii din inv6{6m6ntul preuniversitar acredrtatlat:iiorizat care au domiciliul pe ruza administrativ-teritoriald a oraEului Ocna Mureq collvoca-CreOdNeSIiUndUaLtdLlOaqdAaLtaAdLeA0R9A.0S9.U20L2U0L,OcCa NuArmaMreURaEeSr,niintetrruiinditisinpoqzeildieini{adeexctroanovrdoicnaarred cu nr. 270109.09.2020, de cdtre primarul ora",
+"short": "HCL Ocna Mureș nr. 149/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://www.primariaocnamures.ro/categorie-document/hotarari-de-consiliu-local-2020/",
+"council": "alba/ocna-mures",
+"council_name": "Consiliul Local al Orașului Ocna Mureș",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

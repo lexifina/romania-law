@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-constanta--mihai-viteazu-11-2023",
+   "path": "local/constanta/mihai-viteazu/2023/11",
+   "short": "HCL Mihai Viteazu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 11/2023",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88533",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-35-2023",
+   "path": "local/constanta/mihai-viteazu/2023/35",
+   "short": "HCL Mihai Viteazu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 35/2023",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/101470",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/101470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--mihai-viteazu-7-2023",
+   "path": "local/constanta/mihai-viteazu/2023/7",
+   "short": "HCL Mihai Viteazu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 7/2023 privind aprobarea raportului privind activitatea desfășurată de asistenții personali în semestrul II al anului 2022",
+   "url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88529",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/mihaiviteazu-ct/registru-hcl/88529",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-constanta--mihai-viteazu-83-2023",
    "path": "local/constanta/mihai-viteazu/2023/83",
    "short": "HCL Mihai Viteazu nr. 83/2023",

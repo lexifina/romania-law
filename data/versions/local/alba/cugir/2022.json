@@ -3,6 +3,51 @@
  "shard": "local/alba/cugir/2022",
  "acts": [
   {
+   "slug": "hcl-alba--cugir-125-2022",
+   "path": "local/alba/cugir/2022/125",
+   "short": "HCL Cugir nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 125/2022 privind modificarea art.1 pct.2 din Hotărârea Consiliului Local nr.168/2021 privind constituirea Comisiei Locale de Ordine Publică a Orașului Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 26 mai 2022; Luând în dezbatere: -Proiectul de hotărâre privind modificarea art.1 pct.2 din Hotărârea Consiliului Local nr.168/2021 privind constituirea",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P140",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.125_-_Modificare_componenta_Comisie_ordine_publica_.doc",
+     "sha256": "436c510eb79cdcb3e64b5eb8d9c4bd03646b3e46645baaaf4e8e51cc4cebe6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-159-2022",
+   "path": "local/alba/cugir/2022/159",
+   "short": "HCL Cugir nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 159/2022 Privind modificarea Regulamentului de organizare și funcționare al serviciului social CENTRU DE ASISTENȚĂ ȘI RECUPERARE PENTRU PERSOANE VÂRSTNICE - LOTUS (cod serviciu 8810CZ-V-I) din subordinea Serviciului Public de Asistență Socială Cugir, aprobat prin HCL nr.235/2019 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 28 iulie 2022; Luând în dezba",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P120",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.159_-_Modificare_ROF_Lotus_aprobat_prin_HCL_nr_._235-2019_.docx",
+     "sha256": "c03a32c4f7dca3bcf31b7ba098089612f4ab5041a76df50008733773295d043d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-22-2022",
+   "path": "local/alba/cugir/2022/22",
+   "short": "HCL Cugir nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 22/2022 privind îndreptarea erorii materiale strecurate cu ocazia redactării Anexei la HCL nr.163/2021 prin care s-a aprobat contractarea unui împrumut în valoare de 20.000.000 lei, în conformitate cu prevederile art. 1 din OUG nr. 83/2021 pentru unele măsuri fiscal-bugetare privind acordarea unor împrumuturi din Trezoreria Statului Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publ",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P240",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.22_-_Indreptare_eroare_HCL_163_din_2021,_aprobare_imprumut_trezorerie_.doc",
+     "sha256": "b75d30f3a91be30e50a6fe05d02d246ce5cefed5cafe0eb8c1a358b272f4cea4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--cugir-225-2022",
    "path": "local/alba/cugir/2022/225",
    "short": "HCL Cugir nr. 225/2022",
@@ -209,6 +254,66 @@
      "units": 1,
      "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.279_-_Rectificare_9_buget_local_2022_.doc",
      "sha256": "697b78f1d80b1cb58e6634bdff4880d56d04520ab9fdfb50ce755bc8b02ed0a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-88-2022",
+   "path": "local/alba/cugir/2022/88",
+   "short": "HCL Cugir nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 88/2022 Privind aprobarea indexării nivelurilor valorilor impozabile, a impozitelor și taxelor locale, a altor taxe și a taxelor speciale aplicabile pentru anul fiscal 2023 Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 21 aprilie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea indexării nivelurilor valorilor impozabile, a impozitelor",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P180",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.88_-_Indexare_impozite_2023_.docx",
+     "sha256": "f5da2229c85238ad122ff1ba92ca35e771b7fa3f59e58388775a43fa9983eb21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-92-2022",
+   "path": "local/alba/cugir/2022/92",
+   "short": "HCL Cugir nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 92/2022 Privind aprobarea Regulamentului de organizare și funcționare a serviciului social CENTRUL DE ASISTENȚĂ PENTRU AGRESORI FAMILIALI (cod serviciu 8899CZ-VD-III) din cadrul BIROULUI SERVICII SOCIALE SPECIALE - COMPARTIMENT VIOLENȚĂ ÎN FAMILIE din subordinea Serviciului Public de Asistență Socială Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P180",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.92_-_Aprobare_Regulament_Centru_agresori_.docx",
+     "sha256": "e5190d7ecf1bf5b5c1c71b332911b5ae4b69c8c396ae9143d5351b0aa8517618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-93-2022",
+   "path": "local/alba/cugir/2022/93",
+   "short": "HCL Cugir nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 93/2022 Privind aprobarea Regulamentului de organizare și funcționare a servicului social CENTRUL DE CONSILIERE PENTRU PREVENIREA ȘI COMBATEREA VIOLENȚEI DOMESTICE (cod serviciu 8899CZ-VD-I) din cadrul BIROULUI SERVICII SOCIALE SPECIALE - COMPARTIMENT VIOLENȚĂ ÎN FAMILIE din subordinea Serviciului Public de Asistență Socială Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință public",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P180",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.93_-_Aprobare_Regulament_Centru_consiliere_.docx",
+     "sha256": "df42e5529dba8d40d3bb6f3e6d10393bf7c5a5e29ddba921bfd537fca7be238e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--cugir-99-2022",
+   "path": "local/alba/cugir/2022/99",
+   "short": "HCL Cugir nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Cugir nr. 99/2022 privind aprobarea Planului Urbanistic Zonal: ”Introducere teren în intravilan pentru construirea unei locuințe, anexă gospodărească și împrejmuire” pe terenul înscris în CF nr. 74538 Cugir Consiliul Local al orașului Cugir, județul Alba; Întrunit în ședință publică ”ordinară” din data de 21 aprilie 2022; Luând în dezbatere: -Proiectul de hotărâre privind aprobarea Planului Urbanistic Zonal: ”Intro",
+   "url": "https://primariacugir.ro/index.php/monitorul_oficial/hotarari2/C46/P180",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://primariacugir.ro/files/hotarari/HCL_nr.99_-_Aprobare_PUZ_Chirila_.doc",
+     "sha256": "d4099e84f2c25ceeb208c08723acebe82a6dbf4e14d9a0d2f3a2e38fc400ec3f"
     }
    ]
   }

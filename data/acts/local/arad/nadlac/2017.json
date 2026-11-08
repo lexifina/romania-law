@@ -1,0 +1,252 @@
+{
+"country": "RO",
+"shard": "local/arad/nadlac/2017",
+"acts": [
+{
+"slug": "hcl-arad--nadlac-39-2017",
+"path": "local/arad/nadlac/2017/39",
+"kind": "local",
+"year": "2017",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 39/2017 privind aprobarea nivelurilor valorilor impozabile, a impozitelor și taxelor locale și a altor taxe asimilate, a taxelor pentru ocuparea temporară a domeniului public/privat al orașului Nădlac, precum și a amenzilor aplicabile pentru anul fiscal 2018",
+"short": "HCL Nădlac nr. 39/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-04-24",
+"latest": "2017-04-24",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-40-2017",
+"path": "local/arad/nadlac/2017/40",
+"kind": "local",
+"year": "2017",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 40/2017 privind aprobarea taxelor speciale aplicabile în anul fiscal 2018",
+"short": "HCL Nădlac nr. 40/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-04-24",
+"latest": "2017-04-24",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-52-2017",
+"path": "local/arad/nadlac/2017/52",
+"kind": "local",
+"year": "2017",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 52/2017 privind reorganizarea Comisiei locale de ordine publică la nivelul orașului Nădlac",
+"short": "HCL Nădlac nr. 52/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-05-23",
+"latest": "2017-05-23",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-76-2017",
+"path": "local/arad/nadlac/2017/76",
+"kind": "local",
+"year": "2017",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 76/2017",
+"short": "HCL Nădlac nr. 76/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-06-28",
+"latest": "2017-06-28",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-83-2017",
+"path": "local/arad/nadlac/2017/83",
+"kind": "local",
+"year": "2017",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 83/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+"short": "HCL Nădlac nr. 83/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-07-24",
+"latest": "2017-07-24",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-131-2017",
+"path": "local/arad/nadlac/2017/131",
+"kind": "local",
+"year": "2017",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 131/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+"short": "HCL Nădlac nr. 131/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-10-19",
+"latest": "2017-10-19",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-152-2017",
+"path": "local/arad/nadlac/2017/152",
+"kind": "local",
+"year": "2017",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 152/2017",
+"short": "HCL Nădlac nr. 152/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-04",
+"latest": "2017-12-04",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-162-2017",
+"path": "local/arad/nadlac/2017/162",
+"kind": "local",
+"year": "2017",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 162/2017 privind aprobarea măsurilor pentru remedierea deficienţelor la normele de apărare împotriva incendiilor constatate la nivelul oraşului Nădlac",
+"short": "HCL Nădlac nr. 162/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-28",
+"latest": "2017-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-168-2017",
+"path": "local/arad/nadlac/2017/168",
+"kind": "local",
+"year": "2017",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 168/2017",
+"short": "HCL Nădlac nr. 168/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-28",
+"latest": "2017-12-28",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--nadlac-169-2017",
+"path": "local/arad/nadlac/2017/169",
+"kind": "local",
+"year": "2017",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 169/2017 privind aprobarea taxei speciale de salubrizare datorată de persoanele fizice şi juridice pentru perioada 23.04.2018-30.12.2018",
+"short": "HCL Nădlac nr. 169/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-28",
+"latest": "2017-12-28",
+"portal": "https://primaria-nadlac.ro/hotarari-din-anul-2017-2/",
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-arad--nadlac-173-2017",
+"path": "local/arad/nadlac/2017/173",
+"kind": "local",
+"year": "2017",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nădlac nr. 173/2017",
+"short": "HCL Nădlac nr. 173/2017",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2017-12-28",
+"latest": "2017-12-28",
+"portal": null,
+"council": "arad/nadlac",
+"council_name": "Consiliul Local al Orașului Nădlac",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

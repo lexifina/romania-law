@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-salaj--simleu-silvaniei-45-2015",
+"path": "local/salaj/simleu-silvaniei/2015/45",
+"kind": "local",
+"year": "2015",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 45/2015 privind aprobarea înființării serviciului public de coșerit Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 27 mai 2015; Având în vedere Expunerea de motive nr.7256/2015 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.7257/2015 al Administratorului public și Avizul Comisiei pentru amenajarea teritoriului și urbanism, administr",
+"short": "HCL Șimleu Silvaniei nr. 45/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-05-27",
+"latest": "2015-05-27",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2015/page/7/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-83-2015",
 "path": "local/salaj/simleu-silvaniei/2015/83",
 "kind": "local",

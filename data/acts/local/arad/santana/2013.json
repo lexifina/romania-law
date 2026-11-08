@@ -1,0 +1,97 @@
+{
+"country": "RO",
+"shard": "local/arad/santana/2013",
+"acts": [
+{
+"slug": "hcl-arad--santana-32-2013",
+"path": "local/arad/santana/2013/32",
+"kind": "local",
+"year": "2013",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 32/2013 privind protectia si promovarea drepturilor copilului Prevederile art. 36, alin. (6),litera a. punctul 2 din Legea 21512001 privind administralia publicd locald cu modificarile si completarile ulterioare in temeiul art. 45 din fegea)lSlZO0l privind administralia publici locald cu modificarile si completarile ulterioare HoTARA$TE Art. 1 Se aproba Criteriile de internare si asistare la domiciliu a c",
+"short": "HCL Sântana nr. 32/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-19",
+"latest": "2013-02-19",
+"portal": "http://www.primariasantana.ro/ro/monitorul-oficial-local/hotarari-ale-consiliului-local/?page=290",
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-78-2013",
+"path": "local/arad/santana/2013/78",
+"kind": "local",
+"year": "2013",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 78/2013",
+"short": "HCL Sântana nr. 78/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-05-23",
+"latest": "2013-05-23",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-153-2013",
+"path": "local/arad/santana/2013/153",
+"kind": "local",
+"year": "2013",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 153/2013",
+"short": "HCL Sântana nr. 153/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-11-26",
+"latest": "2013-11-26",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--santana-160-2013",
+"path": "local/arad/santana/2013/160",
+"kind": "local",
+"year": "2013",
+"number": "160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sântana nr. 160/2013",
+"short": "HCL Sântana nr. 160/2013",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2013-12-17",
+"latest": "2013-12-17",
+"portal": null,
+"council": "arad/santana",
+"council_name": "Consiliul Local al Orașului Sântana",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}
