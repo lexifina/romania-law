@@ -3,6 +3,636 @@
  "shard": "local/prahova/filipestii-de-padure/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--filipestii-de-padure-1-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/1",
+   "short": "HCL Filipeștii de Pădure nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 1/2020 privind aprobarea acoperirii definitive din excedentul anilor precedenti a deficitului sectiunii de dezvoltare inregistrat la data de 31.12.2019",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/568",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-10-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/10",
+   "short": "HCL Filipeștii de Pădure nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 10/2020 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/577",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-11-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/11",
+   "short": "HCL Filipeștii de Pădure nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 11/2020 privind stabilirea tarifelor pentru utilizarea temporară a unor terenuri și clădiri aparținând domenilului public pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/578",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-12-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/12",
+   "short": "HCL Filipeștii de Pădure nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 12/2020 privind modificarea Hotărârii Consilului Local nr.3 din 09 ianuarie 2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/579",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-17-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/17",
+   "short": "HCL Filipeștii de Pădure nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 17/2020 privind acordarea de ajutoare de urgență în alimente",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/583",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-18-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/18",
+   "short": "HCL Filipeștii de Pădure nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 18/2020 privind aprobarea implementarii proiectului \"Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale\"cod SMIS 126924",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/717",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-19-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/19",
+   "short": "HCL Filipeștii de Pădure nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 19/2020 privind aprobarea Planului Urbanistic Zonal Extindere Extravilan (S=7042mp) - Zonă mixtă unități industriale și depozitare/ instituții și servicii pentru amplasare fabrică medicamente de uz veterinar și amenajare drum acces (Sstudiată+22568mp) și a Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/718",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-2-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/2",
+   "short": "HCL Filipeștii de Pădure nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 2/2020 privind aprobarea acoperirii definitive din excedentul anilor precedenti a deficitului sectiunii de functionare a bugetelor activităților finantate integral din venituri proprii inregistrat la data de 31.12.2019 pentru Gradinita cu program prelungit Nr.2 comuna ” . Filipestii de Padure",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/569",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-20-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/20",
+   "short": "HCL Filipeștii de Pădure nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 20/2020 privind modificarea nivelului tarifelor pentru utilizarea temporară a unor terenuri și clădiri aparținânddomeniului public pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/719",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-21-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/21",
+   "short": "HCL Filipeștii de Pădure nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 21/2020 privind schimbarea reprezentantului legal al beneficiarului (Comuna Filipeștii de Pădure) în cadrul proiectului cu denumirea \"Achiziție autoutilitară și accesorii pentru servicii publice de curățenie stradală și dezăpezire în comuna Filipeștii de Pădure\"",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/720",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-23-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/23",
+   "short": "HCL Filipeștii de Pădure nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 23/2020 privind aprobarea Strategiei de dezvoltare a serviciilor sociale la nivelul comunei Filipeștii de Pădure, pentru perioada 2020 - 2022, precum și a Planului de acțiune",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2722",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-24-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/24",
+   "short": "HCL Filipeștii de Pădure nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 24/2020 privind revocarea Hotărârii nr. 17 adoptată în ședința din 14.04.2020, privind acordarea de ajutoare de urgență în alimente",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2723",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-25-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/25",
+   "short": "HCL Filipeștii de Pădure nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 25/2020 privind aprobarea dotării cu materiale de protecție pentru prevenția și reducerea riscului de îmbolnăvire cu coronavirusul SARS-Cov-2 în rândul elevilor și personalului didactic și administrativ implicat în organizarea și desfășurarea examenelor de bacalaureat și evaluare națională",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2724",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-26-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/26",
+   "short": "HCL Filipeștii de Pădure nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 26/2020 privind achiziționarea de laptop-uri pentru șefii de promoție ai anului 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2725",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-27-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/27",
+   "short": "HCL Filipeștii de Pădure nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 27/2020 privind aprobarea decontării contravalorii transportului cadrelor didactice pentru lunile: Februarie, Martie și Aprilie 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2726",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/2726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-28-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/28",
+   "short": "HCL Filipeștii de Pădure nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 28/2020 privind majorarea valorii financiare a normei de hrană a polițiștilor locali",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4077",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-29-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/29",
+   "short": "HCL Filipeștii de Pădure nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 29/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4078",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-3-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/3",
+   "short": "HCL Filipeștii de Pădure nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 3/2020 privind stabilirea impozitelor și taxelor pentru anul fiscal 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/570",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-30-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/30",
+   "short": "HCL Filipeștii de Pădure nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 30/2020 privind trecerea în proprietatea privată a comunei a suprafeței de 80 mp",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4079",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-33-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/33",
+   "short": "HCL Filipeștii de Pădure nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 33/2020 privind aprobarea tăierii și/sau toaletării arborilor aflați pe domeniul public, precum și depozitarea, valorificarea lemnului rezultat din spațiile verzi și alte terenuri cu vegetație forestieră situate în intravilanul comunei Filipeștii de Pădure",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4082",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-35-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/35",
+   "short": "HCL Filipeștii de Pădure nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 35/2020 privind aprobarea încheierii execuției bugetare pe anul 2019",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4084",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/4084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-36-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/36",
+   "short": "HCL Filipeștii de Pădure nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 36/2020 privind aprobarea participării la \"Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public\" cu proiectul \"Reducerea emisiilor de gaze cu efect de seră prin eficientizarea sistemului de iluminat public în comuna Filipeștii de Pădure\"",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5923",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-37-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/37",
+   "short": "HCL Filipeștii de Pădure nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 37/2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5924",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-39-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/39",
+   "short": "HCL Filipeștii de Pădure nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 39/2020 privind aprobarea înființării unor obiective de investiții finanțate din bugetul de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5926",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-40-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/40",
+   "short": "HCL Filipeștii de Pădure nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 40/2020 privind înființarea unui obiectiv de investiții",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5927",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-41-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/41",
+   "short": "HCL Filipeștii de Pădure nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 41/2020 privind aprobarea rectificării bugetului local pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5928",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/5928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-43-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/43",
+   "short": "HCL Filipeștii de Pădure nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 43/2020 privind aprobarea modificării denumirii obiectivului de investiții: Reparație capitală coș evacuare centrala termică Corp A și montare paratrăznet Liceu Teoretic",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6412",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-44-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/44",
+   "short": "HCL Filipeștii de Pădure nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 44/2020 privind aprobarea înființării unor obiective de investiții",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6413",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-45-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/45",
+   "short": "HCL Filipeștii de Pădure nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 45/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6414",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/6414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-47-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/47",
+   "short": "HCL Filipeștii de Pădure nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 47/2020 privind modificarea denumirii unui obiectiv de investiții",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8243",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-48-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/48",
+   "short": "HCL Filipeștii de Pădure nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 48/2020 privind asocierea Comunei Filipeștii de Pădure cu Județul Prahova în vederea realizării unor obiective de investiții de interes public pentru anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8244",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-49-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/49",
+   "short": "HCL Filipeștii de Pădure nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 49/2020 privind aprobarea schimbării destinației imobilului situat în centrul civic Dițești",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8245",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-5-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/5",
+   "short": "HCL Filipeștii de Pădure nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 5/2020 privind aprobarea bugetului local pentru anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/572",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-50-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/50",
+   "short": "HCL Filipeștii de Pădure nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 50/2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8246",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-51-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/51",
+   "short": "HCL Filipeștii de Pădure nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 51/2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8247",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-52-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/52",
+   "short": "HCL Filipeștii de Pădure nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 52/2020 privind aprobarea rectificării bugetului local pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8248",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/8248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-54-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/54",
+   "short": "HCL Filipeștii de Pădure nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 54/2020 privind aprobarea rectificării bugetului local pe anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9408",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-55-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/55",
+   "short": "HCL Filipeștii de Pădure nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 55/2020 privind aprobarea decontării contravalorii transportului cadrelor didactice pentru lunile mai, iunie, iulie și august 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9409",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/9409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-57-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/57",
+   "short": "HCL Filipeștii de Pădure nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 57/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10847",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-58-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/58",
+   "short": "HCL Filipeștii de Pădure nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 58/2020 privind alegerea viceprimarului comunei Filipeștii de Pădure",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10848",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-59-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/59",
+   "short": "HCL Filipeștii de Pădure nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 59/2020 privind alegerea comisiilor de specialitate",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10849",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/10849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-6-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/6",
+   "short": "HCL Filipeștii de Pădure nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 6/2020 privind aprobarea organizării rețelei unitare de învățământ preuniversitar de stat, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/573",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/573",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-padure-63-2020",
    "path": "local/prahova/filipestii-de-padure/2020/63",
    "short": "HCL Filipeștii de Pădure nr. 63/2020",
@@ -103,6 +733,21 @@
      "from": "2020-11-30",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/11835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-7-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/7",
+   "short": "HCL Filipeștii de Pădure nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 7/2020 privind aprobarea numărului burselor școlare pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/574",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/574",
      "sha256": null
     }
    ]
@@ -298,6 +943,21 @@
      "from": "2020-12-21",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/13106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-padure-9-2020",
+   "path": "local/prahova/filipestii-de-padure/2020/9",
+   "short": "HCL Filipeștii de Pădure nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Pădure nr. 9/2020 privind aprobarea numărului de asistenți personali pentru anul 2020",
+   "url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/576",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidepadure-ph/registru-hcl/576",
      "sha256": null
     }
    ]

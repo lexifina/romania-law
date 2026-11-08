@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-69-2025",
+   "path": "local/prahova/floresti/2025/69",
+   "short": "HCL Florești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 69/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217564",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217564",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-98-2025",
    "path": "local/prahova/floresti/2025/98",
    "short": "HCL Florești nr. 98/2025",

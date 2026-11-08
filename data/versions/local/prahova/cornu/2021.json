@@ -3,6 +3,141 @@
  "shard": "local/prahova/cornu/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--cornu-14-2021",
+   "path": "local/prahova/cornu/2021/14",
+   "short": "HCL Cornu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 14/2021 privind aprobarea regulamentului de acordare a finanţărilor din bugetul comunei Cornu în anul 2021, pentru activităţi sportive organizate în baza legii nr.69/2000 a educației fizice şi sportului",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/21395",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/21395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-17-2021",
+   "path": "local/prahova/cornu/2021/17",
+   "short": "HCL Cornu nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 17/2021",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/21398",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/21398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-19-2021",
+   "path": "local/prahova/cornu/2021/19",
+   "short": "HCL Cornu nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 19/2021 privind prelungirea valabilității Planului urbanistic general al comunei",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/21400",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/21400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-20-2021",
+   "path": "local/prahova/cornu/2021/20",
+   "short": "HCL Cornu nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 20/2021 privind aprobarea acordului între Unitatea Administrativ Teritorială Comuna Cornu, Unitatea Administrativ Teritorială Județul Prahova și unele Unităţi Administrativ Teritoriale din județul Prahova, în vederea realizării documentațiilor tehnico – economice pentru investiția „Extindere rețea de distribuție gaze naturale în unele localități din Județul Prahova”",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/21401",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/21401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-22-2021",
+   "path": "local/prahova/cornu/2021/22",
+   "short": "HCL Cornu nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 22/2021 privind indexarea impozitelor şi taxelor locale, precum și a taxelor speciale pentru anul 2022 la nivelul comunei Cornu",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/22432",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/22432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-23-2021",
+   "path": "local/prahova/cornu/2021/23",
+   "short": "HCL Cornu nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 23/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâre cu caracter normativ care se supun adoptării Consiliului local al Comunei CORNU",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/22433",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/22433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-3-2021",
+   "path": "local/prahova/cornu/2021/3",
+   "short": "HCL Cornu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 3/2021 privind organizarea reţelei şcolare a unităţilor de învăţământ din comuna Cornu, în anul şcolar 2021-2022",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/18584",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/18584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-4-2021",
+   "path": "local/prahova/cornu/2021/4",
+   "short": "HCL Cornu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 4/2021 privind aprobarea planului de acţiuni şi lucrări de interes local ce se vor efectua în anul 2021 de beneficiarii de ajutor social",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/18585",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/18585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-5-2021",
+   "path": "local/prahova/cornu/2021/5",
+   "short": "HCL Cornu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 5/2021 privind aprobarea dezmembrării unui imobil - teren, situat în comuna Cornu, strada Aniniș, în vederea înscrierii în cartea funciară",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/18586",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/18586",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--cornu-73-2021",
    "path": "local/prahova/cornu/2021/73",
    "short": "HCL Cornu nr. 73/2021",
@@ -253,6 +388,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/cornu-ph/registru-hcl/44539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--cornu-9-2021",
+   "path": "local/prahova/cornu/2021/9",
+   "short": "HCL Cornu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu nr. 9/2021 privind privind stabilirea de măsuri pentru buna gospodărire a comunei Cornu, păstrarea ordinii și curățeniei pe teritoriul acesteia",
+   "url": "https://emol.ro/cornu-ph/registru-hcl/21390",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornu-ph/registru-hcl/21390",
      "sha256": null
     }
    ]

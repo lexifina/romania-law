@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/carbunesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--carbunesti-1-2025",
+   "path": "local/prahova/carbunesti/2025/1",
+   "short": "HCL Cărbunești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 1/2025 HCL PRIVIND APROBAREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96110",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-10-2025",
+   "path": "local/prahova/carbunesti/2025/10",
+   "short": "HCL Cărbunești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 10/2025 HCL privind aprobarea participarii UAT Carbunesti la programul Rabla ptr sobe",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102558",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-11-2025",
+   "path": "local/prahova/carbunesti/2025/11",
+   "short": "HCL Cărbunești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 11/2025 HCL privind alegerea presedintelui de sedinta",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102560",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-12-2025",
+   "path": "local/prahova/carbunesti/2025/12",
+   "short": "HCL Cărbunești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 12/2025 HCL privind rectificarea bugetului local",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102561",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-13-2025",
+   "path": "local/prahova/carbunesti/2025/13",
+   "short": "HCL Cărbunești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 13/2025 HCL privind modificarea organigramei",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102562",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-14-2025",
+   "path": "local/prahova/carbunesti/2025/14",
+   "short": "HCL Cărbunești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 14/2025 HCL privind stabilire taxe pasunat",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102563",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#102563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-16-2025",
+   "path": "local/prahova/carbunesti/2025/16",
+   "short": "HCL Cărbunești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 16/2025 HCL privind aprobarea rectificarii bugetare",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108936",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-17-2025",
+   "path": "local/prahova/carbunesti/2025/17",
+   "short": "HCL Cărbunești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 17/2025 HCL privind aprobarea contului de executie la finele trim .III",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108937",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-2-2025",
+   "path": "local/prahova/carbunesti/2025/2",
+   "short": "HCL Cărbunești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 2/2025 HCL PRIVIND UTILIZAREA EXCEDENTULUI ANULUI 2024",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96111",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-21-2025",
+   "path": "local/prahova/carbunesti/2025/21",
+   "short": "HCL Cărbunești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 21/2025 HCL privind indexarea impozitelor si taxelor locale",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108944",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-22-2025",
+   "path": "local/prahova/carbunesti/2025/22",
+   "short": "HCL Cărbunești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 22/2025 HCL privind stabilirea modalitati acordare stimulent educational",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108945",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-23-2025",
+   "path": "local/prahova/carbunesti/2025/23",
+   "short": "HCL Cărbunești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 23/2025 HCL privind aprobare regulament consultare plan urbanistic",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108946",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#108946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-24-2025",
+   "path": "local/prahova/carbunesti/2025/24",
+   "short": "HCL Cărbunești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 24/2025 HCL privind rectificarea bugetului local",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#112647",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#112647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-25-2025",
+   "path": "local/prahova/carbunesti/2025/25",
+   "short": "HCL Cărbunești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 25/2025 HCL privind aprobarea retelei scolare",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113970",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-26-2025",
+   "path": "local/prahova/carbunesti/2025/26",
+   "short": "HCL Cărbunești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 26/2025 HCL PRIVIND APROBAREA IMPOZITELOR SITAXELOR LOCALE IN ANUL 2026",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113973",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-27-2025",
+   "path": "local/prahova/carbunesti/2025/27",
+   "short": "HCL Cărbunești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 27/2025 HCL PRIVIND ACORDARE MANDAT SPECIAL",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113978",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#113978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-3-2025",
+   "path": "local/prahova/carbunesti/2025/3",
+   "short": "HCL Cărbunești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 3/2025 HCL PRIVIND APROBAREA BUGETULUI INITIAL PE ANUL 2025",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96249",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-4-2025",
+   "path": "local/prahova/carbunesti/2025/4",
+   "short": "HCL Cărbunești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 4/2025 HCL privind aprobarea planului de achizitii pe anul 2025",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96250",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-5-2025",
+   "path": "local/prahova/carbunesti/2025/5",
+   "short": "HCL Cărbunești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 5/2025 HCL privind aprobarea regulamentului privind acordarea ajutoarelor de urgenta",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96256",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-6-2025",
+   "path": "local/prahova/carbunesti/2025/6",
+   "short": "HCL Cărbunești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 6/2025 HCL privind aprobarea raportului asistentilor personali",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96261",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-7-2025",
+   "path": "local/prahova/carbunesti/2025/7",
+   "short": "HCL Cărbunești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 7/2025 HCL privind constituirea echipei mobile in cazul violentei domestice",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96270",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-8-2025",
+   "path": "local/prahova/carbunesti/2025/8",
+   "short": "HCL Cărbunești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 8/2025 HCL privind adoptarea Regulamentului privind edificarea constructiilor",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96272",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--carbunesti-9-2025",
+   "path": "local/prahova/carbunesti/2025/9",
+   "short": "HCL Cărbunești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunești nr. 9/2025 HCL privind incetarea mandatului unui consilier prin demisie",
+   "url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96273",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://carbunesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4509#96273",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

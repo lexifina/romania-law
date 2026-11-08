@@ -3,6 +3,96 @@
  "shard": "local/prahova/filipestii-de-targ/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--filipestii-de-targ-10-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/10",
+   "short": "HCL Filipeștii de Târg nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 10/2024 privind aprobarea delegării gestiunii prin concesiune a Serviciului de Iluminat Public al Comunei Filipeștii de Târg, Județul Prahova, a Studiului de fundamentare a deciziei de delegare a Serviciului de Iluminat Public al Comunei Filipeștii de Târg, Județul Prahova, a Caietului de Sarcini și a documentației de atribuire prin procedură simplificată",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142846",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-11-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/11",
+   "short": "HCL Filipeștii de Târg nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 11/2024 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2024 al Comunei Filipeștii de Târg, județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142847",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-24-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/24",
+   "short": "HCL Filipeștii de Târg nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 24/2024 privind aprobarea bugetulul împrumuturilor interne pentru anul 2024 al Comunei Filipeștii de Târg, județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/148703",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/148703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-29-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/29",
+   "short": "HCL Filipeștii de Târg nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 29/2024 privind aprobarea și indexarea impozitelor și taxelor locale precum și a taxelor speciale aplicabile în anul fiscal 2025 în comuna Filipeștii de Târg, județul Prahova",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/153611",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/153611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-46-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/46",
+   "short": "HCL Filipeștii de Târg nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 46/2024",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/169766",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/169766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-51-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/51",
+   "short": "HCL Filipeștii de Târg nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 51/2024 privind stabilirea unor norme locale pentru asigurarea curăţeniei şi salubrităţii, asigurarea ordinii şi liniştii publice, gospodărirea localităţii, fluidizarea traficului rutier în comuna Filipeștii de Târg, precum şi sancţiunile contravenţionale ce se aplică în cazul nerespectării acestora de către persoanele fizice sau juridice",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/169771",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/169771",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--filipestii-de-targ-52-2024",
    "path": "local/prahova/filipestii-de-targ/2024/52",
    "short": "HCL Filipeștii de Târg nr. 52/2024",
@@ -118,6 +208,21 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/177335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-6-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/6",
+   "short": "HCL Filipeștii de Târg nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 6/2024 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2024 al SC APA FILIPESTII DE TARG SRL",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142842",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142842",
      "sha256": null
     }
    ]
@@ -298,6 +403,21 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/182182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--filipestii-de-targ-9-2024",
+   "path": "local/prahova/filipestii-de-targ/2024/9",
+   "short": "HCL Filipeștii de Târg nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Filipeștii de Târg nr. 9/2024 privind aprobarea înființării Serviciului de Iluminat Public al Comunei Filipeștii de Târg, Județul Prahova fără personalitate juridică și a Regulamentului de Organizare și funcționare al serviciului de iluminat public",
+   "url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142845",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/filipestiidetarg-ph/registru-hcl/142845",
      "sha256": null
     }
    ]

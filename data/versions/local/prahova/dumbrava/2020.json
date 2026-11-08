@@ -3,6 +3,366 @@
  "shard": "local/prahova/dumbrava/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--dumbrava-1-2020",
+   "path": "local/prahova/dumbrava/2020/1",
+   "short": "HCL Dumbrava nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 1/2020 privind Reorganizarea retelei scolare pentru anul 2020-2021",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/1",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-10-2020",
+   "path": "local/prahova/dumbrava/2020/10",
+   "short": "HCL Dumbrava nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 10/2020 privind aprobarea bugetului local rectificat al comunei Dumbrava pentru anul 2020 si estimari pentru anii 2021-2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/28",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/28",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-11-2020",
+   "path": "local/prahova/dumbrava/2020/11",
+   "short": "HCL Dumbrava nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 11/2020 privind aprobarea planului de ordine si siguranta publica planul de paza al comunei si Planului de Analiza si Acoperire a Riscurilor al localitatii Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/29",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/29",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-12-2020",
+   "path": "local/prahova/dumbrava/2020/12",
+   "short": "HCL Dumbrava nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 12/2020 privind aprobarea planului de lucrari de interes local ce se vor efectua cu beneficiari venitului minim garantat si a persoanelor care efectueaza munca in folosul comunitatii",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/30",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/30",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-13-2020",
+   "path": "local/prahova/dumbrava/2020/13",
+   "short": "HCL Dumbrava nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 13/2020 privind punerea la dispozitia proiectului CS1_POIM /CL11 a terenului pentru constructia/ extinderea/ reabilitarea noilor investitii aferente acestuia",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/31",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/31",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-15-2020",
+   "path": "local/prahova/dumbrava/2020/15",
+   "short": "HCL Dumbrava nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 15/2020 privind extinderea partii carosabile DC 85",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/33",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/33",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-16-2020",
+   "path": "local/prahova/dumbrava/2020/16",
+   "short": "HCL Dumbrava nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 16/2020 privind mandatarea unui reprezentant al uat pentru votarea in cadrul AGA Parteneriatul pentru Managementul Deseurilor-Prahova a modificarii politicii tarifare pe perioada starii de urgenta si semnarea actului aditional",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/34",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/34",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-17-2020",
+   "path": "local/prahova/dumbrava/2020/17",
+   "short": "HCL Dumbrava nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 17/2020 privind luarea unor masuri specifice pentru prevenirea raspandirii Covid 19 ,pe raza comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/510",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-18-2020",
+   "path": "local/prahova/dumbrava/2020/18",
+   "short": "HCL Dumbrava nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 18/2020 privind aprobarea bugetului local rectificat al comunei Dumbrava pentru anul 2020 si estimari pentru anii 2021-2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/3167",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/3167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-19-2020",
+   "path": "local/prahova/dumbrava/2020/19",
+   "short": "HCL Dumbrava nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 19/2020 privind aprobarea statutului comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/3168",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/3168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-2-2020",
+   "path": "local/prahova/dumbrava/2020/2",
+   "short": "HCL Dumbrava nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 2/2020 privind atribuirea unei suprafete de teren intravilan din patrimoniul privat al Primariei comunei Dumbrava catre Parohia Ciupelnita",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/2",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/2",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-20-2020",
+   "path": "local/prahova/dumbrava/2020/20",
+   "short": "HCL Dumbrava nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 20/2020 privind aprobarea Strategiei Locale de Dezvoltare Durabila a Comunei Dumbrava 2021- 2027",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/3169",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/3169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-21-2020",
+   "path": "local/prahova/dumbrava/2020/21",
+   "short": "HCL Dumbrava nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 21/2020 privind aprobarea instituirii taxei speciale in cazul prestatiilor de care beneficiaza individual fara contract de salubritate",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/3170",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/3170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-22-2020",
+   "path": "local/prahova/dumbrava/2020/22",
+   "short": "HCL Dumbrava nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 22/2020 privind aprobarea Organigramei, Statului de functii si a numarului de personal din cadrul aparatului de specialitate al primarului comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/5620",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/5620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-24-2020",
+   "path": "local/prahova/dumbrava/2020/24",
+   "short": "HCL Dumbrava nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 24/2020 privind aprobarea Nomenclatorului stradal al comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/6436",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/6436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-26-2020",
+   "path": "local/prahova/dumbrava/2020/26",
+   "short": "HCL Dumbrava nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 26/2020 privind aprobarea bugetului local rectificat",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/6438",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/6438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-27-2020",
+   "path": "local/prahova/dumbrava/2020/27",
+   "short": "HCL Dumbrava nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 27/2020 privind asocierea comunei Dumbrava și județul Prahova în vederea realizării obiectivului de investiții : Reparații, modernizare, pavaje, împrejmuiri și rigole Cămin Cultural Ciupelnița",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13367",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-28-2020",
+   "path": "local/prahova/dumbrava/2020/28",
+   "short": "HCL Dumbrava nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 28/2020 privind aprobarea proiectului ,,REABILITARE, MODERNIZARE ȘI DOTARE ȘCOALA GIMNAZIALĂ SAT CIUPELNIȚA, COMUNA DUMBRAVA, JUDEȚUL PRAHOVA si a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13366",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-29-2020",
+   "path": "local/prahova/dumbrava/2020/29",
+   "short": "HCL Dumbrava nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 29/2020 privind aprobarea si completarea patrimomiul public reactualizat cu denumirile drumurilor / strazilor conform nomenclatorului stradal al comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13368",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-3-2020",
+   "path": "local/prahova/dumbrava/2020/3",
+   "short": "HCL Dumbrava nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 3/2020 privind aprobarea utilizării excedentului bugetar din anul 2019 în anul 2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/3",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/3",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-30-2020",
+   "path": "local/prahova/dumbrava/2020/30",
+   "short": "HCL Dumbrava nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 30/2020 privind aprobarea bugetului local rectificat at comunei Dumbrava pentru anul 2020 si estimari pentru anii 2021-2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13369",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-31-2020",
+   "path": "local/prahova/dumbrava/2020/31",
+   "short": "HCL Dumbrava nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 31/2020 privind dezmembrarea unor bunuri imobile",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13370",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-33-2020",
+   "path": "local/prahova/dumbrava/2020/33",
+   "short": "HCL Dumbrava nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 33/2020 privind organizarea si stabilirea componentei comisiilor de specialitate",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13800",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-34-2020",
+   "path": "local/prahova/dumbrava/2020/34",
+   "short": "HCL Dumbrava nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 34/2020 privind alegerea viceprimarului comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/13801",
+   "versions": [
+    {
+     "from": "2020-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13801",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-35-2020",
    "path": "local/prahova/dumbrava/2020/35",
    "short": "HCL Dumbrava nr. 35/2020",
@@ -73,6 +433,21 @@
      "from": "2020-11-29",
      "units": 1,
      "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-4-2020",
+   "path": "local/prahova/dumbrava/2020/4",
+   "short": "HCL Dumbrava nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 4/2020 privind stabilirea salariilor de baza pentru functionarii publicii si aparatul contractual din cadrul aparatului de specialitate al Primarului comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/4",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/4",
      "sha256": null
     }
    ]
@@ -228,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbrava-5-2020",
+   "path": "local/prahova/dumbrava/2020/5",
+   "short": "HCL Dumbrava nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 5/2020",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/5",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/5",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbrava-50-2020",
    "path": "local/prahova/dumbrava/2020/50",
    "short": "HCL Dumbrava nr. 50/2020",
@@ -298,6 +688,66 @@
      "from": "2020-12-18",
      "units": 1,
      "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/13926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-6-2020",
+   "path": "local/prahova/dumbrava/2020/6",
+   "short": "HCL Dumbrava nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 6/2020 privind aprobarea executiei bugetare aferente trimestului IV al anului 2019",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/24",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/24",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-7-2020",
+   "path": "local/prahova/dumbrava/2020/7",
+   "short": "HCL Dumbrava nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 7/2020 privind aprobarea bugetului local al comunei Dumbrava pentru anul 2020 si estimari pentru anii 2021-2023",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/25",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/25",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-8-2020",
+   "path": "local/prahova/dumbrava/2020/8",
+   "short": "HCL Dumbrava nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 8/2020 privind stabilirea normativelor proprii pentru consumul lunar de carburanţi pentru vehiculele aflate în dotarea proprie a Unităţii Administrativ Teritoriale, Comuna Dumbrava",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/26",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/26",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbrava-9-2020",
+   "path": "local/prahova/dumbrava/2020/9",
+   "short": "HCL Dumbrava nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 9/2020 privind inscrierea utilajului buldoexcavator CASE 580 ST in Inventarul bunurilor care apartin domeniului privat al comunei Dumbrava Judetul Prahova",
+   "url": "https://emol.ro/dumbrava-ph/registru-hcl/27",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-ph/registru-hcl/27",
      "sha256": null
     }
    ]

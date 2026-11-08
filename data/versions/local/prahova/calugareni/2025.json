@@ -1,0 +1,591 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/calugareni/2025",
+ "acts": [
+  {
+   "slug": "hcl-prahova--calugareni-1-2025",
+   "path": "local/prahova/calugareni/2025/1",
+   "short": "HCL Călugăreni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 1/2025 APROBAREA ACOPERIRII DEFINITIVE A DEFICITULUI BUGETAR LA SECTIUNEA DE DEZVOLTARE 2024",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93179",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-10-2025",
+   "path": "local/prahova/calugareni/2025/10",
+   "short": "HCL Călugăreni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 10/2025 APROBAREA BUGETULUI 2025 SI ESTIMARI 2026-2028",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95998",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-11-2025",
+   "path": "local/prahova/calugareni/2025/11",
+   "short": "HCL Călugăreni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 11/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-12-2025",
+   "path": "local/prahova/calugareni/2025/12",
+   "short": "HCL Călugăreni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 12/2025 ALEGEREA PRESEDINTELUI DE SEDINTA APRILIE-IUNIE 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93611",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-13-2025",
+   "path": "local/prahova/calugareni/2025/13",
+   "short": "HCL Călugăreni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 13/2025 INDEXAREA IMPOZITELOR SI TAXELOR CU RATA INFLATIEI",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93612",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-14-2025",
+   "path": "local/prahova/calugareni/2025/14",
+   "short": "HCL Călugăreni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 14/2025 APROBAREA EXECUTIEI BUGETARE LA 31.12.2024",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93613",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-15-2025",
+   "path": "local/prahova/calugareni/2025/15",
+   "short": "HCL Călugăreni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 15/2025 APROBAREA REZULTATULUI INVENTARIERII PATRIMONIULUI COMUNEI PENTRU ANUL 2024",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95996",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-16-2025",
+   "path": "local/prahova/calugareni/2025/16",
+   "short": "HCL Călugăreni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 16/2025 APROBAREA CASARII UNOR OBIECTE DE INVENTAR",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95997",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#95997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-17-2025",
+   "path": "local/prahova/calugareni/2025/17",
+   "short": "HCL Călugăreni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 17/2025 APROBARE RABLA SOBE",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102391",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-18-2025",
+   "path": "local/prahova/calugareni/2025/18",
+   "short": "HCL Călugăreni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 18/2025 APROBARE EXECUTIE BUGETARA 31.03.2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102394",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-19-2025",
+   "path": "local/prahova/calugareni/2025/19",
+   "short": "HCL Călugăreni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 19/2025 MODIFICARE ORGANIGRAMA",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102396",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-2-2025",
+   "path": "local/prahova/calugareni/2025/2",
+   "short": "HCL Călugăreni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 2/2025 APROBAREA UTILIZARII EXCEDENTULUI BUGETULUI LOCAL",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93180",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-20-2025",
+   "path": "local/prahova/calugareni/2025/20",
+   "short": "HCL Călugăreni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 20/2025 ALEGEREA PRESEDINTELUI DE SEDINTA IULIE-SEPTEMBRIE 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102395",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-21-2025",
+   "path": "local/prahova/calugareni/2025/21",
+   "short": "HCL Călugăreni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 21/2025 VALIDARE DISPOZITIE NR.66/11.06.2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102397",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-22-2025",
+   "path": "local/prahova/calugareni/2025/22",
+   "short": "HCL Călugăreni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 22/2025 APROBARE ROF",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102398",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-23-2025",
+   "path": "local/prahova/calugareni/2025/23",
+   "short": "HCL Călugăreni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 23/2025 RECTIFICAREA BUGETULUI LOCAL SI MODIFICAREA LISTEI DE INVESTITII PE ANUL 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102514",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#102514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-24-2025",
+   "path": "local/prahova/calugareni/2025/24",
+   "short": "HCL Călugăreni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 24/2025 INDREPTARE EROARE MATERIALA HCL NR. 19",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107989",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-25-2025",
+   "path": "local/prahova/calugareni/2025/25",
+   "short": "HCL Călugăreni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 25/2025 APROBAREA EXECUTIEI BUGETARE 30.06.2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107987",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-26-2025",
+   "path": "local/prahova/calugareni/2025/26",
+   "short": "HCL Călugăreni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 26/2025 APROBARE PLAN DEZVOLTARE SERVICII SOCIALE",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107990",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-27-2025",
+   "path": "local/prahova/calugareni/2025/27",
+   "short": "HCL Călugăreni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 27/2025 ALEGEREA PRESEDINTELUI DE SEDINTA OCT-DEC 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107991",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-3-2025",
+   "path": "local/prahova/calugareni/2025/3",
+   "short": "HCL Călugăreni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 3/2025 APROBAREA RAPORTULUI DE ACTIVITATE ASISTENTI PERSONALI",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#91319",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#91319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-30-2025",
+   "path": "local/prahova/calugareni/2025/30",
+   "short": "HCL Călugăreni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 30/2025 APROBAREA STATUTULUI COMUNEI CALUGARENI",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108781",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-31-2025",
+   "path": "local/prahova/calugareni/2025/31",
+   "short": "HCL Călugăreni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 31/2025 RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108782",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-32-2025",
+   "path": "local/prahova/calugareni/2025/32",
+   "short": "HCL Călugăreni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 32/2025 APROBARE REGULAMENT CADRU DE IMPLICARE SI CONSULTARE",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108783",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#108783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-33-2025",
+   "path": "local/prahova/calugareni/2025/33",
+   "short": "HCL Călugăreni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 33/2025 APROBAREA EXECUTIEI BUGETARE 30.09.2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107994",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#107994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-34-2025",
+   "path": "local/prahova/calugareni/2025/34",
+   "short": "HCL Călugăreni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 34/2025 MODIFICAREA SI ACTUALIZARE HCL 45/ 18.11.2024",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114333",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-35-2025",
+   "path": "local/prahova/calugareni/2025/35",
+   "short": "HCL Călugăreni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 35/2025 ALEGEREA PRESEDINTELUI DE SEDINTA IANUARIE- MARTIE 2026",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114330",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-37-2025",
+   "path": "local/prahova/calugareni/2025/37",
+   "short": "HCL Călugăreni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 37/2025 APROBARE PLAN LUCRARI VMI",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114332",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-38-2025",
+   "path": "local/prahova/calugareni/2025/38",
+   "short": "HCL Călugăreni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 38/2025 VALIDAREA DISPOZITIEI PRIMARULUI NR. 196",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114335",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-39-2025",
+   "path": "local/prahova/calugareni/2025/39",
+   "short": "HCL Călugăreni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 39/2025 STABILIREA RETELEI SCOLARE 2026-2027",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114337",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-4-2025",
+   "path": "local/prahova/calugareni/2025/4",
+   "short": "HCL Călugăreni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 4/2025 APROBAREA PROGRAM ANUAL AL ACHIZITIILOR PUBLICE 2024-ACTUALIZAT",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93181",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-40-2025",
+   "path": "local/prahova/calugareni/2025/40",
+   "short": "HCL Călugăreni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 40/2025 APROBAREA INFIINTARII SERVICIULUI DE ASISTENTA COMUNITARA",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114338",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-41-2025",
+   "path": "local/prahova/calugareni/2025/41",
+   "short": "HCL Călugăreni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 41/2025 VALIDAREA DISPOZITIEI PRIMARULUI NR.200",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114339",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-42-2025",
+   "path": "local/prahova/calugareni/2025/42",
+   "short": "HCL Călugăreni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 42/2025 STABILIRE IMPOZITE SI TAXE 2026",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114341",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#114341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-5-2025",
+   "path": "local/prahova/calugareni/2025/5",
+   "short": "HCL Călugăreni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 5/2025 APROBAREA PROGRAM ANUAL AL ACHIZITIILOR PUBLICE 2025",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93182",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-6-2025",
+   "path": "local/prahova/calugareni/2025/6",
+   "short": "HCL Călugăreni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 6/2025 APROBAREA INVENTARIERE MASA IMPOZABILA",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93183",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-7-2025",
+   "path": "local/prahova/calugareni/2025/7",
+   "short": "HCL Călugăreni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 7/2025 APROBARE LISTA DE INSOLVABILITATE LA 31.12.2024",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93184",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-8-2025",
+   "path": "local/prahova/calugareni/2025/8",
+   "short": "HCL Călugăreni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 8/2025 APROBAREA PRELUNGIRII PUG",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93185",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--calugareni-9-2025",
+   "path": "local/prahova/calugareni/2025/9",
+   "short": "HCL Călugăreni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Călugăreni nr. 9/2025 APROBAREA PROIECTULUI DE BUGET PE ANUL 2025 SI ESTIMARI 2026-2028",
+   "url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93186",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://calugareni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4878#93186",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

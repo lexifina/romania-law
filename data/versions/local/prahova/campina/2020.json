@@ -843,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-3-2020",
+   "path": "local/prahova/campina/2020/3",
+   "short": "HCL Câmpina nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 3/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f871879ca532d60e815546b109e28bc2ac2dcaed5174d9145165cd203bf3f37d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-30-2020",
    "path": "local/prahova/campina/2020/30",
    "short": "HCL Câmpina nr. 30/2020",

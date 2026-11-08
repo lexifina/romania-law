@@ -3,6 +3,94 @@
 "shard": "local/prahova/batrani/2026",
 "acts": [
 {
+"slug": "hcl-prahova--batrani-1-2026",
+"path": "local/prahova/batrani/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 1/2026 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a anului 2025",
+"short": "HCL Bătrâni nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/245717",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-10-2026",
+"path": "local/prahova/batrani/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 10/2026 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale în anul 2026",
+"short": "HCL Bătrâni nr. 10/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/255181",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-11-2026",
+"path": "local/prahova/batrani/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 11/2026 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate în anul 2026 la nivelul comunei Bătrâni, județul Prahova",
+"short": "HCL Bătrâni nr. 11/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/255182",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--batrani-17-2026",
+"path": "local/prahova/batrani/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 17/2026 PRIVIND ACTUALIZAREA INDICATORILOR TEHNICO-ECONOMICI ȘI A DEVIZULUI GENERAL PENTRU OBIECTIVUL „Elaborare Plan Urbanistic General şi Regulament Local de Urbanism al comunei Bătrâni”, ÎN VEDEREA FUNDAMENTĂRII ALOCĂRII FONDURILOR AFERENTE PROGRAMULUI PENTRU PERIOADA 2026-2029 DE LA BUGETUL DE STAT",
+"short": "HCL Bătrâni nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/batrani-ph/registru-hcl/262909",
+"council": "prahova/batrani",
+"council_name": "Consiliul Local al Comunei Bătrâni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--batrani-19-2026",
 "path": "local/prahova/batrani/2026/19",
 "kind": "local",

@@ -3,6 +3,81 @@
  "shard": "local/prahova/campina/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-102-2025",
+   "path": "local/prahova/campina/2025/102",
+   "short": "HCL Câmpina nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "94293e1e464108a677b99431ed9ad75b41976552be825545500dcbcc8ca8f871"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2025",
+   "path": "local/prahova/campina/2025/113",
+   "short": "HCL Câmpina nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6bf3df5952966a4374fd3702cdc5445a9bba1b0a8611aefea61b7113fad08a25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-131-2025",
+   "path": "local/prahova/campina/2025/131",
+   "short": "HCL Câmpina nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1f5505657bcd1d23c0c620bdc10453269822c9f017f376929879fe8a4870ecf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-132-2025",
+   "path": "local/prahova/campina/2025/132",
+   "short": "HCL Câmpina nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 132/2025 privind aprobarea Regulamentului de organizare și funcționare â Serviciului de salubrizare al Municipiului Câmpina Având în vedere Referatul de aprobare nr.32.573/01 august 2025 al membrilor Comisiei administrație publică locală, juridic, relații cu publicul, servicii și comerț, muncă și probleme sociale, spațiu locativ, ș.a.m.d., prin care propun aprobarea Regulamentului de organizare și funcțion",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr132-aprob-regulament-salubrizare.pdf",
+     "sha256": "804ab732799452c7acf4d3b9ba1b668e0ce9710c120acca45e8bcee91125f1d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-133-2025",
+   "path": "local/prahova/campina/2025/133",
+   "short": "HCL Câmpina nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 133/2025 privind stabilirea unor măsuri pentru gospodărirea municipiului Câmpina, precum și stabilirea, constatarea și sancționarea faptelor ce constituie contravenții; - raportul nr.33.997/12 august 2025, întocmit de Direcția dezvoltare din cadrul Primăriei Municipiului Câmpina; - raportul nr.33.952/12 august 2025, întocmit de Direcția administrarea domeniului public și privat din cadrul Primăriei Municip",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr133-Regulament-gospodarire-Municip-Campina_constat-sanction-fapte.pdf",
+     "sha256": "992880c729a5bd6a702f43107a540107ad9eec2593f07e87b46ac4dc2596976d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-140-2025",
    "path": "local/prahova/campina/2025/140",
    "short": "HCL Câmpina nr. 140/2025",
@@ -18,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-160-2025",
+   "path": "local/prahova/campina/2025/160",
+   "short": "HCL Câmpina nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 160/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c60b4db924e434ca652d362dc707267d1260d3031d6e100507ff193ab0fa0031"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-179-2025",
    "path": "local/prahova/campina/2025/179",
    "short": "HCL Câmpina nr. 179/2025",
@@ -29,6 +119,96 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr179-rectificare-buget-local-18-dec-2025.pdf",
      "sha256": "07e3b2d4aac75ce9d9c3a1ec5a5e034dc41e8229d7526f76e32a102b2dbc41cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-19-2025",
+   "path": "local/prahova/campina/2025/19",
+   "short": "HCL Câmpina nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 19/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "13ad9651093e21844ade91228eddcec55625c695b0056fdc5705100c49ab1903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-196-2025",
+   "path": "local/prahova/campina/2025/196",
+   "short": "HCL Câmpina nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 196/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "facd95147f9092ce65ef203ef71d699511937d32943902bb30bdca82a09820b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-198-2025",
+   "path": "local/prahova/campina/2025/198",
+   "short": "HCL Câmpina nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 198/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/05/Hotararea-nr198-stabilire-impozite-si-taxe-locale-2026.pdf",
+     "sha256": "452a0632869e522f9621e4785a7e4a5ca06adb126e97516411a59d8b2d39a814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2025",
+   "path": "local/prahova/campina/2025/26",
+   "short": "HCL Câmpina nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1e05eac353d2b84e34806071242a25a891ef5e46c92fd6afb350baa6900ccbe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-48-2025",
+   "path": "local/prahova/campina/2025/48",
+   "short": "HCL Câmpina nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2025/05/Hotararea-nr48-indexare-impozite-si-taxe-2026.pdf",
+     "sha256": "9e85162a43bc9b182252d9293c6d5fa1a45f8629c9d7e6863e0643f4ba209570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-78-2025",
+   "path": "local/prahova/campina/2025/78",
+   "short": "HCL Câmpina nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 78/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "19b4e5a969ffa7dd201ade229659b0c7a3e9a33ada95d1139754af0a5a0061ae"
     }
    ]
   },

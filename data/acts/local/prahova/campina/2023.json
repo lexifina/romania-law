@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-30-2023",
+"path": "local/prahova/campina/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2023 pentru aprobarea Regulamentului privind organizarea și funcționarea activității de voluntariat la nivelul U.A.T",
+"short": "HCL Câmpina nr. 30/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-34-2023",
+"path": "local/prahova/campina/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2023",
+"short": "HCL Câmpina nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-38-2023",
 "path": "local/prahova/campina/2023/38",
 "kind": "local",
@@ -111,6 +156,74 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-56-2023",
+"path": "local/prahova/campina/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2023",
+"short": "HCL Câmpina nr. 56/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-62-2023",
+"path": "local/prahova/campina/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2023",
+"short": "HCL Câmpina nr. 62/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-77-2023",
+"path": "local/prahova/campina/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2023 privind indexarea impozitelor și taxelor locale în Municipiul pentru anul fiscal 2024 Având în vedere Referatul de aprobare nr.10.149/07 martie 2023 al d-lui Moldoveanu lIoan-Alin - Primarul Municipiului Câmpina, prin care propune indexarea impozitelor și taxelor locale în Municipiul Câmpina, pentru anul fiscal 2024; Ținând seama de: - raportul nr.10.151/07 martie 2023, întocmit de Direcția econom",
+"short": "HCL Câmpina nr. 77/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -644,6 +757,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-204-2023",
+"path": "local/prahova/campina/2023/204",
+"kind": "local",
+"year": "2023",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 204/2023",
+"short": "HCL Câmpina nr. 204/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-216-2023",
 "path": "local/prahova/campina/2023/216",
 "kind": "local",
@@ -729,6 +865,29 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--campina-245-2023",
+"path": "local/prahova/campina/2023/245",
+"kind": "local",
+"year": "2023",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 245/2023",
+"short": "HCL Câmpina nr. 245/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-27",
+"latest": "2023-12-27",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 }
 ]

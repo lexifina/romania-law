@@ -3,6 +3,801 @@
  "shard": "local/prahova/blejoi/2021",
  "acts": [
   {
+   "slug": "hcl-prahova--blejoi-1-2021",
+   "path": "local/prahova/blejoi/2021/1",
+   "short": "HCL Blejoi nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 1/2021 privind aprobarea acoperirii deficitului secțiunii de dezvoltare a bugetului local al Comunei Blejoi pe anul 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17675",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-10-2021",
+   "path": "local/prahova/blejoi/2021/10",
+   "short": "HCL Blejoi nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 10/2021 privind aprobarea Regulamentului de organizare și desfășurare a lucrărilor de interes local, potrivit prevederilor Legii nr. 416/2001 privind venitul minim garantat, precum și a Planului de lucrări pentru repartizarea orelor de muncă pentru beneficiarii de venit minim garantat",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17693",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-11-2021",
+   "path": "local/prahova/blejoi/2021/11",
+   "short": "HCL Blejoi nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 11/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17694",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-12-2021",
+   "path": "local/prahova/blejoi/2021/12",
+   "short": "HCL Blejoi nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 12/2021 privind instituirea taxei speciale de salubrizare în cazul prestațiilor de care beneficiază utilizatorii fără contract de prestări servicii din comuna Blejoi și aprobarea „Regulamentului de stabilire și aplicare a taxei speciale de salubrizare”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17695",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-13-2021",
+   "path": "local/prahova/blejoi/2021/13",
+   "short": "HCL Blejoi nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 13/2021 privind alegerea preşedintelui de şedinţă pentru perioada februarie – aprilie 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17696",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-15-2021",
+   "path": "local/prahova/blejoi/2021/15",
+   "short": "HCL Blejoi nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 15/2021 privind modificarea și completarea Nomenclatorului stradal al Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21365",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-16-2021",
+   "path": "local/prahova/blejoi/2021/16",
+   "short": "HCL Blejoi nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 16/2021 privind declararea de interes public a unui teren si trecerea acestuia din domeniul privat in domeniul public al comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21366",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-17-2021",
+   "path": "local/prahova/blejoi/2021/17",
+   "short": "HCL Blejoi nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 17/2021 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investitii ,,Construire Anexa – Vestiare P+1E, Comuna Blejoi, Sat Blejoi, Nr. 1003, T 22, Cc 163/2.../6, Judetul Prahova“",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21367",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-19-2021",
+   "path": "local/prahova/blejoi/2021/19",
+   "short": "HCL Blejoi nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 19/2021 privind aprobarea retelei de invatamant preuniversitar din comuna Blejoi pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21369",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-2-2021",
+   "path": "local/prahova/blejoi/2021/2",
+   "short": "HCL Blejoi nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 2/2021 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul al IV-lea al anului 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17685",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-20-2021",
+   "path": "local/prahova/blejoi/2021/20",
+   "short": "HCL Blejoi nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 20/2021 privind desfasurarea unei prime etape din actiunea de ecologizare a zonei aferente fostului iaz din satul Tantareni",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21370",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-22-2021",
+   "path": "local/prahova/blejoi/2021/22",
+   "short": "HCL Blejoi nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 22/2021 privind modificarea și completarea Nomenclatorului stradal al Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21684",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-23-2021",
+   "path": "local/prahova/blejoi/2021/23",
+   "short": "HCL Blejoi nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 23/2021 privind reactualizarea Planului de analiza si acoperire a riscurilor de pe teritoriul comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/21685",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/21685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-24-2021",
+   "path": "local/prahova/blejoi/2021/24",
+   "short": "HCL Blejoi nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 24/2021 privind schimbarea componenței unor comisii de specialitate din cadrul Consiliului Local al comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23539",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-25-2021",
+   "path": "local/prahova/blejoi/2021/25",
+   "short": "HCL Blejoi nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 25/2021 privind incheierea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul l - 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23637",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-26-2021",
+   "path": "local/prahova/blejoi/2021/26",
+   "short": "HCL Blejoi nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 26/2021 privind aprobarea bugetului local al comunei Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23638",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-27-2021",
+   "path": "local/prahova/blejoi/2021/27",
+   "short": "HCL Blejoi nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 27/2021 privind aprobarea Programului anual de investitii pe anul 2021 cu finantare integrala din excedentul bugetar al anului 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23639",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-28-2021",
+   "path": "local/prahova/blejoi/2021/28",
+   "short": "HCL Blejoi nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 28/2021 privind aprobarea bugetului Clubului Sportiv Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23640",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-3-2021",
+   "path": "local/prahova/blejoi/2021/3",
+   "short": "HCL Blejoi nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 3/2021 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17686",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-30-2021",
+   "path": "local/prahova/blejoi/2021/30",
+   "short": "HCL Blejoi nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 30/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23642",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-31-2021",
+   "path": "local/prahova/blejoi/2021/31",
+   "short": "HCL Blejoi nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 31/2021 privind trecerea din domeniul public in domeniul privat al Comunei Blejoi a constructiei nr. cad. 29261-C2 (fosta Remiza PSI), situata in satul Ploiestiori, nr. 173 C, in vederea desfiintarii",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23643",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-32-2021",
+   "path": "local/prahova/blejoi/2021/32",
+   "short": "HCL Blejoi nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 32/2021 pentru aprobarea Regulamentului privind stabilirea unor măsuri pentru gospodărirea comunei Blejoi, precum si constatarea si sancţionarea faptelor ce constituie contravenţii",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23644",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-33-2021",
+   "path": "local/prahova/blejoi/2021/33",
+   "short": "HCL Blejoi nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 33/2021 privind alegerea preşedintelui de şedinţă pentru perioada mai-iulie 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23645",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-34-2021",
+   "path": "local/prahova/blejoi/2021/34",
+   "short": "HCL Blejoi nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 34/2021 privind mandatarea Primarului comunei Blejoi sa voteze in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara ,,Parteneriatul pentru managementul deseurilor – Prahova” tarifele pentru perioada 2021-2024",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/23646",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/23646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-35-2021",
+   "path": "local/prahova/blejoi/2021/35",
+   "short": "HCL Blejoi nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 35/2021 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investitii ,,Prelungire drum strada Ciprian Porumbescu (Ungureni) – com. Blejoi, Judetul Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37196",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-36-2021",
+   "path": "local/prahova/blejoi/2021/36",
+   "short": "HCL Blejoi nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 36/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37197",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-37-2021",
+   "path": "local/prahova/blejoi/2021/37",
+   "short": "HCL Blejoi nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 37/2021 privind completarea Nomenclatorului stradal al Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37198",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-38-2021",
+   "path": "local/prahova/blejoi/2021/38",
+   "short": "HCL Blejoi nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 38/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37218",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-4-2021",
+   "path": "local/prahova/blejoi/2021/4",
+   "short": "HCL Blejoi nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 4/2021 privind aprobarea contului de incheiere a exercitiului bugetar al Clubului Sportiv Blejoi pe anul 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17687",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-40-2021",
+   "path": "local/prahova/blejoi/2021/40",
+   "short": "HCL Blejoi nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 40/2021 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul al II-lea 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37419",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-41-2021",
+   "path": "local/prahova/blejoi/2021/41",
+   "short": "HCL Blejoi nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 41/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37420",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-42-2021",
+   "path": "local/prahova/blejoi/2021/42",
+   "short": "HCL Blejoi nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 42/2021 privind rectificarea Programului anual de investitii pe anul 2021 cu finantare integrala din excedentul bugetar al anului 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37421",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-43-2021",
+   "path": "local/prahova/blejoi/2021/43",
+   "short": "HCL Blejoi nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 43/2021 privind rectificarea bugetului Clubului Sportiv Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37422",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-44-2021",
+   "path": "local/prahova/blejoi/2021/44",
+   "short": "HCL Blejoi nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 44/2021 privind unele măsuri preliminare în vederea completării inventarului domeniului public al comunei Blejoi și a atestării acestuia",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37423",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-45-2021",
+   "path": "local/prahova/blejoi/2021/45",
+   "short": "HCL Blejoi nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 45/2021 privind actualizarea domeniului public al comunei Blejoi cu unele bunuri aparținand sistemului public de alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37424",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-46-2021",
+   "path": "local/prahova/blejoi/2021/46",
+   "short": "HCL Blejoi nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 46/2021 privind dezmembrarea si alipirea unor terenuri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37425",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-47-2021",
+   "path": "local/prahova/blejoi/2021/47",
+   "short": "HCL Blejoi nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 47/2021 privind punerea la dispozitia proiectului ,,Sistem informational pentru managementul integrat al apelor – etapa II” dezvoltat de catre Administratia Nationala Apele Romane a unui teren pentru constructia/extinderea/reabilitarea noilor investitii aferente acestuia",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37426",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-49-2021",
+   "path": "local/prahova/blejoi/2021/49",
+   "short": "HCL Blejoi nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 49/2021 pentru modificarea Hotararii nr. 76/27.10.2016 privind aprobarea oferirii de cadouri pentru preșcolarii și școlarii din ciclul primar din unitățile de învățământ de pe raza Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37428",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-5-2021",
+   "path": "local/prahova/blejoi/2021/5",
+   "short": "HCL Blejoi nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 5/2021 privind aprobarea Listei de investitii provizorie pe anul 2021cu finantare integrala din excedentul bugetar al anului 2020",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17688",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-50-2021",
+   "path": "local/prahova/blejoi/2021/50",
+   "short": "HCL Blejoi nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 50/2021 privind schimbarea destinatiei unei cladiri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37429",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-52-2021",
+   "path": "local/prahova/blejoi/2021/52",
+   "short": "HCL Blejoi nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 52/2021 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37431",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-53-2021",
+   "path": "local/prahova/blejoi/2021/53",
+   "short": "HCL Blejoi nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 53/2021 privind alegerea preşedintelui de şedinţă pentru perioada august - octombrie 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37432",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-54-2021",
+   "path": "local/prahova/blejoi/2021/54",
+   "short": "HCL Blejoi nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 54/2021 privind aprobarea Strategiei de dezvoltare durabilă a comunei Blejoi pentru perioada 2021-2027 cu perspective 2030",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37441",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-55-2021",
+   "path": "local/prahova/blejoi/2021/55",
+   "short": "HCL Blejoi nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 55/2021 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37442",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-56-2021",
+   "path": "local/prahova/blejoi/2021/56",
+   "short": "HCL Blejoi nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 56/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37443",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-57-2021",
+   "path": "local/prahova/blejoi/2021/57",
+   "short": "HCL Blejoi nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 57/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37874",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-58-2021",
+   "path": "local/prahova/blejoi/2021/58",
+   "short": "HCL Blejoi nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 58/2021 privind rectificarea bugetului Clubului Sportiv Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37875",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-6-2021",
+   "path": "local/prahova/blejoi/2021/6",
+   "short": "HCL Blejoi nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 6/2021 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17689",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-62-2021",
+   "path": "local/prahova/blejoi/2021/62",
+   "short": "HCL Blejoi nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 62/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/37879",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/37879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-63-2021",
+   "path": "local/prahova/blejoi/2021/63",
+   "short": "HCL Blejoi nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 63/2021 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul al III-lea 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56328",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-64-2021",
+   "path": "local/prahova/blejoi/2021/64",
+   "short": "HCL Blejoi nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 64/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56329",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-65-2021",
+   "path": "local/prahova/blejoi/2021/65",
+   "short": "HCL Blejoi nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 65/2021 privind rectificarea bugetului Clubului Sportiv Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56330",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-66-2021",
+   "path": "local/prahova/blejoi/2021/66",
+   "short": "HCL Blejoi nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 66/2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/56331",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56331",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-67-2021",
    "path": "local/prahova/blejoi/2021/67",
    "short": "HCL Blejoi nr. 67/2021",
@@ -43,6 +838,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-7-2021",
+   "path": "local/prahova/blejoi/2021/7",
+   "short": "HCL Blejoi nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 7/2021 privind aprobarea numarului asistentilor personali pentru anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17690",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17690",
      "sha256": null
     }
    ]
@@ -193,6 +1003,21 @@
      "from": "2022-04-07",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/56399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-8-2021",
+   "path": "local/prahova/blejoi/2021/8",
+   "short": "HCL Blejoi nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 8/2021 privind aprobarea Agendei manifestarilor cultural-artistice, sportive şi educative, finantate din bugetul local in anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/17691",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/17691",
      "sha256": null
     }
    ]

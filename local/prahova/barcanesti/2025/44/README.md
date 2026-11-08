@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Bărcănești nr. 44/2025 pentru aprobarea Notei conceptuale şi Temei de proiectare pentru obiectivul de investiţii “ Amenajare grădină urbană, parcare, alei carosabile și pietonale, loc de joacă, construire împrejmuire parțială, cabină poartă și utilități la Liceul Tehnologic Agricol ”
+
+HCL Bărcănești nr. 44/2025 · 1 versions, from 2025-04-30 (latest in force: 2025-04-30) · <https://emol.ro/barcanesti-ph/registru-hcl/205178>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--barcanesti-44-2025` (tags `hcl-prahova--barcanesti-44-2025/<day>`; `python tools/on.py <day> hcl-prahova--barcanesti-44-2025`).
+
+## Decisions made by hand
+
+- HCL Bărcănești nr. 44/2025: listed from Consiliul Local al Comunei Bărcănești (emol.ro); metadata only for now: no document of it is held.
+- HCL Bărcănești nr. 44/2025: dated from 30 April 2025, the day the council's register gives it as published (adopted 29 April 2025).
+- HCL Bărcănești nr. 44/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

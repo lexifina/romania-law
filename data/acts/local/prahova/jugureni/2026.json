@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/prahova/jugureni/2026",
+"acts": [
+{
+"slug": "hcl-prahova--jugureni-1-2026",
+"path": "local/prahova/jugureni/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 1/2026 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor si taxelor locale, aplicabile incepand cu anul 2026",
+"short": "HCL Jugureni nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#114808",
+"council": "prahova/jugureni",
+"council_name": "Consiliul Local al Comunei Jugureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--jugureni-2-2026",
+"path": "local/prahova/jugureni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 2/2026 Consiliului Local nr.12 din 30.04.2026 privind aprobarea si rectificarea bugetului local pe anul 2026",
+"short": "HCL Jugureni nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#122960",
+"council": "prahova/jugureni",
+"council_name": "Consiliul Local al Comunei Jugureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--jugureni-3-2026",
+"path": "local/prahova/jugureni/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 3/2026 Sedinta ordinara a Consiliului Local Jugureni din data de 20 Iulie 2026",
+"short": "HCL Jugureni nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#128282",
+"council": "prahova/jugureni",
+"council_name": "Consiliul Local al Comunei Jugureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--jugureni-4-2026",
+"path": "local/prahova/jugureni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jugureni nr. 4/2026 privind aprobarea rectificarii Bugetului local al Comunei Jugureni, judetul Prahova pe anul 2026",
+"short": "HCL Jugureni nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://jugureni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/40482#131470",
+"council": "prahova/jugureni",
+"council_name": "Consiliul Local al Comunei Jugureni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

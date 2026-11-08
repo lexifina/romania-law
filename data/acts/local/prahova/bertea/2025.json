@@ -3,6 +3,72 @@
 "shard": "local/prahova/bertea/2025",
 "acts": [
 {
+"slug": "hcl-prahova--bertea-27-2025",
+"path": "local/prahova/bertea/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 27/2025 privind .privind aprobarea incheierii exercitiului bugetar pentru anul 2024",
+"short": "HCL Bertea nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/233992",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-35-2025",
+"path": "local/prahova/bertea/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 35/2025 privind aprobarea executiei bugetului local la trim II, anul 2025",
+"short": "HCL Bertea nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/234771",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--bertea-36-2025",
+"path": "local/prahova/bertea/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bertea nr. 36/2025 privind aprobarea bugetului local rectificat pentru anul 2025",
+"short": "HCL Bertea nr. 36/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/bertea-ph/registru-hcl/234772",
+"council": "prahova/bertea",
+"council_name": "Consiliul Local al Comunei Bertea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--bertea-37-2025",
 "path": "local/prahova/bertea/2025/37",
 "kind": "local",

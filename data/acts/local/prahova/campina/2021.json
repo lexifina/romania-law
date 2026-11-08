@@ -1172,6 +1172,29 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-123-2021",
+"path": "local/prahova/campina/2021/123",
+"kind": "local",
+"year": "2021",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 123/2021",
+"short": "HCL Câmpina nr. 123/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-130-2021",
 "path": "local/prahova/campina/2021/130",
 "kind": "local",

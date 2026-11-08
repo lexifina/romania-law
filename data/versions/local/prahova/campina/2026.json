@@ -241,6 +241,21 @@
      "sha256": "da7a69c74aaa2dcab20ccf47c3f1d92130e645cf1550ab858a5bbe14afe4af4f"
     }
    ]
+  },
+  {
+   "slug": "hcl-prahova--campina-94-2026",
+   "path": "local/prahova/campina/2026/94",
+   "short": "HCL Câmpina nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 94/2026 pentru completarea Hotărârii Consiliului Local al Municipiului Câmpina nr. 103/30.07.2020 privind aprobarea Regulamentului cuprinzând Normele referitoare la condițiile de execuție a lucrărilor tehnico-edilitare și refacerea infrastructurii, care se execută pe domeniul public și privat al Municipiului Câmpina Analizând temeiurile juridice, respectiv: -art.20 din Legea nr.273/2006 privind finanțele",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2026/08/Hotararea-nr94-complet-HCL-103-din-2020-Regulament-norme-lucrari-refacere-infrastr-dom-public-si-privat.pdf",
+     "sha256": "a78c92f6774604c716835e77560fe8de17aa8731c584ea5ee15a38272fee1b0d"
+    }
+   ]
   }
  ]
 }

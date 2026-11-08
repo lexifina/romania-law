@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Cornu nr. 22/2020 privind aprobarea contractului de finanțare nr.2256/19.03.2020 încheiat cu Asociația Clubul Sportiv de Drept Privat Cornu pentru activităţi sportive organizate în baza legii nr.69/2000 a educației fizice şi sportului
+
+HCL Cornu nr. 22/2020 · 1 versions, from 2020-03-24 (latest in force: 2020-03-24) · <https://emol.ro/cornu-ph/registru-hcl/500>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--cornu-22-2020` (tags `hcl-prahova--cornu-22-2020/<day>`; `python tools/on.py <day> hcl-prahova--cornu-22-2020`).
+
+## Decisions made by hand
+
+- HCL Cornu nr. 22/2020: listed from Consiliul Local al Comunei Cornu (emol.ro); metadata only for now: no document of it is held.
+- HCL Cornu nr. 22/2020: dated from 24 March 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Cornu nr. 22/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,36 @@
  "shard": "local/prahova/blejoi/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--blejoi-1-2022",
+   "path": "local/prahova/blejoi/2022/1",
+   "short": "HCL Blejoi nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 1/2022 privind aprobarea acoperirii deficitului secțiunii de dezvoltare a bugetului local al Comunei Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/57989",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/57989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-10-2022",
+   "path": "local/prahova/blejoi/2022/10",
+   "short": "HCL Blejoi nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 10/2022 privind retragerea Comunei Blejoi din cadrul Asociației de Dezvoltare Intercomunitară „Polul de Crestere Ploiesti - Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58050",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58050",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-100-2022",
    "path": "local/prahova/blejoi/2022/100",
    "short": "HCL Blejoi nr. 100/2022",
@@ -78,6 +108,981 @@
    ]
   },
   {
+   "slug": "hcl-prahova--blejoi-11-2022",
+   "path": "local/prahova/blejoi/2022/11",
+   "short": "HCL Blejoi nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 11/2022 privind alegerea preşedintelui de şedinţă pentru perioada februarie – aprilie 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58051",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-12-2022",
+   "path": "local/prahova/blejoi/2022/12",
+   "short": "HCL Blejoi nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 12/2022 pentru modificarea Hotararii nr. 83/21.12.2021 privind aprobarea numarului de burse scolare si a cuantumurilor acestora pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58052",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-13-2022",
+   "path": "local/prahova/blejoi/2022/13",
+   "short": "HCL Blejoi nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 13/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58117",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-14-2022",
+   "path": "local/prahova/blejoi/2022/14",
+   "short": "HCL Blejoi nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 14/2022 pentru modificarea HCL nr. 67/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții ,,Retea canalizare menajera si pluviala pe partea dreapta a strazii Teleajenului, Sat Ploiestiori, Com. Blejoi, Jud. Prahova” prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58118",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-15-2022",
+   "path": "local/prahova/blejoi/2022/15",
+   "short": "HCL Blejoi nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 15/2022 pentru modificarea HCL nr. 68/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiții ,,Modernizare strazi Tantareni Etapa 1, com. Blejoi, Jud. Prahova” prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58119",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-16-2022",
+   "path": "local/prahova/blejoi/2022/16",
+   "short": "HCL Blejoi nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 16/2022 privind mandarea reprezentantului comunei Blejoi în Adunarea Generală a Asociației de Dezvoltare Intercomunitară,,Parteneriatul pentru Managementul Apei Prahova” pentru a vota ajustarea prețului și tarifului pentru serviciile de alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58120",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-17-2022",
+   "path": "local/prahova/blejoi/2022/17",
+   "short": "HCL Blejoi nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 17/2022 privind aprobarea bugetului local al comunei Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58159",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-18-2022",
+   "path": "local/prahova/blejoi/2022/18",
+   "short": "HCL Blejoi nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 18/2022 privind aprobarea Programului anual de investitii pe anul 2022 cu finantare integrala din excedentul bugetar al anului 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58160",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-19-2022",
+   "path": "local/prahova/blejoi/2022/19",
+   "short": "HCL Blejoi nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 19/2022 privind aprobarea bugetului Clubului Sportiv Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58161",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-2-2022",
+   "path": "local/prahova/blejoi/2022/2",
+   "short": "HCL Blejoi nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 2/2022 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul al IV-lea al anului 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58042",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-21-2022",
+   "path": "local/prahova/blejoi/2022/21",
+   "short": "HCL Blejoi nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 21/2022 privind aprobarea retelei de invatamant preuniversitar din comuna Blejoi pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58163",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-22-2022",
+   "path": "local/prahova/blejoi/2022/22",
+   "short": "HCL Blejoi nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 22/2022 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deseurilor–Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58164",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-23-2022",
+   "path": "local/prahova/blejoi/2022/23",
+   "short": "HCL Blejoi nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 23/2022 privind asocierea Comunei Blejoi cu Județul Prahova si cu localitățile Ploiești, Băicoi, Boldești- Scăeni, Plopeni, Ariceștii Rahtivani, Bucov, Berceni, Bărcănești, Brazi, Păulești, Râfov, Târgșoru Vechi, Valea Călugărească și constituirea Asociaţiei de Dezvoltare Intercomunitară „Mobilitate Prahova” pentru serviciul de transport public local",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58165",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-24-2022",
+   "path": "local/prahova/blejoi/2022/24",
+   "short": "HCL Blejoi nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 24/2022 privind completarea Nomenclatorului stradal al Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58237",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-25-2022",
+   "path": "local/prahova/blejoi/2022/25",
+   "short": "HCL Blejoi nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 25/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58238",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-26-2022",
+   "path": "local/prahova/blejoi/2022/26",
+   "short": "HCL Blejoi nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 26/2022 privind trecerea din domeniul public in domeniul privat al comunei Blejoi a terenului in suprafata de 5005 mp, nr. cadastral 29574",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58239",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-29-2022",
+   "path": "local/prahova/blejoi/2022/29",
+   "short": "HCL Blejoi nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 29/2022 privind alipirea unor terenuri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58242",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-3-2022",
+   "path": "local/prahova/blejoi/2022/3",
+   "short": "HCL Blejoi nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 3/2022 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58043",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-32-2022",
+   "path": "local/prahova/blejoi/2022/32",
+   "short": "HCL Blejoi nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 32/2022 privind aprobarea incheierii unui parteneriat cu Federatia Romana de Baschet pentru organizarea Campionatului European de Baschet U18 masculin – Divizia B,in perioada 28 iulie – 8 august 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68420",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-33-2022",
+   "path": "local/prahova/blejoi/2022/33",
+   "short": "HCL Blejoi nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 33/2022 privind mandarea reprezentantului comunei Blejoi in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara ,,Parteneriatul pentru Managementul Apei Prahova” pentru a vota modificarea/actualizarea si revizuirea Statutului si Actului constitutiv al Asociatiei de Dezvolatre Intercomunitara ,,Parteneriatul pentru Managementul Apei – Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68421",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-34-2022",
+   "path": "local/prahova/blejoi/2022/34",
+   "short": "HCL Blejoi nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 34/2022 privind alegerea preşedintelui de şedinţă pentru perioada mai - iulie 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68422",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-35-2022",
+   "path": "local/prahova/blejoi/2022/35",
+   "short": "HCL Blejoi nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 35/2022 privind aprobarea Studiului de Fezabilitate, indicatorilor tehnico-economici, Strategiei de tarifare si cofinantarii obiectivului de investitie prevazute in cadrul ,,Proiectului regional de dezvoltare a infrastructurii de apa si apa uzata din judetul Prahova, in perioada 2014-2020”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68912",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-36-2022",
+   "path": "local/prahova/blejoi/2022/36",
+   "short": "HCL Blejoi nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 36/2022 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul I - 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68931",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-37-2022",
+   "path": "local/prahova/blejoi/2022/37",
+   "short": "HCL Blejoi nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 37/2022 privind aprobarea rectificarii bugetului local al comunei Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68932",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-38-2022",
+   "path": "local/prahova/blejoi/2022/38",
+   "short": "HCL Blejoi nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 38/2022 privind aprobarea rectificarii Programului anual de investitii pe anul 2022 cu finantare integrala din excedentul bugetar al anului 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68933",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-39-2022",
+   "path": "local/prahova/blejoi/2022/39",
+   "short": "HCL Blejoi nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 39/2022 privind aprobarea rectificarii bugetului Clubului Sportiv Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68934",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-4-2022",
+   "path": "local/prahova/blejoi/2022/4",
+   "short": "HCL Blejoi nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 4/2022 privind aprobarea contului de incheiere a exercitiului bugetaral Clubului Sportiv Blejoi pe anul 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58044",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-40-2022",
+   "path": "local/prahova/blejoi/2022/40",
+   "short": "HCL Blejoi nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 40/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68935",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-41-2022",
+   "path": "local/prahova/blejoi/2022/41",
+   "short": "HCL Blejoi nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 41/2022 privind alipirea si dezmembrarea unor terenuri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68936",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-42-2022",
+   "path": "local/prahova/blejoi/2022/42",
+   "short": "HCL Blejoi nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 42/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68937",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-43-2022",
+   "path": "local/prahova/blejoi/2022/43",
+   "short": "HCL Blejoi nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 43/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68938",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-44-2022",
+   "path": "local/prahova/blejoi/2022/44",
+   "short": "HCL Blejoi nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 44/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investitii ,,Construire pista pentru biciclisti intre DN 1A si DJ 102, com. Blejoi, judetul Prahova” si participarea la Programul PNRR – Componenta 10 – fondul local",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68939",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-45-2022",
+   "path": "local/prahova/blejoi/2022/45",
+   "short": "HCL Blejoi nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 45/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investitii ,,Infiintare statii pentru incarcare electrica, comuna Blejoi, judetul Prahova” si participarea la Programul privind reducerea emisiilor de gaze cu efect de sera in transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: statii de reincarcare pentru vehicule electrice in localitati",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68940",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-46-2022",
+   "path": "local/prahova/blejoi/2022/46",
+   "short": "HCL Blejoi nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 46/2022 privind aprobarea rectificarii bugetului local al comunei Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68959",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-47-2022",
+   "path": "local/prahova/blejoi/2022/47",
+   "short": "HCL Blejoi nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 47/2022 privind aprobarea rectificării bugetului Clubului Sportiv Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68960",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-48-2022",
+   "path": "local/prahova/blejoi/2022/48",
+   "short": "HCL Blejoi nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 48/2022 privind rectificarea Programului anual de investiții pe anul 2022 cu finanțare integrală din excedentul bugetar al anului 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68961",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-5-2022",
+   "path": "local/prahova/blejoi/2022/5",
+   "short": "HCL Blejoi nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 5/2022 privind aprobarea Agendei manifestarilor cultural-artistice, sportive şi educative, finantate din bugetul local in anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58045",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-50-2022",
+   "path": "local/prahova/blejoi/2022/50",
+   "short": "HCL Blejoi nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 50/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68963",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-51-2022",
+   "path": "local/prahova/blejoi/2022/51",
+   "short": "HCL Blejoi nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 51/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții ,,Extindere rețea canalizare menajeră și racorduri canalizare pentru locuințe, str. Iancu Jianu, sat Țânțăreni, comuna Blejoi, județul Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68964",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-52-2022",
+   "path": "local/prahova/blejoi/2022/52",
+   "short": "HCL Blejoi nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 52/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții ,,Canalizare menajeră și pluvială pe străzile Toma Alimoș și Popa Șapcă, sat Țânțăreni, comuna Blejoi, județul Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68965",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-53-2022",
+   "path": "local/prahova/blejoi/2022/53",
+   "short": "HCL Blejoi nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 53/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investiții ,,Amenajare acces pre terenuri agricole DE 67/1”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68966",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-55-2022",
+   "path": "local/prahova/blejoi/2022/55",
+   "short": "HCL Blejoi nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 55/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/68968",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/68968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-56-2022",
+   "path": "local/prahova/blejoi/2022/56",
+   "short": "HCL Blejoi nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 56/2022 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul II - 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/69080",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/69080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-57-2022",
+   "path": "local/prahova/blejoi/2022/57",
+   "short": "HCL Blejoi nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 57/2022 privind solicitarea trecerii unor imobile din domeniul public al statului în domeniul public al comunei Blejoi, judeţul Prahova",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/69081",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/69081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-58-2022",
+   "path": "local/prahova/blejoi/2022/58",
+   "short": "HCL Blejoi nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 58/2022 privind asocierea Comunei Blejoi cu Județul Prahova si cu localitățile Ploiești, Băicoi, Boldești- Scăeni, Plopeni, Ariceștii Rahtivani, Bucov, Berceni, Bărcănești, Brazi, Păulești, Râfov, Târgșoru Vechi, Valea Călugărească și constituirea Asociaţiei de Dezvoltare Intercomunitară „Mobilitate Prahova” pentru serviciul de transport public local",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/69082",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/69082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-6-2022",
+   "path": "local/prahova/blejoi/2022/6",
+   "short": "HCL Blejoi nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 6/2022 privind alipirea unor terenuri",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58046",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-60-2022",
+   "path": "local/prahova/blejoi/2022/60",
+   "short": "HCL Blejoi nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 60/2022 privind alegerea preşedintelui de şedinţă pentru perioada august - octombrie 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/69084",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/69084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-61-2022",
+   "path": "local/prahova/blejoi/2022/61",
+   "short": "HCL Blejoi nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 61/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/78993",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/78993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-62-2022",
+   "path": "local/prahova/blejoi/2022/62",
+   "short": "HCL Blejoi nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 62/2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/78994",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/78994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-63-2022",
+   "path": "local/prahova/blejoi/2022/63",
+   "short": "HCL Blejoi nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 63/2022 privind mandarea reprezentantului Comunei Blejoi de a vota acceptarea asocierii Comunei Sotrile cu Judetul Prahova si alte unitati administrativ-teritoriale in Asociatia de Dezvoltare Intercomunitara ,,Parteneriatul pentru Managementul Apei Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/78995",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/78995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-65-2022",
+   "path": "local/prahova/blejoi/2022/65",
+   "short": "HCL Blejoi nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 65/2022 privind aprobarea rectificarii bugetului local al comunei Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79035",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-66-2022",
+   "path": "local/prahova/blejoi/2022/66",
+   "short": "HCL Blejoi nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 66/2022 privind rectificarea Programului anual de investiții pe anul 2022 cu finanțare integrală din excedentul bugetar al anului 2021",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79036",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-67-2022",
+   "path": "local/prahova/blejoi/2022/67",
+   "short": "HCL Blejoi nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 67/2022 privind aprobarea rectificării bugetului Clubului Sportiv Blejoi pe anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79037",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-7-2022",
+   "path": "local/prahova/blejoi/2022/7",
+   "short": "HCL Blejoi nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 7/2022 privind aprobarea numarului asistentilor personali pentru anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58047",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-71-2022",
+   "path": "local/prahova/blejoi/2022/71",
+   "short": "HCL Blejoi nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 71/2022 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul de investitii ,,Construire cladire destinata ceremoniilor funerare Blejoi”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79041",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-72-2022",
+   "path": "local/prahova/blejoi/2022/72",
+   "short": "HCL Blejoi nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 72/2022 privind mandarea reprezentantului Comunei Blejoi de a vota acceptarea asocierii orasului Boldesti-Scaeni cu Judetul Prahova si alte unitati administrativ-teritoriale in Asociatia de Dezvoltare Intercomunitara ,,Parteneriatul pentru Managementul Apei Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79042",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-73-2022",
+   "path": "local/prahova/blejoi/2022/73",
+   "short": "HCL Blejoi nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 73/2022 privind aprobarea depunerii proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comuneiBlejoi” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79335",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-74-2022",
+   "path": "local/prahova/blejoi/2022/74",
+   "short": "HCL Blejoi nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 74/2022 privind aprobarea contului de executie a bugetului local al comunei Blejoi si a contului de executie a bugetelor ordonatorilor tertiari de credite pe trimestrul al III-lea 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79384",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-76-2022",
+   "path": "local/prahova/blejoi/2022/76",
+   "short": "HCL Blejoi nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 76/2022 privind aprobarea casarii unor mijloace fixe din patrimoniul Comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79386",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-77-2022",
+   "path": "local/prahova/blejoi/2022/77",
+   "short": "HCL Blejoi nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 77/2022 privind completarea Agendei manifestarilor cultural-artistice, sportive şi educative, finantate din bugetul local in anul 2022",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79387",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-80-2022",
+   "path": "local/prahova/blejoi/2022/80",
+   "short": "HCL Blejoi nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 80/2022 privind mandarea reprezentantului Comunei Blejoi de a vota acceptarea asocierii orasului comunei Plopu cu Judetul Prahova si alte unitati administrativ-teritoriale in Asociatia de Dezvoltare Intercomunitara ,,Parteneriatul pentru Managementul Apei Prahova”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79390",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-81-2022",
+   "path": "local/prahova/blejoi/2022/81",
+   "short": "HCL Blejoi nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 81/2022 privind aprobarea actualizarii Devizului general pentru obiectivul de investitii ,,Executie canalizare menajera si pluviala pe partea stanga si pe partea dreapta a strazii DC 10A (RaduTudoran)“ si corelarii cu fondurile repartizate prin programul „Anghel Saligny”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79391",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-82-2022",
+   "path": "local/prahova/blejoi/2022/82",
+   "short": "HCL Blejoi nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 82/2022 privind aprobarea actualizarii Devizului general pentru obiectivul de investitii ,,Retea canalizare menajera si pluviala pe partea dreapta a strazii Teleajenului, Sat Ploiestiori, Com. Blejoi, Jud. Prahova“ si corelarii cu fondurile repartizate prin programul „Anghel Saligny”",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79392",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-83-2022",
+   "path": "local/prahova/blejoi/2022/83",
+   "short": "HCL Blejoi nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 83/2022 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie 2022 – ianuarie 2023",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/79393",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/79393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-84-2022",
+   "path": "local/prahova/blejoi/2022/84",
+   "short": "HCL Blejoi nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 84/2022 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Blejoi",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/81100",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/81100",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--blejoi-85-2022",
    "path": "local/prahova/blejoi/2022/85",
    "short": "HCL Blejoi nr. 85/2022",
@@ -148,6 +1153,21 @@
      "from": "2022-12-29",
      "units": 1,
      "source_url": "https://emol.ro/blejoi-ph/registru-hcl/84555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--blejoi-9-2022",
+   "path": "local/prahova/blejoi/2022/9",
+   "short": "HCL Blejoi nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Blejoi nr. 9/2022 privind aprobarea Planului de lucrări pentru repartizarea orelor de muncă pentru beneficiarii de venit minim garantat",
+   "url": "https://emol.ro/blejoi-ph/registru-hcl/58049",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/blejoi-ph/registru-hcl/58049",
      "sha256": null
     }
    ]

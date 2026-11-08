@@ -3,6 +3,201 @@
  "shard": "local/prahova/brazi/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--brazi-1-2024",
+   "path": "local/prahova/brazi/2024/1",
+   "short": "HCL Brazi nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 1/2024 privind acoperirea definitivă din excedentul bugetului local al comunei Brazi, județul Prahova pe anul 2023 a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/137556",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/137556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-10-2024",
+   "path": "local/prahova/brazi/2024/10",
+   "short": "HCL Brazi nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 10/2024 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/145687",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/145687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-12-2024",
+   "path": "local/prahova/brazi/2024/12",
+   "short": "HCL Brazi nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 12/2024 privind stabilirea situațiilor deosebite pentru care se pot acorda ajutoare de urgență din bugetul local al comunei Brazi, familiilor sau persoanelor singure cu domiciliul pe raza comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/150062",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/150062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-13-2024",
+   "path": "local/prahova/brazi/2024/13",
+   "short": "HCL Brazi nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 13/2024 privind aprobarea Metodologiei de autorizare a agenților economici care își desfășoară activitatea pe raza comunei Brazi, județul Prahova potrivit clasificării CAEN clasa 561 – Restaurante, clasa 563 – Baruri și alte activități de servire a băuturilor, clasa 932 – Alte activități recreative și distractive, precum și aprobarea programului de funcționare a agenților economici",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/150063",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/150063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-14-2024",
+   "path": "local/prahova/brazi/2024/14",
+   "short": "HCL Brazi nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 14/2024 privind stabilirea tarifului pentru serviciile de distribuție a apei potabile în comuna Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/150064",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/150064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-16-2024",
+   "path": "local/prahova/brazi/2024/16",
+   "short": "HCL Brazi nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 16/2024 privind aprobarea Schemei de ajutor de minimis, reprezentând scutiri de la plata impozitului pe cladiri și terenuri aferente parcurilor industriale de pe raza Comunei Brazi, precum și de la plata oricăror taxe datorate bugetului local al unității administrativ-teritoriale Brazi pentru eliberarea oricăror certificate de urbanism, autorizaţii de construire și/sau autorizații de desființare de construcții pentru terenurile și clădirile din infrastructura parcului, ce fac parte integrantă din parcul industrial",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/150066",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/150066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-2-2024",
+   "path": "local/prahova/brazi/2024/2",
+   "short": "HCL Brazi nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 2/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Brazi, județul Prahova, pentru anul școlar 2024 – 2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/137557",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/137557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-20-2024",
+   "path": "local/prahova/brazi/2024/20",
+   "short": "HCL Brazi nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 20/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate şi finanţate la nivelul comunei Brazi, județul Prahova în anul 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/150070",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/150070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-27-2024",
+   "path": "local/prahova/brazi/2024/27",
+   "short": "HCL Brazi nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 27/2024 privind indexarea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/160801",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/160801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-3-2024",
+   "path": "local/prahova/brazi/2024/3",
+   "short": "HCL Brazi nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 3/2024 privind stabilirea tarifului pentru serviciile de distribuție a apei potabile și de canalizare în comuna Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/142313",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/142313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-35-2024",
+   "path": "local/prahova/brazi/2024/35",
+   "short": "HCL Brazi nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 35/2024 privind rectificarea bugetului local al comunei Brazi, județul Prahova pe anul 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/164580",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/164580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-37-2024",
+   "path": "local/prahova/brazi/2024/37",
+   "short": "HCL Brazi nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 37/2024 privind stabilirea tarifului pentru serviciile de salubritate prestate pe raza comunei Brazi, județul Prahova",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/168042",
+   "versions": [
+    {
+     "from": "2024-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/168042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-41-2024",
+   "path": "local/prahova/brazi/2024/41",
+   "short": "HCL Brazi nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 41/2024 privind atribuirea denumirii “Învățător Miu Stana” Școlii Gimnaziale Comuna Brazi, începând cu anul școlar 2025 - 2026",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/172537",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/172537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--brazi-43-2024",
    "path": "local/prahova/brazi/2024/43",
    "short": "HCL Brazi nr. 43/2024",
@@ -298,6 +493,36 @@
      "from": "2025-01-07",
      "units": 1,
      "source_url": "https://emol.ro/brazi-ph/registru-hcl/185247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-8-2024",
+   "path": "local/prahova/brazi/2024/8",
+   "short": "HCL Brazi nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 8/2024 privind privind aprobarea încheierii exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/142358",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/142358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--brazi-9-2024",
+   "path": "local/prahova/brazi/2024/9",
+   "short": "HCL Brazi nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brazi nr. 9/2024 privind aprobarea bugetului local al comunei Brazi, județul Prahova pe anul 2024",
+   "url": "https://emol.ro/brazi-ph/registru-hcl/142359",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/brazi-ph/registru-hcl/142359",
      "sha256": null
     }
    ]

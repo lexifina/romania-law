@@ -138,6 +138,111 @@
    ]
   },
   {
+   "slug": "hcl-prahova--berceni-32-2026",
+   "path": "local/prahova/berceni/2026/32",
+   "short": "HCL Berceni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 32/2026 privind aprobarea numărului de posturi ce pot fi încadrate la nivelul Comunei Berceni, jud. Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/263313",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/263313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-38-2026",
+   "path": "local/prahova/berceni/2026/38",
+   "short": "HCL Berceni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 38/2026 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Berceni pe anul 2026 și estimări 2027-2029",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/268848",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/268848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-39-2026",
+   "path": "local/prahova/berceni/2026/39",
+   "short": "HCL Berceni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 39/2026 privind aprobarea Listei cu investițiile care se vor derula prin bugetul local pe anul 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/268849",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/268849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-40-2026",
+   "path": "local/prahova/berceni/2026/40",
+   "short": "HCL Berceni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 40/2026 privind utilizarea excedentului constituit la finele anului 2025 pentru lucrãrile de investitii care se vor derula prin bugetul local de venituri și cheltuieli al Comunei Berceni pe anul 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/268850",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/268850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-41-2026",
+   "path": "local/prahova/berceni/2026/41",
+   "short": "HCL Berceni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 41/2026 privind aprobarea bugetului de venituri și cheltuieli al Clubului Sportiv Comuna Berceni pe anul 2026",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/268851",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/268851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-48-2026",
+   "path": "local/prahova/berceni/2026/48",
+   "short": "HCL Berceni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 48/2026 privind reorganizarea aparatului de specialitate al primarului Comunei Berceni, jud. Prahova",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/275121",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/275121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--berceni-71-2026",
+   "path": "local/prahova/berceni/2026/71",
+   "short": "HCL Berceni nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Berceni nr. 71/2026 privind “ACTUALIZARE PLAN URBANISTIC GENERAL ŞI REGULAMENT LOCAL DE URBANISM, COMUNA BERCENI, JUDEŢ PRAHOVA”",
+   "url": "https://emol.ro/berceni-ph/registru-hcl/284210",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berceni-ph/registru-hcl/284210",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--berceni-89-2026",
    "path": "local/prahova/berceni/2026/89",
    "short": "HCL Berceni nr. 89/2026",

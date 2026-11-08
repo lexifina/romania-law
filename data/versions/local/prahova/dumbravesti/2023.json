@@ -3,6 +3,756 @@
  "shard": "local/prahova/dumbravesti/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--dumbravesti-1-2023",
+   "path": "local/prahova/dumbravesti/2023/1",
+   "short": "HCL Dumbrăvești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 1/2023 privind aprobarea contului de executie al bugetului local al Comunei Dumbravesti, Judetul Prahova pe trimestrul IV al anului 2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88332",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-10-2023",
+   "path": "local/prahova/dumbravesti/2023/10",
+   "short": "HCL Dumbrăvești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 10/2023 privind actualizarea Programului anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88341",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-11-2023",
+   "path": "local/prahova/dumbravesti/2023/11",
+   "short": "HCL Dumbrăvești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 11/2023 privind incheierea unui Contract de prestari servicii de asistenta corespunzatoare activitatii de medicina scolara in unitatile de invatamant de pe raza Comunei Dumbravesti, judetul Prahova",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88342",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-12-2023",
+   "path": "local/prahova/dumbravesti/2023/12",
+   "short": "HCL Dumbrăvești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 12/2023 privind actualizarea indicatorilor tehnico-economici aferenti obiectivului de investitii “ Pod rutier comuna Dumbravesti peste paraul Varbilau amplasat pe DC 16 ”, aprobati prin Hotararea Consiliului Local al Comunei Dumbravesti nr. 85 din 29.11.2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/89013",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/89013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-13-2023",
+   "path": "local/prahova/dumbravesti/2023/13",
+   "short": "HCL Dumbrăvești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 13/2023 privind aprobarea actualizarii Devizului general aferent obiectivului de investitii “ Pod rutier comuna Dumbravesti peste paraul Varbilau amplasat pe DC 16 ”aprobat prin Hotararea Consiliului Local al Comunei Dumbravesti nr. 86 din 29.11.2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/89014",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/89014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-14-2023",
+   "path": "local/prahova/dumbravesti/2023/14",
+   "short": "HCL Dumbrăvești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 14/2023 privind includerea în domeniul public al comunei Dumbravesti a investitiei \"Infiintare sistem de canalizare cu statie de epurare in Comuna Dumbravesti, Judetul Prahova\"",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/90482",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/90482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-15-2023",
+   "path": "local/prahova/dumbravesti/2023/15",
+   "short": "HCL Dumbrăvești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 15/2023 privind punerea la dispozitia operatorului regional Hidro Prahova SA Ploiesti a unor bunuri ce apartin domeniului public al Comunei Dumbravesti, aferente sistemului de canalizare cu statie de epurare din Comuna Dumbravesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/90483",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/90483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-16-2023",
+   "path": "local/prahova/dumbravesti/2023/16",
+   "short": "HCL Dumbrăvești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 16/2023 privind aprobarea incheierii unui Protocolului de colaborare cu Ministerul Muncii şi Solidarității Sociale (MMSS) având ca obiect asigurarea colaborării interinstituționale în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/91994",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/91994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-17-2023",
+   "path": "local/prahova/dumbravesti/2023/17",
+   "short": "HCL Dumbrăvești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 17/2023 privind participarea UAT Dumbravesti la proiectului ”Școli Motivante Adaptate Ritmului Tehnologic – PH-SMART”",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/91995",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/91995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-18-2023",
+   "path": "local/prahova/dumbravesti/2023/18",
+   "short": "HCL Dumbrăvești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 18/2023 privind aprobarea rectificarii bugetului local al comunei Dumbravesti pentru anul 2023 si estimari anii 2024-2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/91996",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/91996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-19-2023",
+   "path": "local/prahova/dumbravesti/2023/19",
+   "short": "HCL Dumbrăvești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 19/2023 privind actualizarea Programului anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/91997",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/91997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-2-2023",
+   "path": "local/prahova/dumbravesti/2023/2",
+   "short": "HCL Dumbrăvești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 2/2023 privind aprobarea contului de executie al bugetului local al Comunei Dumbravesti, Judetul Prahova pe anul 2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88333",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-20-2023",
+   "path": "local/prahova/dumbravesti/2023/20",
+   "short": "HCL Dumbrăvești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 20/2023 privind Acordul Consiliului Local (in calitate de administrator) referitor la punerea la dispozitie a amplasamentului necesar organizarii de santier pentru obiectivului de investitii “Infiintare retea inteligenta de distributie gaze naturale in Judetul Prahova – Comunele Cocorastii Mislii, Valcanesti, Cosminele, Dumbravesti, Varbilau, Alunis, Stefesti, Bertea si Orasul Slanic” si darea in folosinta cu titlu gratuit a amplasamentului",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/91998",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/91998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-21-2023",
+   "path": "local/prahova/dumbravesti/2023/21",
+   "short": "HCL Dumbrăvești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 21/2023 privind aprobarea implementarii proiectului „Dotarea Comunei Dumbravesti,Judetul Prahova, cu o vidanja” si indicatorii tehnico-economici aferenti proiectului",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/94403",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/94403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-22-2023",
+   "path": "local/prahova/dumbravesti/2023/22",
+   "short": "HCL Dumbrăvești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 22/2023 privind asocierea comunei Dumbravesti cu judetul Prahova in vederea realizarii obiectivului de investitii de interes public: Modernizare retea de apa prin construire bazin si statie pompare in comuna Dumbravesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/98204",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/98204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-24-2023",
+   "path": "local/prahova/dumbravesti/2023/24",
+   "short": "HCL Dumbrăvești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 24/2023 privind aprobarea Structurii organizatorice şi a Statului de funcţii ale aparatului de specialitate al Primarului comunei Dumbravesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/98206",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/98206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-25-2023",
+   "path": "local/prahova/dumbravesti/2023/25",
+   "short": "HCL Dumbrăvești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 25/2023 privind aprobarea Regulamentului de organizare si functionare a aparatului de specialitate al primarului comunei Dumbravesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/98207",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/98207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-27-2023",
+   "path": "local/prahova/dumbravesti/2023/27",
+   "short": "HCL Dumbrăvești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 27/2023 privind aprobarea rectificarii bugetului local al comunei Dumbravesti pentru anul 2023 si estimari anii 2024-2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102206",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-28-2023",
+   "path": "local/prahova/dumbravesti/2023/28",
+   "short": "HCL Dumbrăvești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 28/2023 privind actualizarea Programului anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102207",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-29-2023",
+   "path": "local/prahova/dumbravesti/2023/29",
+   "short": "HCL Dumbrăvești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 29/2023 privind aprobarea contului de executie al bugetului local al Comunei Dumbravesti, Judetul Prahova pe trimestrul I al anului 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102208",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-3-2023",
+   "path": "local/prahova/dumbravesti/2023/3",
+   "short": "HCL Dumbrăvești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 3/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88334",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-30-2023",
+   "path": "local/prahova/dumbravesti/2023/30",
+   "short": "HCL Dumbrăvești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 30/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102209",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-31-2023",
+   "path": "local/prahova/dumbravesti/2023/31",
+   "short": "HCL Dumbrăvești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 31/2023 privind aprobarea participarii la Programul privind casarea autovehiculelor uzate",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102210",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-32-2023",
+   "path": "local/prahova/dumbravesti/2023/32",
+   "short": "HCL Dumbrăvești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 32/2023 privind organizarea retelei scolare pentru anul 2023-2024 la nivelul Unitatii Administrativ Teritoriale Comuna Dumbravesti",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102211",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-33-2023",
+   "path": "local/prahova/dumbravesti/2023/33",
+   "short": "HCL Dumbrăvești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 33/2023 privind aprobarea participarii comunei Dumbravesti la parteneriatul LEADER cu denumirea “Parteneriat pentru Dezvoltarea Zonei GAL Valea Teleajeanului”",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102212",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-34-2023",
+   "path": "local/prahova/dumbravesti/2023/34",
+   "short": "HCL Dumbrăvești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 34/2023 privind stabilirea salariilor de baza ale functionarilor publici si personalului contractual din cadrul aparatului de specialitate al primarului comunei Dumbravesti, judetul Prahova",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/102213",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/102213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-35-2023",
+   "path": "local/prahova/dumbravesti/2023/35",
+   "short": "HCL Dumbrăvești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 35/2023 privind indexarea impozitelor şi taxelor locale pentru anul 2024 cu rata inflatiei de 13,80%",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/108207",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/108207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-36-2023",
+   "path": "local/prahova/dumbravesti/2023/36",
+   "short": "HCL Dumbrăvești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 36/2023 privind aprobarea delegării către Județul Prahova în vederea depunerii proiectului ”Transportul elevilor adaptați mobilității fără CO₂ - TEAM-CO₂”",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/108443",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/108443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-37-2023",
+   "path": "local/prahova/dumbravesti/2023/37",
+   "short": "HCL Dumbrăvești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 37/2023 privind aprobarea Devizului general actualizat și a principalilor indicatori tehnico-economici actualizați în urma încheierii contractului de achiziție publică aferent obiectivului de investiții ,,Pod rutier comuna Dumbrăvești peste pârâul Vărbilau amplasat pe DC 16 “cofinanțat prin Programul național de investiții Anghel Saligny",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/110777",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/110777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-38-2023",
+   "path": "local/prahova/dumbravesti/2023/38",
+   "short": "HCL Dumbrăvești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 38/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/111833",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/111833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-39-2023",
+   "path": "local/prahova/dumbravesti/2023/39",
+   "short": "HCL Dumbrăvești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 39/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/111834",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/111834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-4-2023",
+   "path": "local/prahova/dumbravesti/2023/4",
+   "short": "HCL Dumbrăvești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 4/2023 privinda probarea Planului de actiuni sau lucrari de interes local ce urmeaza sa fie prestate in anul 2023 de catre beneficiarii de ajutor social acordat in baza Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88335",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-40-2023",
+   "path": "local/prahova/dumbravesti/2023/40",
+   "short": "HCL Dumbrăvești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 40/2023 privind stabilirea unor măsuri pentru asigurarea liberului acces la informațiile de interes public",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/111835",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/111835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-41-2023",
+   "path": "local/prahova/dumbravesti/2023/41",
+   "short": "HCL Dumbrăvești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 41/2023 privind majorarea aportului UAT Comuna Dumbrăvești la capitalul social al societății HIDRO PRAHOVA S.A",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/111836",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/111836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-42-2023",
+   "path": "local/prahova/dumbravesti/2023/42",
+   "short": "HCL Dumbrăvești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 42/2023 privind aprobarea contului de executie al bugetului local al Comunei Dumbravesti, Judetul Prahova pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/115220",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/115220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-43-2023",
+   "path": "local/prahova/dumbravesti/2023/43",
+   "short": "HCL Dumbrăvești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 43/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Dumbrăvești pentru anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/115221",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/115221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-44-2023",
+   "path": "local/prahova/dumbravesti/2023/44",
+   "short": "HCL Dumbrăvești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 44/2023 privind acordarea pentru anul școlar 2023 -2024 a pachetului de rechizite școlare pentru preșcolarii și elevii din cadrul unităților de învățământ de pe raza comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/115222",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/115222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-45-2023",
+   "path": "local/prahova/dumbravesti/2023/45",
+   "short": "HCL Dumbrăvești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 45/2023 privind aprobarea rectificarii bugetului local al comunei Dumbravesti pentru anul 2023 si estimari anii 2024-2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/115223",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/115223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-46-2023",
+   "path": "local/prahova/dumbravesti/2023/46",
+   "short": "HCL Dumbrăvești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 46/2023 privind actualizarea Programului anual al achizițiilor publice pe anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/115224",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/115224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-48-2023",
+   "path": "local/prahova/dumbravesti/2023/48",
+   "short": "HCL Dumbrăvești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 48/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/118235",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/118235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-49-2023",
+   "path": "local/prahova/dumbravesti/2023/49",
+   "short": "HCL Dumbrăvești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 49/2023 privind aprobarea Raportului privind activitatea asistenților personali desfășurată în semestrul I anul 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/118236",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/118236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-50-2023",
+   "path": "local/prahova/dumbravesti/2023/50",
+   "short": "HCL Dumbrăvești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 50/2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/119133",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/119133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-51-2023",
+   "path": "local/prahova/dumbravesti/2023/51",
+   "short": "HCL Dumbrăvești nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 51/2023 privind aprobarea Structurii organizatorice și a Statului de funcţii ale aparatului de specialitate al Primarului comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/121503",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/121503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-6-2023",
+   "path": "local/prahova/dumbravesti/2023/6",
+   "short": "HCL Dumbrăvești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 6/2023 privind aprobarea Raportului privind activitatea asistentilor personali desfasurata in semestrul II anul 2022",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88337",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-62-2023",
+   "path": "local/prahova/dumbravesti/2023/62",
+   "short": "HCL Dumbrăvești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 62/2023 privind aprobarea contului de executie al bugetului local al Comunei Dumbravesti, Judetul Prahova pe trimestrul III al anului 2023",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/127536",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/127536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-63-2023",
+   "path": "local/prahova/dumbravesti/2023/63",
+   "short": "HCL Dumbrăvești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 63/2023 privind acordarea unor cadouri de Crăciun pentru preșcolarii și elevii din cadrul unităților de învațământ de pe raza comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/127537",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/127537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-64-2023",
+   "path": "local/prahova/dumbravesti/2023/64",
+   "short": "HCL Dumbrăvești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 64/2023 privind modificarea componenței Comisiilor de specialitate din cadrul Consiliului Local al Comunei Dumbrăvești",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/127538",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/127538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-65-2023",
+   "path": "local/prahova/dumbravesti/2023/65",
+   "short": "HCL Dumbrăvești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 65/2023 privind aprobarea documentației tehnico-economică - Studiului de fezabilitate pentru obiectivul ” Modernizare rețea de apă prin construire bazin și stație pompare în comuna Dumbrăvești”",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/128743",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/128743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-66-2023",
+   "path": "local/prahova/dumbravesti/2023/66",
+   "short": "HCL Dumbrăvești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 66/2023 privind includerea în domeniul public al comunei Dumbrăvești a investiției Sală de festivități Sat Plopeni (teren și clădire conform CF 21198)",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/128744",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/128744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-67-2023",
+   "path": "local/prahova/dumbravesti/2023/67",
+   "short": "HCL Dumbrăvești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 67/2023 privind trecerea din domeniul public al comunei Dumbrăvești în domeniul privat al acesteia a \"Podului rutier în Comuna Dumbrăvești peste pârâul Vărbilău amplasat pe DC 16\" și aprobarea demolării acestuia",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/128745",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/128745",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-68-2023",
    "path": "local/prahova/dumbravesti/2023/68",
    "short": "HCL Dumbrăvești nr. 68/2023",
@@ -28,6 +778,21 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/131998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-7-2023",
+   "path": "local/prahova/dumbravesti/2023/7",
+   "short": "HCL Dumbrăvești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 7/2023 aprobarea Strategiei de dezvoltare locală a Comunei Dumbravesti, județul Prahova, pentru perioada 2022-2028",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88338",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88338",
      "sha256": null
     }
    ]
@@ -183,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--dumbravesti-8-2023",
+   "path": "local/prahova/dumbravesti/2023/8",
+   "short": "HCL Dumbrăvești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 8/2023 privind aprobarea utilizarii in anul 2023 a excedentului anual al bugetului local",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88339",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88339",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--dumbravesti-80-2023",
    "path": "local/prahova/dumbravesti/2023/80",
    "short": "HCL Dumbrăvești nr. 80/2023",
@@ -298,6 +1078,21 @@
      "from": "2023-12-22",
      "units": 1,
      "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/135077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--dumbravesti-9-2023",
+   "path": "local/prahova/dumbravesti/2023/9",
+   "short": "HCL Dumbrăvești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvești nr. 9/2023 privind aprobarea bugetului local al comunei Dumbravesti pentru anul 2023 si estimari anii 2024-2026",
+   "url": "https://emol.ro/dumbravesti-ph/registru-hcl/88340",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravesti-ph/registru-hcl/88340",
      "sha256": null
     }
    ]

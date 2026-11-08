@@ -3,6 +3,141 @@
  "shard": "local/prahova/batrani/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--batrani-1-2025",
+   "path": "local/prahova/batrani/2025/1",
+   "short": "HCL Bătrâni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 1/2025 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a anului 2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/185905",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/185905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-10-2025",
+   "path": "local/prahova/batrani/2025/10",
+   "short": "HCL Bătrâni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 10/2025 privind aprobarea bugetului local pe anul 2025 și a estimărilor pe anii 2026, 2027, 2028",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/196245",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/196245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-11-2025",
+   "path": "local/prahova/batrani/2025/11",
+   "short": "HCL Bătrâni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 11/2025",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/196246",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/196246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-15-2025",
+   "path": "local/prahova/batrani/2025/15",
+   "short": "HCL Bătrâni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 15/2025 privind aprobarea participării Comunei Bătrâni, județul Prahova, în cadrul Programului privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/201340",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/201340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-18-2025",
+   "path": "local/prahova/batrani/2025/18",
+   "short": "HCL Bătrâni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 18/2025 privind aprobarea situațiilor financiare anuale la data de 31.12.2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/210000",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/210000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-19-2025",
+   "path": "local/prahova/batrani/2025/19",
+   "short": "HCL Bătrâni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 19/2025 privind aprobarea contului de execuție al bugetului local al comunei Bătrâni pe anul 2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/210001",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/210001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-2-2025",
+   "path": "local/prahova/batrani/2025/2",
+   "short": "HCL Bătrâni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 2/2025 privind utilizarea excedentului bugetar al Comunei Bâtrâni din anul 2024",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/185906",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/185906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-20-2025",
+   "path": "local/prahova/batrani/2025/20",
+   "short": "HCL Bătrâni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 20/2025 privind aprobarea inițierii demersurilor de elaborare a Planului Urbanistic General și a Regulamentului Local de Urbanism al comunei Bătrâni, județul Prahova",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/210002",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/210002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-21-2025",
+   "path": "local/prahova/batrani/2025/21",
+   "short": "HCL Bătrâni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 21/2025 privind stabilirea locaţiilor ce urmează a fi dotate cu echipamente pentru colectarea separată a textilelor",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/212200",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/212200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--batrani-22-2025",
    "path": "local/prahova/batrani/2025/22",
    "short": "HCL Bătrâni nr. 22/2025",
@@ -298,6 +433,36 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/batrani-ph/registru-hcl/244490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-8-2025",
+   "path": "local/prahova/batrani/2025/8",
+   "short": "HCL Bătrâni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 8/2025 privind aprobarea Planului de acțiuni/lucrări de interes local pentru anul 2025, ce vor fi executate de către beneficiarii de venit minim de incluziune, conform Legii nr.196/2016, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/193794",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/193794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--batrani-9-2025",
+   "path": "local/prahova/batrani/2025/9",
+   "short": "HCL Bătrâni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bătrâni nr. 9/2025 privind aprobarea indicatorilor economici aferenți obiectivului „Elaborare Plan Urbanistic General şi Regulament Local de Urbanism al comunei Bătrâni” în vederea fundamentării alocării fondurilor aferente programului pentru 2025-2028 de la bugetul de stat",
+   "url": "https://emol.ro/batrani-ph/registru-hcl/193795",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/batrani-ph/registru-hcl/193795",
      "sha256": null
     }
    ]

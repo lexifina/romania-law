@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-204-2023",
+   "path": "local/prahova/campina/2023/204",
+   "short": "HCL Câmpina nr. 204/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 204/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5319836153f762a2272b005e754cdd3d60a94139a0cfa8c25054bb9556d62e18"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-216-2023",
    "path": "local/prahova/campina/2023/216",
    "short": "HCL Câmpina nr. 216/2023",
@@ -393,6 +408,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-245-2023",
+   "path": "local/prahova/campina/2023/245",
+   "short": "HCL Câmpina nr. 245/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 245/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c3fd38f6bfce34da4d13295a4376b6b7f822feda2c14eb7a2a7a8932a48fce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-30-2023",
+   "path": "local/prahova/campina/2023/30",
+   "short": "HCL Câmpina nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2023 pentru aprobarea Regulamentului privind organizarea și funcționarea activității de voluntariat la nivelul U.A.T",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/02/Hotararea-nr30-ROF-activitati-voluntariat.pdf",
+     "sha256": "f736cd533278080d314659426d553b06e477ec44c9b296741feeff1830be50a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2023",
+   "path": "local/prahova/campina/2023/34",
+   "short": "HCL Câmpina nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "28f3ac88204f2a7b21d78b5327fd29b44641bed84c947a45c63c46b1b7907391"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-38-2023",
    "path": "local/prahova/campina/2023/38",
    "short": "HCL Câmpina nr. 38/2023",
@@ -449,6 +509,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/03/Hotararea-nr54-rectificare-buget-local-29-mar-2023.pdf",
      "sha256": "e69f889aad147116942fbde78c30bd11f4d764d366ffe440f491a01da5253d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-56-2023",
+   "path": "local/prahova/campina/2023/56",
+   "short": "HCL Câmpina nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/04/Hotararea-nr56-mod-HCL-nr263-din-2022-stab-imp-si-taxe-locale-pt-2023-1.pdf",
+     "sha256": "1b3f00bf1c7b22af8b2d40a875e4c67a819862615734473883cc3bffc56c9428"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2023",
+   "path": "local/prahova/campina/2023/62",
+   "short": "HCL Câmpina nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a3a5f1237f1eb232582342814b7e5876371582f485c105b617f75312feb42d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2023",
+   "path": "local/prahova/campina/2023/77",
+   "short": "HCL Câmpina nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2023 privind indexarea impozitelor și taxelor locale în Municipiul pentru anul fiscal 2024 Având în vedere Referatul de aprobare nr.10.149/07 martie 2023 al d-lui Moldoveanu lIoan-Alin - Primarul Municipiului Câmpina, prin care propune indexarea impozitelor și taxelor locale în Municipiul Câmpina, pentru anul fiscal 2024; Ținând seama de: - raportul nr.10.151/07 martie 2023, întocmit de Direcția econom",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2023/05/Hotararea-nr77-indexare-impozite-si-taxe-2024.pdf",
+     "sha256": "bd1f59184b1d1274d1466746ee3c1dc5a350576ad2689949a2fe723c8bcbb7af"
     }
    ]
   },

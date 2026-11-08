@@ -3,6 +3,246 @@
  "shard": "local/prahova/floresti/2023",
  "acts": [
   {
+   "slug": "hcl-prahova--floresti-1-2023",
+   "path": "local/prahova/floresti/2023/1",
+   "short": "HCL Florești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 1/2023 privind aprobarea listei de investitii pentru obiectivele in continuare pe anul 2023 cu finantare din bugetul local",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85513",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-10-2023",
+   "path": "local/prahova/floresti/2023/10",
+   "short": "HCL Florești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2023 privind aprobarea Planului de actiuni / lucrari de interes local ce se vor efectua pe domeniul public sau privat al Comunei Floresti de catre persoanele beneficiare de venit minim garantat,conform prevederilor Legii nr.416/2001, pentru anul 2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/87171",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/87171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-11-2023",
+   "path": "local/prahova/floresti/2023/11",
+   "short": "HCL Florești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2023 privind aprobarea bugetului local al comunei Floresti pe anul 2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/87172",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/87172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-12-2023",
+   "path": "local/prahova/floresti/2023/12",
+   "short": "HCL Florești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2023 privind transformarea unei functii publice din aparatul de specialitate al primarului comunei Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/87173",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/87173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-13-2023",
+   "path": "local/prahova/floresti/2023/13",
+   "short": "HCL Florești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 13/2023 privind participarea UAT Comuna Floresti la proiectul ”Școli Motivante Adaptate Ritmului Tehnologic – PH-SMART”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/91877",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/91877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-14-2023",
+   "path": "local/prahova/floresti/2023/14",
+   "short": "HCL Florești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103154",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-15-2023",
+   "path": "local/prahova/floresti/2023/15",
+   "short": "HCL Florești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2023 privind implementarea proiectului “DOTAREA PRIMĂRIEI COMUNEI FLOREȘTI, CU ECHIPAMENT IT”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103155",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-16-2023",
+   "path": "local/prahova/floresti/2023/16",
+   "short": "HCL Florești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 16/2023 privind aprobarea bilantului contabil al comunei Floresti, judetul Prahova pe anul 2022",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103156",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-18-2023",
+   "path": "local/prahova/floresti/2023/18",
+   "short": "HCL Florești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 18/2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103158",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-19-2023",
+   "path": "local/prahova/floresti/2023/19",
+   "short": "HCL Florești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2023 privind indexarea impozitelor si taxelor locale pentru anul 2024 cu rata inflatiei de 13,8% comunicata de Directia Judeana de Statistica Prahova conform adresei nr.344/20.01.2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103159",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-2-2023",
+   "path": "local/prahova/floresti/2023/2",
+   "short": "HCL Florești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2023 privindacoperirea definitiva a deficitului sectiunii de functionare",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85514",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-20-2023",
+   "path": "local/prahova/floresti/2023/20",
+   "short": "HCL Florești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2023 privind rectificarea bugetului local al comunei Floresti pe anul 2023",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103160",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-22-2023",
+   "path": "local/prahova/floresti/2023/22",
+   "short": "HCL Florești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 22/2023 privind implementarea proiectului “RENOVARE ENERGETICA A CANTINEI DE AJUTOR SOCIAL IN COMUNA FLORESTI ,JUDETUL PRAHOVA”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103162",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-23-2023",
+   "path": "local/prahova/floresti/2023/23",
+   "short": "HCL Florești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 23/2023 privind aprobarea participarii comunei Floresti la parteneriatul LEADER cu denumirea: “Parteneriatul pentru Dezvoltarea Zonei GAL Colinele Prahovei”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/103163",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/103163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-3-2023",
+   "path": "local/prahova/floresti/2023/3",
+   "short": "HCL Florești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2023 privind utilizarea excedentului bugetului local din anul precedent pentru acoperirea temporara a golurilor de casa provenite din decalaje intre veniturile si cheltuielile sectiunilor de functionare in anul curent",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85515",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-5-2023",
+   "path": "local/prahova/floresti/2023/5",
+   "short": "HCL Florești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2023 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “” EXTINDERE RETEA DE CANALIZARE MENAJERA IN COMUNA FLORESTI, JUDETUL PRAHOVA” aprobat pentru finanțare în Programul Național de Investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85997",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85997",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-58-2023",
    "path": "local/prahova/floresti/2023/58",
    "short": "HCL Florești nr. 58/2023",
@@ -28,6 +268,21 @@
      "from": "2023-09-27",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/121101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-6-2023",
+   "path": "local/prahova/floresti/2023/6",
+   "short": "HCL Florești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2023 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “EXTINDERE RETEA DE ALIMENTARE CU APA IN COMUNA FLORESTI, JUDETUL PRAHOVA ” aprobat pentru finanțare în Programul Național de Investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85998",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85998",
      "sha256": null
     }
    ]
@@ -183,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-7-2023",
+   "path": "local/prahova/floresti/2023/7",
+   "short": "HCL Florești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2023 privind trecerea din domeniul privat al comunei Floresti in domeniul public al comunei Floresti a unui imobil teren",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/85999",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/85999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-70-2023",
    "path": "local/prahova/floresti/2023/70",
    "short": "HCL Florești nr. 70/2023",
@@ -298,6 +568,21 @@
      "from": "2024-01-08",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/135631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-8-2023",
+   "path": "local/prahova/floresti/2023/8",
+   "short": "HCL Florești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2023 privind organizarea retelei scolare a unitatilor de invatamant din Comuna Floresti, in anul scolar 2023-2024",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/87169",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/87169",
      "sha256": null
     }
    ]

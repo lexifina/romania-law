@@ -3,6 +3,138 @@
 "shard": "local/prahova/berceni/2025",
 "acts": [
 {
+"slug": "hcl-prahova--berceni-25-2025",
+"path": "local/prahova/berceni/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 25/2025 privind aprobarea bugetului local de venituri și cheltuieli al Comunei Berceni pe anul 2025 și estimări 2026-2028",
+"short": "HCL Berceni nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/198295",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-26-2025",
+"path": "local/prahova/berceni/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 26/2025 privind aprobarea Listei cu investițiile care se vor derula prin bugetul local pe anul 2025",
+"short": "HCL Berceni nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/198296",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-27-2025",
+"path": "local/prahova/berceni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 27/2025 privind utilizarea excedentului constituit la finele anului 2024 pentru lucrãrile de investitii care se vor derula prin bugetul local de venituri și cheltuieli al Comunei Berceni pe anul 2025",
+"short": "HCL Berceni nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/198297",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-50-2025",
+"path": "local/prahova/berceni/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 50/2025 privind aprobarea si indexarea impozitelor şi taxelor locale ale Comunei Berceni pentru anul 2026",
+"short": "HCL Berceni nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/207688",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-81-2025",
+"path": "local/prahova/berceni/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 81/2025 privind alocarea cu titlu gratuit a terenului intravilan, situat în T 7, parcela 92,93, număr cadastral nr. 29015 , înscris în CF nr. 29015 Berceni către Asociaţia Habitat for Humanity în vederea construirii de locuințe sociale care ulterior să fie atribuite către beneficiari în baza criteriilor de selecție ale Habitat for Humanity",
+"short": "HCL Berceni nr. 81/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/219087",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--berceni-87-2025",
+"path": "local/prahova/berceni/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berceni nr. 87/2025 privind aprobarea REGISTRULUI LOCAL AL SPAŢIILOR VERZI DIN COMUNA BERCENI, JUD. PRAHOVA",
+"short": "HCL Berceni nr. 87/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://emol.ro/berceni-ph/registru-hcl/228509",
+"council": "prahova/berceni",
+"council_name": "Consiliul Local al Comunei Berceni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-prahova--berceni-123-2025",
 "path": "local/prahova/berceni/2025/123",
 "kind": "local",

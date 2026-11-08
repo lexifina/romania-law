@@ -3,6 +3,66 @@
  "shard": "local/prahova/barcanesti/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--barcanesti-52-2024",
+   "path": "local/prahova/barcanesti/2024/52",
+   "short": "HCL Bărcănești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 52/2024 privind aprobarea Procedurii de anulare a accesoriilor aferente obligațiilor fiscale principale restante la 31.08.2024 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ teritorială a Comunei Bărcănești,județul Prahova",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/172441",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/172441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-58-2024",
+   "path": "local/prahova/barcanesti/2024/58",
+   "short": "HCL Bărcănești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 58/2024 privind aprobarea rectificării bugetului local al comunei Bărcănești, a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2024",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/173726",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/173726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-69-2024",
+   "path": "local/prahova/barcanesti/2024/69",
+   "short": "HCL Bărcănești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 69/2024 privind aprobarea rectificării bugetului local al comunei Bărcănești, a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2024",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/178284",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/178284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--barcanesti-71-2024",
+   "path": "local/prahova/barcanesti/2024/71",
+   "short": "HCL Bărcănești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărcănești nr. 71/2024 privind stabilirea impozitelor şi taxelor locale precum și a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/barcanesti-ph/registru-hcl/181969",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/barcanesti-ph/registru-hcl/181969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--barcanesti-72-2024",
    "path": "local/prahova/barcanesti/2024/72",
    "short": "HCL Bărcănești nr. 72/2024",
