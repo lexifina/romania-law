@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-20-2023",
+   "path": "local/bihor/avram-iancu/2023/20",
+   "short": "HCL Avram Iancu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 20/2023 privind Modificare HCL 5 din 23.02.2023 pentru închirierea pajistilor",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/96887",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/96887",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-21-2023",
    "path": "local/bihor/avram-iancu/2023/21",
    "short": "HCL Avram Iancu nr. 21/2023",
@@ -223,6 +238,21 @@
      "from": "2023-05-08",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/102036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-24-2023",
+   "path": "local/bihor/avram-iancu/2023/24",
+   "short": "HCL Avram Iancu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 24/2023 privind desemnare membri comisie pentru raportul de evaluare secretar",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/102037",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/102037",
      "sha256": null
     }
    ]
@@ -478,6 +508,36 @@
      "from": "2023-03-20",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/92521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-40-2023",
+   "path": "local/bihor/avram-iancu/2023/40",
+   "short": "HCL Avram Iancu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 40/2023 privind vânzarea fară licitatie publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Avram Iancu, judeţul Bihor înscris în cartea funciară 54678",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/110163",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/110163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-41-2023",
+   "path": "local/bihor/avram-iancu/2023/41",
+   "short": "HCL Avram Iancu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 41/2023 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a Comunei Avram Iancu, aferent imobilului casă de locuit, situat în Comuna Avram Iancu,cadastral nr 53169",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/110164",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/110164",
      "sha256": null
     }
    ]
@@ -753,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-59-2023",
+   "path": "local/bihor/avram-iancu/2023/59",
+   "short": "HCL Avram Iancu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 59/2023 privind desemnarea reprezentanților Consiliului Local respectiv reprezentant al primarului în Consiliul de Administraţie al Școlii Gimnaziale nr.1 Avram Iancu,pentru anul școlar 2023/2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/124875",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/124875",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-6-2023",
    "path": "local/bihor/avram-iancu/2023/6",
    "short": "HCL Avram Iancu nr. 6/2023",
@@ -763,6 +838,21 @@
      "from": "2023-03-20",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/92523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-60-2023",
+   "path": "local/bihor/avram-iancu/2023/60",
+   "short": "HCL Avram Iancu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 60/2023 privind desemnarea unui membru al Consiliului Local în Comisia de Evaluare și Asigurarea Calității (CEAC) a Școlii Gimnaziale nr 1 Avram Iancu în anul școlar 2023/2024",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/124876",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/124876",
      "sha256": null
     }
    ]

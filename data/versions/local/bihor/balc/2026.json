@@ -273,6 +273,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-26-2026",
+   "path": "local/bihor/balc/2026/26",
+   "short": "HCL Balc nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 26/2026 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 26 martie 2026, ora 12.00",
+   "url": "https://emol.ro/balc-bh/registru-hcl/263944",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/263944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-27-2026",
+   "path": "local/bihor/balc/2026/27",
+   "short": "HCL Balc nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 27/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 15 aprilie 2026",
+   "url": "https://emol.ro/balc-bh/registru-hcl/263945",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/263945",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-28-2026",
    "path": "local/bihor/balc/2026/28",
    "short": "HCL Balc nr. 28/2026",

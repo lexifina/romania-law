@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-13-2024",
+   "path": "local/bihor/avram-iancu/2024/13",
+   "short": "HCL Avram Iancu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 13/2024 privind numirea sefului Serviciului Voluntar pentru Situații de Urgență din comuna Avram Iancu",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/150154",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/150154",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-14-2024",
    "path": "local/bihor/avram-iancu/2024/14",
    "short": "HCL Avram Iancu nr. 14/2024",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-19-2024",
+   "path": "local/bihor/avram-iancu/2024/19",
+   "short": "HCL Avram Iancu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 19/2024 privind aprobare modificare contract de închiriere nr. 3961 din 16.06.2021 încheiat între comuna Avram Iancu și SC CRISALE ALBU SRL",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/154658",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/154658",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-2-2024",
    "path": "local/bihor/avram-iancu/2024/2",
    "short": "HCL Avram Iancu nr. 2/2024",
@@ -193,6 +223,21 @@
      "from": "2024-07-19",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/161093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-23-2024",
+   "path": "local/bihor/avram-iancu/2024/23",
+   "short": "HCL Avram Iancu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 23/2024 privind revocarea Hotărârii de Consiliu nr 19 / 2024 privind modificare contract de închiriere nr. 3961 din 16.06.2021 încheiat între comuna Avram Iancu și SC CRISALE ALBU SRL",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/161094",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/161094",
      "sha256": null
     }
    ]
@@ -688,6 +733,21 @@
      "from": "2024-03-11",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-8-2024",
+   "path": "local/bihor/avram-iancu/2024/8",
+   "short": "HCL Avram Iancu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 8/2024 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al UAT Avram Iancu pentru activitatea desfășurată în anul 2023",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/144927",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/144927",
      "sha256": null
     }
    ]

@@ -3,6 +3,116 @@
 "shard": "local/bacau/ungureni/2022",
 "acts": [
 {
+"slug": "hcl-bacau--ungureni-1-2022",
+"path": "local/bacau/ungureni/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 1/2022 privind organizarea rețelei școlare de învățământ din comuna Ungureni pentru anul școlar 2022-2023",
+"short": "HCL Ungureni nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/78744",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-2-2022",
+"path": "local/bacau/ungureni/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 2/2022 privind mandatarea Primarului comunei Ungureni, județul Bacău în vederea semnării actului autentic de acceptare a donației făcută de Asociația Terre des Hommes",
+"short": "HCL Ungureni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/78745",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-3-2022",
+"path": "local/bacau/ungureni/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 3/2022 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiții „Înființarea sistemului public de canalizare a apelor uzate în localitatea Ungureni, comuna Ungureni, județul Bacău”",
+"short": "HCL Ungureni nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/78746",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-4-2022",
+"path": "local/bacau/ungureni/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 4/2022 privind aprobarea solicitării de prelungire a Scrisorii de garanție nr. 230/12.05.2020 emisă de FNGCIMM SA IFN aferentă proiectului ,,Modernizarea, renovarea și dotarea căminului cultural din satul Botești, comuna Ungureni, județul Bacău’’",
+"short": "HCL Ungureni nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/78747",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-5-2022",
+"path": "local/bacau/ungureni/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 5/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+"short": "HCL Ungureni nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/78748",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-6-2022",
 "path": "local/bacau/ungureni/2022/6",
 "kind": "local",
@@ -112,6 +222,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-11-2022",
+"path": "local/bacau/ungureni/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 11/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Ungureni, și a unui membru supleant, în Comisia de evaluare a probei interviu din cadrul concursului pentru ocuparea funcției de director/director adjunct din unitățile de învățământ preuniversitar de stat din Comuna Ungureni, județul Bacău, sesiunea ianuarie-aprilie 2022",
+"short": "HCL Ungureni nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/79429",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-12-2022",
+"path": "local/bacau/ungureni/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 12/2022 privind reducerea suprafeței de pășune comunală, concesionată către Asociația AGROZOOAGRO Ungureni",
+"short": "HCL Ungureni nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-15",
+"latest": "2022-11-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/79430",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -492,6 +646,29 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-30-2022",
+"path": "local/bacau/ungureni/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 30/2022",
+"short": "HCL Ungureni nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/79456",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-31-2022",
 "path": "local/bacau/ungureni/2022/31",
 "kind": "local",
@@ -558,6 +735,51 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-34-2022",
+"path": "local/bacau/ungureni/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 34/2022",
+"short": "HCL Ungureni nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/85815",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-35-2022",
+"path": "local/bacau/ungureni/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 35/2022 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru trei beneficiari",
+"short": "HCL Ungureni nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/85816",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-36-2022",
 "path": "local/bacau/ungureni/2022/36",
 "kind": "local",
@@ -578,6 +800,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-37-2022",
+"path": "local/bacau/ungureni/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 37/2022 privind desemnarea unui membru în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2021-2022",
+"short": "HCL Ungureni nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/85818",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -626,6 +870,28 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-40-2022",
+"path": "local/bacau/ungureni/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 40/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+"short": "HCL Ungureni nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-16",
+"latest": "2022-05-16",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/85834",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-41-2022",
 "path": "local/bacau/ungureni/2022/41",
 "kind": "local",
@@ -645,6 +911,29 @@
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-42-2022",
+"path": "local/bacau/ungureni/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 42/2022",
+"short": "HCL Ungureni nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-16",
+"latest": "2022-05-16",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/85836",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -805,6 +1094,28 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-50-2022",
+"path": "local/bacau/ungureni/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 50/2022 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru doi beneficiari",
+"short": "HCL Ungureni nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87059",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-51-2022",
 "path": "local/bacau/ungureni/2022/51",
 "kind": "local",
@@ -894,6 +1205,28 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-55-2022",
+"path": "local/bacau/ungureni/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 55/2022 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru un beneficiar în satul Botești",
+"short": "HCL Ungureni nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87083",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-56-2022",
 "path": "local/bacau/ungureni/2022/56",
 "kind": "local",
@@ -935,6 +1268,28 @@
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-58-2022",
+"path": "local/bacau/ungureni/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 58/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+"short": "HCL Ungureni nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-11",
+"latest": "2022-08-11",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87089",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1113,6 +1468,117 @@
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-67-2022",
+"path": "local/bacau/ungureni/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 67/2022",
+"short": "HCL Ungureni nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87128",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-68-2022",
+"path": "local/bacau/ungureni/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 68/2022 privind desemnarea membrilor în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2022-2023",
+"short": "HCL Ungureni nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87129",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-69-2022",
+"path": "local/bacau/ungureni/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 69/2022 privind desemnarea reprezentantului Consiliului local al comunei Ungureni în Comisia pentru prevenirea și eliminarea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității din cadrul Școlii Gimnaziale Ungureni",
+"short": "HCL Ungureni nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87130",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-70-2022",
+"path": "local/bacau/ungureni/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 70/2022 privind desemnarea reprezentantului Consiliului local al comunei Ungureni în Comisia pentru evaluarea și asigurarea calității (CEAC) din cadrul Școlii Gimnaziale Ungureni",
+"short": "HCL Ungureni nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87131",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-71-2022",
+"path": "local/bacau/ungureni/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 71/2022 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru 7 (șapte) beneficiari",
+"short": "HCL Ungureni nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/87132",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/boianu-mare/2023",
+ "acts": [
+  {
+   "slug": "hcl-bihor--boianu-mare-1-2023",
+   "path": "local/bihor/boianu-mare/2023/1",
+   "short": "HCL Boianu Mare nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 1/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-1-din-01.02.2023.pdf",
+     "sha256": "7136639a53c93080d40c6d79aee462f954f573cd2c5eb978aa50f529d0a17e59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-10-2023",
+   "path": "local/bihor/boianu-mare/2023/10",
+   "short": "HCL Boianu Mare nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 10/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-10-din-01.02.2023.pdf",
+     "sha256": "952886754594120e8942fe491f6c6546e8ab7130b5b0fd7e876f6199e7cbc895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-11-2023",
+   "path": "local/bihor/boianu-mare/2023/11",
+   "short": "HCL Boianu Mare nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 11/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mar-HCL-nr.-11-din-02.03.2023.pdf",
+     "sha256": "b8148ac871bd40faed3744a4439f3a9f258149fa86da4ad6b118072718ddc513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-12-2023",
+   "path": "local/bihor/boianu-mare/2023/12",
+   "short": "HCL Boianu Mare nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 12/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-12-din-02.03.2023.pdf",
+     "sha256": "e6e0a8e9f851525dc5e2f74877347635e7fd170704db193f02704d2b96cf5c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-13-2023",
+   "path": "local/bihor/boianu-mare/2023/13",
+   "short": "HCL Boianu Mare nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 13/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-13-din-02.03.2023.pdf",
+     "sha256": "c0cba36775c22bdc193d4460bb4c5376a4af9ae79401158c8531f48dfdf86bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-14-2023",
+   "path": "local/bihor/boianu-mare/2023/14",
+   "short": "HCL Boianu Mare nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 14/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-14-din-02.03.2023.pdf",
+     "sha256": "ba3db89aeecbe571082ad654b1f32d21cae4b4560974feb078d3ad8008d9250b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-15-2023",
+   "path": "local/bihor/boianu-mare/2023/15",
+   "short": "HCL Boianu Mare nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 15/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-15-din-02.03.2023.pdf",
+     "sha256": "15b7459d18a13c43c2646d650cbdcc11495b86f4b6981978358bc3d7bc01d865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-16-2023",
+   "path": "local/bihor/boianu-mare/2023/16",
+   "short": "HCL Boianu Mare nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 16/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-16-din-02.03.2023.pdf",
+     "sha256": "4dfe8f066d0d7ee16ad2e2a993c9f5d12fa7ea14b8b1536229d95a5b255e2cae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-17-2023",
+   "path": "local/bihor/boianu-mare/2023/17",
+   "short": "HCL Boianu Mare nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 17/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-februarie/",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/03/Boianu-Mare-HCL-nr.-17-din-02.03.2023.pdf",
+     "sha256": "65bfe547815e29316c1486e25feecfcbd0b56aecb62af2c48e82d591185e0e77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-2-2023",
+   "path": "local/bihor/boianu-mare/2023/2",
+   "short": "HCL Boianu Mare nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 2/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-2-din-01.02.2023.pdf",
+     "sha256": "659f79884b4d63c7eebe4e218989102a8099ff9a4d4eb7bfb04f81d1c7a77be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-3-2023",
+   "path": "local/bihor/boianu-mare/2023/3",
+   "short": "HCL Boianu Mare nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 3/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-3-din-01.02.2023.pdf",
+     "sha256": "38eb291f60251fcd2e455ac8a887a4a77ef1aa03d6510a476d572653ff34e3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-4-2023",
+   "path": "local/bihor/boianu-mare/2023/4",
+   "short": "HCL Boianu Mare nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 4/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-4-din-01.02.2023.pdf",
+     "sha256": "35988810a93b3fa6c9c0fd8ca4917c610f53d39f9672d8f674b429ab044983b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-5-2023",
+   "path": "local/bihor/boianu-mare/2023/5",
+   "short": "HCL Boianu Mare nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 5/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-5-din-01.02.2023.pdf",
+     "sha256": "2d48f4f09c5b05e8c80f9a1ae9040227d4e91ca06b38260e28710b4ba8b83958"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-54-2023",
+   "path": "local/bihor/boianu-mare/2023/54",
+   "short": "HCL Boianu Mare nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 54/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-54-din-13.12.2023.pdf",
+     "sha256": "8581dc14b3004658a88485b1ac46cf97c2d7386835bc65f7b41b0c7af2c19254"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-55-2023",
+   "path": "local/bihor/boianu-mare/2023/55",
+   "short": "HCL Boianu Mare nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 55/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-55-din-13.12.2023.pdf",
+     "sha256": "b3068bb439b2b557943cb6c76880668d33009700992d6babf5fc63671b62572c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-56-2023",
+   "path": "local/bihor/boianu-mare/2023/56",
+   "short": "HCL Boianu Mare nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 56/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-56-din-13.12.2023.pdf",
+     "sha256": "b216390feab5945ebe8a9f2736024b07d471e948b845977fbc81915984d4f1de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-57-2023",
+   "path": "local/bihor/boianu-mare/2023/57",
+   "short": "HCL Boianu Mare nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 57/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-57-din-13.12.2023.pdf",
+     "sha256": "61d2ea555f01fd7bf1f36ca3d9c2a5ae183b2209154828a1234717baea36b5c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-58-2023",
+   "path": "local/bihor/boianu-mare/2023/58",
+   "short": "HCL Boianu Mare nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 58/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-58-din-13.12.2023.pdf",
+     "sha256": "b44360b0172ba1125be3656642e6e45593f8ff34820452fd6ad8d71c5e416122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-59-2023",
+   "path": "local/bihor/boianu-mare/2023/59",
+   "short": "HCL Boianu Mare nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 59/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-59-din-13.12.2023.pdf",
+     "sha256": "bc2743ee1dcb87cfacfcfb36271ae7704dfdfcf00ef3fee34d231804fa99f8db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-6-2023",
+   "path": "local/bihor/boianu-mare/2023/6",
+   "short": "HCL Boianu Mare nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 6/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-6-din-01.02.2023.pdf",
+     "sha256": "ee2b85d07c2bed53b8be13dcf37c0ad7e9e0c7979c5c6d3592f772249cd6e836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-60-2023",
+   "path": "local/bihor/boianu-mare/2023/60",
+   "short": "HCL Boianu Mare nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 60/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-60-din-13.12.2023.pdf",
+     "sha256": "a0523631898c17192fe743e660e35f820c6f8bce8b6d6023849652c5c4abdc04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-61-2023",
+   "path": "local/bihor/boianu-mare/2023/61",
+   "short": "HCL Boianu Mare nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 61/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-61-din-13.12.2023.pdf",
+     "sha256": "9d6a8a9b9aa9d3f527133d9fab6dd01f05d8ccccc982bd6f971f9eb9d41ce929"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-62-2023",
+   "path": "local/bihor/boianu-mare/2023/62",
+   "short": "HCL Boianu Mare nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 62/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-62-din-13.12.2023.pdf",
+     "sha256": "bdef95c8902fbf9a6afb89154054ca0e3a709c342d8d5d0ed967da09c2e43784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-63-2023",
+   "path": "local/bihor/boianu-mare/2023/63",
+   "short": "HCL Boianu Mare nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 63/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-decembrie-2/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/12/Boianu-Mare-HCL-nr.-63-din-13.12.2023.pdf",
+     "sha256": "9aae0a04cb6d51db9aa5dd7d817387af9d2033191e1b702c4d426abafee6fae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-7-2023",
+   "path": "local/bihor/boianu-mare/2023/7",
+   "short": "HCL Boianu Mare nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 7/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-7-din-01.02.2023.pdf",
+     "sha256": "ad263a922de43923d682f4c6b2c7c0d70c5fe8cce8be48c32d3546c4315cb814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-8-2023",
+   "path": "local/bihor/boianu-mare/2023/8",
+   "short": "HCL Boianu Mare nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 8/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-8-din-01.02.2023.pdf",
+     "sha256": "53bdfb96e76c80ba94a4bcd37fe312facf4b2104c9d48fccf5f10fc1d65eeea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-9-2023",
+   "path": "local/bihor/boianu-mare/2023/9",
+   "short": "HCL Boianu Mare nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 9/2023",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-ianuarie-2/",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2023/02/Boianu-Mare-HCL-nr.-9-din-01.02.2023.pdf",
+     "sha256": "edaf0d1917ca1cbff9ab22f36accdaae56021c5773d3bb6b02ede2e3d709567c"
+    }
+   ]
+  }
+ ]
+}

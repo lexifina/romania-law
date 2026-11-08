@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/lugasu-de-jos/2021",
+ "acts": [
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-12-2021",
+   "path": "local/bihor/lugasu-de-jos/2021/12",
+   "short": "HCL Lugașu de Jos nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 12/2021",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2025/05/Hotararea-nr.-12-din-26-ianuarie-2021-aprobare-deviz-general-ind.-teh-ec-pt.-obictivul-de-investitii-Canalizare-menajera-si-statie-de-epurare-in-comuna-Lugasu-de-Jos%E2%80%9E-1.pdf",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2025/05/Hotararea-nr.-12-din-26-ianuarie-2021-aprobare-deviz-general-ind.-teh-ec-pt.-obictivul-de-investitii-Canalizare-menajera-si-statie-de-epurare-in-comuna-Lugasu-de-Jos%E2%80%9E-1.pdf",
+     "sha256": "5af8a4dbcd6f565b3054f67bd357343786428a04114df7ceba63a3a2b04459b0"
+    }
+   ]
+  }
+ ]
+}

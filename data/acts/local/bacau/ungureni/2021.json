@@ -665,6 +665,29 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-31-2021",
+"path": "local/bacau/ungureni/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 31/2021",
+"short": "HCL Ungureni nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/65126",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-32-2021",
 "path": "local/bacau/ungureni/2021/32",
 "kind": "local",
@@ -728,6 +751,28 @@
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-35-2021",
+"path": "local/bacau/ungureni/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 35/2021 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru trei beneficiari în satul Ungureni",
+"short": "HCL Ungureni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/65130",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +930,28 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-43-2021",
+"path": "local/bacau/ungureni/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 43/2021 privind înființarea și concesionarea Serviciului de gestionare a câinilor fără stăpân Ungureni",
+"short": "HCL Ungureni nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-15",
+"latest": "2022-10-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/75888",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-44-2021",
 "path": "local/bacau/ungureni/2021/44",
 "kind": "local",
@@ -904,6 +971,28 @@
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-45-2021",
+"path": "local/bacau/ungureni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 45/2021 privind desemnarea membrilor în cadrul Consiliului de Administrație al Școlii Gimnaziale Ungureni, pentru anul școlar 2021-2022",
+"short": "HCL Ungureni nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-15",
+"latest": "2022-10-15",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/75890",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

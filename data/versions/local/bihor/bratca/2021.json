@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-10-2021",
+   "path": "local/bihor/bratca/2021/10",
+   "short": "HCL Bratca nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 10/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24107",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24107",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-100-2021",
    "path": "local/bihor/bratca/2021/100",
    "short": "HCL Bratca nr. 100/2021",
@@ -58,6 +73,126 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/32062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-103-2021",
+   "path": "local/bihor/bratca/2021/103",
+   "short": "HCL Bratca nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 103/2021 Privind actualizarea numărului asistenților personali pentru persoanele încadrate în gradul de handicap grav cu asistent personal, la nivelul Comunei Bratca, începând cu luna august 2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32063",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-104-2021",
+   "path": "local/bihor/bratca/2021/104",
+   "short": "HCL Bratca nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 104/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32064",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-105-2021",
+   "path": "local/bihor/bratca/2021/105",
+   "short": "HCL Bratca nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 105/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32065",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-106-2021",
+   "path": "local/bihor/bratca/2021/106",
+   "short": "HCL Bratca nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 106/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32066",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-107-2021",
+   "path": "local/bihor/bratca/2021/107",
+   "short": "HCL Bratca nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 107/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32067",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-108-2021",
+   "path": "local/bihor/bratca/2021/108",
+   "short": "HCL Bratca nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 108/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32068",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-109-2021",
+   "path": "local/bihor/bratca/2021/109",
+   "short": "HCL Bratca nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 109/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/32069",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/32069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-11-2021",
+   "path": "local/bihor/bratca/2021/11",
+   "short": "HCL Bratca nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 11/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24108",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24108",
      "sha256": null
     }
    ]
@@ -193,6 +328,66 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/36949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-119-2021",
+   "path": "local/bihor/bratca/2021/119",
+   "short": "HCL Bratca nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 119/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/36950",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/36950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-12-2021",
+   "path": "local/bihor/bratca/2021/12",
+   "short": "HCL Bratca nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 12/2021 Pentru soluţionarea cererii d-lui Cerbu Cristian-Radu, cu domiciliul în localitatea Beznea, comuna Bratca, judeţul Bihor, prin care solicită acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24109",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-120-2021",
+   "path": "local/bihor/bratca/2021/120",
+   "short": "HCL Bratca nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 120/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/36951",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/36951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-121-2021",
+   "path": "local/bihor/bratca/2021/121",
+   "short": "HCL Bratca nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 121/2021 Privind organizarea de către Ocolul Silvic Brătcuţa R.A Bratca a licitaţiei în plic închis pentru vânzare lemn din produse principale, igienă şi accidentale II, producţia anului 2021, din pădurea proprietate a comunei Bratca, vânzare buşteni gater, din pădurea proprietate a comunei Bratca și stabilirea preţului de pornire a licitaţiei şi stabilirea prețului pentru partizile care vor fi vândute fasonat la cioată de către Ocolul Silvic Brătcuţa R.A Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/36952",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/36952",
      "sha256": null
     }
    ]
@@ -513,6 +708,141 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-141-2021",
+   "path": "local/bihor/bratca/2021/141",
+   "short": "HCL Bratca nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 141/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37142",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-142-2021",
+   "path": "local/bihor/bratca/2021/142",
+   "short": "HCL Bratca nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 142/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37143",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-143-2021",
+   "path": "local/bihor/bratca/2021/143",
+   "short": "HCL Bratca nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 143/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37144",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-144-2021",
+   "path": "local/bihor/bratca/2021/144",
+   "short": "HCL Bratca nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 144/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37145",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-145-2021",
+   "path": "local/bihor/bratca/2021/145",
+   "short": "HCL Bratca nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 145/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37146",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-146-2021",
+   "path": "local/bihor/bratca/2021/146",
+   "short": "HCL Bratca nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 146/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/37147",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/37147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-147-2021",
+   "path": "local/bihor/bratca/2021/147",
+   "short": "HCL Bratca nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 147/2021 privind aprobarea procesului-verbal încheiat în ședință ordinară a Consiliului local al comunei Bratca din data de 30.09.2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53849",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-148-2021",
+   "path": "local/bihor/bratca/2021/148",
+   "short": "HCL Bratca nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 148/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53850",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-149-2021",
+   "path": "local/bihor/bratca/2021/149",
+   "short": "HCL Bratca nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 149/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021, a Bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2021, a Programului anual al achizițiilor publice pe anul 2021 și a Programului anual de investiții publice pe grupe de investiții și surse de finanțare",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53851",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53851",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-15-2021",
    "path": "local/bihor/bratca/2021/15",
    "short": "HCL Bratca nr. 15/2021",
@@ -523,6 +853,156 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/24137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-150-2021",
+   "path": "local/bihor/bratca/2021/150",
+   "short": "HCL Bratca nr. 150/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 150/2021 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții: ”Modernizare Infrastructură rutieră, Comuna Bratca, Județul Bihor”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53852",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-151-2021",
+   "path": "local/bihor/bratca/2021/151",
+   "short": "HCL Bratca nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 151/2021 privind instrumentarea proiectului: „Modernizare Drumuri Agricole în Comuna Bratca, Județul Bihor”, măsura 4.3A, derurată de către AFIR",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53853",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-152-2021",
+   "path": "local/bihor/bratca/2021/152",
+   "short": "HCL Bratca nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 152/2021 privind aprobarea nomenclatorului stradal al Comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53854",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-153-2021",
+   "path": "local/bihor/bratca/2021/153",
+   "short": "HCL Bratca nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 153/2021 privind aprobarea documentației Plan Urbanistic Zonal ”AMENAJARE SERVICII TURISTICE LA SC NOJJO BET SRL”, nr. Cad.51976 Comuna Bratca, sat Bratca, județul",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53855",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-154-2021",
+   "path": "local/bihor/bratca/2021/154",
+   "short": "HCL Bratca nr. 154/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 154/2021 privind aprobarea referatului privind necesitatea și oportunitatea achiziției, a notei de fundamentare, a caietului de sarcini și centralizatorul investiției pentru achiziția: ”Servicii de deszăpezire în Comuna Bratca, județul Bihor, în sezonul de iarnă 2021-2022”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53856",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-155-2021",
+   "path": "local/bihor/bratca/2021/155",
+   "short": "HCL Bratca nr. 155/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 155/2021 privind modificarea și completarea punctului 1-Consumul lunar maxim de carburant pentru autoturismele și utilajele ce deservesc parcul auto al Comunei Bratca din anexa la HCL nr. 19/22.01.2019 privind aprobarea cheltuielilor pentru consumul lunar de carburanți pentru autoturismele și utilajele din dotare și cheltuieli de protocol ale Primăriei comuna Bratca, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53857",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-156-2021",
+   "path": "local/bihor/bratca/2021/156",
+   "short": "HCL Bratca nr. 156/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 156/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53858",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-157-2021",
+   "path": "local/bihor/bratca/2021/157",
+   "short": "HCL Bratca nr. 157/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 157/2021 privind soluționarea cererii Asociației Filantropia Oradea",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53859",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-158-2021",
+   "path": "local/bihor/bratca/2021/158",
+   "short": "HCL Bratca nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 158/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53860",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-159-2021",
+   "path": "local/bihor/bratca/2021/159",
+   "short": "HCL Bratca nr. 159/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 159/2021 privind aprobarea cererii de finanțare și a devizului general estimativ pentru proiectul: „Alimentare cu apă potabilă cătun Secătură, comuna Bratca, județul Bihor”",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53861",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53861",
      "sha256": null
     }
    ]
@@ -543,6 +1023,171 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-160-2021",
+   "path": "local/bihor/bratca/2021/160",
+   "short": "HCL Bratca nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 160/2021 privind alegerea președintelui de ședință ordinară-extraordinară a Consiliului local al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53862",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-161-2021",
+   "path": "local/bihor/bratca/2021/161",
+   "short": "HCL Bratca nr. 161/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 161/2021 privind aprobarea procesului-verbal încheiat în ședință ordinară a Consiliului local al comunei Bratca din data de 27.10.2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53863",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-162-2021",
+   "path": "local/bihor/bratca/2021/162",
+   "short": "HCL Bratca nr. 162/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 162/2021 privind aprobarea ordinei de zi a ședinței extraordinare a Consiliului local al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53864",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-163-2021",
+   "path": "local/bihor/bratca/2021/163",
+   "short": "HCL Bratca nr. 163/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 163/2021 privind desemnarea reprezentantului Consiliului local al comunei Bratca în Comisia de evaluare a probei de interviu pentru Concursul de ocupare a funcțiilor de director și director adjunct al Liceului Teoretic nr.1 Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53865",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-164-2021",
+   "path": "local/bihor/bratca/2021/164",
+   "short": "HCL Bratca nr. 164/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 164/2021 privind modificarea și completarea art.1 la HCL nr.64/25.05.2021, privind aprobarea contractării unei finanțări rambursabile interne în valoare de 453.459,90 lei fără TVA pentru achiziția unui buldoexcavator nou în leansing financiar",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53866",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-165-2021",
+   "path": "local/bihor/bratca/2021/165",
+   "short": "HCL Bratca nr. 165/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 165/2021 privind aprobarea procesului-verbal încheiat în ședința extraordinară a Consiliului local al comunei Bratca din data de 08.11.2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53922",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-166-2021",
+   "path": "local/bihor/bratca/2021/166",
+   "short": "HCL Bratca nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 166/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53923",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-167-2021",
+   "path": "local/bihor/bratca/2021/167",
+   "short": "HCL Bratca nr. 167/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 167/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021, a Programului anual al achizițiilor publice pe anul 2021 și a Programului anual de investiții publice pe grupe de investiții și surse de finanțare",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53924",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-168-2021",
+   "path": "local/bihor/bratca/2021/168",
+   "short": "HCL Bratca nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 168/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2021, pentru Ocolul Silvic Brătcuța R.A.Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53925",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-169-2021",
+   "path": "local/bihor/bratca/2021/169",
+   "short": "HCL Bratca nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 169/2021 privind modificarea prețului de vânzare a sortimentelor de produse prefabricate, de esență rășinoase și fag pentru persoanele fizice și juridice din Depozitul Beznea, la Ocolul Silvic Brătcuța R.A.Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53926",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-17-2021",
+   "path": "local/bihor/bratca/2021/17",
+   "short": "HCL Bratca nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 17/2021 Privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Bratca pentru a face parte din Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24139",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-170-2021",
    "path": "local/bihor/bratca/2021/170",
    "short": "HCL Bratca nr. 170/2021",
@@ -558,6 +1203,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-171-2021",
+   "path": "local/bihor/bratca/2021/171",
+   "short": "HCL Bratca nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 171/2021 privind desemnarea reprezentanților Consiliului local al comunei Bratca în Consiliul de Administrație al Liceului Teoretic nr.1 Bratca, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53928",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-172-2021",
+   "path": "local/bihor/bratca/2021/172",
+   "short": "HCL Bratca nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 172/2021 privind soluționarea cererii Bisericii Penticostale Nr.2 Beznea",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53929",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53929",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-173-2021",
    "path": "local/bihor/bratca/2021/173",
    "short": "HCL Bratca nr. 173/2021",
@@ -568,6 +1243,66 @@
      "from": "2022-03-16",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/53956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-174-2021",
+   "path": "local/bihor/bratca/2021/174",
+   "short": "HCL Bratca nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 174/2021 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 23.11.2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53957",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-175-2021",
+   "path": "local/bihor/bratca/2021/175",
+   "short": "HCL Bratca nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 175/2021 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53958",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-176-2021",
+   "path": "local/bihor/bratca/2021/176",
+   "short": "HCL Bratca nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 176/2021 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2021, a Bugetului instituțiilor publice finanțate integral sau parțial din venituri proprii pe anul 2021, a Programului anual al achizițiilor publice pe anul 2021 și a Programului anual de investiții publice pe grupe de investiții și surse de finanțare",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53959",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-177-2021",
+   "path": "local/bihor/bratca/2021/177",
+   "short": "HCL Bratca nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 177/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/53960",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/53960",
      "sha256": null
     }
    ]
@@ -918,6 +1653,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-20-2021",
+   "path": "local/bihor/bratca/2021/20",
+   "short": "HCL Bratca nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 20/2021 Privind aprobarea organizării de către Ocolul Silvic Brătcuţa R.A Bratca a licitaţiei în plic închis pentru vânzare lemn din produse principale, producţia anului 2021, din pădurea proprietate a comunei Bratca și stabilirea preţului de pornire a licitaţiei şi vânzare buşteni gater, din pădurea proprietate a comunei Bratca neadjudecat la licitațiile anterioare și stabilirea noului preţ de pornire a licitaţiei",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24142",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24142",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-21-2021",
    "path": "local/bihor/bratca/2021/21",
    "short": "HCL Bratca nr. 21/2021",
@@ -943,6 +1693,36 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/24144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-23-2021",
+   "path": "local/bihor/bratca/2021/23",
+   "short": "HCL Bratca nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 23/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24145",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-24-2021",
+   "path": "local/bihor/bratca/2021/24",
+   "short": "HCL Bratca nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 24/2021 Privind desemnarea reprezentanţilor Consiliului local în cadrul unor Comisii permanente ale administraţiei publice locale a Comunei Bratca pentru Legislatura 2020 – 2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24146",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24146",
      "sha256": null
     }
    ]
@@ -1198,6 +1978,21 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/24101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-40-2021",
+   "path": "local/bihor/bratca/2021/40",
+   "short": "HCL Bratca nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 40/2021 Pentru revocarea HCL Bratca nr.24/25.02.2021 privind desemnarea reprezentanţilor Consiliului local în cadrul unor Comisii permanente ale administraţiei publice locale a Comunei Bratca pentru Legislatura 2020 – 2024",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27042",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27042",
      "sha256": null
     }
    ]
@@ -1503,6 +2298,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-6-2021",
+   "path": "local/bihor/bratca/2021/6",
+   "short": "HCL Bratca nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 6/2021 Privind desemnarea reprezentanţilor Consiliului local al comunei Bratca în Consiliul de Administraţie al Liceului Teoretic nr.1 Bratca, pentru anul şcolar 2020/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/24103",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/24103",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-60-2021",
    "path": "local/bihor/bratca/2021/60",
    "short": "HCL Bratca nr. 60/2021",
@@ -1578,6 +2388,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-65-2021",
+   "path": "local/bihor/bratca/2021/65",
+   "short": "HCL Bratca nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 65/2021 Privind desemnarea reprezentanților Consiliului local al comunei Bratca în Comisia de evaluare și selecționare a proiectelor de finanțare nerambursabilă alocate de la bugetul local al comunei Bratca pentru activități nonprofit de interes local",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27702",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-66-2021",
    "path": "local/bihor/bratca/2021/66",
    "short": "HCL Bratca nr. 66/2021",
@@ -1648,6 +2473,66 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/24104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-70-2021",
+   "path": "local/bihor/bratca/2021/70",
+   "short": "HCL Bratca nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 70/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27707",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-71-2021",
+   "path": "local/bihor/bratca/2021/71",
+   "short": "HCL Bratca nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 71/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27708",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-72-2021",
+   "path": "local/bihor/bratca/2021/72",
+   "short": "HCL Bratca nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 72/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27709",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-73-2021",
+   "path": "local/bihor/bratca/2021/73",
+   "short": "HCL Bratca nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 73/2021",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27710",
+   "versions": [
+    {
+     "from": "2021-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27710",
      "sha256": null
     }
    ]
@@ -1758,6 +2643,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--bratca-80-2021",
+   "path": "local/bihor/bratca/2021/80",
+   "short": "HCL Bratca nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 80/2021 Privind stabilirea prețului pentru vânzarea sortimentelor de lemn de foc, esenţă fag pentru persoanele fizice şi juridice din rampă, respectiv Depozitul Beznea şi stabilirea preţului pentru produse prefabricate răşinoase la Ocolul Silvic Brătcuţa R.A Bratca",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27723",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-81-2021",
+   "path": "local/bihor/bratca/2021/81",
+   "short": "HCL Bratca nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 81/2021 Privind aprobarea organizării de către Ocolul Silvic Brătcuţa R.A Bratca a licitaţiei în plic închis pentru vânzare lemn produse principale, igienă şi ACC II, vânzare loturi de buşteni gater fag, producţia anului 2021 din pădurea proprietate a comunei Bratca și stabilirea preţului de pornire a licitaţiei",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/27724",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/27724",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--bratca-82-2021",
    "path": "local/bihor/bratca/2021/82",
    "short": "HCL Bratca nr. 82/2021",
@@ -1858,6 +2773,21 @@
      "from": "2021-07-08",
      "units": 1,
      "source_url": "https://emol.ro/bratca-bh/registru-hcl/29509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--bratca-89-2021",
+   "path": "local/bihor/bratca/2021/89",
+   "short": "HCL Bratca nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bratca nr. 89/2021 Privind aprobarea prețului de vânzare a sortimentelor la lemnul de foc, esenţă fag pentru persoanele fizice şi juridice din Depozitul Beznea",
+   "url": "https://emol.ro/bratca-bh/registru-hcl/29510",
+   "versions": [
+    {
+     "from": "2021-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bratca-bh/registru-hcl/29510",
      "sha256": null
     }
    ]

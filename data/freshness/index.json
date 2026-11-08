@@ -1435,12 +1435,12 @@
    "shard": "cnsc/2023",
    "kind": "cnsc",
    "file": "data/freshness/cnsc/2023.csv",
-   "count": 21,
+   "count": 24,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 21,
+    "unverified": 24,
     "source-unavailable": 0
    }
   },
@@ -1448,12 +1448,12 @@
    "shard": "cnsc/2024",
    "kind": "cnsc",
    "file": "data/freshness/cnsc/2024.csv",
-   "count": 3030,
+   "count": 3356,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3030,
+    "unverified": 3356,
     "source-unavailable": 0
    }
   },
@@ -10106,9 +10106,9 @@
    "shard": "local/arad/nadlac/2003",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2003.csv",
-   "count": 13,
+   "count": 111,
    "by_status": {
-    "current": 8,
+    "current": 106,
     "pending-change": 0,
     "stale": 0,
     "unverified": 5,
@@ -10119,9 +10119,9 @@
    "shard": "local/arad/nadlac/2004",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2004.csv",
-   "count": 13,
+   "count": 180,
    "by_status": {
-    "current": 2,
+    "current": 169,
     "pending-change": 0,
     "stale": 0,
     "unverified": 11,
@@ -10132,9 +10132,9 @@
    "shard": "local/arad/nadlac/2005",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2005.csv",
-   "count": 4,
+   "count": 133,
    "by_status": {
-    "current": 2,
+    "current": 131,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -10145,9 +10145,9 @@
    "shard": "local/arad/nadlac/2006",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2006.csv",
-   "count": 9,
+   "count": 148,
    "by_status": {
-    "current": 4,
+    "current": 143,
     "pending-change": 0,
     "stale": 0,
     "unverified": 5,
@@ -10158,9 +10158,9 @@
    "shard": "local/arad/nadlac/2007",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2007.csv",
-   "count": 14,
+   "count": 183,
    "by_status": {
-    "current": 3,
+    "current": 172,
     "pending-change": 0,
     "stale": 0,
     "unverified": 11,
@@ -10171,9 +10171,9 @@
    "shard": "local/arad/nadlac/2008",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2008.csv",
-   "count": 10,
+   "count": 194,
    "by_status": {
-    "current": 2,
+    "current": 186,
     "pending-change": 0,
     "stale": 0,
     "unverified": 8,
@@ -10184,9 +10184,9 @@
    "shard": "local/arad/nadlac/2009",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2009.csv",
-   "count": 14,
+   "count": 172,
    "by_status": {
-    "current": 1,
+    "current": 159,
     "pending-change": 0,
     "stale": 0,
     "unverified": 13,
@@ -10197,9 +10197,9 @@
    "shard": "local/arad/nadlac/2010",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2010.csv",
-   "count": 13,
+   "count": 148,
    "by_status": {
-    "current": 3,
+    "current": 138,
     "pending-change": 0,
     "stale": 0,
     "unverified": 10,
@@ -10210,9 +10210,9 @@
    "shard": "local/arad/nadlac/2011",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2011.csv",
-   "count": 13,
+   "count": 157,
    "by_status": {
-    "current": 0,
+    "current": 144,
     "pending-change": 0,
     "stale": 0,
     "unverified": 13,
@@ -10223,9 +10223,9 @@
    "shard": "local/arad/nadlac/2012",
    "kind": "local",
    "file": "data/freshness/local/arad/nadlac/2012.csv",
-   "count": 17,
+   "count": 83,
    "by_status": {
-    "current": 14,
+    "current": 80,
     "pending-change": 0,
     "stale": 0,
     "unverified": 3,
@@ -10545,12 +10545,25 @@
    }
   },
   {
+   "shard": "local/arad/santana/2004",
+   "kind": "local",
+   "file": "data/freshness/local/arad/santana/2004.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/arad/santana/2009",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2009.csv",
-   "count": 70,
+   "count": 72,
    "by_status": {
-    "current": 70,
+    "current": 72,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10561,9 +10574,9 @@
    "shard": "local/arad/santana/2010",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2010.csv",
-   "count": 121,
+   "count": 157,
    "by_status": {
-    "current": 120,
+    "current": 156,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -10574,9 +10587,9 @@
    "shard": "local/arad/santana/2011",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2011.csv",
-   "count": 16,
+   "count": 251,
    "by_status": {
-    "current": 16,
+    "current": 251,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10587,9 +10600,9 @@
    "shard": "local/arad/santana/2012",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2012.csv",
-   "count": 8,
+   "count": 91,
    "by_status": {
-    "current": 8,
+    "current": 91,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10600,9 +10613,9 @@
    "shard": "local/arad/santana/2013",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2013.csv",
-   "count": 4,
+   "count": 32,
    "by_status": {
-    "current": 4,
+    "current": 32,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10613,9 +10626,35 @@
    "shard": "local/arad/santana/2014",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2014.csv",
-   "count": 1,
+   "count": 10,
    "by_status": {
-    "current": 1,
+    "current": 10,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arad/santana/2015",
+   "kind": "local",
+   "file": "data/freshness/local/arad/santana/2015.csv",
+   "count": 12,
+   "by_status": {
+    "current": 12,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arad/santana/2016",
+   "kind": "local",
+   "file": "data/freshness/local/arad/santana/2016.csv",
+   "count": 16,
+   "by_status": {
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10626,9 +10665,9 @@
    "shard": "local/arad/santana/2017",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2017.csv",
-   "count": 1,
+   "count": 10,
    "by_status": {
-    "current": 1,
+    "current": 10,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10639,9 +10678,9 @@
    "shard": "local/arad/santana/2020",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2020.csv",
-   "count": 1,
+   "count": 34,
    "by_status": {
-    "current": 1,
+    "current": 34,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10652,9 +10691,9 @@
    "shard": "local/arad/santana/2021",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2021.csv",
-   "count": 4,
+   "count": 50,
    "by_status": {
-    "current": 4,
+    "current": 50,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10665,9 +10704,9 @@
    "shard": "local/arad/santana/2022",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2022.csv",
-   "count": 8,
+   "count": 15,
    "by_status": {
-    "current": 8,
+    "current": 15,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10691,9 +10730,9 @@
    "shard": "local/arad/santana/2024",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2024.csv",
-   "count": 5,
+   "count": 100,
    "by_status": {
-    "current": 5,
+    "current": 100,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -10704,9 +10743,9 @@
    "shard": "local/arad/santana/2025",
    "kind": "local",
    "file": "data/freshness/local/arad/santana/2025.csv",
-   "count": 117,
+   "count": 135,
    "by_status": {
-    "current": 117,
+    "current": 135,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11120,9 +11159,9 @@
    "shard": "local/arad/taut/2021",
    "kind": "local",
    "file": "data/freshness/local/arad/taut/2021.csv",
-   "count": 22,
+   "count": 25,
    "by_status": {
-    "current": 22,
+    "current": 25,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11328,9 +11367,9 @@
    "shard": "local/arad/vladimirescu/2026",
    "kind": "local",
    "file": "data/freshness/local/arad/vladimirescu/2026.csv",
-   "count": 110,
+   "count": 112,
    "by_status": {
-    "current": 110,
+    "current": 112,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11403,6 +11442,19 @@
    }
   },
   {
+   "shard": "local/arad/zarand/2024",
+   "kind": "local",
+   "file": "data/freshness/local/arad/zarand/2024.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/arad/zarand/2025",
    "kind": "local",
    "file": "data/freshness/local/arad/zarand/2025.csv",
@@ -11458,9 +11510,9 @@
    "shard": "local/arad/zimandu-nou/2021",
    "kind": "local",
    "file": "data/freshness/local/arad/zimandu-nou/2021.csv",
-   "count": 43,
+   "count": 149,
    "by_status": {
-    "current": 43,
+    "current": 149,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11471,9 +11523,9 @@
    "shard": "local/arad/zimandu-nou/2022",
    "kind": "local",
    "file": "data/freshness/local/arad/zimandu-nou/2022.csv",
-   "count": 22,
+   "count": 152,
    "by_status": {
-    "current": 22,
+    "current": 152,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11484,9 +11536,9 @@
    "shard": "local/arad/zimandu-nou/2023",
    "kind": "local",
    "file": "data/freshness/local/arad/zimandu-nou/2023.csv",
-   "count": 20,
+   "count": 110,
    "by_status": {
-    "current": 20,
+    "current": 110,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11497,9 +11549,9 @@
    "shard": "local/arad/zimandu-nou/2024",
    "kind": "local",
    "file": "data/freshness/local/arad/zimandu-nou/2024.csv",
-   "count": 32,
+   "count": 90,
    "by_status": {
-    "current": 32,
+    "current": 90,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11510,9 +11562,9 @@
    "shard": "local/arad/zimandu-nou/2025",
    "kind": "local",
    "file": "data/freshness/local/arad/zimandu-nou/2025.csv",
-   "count": 83,
+   "count": 123,
    "by_status": {
-    "current": 83,
+    "current": 123,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11601,9 +11653,9 @@
    "shard": "local/arges/babana/2017",
    "kind": "local",
    "file": "data/freshness/local/arges/babana/2017.csv",
-   "count": 1,
+   "count": 14,
    "by_status": {
-    "current": 1,
+    "current": 14,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11614,9 +11666,9 @@
    "shard": "local/arges/babana/2018",
    "kind": "local",
    "file": "data/freshness/local/arges/babana/2018.csv",
-   "count": 1,
+   "count": 13,
    "by_status": {
-    "current": 0,
+    "current": 12,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -11624,12 +11676,25 @@
    }
   },
   {
+   "shard": "local/arges/babana/2019",
+   "kind": "local",
+   "file": "data/freshness/local/arges/babana/2019.csv",
+   "count": 17,
+   "by_status": {
+    "current": 17,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/arges/balilesti/2019",
    "kind": "local",
    "file": "data/freshness/local/arges/balilesti/2019.csv",
-   "count": 1,
+   "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -11640,9 +11705,22 @@
    "shard": "local/arges/boteni/2023",
    "kind": "local",
    "file": "data/freshness/local/arges/boteni/2023.csv",
-   "count": 4,
+   "count": 7,
    "by_status": {
-    "current": 4,
+    "current": 7,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arges/boteni/2024",
+   "kind": "local",
+   "file": "data/freshness/local/arges/boteni/2024.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11653,9 +11731,9 @@
    "shard": "local/arges/boteni/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/boteni/2025.csv",
-   "count": 4,
+   "count": 5,
    "by_status": {
-    "current": 4,
+    "current": 5,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11835,9 +11913,9 @@
    "shard": "local/arges/campulung/2020",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2020.csv",
-   "count": 149,
+   "count": 151,
    "by_status": {
-    "current": 147,
+    "current": 149,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -11848,9 +11926,9 @@
    "shard": "local/arges/campulung/2021",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2021.csv",
-   "count": 213,
+   "count": 220,
    "by_status": {
-    "current": 212,
+    "current": 219,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -11861,9 +11939,9 @@
    "shard": "local/arges/campulung/2022",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2022.csv",
-   "count": 267,
+   "count": 288,
    "by_status": {
-    "current": 266,
+    "current": 287,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -11874,9 +11952,9 @@
    "shard": "local/arges/campulung/2023",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2023.csv",
-   "count": 266,
+   "count": 274,
    "by_status": {
-    "current": 265,
+    "current": 273,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -11887,9 +11965,9 @@
    "shard": "local/arges/campulung/2024",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2024.csv",
-   "count": 172,
+   "count": 178,
    "by_status": {
-    "current": 172,
+    "current": 178,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11900,9 +11978,9 @@
    "shard": "local/arges/campulung/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2025.csv",
-   "count": 181,
+   "count": 194,
    "by_status": {
-    "current": 181,
+    "current": 194,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11913,9 +11991,22 @@
    "shard": "local/arges/campulung/2026",
    "kind": "local",
    "file": "data/freshness/local/arges/campulung/2026.csv",
-   "count": 160,
+   "count": 168,
    "by_status": {
-    "current": 160,
+    "current": 168,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arges/corbeni/2026",
+   "kind": "local",
+   "file": "data/freshness/local/arges/corbeni/2026.csv",
+   "count": 8,
+   "by_status": {
+    "current": 8,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11926,9 +12017,9 @@
    "shard": "local/arges/corbi/2026",
    "kind": "local",
    "file": "data/freshness/local/arges/corbi/2026.csv",
-   "count": 37,
+   "count": 41,
    "by_status": {
-    "current": 37,
+    "current": 41,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11965,9 +12056,9 @@
    "shard": "local/arges/maracineni/2020",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2020.csv",
-   "count": 57,
+   "count": 149,
    "by_status": {
-    "current": 57,
+    "current": 149,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11978,9 +12069,9 @@
    "shard": "local/arges/maracineni/2021",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2021.csv",
-   "count": 40,
+   "count": 120,
    "by_status": {
-    "current": 40,
+    "current": 120,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -11991,9 +12082,9 @@
    "shard": "local/arges/maracineni/2022",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2022.csv",
-   "count": 108,
+   "count": 123,
    "by_status": {
-    "current": 108,
+    "current": 123,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12004,9 +12095,9 @@
    "shard": "local/arges/maracineni/2023",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2023.csv",
-   "count": 145,
+   "count": 161,
    "by_status": {
-    "current": 145,
+    "current": 161,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12017,9 +12108,9 @@
    "shard": "local/arges/maracineni/2024",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2024.csv",
-   "count": 119,
+   "count": 144,
    "by_status": {
-    "current": 119,
+    "current": 144,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12030,9 +12121,9 @@
    "shard": "local/arges/maracineni/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2025.csv",
-   "count": 140,
+   "count": 169,
    "by_status": {
-    "current": 140,
+    "current": 169,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12043,9 +12134,9 @@
    "shard": "local/arges/maracineni/2026",
    "kind": "local",
    "file": "data/freshness/local/arges/maracineni/2026.csv",
-   "count": 95,
+   "count": 122,
    "by_status": {
-    "current": 95,
+    "current": 122,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12056,9 +12147,9 @@
    "shard": "local/arges/nucsoara/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/nucsoara/2025.csv",
-   "count": 34,
+   "count": 42,
    "by_status": {
-    "current": 34,
+    "current": 42,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12069,9 +12160,9 @@
    "shard": "local/arges/nucsoara/2026",
    "kind": "local",
    "file": "data/freshness/local/arges/nucsoara/2026.csv",
-   "count": 61,
+   "count": 77,
    "by_status": {
-    "current": 61,
+    "current": 77,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12082,9 +12173,9 @@
    "shard": "local/arges/pietrosani/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/pietrosani/2025.csv",
-   "count": 46,
+   "count": 51,
    "by_status": {
-    "current": 46,
+    "current": 51,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12118,12 +12209,51 @@
    }
   },
   {
-   "shard": "local/arges/poiana-lacului/2025",
+   "shard": "local/arges/poiana-lacului/2022",
    "kind": "local",
-   "file": "data/freshness/local/arges/poiana-lacului/2025.csv",
+   "file": "data/freshness/local/arges/poiana-lacului/2022.csv",
    "count": 1,
    "by_status": {
     "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arges/poiana-lacului/2023",
+   "kind": "local",
+   "file": "data/freshness/local/arges/poiana-lacului/2023.csv",
+   "count": 11,
+   "by_status": {
+    "current": 11,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arges/poiana-lacului/2024",
+   "kind": "local",
+   "file": "data/freshness/local/arges/poiana-lacului/2024.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/arges/poiana-lacului/2025",
+   "kind": "local",
+   "file": "data/freshness/local/arges/poiana-lacului/2025.csv",
+   "count": 23,
+   "by_status": {
+    "current": 23,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -12147,9 +12277,9 @@
    "shard": "local/arges/poienarii-de-muscel/2024",
    "kind": "local",
    "file": "data/freshness/local/arges/poienarii-de-muscel/2024.csv",
-   "count": 4,
+   "count": 10,
    "by_status": {
-    "current": 3,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -12160,9 +12290,9 @@
    "shard": "local/arges/poienarii-de-muscel/2025",
    "kind": "local",
    "file": "data/freshness/local/arges/poienarii-de-muscel/2025.csv",
-   "count": 9,
+   "count": 71,
    "by_status": {
-    "current": 6,
+    "current": 68,
     "pending-change": 0,
     "stale": 0,
     "unverified": 3,
@@ -12173,9 +12303,9 @@
    "shard": "local/arges/poienarii-de-muscel/2026",
    "kind": "local",
    "file": "data/freshness/local/arges/poienarii-de-muscel/2026.csv",
-   "count": 13,
+   "count": 18,
    "by_status": {
-    "current": 12,
+    "current": 17,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,

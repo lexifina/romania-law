@@ -23309,6 +23309,6 @@
 | Annexes published apart from their act (court circumscriptions, official forms) | 3797 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Legal professions' rules: statutes, codes of ethics, regulations and decisions of the professional bodies (UNBR, UNNPR, UNEJ, OCJR, UNPIR, Consiliul de Mediere, CSM, INM, CAFR) | 2536 | [`data/acts/profesii/`](data/acts/profesii/) |
 | Treaties and international agreements (texts published with their ratifying act) | 2579 | [`data/acts/tratat/`](data/acts/tratat/) |
-| Public procurement complaints council decisions (CNSC) | 9559 | [`data/acts/cnsc/`](data/acts/cnsc/) |
+| Public procurement complaints council decisions (CNSC) | 9916 | [`data/acts/cnsc/`](data/acts/cnsc/) |
 | Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): annulments of normative acts and other rulings | 530 | [`data/acts/instante/`](data/acts/instante/) |
-| Local acts (decisions of local and county councils) | 288166 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 291166 | [`data/acts/local/`](data/acts/local/) |

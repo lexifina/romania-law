@@ -3,6 +3,248 @@
 "shard": "local/bihor/abram/2024",
 "acts": [
 {
+"slug": "hcl-bihor--abram-1-2024",
+"path": "local/bihor/abram/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 1/2024 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Abram din lunile ianuarie-martie 2024",
+"short": "HCL Abram nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/abram-bh/registru-hcl/141300",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-2-2024",
+"path": "local/bihor/abram/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 2/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 28.12.2023",
+"short": "HCL Abram nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/abram-bh/registru-hcl/141301",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-3-2024",
+"path": "local/bihor/abram/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 3/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 09.01.2024",
+"short": "HCL Abram nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/abram-bh/registru-hcl/141302",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-4-2024",
+"path": "local/bihor/abram/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 4/2024 privind utilizarea excedentului bugetar ramas la finele anului 2023",
+"short": "HCL Abram nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/abram-bh/registru-hcl/141303",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-5-2024",
+"path": "local/bihor/abram/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 5/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 09.01.2024",
+"short": "HCL Abram nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156559",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-6-2024",
+"path": "local/bihor/abram/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 6/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 25.01.2024",
+"short": "HCL Abram nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156560",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-7-2024",
+"path": "local/bihor/abram/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 7/2024 privind aprobarea contului de executie bugetara pe trimestrul al IV – lea anul 2023",
+"short": "HCL Abram nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156561",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-8-2024",
+"path": "local/bihor/abram/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 8/2024 privind aprobarea Devizului actualizat pentru proiectul „Eficientizare energetică instituție de învățământ și social culturală în localitatea Iteu, comuna Abram”",
+"short": "HCL Abram nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156562",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-9-2024",
+"path": "local/bihor/abram/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 9/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 25.01.2024",
+"short": "HCL Abram nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156563",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-10-2024",
+"path": "local/bihor/abram/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 10/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 12.02.2024",
+"short": "HCL Abram nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156564",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-11-2024",
+"path": "local/bihor/abram/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 11/2024 privind adoptarea bugetului de venituri si cheltuieli al Consiliului local Abram pe anul 2024",
+"short": "HCL Abram nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156565",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-12-2024",
 "path": "local/bihor/abram/2024/12",
 "kind": "local",
@@ -26,6 +268,206 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-13-2024",
+"path": "local/bihor/abram/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 13/2024 privind activitatea asistentilor personali desfășurată în anul 2023",
+"short": "HCL Abram nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156567",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-14-2024",
+"path": "local/bihor/abram/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 14/2024 privind aprobarea Planului de acțiuni sau lucrări de interes local ce vor fi efectuate în anul 2024 de către persoanele apte de muncă, beneficiare de venit minim de incluziune componenta ajutor de incluziune potrivit Legii nr.196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+"short": "HCL Abram nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156568",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-15-2024",
+"path": "local/bihor/abram/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 15/2024 privind aprobarea necesarului de asistenţi personali ai persoanelor cu handicap grav și a indemnizaţiilor lunare cuvenite părinţilor sau reprezentanţilor legali ai copilului cu handicap grav, adulţilor cu handicap grav ori reprezentanţilor legali ai acestora, la nivelul comunei Abram pentru anul 2024",
+"short": "HCL Abram nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156569",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-16-2024",
+"path": "local/bihor/abram/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 16/2024 privind stadiul de înscriere a datelor în Registrul agricol al comunei Abram pentru anul 2023 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Abram nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156570",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-17-2024",
+"path": "local/bihor/abram/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 17/2024 privind „Planul de asigurare cu resurse umane, materiale si financiare in domeniul Situatiilor de Urgenta pentru anul 2024”",
+"short": "HCL Abram nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156571",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-18-2024",
+"path": "local/bihor/abram/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 18/2024",
+"short": "HCL Abram nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156572",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-19-2024",
+"path": "local/bihor/abram/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 19/2024",
+"short": "HCL Abram nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156573",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-20-2024",
+"path": "local/bihor/abram/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 20/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 12.02.2024",
+"short": "HCL Abram nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156574",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-21-2024",
+"path": "local/bihor/abram/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 21/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 19.02.2024",
+"short": "HCL Abram nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156575",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-22-2024",
 "path": "local/bihor/abram/2024/22",
 "kind": "local",
@@ -45,6 +487,50 @@
 "council_name": "Consiliul Local al Comunei Abram",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-23-2024",
+"path": "local/bihor/abram/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 23/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 12.02.2024",
+"short": "HCL Abram nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156580",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-24-2024",
+"path": "local/bihor/abram/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 24/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 28.03.2024",
+"short": "HCL Abram nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156581",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +578,28 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-27-2024",
+"path": "local/bihor/abram/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 27/2024 privind actualizarea “Planului de Analiza si Acoperire a Riscurilor” in comuna Abram",
+"short": "HCL Abram nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156584",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-28-2024",
 "path": "local/bihor/abram/2024/28",
 "kind": "local",
@@ -136,6 +644,51 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-30-2024",
+"path": "local/bihor/abram/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 30/2024",
+"short": "HCL Abram nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156587",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-31-2024",
+"path": "local/bihor/abram/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 31/2024 privind rectificarea bugetului Consiliului local al comunei Abram varianta a I-a luna martie 2024",
+"short": "HCL Abram nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156588",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-32-2024",
 "path": "local/bihor/abram/2024/32",
 "kind": "local",
@@ -158,6 +711,138 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-33-2024",
+"path": "local/bihor/abram/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 33/2024 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Abram din lunile aprilie-iunie 2024",
+"short": "HCL Abram nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156590",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-34-2024",
+"path": "local/bihor/abram/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 34/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 28.03.2024",
+"short": "HCL Abram nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156591",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-35-2024",
+"path": "local/bihor/abram/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 35/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 12.04.2024",
+"short": "HCL Abram nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156592",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-36-2024",
+"path": "local/bihor/abram/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 36/2024 privind rectificarea bugetului Consiliului local al comunei Abram varianta a II-a luna aprilie 2024",
+"short": "HCL Abram nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156593",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-37-2024",
+"path": "local/bihor/abram/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 37/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 12.04.2024",
+"short": "HCL Abram nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156594",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-38-2024",
+"path": "local/bihor/abram/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 38/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 30.04.2024",
+"short": "HCL Abram nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://emol.ro/abram-bh/registru-hcl/156595",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-39-2024",
 "path": "local/bihor/abram/2024/39",
 "kind": "local",
@@ -177,6 +862,183 @@
 "council_name": "Consiliul Local al Comunei Abram",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-40-2024",
+"path": "local/bihor/abram/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 40/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 30.04.2024",
+"short": "HCL Abram nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172670",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-41-2024",
+"path": "local/bihor/abram/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 41/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 09.05.2024",
+"short": "HCL Abram nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172671",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-42-2024",
+"path": "local/bihor/abram/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 42/2024",
+"short": "HCL Abram nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172672",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-43-2024",
+"path": "local/bihor/abram/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 43/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 09.05.2024",
+"short": "HCL Abram nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172673",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-44-2024",
+"path": "local/bihor/abram/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 44/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 20.05.2024",
+"short": "HCL Abram nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172674",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-45-2024",
+"path": "local/bihor/abram/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 45/2024 privind transformarea postului vacant de inspector principal în inspector asistent din cadrul compartimentului de asistență socială",
+"short": "HCL Abram nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172675",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-46-2024",
+"path": "local/bihor/abram/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 46/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 20.05.2024",
+"short": "HCL Abram nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172803",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-47-2024",
+"path": "local/bihor/abram/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 47/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 26.06.2024",
+"short": "HCL Abram nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172804",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +1086,116 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-50-2024",
+"path": "local/bihor/abram/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 50/2024 privind aprobarea înființării Serviciului de Gospodarire al Comunei Abram, denumit „S.G.C.A.”, cu personalitate juridică, organizat în subordinea Consiliului Local Abram, județul Bihor",
+"short": "HCL Abram nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172807",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-51-2024",
+"path": "local/bihor/abram/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 51/2024 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Abram din lunile iulie-septembrie 2024",
+"short": "HCL Abram nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172811",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-52-2024",
+"path": "local/bihor/abram/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 52/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 26.06.2024",
+"short": "HCL Abram nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172812",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-53-2024",
+"path": "local/bihor/abram/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 53/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 17.07.2024",
+"short": "HCL Abram nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172813",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-54-2024",
+"path": "local/bihor/abram/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 54/2024 privind rectificarea bugetului Consiliului local al comunei Abram varianta a III-a luna iulie 2024",
+"short": "HCL Abram nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/abram-bh/registru-hcl/172814",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-55-2024",
 "path": "local/bihor/abram/2024/55",
 "kind": "local",
@@ -244,6 +1216,94 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-56-2024",
+"path": "local/bihor/abram/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 56/2024 privind alegerea președintelui de ședință a Consiliului Local al comunei Abram din lunile iulie-octombrie 2024",
+"short": "HCL Abram nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175305",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-57-2024",
+"path": "local/bihor/abram/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 57/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 17.07.2024",
+"short": "HCL Abram nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175306",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-58-2024",
+"path": "local/bihor/abram/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 58/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 31.07.2024",
+"short": "HCL Abram nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175307",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-59-2024",
+"path": "local/bihor/abram/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 59/2024 privind rectificarea bugetului Consiliului local al comunei Abram varianta a IV-a luna iulie 2024",
+"short": "HCL Abram nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175308",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +1351,139 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-62-2024",
+"path": "local/bihor/abram/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 62/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 31.07.2024",
+"short": "HCL Abram nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175325",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-63-2024",
+"path": "local/bihor/abram/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 63/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 23.09.2024",
+"short": "HCL Abram nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175329",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-64-2024",
+"path": "local/bihor/abram/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 64/2024 privind aprobarea contului de executie bugetara pe trimestrul II anul 2024",
+"short": "HCL Abram nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175330",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-65-2024",
+"path": "local/bihor/abram/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 65/2024",
+"short": "HCL Abram nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175339",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--abram-66-2024",
+"path": "local/bihor/abram/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 66/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 23.07.2024",
+"short": "HCL Abram nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175340",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-67-2024",
+"path": "local/bihor/abram/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 67/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 30.09.2024",
+"short": "HCL Abram nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175341",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-68-2024",
 "path": "local/bihor/abram/2024/68",
 "kind": "local",
@@ -313,6 +1506,50 @@
 }
 },
 {
+"slug": "hcl-bihor--abram-69-2024",
+"path": "local/bihor/abram/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 69/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 30.09.2024",
+"short": "HCL Abram nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175343",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-70-2024",
+"path": "local/bihor/abram/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 70/2024 privind aprobarea ordinii de zi a ședinței extraordinare din data de 18.10.2024",
+"short": "HCL Abram nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/abram-bh/registru-hcl/175344",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--abram-71-2024",
 "path": "local/bihor/abram/2024/71",
 "kind": "local",
@@ -332,6 +1569,72 @@
 "council_name": "Consiliul Local al Comunei Abram",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--abram-72-2024",
+"path": "local/bihor/abram/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 72/2024 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei Abram din lunile noiembrie 2024 - ianuarie 2025",
+"short": "HCL Abram nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186202",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-73-2024",
+"path": "local/bihor/abram/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 73/2024 privind aprobarea de către Consiliul local a procesului verbal al şedinţei din 18.10.2024 și a ședinței din 23.10.2024",
+"short": "HCL Abram nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186203",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--abram-74-2024",
+"path": "local/bihor/abram/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Abram nr. 74/2024 privind aprobarea ordinii de zi a ședinței ordinare din data de 05.11.2024",
+"short": "HCL Abram nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/abram-bh/registru-hcl/186204",
+"council": "bihor/abram",
+"council_name": "Consiliul Local al Comunei Abram",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

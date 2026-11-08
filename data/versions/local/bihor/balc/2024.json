@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-26-2024",
+   "path": "local/bihor/balc/2024/26",
+   "short": "HCL Balc nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 26/2024 privind închirierea prin licitație publică a unui spațiu, aparținând domeniului public al comunei Balc, situat în localitatea Almașu Mare, nr. 95, județul Bihor înscris în CF 52096 Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/155624",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/155624",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-27-2024",
    "path": "local/bihor/balc/2024/27",
    "short": "HCL Balc nr. 27/2024",
@@ -588,6 +603,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-41-2024",
+   "path": "local/bihor/balc/2024/41",
+   "short": "HCL Balc nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 41/2024 privind aprobarea intenției de concesionare a unui teren în suparafață de 3 mp, aparținând domeniului public al comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163984",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-42-2024",
+   "path": "local/bihor/balc/2024/42",
+   "short": "HCL Balc nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 42/2024 privind aprobarea intenției de concesionare a unui teren aparținând domeniului public/privat al comunei Balc, în vederea construirii unui lăcaș de cult",
+   "url": "https://emol.ro/balc-bh/registru-hcl/163985",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/163985",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-43-2024",
    "path": "local/bihor/balc/2024/43",
    "short": "HCL Balc nr. 43/2024",
@@ -748,6 +793,21 @@
      "from": "2024-08-02",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/164963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-53-2024",
+   "path": "local/bihor/balc/2024/53",
+   "short": "HCL Balc nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 53/2024 privind aprobarea listei de priorităţi în vederea închirierii locuinţelor sociale din Comuna Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/164964",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/164964",
      "sha256": null
     }
    ]
@@ -1098,6 +1158,96 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-75-2024",
+   "path": "local/bihor/balc/2024/75",
+   "short": "HCL Balc nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 75/2024 privind alegerea președintelui de ședință pentru a conduce ședința ordinară din data de 18 octombrie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174645",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-76-2024",
+   "path": "local/bihor/balc/2024/76",
+   "short": "HCL Balc nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 76/2024 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 13 septembrie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174646",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-77-2024",
+   "path": "local/bihor/balc/2024/77",
+   "short": "HCL Balc nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 77/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 18 octombrie 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174647",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-78-2024",
+   "path": "local/bihor/balc/2024/78",
+   "short": "HCL Balc nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 78/2024 privind rectificarea bugetului local al Comunei Balc pe anul 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174648",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-79-2024",
+   "path": "local/bihor/balc/2024/79",
+   "short": "HCL Balc nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 79/2024 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru lunile mai 2024, iunue 2024, iulie 2024 și august 2024",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174649",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-8-2024",
+   "path": "local/bihor/balc/2024/8",
+   "short": "HCL Balc nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 8/2024 privind aprobarea listei de priorităţi în vederea închirierii locuinţelor sociale din Comuna Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/147366",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/147366",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-80-2024",
    "path": "local/bihor/balc/2024/80",
    "short": "HCL Balc nr. 80/2024",
@@ -1108,6 +1258,51 @@
      "from": "2024-11-04",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/174650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-81-2024",
+   "path": "local/bihor/balc/2024/81",
+   "short": "HCL Balc nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 81/2024 privind însușirea și aprobarea documentației de dezlipire a imobilului în suprafață de 6.948 mp, înscris în CF nr. 51239 Balc, aparținând domeniului privat al comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174651",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-82-2024",
+   "path": "local/bihor/balc/2024/82",
+   "short": "HCL Balc nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 82/2024 privind declararea apartenenței la domeniul privat al comunei Balc, județul Bihor al imobilului situat în localitatea Balc, str Petofi Sandor, nr. 47, înscris în CF nr. 51229 Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174652",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-83-2024",
+   "path": "local/bihor/balc/2024/83",
+   "short": "HCL Balc nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 83/2024 privind aprobarea devizului general și indicatorii tehnico-economici pentru obiectivul de investiții „Reabilitarea Școala primară nr. 2 Săldăbagiu de Barcău, comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/174653",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/174653",
      "sha256": null
     }
    ]

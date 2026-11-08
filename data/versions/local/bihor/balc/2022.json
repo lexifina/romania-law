@@ -3,6 +3,111 @@
  "shard": "local/bihor/balc/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--balc-1-2022",
+   "path": "local/bihor/balc/2022/1",
+   "short": "HCL Balc nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 1/2022 privind alegerea Președintelui de ședință pe perioada ianuarie 2022-martie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55266",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-10-2022",
+   "path": "local/bihor/balc/2022/10",
+   "short": "HCL Balc nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 10/2022 privind alegerea președintelui de ședință pentru a conduce ședință ordinară din data de 09 februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55279",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-100-2022",
+   "path": "local/bihor/balc/2022/100",
+   "short": "HCL Balc nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 100/2022 privind alegerea Președintelui de ședință pe perioada octombrie 2022-decembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80365",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-101-2022",
+   "path": "local/bihor/balc/2022/101",
+   "short": "HCL Balc nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 101/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 12 octombrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80366",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-102-2022",
+   "path": "local/bihor/balc/2022/102",
+   "short": "HCL Balc nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 102/2022 privind aprobarea participării la Planul Național de Redresare și Reziliență al României, Componenta C10-Fondul local, Obiectivul de investiții I.3 ”Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”, a notei de fundamentare a investiției, a cheltuielilor aferente proiectului, inclusiv a cheltuielilor neeligibile pentru implementarea proiectului, a documentației tehnico-economice și a indicatorilor tehnico-economici ai proiectului (descrierea sumară a investiției) ”Reabilitarea și Eficientizarea Căminului Cultural din Localitatea Almașu Mic, Comuna Balc, Județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80367",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-103-2022",
+   "path": "local/bihor/balc/2022/103",
+   "short": "HCL Balc nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 103/2022 privind actualizarea contului numerelor cadastrale 52091 și 52092 Balc prin rectificare hotar fără modificarea suprafețelor imobilelor, aparținând domeniului privat al Comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80368",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-104-2022",
+   "path": "local/bihor/balc/2022/104",
+   "short": "HCL Balc nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 104/2022 privind modificarea anexei nr.1 la HCL nr.64 din 31.08.2021 pentru participarea la ”Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” pentru proiectul: „Creșterea eficienței energetice și gestionarea inteligentă a energiei în Școala primară nr. 1 Almașu Mic”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80369",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80369",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-105-2022",
    "path": "local/bihor/balc/2022/105",
    "short": "HCL Balc nr. 105/2022",
@@ -13,6 +118,156 @@
      "from": "2022-11-22",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/80370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-106-2022",
+   "path": "local/bihor/balc/2022/106",
+   "short": "HCL Balc nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 106/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 20 octombrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80379",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-107-2022",
+   "path": "local/bihor/balc/2022/107",
+   "short": "HCL Balc nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 107/2022 privind trecerea din domeniul privat al comunei Balc în domeniul public al comunei Balc al terenului în suprafață de 3025 mp identificat prin Cartea Funciară nr. 52091, Număr cadastral 52091 Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80380",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-108-2022",
+   "path": "local/bihor/balc/2022/108",
+   "short": "HCL Balc nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 108/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 27 octombrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80381",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-109-2022",
+   "path": "local/bihor/balc/2022/109",
+   "short": "HCL Balc nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 109/2022 privind aprobarea proiectului și a cheltuielilor aferente investiției intitulate „Reabilitare Școală primară nr.1 Almasu Mic, comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80382",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-11-2022",
+   "path": "local/bihor/balc/2022/11",
+   "short": "HCL Balc nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 11/2022 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 28 ianuarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55280",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-110-2022",
+   "path": "local/bihor/balc/2022/110",
+   "short": "HCL Balc nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 110/2022 privind aprobarea proiectului și a cheltuielilor aferente investiției intitulate „Reabilitare Școala primară nr.2 Săldăbagiu de Barcău, comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80383",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-111-2022",
+   "path": "local/bihor/balc/2022/111",
+   "short": "HCL Balc nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 111/2022 privind aprobarea proceselor-verbale ale ședințelor Consiliului Local al Comunei Balc din data de 13 septembrie 2022, 20 septembrie 2022, 12 octombrie 2022, 20 octombrie 2022, 27 octombrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80399",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-112-2022",
+   "path": "local/bihor/balc/2022/112",
+   "short": "HCL Balc nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 112/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 31 octombrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80400",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-113-2022",
+   "path": "local/bihor/balc/2022/113",
+   "short": "HCL Balc nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 113/2022 privind rectificarea bugetului local al Comunei Balc pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80401",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-114-2022",
+   "path": "local/bihor/balc/2022/114",
+   "short": "HCL Balc nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 114/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80402",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80402",
      "sha256": null
     }
    ]
@@ -33,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-116-2022",
+   "path": "local/bihor/balc/2022/116",
+   "short": "HCL Balc nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 116/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80404",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-117-2022",
+   "path": "local/bihor/balc/2022/117",
+   "short": "HCL Balc nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 117/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80405",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-118-2022",
+   "path": "local/bihor/balc/2022/118",
+   "short": "HCL Balc nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 118/2022 privind aprobarea listei de priorități în vederea închirierii locuințelor sociale din Comuna Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80406",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80406",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-119-2022",
    "path": "local/bihor/balc/2022/119",
    "short": "HCL Balc nr. 119/2022",
@@ -43,6 +343,21 @@
      "from": "2022-11-22",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/80407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-12-2022",
+   "path": "local/bihor/balc/2022/12",
+   "short": "HCL Balc nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 12/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 09 februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55281",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55281",
      "sha256": null
     }
    ]
@@ -198,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-13-2022",
+   "path": "local/bihor/balc/2022/13",
+   "short": "HCL Balc nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 13/2022 privind aprobarea executării de lucrări pe domneiul privat al Comunei Balc, pentru obiectivul „Stații de reîncărcare pentru vehicule electrice în comuna Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55282",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-130-2022",
    "path": "local/bihor/balc/2022/130",
    "short": "HCL Balc nr. 130/2022",
@@ -348,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-14-2022",
+   "path": "local/bihor/balc/2022/14",
+   "short": "HCL Balc nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 14/2022 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 09 februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55284",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55284",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-140-2022",
    "path": "local/bihor/balc/2022/140",
    "short": "HCL Balc nr. 140/2022",
@@ -358,6 +703,201 @@
      "from": "2023-05-29",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/106409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-15-2022",
+   "path": "local/bihor/balc/2022/15",
+   "short": "HCL Balc nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 15/2022 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Balc din data de 25 februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55285",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-16-2022",
+   "path": "local/bihor/balc/2022/16",
+   "short": "HCL Balc nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 16/2022 privind adoptarea bugetului local al comunei Balc pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55286",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-17-2022",
+   "path": "local/bihor/balc/2022/17",
+   "short": "HCL Balc nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 17/2022 privind aprobarea execuției bugetare pe anul 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55287",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-18-2022",
+   "path": "local/bihor/balc/2022/18",
+   "short": "HCL Balc nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 18/2022 privind modificarea HCL nr.46/29.06.2018 pentru aprobarea Regulamentului pentru acordarea ajutoarelor de urgență din bugetul local la nivelul Comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55288",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-19-2022",
+   "path": "local/bihor/balc/2022/19",
+   "short": "HCL Balc nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 19/2022 privind aprobarea volumului de masă lemnoasă care se va exploata din Partida nr.10010 și Partida 10011, proprietatea publică a Comunei Balc în anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55289",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-2-2022",
+   "path": "local/bihor/balc/2022/2",
+   "short": "HCL Balc nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 2/2022 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local a Comunei Balc din data de 24 decembrie 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55267",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-20-2022",
+   "path": "local/bihor/balc/2022/20",
+   "short": "HCL Balc nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 20/2022 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55290",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-21-2022",
+   "path": "local/bihor/balc/2022/21",
+   "short": "HCL Balc nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 21/2022 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local a Comunei Balc din data de 25 februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57892",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-22-2022",
+   "path": "local/bihor/balc/2022/22",
+   "short": "HCL Balc nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 22/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 29 martie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57893",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-23-2022",
+   "path": "local/bihor/balc/2022/23",
+   "short": "HCL Balc nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 23/2022 privind aprobarea Planului anual de acțiune în domeniul organizării, administrării și acordării serviciilor sociale la nivelul Comunei Balc, județul Bihor pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57894",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-24-2022",
+   "path": "local/bihor/balc/2022/24",
+   "short": "HCL Balc nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 24/2022 privind modificarea Hotărârii Consiliului Local al Comunei Balc nr.20/25.02.2022 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57895",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-25-2022",
+   "path": "local/bihor/balc/2022/25",
+   "short": "HCL Balc nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 25/2022 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru luna decembrie 2021, ianuarie-februarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57896",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-26-2022",
+   "path": "local/bihor/balc/2022/26",
+   "short": "HCL Balc nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 26/2022 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență din comuna Balc pentru anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57897",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57897",
      "sha256": null
     }
    ]
@@ -378,6 +918,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-28-2022",
+   "path": "local/bihor/balc/2022/28",
+   "short": "HCL Balc nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 28/2022 privind aprobarea solicitării prelungirii Scrisorii de garanție nr.177/29.07.2019 de la FNGCIMM SA IFN în valoare de 101.233,00 lei în vederea garantării obligațiilor de plată a avansului de 101.233,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat „CONSTRUIRE CAPELĂ ÎN LOCALITATEA ALMAȘU MIC, COMUNA BALC, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57899",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-29-2022",
+   "path": "local/bihor/balc/2022/29",
+   "short": "HCL Balc nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 29/2022 privind aprobarea „Procedurii de acordare a anulării accesorilor în cazul obligațiilor bugetare restante la data de 31 martie 2020 datorate bugetului local al Comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57900",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-3-2022",
+   "path": "local/bihor/balc/2022/3",
+   "short": "HCL Balc nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 3/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 28 ianuarie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55268",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-30-2022",
+   "path": "local/bihor/balc/2022/30",
+   "short": "HCL Balc nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 30/2022 privind modificarea HCL nr.46/29.06.2018 pentru aprobarea Regulamentului pentru acordarea ajutoarelor de urgență din bugetul local la nivelul Comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/57901",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/57901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-31-2022",
    "path": "local/bihor/balc/2022/31",
    "short": "HCL Balc nr. 31/2022",
@@ -388,6 +988,381 @@
      "from": "2022-04-19",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/57902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-32-2022",
+   "path": "local/bihor/balc/2022/32",
+   "short": "HCL Balc nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 32/2022 privind alegerea Președintelui de ședință pe perioada aprilie 2022-iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79961",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-33-2022",
+   "path": "local/bihor/balc/2022/33",
+   "short": "HCL Balc nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 33/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 20 aprilie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79962",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-34-2022",
+   "path": "local/bihor/balc/2022/34",
+   "short": "HCL Balc nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 34/2022 privind aprobarea devizului general estimativ, a cererii de finanțare, a indicatorilor tehnico-economici (memorial tehnic), cofinanțarea și participarea la Programul Național de Investiții ”Anghel Saligny” pentru obiectivul de investiții: „REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA BALC, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79963",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-35-2022",
+   "path": "local/bihor/balc/2022/35",
+   "short": "HCL Balc nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 35/2022 privind aprobarea proceselor-verbale ale ședințelor Consiliului Local al Comunei Balc din data de 29 martie 2022 și 20 aprilie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79967",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-36-2022",
+   "path": "local/bihor/balc/2022/36",
+   "short": "HCL Balc nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 36/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 26 aprilie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79968",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-37-2022",
+   "path": "local/bihor/balc/2022/37",
+   "short": "HCL Balc nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 37/2022 privind rectificarea bugetului local al Comunei Balc pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79969",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-38-2022",
+   "path": "local/bihor/balc/2022/38",
+   "short": "HCL Balc nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 38/2022 privind aprobarea cuantumului și numărului burselor școlare pentru elevii Școlii Gimnaziale nr. 1 Balc pentru semestrul II, anul școlar 2021-2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79970",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-39-2022",
+   "path": "local/bihor/balc/2022/39",
+   "short": "HCL Balc nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 39/2022 privind aprobarea impozitelor și taxelor locale pe anul 2023",
+   "url": "https://emol.ro/balc-bh/registru-hcl/79971",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/79971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-4-2022",
+   "path": "local/bihor/balc/2022/4",
+   "short": "HCL Balc nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 4/2022 privind aprobarea rețelei școlare pentru unitățile de învățământ preuniversitar de stat care vor funcționa în anul școlar 2022-2023 la nivelul comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55269",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-40-2022",
+   "path": "local/bihor/balc/2022/40",
+   "short": "HCL Balc nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 40/2022 privind alegerea preşedintelui de şedinţă pentru a conduce ședința ordinară din data de 20 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80140",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-41-2022",
+   "path": "local/bihor/balc/2022/41",
+   "short": "HCL Balc nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 41/2022 privind aprobarea procesului verbal al şedinţei ordinare a Consiliului Local al Comunei Balc din data de 26 aprilie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80141",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-42-2022",
+   "path": "local/bihor/balc/2022/42",
+   "short": "HCL Balc nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 42/2022 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local al Comunei Balc din data de 20 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80142",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-43-2022",
+   "path": "local/bihor/balc/2022/43",
+   "short": "HCL Balc nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 43/2022 privind aprobarea participării la Planul Național de Redresare și Reziliență al României, Componenta C10 – Fondul local, Obiectul de investiții I.3 “Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”, a notei de fundamentare a investiției, a cheltuielilor aferente proiectului, inclusiv a cheltuielilor neeligibile pentru implementarea proiectului, a documentatiei tehnico-economice și a indicatorilor tehnico-economici ai proiectului “Reabilitare în vederea eficientizării energetice a căminului cultural din localitatea Almașu Mare, comuna BALC, judetul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80143",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-44-2022",
+   "path": "local/bihor/balc/2022/44",
+   "short": "HCL Balc nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 44/2022 privind aprobarea intenției demarării procedurii de expropriere pentru cauză de utilitate publică a imobilului – teren în suprafață de 42 mp, înscris în cartea funciară nr.50022 Balc , număr cadastral 50022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80144",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-45-2022",
+   "path": "local/bihor/balc/2022/45",
+   "short": "HCL Balc nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 45/2022 privind aprobarea obiectivului de investiții „Construire și dotare grădiniță în Comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80145",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-46-2022",
+   "path": "local/bihor/balc/2022/46",
+   "short": "HCL Balc nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 46/2022 privind aprobarea obiectivului de investiții „Înființare piață în Comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80146",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-47-2022",
+   "path": "local/bihor/balc/2022/47",
+   "short": "HCL Balc nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 47/2022 privind aprobarea obiectivului de investiții „Construire sală de sport școlară sat Balc, Comuna Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80147",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-48-2022",
+   "path": "local/bihor/balc/2022/48",
+   "short": "HCL Balc nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 48/2022 privind aprobarea participarii la Planul Național de Redresare și Reziliență al României, Componenta C10 – Fondul local, Obiectul de investiții I.1 “Mobilitatea urbană durabilă”, subinvestitia I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local), a notei de fundamentare a investiției, a cheltuielilor aferente proiectului, inclusiv a cheltuielilor neeligibile pentru implementarea proiectului, a documentatiei tehnico-economice si a indicatorilor tehnico-economici ai proiectului : “Sistem inteligent de management local, monitorizarea și siguranța spațiului public al comunei Balc, județul Bihor”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80148",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-49-2022",
+   "path": "local/bihor/balc/2022/49",
+   "short": "HCL Balc nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 49/2022 privind alegerea președintelui de ședință pentru a conduce ședința ordinară din data de 31 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80158",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-5-2022",
+   "path": "local/bihor/balc/2022/5",
+   "short": "HCL Balc nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 5/2022 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55270",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-50-2022",
+   "path": "local/bihor/balc/2022/50",
+   "short": "HCL Balc nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 50/2022 privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 20 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80159",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-51-2022",
+   "path": "local/bihor/balc/2022/51",
+   "short": "HCL Balc nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 51/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comuunei Balc din data de 31 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80160",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-52-2022",
+   "path": "local/bihor/balc/2022/52",
+   "short": "HCL Balc nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 52/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80161",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-53-2022",
+   "path": "local/bihor/balc/2022/53",
+   "short": "HCL Balc nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 53/2022 privind modificarea HCL nr.46/29.06.2018 pentru aprobarea Regulamentului pentru acordarea ajutoarelor de urgență din bugetul local la nivelul Comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80162",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-54-2022",
+   "path": "local/bihor/balc/2022/54",
+   "short": "HCL Balc nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 54/2022 privind aprobarea listei de priorități în vederea încheierii locuințelor sociale din Comuna Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80163",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80163",
      "sha256": null
     }
    ]
@@ -408,6 +1383,81 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-56-2022",
+   "path": "local/bihor/balc/2022/56",
+   "short": "HCL Balc nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 56/2022 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Comunei Balc din data de 31 mai 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80165",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-57-2022",
+   "path": "local/bihor/balc/2022/57",
+   "short": "HCL Balc nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 57/2022 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local al Comunei Balc din data de 08 iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80166",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-58-2022",
+   "path": "local/bihor/balc/2022/58",
+   "short": "HCL Balc nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 58/2022 privind rectificarea bugetului local al Comunei Balc pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80167",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-59-2022",
+   "path": "local/bihor/balc/2022/59",
+   "short": "HCL Balc nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 59/2022 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru luna martie 2022-aprilie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80168",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-6-2022",
+   "path": "local/bihor/balc/2022/6",
+   "short": "HCL Balc nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 6/2022 privind aprobarea Raportului privind activitatea asistenților personali pe semestrul II, anul 2021",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55271",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-60-2022",
    "path": "local/bihor/balc/2022/60",
    "short": "HCL Balc nr. 60/2022",
@@ -418,6 +1468,66 @@
      "from": "2022-11-21",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/80169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-61-2022",
+   "path": "local/bihor/balc/2022/61",
+   "short": "HCL Balc nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 61/2022 privind alegerea președintelui de ședință pentru a conduce ședința ordinară din data de 30 iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80170",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-62-2022",
+   "path": "local/bihor/balc/2022/62",
+   "short": "HCL Balc nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 62/2022 privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Local al Comunei Balc din data de 08 iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80171",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-63-2022",
+   "path": "local/bihor/balc/2022/63",
+   "short": "HCL Balc nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 63/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 30 iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80172",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-64-2022",
+   "path": "local/bihor/balc/2022/64",
+   "short": "HCL Balc nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 64/2022 privind aprobarea schimbării destinației imobilului ”Grădinița Săldăbagiu de Barcău” din satul Săldăbagiu de Barcău, nr.141, aflat în domeniul public al comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80173",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80173",
      "sha256": null
     }
    ]
@@ -438,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-66-2022",
+   "path": "local/bihor/balc/2022/66",
+   "short": "HCL Balc nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 66/2022 privind inițierea procedurii de concesionare a suprafeței de 20.000 mp teren intravilan sat Balc, comuna Balc, județul Bihor, înscris în CF 51853 Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80175",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-67-2022",
    "path": "local/bihor/balc/2022/67",
    "short": "HCL Balc nr. 67/2022",
@@ -448,6 +1573,321 @@
      "from": "2022-11-21",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/80176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-68-2022",
+   "path": "local/bihor/balc/2022/68",
+   "short": "HCL Balc nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 68/2022 privind alegerea Președintelui de ședință pe perioada iulie 2022-septembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80177",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-69-2022",
+   "path": "local/bihor/balc/2022/69",
+   "short": "HCL Balc nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 69/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 13 iulie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80178",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-7-2022",
+   "path": "local/bihor/balc/2022/7",
+   "short": "HCL Balc nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 7/2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav, pentru anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55272",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-70-2022",
+   "path": "local/bihor/balc/2022/70",
+   "short": "HCL Balc nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 70/2022 privind modificarea Hotărârii Consiliului Local al Comunei Balc nr.24/29.03.2022 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80179",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-71-2022",
+   "path": "local/bihor/balc/2022/71",
+   "short": "HCL Balc nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 71/2022 privind aprobarea proceselor-verbale ale ședințelor Consiliului Local al Comunei Balc din data de 30 iunie 2022 și 13 iulie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80180",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-72-2022",
+   "path": "local/bihor/balc/2022/72",
+   "short": "HCL Balc nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 72/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 26 iulie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80181",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-73-2022",
+   "path": "local/bihor/balc/2022/73",
+   "short": "HCL Balc nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 73/2022 privind rectificarea bugetului local al Comunei Balc pe anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80182",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-74-2022",
+   "path": "local/bihor/balc/2022/74",
+   "short": "HCL Balc nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 74/2022 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru luna mai 2022-iunie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80183",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-75-2022",
+   "path": "local/bihor/balc/2022/75",
+   "short": "HCL Balc nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 75/2022 privind aprobarea Raportului privind activitatea asistenților personali pe semestrul I, anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80184",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-76-2022",
+   "path": "local/bihor/balc/2022/76",
+   "short": "HCL Balc nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 76/2022 privind stadiul de înscriere a datelor în Registrul agricol al comunei Balc, pentru semestrul I, anul 2022 și stabilirea măsurilor pentru eficientizare acestei acivități în anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80185",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-77-2022",
+   "path": "local/bihor/balc/2022/77",
+   "short": "HCL Balc nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 77/2022 privind modificarea HCL nr.41/19.07.2019 privind aprobarea Regulamentului de repartizare și închiriere a locuințelor sociale din Comuna Balc, județul Bihor",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80186",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-78-2022",
+   "path": "local/bihor/balc/2022/78",
+   "short": "HCL Balc nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 78/2022 privind aprobarea listei de priorități în vederea închirierii locuințelor sociale din Comuna Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80187",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-79-2022",
+   "path": "local/bihor/balc/2022/79",
+   "short": "HCL Balc nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 79/2022 privind aprobarea procesului-verbal al ședinței Consiliului Local al Comunei Balc din data de 26 iulie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80188",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-8-2022",
+   "path": "local/bihor/balc/2022/8",
+   "short": "HCL Balc nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 8/2022 privind aprobarea trecerii din domeniul public al comunei Balc în doemniul privat al comunei Balc al terenului în suprafață de 19862 mp identificat prin Cartea Funciară nr. 50255, Număr cadastral 50255",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55273",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-80-2022",
+   "path": "local/bihor/balc/2022/80",
+   "short": "HCL Balc nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 80/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 18 august 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80189",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-81-2022",
+   "path": "local/bihor/balc/2022/81",
+   "short": "HCL Balc nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 81/2022 privind aprobarea unei documentații cadastrale, având ca obiect atribuirea unui număr cadastral imobilului Școala cu clasele I-IV Ghida",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80190",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-82-2022",
+   "path": "local/bihor/balc/2022/82",
+   "short": "HCL Balc nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 82/2022 privind aprobarea unei documentații cadastrale, având ca obiect atribuirea unui număr cadastral imobilului Școala veche Almașu Mare",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80191",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-83-2022",
+   "path": "local/bihor/balc/2022/83",
+   "short": "HCL Balc nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 83/2022 privind aprobarea Planului Urbanistic Zonal-Balc, pentru ”PUZ CONSTRUIRE SALĂ DE SPORT ȘCOLARĂ SAT BALC, COMUNA BALC, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80192",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-84-2022",
+   "path": "local/bihor/balc/2022/84",
+   "short": "HCL Balc nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 84/2022 privind aprobarea Planului Urbanistic Zonal-Balc, pentru PUZ „CONSTRUIRE ȘI DOTARE GRĂDINIȚĂ ÎN COMUNA BALC, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80193",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-85-2022",
+   "path": "local/bihor/balc/2022/85",
+   "short": "HCL Balc nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 85/2022 privind aprobarea Planului Urbanistic Zonal-Balc, pentru PUZ „ÎNFIINȚARE PIAȚĂ ÎN COMUNA BALC, JUDEȚUL BIHOR”",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80194",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-86-2022",
+   "path": "local/bihor/balc/2022/86",
+   "short": "HCL Balc nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 86/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 09 septembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80204",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80204",
      "sha256": null
     }
    ]
@@ -468,6 +1908,156 @@
    ]
   },
   {
+   "slug": "hcl-bihor--balc-88-2022",
+   "path": "local/bihor/balc/2022/88",
+   "short": "HCL Balc nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 88/2022 privind aprobarea proceselor-verbale ale ședințelor Consiliului Local al Comunei Balc din data de 18 august 2022 și 09 septembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80210",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-89-2022",
+   "path": "local/bihor/balc/2022/89",
+   "short": "HCL Balc nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 89/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Balc din data de 13 septembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80211",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-9-2022",
+   "path": "local/bihor/balc/2022/9",
+   "short": "HCL Balc nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 9/2022 privind aprobarea Planului local de acțiune la nivelul Comunei Balc privind incluziunea cetățenilor români aparținând minorității rome pentru anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/55274",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/55274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-90-2022",
+   "path": "local/bihor/balc/2022/90",
+   "short": "HCL Balc nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 90/2022 privind aprobarea Planului Urbanistic General al Comunei Balc și al Regulamentului Local de Urbanism",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80212",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-91-2022",
+   "path": "local/bihor/balc/2022/91",
+   "short": "HCL Balc nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 91/2022 privind aprobarea intenției de concesionare a unor spații cu destinația de cabinet medical din imobilul Dispensar medical Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80213",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-92-2022",
+   "path": "local/bihor/balc/2022/92",
+   "short": "HCL Balc nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 92/2022 privind aprobarea intenției de cumpărare a terenului în suprafață de 5000 mp, situat în extravilanul localității Balc, având categoria de folosință arabil, identificat prin numărul cadastral 51906, CF nr. 51906",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80214",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-93-2022",
+   "path": "local/bihor/balc/2022/93",
+   "short": "HCL Balc nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 93/2022 privind modificarea Hotărârii Consiliului Local Balc nr.7 din 28.01.2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav pentru anul 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80215",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-94-2022",
+   "path": "local/bihor/balc/2022/94",
+   "short": "HCL Balc nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 94/2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80216",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-95-2022",
+   "path": "local/bihor/balc/2022/95",
+   "short": "HCL Balc nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 95/2022 privind aprobarea reducerii chiriei cu un procent de 50% pentru pășunile închiriate de către deținătorii de animale, aflate în administrarea comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80217",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-96-2022",
+   "path": "local/bihor/balc/2022/96",
+   "short": "HCL Balc nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 96/2022 privind aprobarea drepturilor bănești aferente personalului didactic și a personalului didactic auxiliar, pentru cheltuielile de deplasare, transport la și de la locul de muncă, pentru luna iulie 2022-august 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80218",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80218",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--balc-97-2022",
    "path": "local/bihor/balc/2022/97",
    "short": "HCL Balc nr. 97/2022",
@@ -478,6 +2068,36 @@
      "from": "2022-11-21",
      "units": 1,
      "source_url": "https://emol.ro/balc-bh/registru-hcl/80219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-98-2022",
+   "path": "local/bihor/balc/2022/98",
+   "short": "HCL Balc nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 98/2022 privind aprobarea ordinii de zi a ședinței extraordinare, cu convocare de îndată a Consiliului Local al Comunei Balc din data de 20 septembrie 2022",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80246",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--balc-99-2022",
+   "path": "local/bihor/balc/2022/99",
+   "short": "HCL Balc nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Balc nr. 99/2022 privind însușirea și aprobarea documentației cadastrale de dezlipire a imobilului având numărul cadastral 51853 Balc, cu suprafața de 46900 mp, aparținând domeniului privat al Comunei Balc",
+   "url": "https://emol.ro/balc-bh/registru-hcl/80247",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/balc-bh/registru-hcl/80247",
      "sha256": null
     }
    ]

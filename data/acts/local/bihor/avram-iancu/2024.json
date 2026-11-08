@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-8-2024",
+"path": "local/bihor/avram-iancu/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 8/2024 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al UAT Avram Iancu pentru activitatea desfășurată în anul 2023",
+"short": "HCL Avram Iancu nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-11",
+"latest": "2024-03-11",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/144927",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-9-2024",
 "path": "local/bihor/avram-iancu/2024/9",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-13-2024",
+"path": "local/bihor/avram-iancu/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 13/2024 privind numirea sefului Serviciului Voluntar pentru Situații de Urgență din comuna Avram Iancu",
+"short": "HCL Avram Iancu nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-11",
+"latest": "2024-04-11",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/150154",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +400,28 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-19-2024",
+"path": "local/bihor/avram-iancu/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 19/2024 privind aprobare modificare contract de închiriere nr. 3961 din 16.06.2021 încheiat între comuna Avram Iancu și SC CRISALE ALBU SRL",
+"short": "HCL Avram Iancu nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-20",
+"latest": "2024-05-20",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/154658",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-20-2024",
 "path": "local/bihor/avram-iancu/2024/20",
 "kind": "local",
@@ -419,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-23-2024",
+"path": "local/bihor/avram-iancu/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 23/2024 privind revocarea Hotărârii de Consiliu nr 19 / 2024 privind modificare contract de închiriere nr. 3961 din 16.06.2021 încheiat între comuna Avram Iancu și SC CRISALE ALBU SRL",
+"short": "HCL Avram Iancu nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-19",
+"latest": "2024-07-19",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/161094",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

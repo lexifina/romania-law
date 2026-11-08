@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--lazuri-de-beius-12-2026",
+   "path": "local/bihor/lazuri-de-beius/2026/12",
+   "short": "HCL Lazuri de Beiuș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 12/2026",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/259527",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/259527",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lazuri-de-beius-13-2026",
    "path": "local/bihor/lazuri-de-beius/2026/13",
    "short": "HCL Lazuri de Beiuș nr. 13/2026",
@@ -343,6 +358,21 @@
      "from": "2026-07-02",
      "units": 1,
      "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/275389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-31-2026",
+   "path": "local/bihor/lazuri-de-beius/2026/31",
+   "short": "HCL Lazuri de Beiuș nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 31/2026",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/275390",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/275390",
      "sha256": null
     }
    ]
@@ -753,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--lazuri-de-beius-7-2026",
+   "path": "local/bihor/lazuri-de-beius/2026/7",
+   "short": "HCL Lazuri de Beiuș nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 7/2026",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/254719",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/254719",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lazuri-de-beius-8-2026",
    "path": "local/bihor/lazuri-de-beius/2026/8",
    "short": "HCL Lazuri de Beiuș nr. 8/2026",
@@ -763,6 +808,21 @@
      "from": "2026-03-13",
      "units": 1,
      "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/254720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazuri-de-beius-9-2026",
+   "path": "local/bihor/lazuri-de-beius/2026/9",
+   "short": "HCL Lazuri de Beiuș nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lazuri de Beiuș nr. 9/2026 privind alegerea Preşedintelui de şedinţã",
+   "url": "https://emol.ro/lazuridebeius-bh/registru-hcl/259524",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/lazuridebeius-bh/registru-hcl/259524",
      "sha256": null
     }
    ]

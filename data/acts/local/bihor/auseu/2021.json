@@ -3,6 +3,50 @@
 "shard": "local/bihor/auseu/2021",
 "acts": [
 {
+"slug": "hcl-bihor--auseu-1-2021",
+"path": "local/bihor/auseu/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aușeu nr. 1/2021 privind aprobare proces verbal Av6nd in vedere prevederile art. 138 alin. (15) din Ordonanla de urgenld nr.5712019 privind Codul administrativ, cu modificdrile qi completdrile ulterioare; In baza prevederilor art. 196 alin. (1) lit.a) qi art.l97 alin. 2) din Ordonanla de urgen!5 nr. 5712019 privind Codul administrativ, cu modificdrile qi completdrile ulterioare, Consiliul Local al Comunei AU$EU, H",
+"short": "HCL Aușeu nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://www.auseu.ro/public/hotarari-ale-autoritatii-deliberative?page=52",
+"council": "bihor/auseu",
+"council_name": "Consiliul Local al Comunei Aușeu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--auseu-5-2021",
+"path": "local/bihor/auseu/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aușeu nr. 5/2021 privind aprobarea Planului de Acfiuni pentru lucririle de interes local care se vor executa cu beneficiarii de ajutor social in anul2021 Av6nd in vedere: - Referatul de aprobare m.324119.01.2021al Primarului Comunei Auqeu; - Raportul de specialitate nr. 325119.01.2021 intocmit de dl",
+"short": "HCL Aușeu nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://www.auseu.ro/public/hotarari-ale-autoritatii-deliberative?page=51",
+"council": "bihor/auseu",
+"council_name": "Consiliul Local al Comunei Aușeu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--auseu-6-2021",
 "path": "local/bihor/auseu/2021/6",
 "kind": "local",

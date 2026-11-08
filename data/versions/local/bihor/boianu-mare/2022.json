@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/bihor/boianu-mare/2022",
+ "acts": [
+  {
+   "slug": "hcl-bihor--boianu-mare-32-2022",
+   "path": "local/bihor/boianu-mare/2022/32",
+   "short": "HCL Boianu Mare nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 32/2022",
+   "url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Consiliul-Local-Boianu-Mare-HCL-nr.32din-11.06.2022dinRegulament-de-organizare-si-functionare-a-CL.pdf",
+   "versions": [
+    {
+     "from": "2022-06-11",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Consiliul-Local-Boianu-Mare-HCL-nr.32din-11.06.2022dinRegulament-de-organizare-si-functionare-a-CL.pdf",
+     "sha256": "b55de16df3b0757d649984fd51b9dc9d2efad9e7f5d1528d4433b6714c9dbf95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-33-2022",
+   "path": "local/bihor/boianu-mare/2022/33",
+   "short": "HCL Boianu Mare nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 33/2022",
+   "url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-33-din-29.06.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-33-din-29.06.2022.pdf",
+     "sha256": "9efb235ce66ce24f1e362058bbbd0b1e8561b22d5b24eb5a0288617f823a3425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-34-2022",
+   "path": "local/bihor/boianu-mare/2022/34",
+   "short": "HCL Boianu Mare nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 34/2022",
+   "url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-34-din-29.06.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-34-din-29.06.2022.pdf",
+     "sha256": "acc274af5b7cedaf572554a0b4f9b783592bcdf6934884434e11a3f84f222fb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-35-2022",
+   "path": "local/bihor/boianu-mare/2022/35",
+   "short": "HCL Boianu Mare nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 35/2022",
+   "url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-35-din-29.06.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-35-din-29.06.2022.pdf",
+     "sha256": "85f846be0594755bcfd9cc7475b0b8dc4dac7aa6d457afc0c3a72a91cf484497"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-36-2022",
+   "path": "local/bihor/boianu-mare/2022/36",
+   "short": "HCL Boianu Mare nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 36/2022",
+   "url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-36-din-29.06.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-36-din-29.06.2022.pdf",
+     "sha256": "f6c81736a93901bca50b09d09b25f2f063fb6eea5c6ac12a6d8296dffa4bbacf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-37-2022",
+   "path": "local/bihor/boianu-mare/2022/37",
+   "short": "HCL Boianu Mare nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 37/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-37-din-18.07.20222.pdf",
+     "sha256": "eb5feea84de526842088c2fde46f2d4421aabaa76bb70f246d041246fd0d9ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-38-2022",
+   "path": "local/bihor/boianu-mare/2022/38",
+   "short": "HCL Boianu Mare nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 38/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr.-38-din-18.07.2022.pdf",
+     "sha256": "45dc69c817c6ec740b6d57803c2f8fd218d5d89d2e3b8964c631d3d7703b83af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-39-2022",
+   "path": "local/bihor/boianu-mare/2022/39",
+   "short": "HCL Boianu Mare nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 39/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr-39-din-18.07.2022.pdf",
+     "sha256": "f321de7fb40c1f210a37f6b9c9c0b6c5410266b79ac5d5d5c5e01f5557681fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-40-2022",
+   "path": "local/bihor/boianu-mare/2022/40",
+   "short": "HCL Boianu Mare nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 40/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr-40-din-18.07.2022.pdf",
+     "sha256": "b838eab53fe54e683db45830b623c90c84a38cf57df6c6a825e31983cbdbc18b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-41-2022",
+   "path": "local/bihor/boianu-mare/2022/41",
+   "short": "HCL Boianu Mare nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 41/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr-41-din-18.07.2022.pdf",
+     "sha256": "0f6661e48142308c399c45e2875741a6933dc11ac0abd3baf9da2d6b6b51700c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-42-2022",
+   "path": "local/bihor/boianu-mare/2022/42",
+   "short": "HCL Boianu Mare nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 42/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr-42-din-18.07.2022.pdf",
+     "sha256": "a3eef0f1a0534a5752759d903ec6d8b1bfa991a1cc3abcf0c98e18d431969896"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-43-2022",
+   "path": "local/bihor/boianu-mare/2022/43",
+   "short": "HCL Boianu Mare nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 43/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-iulie-2/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/07/Boianu-Mare-HCL-nr-43-din-18.07.2022.pdf",
+     "sha256": "4d7730938838b2584203a8275d591bade85c94d2a387aca203176a7d036420c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-51-2022",
+   "path": "local/bihor/boianu-mare/2022/51",
+   "short": "HCL Boianu Mare nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 51/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-51-din-08.11.2022.pdf",
+     "sha256": "b13e578bda45c9e4dc1e653614270681a77494bb02fbaafda7752e66715df4da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-52-2022",
+   "path": "local/bihor/boianu-mare/2022/52",
+   "short": "HCL Boianu Mare nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 52/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-52-din-08.11.2022.pdf",
+     "sha256": "5ba40837f959baf5097e656f3b1a0f3ae6e38584f338ed9fe92e2f132e776bf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-53-2022",
+   "path": "local/bihor/boianu-mare/2022/53",
+   "short": "HCL Boianu Mare nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 53/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-53-din-08.11.2022.pdf",
+     "sha256": "7f63ecddcd43226f657ce6fa49da025a1f4dc8a2711e7e270dea6af0bcee80f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-54-2022",
+   "path": "local/bihor/boianu-mare/2022/54",
+   "short": "HCL Boianu Mare nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 54/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-54-din-08.11.2022.pdf",
+     "sha256": "e6af5ee156ce6aa7f0e3ea7b2a4b750face6e4cfc890d98f8d51e778839a8668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-55-2022",
+   "path": "local/bihor/boianu-mare/2022/55",
+   "short": "HCL Boianu Mare nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 55/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-55-din-08.11.2022.pdf",
+     "sha256": "b2bb826c6aa12cf49c7b032a5a49a69a80ee595dd0c5ab3870f623bd5bcda096"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-56-2022",
+   "path": "local/bihor/boianu-mare/2022/56",
+   "short": "HCL Boianu Mare nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 56/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-56-din-08.11.2022.pdf",
+     "sha256": "ff4ccb705298d9d79598a48c3a06ed2fea7381b7e32f0a54528956c8fa11abdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--boianu-mare-57-2022",
+   "path": "local/bihor/boianu-mare/2022/57",
+   "short": "HCL Boianu Mare nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Boianu Mare nr. 57/2022",
+   "url": "https://www.comuna-boianumare.ro/hotarari-luna-noiembrie-2/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.comuna-boianumare.ro/wp-content/uploads/2022/11/Boianu-Mare-HCL-nr.-57-din-08.11.2022.pdf",
+     "sha256": "4fd467efeebbde637e2a24bb2489fa83382edbfb63b6b1f2cf2148b5c801cb7a"
+    }
+   ]
+  }
+ ]
+}

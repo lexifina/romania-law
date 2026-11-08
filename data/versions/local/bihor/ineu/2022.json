@@ -3,6 +3,396 @@
  "shard": "local/bihor/ineu/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--ineu-1-2022",
+   "path": "local/bihor/ineu/2022/1",
+   "short": "HCL Ineu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 1/2022 privind aprobarea procesului verbal de ședință",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57091",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-10-2022",
+   "path": "local/bihor/ineu/2022/10",
+   "short": "HCL Ineu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 10/2022 privind aprobarea unui schimb de teren în localitatea Husasău de Criș, comuna Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57100",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-11-2022",
+   "path": "local/bihor/ineu/2022/11",
+   "short": "HCL Ineu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 11/2022 privind aprobarea procesului verbal de ședință",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57135",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-12-2022",
+   "path": "local/bihor/ineu/2022/12",
+   "short": "HCL Ineu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 12/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu de azi 01.03.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57136",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-13-2022",
+   "path": "local/bihor/ineu/2022/13",
+   "short": "HCL Ineu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 13/2022 privind aprobarea Bugetului local pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57137",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-14-2022",
+   "path": "local/bihor/ineu/2022/14",
+   "short": "HCL Ineu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 14/2022 privind aprobarea modificării prețului și tarifului pentru serviciile de apă și canalizare prestate de Compania de Apă Oradea SA",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57138",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-15-2022",
+   "path": "local/bihor/ineu/2022/15",
+   "short": "HCL Ineu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 15/2022 privind aprobarea metodologiei, cuantumul maxim și situațiile deosebite pentru care se acordă ajutoare de urgență din bugetul local în baza Legii 416/2001",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57139",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-16-2022",
+   "path": "local/bihor/ineu/2022/16",
+   "short": "HCL Ineu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 16/2022 privind alegerea președintelui de ședință pentru următoarele trei luni",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63608",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-17-2022",
+   "path": "local/bihor/ineu/2022/17",
+   "short": "HCL Ineu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 17/2022 privind aprobarea procesului verbal de ședință",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63609",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-18-2022",
+   "path": "local/bihor/ineu/2022/18",
+   "short": "HCL Ineu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 18/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu de azi 20.04.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63610",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-19-2022",
+   "path": "local/bihor/ineu/2022/19",
+   "short": "HCL Ineu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 19/2022 privind aprobarea Bugetului local rectificat pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63611",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-2-2022",
+   "path": "local/bihor/ineu/2022/2",
+   "short": "HCL Ineu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 2/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu de azi 09.02.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57092",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-20-2022",
+   "path": "local/bihor/ineu/2022/20",
+   "short": "HCL Ineu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 20/2022 privind aprobarea Parteneriatului între comuna Ineu ca lider de proiect (partener 1) și comunele Săcădat -partner 2, Copăcel - partener 3, Drăgești - partner 4, din județul Bihor, pentru realizarea proiectului ''Înființare rețea de distribuție gaze naturale în comunele Ineu, Săcădat, Copăcel și Drăgești, județul Bihor''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63612",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-21-2022",
+   "path": "local/bihor/ineu/2022/21",
+   "short": "HCL Ineu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 21/2022 privind aprobarea devizului general estimativ, a cererii de finanțare, a indicatorilor tehnico-economici, cofinanțarea și participarea la Programul Național de Investiții ''Anghel Saligny'' pentru obiectivul de investiții ''Înființare rețea de distribuție gaze naturale în comunele Ineu, Săcădat, Copăcel și Drăgești, județul Bihor''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63613",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-22-2022",
+   "path": "local/bihor/ineu/2022/22",
+   "short": "HCL Ineu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 22/2022 privind aprobarea devizului general estimativ a indicatorilor tehnico-economici pentru obiectivul de investiții Modernizare strada 10, tronson 2, Husasău de Criș, couna Ineu''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63614",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-23-2022",
+   "path": "local/bihor/ineu/2022/23",
+   "short": "HCL Ineu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 23/2022 privind aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții ''Lărgire pod strada 10 Husasău de Criș, comuna Ineu''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63615",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-24-2022",
+   "path": "local/bihor/ineu/2022/24",
+   "short": "HCL Ineu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 24/2022 privind aprobarea devizului general și a indicatorilor tehnico-economici (memoriu tehnic) pentru obiectivul de investiții ''Construire hala metalică (la sediul Comunei Ineu)",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63616",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-25-2022",
+   "path": "local/bihor/ineu/2022/25",
+   "short": "HCL Ineu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 25/2022 privind modificarea HCL nr. 81/15.12.2021 privind concesionarea directă fără licitație publică a unui teren",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63617",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-26-2022",
+   "path": "local/bihor/ineu/2022/26",
+   "short": "HCL Ineu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 26/2022 privind aprobarea Planului de asigurare cu resurse financiare, materiale și umane necesare pentru gestionarea Situațiilor de Urgență în anul 2022 în comuna Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63618",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-27-2022",
+   "path": "local/bihor/ineu/2022/27",
+   "short": "HCL Ineu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 27/2022 privind aprobarea Planului de analiză și acoperire a riscurilor în comuna Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63619",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-28-2022",
+   "path": "local/bihor/ineu/2022/28",
+   "short": "HCL Ineu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 28/2022 privind aprobarea închirierii utilajului buldoexcavactor aflat în proprietatea privată a comunei Ineu, județul Bihor, a Regulamentului privind modalitatea de închiriere și a taxei speciale de închiriere a utilajului buldoexcavator aflat în proprietatea privată a comunei Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63620",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-29-2022",
+   "path": "local/bihor/ineu/2022/29",
+   "short": "HCL Ineu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 29/2022 privind aprobarea cuantumului și numărul burselor școlare pentru elevii Școlii Gimnaziale ''Puiu Sever'' Ineu, pentru anul 2021-2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63621",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-3-2022",
+   "path": "local/bihor/ineu/2022/3",
+   "short": "HCL Ineu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 3/2022 privind aprobarea Bugetului local rectificat pe anul 2021",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57093",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-30-2022",
+   "path": "local/bihor/ineu/2022/30",
+   "short": "HCL Ineu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 30/2022 privind stadiul de înscriere a datelor în Registrul agricol al comunei Ineu pentru semestrul II al anului 2021 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63622",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-31-2022",
+   "path": "local/bihor/ineu/2022/31",
+   "short": "HCL Ineu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 31/2022 privind aprobarea reorganizării a modificării organigramei și a statului de funcții din cadrul aparatului de specialitate al primarului comunei Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63623",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-32-2022",
+   "path": "local/bihor/ineu/2022/32",
+   "short": "HCL Ineu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 32/2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63624",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63624",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-33-2022",
    "path": "local/bihor/ineu/2022/33",
    "short": "HCL Ineu nr. 33/2022",
@@ -13,6 +403,471 @@
      "from": "2022-06-17",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/63625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-34-2022",
+   "path": "local/bihor/ineu/2022/34",
+   "short": "HCL Ineu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 34/2022 privind aprobarea procesului verbal de ședință din 20.04.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63651",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-35-2022",
+   "path": "local/bihor/ineu/2022/35",
+   "short": "HCL Ineu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 35/2022 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Ineu de azi 18.05.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63652",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-36-2022",
+   "path": "local/bihor/ineu/2022/36",
+   "short": "HCL Ineu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 36/2022 privind stabilirea modalității de gestiune a serviciului de iluminat public în comuna Ineu, județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63653",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-37-2022",
+   "path": "local/bihor/ineu/2022/37",
+   "short": "HCL Ineu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 37/2022 privind aprobarea Bugetului local rectificat pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63654",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-38-2022",
+   "path": "local/bihor/ineu/2022/38",
+   "short": "HCL Ineu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 38/2022 privind aprobarea Planului de investiții pe anul 2022, pentru serviciul de apă și canalizare a comunei Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63655",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-39-2022",
+   "path": "local/bihor/ineu/2022/39",
+   "short": "HCL Ineu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 39/2022 privind aprobarea participării la proiectul ''Elaborarea în format GIS a Planului Urbanistic General la nivelul comunei Ineu''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63656",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-4-2022",
+   "path": "local/bihor/ineu/2022/4",
+   "short": "HCL Ineu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 4/2022 privind aprobarea modificării HCL nr. 58 din 15.09.2021 apărute în urma modificărilor legislative, pentru Programul pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 150 de unități de învățământ preuniversitar de stat",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57094",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-40-2022",
+   "path": "local/bihor/ineu/2022/40",
+   "short": "HCL Ineu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 40/2022 privind aprobarea participării în cadrul proiectului ''Reabilitarea energetică moderată a clădirii Primăriei Comunei Ineu''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63657",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-41-2022",
+   "path": "local/bihor/ineu/2022/41",
+   "short": "HCL Ineu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 41/2022 privind aprobarea participării în cadrul proiectului ''Sistem inteligent de management local la nivelul Comunei Ineu, județul Bihor''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/63658",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/63658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-42-2022",
+   "path": "local/bihor/ineu/2022/42",
+   "short": "HCL Ineu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 42/2022 privind aprobarea procesului verbal de ședință din 18.05.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100462",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-43-2022",
+   "path": "local/bihor/ineu/2022/43",
+   "short": "HCL Ineu nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 43/2022 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului Local Ineu azi 18.05.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100463",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-44-2022",
+   "path": "local/bihor/ineu/2022/44",
+   "short": "HCL Ineu nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 44/2022 privind aprobarea Bugetului local rectificat pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100464",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-45-2022",
+   "path": "local/bihor/ineu/2022/45",
+   "short": "HCL Ineu nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 45/2022 privind aprobarea constituirii unui nr. cad. în suprafaţă de 666 mp din top. 1064-59",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100465",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-46-2022",
+   "path": "local/bihor/ineu/2022/46",
+   "short": "HCL Ineu nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 46/2022 privind actualizarea echipei mobile pentru intervenţia de urgenţă în cazurile de violenţă domestică",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100466",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-47-2022",
+   "path": "local/bihor/ineu/2022/47",
+   "short": "HCL Ineu nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 47/2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100467",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-48-2022",
+   "path": "local/bihor/ineu/2022/48",
+   "short": "HCL Ineu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 48/2022 privind actualizarea devizului general şi a ind. tehnico-economici pentru obiectivul de investiţii - Lărgire pod str.10 Husasău de Criş, jud.Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100468",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-49-2022",
+   "path": "local/bihor/ineu/2022/49",
+   "short": "HCL Ineu nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 49/2022 privind aprobarea devizului general şi a ind. tehnico-economici (memoriu tehnic) pentru obiectivulde investiţii - Construire teren de sport, com. Ineu, sat Ineu, jud. Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100469",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-5-2022",
+   "path": "local/bihor/ineu/2022/5",
+   "short": "HCL Ineu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 5/2022 privind actualizarea bugetului proiectului, a cheltuielilor aferente proiectului, a indicatorilor tehnico-economici și a bugetului previzionar aferente proiectului ''Creșterea capacității de gestionare a crizei sanitare COVID - 19 pentru elevii și cadrele didactice din Comuna Ineu, județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57095",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-50-2022",
+   "path": "local/bihor/ineu/2022/50",
+   "short": "HCL Ineu nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 50/2022 privind aprobarea Planului unitar de prevenire şi combatere a vectorilor pe raza comunei Ineu pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100470",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-51-2022",
+   "path": "local/bihor/ineu/2022/51",
+   "short": "HCL Ineu nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 51/2022 privind aprobarea Procesului verbal de şedinţă din 22.06.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100471",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-52-2022",
+   "path": "local/bihor/ineu/2022/52",
+   "short": "HCL Ineu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 52/2022 privind alegerea preşedintelui de şedinţă pentru următoarele trei luni",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100472",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-53-2022",
+   "path": "local/bihor/ineu/2022/53",
+   "short": "HCL Ineu nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 53/2022 privind aprobarea ordinii de zi şedinţei ordinare din 27.07.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100473",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-54-2022",
+   "path": "local/bihor/ineu/2022/54",
+   "short": "HCL Ineu nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 54/2022 privind stadiul de înscriere a datelor în Registrul agricol al com. Ineu pentru sem. I al anului 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100474",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-55-2022",
+   "path": "local/bihor/ineu/2022/55",
+   "short": "HCL Ineu nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 55/2022 privind revocarea Hotărârii Consiliului local al comunei Ineu nr. 45- 22.06.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100475",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-56-2022",
+   "path": "local/bihor/ineu/2022/56",
+   "short": "HCL Ineu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 56/2022 privind aprobarea scoaterii din funcţiune, în vederea casării unor mijloace fixe",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100476",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-57-2022",
+   "path": "local/bihor/ineu/2022/57",
+   "short": "HCL Ineu nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 57/2022 privind aprobarea constituirii a două numere cadastrale şi introducerea lor în domeniul privat-public al comunei Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100477",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-58-2022",
+   "path": "local/bihor/ineu/2022/58",
+   "short": "HCL Ineu nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 58/2022 privind aprobarea procesului-verbal de ședință din 26.07.2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100487",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-59-2022",
+   "path": "local/bihor/ineu/2022/59",
+   "short": "HCL Ineu nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 59/2022 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100488",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-6-2022",
+   "path": "local/bihor/ineu/2022/6",
+   "short": "HCL Ineu nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 6/2022 privind aprobarea devizului general, a cereii de finanțare, a indicatorilor tehnico-economici actualizați și a cofinanțării pentru obiectivul de investiții ''Realizare Trotuare și asigurarea scurgerii apelor pluviale în comuna Ineu, județul Bihor, în cadrul Programului Național de Investiții ''Anghel Saligny''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57096",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-60-2022",
+   "path": "local/bihor/ineu/2022/60",
+   "short": "HCL Ineu nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 60/2022 privind aprobarea Bugetului local rectificat pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100489",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-61-2022",
+   "path": "local/bihor/ineu/2022/61",
+   "short": "HCL Ineu nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 61/2022 privind desemnarea reprezentanților Consiliului local al comunei Ineu în Consiliul de Administrație al Școlii Gomnaziale „Puiu Sever” Ineu pentru anul 2022-2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100490",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100490",
      "sha256": null
     }
    ]
@@ -58,6 +913,21 @@
      "from": "2023-04-18",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/100493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-65-2022",
+   "path": "local/bihor/ineu/2022/65",
+   "short": "HCL Ineu nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 65/2022 privind aprobarea actualizării de Strategiei de Dezvoltare Durabilă a comunei Ineu pentru perioada 2021-2027",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100494",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100494",
      "sha256": null
     }
    ]
@@ -118,6 +988,21 @@
      "from": "2023-04-18",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/100498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-7-2022",
+   "path": "local/bihor/ineu/2022/7",
+   "short": "HCL Ineu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 7/2022 privind aprobarea devizului general actualizat, a cererii de finanțare, a indicatorilor tehnico-economici actualizați, cofinanțarea și participarea la Programul Național de Investiții ''Anghel Saligny'', pentru obiectivul de investiții ''Extindere rețele de apă și canalizare menajeră în comuna Ineu, județul Bihor''",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57097",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57097",
      "sha256": null
     }
    ]
@@ -273,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-8-2022",
+   "path": "local/bihor/ineu/2022/8",
+   "short": "HCL Ineu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 8/2022 privind aprobarea rețelei școlare a comunei Ineu pe anul școlar 2022-2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57098",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57098",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-80-2022",
    "path": "local/bihor/ineu/2022/80",
    "short": "HCL Ineu nr. 80/2022",
@@ -358,6 +1258,21 @@
      "from": "2023-04-18",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/100533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-9-2022",
+   "path": "local/bihor/ineu/2022/9",
+   "short": "HCL Ineu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 9/2022 privind aprobarea Planului Anual de Acțiune pentru anul 2022 în domeniul administrării și organizării serviciilor sociale la nivelul compartimentului de asistență socială din cadrul Primăriei comunei Ineu, precum și aprobarea Planului local de acțiune privind incluziunea minorității rome din comuna Ineu, pentru anul 2022",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/57099",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/57099",
      "sha256": null
     }
    ]

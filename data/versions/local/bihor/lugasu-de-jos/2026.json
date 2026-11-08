@@ -3,6 +3,681 @@
  "shard": "local/bihor/lugasu-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-bihor--lugasu-de-jos-1-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/1",
+   "short": "HCL Lugașu de Jos nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 1/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-1-din-19.01.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-1-din-19.01.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "ce04704ab17e9345b06afc762f32f2ae6a26cbfa7b651093881aa218a1e1014e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-10-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/10",
+   "short": "HCL Lugașu de Jos nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 10/2026 privind aprobarea ordinii de zi",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.10-din-02.02.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.10-din-02.02.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "83e680e3827c4e3601ea8a29ae94fe08ea1ff52bc1fa4add3fcca1c78f0b77f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-11-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/11",
+   "short": "HCL Lugașu de Jos nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 11/2026 pentru Serviciul Apă Canal Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.11-din-10.02.2026-aprobarea-utilizare-in-2026-a-excenetului-din-2025-pentru-Serviciul-Apa-Canal-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.11-din-10.02.2026-aprobarea-utilizare-in-2026-a-excenetului-din-2025-pentru-Serviciul-Apa-Canal-Lugasu-de-Jos.pdf",
+     "sha256": "a436d07b9d969298d6c891e0e68606a2cdf779da87613f8cf52d1f5281894340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-12-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/12",
+   "short": "HCL Lugașu de Jos nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 12/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotarirea-nr.12-din-13.02.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotarirea-nr.12-din-13.02.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "4789ae57090defd6856d3e1b3489b7b6d99083b8363ff31a9bf2eb45bdd88b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-13-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/13",
+   "short": "HCL Lugașu de Jos nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 13/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.13-din-13.02.2026-aprobarea-doc.-teh-ec.-faza-SF-ind.-teh-ec.-pt-.-pr.-Sistem-de-alimentare-centralizata-cu-energie-termica-din-surse-regenerabile.pdf",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.13-din-13.02.2026-aprobarea-doc.-teh-ec.-faza-SF-ind.-teh-ec.-pt-.-pr.-Sistem-de-alimentare-centralizata-cu-energie-termica-din-surse-regenerabile.pdf",
+     "sha256": "978623967aec88e953185fe8e2f568044ced33b5f3ba309fc034dd3356d57286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-14-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/14",
+   "short": "HCL Lugașu de Jos nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 14/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.14-din-13.02.2026-aprobare-expropriere-teren-pt-obiectivul-Sistem-de-alimentare-centralizata-termica-din-surse-regenerabile-apr.-coridor-expropriere.pdf",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.14-din-13.02.2026-aprobare-expropriere-teren-pt-obiectivul-Sistem-de-alimentare-centralizata-termica-din-surse-regenerabile-apr.-coridor-expropriere.pdf",
+     "sha256": "28ef9eae070e0c5971c4db9791420b1baaac9fd7abb742a85d6ab8800abadf99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-15-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/15",
+   "short": "HCL Lugașu de Jos nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 15/2026 privind aprobarea ordinii de zi",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-15-din-06.03.-2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-15-din-06.03.-2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "590fd4f130cc4b0309be57d2be05ba4329d25d621111475860063aebfe54e79d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-17-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/17",
+   "short": "HCL Lugașu de Jos nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 17/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.17-din-12.03.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.17-din-12.03.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+     "sha256": "52dacfc107b60b8c0c82a59d7b1e5ce02438d5591ab61f2562c8e46226b902fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-18-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/18",
+   "short": "HCL Lugașu de Jos nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 18/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.18-din-12.03.2026-modificarea-si-completarea-HCL-3-din-19.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.18-din-12.03.2026-modificarea-si-completarea-HCL-3-din-19.01.2026.pdf",
+     "sha256": "c69786804e7fb5de3eadfb81000298d5e4ac74901f895b048def64124fd8dcc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-19-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/19",
+   "short": "HCL Lugașu de Jos nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 19/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-19-din-12.03.2026-probare-ROF-al-aparatului-de-specialitate-al-Primarului.pdf",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-19-din-12.03.2026-probare-ROF-al-aparatului-de-specialitate-al-Primarului.pdf",
+     "sha256": "4270b1192e6bc5457ab3bbc319a3cb52e811c2bde80db4672204f85a86024283"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-20-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/20",
+   "short": "HCL Lugașu de Jos nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 20/2026 privind adprobarea ordinii de zi a ședinței",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.20-din-20.03.2026-privind-adprobarea-ordinii-de-zi-a-sedintei.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.20-din-20.03.2026-privind-adprobarea-ordinii-de-zi-a-sedintei.pdf",
+     "sha256": "274ce185a86682ac786f9124fc616eabbba77b1e16c6a88b3dfc274a1a539bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-21-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/21",
+   "short": "HCL Lugașu de Jos nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 21/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-21-din-20.03.2026-aprobarea-proceselor-verbale-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-21-din-20.03.2026-aprobarea-proceselor-verbale-de-sedinta.pdf",
+     "sha256": "a0c2c7e0a65808c351f93aa3c100589f5b8a02e6a84bdcebb2dc99e347dec89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-22-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/22",
+   "short": "HCL Lugașu de Jos nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 22/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.22-din-20.03.2026-actualizarea-Planului-de-analiza-si-acoperire-a-riscurilor-al-comunei-Lugasu-de-Jos-actualizat-in-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.22-din-20.03.2026-actualizarea-Planului-de-analiza-si-acoperire-a-riscurilor-al-comunei-Lugasu-de-Jos-actualizat-in-2026.pdf",
+     "sha256": "17677b0f34a669a9c14bcad523ec64185109eff0ae669fa00f0104d975809b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-23-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/23",
+   "short": "HCL Lugașu de Jos nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 23/2026 privind actualizarea Actului Constitutiv al Societății Constructorul Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-23-din-20.03.2026-privind-actualizarea-Actului-Constitutiv-al-Societatii-Constructorul-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.-23-din-20.03.2026-privind-actualizarea-Actului-Constitutiv-al-Societatii-Constructorul-Lugasu-de-Jos.pdf",
+     "sha256": "60ea07aa4f19e19b86a68f3187fd5ceb29d6a672791ad1124014c9cbd7ce9ffe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-24-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/24",
+   "short": "HCL Lugașu de Jos nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 24/2026 pentru consiliere si sprijin pentru părinți și copii în comuna Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.24-din-20.03.2026-aprobareainfiintarii-Serviciului-social-Centrul-de-zi-pentru-consiliere-si-sprijin-pentru-parinti-si-copii-in-comuna-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.24-din-20.03.2026-aprobareainfiintarii-Serviciului-social-Centrul-de-zi-pentru-consiliere-si-sprijin-pentru-parinti-si-copii-in-comuna-Lugasu-de-Jos.pdf",
+     "sha256": "b6bc474ab5eb433304670ca4574da866019ee872dd8d53e94f2acb2ae0138dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-25-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/25",
+   "short": "HCL Lugașu de Jos nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 25/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.25-din-20.03.2026-aprobarea-prin-completare-a-Organigramei-si-Statului-de-functii-a-Primariei-comunei-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/03/Hotararea-nr.25-din-20.03.2026-aprobarea-prin-completare-a-Organigramei-si-Statului-de-functii-a-Primariei-comunei-Lugasu-de-Jos.pdf",
+     "sha256": "80432f7feb73dd622af08bba818e4795f5ae93beafea574ac5098ce8c28ffb75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-26-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/26",
+   "short": "HCL Lugașu de Jos nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 26/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/04/Hotararea-nr.26-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/04/Hotararea-nr.26-din-16.04.2026.pdf",
+     "sha256": "3d1bd1a8eab18d96be5fa36b142764a5a4280f7274f40d80403ce8749db15c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-27-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/27",
+   "short": "HCL Lugașu de Jos nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 27/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/04/Hotararea-nr.27-din-16.04.2026-reorganizare-aparat-specialitate-al-primarului-aplicarea-OUG-7-din-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/04/Hotararea-nr.27-din-16.04.2026-reorganizare-aparat-specialitate-al-primarului-aplicarea-OUG-7-din-2026.pdf",
+     "sha256": "43c49f1082f0124950156c80f76e6391c4fe761ab59431367cc652cc86aeff1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-28-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/28",
+   "short": "HCL Lugașu de Jos nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 28/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.-28-din-25.04.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.-28-din-25.04.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "5d10063a375b37df9527ab770911d6faa6619564ad52ae9bd8cc3fe0df16349b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-31-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/31",
+   "short": "HCL Lugașu de Jos nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 31/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.31-din-12.05.2026-alegea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.31-din-12.05.2026-alegea-presedintelui-de-sedinta.pdf",
+     "sha256": "48871d4f5d54f5be10de52cc1bdf01693a8749afb4dce36b1df733bea6ed0243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-32-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/32",
+   "short": "HCL Lugașu de Jos nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 32/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.32-din-12.05.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.32-din-12.05.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "5ef2ed3a8658174efb194fe063087fcde07aa769674d1bfbccae51a2dc83e9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-33-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/33",
+   "short": "HCL Lugașu de Jos nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 33/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.-33-din-12.05.2026-aprobarea-proceselor-verbale-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.-33-din-12.05.2026-aprobarea-proceselor-verbale-de-sedinta.pdf",
+     "sha256": "80f68d49a788e2d90abd4e88fb00fba865857351e5e1af1dab8591ab22de3fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-34-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/34",
+   "short": "HCL Lugașu de Jos nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 34/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.34-din-12.05.2026-aprobarea-Planului-rezurse-uname-si-materiale-la-nivelul-comunei-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.34-din-12.05.2026-aprobarea-Planului-rezurse-uname-si-materiale-la-nivelul-comunei-Lugasu-de-Jos.pdf",
+     "sha256": "06c3b79cb06653e1eea812168d51ff4e1d5d02d4e917d0808cfd88218a187884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-35-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/35",
+   "short": "HCL Lugașu de Jos nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 35/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.35-din-12.05.2026-modificarea-Regulamentului-de-functionarer-a-Serviciului-Centru-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.35-din-12.05.2026-modificarea-Regulamentului-de-functionarer-a-Serviciului-Centru-de-zi.pdf",
+     "sha256": "d6f252dfbd974d2c47b459cd1a72d833bd109db7da1497bb3a2ecb47153f6b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-37-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/37",
+   "short": "HCL Lugașu de Jos nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 37/2026 pentru Serviciul Apă canal Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.37-din-12.05.2026-darea-in-administrare-masina-pentru-Serviciul-Apa-canal-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/05/Hotararea-nr.37-din-12.05.2026-darea-in-administrare-masina-pentru-Serviciul-Apa-canal-Lugasu-de-Jos.pdf",
+     "sha256": "9f3a25aedf6487dea133cc42672a1f240b0bfc1d88c28dc0919d171bb39e734b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-4-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/4",
+   "short": "HCL Lugașu de Jos nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 4/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-4-din-29.01.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-4-din-29.01.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "c47b320d810b60911aa5f08a6febbcefd552c22a2ed923fc331c8c3a0b65d37a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-42-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/42",
+   "short": "HCL Lugașu de Jos nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 42/2026 privind declanșarea procedurii",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.42-din-30.05.2026-privind-declansarea-procedurii.pdf",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.42-din-30.05.2026-privind-declansarea-procedurii.pdf",
+     "sha256": "0c54e7d227535f61689e3da708a54b05d61902634458a218599efe09f72b9c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-43-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/43",
+   "short": "HCL Lugașu de Jos nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 43/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr-43-din-09.06.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr-43-din-09.06.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "e7274bedbcaac1f70793b4a2ac46ceda9e40fed5bc9094cb095c9b5616b5ee54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-44-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/44",
+   "short": "HCL Lugașu de Jos nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 44/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.-44-din-09.06.2026-modificare-HCL-3-din-19.01.2026-implementare-pr.-achizitia-miniexcavator-modificata-cu-HCL-18-din-12.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.-44-din-09.06.2026-modificare-HCL-3-din-19.01.2026-implementare-pr.-achizitia-miniexcavator-modificata-cu-HCL-18-din-12.03.2026.pdf",
+     "sha256": "f4302b5850ec0b2882f7e1363be283ba4acb96fce0c5d1cb0da041c0306d5625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-45-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/45",
+   "short": "HCL Lugașu de Jos nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 45/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.-45-din-09.06.2026-completarea-Actului-Constitutiv-SC-CONSTRUCTOERUL-SRL.pdf",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/06/HCL-nr.-45-din-09.06.2026-completarea-Actului-Constitutiv-SC-CONSTRUCTOERUL-SRL.pdf",
+     "sha256": "bb1483223bc614e0244219d54701474318efa997ed88334f2401bf0124068038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-46-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/46",
+   "short": "HCL Lugașu de Jos nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 46/2026 privind aprobarea ordinii de zi",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/06/Hotararea-nr.46-din-16.06.2026-privind-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/06/Hotararea-nr.46-din-16.06.2026-privind-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "db307048dd2dc9bfcc3f62ca03de0cdb364653064593a44a7acbe7d7dd7387b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-49-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/49",
+   "short": "HCL Lugașu de Jos nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 49/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.49-din-30.06.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.49-din-30.06.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+     "sha256": "552eceb70ddb5ad47f51a599f472822936f1c9ec677912a5d647ad3499eabf50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-5-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/5",
+   "short": "HCL Lugașu de Jos nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 5/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.5-din-29.01.2026-aprobarea-proceselor-verbale-a-sedintelor-CL.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.5-din-29.01.2026-aprobarea-proceselor-verbale-a-sedintelor-CL.pdf",
+     "sha256": "0aff1de5f7683887413e72e2ec48320dc521f127e8a2fd0cc1d854878bae646d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-50-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/50",
+   "short": "HCL Lugașu de Jos nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 50/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.50-din-30.06.2026-aprobarea-proceselor-verbale-a-CL.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.50-din-30.06.2026-aprobarea-proceselor-verbale-a-CL.pdf",
+     "sha256": "0732487bd195ae80b68e0169e50d78babb13169be65a6034082369d149565fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-51-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/51",
+   "short": "HCL Lugașu de Jos nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 51/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.-51-din-30.06.2026-aprobarea-rectifiarii-bugetului-primariei.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.-51-din-30.06.2026-aprobarea-rectifiarii-bugetului-primariei.pdf",
+     "sha256": "412d2e55fc5c38f55019b3e5b78d3afbda3945783d810dc22aa8515493b597a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-52-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/52",
+   "short": "HCL Lugașu de Jos nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 52/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.52-din-30.06.2026-aprobare-buget-SC-CRISIUS-SRL.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.52-din-30.06.2026-aprobare-buget-SC-CRISIUS-SRL.pdf",
+     "sha256": "28358f5c4f938f6f027c792a05192f9e427da4f03147477b7752f18329f001bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-53-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/53",
+   "short": "HCL Lugașu de Jos nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 53/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.53-din-30.06.2026-aprobarea-bugetului-SC-CONSTRUCTORUL-lUGASU-DE-JOS-SRL.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/07/Hotararea-nr.53-din-30.06.2026-aprobarea-bugetului-SC-CONSTRUCTORUL-lUGASU-DE-JOS-SRL.pdf",
+     "sha256": "eac6fccd3abac81585b5242c4e6827d333a14c72a6a741affd978aeaf534fb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-54-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/54",
+   "short": "HCL Lugașu de Jos nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 54/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.54-din-15.07.2026-aprobarea-ordinii-de-zi.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.54-din-15.07.2026-aprobarea-ordinii-de-zi.pdf",
+     "sha256": "130a1201bd08bfef54a47dee32aa2a4565d6ab9b944260b8ee3321d145c29f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-55-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/55",
+   "short": "HCL Lugașu de Jos nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 55/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.55-din-15.07.2026-aprobarea-a-proceselor-verbale-a-sedintelor-anterioare.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.55-din-15.07.2026-aprobarea-a-proceselor-verbale-a-sedintelor-anterioare.pdf",
+     "sha256": "82a5efb00ca48626283d45971eaf9b4c9d8781c00c5a678247198f55f5c2a308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-57-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/57",
+   "short": "HCL Lugașu de Jos nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 57/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.57-din-15.07.2026-aprobarea-valorificare-masa-lemnoasa-catre-populatie.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.57-din-15.07.2026-aprobarea-valorificare-masa-lemnoasa-catre-populatie.pdf",
+     "sha256": "e46eb6ab0df64cdbc020489cfbc32f60599d5983c7830bc7d8b35acd6f40c4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-58-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/58",
+   "short": "HCL Lugașu de Jos nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 58/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.58-din-15.07.2026-aprobarea-radierii-din-CF-52102-521955233852339-restabilire-situatia-din-CF-228-Urvind.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.58-din-15.07.2026-aprobarea-radierii-din-CF-52102-521955233852339-restabilire-situatia-din-CF-228-Urvind.pdf",
+     "sha256": "b4cd3d93b632f950da72d25aa51b3d1ca3694863205f2d81f1cb7c7811afd9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-59-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/59",
+   "short": "HCL Lugașu de Jos nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 59/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.59-din-15.07.2026-aprobarea-contului-de-executie-bugetara-pentru-anul-2025.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.59-din-15.07.2026-aprobarea-contului-de-executie-bugetara-pentru-anul-2025.pdf",
+     "sha256": "172f997f45ef419908baa7f3c7954d4180a0ec9d075eb5e2ea760426123144aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-6-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/6",
+   "short": "HCL Lugașu de Jos nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 6/2026 pentru beneficiarii de venit minim de incluziune",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-6-din-29.01.2026-aprobarea-Planului-de-lucrari-pentru-beneficiarii-de-venit-minim-de-incluziune.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.-6-din-29.01.2026-aprobarea-Planului-de-lucrari-pentru-beneficiarii-de-venit-minim-de-incluziune.pdf",
+     "sha256": "776fd29aacc21f0d07d822c84615d6420140563b3411f078bdf9138ab4cf62fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-60-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/60",
+   "short": "HCL Lugașu de Jos nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 60/2026 pentru Bloc Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.60-din-15.07.2026-aprobarea-ind.-teh-ec.-pentru-Bloc-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.60-din-15.07.2026-aprobarea-ind.-teh-ec.-pentru-Bloc-Lugasu-de-Jos.pdf",
+     "sha256": "7a0d19aa4933256067c4f2c4faea8bc1916234bde6b3cbfc58696c0ad58446f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-62-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/62",
+   "short": "HCL Lugașu de Jos nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 62/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.62-din-15.07.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/08/Hotararea-nr.62-din-15.07.2026-aprobarea-ordinii-de-zi-a-sedintei.pdf",
+     "sha256": "38da58646f79b0b0f31d681f64c45654d0b16dee021d7797ba35d28d17964801"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lugasu-de-jos-65-2026",
    "path": "local/bihor/lugasu-de-jos/2026/65",
    "short": "HCL Lugașu de Jos nr. 65/2026",
@@ -14,6 +689,96 @@
      "units": 1,
      "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.-65-din-24.07.2026-aprobarea-ordinii-de-zi.pdf",
      "sha256": "44f3e9ceea398b8d033bcbd280507957f5aaf472f62b553f1afd6f24d6ad044f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-66-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/66",
+   "short": "HCL Lugașu de Jos nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 66/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.66-din-24.07.2026-exploatare-masa-lemnoasa-pe-picior-dinpadurea-comunala-partida-20021GR-4-prin-licitatie-electronica.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.66-din-24.07.2026-exploatare-masa-lemnoasa-pe-picior-dinpadurea-comunala-partida-20021GR-4-prin-licitatie-electronica.pdf",
+     "sha256": "b2dd396a8c2028247fb8fc3040d420019e467d33b8ca1451f52a12f08e375a47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-67-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/67",
+   "short": "HCL Lugașu de Jos nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 67/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.67-din-24.07.2026-aprobarea-valorificarii-masei-lemoase-din-padurea-proprietate-publica.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.67-din-24.07.2026-aprobarea-valorificarii-masei-lemoase-din-padurea-proprietate-publica.pdf",
+     "sha256": "6397482ecd2a9dde4514130a6d053bda70f01cb688601eb0e499a2f5b814a501"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-68-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/68",
+   "short": "HCL Lugașu de Jos nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 68/2026 pentru cauză de uti. pub. a imobilului în sup.876.333 mp pentru realizarea obiectivului Aquapark și ștrand”",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.68-din-24.07.2026-declansareas-procedurii-de-expropriere-pentru-cauza-de-uti.-pub.-a-imobilului-in-sup.876.333-mp-pentru-realizarea-obiectivului-Aquapark-si-strand.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.68-din-24.07.2026-declansareas-procedurii-de-expropriere-pentru-cauza-de-uti.-pub.-a-imobilului-in-sup.876.333-mp-pentru-realizarea-obiectivului-Aquapark-si-strand.pdf",
+     "sha256": "213c54014b5c3c21eea1a708ab6239882501e2fd4909a2205a877f3b5eb0d6ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-7-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/7",
+   "short": "HCL Lugașu de Jos nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 7/2026 privind actualizare ROF a Serviciului Cantina Sociala",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.7-din-29-ianuarie-2026-privind-actualizare-ROF-a-Serviciului-Cantina-Sociala.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotararea-nr.7-din-29-ianuarie-2026-privind-actualizare-ROF-a-Serviciului-Cantina-Sociala.pdf",
+     "sha256": "53b818092b06f8e18eecf4a26935f48354fa99be6b3a29f6c56da82b0d63b80c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-70-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/70",
+   "short": "HCL Lugașu de Jos nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 70/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.-70-din-30.09.2026-completarea-actului-constitutiv-al-SC-CONSTRUCTORUL-SRL.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.-70-din-30.09.2026-completarea-actului-constitutiv-al-SC-CONSTRUCTORUL-SRL.pdf",
+     "sha256": "814be3f173c610985d9db2c420e8a0790e7b683b5e455f1d0a3e8b59b78aa390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-71-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/71",
+   "short": "HCL Lugașu de Jos nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 71/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.71-din-21.08.2026-aprobarea-regulementului-de-functionare-si-exploatare-a-statiilor-de-reancarcare-electrice.pdf",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/09/Hotararea-nr.71-din-21.08.2026-aprobarea-regulementului-de-functionare-si-exploatare-a-statiilor-de-reancarcare-electrice.pdf",
+     "sha256": "1d0d87cf9340fa37c2b311d68ad44bda755895ff0e0639c6898bc95a51c7b7ba"
     }
    ]
   },
@@ -119,6 +884,21 @@
      "units": 1,
      "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.-79-din-30.09.2026-completarea-actului-constitutiv-al-SC-CONSTRUCTORUL-SRL.pdf",
      "sha256": "814be3f173c610985d9db2c420e8a0790e7b683b5e455f1d0a3e8b59b78aa390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-8-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/8",
+   "short": "HCL Lugașu de Jos nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 8/2026 privind modificarea organigramei și statului de funcții al aparatului de specialitate al Primarului com Lugașu de Jos",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotarari-nr.-8-din-29.01.2026-privind-modificarea-organigramei-si-statului-de-functii-al-aparatului-de-specialitate-al-Primarului-com-Lugasu-de-Jos.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/01/Hotarari-nr.-8-din-29.01.2026-privind-modificarea-organigramei-si-statului-de-functii-al-aparatului-de-specialitate-al-Primarului-com-Lugasu-de-Jos.pdf",
+     "sha256": "7a61eea724c9daa0ab7e9b13e381604b1bad725a187741bdfaa1fc228332c00d"
     }
    ]
   },
@@ -243,6 +1023,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--lugasu-de-jos-88-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/88",
+   "short": "HCL Lugașu de Jos nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 88/2026 pentru pădurea comunală c",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.-88-din-30.09.2026-incetarea-contractului-de-administrare-cu-Ocolul-Silvic-Alesd-pentru-padurea-comunala-c.pdf",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.-88-din-30.09.2026-incetarea-contractului-de-administrare-cu-Ocolul-Silvic-Alesd-pentru-padurea-comunala-c.pdf",
+     "sha256": "fa9c8687171a87eeed7ae9fb6acb35f14bfb829ff38a88d1502c0077385874a8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lugasu-de-jos-89-2026",
    "path": "local/bihor/lugasu-de-jos/2026/89",
    "short": "HCL Lugașu de Jos nr. 89/2026",
@@ -254,6 +1049,21 @@
      "units": 1,
      "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/10/Hotararea-nr.89-din-01.10.2026-aprobarea-ordinii-de-zi.pdf",
      "sha256": "3368dc453d076310abea9ad725db330f59e6c7ac9d255c561089c295e0f881c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lugasu-de-jos-9-2026",
+   "path": "local/bihor/lugasu-de-jos/2026/9",
+   "short": "HCL Lugașu de Jos nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lugașu de Jos nr. 9/2026",
+   "url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.9-din-10.02.2026-alegerea-presedintelui-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 1,
+     "source_url": "https://lugasudejos.ro/wp-content/uploads/2026/02/Hotararea-nr.9-din-10.02.2026-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "9be4f5ec830e4cfa982c661694245a5a6a64e292231570b19fae96eff2214f6b"
     }
    ]
   },

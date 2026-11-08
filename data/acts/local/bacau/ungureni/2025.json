@@ -113,6 +113,74 @@
 }
 },
 {
+"slug": "hcl-bacau--ungureni-6-2025",
+"path": "local/bacau/ungureni/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 6/2025",
+"short": "HCL Ungureni nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/189225",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-7-2025",
+"path": "local/bacau/ungureni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 7/2025",
+"short": "HCL Ungureni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/189226",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-8-2025",
+"path": "local/bacau/ungureni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 8/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+"short": "HCL Ungureni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/192725",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--ungureni-9-2025",
 "path": "local/bacau/ungureni/2025/9",
 "kind": "local",
@@ -440,6 +508,28 @@
 "from": "2025-06-20",
 "latest": "2025-06-20",
 "portal": "https://emol.ro/ungureni-bc/registru-hcl/213104",
+"council": "bacau/ungureni",
+"council_name": "Consiliul Local al Comunei Ungureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--ungureni-24-2025",
+"path": "local/bacau/ungureni/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 24/2025 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru Dumbravă Irinel-Constantin",
+"short": "HCL Ungureni nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/ungureni-bc/registru-hcl/213105",
 "council": "bacau/ungureni",
 "council_name": "Consiliul Local al Comunei Ungureni",
 "flags": {

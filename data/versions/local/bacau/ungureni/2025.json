@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-bacau--ungureni-24-2025",
+   "path": "local/bacau/ungureni/2025/24",
+   "short": "HCL Ungureni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 24/2025 privind aprobarea atribuirii în folosință gratuită conform Legii nr.15/2003 a suprafeței de până la 500 m2 de teren în vederea construirii unei locuințe proprietate personală pentru Dumbravă Irinel-Constantin",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/213105",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/213105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--ungureni-25-2025",
    "path": "local/bacau/ungureni/2025/25",
    "short": "HCL Ungureni nr. 25/2025",
@@ -718,6 +733,51 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/ungureni-bc/registru-hcl/243675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-6-2025",
+   "path": "local/bacau/ungureni/2025/6",
+   "short": "HCL Ungureni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 6/2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/189225",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/189225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-7-2025",
+   "path": "local/bacau/ungureni/2025/7",
+   "short": "HCL Ungureni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 7/2025",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/189226",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/189226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--ungureni-8-2025",
+   "path": "local/bacau/ungureni/2025/8",
+   "short": "HCL Ungureni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ungureni nr. 8/2025 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Ungureni, județul Bacău",
+   "url": "https://emol.ro/ungureni-bc/registru-hcl/192725",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ungureni-bc/registru-hcl/192725",
      "sha256": null
     }
    ]

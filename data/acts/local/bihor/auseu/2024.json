@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bihor/auseu/2024",
+"acts": [
+{
+"slug": "hcl-bihor--auseu-6-2024",
+"path": "local/bihor/auseu/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aușeu nr. 6/2024 privind aprobare proces verbal AvAnd in vedere: - prevederile art. 138 alin. (15) din Ordonanfa de urgen!6 nr. 5712019 privind Codul administrativ, cu modifi cdrile qi completdrile ulterioare; inbazaprevederilor art. 196 alin.(l) lit.a) qi art.l97 alin.2) din Ordonanla de urgen!6 nr.5712019 privind Codul administrativ, cu modific6rile qi completdrile ulterioare, Consiliul Local al Comunei AU$EU, H",
+"short": "HCL Aușeu nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-14",
+"latest": "2024-02-14",
+"portal": "https://www.auseu.ro/public/hotarari-ale-autoritatii-deliberative?page=33",
+"council": "bihor/auseu",
+"council_name": "Consiliul Local al Comunei Aușeu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

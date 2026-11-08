@@ -334,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-16-2025",
+"path": "local/bihor/balc/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 16/2025 privind aprobarea solicitării de închiriere și constituirea dreptului de acces pe proprietatea comunei Balc, pe o durată de 15 ani, asupra suprafeței de 250 mp situat în localitatea Balc, având nr.cadastral 53113, aparținând domeniului public al comunei Balc, pentru stația de bază pentru servicii de comunicații electronice amplasată de către DIGI ROMANIA S.A,",
+"short": "HCL Balc nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/balc-bh/registru-hcl/195509",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--balc-17-2025",
 "path": "local/bihor/balc/2025/17",
 "kind": "local",
@@ -353,6 +375,73 @@
 "council_name": "Consiliul Local al Comunei Balc",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--balc-18-2025",
+"path": "local/bihor/balc/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 18/2025 privind aprobarea punerii la dispoziția concesionarului serviciului de utilitate publică de distribuție a gazelor naturale, cu titlu gratuit, a terenurilor necesare pentru realizarea lucrărilor de execuție, operare, întreținere, reparații a obiectivelor aferente sistemelor de distribuție a gazelor naturale pe toată durata concesiunii",
+"short": "HCL Balc nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/balc-bh/registru-hcl/195511",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--balc-19-2025",
+"path": "local/bihor/balc/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 19/2025 privind aprobarea avizării dreptului de uz și a dreptului de servitute al viitorului concesionar al serviciului de utilitate publică de distribuție a gazelor naturale, asupra terenurilor proprietate publică de pe întreg traseul prevăzut în Studiul de fezabilitate aferent dezvoltării reţelelor de distribuţie gaze naturale în Comuna Balc",
+"short": "HCL Balc nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/balc-bh/registru-hcl/195512",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--balc-20-2025",
+"path": "local/bihor/balc/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 20/2025",
+"short": "HCL Balc nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/balc-bh/registru-hcl/195513",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -621,6 +710,29 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-33-2025",
+"path": "local/bihor/balc/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 33/2025",
+"short": "HCL Balc nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220578",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--balc-34-2025",
 "path": "local/bihor/balc/2025/34",
 "kind": "local",
@@ -662,6 +774,28 @@
 "council_name": "Consiliul Local al Comunei Balc",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-36-2025",
+"path": "local/bihor/balc/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 36/2025 privind aprobarea Studiului de fundamentare privind concesionarea serviciului public de distribuție a gazelor naturale în Comuna Balc, județul Bihor",
+"short": "HCL Balc nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220590",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -728,6 +862,28 @@
 "council_name": "Consiliul Local al Comunei Balc",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-40-2025",
+"path": "local/bihor/balc/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 40/2025 privind însușirea, aprobarea documentaței de evaluare și închirierea prin licitație publică a terenului în suprafață de 1.000 mp, înscris în CF 56159 Balc, județul Bihor",
+"short": "HCL Balc nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220607",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -951,6 +1107,28 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-51-2025",
+"path": "local/bihor/balc/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 51/2025 privind aprobarea ordinii de zi a şedinţei ordinare a Consiliului Local al Comunei Balc din data de 12 iunie 2025",
+"short": "HCL Balc nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220631",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--balc-52-2025",
 "path": "local/bihor/balc/2025/52",
 "kind": "local",
@@ -1083,6 +1261,28 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-58-2025",
+"path": "local/bihor/balc/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 58/2025 privind aprobarea documentației de atribuire, întocmită pentru derularea licitației privind vânzarea imobilului situat în intravilanul localității Balc, înscris în CF nr. 62471 Balc, nr. cad 62471, proprietatea privată a Comunei Balc, compus din teren – 7000 mp și construcții – stadiu fizic – structură de rezistență, conform precizărilor din caietul de sarcini",
+"short": "HCL Balc nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220638",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--balc-59-2025",
 "path": "local/bihor/balc/2025/59",
 "kind": "local",
@@ -1190,6 +1390,29 @@
 "council_name": "Consiliul Local al Comunei Balc",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-64-2025",
+"path": "local/bihor/balc/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 64/2025",
+"short": "HCL Balc nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/balc-bh/registru-hcl/220722",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1326,6 +1549,51 @@
 }
 },
 {
+"slug": "hcl-bihor--balc-71-2025",
+"path": "local/bihor/balc/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 71/2025",
+"short": "HCL Balc nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/balc-bh/registru-hcl/234587",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--balc-72-2025",
+"path": "local/bihor/balc/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 72/2025 privind aprobarea listei de priorităţi în vederea închirierii locuinţelor sociale din Comuna Balc",
+"short": "HCL Balc nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/balc-bh/registru-hcl/234588",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--balc-73-2025",
 "path": "local/bihor/balc/2025/73",
 "kind": "local",
@@ -1367,6 +1635,29 @@
 "council_name": "Consiliul Local al Comunei Balc",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--balc-75-2025",
+"path": "local/bihor/balc/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balc nr. 75/2025",
+"short": "HCL Balc nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/balc-bh/registru-hcl/234591",
+"council": "bihor/balc",
+"council_name": "Consiliul Local al Comunei Balc",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

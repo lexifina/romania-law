@@ -3,6 +3,51 @@
  "shard": "local/bihor/ciumeghiu/2024",
  "acts": [
   {
+   "slug": "hcl-bihor--ciumeghiu-1-2024",
+   "path": "local/bihor/ciumeghiu/2024/1",
+   "short": "HCL Ciumeghiu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 1/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140779",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-10-2024",
+   "path": "local/bihor/ciumeghiu/2024/10",
+   "short": "HCL Ciumeghiu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 10/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144064",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-100-2024",
+   "path": "local/bihor/ciumeghiu/2024/100",
+   "short": "HCL Ciumeghiu nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 100/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/177406",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/177406",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-101-2024",
    "path": "local/bihor/ciumeghiu/2024/101",
    "short": "HCL Ciumeghiu nr. 101/2024",
@@ -133,6 +178,21 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/181241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-11-2024",
+   "path": "local/bihor/ciumeghiu/2024/11",
+   "short": "HCL Ciumeghiu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 11/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144065",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144065",
      "sha256": null
     }
    ]
@@ -318,6 +378,171 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-13-2024",
+   "path": "local/bihor/ciumeghiu/2024/13",
+   "short": "HCL Ciumeghiu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 13/2024 privind aprobarea indicatorilor pentru finanțarea/ cofinanțarea elaborării și actualizării Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Ciumeghiu , județul Bihor",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144067",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-14-2024",
+   "path": "local/bihor/ciumeghiu/2024/14",
+   "short": "HCL Ciumeghiu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 14/2024 Privind aprobarea închirierii unor suprafețe de pajiste aflate în proprietatea privată a comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144068",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-15-2024",
+   "path": "local/bihor/ciumeghiu/2024/15",
+   "short": "HCL Ciumeghiu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 15/2024 privind aprobarea solicitarii de trecere unor imobile, din domeniul public al statului, administrarea Ministerului Agriculturii și Dezvoltării Rurale Agenția Natională de Imbunătărtiri Funciare Filiala Teritorială de IF Bihor în domeniul public și administrarea Consiliului Local al Comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144069",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-16-2024",
+   "path": "local/bihor/ciumeghiu/2024/16",
+   "short": "HCL Ciumeghiu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 16/2024 privind aprobarea accesului pe domeniul public al comunei ,Administrației Bazinale de Apă Crișuri -Oradea",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144070",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-17-2024",
+   "path": "local/bihor/ciumeghiu/2024/17",
+   "short": "HCL Ciumeghiu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 17/2024 privind aprobarea actualizarea indicatorilor tehnico-economici actualizați și devizului general actualizat pentru proiectul: ”Inființarea rețelelor inteligente de distribuție a gazelor naturale în comuna Ciumeghiu , județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144071",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-18-2024",
+   "path": "local/bihor/ciumeghiu/2024/18",
+   "short": "HCL Ciumeghiu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 18/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144072",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/144072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-19-2024",
+   "path": "local/bihor/ciumeghiu/2024/19",
+   "short": "HCL Ciumeghiu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 19/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149435",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-2-2024",
+   "path": "local/bihor/ciumeghiu/2024/2",
+   "short": "HCL Ciumeghiu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 2/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140780",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-20-2024",
+   "path": "local/bihor/ciumeghiu/2024/20",
+   "short": "HCL Ciumeghiu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 20/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149436",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-21-2024",
+   "path": "local/bihor/ciumeghiu/2024/21",
+   "short": "HCL Ciumeghiu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 21/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149437",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-22-2024",
+   "path": "local/bihor/ciumeghiu/2024/22",
+   "short": "HCL Ciumeghiu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 22/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149438",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149438",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-23-2024",
    "path": "local/bihor/ciumeghiu/2024/23",
    "short": "HCL Ciumeghiu nr. 23/2024",
@@ -378,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-27-2024",
+   "path": "local/bihor/ciumeghiu/2024/27",
+   "short": "HCL Ciumeghiu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 27/2024 privind aprobarea desemnarea consilierilor locali in comisia de evaluare a secretarului general al comunei",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149443",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149443",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-28-2024",
    "path": "local/bihor/ciumeghiu/2024/28",
    "short": "HCL Ciumeghiu nr. 28/2024",
@@ -393,6 +633,96 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-29-2024",
+   "path": "local/bihor/ciumeghiu/2024/29",
+   "short": "HCL Ciumeghiu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 29/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149445",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-3-2024",
+   "path": "local/bihor/ciumeghiu/2024/3",
+   "short": "HCL Ciumeghiu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 3/2024 privind aprobarea repoziționării unui imobil din domeniul public al comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140781",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-30-2024",
+   "path": "local/bihor/ciumeghiu/2024/30",
+   "short": "HCL Ciumeghiu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 30/2024 privind aprobarea dezmembrării numărului cadastral 56417 din domeniul privat al comunei Ciumeghiu în trei loturi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149446",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-31-2024",
+   "path": "local/bihor/ciumeghiu/2024/31",
+   "short": "HCL Ciumeghiu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 31/2024 Privind aprobarea închirierii unor suprafețe de pajiste aflate în proprietatea privată a comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149447",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/149447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-32-2024",
+   "path": "local/bihor/ciumeghiu/2024/32",
+   "short": "HCL Ciumeghiu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 32/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/151549",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/151549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-33-2024",
+   "path": "local/bihor/ciumeghiu/2024/33",
+   "short": "HCL Ciumeghiu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 33/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/151550",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/151550",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-34-2024",
    "path": "local/bihor/ciumeghiu/2024/34",
    "short": "HCL Ciumeghiu nr. 34/2024",
@@ -403,6 +733,36 @@
      "from": "2024-04-24",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/151551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-35-2024",
+   "path": "local/bihor/ciumeghiu/2024/35",
+   "short": "HCL Ciumeghiu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 35/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153661",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-36-2024",
+   "path": "local/bihor/ciumeghiu/2024/36",
+   "short": "HCL Ciumeghiu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 36/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153662",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153662",
      "sha256": null
     }
    ]
@@ -453,6 +813,171 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-4-2024",
+   "path": "local/bihor/ciumeghiu/2024/4",
+   "short": "HCL Ciumeghiu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 4/2024 privind aprobarea accesului pe domeniul public al comunei ,Administrației Bazinale de Apă Crișuri -Oradea",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140782",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-40-2024",
+   "path": "local/bihor/ciumeghiu/2024/40",
+   "short": "HCL Ciumeghiu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 40/2024 privind aprobarea modificării articolului nr.1 și articolului nr.3 la HCL Ciumeghiu nr.17/20.02.2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153666",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/153666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-41-2024",
+   "path": "local/bihor/ciumeghiu/2024/41",
+   "short": "HCL Ciumeghiu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 41/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155929",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-42-2024",
+   "path": "local/bihor/ciumeghiu/2024/42",
+   "short": "HCL Ciumeghiu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 42/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155930",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-43-2024",
+   "path": "local/bihor/ciumeghiu/2024/43",
+   "short": "HCL Ciumeghiu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 43/2024 privind aprobarea modificării anexei nr.1 la HCL Ciumeghiu nr.40/24.04.2024 și anexei nr.2 la HCL Ciumeghiu nr.17/20.02.2024 modificată prin HCL nr.40/24.04.2024 aferente investiției: ”Inființarea rețelelor inteligente de distribuție a gazelor naturale în comuna Ciumeghiu” , județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155931",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-44-2024",
+   "path": "local/bihor/ciumeghiu/2024/44",
+   "short": "HCL Ciumeghiu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 44/2024 privind aprobarea constituirii dreptului de acces pe proprietatea publică/privată în vederea instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură necesare susținerii acestora pentru RCS&RDS SA",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155932",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/155932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-45-2024",
+   "path": "local/bihor/ciumeghiu/2024/45",
+   "short": "HCL Ciumeghiu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 45/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156553",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-46-2024",
+   "path": "local/bihor/ciumeghiu/2024/46",
+   "short": "HCL Ciumeghiu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 46/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156554",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-47-2024",
+   "path": "local/bihor/ciumeghiu/2024/47",
+   "short": "HCL Ciumeghiu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 47/2024 privind aprobarea modificării art.3 la HCL Ciumeghiu nr.40/24.04.2024 și anexei nr.2 la HCL Ciumeghiu nr.43/13.05.2024 aferente investiției: ”Inființarea rețelelor inteligente de distribuție a gazelor naturale în comuna Ciumeghiu” , județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156555",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/156555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-48-2024",
+   "path": "local/bihor/ciumeghiu/2024/48",
+   "short": "HCL Ciumeghiu nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 48/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161186",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-49-2024",
+   "path": "local/bihor/ciumeghiu/2024/49",
+   "short": "HCL Ciumeghiu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 49/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161187",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-5-2024",
    "path": "local/bihor/ciumeghiu/2024/5",
    "short": "HCL Ciumeghiu nr. 5/2024",
@@ -463,6 +988,156 @@
      "from": "2024-05-17",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-50-2024",
+   "path": "local/bihor/ciumeghiu/2024/50",
+   "short": "HCL Ciumeghiu nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 50/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161188",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-51-2024",
+   "path": "local/bihor/ciumeghiu/2024/51",
+   "short": "HCL Ciumeghiu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 51/2024 privind aprobarea dezmembrării numărului cadastral 56938 din domeniul privat al comunei Ciumeghiu în trei loturi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161189",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-52-2024",
+   "path": "local/bihor/ciumeghiu/2024/52",
+   "short": "HCL Ciumeghiu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 52/2024 privind însușirea documentației cadastrale pentru un imobil în vederea întabulării și trecerii în domeniul public al comunei",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161190",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-53-2024",
+   "path": "local/bihor/ciumeghiu/2024/53",
+   "short": "HCL Ciumeghiu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 53/2024 privind însușirea documentației cadastrale pentru un imobil în vederea întabulării și trecerii în domeniul privat al comunei",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161191",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-54-2024",
+   "path": "local/bihor/ciumeghiu/2024/54",
+   "short": "HCL Ciumeghiu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 54/2024 privind aprobarea vânzarii prin licitație publica a suprafeței de 1000 mp din domeniul privat al comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161192",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-55-2024",
+   "path": "local/bihor/ciumeghiu/2024/55",
+   "short": "HCL Ciumeghiu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 55/2024 privind aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual aferent familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Ciumeghiu , conform prevederilor Ordonanței de Urgență a Guvernului nr. 53/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161193",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-56-2024",
+   "path": "local/bihor/ciumeghiu/2024/56",
+   "short": "HCL Ciumeghiu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 56/2024 privind aprobarea Regulamentului de organizare și funcționare al primariei comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161194",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-57-2024",
+   "path": "local/bihor/ciumeghiu/2024/57",
+   "short": "HCL Ciumeghiu nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 57/2024 privind aprobarea modificării prin act adițional a contractului de concesiune nr.4093 din 24.06.2016 prin schimbarea destinației imobilului identificat cu nr.cadastral 53963-Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161195",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-58-2024",
+   "path": "local/bihor/ciumeghiu/2024/58",
+   "short": "HCL Ciumeghiu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 58/2024 privind aprobarea documentației tehnico-economice faza Proiect tehnic și a indicatorilor tehnico-economici ai proiectului : ”Inființarea rețelelor inteligente de distribuție a gazelor naturale în comuna Ciumeghiu , județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161196",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-59-2024",
+   "path": "local/bihor/ciumeghiu/2024/59",
+   "short": "HCL Ciumeghiu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 59/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161197",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161197",
      "sha256": null
     }
    ]
@@ -483,6 +1158,111 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-60-2024",
+   "path": "local/bihor/ciumeghiu/2024/60",
+   "short": "HCL Ciumeghiu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 60/2024 privind aprobarea prelungirii scrisorii de garanție bancară pentru restituirea avansului din garanția bancară nr.568/27.09.2018 aferentă proiectului”Modernizare ,reabilitare și dotare cămine culturale în comuna Ciumeghiu,județul Bihor,cămin cultural în localitatea Ciumeghiu,cămin cultural în localitatea Boiu”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161198",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-61-2024",
+   "path": "local/bihor/ciumeghiu/2024/61",
+   "short": "HCL Ciumeghiu nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 61/2024 privind aprobarea organizării evenimentului ” Zilele comunei Ciumeghiu ” în perioada 13-14 iulie 2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161199",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-62-2024",
+   "path": "local/bihor/ciumeghiu/2024/62",
+   "short": "HCL Ciumeghiu nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 62/2024 privind aprobarea inițierii demersurilor necesare în vederea accesării unui credit de la CEC Bank",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161200",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/161200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-63-2024",
+   "path": "local/bihor/ciumeghiu/2024/63",
+   "short": "HCL Ciumeghiu nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 63/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163691",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-64-2024",
+   "path": "local/bihor/ciumeghiu/2024/64",
+   "short": "HCL Ciumeghiu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 64/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163692",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-65-2024",
+   "path": "local/bihor/ciumeghiu/2024/65",
+   "short": "HCL Ciumeghiu nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 65/2024 privind acordul pentru efectuarea unor lucrări de întreținere la drumurile agricole număr cadastral 54726,54831 ȘI 50911 aparținând domeniului public al comunei Ciumeghiu de către două societăți",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163693",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-66-2024",
+   "path": "local/bihor/ciumeghiu/2024/66",
+   "short": "HCL Ciumeghiu nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 66/2024 privind aprobarea accesului pe domeniul public al comunei DE 540 ,SC Grupul de Producători Carne Pasăre SRL în vederea realizării investiției ”Unitate abatorizare păsări ”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163694",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163694",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-67-2024",
    "path": "local/bihor/ciumeghiu/2024/67",
    "short": "HCL Ciumeghiu nr. 67/2024",
@@ -493,6 +1273,36 @@
      "from": "2024-08-19",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-68-2024",
+   "path": "local/bihor/ciumeghiu/2024/68",
+   "short": "HCL Ciumeghiu nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 68/2024 privind aprobarea modificării HCL Ciumeghiu nr.69/20.08.2019",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163696",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-69-2024",
+   "path": "local/bihor/ciumeghiu/2024/69",
+   "short": "HCL Ciumeghiu nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 69/2024",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163697",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163697",
      "sha256": null
     }
    ]
@@ -513,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-70-2024",
+   "path": "local/bihor/ciumeghiu/2024/70",
+   "short": "HCL Ciumeghiu nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 70/2024 privind aprobarea modificării prin act adițional a contractului de concesiune nr.3735 din 25.05.2018, prin modificarea obiectivului contractului",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163698",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-71-2024",
    "path": "local/bihor/ciumeghiu/2024/71",
    "short": "HCL Ciumeghiu nr. 71/2024",
@@ -523,6 +1348,51 @@
      "from": "2024-08-19",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/163699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-72-2024",
+   "path": "local/bihor/ciumeghiu/2024/72",
+   "short": "HCL Ciumeghiu nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 72/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168668",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-73-2024",
+   "path": "local/bihor/ciumeghiu/2024/73",
+   "short": "HCL Ciumeghiu nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 73/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168669",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-74-2024",
+   "path": "local/bihor/ciumeghiu/2024/74",
+   "short": "HCL Ciumeghiu nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 74/2024 privind aprobarea prelungirii valabilității Planului Urbanistic General al comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168670",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168670",
      "sha256": null
     }
    ]
@@ -543,6 +1413,246 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-76-2024",
+   "path": "local/bihor/ciumeghiu/2024/76",
+   "short": "HCL Ciumeghiu nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 76/2024 privind aprobarea modificării statului de funcții al aparatului de specialitate al primarului comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168672",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-77-2024",
+   "path": "local/bihor/ciumeghiu/2024/77",
+   "short": "HCL Ciumeghiu nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 77/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168673",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-78-2024",
+   "path": "local/bihor/ciumeghiu/2024/78",
+   "short": "HCL Ciumeghiu nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 78/2024 privind acordarea avizului de principiul privind accesul pe domeniul public al comunei ,SC Crișana Concept Energy SRL pentru realizarea proiectului ”Inființare parc fotovoltaic de 368,9 MW”, respectiv introducerii în subteran a unui cablu electric",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168674",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/168674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-79-2024",
+   "path": "local/bihor/ciumeghiu/2024/79",
+   "short": "HCL Ciumeghiu nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 79/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169427",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-8-2024",
+   "path": "local/bihor/ciumeghiu/2024/8",
+   "short": "HCL Ciumeghiu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 8/2024 privind aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual aferent familiei ocupaţionale „Administraţie” din cadrul Aparatului de specialitate al Primarului comunei Ciumeghiu , conform prevederilor OUG nr. 115/2023",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140786",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-80-2024",
+   "path": "local/bihor/ciumeghiu/2024/80",
+   "short": "HCL Ciumeghiu nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 80/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169428",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-81-2024",
+   "path": "local/bihor/ciumeghiu/2024/81",
+   "short": "HCL Ciumeghiu nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 81/2024 privind aprobarea rectificării bugetului local",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169429",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-82-2024",
+   "path": "local/bihor/ciumeghiu/2024/82",
+   "short": "HCL Ciumeghiu nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 82/2024 privind aprobarea realizăriii investiției ”Modernizare stradă identificată prin nr.cadastral 56997 din localitatea Ciumeghiu , comuna Ciumeghiu , județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169430",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-83-2024",
+   "path": "local/bihor/ciumeghiu/2024/83",
+   "short": "HCL Ciumeghiu nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 83/2024 privind aprobarea trecerii din domeniul privat al comunei în domeniul public al comunei a imobilului cu nr.cadastral 56.997",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169431",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/169431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-84-2024",
+   "path": "local/bihor/ciumeghiu/2024/84",
+   "short": "HCL Ciumeghiu nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 84/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171108",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-85-2024",
+   "path": "local/bihor/ciumeghiu/2024/85",
+   "short": "HCL Ciumeghiu nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 85/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171109",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-86-2024",
+   "path": "local/bihor/ciumeghiu/2024/86",
+   "short": "HCL Ciumeghiu nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 86/2024 privind aprobarea prelungirii scrisorii de garanție bancară pentru restituirea avansului din garanția bancară nr.568/27.09.2018 aferentă proiectului”Modernizare ,reabilitare și dotare cămine culturale în comuna Ciumeghiu,județul Bihor,cămin cultural în localitatea Ciumeghiu,cămin cultural în localitatea Boiu”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171110",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-87-2024",
+   "path": "local/bihor/ciumeghiu/2024/87",
+   "short": "HCL Ciumeghiu nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 87/2024 privind aprobarea proiectului tehnic și a devizului general pentru obiectivul de investiții ”Reabilitare sistem centralizat de apă în localitatea Ghiorac ,comuna Ciumeghiu”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171111",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-88-2024",
+   "path": "local/bihor/ciumeghiu/2024/88",
+   "short": "HCL Ciumeghiu nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 88/2024 privind aprobarea proiectului tehnic și a devizului general pentru obiectivul de investiții ” ”Modernizare străzi în comuna Ciumeghiu localitatea Ciumeghiu,județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171112",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-89-2024",
+   "path": "local/bihor/ciumeghiu/2024/89",
+   "short": "HCL Ciumeghiu nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 89/2024 privind aprobarea proiectului tehnic și a devizului general pentru obiectivul de investiții ”Modernizare stradă identificată prin nr.cadastral 56997 din localitatea Ciumeghiu,județul Bihor”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171113",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-9-2024",
+   "path": "local/bihor/ciumeghiu/2024/9",
+   "short": "HCL Ciumeghiu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 9/2024 privind aprobarea modificării Acordului de cooperare cu Acor- Filiala Bihor privind organizarea și exercitarea funcției de audit public intern și exercitarea activității de urbanism și autorizare construcții",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140787",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/140787",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-90-2024",
    "path": "local/bihor/ciumeghiu/2024/90",
    "short": "HCL Ciumeghiu nr. 90/2024",
@@ -553,6 +1663,141 @@
      "from": "2024-10-16",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-91-2024",
+   "path": "local/bihor/ciumeghiu/2024/91",
+   "short": "HCL Ciumeghiu nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 91/2024 privind trecerii în domeniul public al comunei Ciumeghiu a imobilelor cuprinse în anexa nr.1",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171115",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-92-2024",
+   "path": "local/bihor/ciumeghiu/2024/92",
+   "short": "HCL Ciumeghiu nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 92/2024 privind desemnarea reprezentanților Consiliul Local în Consiliul de Administrație al Școlii",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171116",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-93-2024",
+   "path": "local/bihor/ciumeghiu/2024/93",
+   "short": "HCL Ciumeghiu nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 93/2024 privind aprobarea schimbării categoriei de folosinta în cotă parte a imobilul cu nr.cadastral 54982 apaținând domeniului public al comunei",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171117",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/171117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-94-2024",
+   "path": "local/bihor/ciumeghiu/2024/94",
+   "short": "HCL Ciumeghiu nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 94/2024 privind aprobarea procesului verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173717",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-95-2024",
+   "path": "local/bihor/ciumeghiu/2024/95",
+   "short": "HCL Ciumeghiu nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 95/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173718",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-96-2024",
+   "path": "local/bihor/ciumeghiu/2024/96",
+   "short": "HCL Ciumeghiu nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 96/2024 privind aprobarea modificării organigramei , a statului de funcții și statului de personal al aparatului de specialitate al primarului comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173719",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-97-2024",
+   "path": "local/bihor/ciumeghiu/2024/97",
+   "short": "HCL Ciumeghiu nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 97/2024 privind acordarea avizului de principiul privind accesul pe domeniul public al comunei ,SC Crișana Pro Construct SA pentru realizarea proiectului ”Inființare parc fotovoltaic de 2,774 MW ”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173720",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-98-2024",
+   "path": "local/bihor/ciumeghiu/2024/98",
+   "short": "HCL Ciumeghiu nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 98/2024 privind aprobarea rectificării bugetului local",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173721",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/173721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-99-2024",
+   "path": "local/bihor/ciumeghiu/2024/99",
+   "short": "HCL Ciumeghiu nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 99/2024 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/177405",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/177405",
      "sha256": null
     }
    ]

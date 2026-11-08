@@ -18,6 +18,186 @@
    ]
   },
   {
+   "slug": "hcl-bihor--lazareni-10-2021",
+   "path": "local/bihor/lazareni/2021/10",
+   "short": "HCL Lăzăreni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 10/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-01-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%2010.pdf",
+     "sha256": "e1b4d85711dc42d2db948e74709c70e70edb4cc05f942a8398ce289a2416419f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-100-2021",
+   "path": "local/bihor/lazareni/2021/100",
+   "short": "HCL Lăzăreni nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 100/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL100.pdf",
+     "sha256": "42ae86140c3ed833ba64d965fd4334dc58d696737bae29377e156281568ae469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-102-2021",
+   "path": "local/bihor/lazareni/2021/102",
+   "short": "HCL Lăzăreni nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 102/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL102.pdf",
+     "sha256": "b3cacc2c820d8315dfd8cd85747ad66a544d812459509524cf2929de6180053d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-103-2021",
+   "path": "local/bihor/lazareni/2021/103",
+   "short": "HCL Lăzăreni nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 103/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL103.pdf",
+     "sha256": "e68cde6d49a69c29ae3eb046eecb1cebf06b367e032c22540023d69154fb1928"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-107-2021",
+   "path": "local/bihor/lazareni/2021/107",
+   "short": "HCL Lăzăreni nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 107/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL107.pdf",
+     "sha256": "876acae9faa29694f11b585e82f942b7c34b71b363910212b321d5eb12ce55c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-108-2021",
+   "path": "local/bihor/lazareni/2021/108",
+   "short": "HCL Lăzăreni nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 108/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL108.pdf",
+     "sha256": "44b5d84f1e983a2eb8e2d9397b6e390eda1844b9952da2b9cc6267aa0b8b2cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-111-2021",
+   "path": "local/bihor/lazareni/2021/111",
+   "short": "HCL Lăzăreni nr. 111/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 111/2021 privind algerea președintelui de ședință",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL111.pdf",
+     "sha256": "046117e327a5246c090c1fe86090f26fd1e53f598d0bbb1884c36ec77253637f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-112-2021",
+   "path": "local/bihor/lazareni/2021/112",
+   "short": "HCL Lăzăreni nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 112/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL112.pdf",
+     "sha256": "b311affc788ab7ad2304d62f08e8c1ca6b16ce235d8f1fc656dfca3a919ff787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-117-2021",
+   "path": "local/bihor/lazareni/2021/117",
+   "short": "HCL Lăzăreni nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 117/2021 privind asocierea Comunei Lăzăreni prin Consiliul Local al comunei Lăzăreni, cu Județul Bihor prin",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL117.pdf",
+     "sha256": "e6bceac7a71613e57feeca9a9661b268035633b00726e72a392a7c965b214a17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-12-2021",
+   "path": "local/bihor/lazareni/2021/12",
+   "short": "HCL Lăzăreni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 12/2021 privind prelungirea mandatului administratorilor societății SC COMPANIA RESOSAL SA pe o durată de 5 luni, respectiv până cel târziu la data de 31.05.2021 pentru membrii consiliului de administrație",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%2012.pdf",
+     "sha256": "97d4a761034974ccfc018cb9674748257d738c59ed95c90afda72c51c52b40b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-14-2021",
+   "path": "local/bihor/lazareni/2021/14",
+   "short": "HCL Lăzăreni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 14/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%2014.pdf",
+     "sha256": "13ccb97b1589a3a8553a74b6e568e1478d9e1b95b0b612a1a9c98e0db0c843d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-17-2021",
+   "path": "local/bihor/lazareni/2021/17",
+   "short": "HCL Lăzăreni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 17/2021 privind stabilirea situațiilor deosebite pentru care se acordă ajutoare de urgență din bugetul local al comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%2017.pdf",
+     "sha256": "4936a07d6077b3c38fe724f33c77256239a8fd9b31388ef59b6b9196b2ce28f5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lazareni-18-2021",
    "path": "local/bihor/lazareni/2021/18",
    "short": "HCL Lăzăreni nr. 18/2021",
@@ -44,6 +224,21 @@
      "units": 1,
      "source_url": "https://primarialazareni.ro/wp-content/uploads/HCL-19.pdf",
      "sha256": "e81c802903d2258983da2e3d7c4adb22e4696a84e1a22a25d90c688c33b2446f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-2-2021",
+   "path": "local/bihor/lazareni/2021/2",
+   "short": "HCL Lăzăreni nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 2/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%202.pdf",
+     "sha256": "9d33cb044b801604504b384000e6f0ed7b2025c32196eac38fafdbdc47b5a5b6"
     }
    ]
   },
@@ -134,6 +329,36 @@
      "units": 1,
      "source_url": "https://primarialazareni.ro/wp-content/uploads/HCL-28.pdf",
      "sha256": "d4b146ee724644ffdecfa8eb72c795ae5425d4accf009dee001dd26d79123982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-3-2021",
+   "path": "local/bihor/lazareni/2021/3",
+   "short": "HCL Lăzăreni nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 3/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%203.pdf",
+     "sha256": "19e290e100de845ff961b8998087b99dbd6e2921f45063f549f04c2947f1e93d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-30-2021",
+   "path": "local/bihor/lazareni/2021/30",
+   "short": "HCL Lăzăreni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 30/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL30.pdf",
+     "sha256": "98f6c8042130c08aad7a2e12b5f209746febd6358627ceaae73ccce285e6582f"
     }
    ]
   },
@@ -258,6 +483,216 @@
    ]
   },
   {
+   "slug": "hcl-bihor--lazareni-47-2021",
+   "path": "local/bihor/lazareni/2021/47",
+   "short": "HCL Lăzăreni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 47/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL47.pdf",
+     "sha256": "d340a3093d94a7954afa6c923299f2533d577a1fe7557efae1ef0b9d8f9bc37f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-48-2021",
+   "path": "local/bihor/lazareni/2021/48",
+   "short": "HCL Lăzăreni nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 48/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL48.pdf",
+     "sha256": "985574b5e7665ebfc2314d774823ff663537b5b24fd476554c5ffdf3ce6d2dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-49-2021",
+   "path": "local/bihor/lazareni/2021/49",
+   "short": "HCL Lăzăreni nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 49/2021 privind actualizarea Regulamentului de Organizare și Funcționare a Consiliului Local al comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL49.pdf",
+     "sha256": "ab74ae523bfac9b53ea760f7bd4e3ed84598eaf1c852af3f4498a1e5cc100075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-50-2021",
+   "path": "local/bihor/lazareni/2021/50",
+   "short": "HCL Lăzăreni nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 50/2021 privind aprobarea modelului legitimației și a semnului distinctiv pentru calitatea de ales local al Comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL50.pdf",
+     "sha256": "40ed89f3f42593460a25bfe5909e05098446c8f05f86fabc0640ad7edca175ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-52-2021",
+   "path": "local/bihor/lazareni/2021/52",
+   "short": "HCL Lăzăreni nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 52/2021 privind aprobarea de asigurare cu resurse umane, materiale și financiare necesare pentru gestionarea situațiilor de urgență",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL52.pdf",
+     "sha256": "6d6d222136ed7890ab26596231800880fa87f51ad99b5c656a2ba99c2eca6417"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-53-2021",
+   "path": "local/bihor/lazareni/2021/53",
+   "short": "HCL Lăzăreni nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 53/2021 privind actualizarea Planului de analiză și acoperire a riscurilor în domeniul situațiilor de urgență, la nivelul comunei Lăzăreni, județul Bihor",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL53.pdf",
+     "sha256": "ba184ef49445d517e605a042e8e5632fd38e98f78986a422193fb5ea2b7a88d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-54-2021",
+   "path": "local/bihor/lazareni/2021/54",
+   "short": "HCL Lăzăreni nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 54/2021 privind aprobarea Planului de Investiții pe anul 2021 pentru sectorul de alimentare cu apă și apă uzată din comuna Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL54.pdf",
+     "sha256": "b720b6a9e2ebcaa2bb48cc6fee921ee6952405f250efb734cc91bdd7fd72af9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-57-2021",
+   "path": "local/bihor/lazareni/2021/57",
+   "short": "HCL Lăzăreni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 57/2021 privind alegerea președintelui de ședință",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL57.pdf",
+     "sha256": "311a900a310e159397862df6def63b2732018b9bc0e682601cbc92de5cb6856b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-58-2021",
+   "path": "local/bihor/lazareni/2021/58",
+   "short": "HCL Lăzăreni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 58/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL58.pdf",
+     "sha256": "371781090b5221baf1780fa88342eb84b01a1b9f5844be437698936ef28c0ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-59-2021",
+   "path": "local/bihor/lazareni/2021/59",
+   "short": "HCL Lăzăreni nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 59/2021 privind aprobarea aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL59.pdf",
+     "sha256": "70003310de0a5bd4bc6a33fa460c0ada53c28117d586d9dc4a56ece100eb0626"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-6-2021",
+   "path": "local/bihor/lazareni/2021/6",
+   "short": "HCL Lăzăreni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 6/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%206.pdf",
+     "sha256": "28a09fd66395febbdc3f046b671d663b7f082c1ed27ca929d559d47925fa3c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-60-2021",
+   "path": "local/bihor/lazareni/2021/60",
+   "short": "HCL Lăzăreni nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 60/2021 privind aprobarea Statutului comunei Lăzăreni, județul Bihor",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL60.pdf",
+     "sha256": "d366a4aae5ae3a8e858b72003e08e6065137a6553422269626b5383ac2c96465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-62-2021",
+   "path": "local/bihor/lazareni/2021/62",
+   "short": "HCL Lăzăreni nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 62/2021 privind aprobarea dizolvării, lichidării voluntare și radierea societății SC Compania Reosal SA și divolvarea, lichidarea voluntară și radierea Asociației de Dezvoltare Intercomunitară REOSAL",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL62.pdf",
+     "sha256": "f78eeb618e2a844599ccb4efe7fda2781dc70d0d7e2d8df68a58069a22b5134e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-64-2021",
+   "path": "local/bihor/lazareni/2021/64",
+   "short": "HCL Lăzăreni nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 64/2021 privind aprobarea compensării chiriei datorate cu contravaloarea lucrărilor efectuate de SC RAICOS FARM SRL, în calitate de chiriaș, la imobilul situat în comuna Lăzăreni, sat Bicăcel, nr. 87, cu destinația farmacie",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL64.pdf",
+     "sha256": "045def8393f887edcef0b2039074e0a23b3dcbd088a57ff244ce6bc359f04432"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--lazareni-65-2021",
    "path": "local/bihor/lazareni/2021/65",
    "short": "HCL Lăzăreni nr. 65/2021",
@@ -269,6 +704,291 @@
      "units": 1,
      "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL65.pdf",
      "sha256": "44dcc3f5640206fd23386896a02a3a3d63daf94394fbe096315983e185bc9bbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-66-2021",
+   "path": "local/bihor/lazareni/2021/66",
+   "short": "HCL Lăzăreni nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 66/2021 privind alegerea președintelui de ședință",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL66.pdf",
+     "sha256": "2a6cd1042712ba463f8c895d9e88a4cabde58afa28aaa2930cc8bd2be027da29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-67-2021",
+   "path": "local/bihor/lazareni/2021/67",
+   "short": "HCL Lăzăreni nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 67/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL67.pdf",
+     "sha256": "e89038211884097321603c9d8c1a9f44f775643c6a3484b05f1364a049f10dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-68-2021",
+   "path": "local/bihor/lazareni/2021/68",
+   "short": "HCL Lăzăreni nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 68/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL68.pdf",
+     "sha256": "3c251d6630f842b04754fc5a06e7764db7579441bd8767cc0dd179a0e78d2a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-69-2021",
+   "path": "local/bihor/lazareni/2021/69",
+   "short": "HCL Lăzăreni nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 69/2021 privind aprobarea planului de amplasament ;i delimitare a imobilului, cu suprafața de 1324 mp, având categoria de folosință - drum agricol extravilan - localitatea Lăzăreni, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL69.pdf",
+     "sha256": "c31138788a2152844810a41f867aa7fba126d30c3c603c84ecbb0aaa17dd0e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-7-2021",
+   "path": "local/bihor/lazareni/2021/7",
+   "short": "HCL Lăzăreni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 7/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL%207.pdf",
+     "sha256": "d5c9162e17e9d1f16d32ac9f972bbd6621e7a38f17dd3cd12dd1586da9f9d1b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-70-2021",
+   "path": "local/bihor/lazareni/2021/70",
+   "short": "HCL Lăzăreni nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 70/2021 privind aprobarea planului de amplasament și delimitare a imobilului, cu suprafața de 4679 mp, având categoria de folosință - drum agricol extravilan - localitatea Lăzăreni, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL70.pdf",
+     "sha256": "ca1cab1d9b4584ab9f1c8a2c966cfd0293b53eb51fdc6776bbc1a664fe1c9cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-71-2021",
+   "path": "local/bihor/lazareni/2021/71",
+   "short": "HCL Lăzăreni nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 71/2021 privind aprobarea planului de amplasament și delimitare a imobilului, cu suprafața de 6726 mp, având categoria de folosință - drum agricol extravilan - localitatea Lăzăreni, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL71.pdf",
+     "sha256": "b220d607e23dd487541aa7dbc74a2e99c6194d2c2a6e4ee350a3d24c1cee62a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-72-2021",
+   "path": "local/bihor/lazareni/2021/72",
+   "short": "HCL Lăzăreni nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 72/2021 privind aprobarea planului de amplasament și delimitare a imobilului, cu suprafața de 5665 mp, având categoria de folosință - drum agricol extravilan - loalitatea Miheleu, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL72.pdf",
+     "sha256": "73e23c88a5762a5caf978f829172ef81b76bc5d8536230fd641f8f2f2dc6b214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-73-2021",
+   "path": "local/bihor/lazareni/2021/73",
+   "short": "HCL Lăzăreni nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 73/2021 privind planului de amplasament și delimitare a imobilului, cu suprafața de 2388 mp, având categoria de folosință - drum agricol extravilan - localitatea Cărănzel, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL73.pdf",
+     "sha256": "8d87b3ec231a728dc3dff4940558d79cc39301c73403860346eeea079fa2d563"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-74-2021",
+   "path": "local/bihor/lazareni/2021/74",
+   "short": "HCL Lăzăreni nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 74/2021 privind aprobarea planului de amplasament și delimitare a imobilului, cu suprafață de 3345 mp, având categoria de folosință - drum agricol extravilan - localitatea Cărăndeni, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL74.pdf",
+     "sha256": "0284435fdf56745a2fb95e943607ac7f6759646dcc0cd5f71e9a4fc5f59e24a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-75-2021",
+   "path": "local/bihor/lazareni/2021/75",
+   "short": "HCL Lăzăreni nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 75/2021 privind aprobarea planului de amplasament și delimitare a imobilului, cu suprafața de 17380 mp, având categoria de folosință - drum agricol extravilan - localitatea Calea Mare, proprietate publică a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL75.pdf",
+     "sha256": "558d0e8e11044204b970dc12d3aea0c0e6bc493ffb1a2be405c61ef589972751"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-78-2021",
+   "path": "local/bihor/lazareni/2021/78",
+   "short": "HCL Lăzăreni nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 78/2021 privind stabilirea prețului de vânzare al materialului lemnos provenit din produse accidentale și a prețului lemnului de foc din categoria diverse moi din fondul forestier proprietate a comunei Lăzăreni",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL78.pdf",
+     "sha256": "08869756b570524adf9102cf56d389c7e2eb53856f8d480e60e317e13888ee04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-79-2021",
+   "path": "local/bihor/lazareni/2021/79",
+   "short": "HCL Lăzăreni nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 79/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL79.pdf",
+     "sha256": "40452a08d09a3e4ac28172d6eeeccb8b62481354204b0788bd4e4e0d9d48f8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-80-2021",
+   "path": "local/bihor/lazareni/2021/80",
+   "short": "HCL Lăzăreni nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 80/2021 privind aprobarea ordinii de zi",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL80.pdf",
+     "sha256": "a5b5db0b4ad1f15e1046e22d5b7d194a20d6ee3221651c9c91db4763becd829d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-83-2021",
+   "path": "local/bihor/lazareni/2021/83",
+   "short": "HCL Lăzăreni nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 83/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL83.pdf",
+     "sha256": "081178ec553e481309affd124dfe02d7672d16473adf9178709e45fe9fc02abe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-89-2021",
+   "path": "local/bihor/lazareni/2021/89",
+   "short": "HCL Lăzăreni nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 89/2021 privind alegerea președintelui de ședință",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL89.pdf",
+     "sha256": "3e5713e23a4a7556020bad1f73025543c0fa126b320098c0537f38308e1665ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-93-2021",
+   "path": "local/bihor/lazareni/2021/93",
+   "short": "HCL Lăzăreni nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 93/2021 privind aprobarea indicatorilor tehnico-economici, cofinanțarea și participarea (cererea de finanțare) la Programul Național de Investiții ”Anghel Saligny” pentru obiectivul: ”Înființare rețea de canalizare menajeră și stație de epurare în comuna Lăzăreni, județul Bihor”",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL93.pdf",
+     "sha256": "caa5dff40147486027d05cf26736ad127a120929e93331ca051be6d2194e5d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-94-2021",
+   "path": "local/bihor/lazareni/2021/94",
+   "short": "HCL Lăzăreni nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 94/2021 privind aprobarea indicatorilor tehnico-economici, cofinanțarea și participarea (cerrea de finanțare) la Programul Național de Investiții ”Anghel Saligny” pentru obiectivul: ”Modernizare drumuri și străzi în comuna Lăzăreni”",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL94.pdf",
+     "sha256": "0a4bf581aa444c0d3cfd546fb39c52a2a1ed2344eedb7548f3de5fa70b8845af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--lazareni-99-2021",
+   "path": "local/bihor/lazareni/2021/99",
+   "short": "HCL Lăzăreni nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Lăzăreni nr. 99/2021 privind aprobarea procesului verbal întocmit la ședința anterioară a consiliului local",
+   "url": "https://primarialazareni.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative/2021-2/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://primarialazareni.ro/documente/MOL/HAD/2021/HCL99.pdf",
+     "sha256": "0bbe83d12a8716a0e43013503df50f40ca3a4d6f98f1763d7b5368a649e9b13f"
     }
    ]
   }

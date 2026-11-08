@@ -3,6 +3,50 @@
 "shard": "local/bihor/avram-iancu/2021",
 "acts": [
 {
+"slug": "hcl-bihor--avram-iancu-1-2021",
+"path": "local/bihor/avram-iancu/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 1/2021 privind aprobarea procesului-verbal al sedintei anterioare",
+"short": "HCL Avram Iancu nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26166",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-2-2021",
+"path": "local/bihor/avram-iancu/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 2/2021 privind aprobarea ordinii de zi",
+"short": "HCL Avram Iancu nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26167",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-3-2021",
 "path": "local/bihor/avram-iancu/2021/3",
 "kind": "local",
@@ -69,6 +113,72 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-6-2021",
+"path": "local/bihor/avram-iancu/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 6/2021 privind trecerea din proprietatea Statului roman in domeniul privat al comunei Avram Iancu a imobilelor - teren înscris în CF nr 53830-603 mp ,5381-397 mp,53191-603 mp si 53192-397 mp Avram Iancu, nr top. 744/359, nr.top742/7,nr.top 744/358, nr.top 742/6",
+"short": "HCL Avram Iancu nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26171",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-7-2021",
+"path": "local/bihor/avram-iancu/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 7/2021 privind desemnarea Comisiei speciale de inventariere a domeniului public al comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26172",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-8-2021",
+"path": "local/bihor/avram-iancu/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 8/2021 privind aprobare schiță dezmembrare teren pentru sală de sport Tămașda",
+"short": "HCL Avram Iancu nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26173",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-9-2021",
 "path": "local/bihor/avram-iancu/2021/9",
 "kind": "local",
@@ -88,6 +198,117 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-10-2021",
+"path": "local/bihor/avram-iancu/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 10/2021 privind validarea Dispoziției primarului comunei Avram Iancu nr. 78/31.12.2020 pentru aprobarea proiectului si a cheltuielilor legate de proiectul “Cresterea capacitatii de gestionare a crizei sanitare COVID-19 pentru elevii si cadrele didactice din Comuna Avram Iancu,judetul Bihor\"",
+"short": "HCL Avram Iancu nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26175",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-11-2021",
+"path": "local/bihor/avram-iancu/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 11/2021 privind aprobarea incheierii unui contract de asistenta juridica si reprezentare in instanta cu un cabinet de avocat",
+"short": "HCL Avram Iancu nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26176",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-12-2021",
+"path": "local/bihor/avram-iancu/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 12/2021 privind aprobarea incheierii unui contract pentru inventariere tuturor bunurilor domeniului public si privat al comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26177",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-13-2021",
+"path": "local/bihor/avram-iancu/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 13/2021",
+"short": "HCL Avram Iancu nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26178",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-14-2021",
+"path": "local/bihor/avram-iancu/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 14/2021 privind aprobarea achiziţionării a unui autoturism de serviciu second hand pentru instituţia primarului comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26179",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +334,336 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-16-2021",
+"path": "local/bihor/avram-iancu/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 16/2021 privind aprobarea devizului general actualizat proiect \"Îmbunătățirea infrastructurii de apă și apă uzată în comuna Avram Iancu \"",
+"short": "HCL Avram Iancu nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26181",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-17-2021",
+"path": "local/bihor/avram-iancu/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 17/2021 privind prelungire scrisoare de garanție Reabilitare Camin Cultural",
+"short": "HCL Avram Iancu nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26182",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-18-2021",
+"path": "local/bihor/avram-iancu/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 18/2021 privind aprobarea Procesului-Verbal al sedinței anterioare",
+"short": "HCL Avram Iancu nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26183",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-19-2021",
+"path": "local/bihor/avram-iancu/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 19/2021 privind aprobarea Ordinii de Zi",
+"short": "HCL Avram Iancu nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26184",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-20-2021",
+"path": "local/bihor/avram-iancu/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 20/2021 privind trecerea din proprietatea Statului Român în domeniul privat al comunei Avram Iancu, a imobilului-teren, în suprafața de 5156 mp",
+"short": "HCL Avram Iancu nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26185",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-21-2021",
+"path": "local/bihor/avram-iancu/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 21/2021 privind trecerea din proprietatea Statului roman în domeniul privat al comunei Avram Iancu, a imobilului-teren, înscris în CF nr 53083 Avram Iancu intravilan, nr cadastral 744/153, în suprafața de 240 mp",
+"short": "HCL Avram Iancu nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26186",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-22-2021",
+"path": "local/bihor/avram-iancu/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 22/2021 privind trecerea din proprietatea Statului român în domeniul privat al comunei Avram Iancu, a imobilului-teren, înscris cu nr topografic 878/32, 878/33, 878/34 și 878/35 în suprafața de 4209 mp , Avram Iancu",
+"short": "HCL Avram Iancu nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26187",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-23-2021",
+"path": "local/bihor/avram-iancu/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 23/2021 privind atribuirea în folosință gratuită PAROHIEI REFORMATE TĂMAȘDA, a terenului în suprafața de 17 712 MP, situat în Tămașda,identificat sub nr. Cadastral 53381 înscris în Cartea Funciara nr.53831 Avram Iancu",
+"short": "HCL Avram Iancu nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26188",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-24-2021",
+"path": "local/bihor/avram-iancu/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 24/2021 privind aprobarea încheierii unui contract pentru întocmirea Strategiei de dezvoltare locală a Comunei Avram Iancu pentru perioada 2021-2027",
+"short": "HCL Avram Iancu nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26189",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-25-2021",
+"path": "local/bihor/avram-iancu/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 25/2021 privind trecerea din proprietatea Statului român în domeniul public al comunei Avram Iancu, a retelei stradale din localitatea Avram Iancu",
+"short": "HCL Avram Iancu nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26190",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-26-2021",
+"path": "local/bihor/avram-iancu/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 26/2021 privind rezilierea Contractului de Comodat nr. 3006 din 10.05.2019 încheiat între Comuna Avram Iancu și Asociatia Comunitară” Amare Phrala” Fratii Nostrii Tamasda",
+"short": "HCL Avram Iancu nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26191",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-27-2021",
+"path": "local/bihor/avram-iancu/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 27/2021 privind anulare HCL 35/23.05.2020 privind Fundația ”Un Nou Sens Vieții”",
+"short": "HCL Avram Iancu nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26192",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-28-2021",
+"path": "local/bihor/avram-iancu/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 28/2021 privind alegerea presedintelui de sedință",
+"short": "HCL Avram Iancu nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26193",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-29-2021",
+"path": "local/bihor/avram-iancu/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 29/2021 privind aprobarea procesului-verbal al sedinței anterioare",
+"short": "HCL Avram Iancu nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26194",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-30-2021",
+"path": "local/bihor/avram-iancu/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 30/2021 privind aprobarea ordinii de zi",
+"short": "HCL Avram Iancu nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26195",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-31-2021",
 "path": "local/bihor/avram-iancu/2021/31",
 "kind": "local",
@@ -132,6 +683,50 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-32-2021",
+"path": "local/bihor/avram-iancu/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 32/2021 privind trecerea în inventarul domeniului public al comunei Avram Iancu, a imobilului-teren, inscris cu nr topografic 1291 inscris în CF nr.426, nr topografic 1243/5 inscris în CF nr.999 și nr.topografic 1201/13 din CF nr.2060 , Avram Iancu, în suprafața totala de 3545 mp,reprezentand faptic drumuri comunale intravilan",
+"short": "HCL Avram Iancu nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26197",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-33-2021",
+"path": "local/bihor/avram-iancu/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 33/2021 privind trecerea în inventarul domeniului public al comunei Avram Iancu, a imobilului-teren, inscris cu nr topografic 1240/1 inscris în CF nr.1981, nr topografic 1230/4 inscris în CF nr.263, nr. Topografic 1230/2 inscris în CF NR.266 și nr.topografic 1209/17 din CF nr.1004 , Avram Iancu, în suprafața totala de 7948 mp,reprezentand faptic drumuri comunale intravilan",
+"short": "HCL Avram Iancu nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26198",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +752,50 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-35-2021",
+"path": "local/bihor/avram-iancu/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 35/2021 privind aprobarea procesului-verbal al sedinței anterioare",
+"short": "HCL Avram Iancu nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26251",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-36-2021",
+"path": "local/bihor/avram-iancu/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 36/2021 privind aprobarea Ordinii de Zi",
+"short": "HCL Avram Iancu nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26252",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-37-2021",
 "path": "local/bihor/avram-iancu/2021/37",
 "kind": "local",
@@ -176,6 +815,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-38-2021",
+"path": "local/bihor/avram-iancu/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 38/2021 privind dezmembrarea suprafeței de 940mp/2832 mp din nr. topografic 1080/76 din CF 53133 și trecerea din proprietatea Statului român în domeniul privat al comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/26254",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +903,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-42-2021",
+"path": "local/bihor/avram-iancu/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 42/2021 privind aprobarea Procesului-verbal al sedinței anterioare",
+"short": "HCL Avram Iancu nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-11",
+"latest": "2021-05-11",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/30225",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

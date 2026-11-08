@@ -3,6 +3,50 @@
 "shard": "local/bihor/dobresti/2026",
 "acts": [
 {
+"slug": "hcl-bihor--dobresti-1-2026",
+"path": "local/bihor/dobresti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 1/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/250862",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-2-2026",
+"path": "local/bihor/dobresti/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 2/2026 privind aprobarea ordinii de zi a ședinței extraordinare",
+"short": "HCL Dobrești nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/250863",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-3-2026",
 "path": "local/bihor/dobresti/2026/3",
 "kind": "local",
@@ -25,6 +69,72 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-4-2026",
+"path": "local/bihor/dobresti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 4/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/258120",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-5-2026",
+"path": "local/bihor/dobresti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 5/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dobrești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/258121",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-6-2026",
+"path": "local/bihor/dobresti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 6/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/258122",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-7-2026",
 "path": "local/bihor/dobresti/2026/7",
 "kind": "local",
@@ -44,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-8-2026",
+"path": "local/bihor/dobresti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 8/2026",
+"short": "HCL Dobrești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/258124",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -379,6 +512,50 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-24-2026",
+"path": "local/bihor/dobresti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 24/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264255",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-25-2026",
+"path": "local/bihor/dobresti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 25/2026 privind aprobarea ordinii de zi a ședinței extraordinare",
+"short": "HCL Dobrești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264256",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-26-2026",
 "path": "local/bihor/dobresti/2026/26",
 "kind": "local",
@@ -398,6 +575,116 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-27-2026",
+"path": "local/bihor/dobresti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 27/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264619",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-28-2026",
+"path": "local/bihor/dobresti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 28/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dobrești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264620",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-29-2026",
+"path": "local/bihor/dobresti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 29/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264621",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-30-2026",
+"path": "local/bihor/dobresti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 30/2026 Privind aprobarea Planului de analiză și acoperire a riscurilor (P.A.A.R.), la nivelul Comunei Dobrești, județul Bihor, actualizat în anul 2026",
+"short": "HCL Dobrești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264622",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-31-2026",
+"path": "local/bihor/dobresti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 31/2026 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare pentru gestionarea situațiilor de urgență (P.A.R.U.M.F.) din comuna Dobrești, județul Bihor, pe anul 2026",
+"short": "HCL Dobrești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264623",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -489,6 +776,94 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-36-2026",
+"path": "local/bihor/dobresti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 36/2026 privind aprobarea încheierii actului adițional la PROTOCOLUL DE COLABORARE de transport, manoperă prindere câini, cheltuieli materiale privind gestionarea câinilor fără stăpân din localitatea Dobrești, județul Bihor",
+"short": "HCL Dobrești nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264628",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-37-2026",
+"path": "local/bihor/dobresti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 37/2026 privind atestarea apartenenței la domeniul public al terenului identificat prin CF nr. 52532",
+"short": "HCL Dobrești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264629",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-38-2026",
+"path": "local/bihor/dobresti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 38/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264948",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-39-2026",
+"path": "local/bihor/dobresti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 39/2026 privind aprobarea ordinii de zi a ședinței extraordinare (de îndată)",
+"short": "HCL Dobrești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/264949",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-40-2026",
 "path": "local/bihor/dobresti/2026/40",
 "kind": "local",
@@ -508,6 +883,50 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-41-2026",
+"path": "local/bihor/dobresti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 41/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/266155",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-42-2026",
+"path": "local/bihor/dobresti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 42/2026 privind aprobarea ordinii de zi a ședinței extraordinare (de îndată)",
+"short": "HCL Dobrești nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/266156",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -577,6 +996,50 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-46-2026",
+"path": "local/bihor/dobresti/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 46/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/266821",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-47-2026",
+"path": "local/bihor/dobresti/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 47/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/266822",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-48-2026",
 "path": "local/bihor/dobresti/2026/48",
 "kind": "local",
@@ -596,6 +1059,50 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-49-2026",
+"path": "local/bihor/dobresti/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 49/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/268888",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-50-2026",
+"path": "local/bihor/dobresti/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 50/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/268889",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -640,6 +1147,50 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-53-2026",
+"path": "local/bihor/dobresti/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 53/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/269613",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-54-2026",
+"path": "local/bihor/dobresti/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 54/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/269614",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -709,6 +1260,29 @@
 }
 },
 {
+"slug": "hcl-bihor--dobresti-58-2026",
+"path": "local/bihor/dobresti/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 58/2026",
+"short": "HCL Dobrești nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/269618",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--dobresti-59-2026",
 "path": "local/bihor/dobresti/2026/59",
 "kind": "local",
@@ -728,6 +1302,622 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-60-2026",
+"path": "local/bihor/dobresti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 60/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/273729",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-61-2026",
+"path": "local/bihor/dobresti/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 61/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/273730",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-62-2026",
+"path": "local/bihor/dobresti/2026/62",
+"kind": "local",
+"year": "2026",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 62/2026 Privind introducerea în circuitul civil și înființare Carte Funciară și număr cadastral pentru parcela cu număr top. 1231 Dobrești, în suprafață de 165 mp, precum și trecerea acesteia în domeniul public al Comunei Dobrești",
+"short": "HCL Dobrești nr. 62/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/273731",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-63-2026",
+"path": "local/bihor/dobresti/2026/63",
+"kind": "local",
+"year": "2026",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 63/2026 privind acordarea unui mandat special Asociaţiei de Dezvoltare Intercomunitară ECOLECT GROUP, prin Aparatul tehnic de specialitate și reprezentanții împuterniciți ai acesteia-specialiști în managementul deșeurilor, pentru exercitarea, în numele și pe seama unității administrativ teritoriale Dobrești, a activităților de: verificare tehnică, de monitorizare, prevenire, control, constatare a contravențiilor și de aplicare a sancțiunilor contravenționale (avertisment și amendă contravențională) în domeniul serviciului de salubrizare",
+"short": "HCL Dobrești nr. 63/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/273732",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-64-2026",
+"path": "local/bihor/dobresti/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 64/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277556",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-65-2026",
+"path": "local/bihor/dobresti/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 65/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277557",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-66-2026",
+"path": "local/bihor/dobresti/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 66/2026 privind aprobarea închirierii – prin licitaţie a unui imobil („construcție cu destinație spațiu comercial, în suprafață de 100 mp.”) situat în comuna Dobrești, localitatea Hidișel, nr. FN, județul Bihor – înscris în CF nr. 51347 Dobrești",
+"short": "HCL Dobrești nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277558",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-67-2026",
+"path": "local/bihor/dobresti/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 67/2026 privind aprobarea concesionării – prin licitaţie a unui imobil („teren în suprafață de 1.000 mp.”) situat în comuna Dobrești, loc. Hidișel, judeţul Bihor, înscris in CF nr. 51452 Dobrești sub nr. cad. 51452",
+"short": "HCL Dobrești nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277559",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-68-2026",
+"path": "local/bihor/dobresti/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 68/2026 privind rectificarea bugetului local pe anul 2026",
+"short": "HCL Dobrești nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277560",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-69-2026",
+"path": "local/bihor/dobresti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 69/2026 privind aprobarea situațiilor financiare anuale aferent anului 2025 la SC Salubritate Dobrești SRL și acoperirea pierderilor",
+"short": "HCL Dobrești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277561",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-70-2026",
+"path": "local/bihor/dobresti/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 70/2026 privind aprobarea prelungirii mandatului Consiliului de Administrație provizoriu al regiei autonome Ocolul Silvic Codrii Cămării R.A",
+"short": "HCL Dobrești nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277562",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-71-2026",
+"path": "local/bihor/dobresti/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 71/2026 privind aprobarea actualizarii indicatorilor tehnico-economici și de cofinanțare pentru obiectivul \"Modernizare 15 km drumuri comunale și străzi în comuna Dobrești\", ca efect al prevederilor Ordonanței de urgență nr. 105 / 2023",
+"short": "HCL Dobrești nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277563",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-72-2026",
+"path": "local/bihor/dobresti/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 72/2026 privind actualizarea Regulamentului de Organizare și funcționare a aparatului de specialitate al Primarului Comunei Dobrești",
+"short": "HCL Dobrești nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277564",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-73-2026",
+"path": "local/bihor/dobresti/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 73/2026 privind introducerea în circuitul civil și înființare Carte Funciară și număr cadastral pentru parcela cu număr top. 208 Topa de Jos, în suprafață de 436 mp, precum și trecerea acesteia în domeniul privat al Comunei Dobrești",
+"short": "HCL Dobrești nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277565",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-74-2026",
+"path": "local/bihor/dobresti/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 74/2026 privind aprobarea cesionării Contractului de Concesiune nr. 393 din data de 26.02.2018, având ca obiect spațiul cu destinația de cabinet medical situat în Dobrești, nr. 315B",
+"short": "HCL Dobrești nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277566",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-75-2026",
+"path": "local/bihor/dobresti/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 75/2026 privind aprobarea cesionării Contractului de Concesiune nr. 2851 din data de 09.12.2019, având ca obiect spațiul cu destinația de centru de permanență, situat în Dobrești, nr. 317A",
+"short": "HCL Dobrești nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277567",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-76-2026",
+"path": "local/bihor/dobresti/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 76/2026 privind aprobarea componentei integrale a planului de selecție a membrilor în Consiliul de Administrație al Regiei autonome Ocolul Silvic Codrii Cămării R.A",
+"short": "HCL Dobrești nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277568",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-77-2026",
+"path": "local/bihor/dobresti/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 77/2026 privind modificarea Hotărârii Consiliului Local al comunei Dobrești,nr. 150 / 14.11.2022, privind aprobarea Acordului de Cooperare privind organizarea și exercitarea activității administrative",
+"short": "HCL Dobrești nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/277569",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-78-2026",
+"path": "local/bihor/dobresti/2026/78",
+"kind": "local",
+"year": "2026",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 78/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 78/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/279025",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-79-2026",
+"path": "local/bihor/dobresti/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 79/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/279026",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-80-2026",
+"path": "local/bihor/dobresti/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 80/2026 aprobarea proiectului și a cheltuielilor legate de obiectivul : „Implementarea unui sistem de Alimentare Centralizată cu Energie Termică (SACET) realizat utilizând cogenerarea de înaltă eficiență din biomasă în comuna Dobrești, jud. Bihor”",
+"short": "HCL Dobrești nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/279027",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-81-2026",
+"path": "local/bihor/dobresti/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 81/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici aferenți obiectivului de investiții ,,Creșterea eficienței energetice și gestionarea inteligentă a energiei în Școala Gimnazială, nr. 2, loc. Luncasprie, comuna Dobrești, județul Bihor\"",
+"short": "HCL Dobrești nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/279028",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-82-2026",
+"path": "local/bihor/dobresti/2026/82",
+"kind": "local",
+"year": "2026",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 82/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 82/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282353",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-83-2026",
+"path": "local/bihor/dobresti/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 83/2026 privind alegerea președintelui de ședință",
+"short": "HCL Dobrești nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282354",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-84-2026",
+"path": "local/bihor/dobresti/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 84/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282355",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-85-2026",
+"path": "local/bihor/dobresti/2026/85",
+"kind": "local",
+"year": "2026",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 85/2026 privind rectificarea bugetului local pe anul 2026 și a bugetului finanțat din venituri proprii și subvenții",
+"short": "HCL Dobrești nr. 85/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282356",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-86-2026",
+"path": "local/bihor/dobresti/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 86/2026 privind aprobarea devizului general actualizat și a indicatorilor tehnico-economici aferenți obiectivului de investiții „ÎNFIINȚARE CENTRU DE COLECTARE DEȘEURI, ÎN COMUNA DOBREȘTI, JUDEȚUL BIHOR”",
+"short": "HCL Dobrești nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282357",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-87-2026",
+"path": "local/bihor/dobresti/2026/87",
+"kind": "local",
+"year": "2026",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 87/2026 privind introducerea în circuitul civil și înființare Carte Funciară și număr cadastral pentru parcela cu număr top. 479/2a LUNCASPRIE, în suprafață de 208 mp, precum și trecerea acesteia în domeniul privat al Comunei Dobrești",
+"short": "HCL Dobrești nr. 87/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282358",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -794,6 +1984,358 @@
 "council_name": "Consiliul Local al Comunei Dobrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-91-2026",
+"path": "local/bihor/dobresti/2026/91",
+"kind": "local",
+"year": "2026",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 91/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 91/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282979",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-92-2026",
+"path": "local/bihor/dobresti/2026/92",
+"kind": "local",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 92/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 92/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282980",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-93-2026",
+"path": "local/bihor/dobresti/2026/93",
+"kind": "local",
+"year": "2026",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 93/2026 privind rectificarea bugetului local al comunei Dobrești pe anul 2026",
+"short": "HCL Dobrești nr. 93/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/282981",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-94-2026",
+"path": "local/bihor/dobresti/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 94/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 94/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287083",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-95-2026",
+"path": "local/bihor/dobresti/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 95/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287084",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-96-2026",
+"path": "local/bihor/dobresti/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 96/2026 privind aprobarea Protocolului de colaborare încheiat între Comuna Dobrești, județul Bihor, și Administrația Națională „Apele Române” – Administrația Bazinală de Apă Crișuri, în vederea implementării și finalizării în bune condiții a obiectivului de investiții „Acumulare nepermanentă Corbești, județul Bihor”",
+"short": "HCL Dobrești nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287085",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-97-2026",
+"path": "local/bihor/dobresti/2026/97",
+"kind": "local",
+"year": "2026",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 97/2026 privind declararea de utilitate publică și de interes public local a obiectivului de investiții „Acumulare nepermanentă Corbești, județul Bihor”, precum și aprobarea indicatorilor tehnico-economici al obiectivului de investiție",
+"short": "HCL Dobrești nr. 97/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287086",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-98-2026",
+"path": "local/bihor/dobresti/2026/98",
+"kind": "local",
+"year": "2026",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 98/2026 privind aprobarea efectuării demersurilor necesare pentru scoaterea definitivă din fondul forestier național a suprafeței totale de 6.318 mp, în vederea implementării și finalizării obiectivului de investiții „Acumulare nepermanentă Corbești”",
+"short": "HCL Dobrești nr. 98/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287087",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-99-2026",
+"path": "local/bihor/dobresti/2026/99",
+"kind": "local",
+"year": "2026",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 99/2026 privind aprobarea participarii in cadrul apelului de proiecte ” Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice” finantat din Programul-cheie 1: Surse regenerabile de energie și stocarea energiei, a Studiului de Fezabilitate, a indicatorilor tehnico-economici, a cheltuielilor aferente proiectului, asigurarea cofinanţării proiectului, asigurarea fluxului financiar şi acoperirea contravalorii cheltuielilor neeligibile aferente proiectului „Capacitati de stocare a energiei electrice produsa din surse regenerabile in comuna Dobresti, judetul Bihor”",
+"short": "HCL Dobrești nr. 99/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-16",
+"latest": "2026-09-16",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287088",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-100-2026",
+"path": "local/bihor/dobresti/2026/100",
+"kind": "local",
+"year": "2026",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 100/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 100/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287650",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-101-2026",
+"path": "local/bihor/dobresti/2026/101",
+"kind": "local",
+"year": "2026",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 101/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 101/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287651",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-102-2026",
+"path": "local/bihor/dobresti/2026/102",
+"kind": "local",
+"year": "2026",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 102/2026 privind aprobarea încheierii unui Protocol de Colaborare între Comuna Dobrești și Administrația Bazinală de Apă Crișuri Bihor și asumarea cheltuielilor cu combustibilul necesar utilajelor, în vederea amenajării albiei râului Vida",
+"short": "HCL Dobrești nr. 102/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/287652",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-103-2026",
+"path": "local/bihor/dobresti/2026/103",
+"kind": "local",
+"year": "2026",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 103/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 103/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/289529",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-104-2026",
+"path": "local/bihor/dobresti/2026/104",
+"kind": "local",
+"year": "2026",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 104/2026 privind aprobarea ordinii de zi",
+"short": "HCL Dobrești nr. 104/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/289530",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-105-2026",
+"path": "local/bihor/dobresti/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 105/2026 privind aprobarea participarii in cadrul apelului de proiecte ” Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice” finantat din Programul-cheie 1: Surse regenerabile de energie și stocarea energiei, a Studiului de Fezabilitate, a indicatorilor tehnico-economici, a cheltuielilor aferente proiectului, asigurarea cofinanţării proiectului, asigurarea fluxului financiar şi acoperirea contravalorii cheltuielilor neeligibile aferente proiectului „Capacitati de stocare a energiei electrice produsa din surse regenerabile in comuna Dobresti, judetul Bihor”",
+"short": "HCL Dobrești nr. 105/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/289531",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--dobresti-106-2026",
+"path": "local/bihor/dobresti/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 106/2026 privind aprobarea procesului-verbal al ședinței anterioare",
+"short": "HCL Dobrești nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://emol.ro/dobresti-bh/registru-hcl/291775",
+"council": "bihor/dobresti",
+"council_name": "Consiliul Local al Comunei Dobrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

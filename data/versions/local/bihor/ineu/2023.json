@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-26-2023",
+   "path": "local/bihor/ineu/2023/26",
+   "short": "HCL Ineu nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 26/2023 privind aprobarea modificării și completării HCL nr.13 din 31.01.2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/100585",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/100585",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-27-2023",
    "path": "local/bihor/ineu/2023/27",
    "short": "HCL Ineu nr. 27/2023",
@@ -288,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-28-2023",
+   "path": "local/bihor/ineu/2023/28",
+   "short": "HCL Ineu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 28/2023 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/102402",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/102402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-29-2023",
+   "path": "local/bihor/ineu/2023/29",
+   "short": "HCL Ineu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 29/2023 privind aprobarea „neasumarea” programului pentru școli a României”",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/102403",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/102403",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-3-2023",
    "path": "local/bihor/ineu/2023/3",
    "short": "HCL Ineu nr. 3/2023",
@@ -298,6 +343,36 @@
      "from": "2023-04-18",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/100536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-30-2023",
+   "path": "local/bihor/ineu/2023/30",
+   "short": "HCL Ineu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 30/2023 privind aprobarea ordinii de zi a ședinței extraordinare",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/102404",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/102404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-31-2023",
+   "path": "local/bihor/ineu/2023/31",
+   "short": "HCL Ineu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 31/2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/102405",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/102405",
      "sha256": null
     }
    ]
@@ -408,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-39-2023",
+   "path": "local/bihor/ineu/2023/39",
+   "short": "HCL Ineu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 39/2023 privind aprobarea ordinii de zi a ședinței extraordinare din 09.05.2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/103869",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/103869",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-4-2023",
    "path": "local/bihor/ineu/2023/4",
    "short": "HCL Ineu nr. 4/2023",
@@ -423,6 +513,156 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ineu-40-2023",
+   "path": "local/bihor/ineu/2023/40",
+   "short": "HCL Ineu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 40/2023 privind Aprobarea documentatiei tehnico-economice (faza DALI) si a inidicatorilor tehnico-economici privind obiectivul de investitii \"Reabilitarea energetică moderată a clădirii Primăriei Comunei INEU - Corp C1, județul BIHOR\" finantat in cadrul Planului National de Redresare si Rezilienta, Componenta C10-Fond Local",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/103870",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/103870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-41-2023",
+   "path": "local/bihor/ineu/2023/41",
+   "short": "HCL Ineu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 41/2023 privind aprobarea ordinii de zi a ședinței ordinare din 30.05.2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107685",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-42-2023",
+   "path": "local/bihor/ineu/2023/42",
+   "short": "HCL Ineu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 42/2023 privind aprobarea constituirii unui nr.cadastral în suprafață de 800 mp din top 1064/59 înscris în C.F.50633-Ineu si înscrierea lui în domeniul public al comunei Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107686",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-43-2023",
+   "path": "local/bihor/ineu/2023/43",
+   "short": "HCL Ineu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 43/2023 privind aprobarea înființării cărții funciare pentru nr.cad.55461,55462,55463 rezultate în urma dezmembrării cad.52536",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107687",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-44-2023",
+   "path": "local/bihor/ineu/2023/44",
+   "short": "HCL Ineu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 44/2023 privind aprobarea Planului Urbanistic Zonal pentru introducere teren în intravilan nr. Cad.55132, pentru amplasare construcții turistice si anexe comuna Ineu, sat Ineu, județul Bihor",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107688",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-45-2023",
+   "path": "local/bihor/ineu/2023/45",
+   "short": "HCL Ineu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 45/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Ineu , pentru anul 2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107689",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-46-2023",
+   "path": "local/bihor/ineu/2023/46",
+   "short": "HCL Ineu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 46/2023 privind includerea UAT Comuna INEU în parteneriatul LEADER care va implementa viitoarea Strategie de Dezvoltare Locala 2023-2027 finanțată în cadrul Planului Strategic pentru GAL ZONA METROPOLITANA SI CAMPIA CRISULUI",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107690",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-47-2023",
+   "path": "local/bihor/ineu/2023/47",
+   "short": "HCL Ineu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 47/2023 privind aprobarea Planului Urbanistic Zonal ,,Introducere teren in intravilan nr.cad.54332 ,pentru construire unitate de cazare turistică si amenajare incintă, în comuna Ineu, satul Husasău de Criș, județul Bihor”",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/107691",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/107691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-48-2023",
+   "path": "local/bihor/ineu/2023/48",
+   "short": "HCL Ineu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 48/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/114003",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/114003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-49-2023",
+   "path": "local/bihor/ineu/2023/49",
+   "short": "HCL Ineu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 49/2023 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Ineu din data 26 iulie 2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/114004",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/114004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ineu-5-2023",
    "path": "local/bihor/ineu/2023/5",
    "short": "HCL Ineu nr. 5/2023",
@@ -433,6 +673,81 @@
      "from": "2023-04-18",
      "units": 1,
      "source_url": "https://emol.ro/ineu-bh/registru-hcl/100538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-50-2023",
+   "path": "local/bihor/ineu/2023/50",
+   "short": "HCL Ineu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 50/2023 privind rectificarea bugetului de venituri si cheltuieli",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/114005",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/114005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-51-2023",
+   "path": "local/bihor/ineu/2023/51",
+   "short": "HCL Ineu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 51/2023 privind aprobarea concesionării directe a spaţiului cu destinaţia de cabinet medical - stomatologie, situat în incinta Centrului medical din Comuna Ineu, satul Ineu",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/114006",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/114006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-52-2023",
+   "path": "local/bihor/ineu/2023/52",
+   "short": "HCL Ineu nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 52/2023 privind aprobarea înființării cărții funciare pentru nr.cad.55485,55486 rezultate în urma dezmembrării cad.54028",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/114007",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/114007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-53-2023",
+   "path": "local/bihor/ineu/2023/53",
+   "short": "HCL Ineu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 53/2023 privind aprobarea ordinii de zi propusă pentru şedinţa ordinară a Consiliului Local Ineu din data 22 septembrie 2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/121565",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/121565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ineu-54-2023",
+   "path": "local/bihor/ineu/2023/54",
+   "short": "HCL Ineu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ineu nr. 54/2023 privind rectificarea bugetului de venituri si cheltuieli pentru anul 2023",
+   "url": "https://emol.ro/ineu-bh/registru-hcl/121566",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ineu-bh/registru-hcl/121566",
      "sha256": null
     }
    ]

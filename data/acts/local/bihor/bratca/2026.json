@@ -3,6 +3,72 @@
 "shard": "local/bihor/bratca/2026",
 "acts": [
 {
+"slug": "hcl-bihor--bratca-1-2026",
+"path": "local/bihor/bratca/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 1/2026 privind alegerea președintelui de ședință ordinară-extraordinară a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251116",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-2-2026",
+"path": "local/bihor/bratca/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 2/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară a Consiliului local al comunei Bratca din data de 22.12.2025",
+"short": "HCL Bratca nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251117",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-3-2026",
+"path": "local/bihor/bratca/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 3/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251118",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-4-2026",
 "path": "local/bihor/bratca/2026/4",
 "kind": "local",
@@ -25,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-5-2026",
+"path": "local/bihor/bratca/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 5/2026 privind modificarea și completarea HCL nr. 54/2010 privind stabilirea indemnizației de care beneficiază personalul voluntar din serviciul de urgență voluntar al Comunei Bratca",
+"short": "HCL Bratca nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251132",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-6-2026",
+"path": "local/bihor/bratca/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 6/2026 privind aprobarea Organigramei Serviciului Voluntar pentru Situații de Urgență al Comunei Bratca",
+"short": "HCL Bratca nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251136",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-7-2026",
 "path": "local/bihor/bratca/2026/7",
 "kind": "local",
@@ -44,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-8-2026",
+"path": "local/bihor/bratca/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 8/2026 privind propunerea de acceptare a ofertei de donație fără sarcini a suprafeței de 292 mp teren din imobilul cu nr. cadastral 58452 înscris în C.F nr. 58452 Bratca, în vederea constituirii unui drum public de acces în satul Damiș, comuna Bratca",
+"short": "HCL Bratca nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251140",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +289,73 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-14-2026",
+"path": "local/bihor/bratca/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 14/2026",
+"short": "HCL Bratca nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-04",
+"latest": "2026-02-04",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/251154",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-15-2026",
+"path": "local/bihor/bratca/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 15/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 30.01.2026",
+"short": "HCL Bratca nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256705",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-16-2026",
+"path": "local/bihor/bratca/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 16/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256706",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-17-2026",
 "path": "local/bihor/bratca/2026/17",
 "kind": "local",
@@ -176,6 +375,186 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-18-2026",
+"path": "local/bihor/bratca/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 18/2026",
+"short": "HCL Bratca nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256802",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-19-2026",
+"path": "local/bihor/bratca/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 19/2026 privind stabilirea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică, la nivelul Comunei Bratca",
+"short": "HCL Bratca nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256807",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-20-2026",
+"path": "local/bihor/bratca/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 20/2026 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Bratca pentru a face parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Bratca",
+"short": "HCL Bratca nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256811",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-21-2026",
+"path": "local/bihor/bratca/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 21/2026",
+"short": "HCL Bratca nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256821",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-22-2026",
+"path": "local/bihor/bratca/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 22/2026",
+"short": "HCL Bratca nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256822",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-23-2026",
+"path": "local/bihor/bratca/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 23/2026",
+"short": "HCL Bratca nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256823",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-24-2026",
+"path": "local/bihor/bratca/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 24/2026 privind achiziționarea unor servicii juridice, pentru apărarea intereselor Comunei Bratca și ale instituțiilor administrației publice locale ale Comunei Bratca în instanță, în vederea soluționării litigiului în dosarul nr. 3232/177/2025",
+"short": "HCL Bratca nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256824",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-25-2026",
+"path": "local/bihor/bratca/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 25/2026 privind propunerea de aprobare a trecerii din domeniul privat al comunei Bratca în domeniul public al comunei Bratca și în administrarea Consiliului local al comunei Bratca a suprafeței de 342 mp teren de sub nr. cadastral 58643 înscris în coala C.F nr. 58643 Bratca și a suprafeței de 300 mp teren de sub nr. cadastral 58644 înscris în coala C.F nr. 58644 Bratca",
+"short": "HCL Bratca nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256825",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +624,72 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-29-2026",
+"path": "local/bihor/bratca/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 29/2026 privind aprobarea prețului de vânzare a lemnului de foc ce nu se valorifică pentru populație și a prețului de vânzare pentru produsele prefabricate din Depozitul Beznea",
+"short": "HCL Bratca nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/256834",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-30-2026",
+"path": "local/bihor/bratca/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 30/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 25.02.2026",
+"short": "HCL Bratca nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/257081",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-31-2026",
+"path": "local/bihor/bratca/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 31/2026 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/257082",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-32-2026",
 "path": "local/bihor/bratca/2026/32",
 "kind": "local",
@@ -267,6 +712,72 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-33-2026",
+"path": "local/bihor/bratca/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 33/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară convocată de îndată a Consiliului local al comunei Bratca din data de 03.03.2026",
+"short": "HCL Bratca nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/258685",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-34-2026",
+"path": "local/bihor/bratca/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 34/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/258686",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-35-2026",
+"path": "local/bihor/bratca/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 35/2026 privind modificarea și completarea anexei nr. II la HCL nr. 178/22.12.2025 privind stabilirea și indexarea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Bratca nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/258691",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-36-2026",
 "path": "local/bihor/bratca/2026/36",
 "kind": "local",
@@ -286,6 +797,29 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-37-2026",
+"path": "local/bihor/bratca/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 37/2026",
+"short": "HCL Bratca nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/258693",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -333,6 +867,72 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-40-2026",
+"path": "local/bihor/bratca/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 40/2026 privind alegerea președintelui de ședință ordinară-extraordinară a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/264045",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-41-2026",
+"path": "local/bihor/bratca/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 41/2026 privind aprobarea procesului-verbal încheiat în ședință ordinară a Consiliului local al comunei Bratca din data de 13.03.2026",
+"short": "HCL Bratca nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/264046",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-42-2026",
+"path": "local/bihor/bratca/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 42/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/264048",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-43-2026",
 "path": "local/bihor/bratca/2026/43",
 "kind": "local",
@@ -353,6 +953,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-44-2026",
+"path": "local/bihor/bratca/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 44/2026 privind aprobarea prețului de vânzare la licitație a materialului lemnos pe picior pentru partizile încrise în lista nr. 686/23.03.2026 a O.S Brătcuța R.A",
+"short": "HCL Bratca nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/264050",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -378,6 +1000,50 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-46-2026",
+"path": "local/bihor/bratca/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 46/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară a Consiliului local al Comunei Bratca din data de 16.04.2026",
+"short": "HCL Bratca nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267806",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-47-2026",
+"path": "local/bihor/bratca/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 47/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267811",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-48-2026",
 "path": "local/bihor/bratca/2026/48",
 "kind": "local",
@@ -397,6 +1063,97 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-49-2026",
+"path": "local/bihor/bratca/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 49/2026",
+"short": "HCL Bratca nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267815",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-50-2026",
+"path": "local/bihor/bratca/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 50/2026 privind soluționarea cererii Bisericii Penticostale din cătunul Secătură, localitatea Bratca",
+"short": "HCL Bratca nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267816",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-51-2026",
+"path": "local/bihor/bratca/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 51/2026",
+"short": "HCL Bratca nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267819",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-52-2026",
+"path": "local/bihor/bratca/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 52/2026",
+"short": "HCL Bratca nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267820",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -422,6 +1179,29 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-54-2026",
+"path": "local/bihor/bratca/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 54/2026",
+"short": "HCL Bratca nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267844",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--bratca-55-2026",
 "path": "local/bihor/bratca/2026/55",
 "kind": "local",
@@ -444,6 +1224,28 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-56-2026",
+"path": "local/bihor/bratca/2026/56",
+"kind": "local",
+"year": "2026",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 56/2026 privind modificarea și completarea HCL nr. 45/16.04.2026 privind aprobarea Organigramei și a Statului de funcții pentru funcțiile publice și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Bratca",
+"short": "HCL Bratca nr. 56/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/267846",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-57-2026",
 "path": "local/bihor/bratca/2026/57",
 "kind": "local",
@@ -463,6 +1265,50 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-58-2026",
+"path": "local/bihor/bratca/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 58/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 07.05.2026",
+"short": "HCL Bratca nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270147",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-59-2026",
+"path": "local/bihor/bratca/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 59/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270148",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -599,6 +1445,120 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-66-2026",
+"path": "local/bihor/bratca/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 66/2026",
+"short": "HCL Bratca nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270172",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-67-2026",
+"path": "local/bihor/bratca/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 67/2026 privind aprobarea prețului de vânzare a cantității de 6,36 mc material lemnos din pădurea proprietate a comunei Bratca UP II Pășune Bratca, u.a 504A",
+"short": "HCL Bratca nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270179",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-68-2026",
+"path": "local/bihor/bratca/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 68/2026",
+"short": "HCL Bratca nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270180",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-69-2026",
+"path": "local/bihor/bratca/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 69/2026",
+"short": "HCL Bratca nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270181",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-70-2026",
+"path": "local/bihor/bratca/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 70/2026",
+"short": "HCL Bratca nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/270182",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--bratca-71-2026",
 "path": "local/bihor/bratca/2026/71",
 "kind": "local",
@@ -643,6 +1603,50 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-73-2026",
+"path": "local/bihor/bratca/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 73/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 20.05.2026",
+"short": "HCL Bratca nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/271392",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-74-2026",
+"path": "local/bihor/bratca/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 74/2026 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-29",
+"latest": "2026-05-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/271393",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-75-2026",
 "path": "local/bihor/bratca/2026/75",
 "kind": "local",
@@ -666,6 +1670,50 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-76-2026",
+"path": "local/bihor/bratca/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 76/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară convocată de îndată a Consiliului local al comunei Bratca din data de 27.05.2026",
+"short": "HCL Bratca nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277819",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-77-2026",
+"path": "local/bihor/bratca/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 77/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277820",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-78-2026",
 "path": "local/bihor/bratca/2026/78",
 "kind": "local",
@@ -685,6 +1733,50 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-79-2026",
+"path": "local/bihor/bratca/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 79/2026 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ECOLECT GROUP, prin Aparatul tehnic de specialitate și reprezentanții împuterniciți ai acesteia - specialiști în managementul deșeurilor, pentru exercitarea, în numele și pe seama unității administrativ-teritoriale Bratca, a activităților de verificare tehnică, de monitorizare, prevenire, control, constatare a contravențiilor și de aplicare a sancțiunilor contravenționale (avertisment și amendă contravențională) în domeniul serviciului de salubrizare",
+"short": "HCL Bratca nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277822",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-80-2026",
+"path": "local/bihor/bratca/2026/80",
+"kind": "local",
+"year": "2026",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 80/2026 privind formarea unui număr cadastral și înscrierea în Cartea funciară în favoarea domeniului public al comunei Bratca a suprafeței de 1252 mp teren din imobilul cu nr. top 2891/1 înscris în CF 56961 Bratca",
+"short": "HCL Bratca nr. 80/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277826",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -732,6 +1824,51 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-83-2026",
+"path": "local/bihor/bratca/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 83/2026",
+"short": "HCL Bratca nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277830",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-84-2026",
+"path": "local/bihor/bratca/2026/84",
+"kind": "local",
+"year": "2026",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 84/2026 privind aprobarea prețului de vânzare la licitație a materialului lemnos pe piciorpentru partizile înscrise în lista 1446/03.06.2026 și pentru loturile de buștean gater înscrise în lista nr. 1448/03.06.2026 a O.S Brătcuța R.A",
+"short": "HCL Bratca nr. 84/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277835",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-85-2026",
 "path": "local/bihor/bratca/2026/85",
 "kind": "local",
@@ -754,6 +1891,28 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-86-2026",
+"path": "local/bihor/bratca/2026/86",
+"kind": "local",
+"year": "2026",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 86/2026 privind arobarea încheierii unui contract de comodat între Comuna Bratca și Serviciul de Ambulanță Județean Bihor pentru imobilul reprezentând ''Clădire Substație salvare în suprafață de 126 mp'', construcție aflată în domeniul public al comunei Bratca",
+"short": "HCL Bratca nr. 86/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277837",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-87-2026",
 "path": "local/bihor/bratca/2026/87",
 "kind": "local",
@@ -773,6 +1932,116 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-88-2026",
+"path": "local/bihor/bratca/2026/88",
+"kind": "local",
+"year": "2026",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 88/2026 privind aprobarea prețului de vânzare a lemnului de foc ce nuse poate valorifica pentru populație și a prețurilor de vânzare pentru produsele prefabricate din Depozitul Beznea",
+"short": "HCL Bratca nr. 88/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277844",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-89-2026",
+"path": "local/bihor/bratca/2026/89",
+"kind": "local",
+"year": "2026",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 89/2026 privind formarea unui număr cadastral și înscrierea în Cartea Funciară în favoarea domeniului public al comunei Bratca a suprafeței de 441 mp, formată din suprafața de 181/297 mp din imobilul cu nr. top 63/1, suprafața de 58/995 mp din imobilul cu nr. top 64/2, suprafața de 202/202 mp din imobilul cu nr. top 63/4 înscrise în CF nr. 40 Bratca",
+"short": "HCL Bratca nr. 89/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/277845",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-90-2026",
+"path": "local/bihor/bratca/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 90/2026 privind alegerea președintelui de ședință ordinară-extraordinară a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/278045",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-91-2026",
+"path": "local/bihor/bratca/2026/91",
+"kind": "local",
+"year": "2026",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 91/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 30.06.2026",
+"short": "HCL Bratca nr. 91/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/278046",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-92-2026",
+"path": "local/bihor/bratca/2026/92",
+"kind": "local",
+"year": "2026",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 92/2026 privind aprobarea ordinii de zi a ședinței extraordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 92/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/278047",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -820,6 +2089,116 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-95-2026",
+"path": "local/bihor/bratca/2026/95",
+"kind": "local",
+"year": "2026",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 95/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară a Consiliului local al comunei Bratca din data de 08.07.2026",
+"short": "HCL Bratca nr. 95/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/280318",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-96-2026",
+"path": "local/bihor/bratca/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 96/2026 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/280319",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-97-2026",
+"path": "local/bihor/bratca/2026/97",
+"kind": "local",
+"year": "2026",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 97/2026 privind modificarea și completarea Anexei nr. 1, Anexei nr. 2 și Anexei nr. 3 la HCL nr. 26 din 25 februarie 2026 pentru aprobarea implementării proiectului ''Construire Capelă Mortuară în localitate Ponoara, comuna Bratca''",
+"short": "HCL Bratca nr. 97/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/280320",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-98-2026",
+"path": "local/bihor/bratca/2026/98",
+"kind": "local",
+"year": "2026",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 98/2026 privind aprobarea procesului-verbal încheiat în ședință extraordinară convocată de îndată a Consiliului local al comunei Bratca din data de 28.07.2026",
+"short": "HCL Bratca nr. 98/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283596",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-99-2026",
+"path": "local/bihor/bratca/2026/99",
+"kind": "local",
+"year": "2026",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 99/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 99/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283597",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-100-2026",
 "path": "local/bihor/bratca/2026/100",
 "kind": "local",
@@ -839,6 +2218,29 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-101-2026",
+"path": "local/bihor/bratca/2026/101",
+"kind": "local",
+"year": "2026",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 101/2026",
+"short": "HCL Bratca nr. 101/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283600",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -864,6 +2266,51 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-103-2026",
+"path": "local/bihor/bratca/2026/103",
+"kind": "local",
+"year": "2026",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 103/2026 privind numirea unui administrator provizoriu la Ocolul Silvic Brătcuța R.A Bratca și pentru modificarea și completarea Actului constitutiv al Ocolului Silvic ''Brătcuța'' R.A Bratca",
+"short": "HCL Bratca nr. 103/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283603",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-104-2026",
+"path": "local/bihor/bratca/2026/104",
+"kind": "local",
+"year": "2026",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 104/2026",
+"short": "HCL Bratca nr. 104/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283604",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--bratca-105-2026",
 "path": "local/bihor/bratca/2026/105",
 "kind": "local",
@@ -883,6 +2330,28 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-106-2026",
+"path": "local/bihor/bratca/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 106/2026 privind aprobarea prețului de vânzare la licitație a materialului lemnos pe picior pentru partizile înscrise în lista nr. 1887/26.06.2026, lista nr. 1976/23.07.2026 și pentru loturile de buștean gater înscrise în lista nr. 1888/17.07.2026 a O.S Brătcuța R.A",
+"short": "HCL Bratca nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/283607",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -930,6 +2399,229 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-109-2026",
+"path": "local/bihor/bratca/2026/109",
+"kind": "local",
+"year": "2026",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 109/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 13.08.2026",
+"short": "HCL Bratca nr. 109/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/288063",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-110-2026",
+"path": "local/bihor/bratca/2026/110",
+"kind": "local",
+"year": "2026",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 110/2026 privind aprobarea ordinei de zi a ședinței extraordinare convocată de îndată a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 110/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/288064",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-111-2026",
+"path": "local/bihor/bratca/2026/111",
+"kind": "local",
+"year": "2026",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 111/2026 privind formarea unui număr cadastral și înscrierea în Cartea funciară în favoarea domeniului public al comunei Brtaca a suprafeței de 4312 mp teren din imobilul cu nr. top 1525 înscris în CF nr. 249 Beznea",
+"short": "HCL Bratca nr. 111/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/288065",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-112-2026",
+"path": "local/bihor/bratca/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 112/2026 privind aprobarea procesului-verbal încheiat în ședința extraordinară convocată de îndată a Consiliului local al comunei Bratca din data de 17.09.2026",
+"short": "HCL Bratca nr. 112/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289494",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-113-2026",
+"path": "local/bihor/bratca/2026/113",
+"kind": "local",
+"year": "2026",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 113/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Bratca",
+"short": "HCL Bratca nr. 113/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289495",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-114-2026",
+"path": "local/bihor/bratca/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 114/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026, a planului de achiziții pe anul 2026, a listei de investiții pe anul 2026, centralizatorului de calcul salarii și indemnizații pe anul 2026 și a organigramei și statului de funcții pe anul 2026, pentru Ocolul Silvic Brătcuța R.A Bratca",
+"short": "HCL Bratca nr. 114/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289498",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-115-2026",
+"path": "local/bihor/bratca/2026/115",
+"kind": "local",
+"year": "2026",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 115/2026 privind aprobarea prețului de vânzare la licitație a materialului lemnos pe picior pentru partizile înscrise în lista nr. 2624/09.09.2026, lista ne. 2627/09.09.2026, lista nr. 2724/18.09.2026 și reducerea prețului de vânzare la licitație pentru lotul de buștean înscris în lista nr. 2733/18.09.2026 a O.S Brătcuța R.A",
+"short": "HCL Bratca nr. 115/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289499",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-116-2026",
+"path": "local/bihor/bratca/2026/116",
+"kind": "local",
+"year": "2026",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 116/2026",
+"short": "HCL Bratca nr. 116/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289500",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-117-2026",
+"path": "local/bihor/bratca/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 117/2026",
+"short": "HCL Bratca nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289501",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-118-2026",
+"path": "local/bihor/bratca/2026/118",
+"kind": "local",
+"year": "2026",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 118/2026",
+"short": "HCL Bratca nr. 118/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289502",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--bratca-119-2026",
 "path": "local/bihor/bratca/2026/119",
 "kind": "local",
@@ -949,6 +2641,74 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-120-2026",
+"path": "local/bihor/bratca/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 120/2026",
+"short": "HCL Bratca nr. 120/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289517",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-121-2026",
+"path": "local/bihor/bratca/2026/121",
+"kind": "local",
+"year": "2026",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 121/2026",
+"short": "HCL Bratca nr. 121/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289518",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--bratca-122-2026",
+"path": "local/bihor/bratca/2026/122",
+"kind": "local",
+"year": "2026",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 122/2026 privind modificarea anexei nr. 1 la HCL nr. 110/27.07.2017 privind aprobarea salariilor de bază pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Bratca, cu modificările și completările ulterioare",
+"short": "HCL Bratca nr. 122/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289519",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -974,6 +2734,28 @@
 }
 },
 {
+"slug": "hcl-bihor--bratca-124-2026",
+"path": "local/bihor/bratca/2026/124",
+"kind": "local",
+"year": "2026",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 124/2026 privind soluționarea cererii Parohiei Ortodoxe Damiș",
+"short": "HCL Bratca nr. 124/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289521",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--bratca-125-2026",
 "path": "local/bihor/bratca/2026/125",
 "kind": "local",
@@ -993,6 +2775,28 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-126-2026",
+"path": "local/bihor/bratca/2026/126",
+"kind": "local",
+"year": "2026",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 126/2026 privind desemnarea reprezentanților Consiliului local al comunei Bratca în Consiliul de Administrație al Licelui Teoretic nr. 1 Bratca, pentru anul școlar 2026/2027",
+"short": "HCL Bratca nr. 126/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-25",
+"latest": "2026-09-25",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/289523",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1037,6 +2841,50 @@
 "council_name": "Consiliul Local al Comunei Bratca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--bratca-129-2026",
+"path": "local/bihor/bratca/2026/129",
+"kind": "local",
+"year": "2026",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 129/2026 privind aprobarea procesului-verbal încheiat în ședința ordinară a Consiliului local al comunei Bratca din data de 22.09.2026",
+"short": "HCL Bratca nr. 129/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/291636",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--bratca-130-2026",
+"path": "local/bihor/bratca/2026/130",
+"kind": "local",
+"year": "2026",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bratca nr. 130/2026 privind aprobarea ordinii de zi a ședinței extraordinare convocată de îndată a Consiliului local al comunei Bratca din data de 29 septembrie 2026",
+"short": "HCL Bratca nr. 130/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-02",
+"latest": "2026-10-02",
+"portal": "https://emol.ro/bratca-bh/registru-hcl/291637",
+"council": "bihor/bratca",
+"council_name": "Consiliul Local al Comunei Bratca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

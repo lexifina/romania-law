@@ -3,6 +3,36 @@
  "shard": "local/bihor/auseu/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--auseu-1-2021",
+   "path": "local/bihor/auseu/2021/1",
+   "short": "HCL Aușeu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aușeu nr. 1/2021 privind aprobare proces verbal Av6nd in vedere prevederile art. 138 alin. (15) din Ordonanla de urgenld nr.5712019 privind Codul administrativ, cu modificdrile qi completdrile ulterioare; In baza prevederilor art. 196 alin. (1) lit.a) qi art.l97 alin. 2) din Ordonanla de urgen!5 nr. 5712019 privind Codul administrativ, cu modificdrile qi completdrile ulterioare, Consiliul Local al Comunei AU$EU, H",
+   "url": "https://www.auseu.ro/public/hotarari-ale-autoritatii-deliberative?page=52",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://www.auseu.ro/public/documents/hotararideliberative/0XeR9F1QgR0UwDyedf5eSSUN4xlhIwcHyqn57Kjs.pdf",
+     "sha256": "d3ae5627c9e8ee9d4b0669799ab2d4b63d13caed15fd942d36771f72a88efc50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--auseu-5-2021",
+   "path": "local/bihor/auseu/2021/5",
+   "short": "HCL Aușeu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Aușeu nr. 5/2021 privind aprobarea Planului de Acfiuni pentru lucririle de interes local care se vor executa cu beneficiarii de ajutor social in anul2021 Av6nd in vedere: - Referatul de aprobare m.324119.01.2021al Primarului Comunei Auqeu; - Raportul de specialitate nr. 325119.01.2021 intocmit de dl",
+   "url": "https://www.auseu.ro/public/hotarari-ale-autoritatii-deliberative?page=51",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://www.auseu.ro/public/documents/hotararideliberative/ai6Syjk2qm5xQ9soB4TLIdBLAnM5jL2iKDHZXaCA.pdf",
+     "sha256": "6444c171516a0daaae2bfb6a5c08d1a3e889c23be997d7ce94ee2cf753d92a62"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--auseu-6-2021",
    "path": "local/bihor/auseu/2021/6",
    "short": "HCL Aușeu nr. 6/2021",

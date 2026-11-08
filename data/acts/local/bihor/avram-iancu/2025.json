@@ -113,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-6-2025",
+"path": "local/bihor/avram-iancu/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 6/2025 privind desemnarea reprezentantilor Consiliului Local Avram Iancu în comisile constituite la nivelul Școlii Gimnaziale nr 1 Avram Iancu",
+"short": "HCL Avram Iancu nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/188412",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-7-2025",
+"path": "local/bihor/avram-iancu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 7/2025 privind desemnarea reprezentantului Consiliului Local respectiv al primarului în Consiliul de Administraţie al Școlii Gimnaziale nr.1 Avram Iancu",
+"short": "HCL Avram Iancu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/188413",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-8-2025",
 "path": "local/bihor/avram-iancu/2025/8",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-10-2025",
+"path": "local/bihor/avram-iancu/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 10/2025 privind modificarea echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul comunei Avram Iancu, jud. BIHOR",
+"short": "HCL Avram Iancu nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-07",
+"latest": "2025-03-07",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/194061",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-15-2025",
+"path": "local/bihor/avram-iancu/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 15/2025 privind actualizarea Organigramei ,a Statului de Functii și a Statului de Personal al primarului comunei Avram Iancu",
+"short": "HCL Avram Iancu nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-07",
+"latest": "2025-03-07",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/194066",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +531,50 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-25-2025",
+"path": "local/bihor/avram-iancu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 25/2025 privind desemnarea consilierilor locali din cadrul Consiliului Local Avram Iancu în Comisia de evaluare a performanțelor profesionale ale Secretarului general al UAT Comuna Avram Iancu, județul Bihor",
+"short": "HCL Avram Iancu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/203618",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-26-2025",
+"path": "local/bihor/avram-iancu/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 26/2025 privind însușire Raport de Evaluare",
+"short": "HCL Avram Iancu nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/203619",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-27-2025",
 "path": "local/bihor/avram-iancu/2025/27",
 "kind": "local",
@@ -462,6 +594,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-28-2025",
+"path": "local/bihor/avram-iancu/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 28/2025 privind acordarea unui lot de teren pentru construirea de locuință proprietate personală",
+"short": "HCL Avram Iancu nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/203621",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -597,6 +751,28 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-35-2025",
+"path": "local/bihor/avram-iancu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 35/2025 privind aprobarea modificării contribuției comunei Avram Iancu , pentru organizarea și exercitarea activității administrative (drepturi salariale personal)",
+"short": "HCL Avram Iancu nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/207453",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-36-2025",
 "path": "local/bihor/avram-iancu/2025/36",
 "kind": "local",
@@ -682,6 +858,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-40-2025",
+"path": "local/bihor/avram-iancu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 40/2025 privind reziliere contract de comodat nr 3006 din 10.05.2019 încheiat între comuna Avram Iancu si Asociația Comunitară ”Amare Phrala ”Frații Nostrii - Tămașda",
+"short": "HCL Avram Iancu nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/214370",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -927,6 +1125,28 @@
 }
 },
 {
+"slug": "hcl-bihor--avram-iancu-52-2025",
+"path": "local/bihor/avram-iancu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 52/2025 privind revocarea HCL 47/ 2025 privind eliberarea certificatului de urbanism în scopul ”CONSTRUIRE FERMĂ SUINE PENTRU REPRODUCȚIE,CREȘTERE ȘI ÎNGRĂȘARE ȘI ÎMPREJMUIRE TEREN ” , pe raza comunei Avram Iancu, județ Bihor",
+"short": "HCL Avram Iancu nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/221233",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--avram-iancu-53-2025",
 "path": "local/bihor/avram-iancu/2025/53",
 "kind": "local",
@@ -1078,6 +1298,28 @@
 "council_name": "Consiliul Local al Comunei Avram Iancu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--avram-iancu-60-2025",
+"path": "local/bihor/avram-iancu/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 60/2025 privind schimbarea responsabilului legal al proiectului ” Modernizare Infrastructură Rutieră, Sat Tămașda Comuna Avram Iancu , Județul Bihor”",
+"short": "HCL Avram Iancu nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/avramiancu-bh/registru-hcl/231536",
+"council": "bihor/avram-iancu",
+"council_name": "Consiliul Local al Comunei Avram Iancu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

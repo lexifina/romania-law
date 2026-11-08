@@ -153,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-64-2022",
+   "path": "local/bihor/ciumeghiu/2022/64",
+   "short": "HCL Ciumeghiu nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 64/2022 privind aprobarea procesului-verbal al ședinței anterioare",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69935",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-65-2022",
+   "path": "local/bihor/ciumeghiu/2022/65",
+   "short": "HCL Ciumeghiu nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 65/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69936",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-66-2022",
+   "path": "local/bihor/ciumeghiu/2022/66",
+   "short": "HCL Ciumeghiu nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 66/2022 privind aprobarea Ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69937",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69937",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-67-2022",
    "path": "local/bihor/ciumeghiu/2022/67",
    "short": "HCL Ciumeghiu nr. 67/2022",
@@ -163,6 +208,66 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-68-2022",
+   "path": "local/bihor/ciumeghiu/2022/68",
+   "short": "HCL Ciumeghiu nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 68/2022",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69939",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-69-2022",
+   "path": "local/bihor/ciumeghiu/2022/69",
+   "short": "HCL Ciumeghiu nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 69/2022",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69940",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-70-2022",
+   "path": "local/bihor/ciumeghiu/2022/70",
+   "short": "HCL Ciumeghiu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 70/2022 privind stabilirea veniturilor salariale pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69941",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-71-2022",
+   "path": "local/bihor/ciumeghiu/2022/71",
+   "short": "HCL Ciumeghiu nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 71/2022 privind desemnarea reprezentanților Consiliul Local în Consiliul de Administrație al Școlii",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69942",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/69942",
      "sha256": null
     }
    ]
@@ -228,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--ciumeghiu-76-2022",
+   "path": "local/bihor/ciumeghiu/2022/76",
+   "short": "HCL Ciumeghiu nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 76/2022 privind aprobarea procesului verbal ședința anterioară",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/75685",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/75685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--ciumeghiu-77-2022",
    "path": "local/bihor/ciumeghiu/2022/77",
    "short": "HCL Ciumeghiu nr. 77/2022",
@@ -238,6 +358,51 @@
      "from": "2022-10-28",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/75686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-78-2022",
+   "path": "local/bihor/ciumeghiu/2022/78",
+   "short": "HCL Ciumeghiu nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 78/2022 privind aprobarea proiectului și a cheltuielilor aferente investiției intitulate „Reabilitare termică-Scoala generală cu clasele I-VIII ,localitatea Boiu,comuna Ciumeghiu,județul Bihor.”",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/75687",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/75687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-79-2022",
+   "path": "local/bihor/ciumeghiu/2022/79",
+   "short": "HCL Ciumeghiu nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 79/2022 privind aprobarea procesului verbal ședința anterioară",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77481",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-80-2022",
+   "path": "local/bihor/ciumeghiu/2022/80",
+   "short": "HCL Ciumeghiu nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 80/2022 privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77482",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77482",
      "sha256": null
     }
    ]
@@ -283,6 +448,36 @@
      "from": "2023-02-27",
      "units": 1,
      "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-84-2022",
+   "path": "local/bihor/ciumeghiu/2022/84",
+   "short": "HCL Ciumeghiu nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 84/2022 privind însușirea documentației cadastrale pentru patru imobile în vederea intăbulării și trecerii în domeniul public al comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77486",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--ciumeghiu-85-2022",
+   "path": "local/bihor/ciumeghiu/2022/85",
+   "short": "HCL Ciumeghiu nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciumeghiu nr. 85/2022 privind aprobarea modificării organigramei și statului de funcții al aparatului de specialitate al primarului comunei Ciumeghiu",
+   "url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77487",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciumeghiu-bh/registru-hcl/77487",
      "sha256": null
     }
    ]

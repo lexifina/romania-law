@@ -3,6 +3,231 @@
  "shard": "local/bihor/avram-iancu/2022",
  "acts": [
   {
+   "slug": "hcl-bihor--avram-iancu-1-2022",
+   "path": "local/bihor/avram-iancu/2022/1",
+   "short": "HCL Avram Iancu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 1/2022 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64647",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-10-2022",
+   "path": "local/bihor/avram-iancu/2022/10",
+   "short": "HCL Avram Iancu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 10/2022 privind aprobarea initiala a bugetului local de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64656",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-11-2022",
+   "path": "local/bihor/avram-iancu/2022/11",
+   "short": "HCL Avram Iancu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 11/2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64657",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-12-2022",
+   "path": "local/bihor/avram-iancu/2022/12",
+   "short": "HCL Avram Iancu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 12/2022 privind însușire stadiului de înscriere a datelor in Registrul agricol si aprobarea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64658",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-13-2022",
+   "path": "local/bihor/avram-iancu/2022/13",
+   "short": "HCL Avram Iancu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 13/2022 privind aprobarea statului de personal şi statului de funcţii pentru aparatul de specialitate al Primarului Comunei Avram Iancu",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64659",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-14-2022",
+   "path": "local/bihor/avram-iancu/2022/14",
+   "short": "HCL Avram Iancu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 14/2022 privind vânzarea fără licitatie publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Avram Iancu, judeţul Bihor înscris în cartea funciară 51399",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64660",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-15-2022",
+   "path": "local/bihor/avram-iancu/2022/15",
+   "short": "HCL Avram Iancu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 15/2022 privind vânzarea fără licitatie publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Avram Iancu, judeţul Bihor înscris în cartea funciară 51404",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64661",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-16-2022",
+   "path": "local/bihor/avram-iancu/2022/16",
+   "short": "HCL Avram Iancu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 16/2022 privind vânzarea fără licitatie publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Avram Iancu, judeţul Bihor înscris în cartea funciară 51402",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64662",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-17-2022",
+   "path": "local/bihor/avram-iancu/2022/17",
+   "short": "HCL Avram Iancu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 17/2022 privind aprobarea Strategiei de dezvoltare locală a Comunei Avram Iancu, județul Bihor, pentru perioada 2021-2027",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64663",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-18-2022",
+   "path": "local/bihor/avram-iancu/2022/18",
+   "short": "HCL Avram Iancu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 18/2022 privind aprobarea organizării şi funcţionării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei Avram Iancu, județul Bihor, pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64664",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-19-2022",
+   "path": "local/bihor/avram-iancu/2022/19",
+   "short": "HCL Avram Iancu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 19/2022 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al UAT Avram Iancu pentru activitatea desfășurată în anul 2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64665",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-2-2022",
+   "path": "local/bihor/avram-iancu/2022/2",
+   "short": "HCL Avram Iancu nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 2/2022 privind aprobarea Procesului -Verbal al sedinței din data de 15.12.2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64648",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-20-2022",
+   "path": "local/bihor/avram-iancu/2022/20",
+   "short": "HCL Avram Iancu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 20/2022 privind aprobarea Strategiei Locale de Dezvoltare a Serviciilor Sociale la nivelul comunei Avram Iancu, pentru perioada 2022-2027",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64666",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-21-2022",
+   "path": "local/bihor/avram-iancu/2022/21",
+   "short": "HCL Avram Iancu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 21/2022 privind aprobarea planului anual de acțiune privind serviciile sociale acordate în 2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64667",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-22-2022",
+   "path": "local/bihor/avram-iancu/2022/22",
+   "short": "HCL Avram Iancu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 22/2022 privind însușirea raportului privind activitatea asistenților personali ai persoanelor cu handicap pe semestrul II al anului 2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64668",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64668",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-23-2022",
    "path": "local/bihor/avram-iancu/2022/23",
    "short": "HCL Avram Iancu nr. 23/2022",
@@ -18,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--avram-iancu-24-2022",
+   "path": "local/bihor/avram-iancu/2022/24",
+   "short": "HCL Avram Iancu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 24/2022 privind aprobarea actualizarilor aferente proiectului si a cheltuielilor actualizate aferente proiectului: \" Creșterea capacității de gestionare a crizei sanitare COVID-19 pentru elevii si cadrele didactice din Comuna Avram Iancu, județul Bihor \"",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64670",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-25-2022",
+   "path": "local/bihor/avram-iancu/2022/25",
+   "short": "HCL Avram Iancu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 25/2022 privind aprobarea Ordinii de zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64671",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64671",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--avram-iancu-26-2022",
    "path": "local/bihor/avram-iancu/2022/26",
    "short": "HCL Avram Iancu nr. 26/2022",
@@ -28,6 +283,276 @@
      "from": "2022-04-21",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-27-2022",
+   "path": "local/bihor/avram-iancu/2022/27",
+   "short": "HCL Avram Iancu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 27/2022 privind rectificare de buget I pe trimestru II",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64673",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-28-2022",
+   "path": "local/bihor/avram-iancu/2022/28",
+   "short": "HCL Avram Iancu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 28/2022 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64681",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-29-2022",
+   "path": "local/bihor/avram-iancu/2022/29",
+   "short": "HCL Avram Iancu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 29/2022 privind aprobarea Procesului -Verbal al sedinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64682",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-3-2022",
+   "path": "local/bihor/avram-iancu/2022/3",
+   "short": "HCL Avram Iancu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 3/2022 privind aprobarea Procesului -Verbal al sedinței din data de 22.12.2021",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64649",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-30-2022",
+   "path": "local/bihor/avram-iancu/2022/30",
+   "short": "HCL Avram Iancu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 30/2022 privind aprobarea Procesului-Verbal al ședinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64683",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-31-2022",
+   "path": "local/bihor/avram-iancu/2022/31",
+   "short": "HCL Avram Iancu nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 31/2022 privind aprobarea Ordinii de zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64684",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-32-2022",
+   "path": "local/bihor/avram-iancu/2022/32",
+   "short": "HCL Avram Iancu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 32/2022 privind aprobarea proiectului si a cheltuielilor aferente investiției intitulate „ CREȘTEREA EFICIENȚEI ENERGETICE LA GRĂDINIȚA TĂMAȘDA”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64685",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-33-2022",
+   "path": "local/bihor/avram-iancu/2022/33",
+   "short": "HCL Avram Iancu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 33/2022 privind aprobarea proiectului si a cheltuielilor aferente investiției intitulate „ CREȘTEREA EFICIENȚEI ENERGETICE LA CĂMINUL CULTURAL TĂMAȘDA”",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64686",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-34-2022",
+   "path": "local/bihor/avram-iancu/2022/34",
+   "short": "HCL Avram Iancu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 34/2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64687",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-35-2022",
+   "path": "local/bihor/avram-iancu/2022/35",
+   "short": "HCL Avram Iancu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 35/2022 privind aprobarea Regulamentului pentru procedura inregistrării, evidenta și radierea vehiculelor pentru care există obligativitatea înregistrării, pe raza comunei Avram Ianu, județ Bihor",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64688",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-36-2022",
+   "path": "local/bihor/avram-iancu/2022/36",
+   "short": "HCL Avram Iancu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 36/2022 privind aprobarea vânzării cu drept de preempțiune a unui teren proprietate privată a comunei Avram Iancu, aferent spaţiului comercial - bar situat în comuna Avram Iancu, județ Bihor",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64689",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-37-2022",
+   "path": "local/bihor/avram-iancu/2022/37",
+   "short": "HCL Avram Iancu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 37/2022 privind vânzarea fără licitatie publică(directă) a unui teren proprietate privată a Unităţii Administrativ Teritoriale Comuna Avram Iancu, judeţul Bihor înscris în cartea funciară 51396",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64690",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-38-2022",
+   "path": "local/bihor/avram-iancu/2022/38",
+   "short": "HCL Avram Iancu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 38/2022 privind aprobarea Procesului -Verbal al sedinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/71754",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/71754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-39-2022",
+   "path": "local/bihor/avram-iancu/2022/39",
+   "short": "HCL Avram Iancu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 39/2022 privind aprobarea Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/71755",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/71755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-4-2022",
+   "path": "local/bihor/avram-iancu/2022/4",
+   "short": "HCL Avram Iancu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 4/2022 privind aprobarea Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64650",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-40-2022",
+   "path": "local/bihor/avram-iancu/2022/40",
+   "short": "HCL Avram Iancu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 40/2022 privind aprobarea rectificarii nr.2 a bugetului local de venituri și cheltuieli pe trimestrul II pe anul 2022",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/71756",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/71756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-41-2022",
+   "path": "local/bihor/avram-iancu/2022/41",
+   "short": "HCL Avram Iancu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 41/2022 privind aprobarea Procesului -Verbal al sedinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/90597",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/90597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-42-2022",
+   "path": "local/bihor/avram-iancu/2022/42",
+   "short": "HCL Avram Iancu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 42/2022 privind aprobarea Ordinii de Zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/90598",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/90598",
      "sha256": null
     }
    ]
@@ -373,6 +898,36 @@
      "from": "2022-02-10",
      "units": 1,
      "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-8-2022",
+   "path": "local/bihor/avram-iancu/2022/8",
+   "short": "HCL Avram Iancu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 8/2022 privind aprobarea Procesului -Verbal al sedinței anterioare",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64654",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--avram-iancu-9-2022",
+   "path": "local/bihor/avram-iancu/2022/9",
+   "short": "HCL Avram Iancu nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Avram Iancu nr. 9/2022 privind aprobarea Ordinii de zi",
+   "url": "https://emol.ro/avramiancu-bh/registru-hcl/64655",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/avramiancu-bh/registru-hcl/64655",
      "sha256": null
     }
    ]

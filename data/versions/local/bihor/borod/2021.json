@@ -3,6 +3,81 @@
  "shard": "local/bihor/borod/2021",
  "acts": [
   {
+   "slug": "hcl-bihor--borod-1-2021",
+   "path": "local/bihor/borod/2021/1",
+   "short": "HCL Borod nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 1/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Borod din lunile ianuarie, februarie și martie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22613",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-10-2021",
+   "path": "local/bihor/borod/2021/10",
+   "short": "HCL Borod nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 10/2021 privind modificarea HCL nr. 7 din 21.01.2021 privind aprobarea indicatorilor tehnico-economici și a cofinanțării de la bugetul local pentru proiectul ''Modernizare drumuri comunale și străzi în comuna Borod''",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22629",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-11-2021",
+   "path": "local/bihor/borod/2021/11",
+   "short": "HCL Borod nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 11/2021 privind modificarea HCL nr. 70 din 22 octombrie 2020 privind aprobarea proiectului și a cheltuielilor legate de proiectul ''Îmbunătățirea conținutului digital și a infrastructurii TIC sistemice în domeniul e-educație în Comuna Borod, județul Bihor''",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22630",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-12-2021",
+   "path": "local/bihor/borod/2021/12",
+   "short": "HCL Borod nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 12/2021 privind aprobarea procesului verbal de la ședința extraordinară, convocată de îndată, a Consiliului local al comunei Borod din 26 ianuarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22741",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-13-2021",
+   "path": "local/bihor/borod/2021/13",
+   "short": "HCL Borod nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 13/2021 privind aprobarea ordinii de zi pentru ședința ordinară din 25 februarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22742",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-14-2021",
    "path": "local/bihor/borod/2021/14",
    "short": "HCL Borod nr. 14/2021",
@@ -48,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-17-2021",
+   "path": "local/bihor/borod/2021/17",
+   "short": "HCL Borod nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 17/2021 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Borod din 25 februarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22740",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-18-2021",
+   "path": "local/bihor/borod/2021/18",
+   "short": "HCL Borod nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 18/2021 privind aprobarea ordinii de zi pentru ședința ordinară din 31 martie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/29609",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/29609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-19-2021",
    "path": "local/bihor/borod/2021/19",
    "short": "HCL Borod nr. 19/2021",
@@ -58,6 +163,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/29610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-2-2021",
+   "path": "local/bihor/borod/2021/2",
+   "short": "HCL Borod nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 2/2021 privind aprobarea procesului verbal de la ședința ordinară a Consiliului local al comunei Borod din 28 decembrie 2020",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22614",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22614",
      "sha256": null
     }
    ]
@@ -213,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-3-2021",
+   "path": "local/bihor/borod/2021/3",
+   "short": "HCL Borod nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 3/2021 privind aprobarea ordinii de zi pentru ședința ordinară din 21 ianuarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22615",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22615",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-30-2021",
    "path": "local/bihor/borod/2021/30",
    "short": "HCL Borod nr. 30/2021",
@@ -363,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-4-2021",
+   "path": "local/bihor/borod/2021/4",
+   "short": "HCL Borod nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 4/2021 privind constituirea echipei mobile care asigură intervenția de urgență în cazurile de violență domestică în comuna Borod",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22616",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22616",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-40-2021",
    "path": "local/bihor/borod/2021/40",
    "short": "HCL Borod nr. 40/2021",
@@ -468,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-47-2021",
+   "path": "local/bihor/borod/2021/47",
+   "short": "HCL Borod nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 47/2021 privind aprobarea procesului verbal de la şedința extraordinară a Consiliului Local al comunei Borod din 06 iulie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/36989",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/36989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-48-2021",
+   "path": "local/bihor/borod/2021/48",
+   "short": "HCL Borod nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 48/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din 28 iulie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/36990",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/36990",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-49-2021",
    "path": "local/bihor/borod/2021/49",
    "short": "HCL Borod nr. 49/2021",
@@ -478,6 +658,21 @@
      "from": "2021-07-28",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/36991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-5-2021",
+   "path": "local/bihor/borod/2021/5",
+   "short": "HCL Borod nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 5/2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22617",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22617",
      "sha256": null
     }
    ]
@@ -528,6 +723,51 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-53-2021",
+   "path": "local/bihor/borod/2021/53",
+   "short": "HCL Borod nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 53/2021 privind aprobarea Statutului comunei Borod, județul Bihor",
+   "url": "https://emol.ro/borod-bh/registru-hcl/36995",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/36995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-54-2021",
+   "path": "local/bihor/borod/2021/54",
+   "short": "HCL Borod nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 54/2021 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din 28 iulie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/36998",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/36998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-55-2021",
+   "path": "local/bihor/borod/2021/55",
+   "short": "HCL Borod nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 55/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din 31 august 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/36999",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/36999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-56-2021",
    "path": "local/bihor/borod/2021/56",
    "short": "HCL Borod nr. 56/2021",
@@ -568,6 +808,21 @@
      "from": "2021-09-27",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/37002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-59-2021",
+   "path": "local/bihor/borod/2021/59",
+   "short": "HCL Borod nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 59/2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/37003",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/37003",
      "sha256": null
     }
    ]
@@ -678,6 +933,66 @@
    ]
   },
   {
+   "slug": "hcl-bihor--borod-66-2021",
+   "path": "local/bihor/borod/2021/66",
+   "short": "HCL Borod nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 66/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Borod din lunile octombrie, noiembrie și decembrie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38347",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-67-2021",
+   "path": "local/bihor/borod/2021/67",
+   "short": "HCL Borod nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 67/2021 privind aprobarea procesului verbal de la şedința ordinară a Consiliului Local al Comunei Borod din 27 septembrie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38348",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-68-2021",
+   "path": "local/bihor/borod/2021/68",
+   "short": "HCL Borod nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 68/2021 privind aprobarea ordinii de zi pentru şedinţa ordinară din 18 octombrie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38349",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-69-2021",
+   "path": "local/bihor/borod/2021/69",
+   "short": "HCL Borod nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 69/2021 privind aprobarea indicatorilor tehnico-economici actualizați și a cofinanțării de la bugetul local pentru proiectul “Extindere alimentare cu apă potabilă și canalizare ape uzate menajere în comuna Borod, jud. Bihor”",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38350",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--borod-7-2021",
    "path": "local/bihor/borod/2021/7",
    "short": "HCL Borod nr. 7/2021",
@@ -688,6 +1003,66 @@
      "from": "2021-01-21",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/22619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-70-2021",
+   "path": "local/bihor/borod/2021/70",
+   "short": "HCL Borod nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 70/2021 privind aprobarea indicatorilor actualizați tehnico-economici și a cofinanțării de la bugetul local pentru proiectul “Modernizare și extindere Grădinița cu program normal nr. 1 Borod, jud. Bihor”",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38351",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-71-2021",
+   "path": "local/bihor/borod/2021/71",
+   "short": "HCL Borod nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 71/2021 privind aprobarea indicatorilor tehnico-economici actualizați și a cofinanțării de la bugetul local pentru proiectul “Modernizare drumuri comunale şi străzi comuna Borod”",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38352",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-72-2021",
+   "path": "local/bihor/borod/2021/72",
+   "short": "HCL Borod nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 72/2021 privind aprobarea intabulării dreptului de proprietate publică în favoarea comunei Borod pentru suprafața de 2671 mp din CF 114334 Borod, număr cadastral 114334, care are categoria de folosință - drum public",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38353",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-73-2021",
+   "path": "local/bihor/borod/2021/73",
+   "short": "HCL Borod nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 73/2021 privind aprobarea intabulării dreptului de proprietate publică în favoarea comunei Borod pentru suprafața de 9786 mp din CF 114335 Borod, număr cadastral 114335, care are categoria de folosință - drum public",
+   "url": "https://emol.ro/borod-bh/registru-hcl/38354",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/38354",
      "sha256": null
     }
    ]
@@ -778,6 +1153,21 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/40620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-8-2021",
+   "path": "local/bihor/borod/2021/8",
+   "short": "HCL Borod nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 8/2021 privind aprobarea procesului verbal de la ședința ordinară a Consiliului local al comunei Borod din 21 ianuarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22627",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22627",
      "sha256": null
     }
    ]
@@ -928,6 +1318,21 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/borod-bh/registru-hcl/46256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--borod-9-2021",
+   "path": "local/bihor/borod/2021/9",
+   "short": "HCL Borod nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Borod nr. 9/2021 privind aprobarea ordinii de zi pentru ședința extraordinară, convocată de îndată, din 26 ianuarie 2021",
+   "url": "https://emol.ro/borod-bh/registru-hcl/22628",
+   "versions": [
+    {
+     "from": "2021-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/borod-bh/registru-hcl/22628",
      "sha256": null
     }
    ]

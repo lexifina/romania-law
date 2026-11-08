@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "cnsc/2022",
+ "acts": [
+  {
+   "slug": "cnsc-decizie-2022-2824",
+   "path": "cnsc/decizie/2022/2824",
+   "short": "Decizia CNSC nr. 2824/C10/3037 din 28.11.2022",
+   "title": "Decizia CNSC nr. 2824/C10/3037 din 28.11.2022: contestația GB INDCO SRL în contradictoriu cu COMUNA CERTEZE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDIyOGRlNTktMWQ5YS00NDRkLWE5OTAtNzU0MjE3NDk3Yzli&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDIyOGRlNTktMWQ5YS00NDRkLWE5OTAtNzU0MjE3NDk3Yzli&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yODI0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "5601e64a37dca8219d46e3cbd76f22c1a001c3254a4417cdabb6de1b6833f37b"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2022-2906",
+   "path": "cnsc/decizie/2022/2906",
+   "short": "Decizia CNSC nr. 2906/C11/3309 din 11.12.2022",
+   "title": "Decizia CNSC nr. 2906/C11/3309 din 11.12.2022: contestația PHOENICIA EXPRES SRL în contradictoriu cu MUNICIPIUL MANGALIA JUDETUL CONSTANTA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmViZjY1MDQtYjdhMS00MmI1LTk3YzAtMjBmMWE4MzlmM2Vj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2022-12-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZmViZjY1MDQtYjdhMS00MmI1LTk3YzAtMjBmMWE4MzlmM2Vj&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yOTA2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "9877713a040aa8de56f93549b417181d79a9421419c9869a97e23911867e2653"
+    }
+   ]
+  }
+ ]
+}

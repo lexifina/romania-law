@@ -3,6 +3,426 @@
 "shard": "local/bihor/ineu/2026",
 "acts": [
 {
+"slug": "hcl-bihor--ineu-1-2026",
+"path": "local/bihor/ineu/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 1/2026 privind acoperirea deficitului secțiunii de dezvoltare din excedentul Bugetului local provenit din anii precedenți pentru anul 2025",
+"short": "HCL Ineu nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/246048",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-2-2026",
+"path": "local/bihor/ineu/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 2/2026 privind Aprobarea ordinii de zi a ședinței extraordinare din 12.01.2026",
+"short": "HCL Ineu nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/246049",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-3-2026",
+"path": "local/bihor/ineu/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 3/2026 privind aprobarea ordinii de zi pentru ședința din 13.02.2026",
+"short": "HCL Ineu nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/252969",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-4-2026",
+"path": "local/bihor/ineu/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 4/2026 privind actualizarea,organizarea și funcționarea Echipei mobile pentru intervenția de urgență în cazurile de violență domestică, la nivelul comunei Ineu",
+"short": "HCL Ineu nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/252970",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-5-2026",
+"path": "local/bihor/ineu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 5/2026 privind aprobarea acordării suportului alimentar pentru preșcolarii și elevii de la Școala Gimnazială ”Puiu Sever” în cadrul Programului naţional \"Masă sănătoasă\" în anul școlar 2026",
+"short": "HCL Ineu nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/252971",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-6-2026",
+"path": "local/bihor/ineu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 6/2026 privind aprobarea ordinii de zi pentru ședința ordinară din 24.03.2026",
+"short": "HCL Ineu nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/259413",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-7-2026",
+"path": "local/bihor/ineu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 7/2026 privind alegerea președintelui de ședință",
+"short": "HCL Ineu nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/259414",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-8-2026",
+"path": "local/bihor/ineu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 8/2026 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contracte-lor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente,, Programului pentru școli al României pentru unitățile de învățământ din comuna Ineu, în perioada 2026-2029",
+"short": "HCL Ineu nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/259415",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-9-2026",
+"path": "local/bihor/ineu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 9/2026 privind aprobarea Planulului de Analiză și Acoperire a Riscurilor, în Comuna Ineu pentru anul 2026",
+"short": "HCL Ineu nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/259416",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-10-2026",
+"path": "local/bihor/ineu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 10/2026 privind aprobarea ordinii de zi",
+"short": "HCL Ineu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/263841",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-11-2026",
+"path": "local/bihor/ineu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 11/2026 privind aprobarea Structurii organizatorice şi a Statului de funcţii pentru aparatul de specialitate al Primarului Comunei INEU, începând cu 01 iulie 2026, ca urmare a reorganizării impuse prin OUG nr.7/2026",
+"short": "HCL Ineu nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/263842",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-12-2026",
+"path": "local/bihor/ineu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 12/2026",
+"short": "HCL Ineu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/263843",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--ineu-13-2026",
+"path": "local/bihor/ineu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 13/2026 privind aprobarea ordinii de zi",
+"short": "HCL Ineu nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/265372",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-14-2026",
+"path": "local/bihor/ineu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 14/2026 privind implementarea proiectului ”Achiziție utilaje în Comuna Ineu”",
+"short": "HCL Ineu nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/265373",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-15-2026",
+"path": "local/bihor/ineu/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 15/2026 privind aprobarea procesului verbal al sedinței extraordinare din data de 30.04.2026",
+"short": "HCL Ineu nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271735",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-16-2026",
+"path": "local/bihor/ineu/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 16/2026 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local al Comunei Ineu din data de 28.05.2026",
+"short": "HCL Ineu nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271736",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-17-2026",
+"path": "local/bihor/ineu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 17/2026",
+"short": "HCL Ineu nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271737",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--ineu-18-2026",
+"path": "local/bihor/ineu/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 18/2026 privind privind aprobarea actualizării devizului general, a indicatorilor tehnico -economici si cofinanțarea după semnarea contractului de execuție pentru obiectivul de investitii „Extindere retele de apa si canalizare menajera in comuna Ineu, judetul Bihor” ” in cadrul Programului Național de Investiţii \"Anghel Saligny\"",
+"short": "HCL Ineu nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271738",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-19-2026",
+"path": "local/bihor/ineu/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 19/2026 privind aprobarea actualizarii documentatiei tehnico-economice si a indicatorilor tehnico-economici dupa semnarea contractului de execuție: ,,Stații de reîncărcare pentru vehicule electrice în comuna Ineu, judetul Bihor,, finanțat in cadrul “Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități”,",
+"short": "HCL Ineu nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271739",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--ineu-20-2026",
 "path": "local/bihor/ineu/2026/20",
 "kind": "local",
@@ -22,6 +442,50 @@
 "council_name": "Consiliul Local al Comunei Ineu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ineu-21-2026",
+"path": "local/bihor/ineu/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 21/2026 privind aprobarea relocării farmaciei umane din clădirea Căminului Cultural din Ineu situat in Ineu la nr.241 în spațiul cu destinație farmacie umană situat in cadrul Centrului Medical din Ineu nr. 240 A",
+"short": "HCL Ineu nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271741",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-22-2026",
+"path": "local/bihor/ineu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 22/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV, anul 2025 si stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Ineu nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271742",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +555,29 @@
 }
 },
 {
+"slug": "hcl-bihor--ineu-26-2026",
+"path": "local/bihor/ineu/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 26/2026",
+"short": "HCL Ineu nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/271746",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--ineu-27-2026",
 "path": "local/bihor/ineu/2026/27",
 "kind": "local",
@@ -110,6 +597,50 @@
 "council_name": "Consiliul Local al Comunei Ineu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bihor--ineu-28-2026",
+"path": "local/bihor/ineu/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 28/2026 privind aprobarea procesului verbal de la ședința ordinară din data de 28.05.2026",
+"short": "HCL Ineu nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/277494",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bihor--ineu-29-2026",
+"path": "local/bihor/ineu/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ineu nr. 29/2026 privind alegerea președintelui de ședință",
+"short": "HCL Ineu nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/ineu-bh/registru-hcl/277495",
+"council": "bihor/ineu",
+"council_name": "Consiliul Local al Comunei Ineu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
