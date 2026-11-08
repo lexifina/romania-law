@@ -1,0 +1,546 @@
+{
+ "country": "RO",
+ "shard": "local/timis/carpinis/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--carpinis-1-2022",
+   "path": "local/timis/carpinis/2022/1",
+   "short": "HCL Cărpiniș nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 1/2022 privind alegerea presedintelui de sedință",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61767",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-12-2022",
+   "path": "local/timis/carpinis/2022/12",
+   "short": "HCL Cărpiniș nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 12/2022 privind modificarea Hotărârii Consiliului Local al Comunei Cărpiniș nr. 24 din 23.06.2020 privind acordarea unui stimulent financiar pentru nou-născuți",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61778",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-13-2022",
+   "path": "local/timis/carpinis/2022/13",
+   "short": "HCL Cărpiniș nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 13/2022 privind aprobarea dezmembrării unor terenuri",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61779",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-14-2022",
+   "path": "local/timis/carpinis/2022/14",
+   "short": "HCL Cărpiniș nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 14/2022 privind aprobarea primei înscrieri în cartea funciară a unor imobile",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61780",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-16-2022",
+   "path": "local/timis/carpinis/2022/16",
+   "short": "HCL Cărpiniș nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 16/2022 privind aprobarea Regulamentului privind regimul finantărilor nerambursabile alocate din bugetul local al comunei Cărpiniș pentru activități nonprofit de interes local",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61782",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-17-2022",
+   "path": "local/timis/carpinis/2022/17",
+   "short": "HCL Cărpiniș nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 17/2022 privind aprobarea cererii de finantare, a devizului general estimativ, cofinantarea și participarea la Programul Național de Investiții \"Anghel Saligny\" pentru obiectivul de investitie ”Înființare rețea de distribuție gaze naturale în comuna Cărpiniș, județul Timiș”",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61783",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-19-2022",
+   "path": "local/timis/carpinis/2022/19",
+   "short": "HCL Cărpiniș nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 19/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74967",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-2-2022",
+   "path": "local/timis/carpinis/2022/2",
+   "short": "HCL Cărpiniș nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 2/2022 privind modificarea Hotărârii Consiliului Local al Comunei Cărpinis nr. 37 din 23.11.2020 privind organizarea comisiilor de specialitate",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61768",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-20-2022",
+   "path": "local/timis/carpinis/2022/20",
+   "short": "HCL Cărpiniș nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 20/2022 privind participarea Comunei Cărpiniș la Planul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Asigurarea infrastructurii pentru transportul verde - piste pentru biciclete (și alte vehicule electrice ușoare) la nivel local/metropolitan, aprobarea notei de fundamentare a investiției și aprobarea chetuielilor legate de proiectul cu titlul „Dezvoltarea infrastructurii de transport verde - Piste pentru biciclete în comuna Cărpiniș, județul Timiș”",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74968",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-21-2022",
+   "path": "local/timis/carpinis/2022/21",
+   "short": "HCL Cărpiniș nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 21/2022 privind pariticiparea Comunei Cărpiniș la Planul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană, aprobarea noteo de fundamnetare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul „Elaborarea în format digital a documentației de amenajare a teritoriului - Plan Urbanistic General și Plan urbanistic zonal în comuna Cărpiniș, județul Timiș”",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74969",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-22-2022",
+   "path": "local/timis/carpinis/2022/22",
+   "short": "HCL Cărpiniș nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 22/2022 privind prelungirea termenului de valabilitate a Planului urbanistic general al comunei Cărpiniș și a Regulamentului local de urbanism",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74970",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-23-2022",
+   "path": "local/timis/carpinis/2022/23",
+   "short": "HCL Cărpiniș nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 23/2022 privind aprobarea alipirii unor terenuri",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74971",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-24-2022",
+   "path": "local/timis/carpinis/2022/24",
+   "short": "HCL Cărpiniș nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 24/2022 privind aprobarea instituirii unei taxe pentru utilizarea infrastructuri publice locale (drumurilor locale) de către mijloacele de transport pentru cereale",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74972",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-25-2022",
+   "path": "local/timis/carpinis/2022/25",
+   "short": "HCL Cărpiniș nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 25/2022 privind aderarea comunei Cărpiniș la Asociația de Dezvoltare Intercomunitara „Societatea Metropolitana de Transport Timișoara”",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74973",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-26-2022",
+   "path": "local/timis/carpinis/2022/26",
+   "short": "HCL Cărpiniș nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 26/2022 privind aprobarea unui proiect sportiv ce va beneficia de finanțare nerambursabilă de la bugetul local în anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74974",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-27-2022",
+   "path": "local/timis/carpinis/2022/27",
+   "short": "HCL Cărpiniș nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 27/2022 privind aprobarea Regulamentului de organizare și functionare a serviciului public de salubrizare din judetul Timiș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74975",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-28-2022",
+   "path": "local/timis/carpinis/2022/28",
+   "short": "HCL Cărpiniș nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 28/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74977",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-29-2022",
+   "path": "local/timis/carpinis/2022/29",
+   "short": "HCL Cărpiniș nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 29/2022 privind aprobarea cuantumului și plății cotizației anuale către ''Asociația de Dezvoltare Intercomunitară Distribuție Gaz Timiș Vest pentru anul 2022 ''",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74978",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-3-2022",
+   "path": "local/timis/carpinis/2022/3",
+   "short": "HCL Cărpiniș nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 3/2022 privind organizarea rețelei scolare locale pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61769",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-30-2022",
+   "path": "local/timis/carpinis/2022/30",
+   "short": "HCL Cărpiniș nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 30/2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74979",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-32-2022",
+   "path": "local/timis/carpinis/2022/32",
+   "short": "HCL Cărpiniș nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 32/2022 privind atestarea apartenenței unor imobile la domeniul privat al comunei Cărpiniș și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Cărpiniși",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74981",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-33-2022",
+   "path": "local/timis/carpinis/2022/33",
+   "short": "HCL Cărpiniș nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 33/2022 privind completarea inventarului bunurilor din domeniul privat al comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74982",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-34-2022",
+   "path": "local/timis/carpinis/2022/34",
+   "short": "HCL Cărpiniș nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 34/2022 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale Consiliul Loacal al Comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74983",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-36-2022",
+   "path": "local/timis/carpinis/2022/36",
+   "short": "HCL Cărpiniș nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 36/2022 privind aprobarea proiectelor din domeniile cultură și culte care vor beneficia de finanțare nerambursabilă de la bugetul local în anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74985",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-37-2022",
+   "path": "local/timis/carpinis/2022/37",
+   "short": "HCL Cărpiniș nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 37/2022 privind participarea Comunei Cărpiniș la '''Programul Național de Redresare și Reziliență, Componența C15- Educație, Investiția 1- Construirea, echiparea și operaționalizarea a 110 creșe '', aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul ''Construirea unei unități tip creșă cu 4 grupe în comuna Cărpiniș, județul Timiș''",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74990",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-38-2022",
+   "path": "local/timis/carpinis/2022/38",
+   "short": "HCL Cărpiniș nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 38/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74991",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-39-2022",
+   "path": "local/timis/carpinis/2022/39",
+   "short": "HCL Cărpiniș nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 39/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74993",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-4-2022",
+   "path": "local/timis/carpinis/2022/4",
+   "short": "HCL Cărpiniș nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 4/2022 privind aprobarea Planului de acțiuni/lucrări de interes local pentru repartizarea orelor de muncă efectuate de persoanele care beneficiază de ajutor social în anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61770",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-40-2022",
+   "path": "local/timis/carpinis/2022/40",
+   "short": "HCL Cărpiniș nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 40/2022 privind rectificarea bugetului pe anul 2022 Consiliului Local al comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74994",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-41-2022",
+   "path": "local/timis/carpinis/2022/41",
+   "short": "HCL Cărpiniș nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 41/2022 privind aprobarea dobăndirii de către comuna Cărpiniș a dreptului de proprietate asupra unor terenuri pentru care sa renunțat la dreptul de proprietate",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74995",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-42-2022",
+   "path": "local/timis/carpinis/2022/42",
+   "short": "HCL Cărpiniș nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 42/2022 privind aprobarea unor documentații cadastrale și a primei înscrieri în cartea funciară a unui imobil",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/74996",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/74996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-5-2022",
+   "path": "local/timis/carpinis/2022/5",
+   "short": "HCL Cărpiniș nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 5/2022 privind retragerea dreptului de folosință gratuită asupra unui teren",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61771",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-6-2022",
+   "path": "local/timis/carpinis/2022/6",
+   "short": "HCL Cărpiniș nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 6/2022 privind completarea inventarului bunurilor din domeniul privat al comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61772",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-7-2022",
+   "path": "local/timis/carpinis/2022/7",
+   "short": "HCL Cărpiniș nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 7/2022 privind aprobarea contuluI de încheiere a exercitiului bugetar pe anul 2021",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61773",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-8-2022",
+   "path": "local/timis/carpinis/2022/8",
+   "short": "HCL Cărpiniș nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 8/2022 privind aprobarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61774",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-9-2022",
+   "path": "local/timis/carpinis/2022/9",
+   "short": "HCL Cărpiniș nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 9/2022 privind modificarea Hotărârii Consiliului Local al Comunei Cărpiniș nr. 37 din 23.11.2020 privind organizarea comisiilor de specialitate",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/61775",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/61775",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

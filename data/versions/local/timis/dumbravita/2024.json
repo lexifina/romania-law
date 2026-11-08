@@ -1,0 +1,936 @@
+{
+ "country": "RO",
+ "shard": "local/timis/dumbravita/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--dumbravita-101-2024",
+   "path": "local/timis/dumbravita/2024/101",
+   "short": "HCL Dumbrăvița nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 101/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/171894",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/171894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-102-2024",
+   "path": "local/timis/dumbravita/2024/102",
+   "short": "HCL Dumbrăvița nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 102/2024 privind aprobarea TEMEI DE PROIECTARE pentru investiția ” Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrăvița, județul Timiș”;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/172968",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/172968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-103-2024",
+   "path": "local/timis/dumbravita/2024/103",
+   "short": "HCL Dumbrăvița nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 103/2024 privind aprobarea participării la Programul privind creșterea eficienței energetice a infrastructurii de iluminat publice și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul : ”Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrăvița, județul Timiș”, proiect finanțat prin Administrația Fondului pentru Mediu;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/172969",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/172969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-108-2024",
+   "path": "local/timis/dumbravita/2024/108",
+   "short": "HCL Dumbrăvița nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 108/2024 privind aprobarea participării la Programul privind creșterea eficienței energetice a infrastructurii de iluminat publice și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul : ”Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în com. Dumbrăvița, jud. Timiș”, proiect finanțat prin Administrația Fondului pentru Mediu;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/177363",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/177363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-109-2024",
+   "path": "local/timis/dumbravita/2024/109",
+   "short": "HCL Dumbrăvița nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 109/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/177364",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/177364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-110-2024",
+   "path": "local/timis/dumbravita/2024/110",
+   "short": "HCL Dumbrăvița nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 110/2024 privind adoptarea Regulamentului de organizare și funcționare al Consiliului local Dumbrăvița,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181562",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-112-2024",
+   "path": "local/timis/dumbravita/2024/112",
+   "short": "HCL Dumbrăvița nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 112/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181564",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-113-2024",
+   "path": "local/timis/dumbravita/2024/113",
+   "short": "HCL Dumbrăvița nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 113/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181565",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-114-2024",
+   "path": "local/timis/dumbravita/2024/114",
+   "short": "HCL Dumbrăvița nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 114/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181566",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-115-2024",
+   "path": "local/timis/dumbravita/2024/115",
+   "short": "HCL Dumbrăvița nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 115/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181567",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-116-2024",
+   "path": "local/timis/dumbravita/2024/116",
+   "short": "HCL Dumbrăvița nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 116/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181568",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-117-2024",
+   "path": "local/timis/dumbravita/2024/117",
+   "short": "HCL Dumbrăvița nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 117/2024 privind atestarea apartenenţei la domeniul privat al comunei Dumbrăvița, în administrarea Consiliului Local Dumbrăvița a imobilelor înscrise în Anexă, provenite din renunțarea la dreptul de proprietate privată, terenuri având destinația de drum /spații verzi",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181569",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-119-2024",
+   "path": "local/timis/dumbravita/2024/119",
+   "short": "HCL Dumbrăvița nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 119/2024 privind aprobarea documentației cadastrale de primă înregistrare în baza de date a OCPI TIMIȘ a imobilului cu nr. cad. DE 175/1/19 - strada Silvana, drum public, situat în intravilanul localității Dumbrăvița, jud. Timiș, în suprafață rezultată din măsurători de 1266 mp;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181571",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-120-2024",
+   "path": "local/timis/dumbravita/2024/120",
+   "short": "HCL Dumbrăvița nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 120/2024 privind aprobarea valorii finale a obiectivului de investiție : ”Rețea de iluminat public 2023”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181572",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-121-2024",
+   "path": "local/timis/dumbravita/2024/121",
+   "short": "HCL Dumbrăvița nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 121/2024 privind aprobarea valorii finale a obiectivului de investiție : ”Amenajare scuar Napoli”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181573",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-122-2024",
+   "path": "local/timis/dumbravita/2024/122",
+   "short": "HCL Dumbrăvița nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 122/2024 privind aprobarea valorii finale a obiectivului de investiție : ”Platformă și rezervor apă tratată”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181574",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-123-2024",
+   "path": "local/timis/dumbravita/2024/123",
+   "short": "HCL Dumbrăvița nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 123/2024 privind declararea apartenenței la domeniul public al comunei Dumbrăvița, în administrarea Consiliului Local Dumbrăvița a platformei și a rezervorului, implementate prin proiectul : ”Platformă și rezervor apă tratată”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181575",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-125-2024",
+   "path": "local/timis/dumbravita/2024/125",
+   "short": "HCL Dumbrăvița nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 125/2024 privind aprobarea INDICATORILOR TEHNICO - ECONOMICI pentru proiectul ”Sistematizare rutieră în comuna Dumbrăvița”, aprobat prin Planul Strategic (PS) PAC 2023-2027, DR28",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181577",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-126-2024",
+   "path": "local/timis/dumbravita/2024/126",
+   "short": "HCL Dumbrăvița nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 126/2024 privind aprobarea INDICATORILOR TEHNICO - ECONOMICI pentru obiectivul de investiție ”Rețea de iluminat public - lot II”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181578",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-127-2024",
+   "path": "local/timis/dumbravita/2024/127",
+   "short": "HCL Dumbrăvița nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 127/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181579",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-128-2024",
+   "path": "local/timis/dumbravita/2024/128",
+   "short": "HCL Dumbrăvița nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 128/2024 privind aprobarea prelungirii valabilității Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023 și aprobarea tarifelor de sortare și tratare diminuate pentru activitatea desfășurată la Stația de Sortare Deșeuri Municipale Timișoara",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/181580",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/181580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-133-2024",
+   "path": "local/timis/dumbravita/2024/133",
+   "short": "HCL Dumbrăvița nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 133/2024 privind aprobarea cheltuielilor pentru achiziționarea cadourilor cu ocazia evenimentelor ocazionate de sfârșitul de an, pe anul 2024, la Creșa Dumbrăvița, Grădinița cu Program Prelungit Dumbrăvița, Centrul de zi Dumbrăvița, Centrul de zi de recuperare pentru copii cu dizabilități Dumbrăvița și Școala Gimnazială Dumbrăvița, finanțate din bugetul local",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/182774",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/182774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-134-2024",
+   "path": "local/timis/dumbravita/2024/134",
+   "short": "HCL Dumbrăvița nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 134/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187287",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-135-2024",
+   "path": "local/timis/dumbravita/2024/135",
+   "short": "HCL Dumbrăvița nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 135/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187288",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-136-2024",
+   "path": "local/timis/dumbravita/2024/136",
+   "short": "HCL Dumbrăvița nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 136/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187289",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-139-2024",
+   "path": "local/timis/dumbravita/2024/139",
+   "short": "HCL Dumbrăvița nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 139/2024 privind aprobarea documentației tehnice de alipire a 14 imobile, în vederea dezlipirii conform PUZ aprobat prin HCL nr. 76 din 29.08.2024,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187292",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-140-2024",
+   "path": "local/timis/dumbravita/2024/140",
+   "short": "HCL Dumbrăvița nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 140/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187293",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-142-2024",
+   "path": "local/timis/dumbravita/2024/142",
+   "short": "HCL Dumbrăvița nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 142/2024 privind aprobarea modificării și completării HCL nr. 139/28.09.2023, privind ”Regulamentul referitor la stabilirea măsurilor de protecție a mediului în timpul executării lucrărilor de construcții în comuna Dumbrăvița”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187295",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-144-2024",
+   "path": "local/timis/dumbravita/2024/144",
+   "short": "HCL Dumbrăvița nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 144/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187297",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-145-2024",
+   "path": "local/timis/dumbravita/2024/145",
+   "short": "HCL Dumbrăvița nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 145/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187298",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-146-2024",
+   "path": "local/timis/dumbravita/2024/146",
+   "short": "HCL Dumbrăvița nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 146/2024 privind aprobarea valorii finale a obiectivului de investiție : ”Dotarea cu mobilier și echipamente digitale a unității de învățământ preuniversitar de pe raza comunei Dumbrăvița, județul Timiș”;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187299",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-150-2024",
+   "path": "local/timis/dumbravita/2024/150",
+   "short": "HCL Dumbrăvița nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 150/2024 privind aprobarea acordării de facilități unor categorii de cetățeni și entități la transportul public, pentru anul 2025",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187303",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-151-2024",
+   "path": "local/timis/dumbravita/2024/151",
+   "short": "HCL Dumbrăvița nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 151/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și privat de pe raza UAT comuna Dumbrăvița, cuprinse în Anexă, pentru anul școlar 2025-2026,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187304",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-152-2024",
+   "path": "local/timis/dumbravita/2024/152",
+   "short": "HCL Dumbrăvița nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 152/2024 privind aplicarea dispozițiilor Legii nr.177/2023 și a Hotărârii nr.39/2024 pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Dumbrăvița, județul Timiș,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187305",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-153-2024",
+   "path": "local/timis/dumbravita/2024/153",
+   "short": "HCL Dumbrăvița nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 153/2024 privind atestarea apartenenţei la domeniul privat al comunei Dumbrăvița, în administrarea Consiliului Local Dumbrăvița a imobilului înscris în Anexă, provenit din renunțarea la dreptul de proprietate privată, teren având destinația de drum",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187306",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-154-2024",
+   "path": "local/timis/dumbravita/2024/154",
+   "short": "HCL Dumbrăvița nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 154/2024 privind aprobarea actualizării documentației tehnico-economice și a indicatorilor tehnico-economici faza PT pentru investiția : ” Construire școală zona Cora, localitatea Dumbrăvița”, proiect finanțat prin PNRR, în cadrul apelului de proiecte cu titlul ” Construirea și dezvoltarea unei rețele-pilot de școli verzi”, finanțat din Componența C15-Educație;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187307",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-155-2024",
+   "path": "local/timis/dumbravita/2024/155",
+   "short": "HCL Dumbrăvița nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 155/2024 privind privind aprobarea valorii de investiţie a proiectului intitulat „Sistematizare rutiera in comuna Dumbravita” în Comuna Dumbrăvița, județul Timiș, cu o valoare totala de 12.299.862,32 lei din care: 4.975.6000,00 lei valoare eligibilă și 7.324.262,32 lei valoare neeligibila, în baza contractului de finantare nerambursabila nr. C28020000021353700002 din data de 03.10.2024 încheiat cu Agenția pentru Finanțarea Investițiilor Rurale;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/187308",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/187308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-156-2024",
+   "path": "local/timis/dumbravita/2024/156",
+   "short": "HCL Dumbrăvița nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 156/2024 privind aprobarea NOTEI CONCEPTUALE pentru investiția ”Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrăvița, jud. Timiș - etapa II”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/188157",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/188157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-157-2024",
+   "path": "local/timis/dumbravita/2024/157",
+   "short": "HCL Dumbrăvița nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 157/2024 privind aprobarea TEMEI DE PROIECTARE pentru investiția ” Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrăvița, jud. Timiș-etapa II”;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/188158",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/188158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-158-2024",
+   "path": "local/timis/dumbravita/2024/158",
+   "short": "HCL Dumbrăvița nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 158/2024 privind aprobarea participării la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul “Extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Dumbrăvița, jud. Timis - Etapa II”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/188159",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/188159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-159-2024",
+   "path": "local/timis/dumbravita/2024/159",
+   "short": "HCL Dumbrăvița nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 159/2024 privind aprobarea actualizării INDICATORILOR TEHNICO-ECONOMICI ai investiției CONSTRUIRE GRĂDINIȚĂ – Zona Cora, localitatea Dumbrăvița,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/188160",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/188160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-160-2024",
+   "path": "local/timis/dumbravita/2024/160",
+   "short": "HCL Dumbrăvița nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 160/2024 privind aprobarea proiectului „Modernizare DJ 691: lărgirea la 4 benzi a sectorului km 2+725 (sens giratoriu) - Centura Timișoara și Centura Timișoara - Autostrada A1 (km. 12+975)”",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/188161",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/188161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-20-2024",
+   "path": "local/timis/dumbravita/2024/20",
+   "short": "HCL Dumbrăvița nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 20/2024 privind utilizarea excedentului bugetului local al UAT comuna Dumbrăviţa, în sumă de 3.000.000 lei înregistrat la data de 31.12.2023,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/143136",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/143136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-21-2024",
+   "path": "local/timis/dumbravita/2024/21",
+   "short": "HCL Dumbrăvița nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 21/2024 privind aprobarea contului anual de execuție al bugetului local de venituri și cheltuieli al UAT comuna Dumbrăvița pe anul 2023,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/143137",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/143137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-22-2024",
+   "path": "local/timis/dumbravita/2024/22",
+   "short": "HCL Dumbrăvița nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 22/2024 privind aprobarea bugetului local de venituri și cheltuieli al UAT comunei Dumbrăvița pentru anul 2024,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/143138",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/143138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-23-2024",
+   "path": "local/timis/dumbravita/2024/23",
+   "short": "HCL Dumbrăvița nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 23/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/146965",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/146965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-41-2024",
+   "path": "local/timis/dumbravita/2024/41",
+   "short": "HCL Dumbrăvița nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 41/2024 privind aprobarea suplimentării listei cu erori materiale identificate în documentația PUG, aprobat prin HCL nr.140/25.10.2023",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/152531",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/152531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-47-2024",
+   "path": "local/timis/dumbravita/2024/47",
+   "short": "HCL Dumbrăvița nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 47/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/155375",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/155375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-55-2024",
+   "path": "local/timis/dumbravita/2024/55",
+   "short": "HCL Dumbrăvița nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 55/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/158567",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/158567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-6-2024",
+   "path": "local/timis/dumbravita/2024/6",
+   "short": "HCL Dumbrăvița nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 6/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/141381",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/141381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-65-2024",
+   "path": "local/timis/dumbravita/2024/65",
+   "short": "HCL Dumbrăvița nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 65/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/163489",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/163489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-66-2024",
+   "path": "local/timis/dumbravita/2024/66",
+   "short": "HCL Dumbrăvița nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 66/2024 privind aprobarea suplimentării listei cu erori materiale identificate în documentația PUG, aprobat prin HCL nr.140/25.10.2023",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/163490",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/163490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-68-2024",
+   "path": "local/timis/dumbravita/2024/68",
+   "short": "HCL Dumbrăvița nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 68/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/163492",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/163492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-7-2024",
+   "path": "local/timis/dumbravita/2024/7",
+   "short": "HCL Dumbrăvița nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 7/2024 privind aprobarea unei liste în vederea rectificării erorilor materiale identificate în documentația PUG,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/141382",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/141382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-73-2024",
+   "path": "local/timis/dumbravita/2024/73",
+   "short": "HCL Dumbrăvița nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 73/2024 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Timișoara și a zonei urbane funcționale pentru perioada de programare 2021-2027",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/163497",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/163497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-74-2024",
+   "path": "local/timis/dumbravita/2024/74",
+   "short": "HCL Dumbrăvița nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 74/2024 privind aprobarea procedurii referitoare la punerea în aplicare a prevedrilor Legii nr.62/2018 pentru combaterea ambroziei",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/168822",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/168822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-76-2024",
+   "path": "local/timis/dumbravita/2024/76",
+   "short": "HCL Dumbrăvița nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 76/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/168824",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/168824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-77-2024",
+   "path": "local/timis/dumbravita/2024/77",
+   "short": "HCL Dumbrăvița nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 77/2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/168825",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/168825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-79-2024",
+   "path": "local/timis/dumbravita/2024/79",
+   "short": "HCL Dumbrăvița nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 79/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/168827",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/168827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-91-2024",
+   "path": "local/timis/dumbravita/2024/91",
+   "short": "HCL Dumbrăvița nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 91/2024 privind rectificarea bugetului local al UAT comuna Dumbrăvița pe anul 2024",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/169695",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/169695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-98-2024",
+   "path": "local/timis/dumbravita/2024/98",
+   "short": "HCL Dumbrăvița nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 98/2024 privind aprobare denumire de stradă în localitatea Dumbrăvița : str.Basmului, pentru nr. cad. Cc21/1/4;21/1/5/40, CF 407231 Dumbrăvița,",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/171891",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/171891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbravita-99-2024",
+   "path": "local/timis/dumbravita/2024/99",
+   "short": "HCL Dumbrăvița nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrăvița nr. 99/2024 privind aprobarea reorganizării rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Dumbrăvița, județul Timiș, pentru anul școlar 2024-2025;",
+   "url": "https://emol.ro/dumbravita-tm/registru-hcl/171892",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbravita-tm/registru-hcl/171892",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

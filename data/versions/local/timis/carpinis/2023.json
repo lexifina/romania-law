@@ -1,0 +1,396 @@
+{
+ "country": "RO",
+ "shard": "local/timis/carpinis/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--carpinis-1-2023",
+   "path": "local/timis/carpinis/2023/1",
+   "short": "HCL Cărpiniș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 1/2023 privind aprobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142390",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-10-2023",
+   "path": "local/timis/carpinis/2023/10",
+   "short": "HCL Cărpiniș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 10/2023 privind aprobarea Programului finanțărilor nerambursabile acordate în anul 2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142399",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-11-2023",
+   "path": "local/timis/carpinis/2023/11",
+   "short": "HCL Cărpiniș nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 11/2023 privind modificarea Hotărârii Consiliului Local al Comunei Cărpiniș nr.17 din 31.05.2021 privind aprobarea înfințării Clubului Sportiv Comunal \"Dacia\" Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142400",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-12-2023",
+   "path": "local/timis/carpinis/2023/12",
+   "short": "HCL Cărpiniș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 12/2023 privind completarea Hotărârii Consiliului Local al Comunei Cărpiniș nr.24 din 28.05.2019 privind atribuirea de denumire pentru străzile din comuna Cărpiniș și aprobarea nomenclaturii stradale locale",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142401",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-13-2023",
+   "path": "local/timis/carpinis/2023/13",
+   "short": "HCL Cărpiniș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 13/2023 privind aprobarea cererii de trecere a unor bunuri imobile din domeniul public al județului Timiș în domeniul public al comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142402",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-15-2023",
+   "path": "local/timis/carpinis/2023/15",
+   "short": "HCL Cărpiniș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 15/2023 privind emiterea acordului pentru autorizarea lucrărilor ce se vor realiza de către Campania Națională Administrare a Infrastructurii Rutiere S.A -Direcția Regională de Drumuri și Poduri Timișoara la obiectivul Amenajare intersecție DN 59 km 27-909 cu DN 59B km 0+000, în Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142404",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-16-2023",
+   "path": "local/timis/carpinis/2023/16",
+   "short": "HCL Cărpiniș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 16/2023 privind aprobarea agendei culturale, sportive și de tineret pentru anul 2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142405",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-17-2023",
+   "path": "local/timis/carpinis/2023/17",
+   "short": "HCL Cărpiniș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 17/2023 privind aprobarea participării Comunei Cărpiniș la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante din punct de vedere energetic ( Rabla Plus 2023) și asigurareav contribuțieib proprii necesare achiziționării autovehiculului nou în cadrul programului",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142406",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-2-2023",
+   "path": "local/timis/carpinis/2023/2",
+   "short": "HCL Cărpiniș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 2/2023 privind aprobarea primei înscrieri în cartea funciară a unor imobile",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142391",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-21-2023",
+   "path": "local/timis/carpinis/2023/21",
+   "short": "HCL Cărpiniș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 21/2023 privind aprobarea unui protocol de colaborare între Ministerul Muncii și Solidarității Sociale și Comuna Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142410",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-22-2023",
+   "path": "local/timis/carpinis/2023/22",
+   "short": "HCL Cărpiniș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 22/2023 privind propunerea schimbării destinației imobilului gradației( construcției) din localitatea Cărpiniș, pe perioada desfășurării lucrărilor de demolare, urmând ca după finalizarea lucrărilor terenului să rămână în domeniul public al comunei, făcând parte din baza materială a învățământului preuniversitar de stat",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142411",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-23-2023",
+   "path": "local/timis/carpinis/2023/23",
+   "short": "HCL Cărpiniș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 23/2023 privind aprobarea participării comunei Cărpiniș în cadrul Programului privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142412",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-24-2023",
+   "path": "local/timis/carpinis/2023/24",
+   "short": "HCL Cărpiniș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 24/2023 privind aprobarea participării Comunei Cărpiniș, județul Timiș la Parteneriatul LEADER cu denumirea \"GRUP DE ACȚIUNE LOCALĂ BANAT-VEST 2023-2027\"",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142413",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-25-2023",
+   "path": "local/timis/carpinis/2023/25",
+   "short": "HCL Cărpiniș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 25/2023 privind aprobarea proiectului și a documentației tehnico-economice - Memoriu justificativ-pentru investiția \"ACHIZȚIONAREA DE ECHIPAMENTE ÎN VEDEREA INREGISTRĂRII ÎN SOCIETATE A MINORITĂȚILOR ETNICE DIN COMUNA CĂRPINIȘ, JUDEȚUL TIMIȘ \"",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142414",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-26-2023",
+   "path": "local/timis/carpinis/2023/26",
+   "short": "HCL Cărpiniș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 26/2023 privind implementarea proiectului \"Achiziționarea de echipamente în vederea integrării în societate a minorităților etnice din comuna Cărpiniș județul Timiș\"",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142415",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-27-2023",
+   "path": "local/timis/carpinis/2023/27",
+   "short": "HCL Cărpiniș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 27/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economice pentru obiectivul de investiții ''REABILITAREA MODERATĂ A ȘCOLII GIMNAZIALE CU CLASELE V-VIII DIN COMUNA CĂRPINIȘ, JUDEȚUL TIMIȘ, ÎN VEDEREA CREȘERII EFICIENȚEI ENERGETICE A CLĂDIRII'', finanțat prin ''Programul Național de Redresare și Reziliență, Componenta C10 - Fondul Local''",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142432",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-3-2023",
+   "path": "local/timis/carpinis/2023/3",
+   "short": "HCL Cărpiniș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 3/2023 privind participarea Comunei Cărpiniș la Programul Național de Reziliență, Componenta C15-Educație Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învătământ preuniversitar și a unităților conexe și aprobarea cheltuieliilor legate de proiectul cu titlul \"DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR DE PE RAZA COMUNEI CĂRPINIȘ, JUDEȚUL TIMIȘ\"",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142392",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-33-2023",
+   "path": "local/timis/carpinis/2023/33",
+   "short": "HCL Cărpiniș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 33/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economice pentru obiectivul de investiții ''DEZVOLTAREA INFRASTRUCTURII DE TRANSPORT VERDE - PISTE PENTRU BICICLETE ÎN COMUNA CĂRPINIȘ, JUDEȚUL TIMIȘ'', finanțat prin ''Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local''",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142438",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-4-2023",
+   "path": "local/timis/carpinis/2023/4",
+   "short": "HCL Cărpiniș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 4/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142393",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-43-2023",
+   "path": "local/timis/carpinis/2023/43",
+   "short": "HCL Cărpiniș nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 43/2023 privind neasumarea responsabilității comunei Cărpiniș cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru școli al României în perioada 2023-2029 pentru unitățile de învățământ din comuna Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142450",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-54-2023",
+   "path": "local/timis/carpinis/2023/54",
+   "short": "HCL Cărpiniș nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 54/2023 privind susținerea implementării proiectului ''Tradiție și modernitate - Dezvoltarea unei cooperări culturale transfrontaliere'' (Tradition and Modernity - Development of a Cross-border Cultural Cooperation),",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142461",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-56-2023",
+   "path": "local/timis/carpinis/2023/56",
+   "short": "HCL Cărpiniș nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 56/2023",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142463",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-6-2023",
+   "path": "local/timis/carpinis/2023/6",
+   "short": "HCL Cărpiniș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 6/2023 privind retragerea dreptului de folosință gratuită asupra unor terenuri",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142395",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-71-2023",
+   "path": "local/timis/carpinis/2023/71",
+   "short": "HCL Cărpiniș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 71/2023 privind indexarea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142744",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-8-2023",
+   "path": "local/timis/carpinis/2023/8",
+   "short": "HCL Cărpiniș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 8/2023 privind aprobarea rețelei școlare locale pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142397",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-84-2023",
+   "path": "local/timis/carpinis/2023/84",
+   "short": "HCL Cărpiniș nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 84/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții și a devizului general pentru obiectivul de investiții ''Reabilitare prin eficientizarea energetică a grădiniței din localitatea Iecea Mică, comuna Cărpiniș, județul Timiș''",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/142763",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/142763",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

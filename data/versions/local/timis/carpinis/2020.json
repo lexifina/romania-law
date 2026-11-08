@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "local/timis/carpinis/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--carpinis-1-2020",
+   "path": "local/timis/carpinis/2020/1",
+   "short": "HCL Cărpiniș nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 1/2020 privind rectificarea bugetului local pe anul 2019",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12755",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-11-2020",
+   "path": "local/timis/carpinis/2020/11",
+   "short": "HCL Cărpiniș nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 11/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12772",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-17-2020",
+   "path": "local/timis/carpinis/2020/17",
+   "short": "HCL Cărpiniș nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 17/2020 privind stabilirea stațiilor publice pentru îmbarcarea/debarcarea călătorilor deserviți de serviciile de transport județean prin curse regulate",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12778",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-2-2020",
+   "path": "local/timis/carpinis/2020/2",
+   "short": "HCL Cărpiniș nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 2/2020 privind aprobarea Planului de acțiuni/lucrări de interes local pentru repartizarea orelor de muncă efectuate de persoanele care beneficiază de ajutor social în anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12756",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-20-2020",
+   "path": "local/timis/carpinis/2020/20",
+   "short": "HCL Cărpiniș nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 20/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12785",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-24-2020",
+   "path": "local/timis/carpinis/2020/24",
+   "short": "HCL Cărpiniș nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 24/2020 privind acordarea unui stimulent financiar pentru nou-născuți",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12789",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-28-2020",
+   "path": "local/timis/carpinis/2020/28",
+   "short": "HCL Cărpiniș nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 28/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12793",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-3-2020",
+   "path": "local/timis/carpinis/2020/3",
+   "short": "HCL Cărpiniș nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 3/2020 privind retragerea dreptului de folosință gratuită asupra unor terenuri",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12757",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-34-2020",
+   "path": "local/timis/carpinis/2020/34",
+   "short": "HCL Cărpiniș nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 34/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12799",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-36-2020",
+   "path": "local/timis/carpinis/2020/36",
+   "short": "HCL Cărpiniș nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 36/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12932",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-37-2020",
+   "path": "local/timis/carpinis/2020/37",
+   "short": "HCL Cărpiniș nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 37/2020 privind organizarea comisiilor de specialitate ale Consiliului Local al Comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12933",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-38-2020",
+   "path": "local/timis/carpinis/2020/38",
+   "short": "HCL Cărpiniș nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 38/2020 privind alegerea viceprimarului comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12934",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-39-2020",
+   "path": "local/timis/carpinis/2020/39",
+   "short": "HCL Cărpiniș nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 39/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12935",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-4-2020",
+   "path": "local/timis/carpinis/2020/4",
+   "short": "HCL Cărpiniș nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 4/2020 privind atribuirea unor terenuri beneficiarilor Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, republicată",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12758",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-40-2020",
+   "path": "local/timis/carpinis/2020/40",
+   "short": "HCL Cărpiniș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 40/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Cărpiniș",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/21427",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/21427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-41-2020",
+   "path": "local/timis/carpinis/2020/41",
+   "short": "HCL Cărpiniș nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 41/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/21432",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/21432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-42-2020",
+   "path": "local/timis/carpinis/2020/42",
+   "short": "HCL Cărpiniș nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 42/2020 privind indexarea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/21433",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/21433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-5-2020",
+   "path": "local/timis/carpinis/2020/5",
+   "short": "HCL Cărpiniș nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 5/2020 privind aprobarea contului încheiere a exercițiului bugetar pe anul 2019",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12759",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-6-2020",
+   "path": "local/timis/carpinis/2020/6",
+   "short": "HCL Cărpiniș nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 6/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12760",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--carpinis-7-2020",
+   "path": "local/timis/carpinis/2020/7",
+   "short": "HCL Cărpiniș nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cărpiniș nr. 7/2020 privind aprobarea rețelei școlare pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/carpinis-tm/registru-hcl/12761",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carpinis-tm/registru-hcl/12761",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "local/timis/costeiu/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--costeiu-10-2025",
+   "path": "local/timis/costeiu/2025/10",
+   "short": "HCL Coșteiu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 10/2025 privind aprobarea Rapoartelor de evaluare/reevaluare a imobilizărilor corporale din domeniul public/privat al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189297",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-13-2025",
+   "path": "local/timis/costeiu/2025/13",
+   "short": "HCL Coșteiu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 13/2025 privind utilizarea in anul 2025 a excedentului rezultat la închiderea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189300",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-14-2025",
+   "path": "local/timis/costeiu/2025/14",
+   "short": "HCL Coșteiu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 14/2025 privind utilizarea in anul 2025 a excedentului rezultat la închiderea exercițiului bugetar al anului 2024 al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189342",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-15-2025",
+   "path": "local/timis/costeiu/2025/15",
+   "short": "HCL Coșteiu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 15/2025 privind completarea anexei nr. 1 la HCL nr. 85 din 28.11.2019",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189343",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-16-2025",
+   "path": "local/timis/costeiu/2025/16",
+   "short": "HCL Coșteiu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 16/2025 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al Comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189344",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-18-2025",
+   "path": "local/timis/costeiu/2025/18",
+   "short": "HCL Coșteiu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 18/2025 privind rectificarea Hotărârii Consiliului Local nr. 106 din 21.11.2024",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/193117",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/193117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-20-2025",
+   "path": "local/timis/costeiu/2025/20",
+   "short": "HCL Coșteiu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 20/2025 privind trecerea din domeniul privat al Comunei Coșteiu în domeniul public al Comunei Coșteiu a terenului înscris în Cartea Funciară Nr. 412177 Coșteiu, nr. Cadastral 412177, în suprafață de 4.305 mp. situat în localitatea Țipari",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/196851",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/196851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-22-2025",
+   "path": "local/timis/costeiu/2025/22",
+   "short": "HCL Coșteiu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 22/2025 privind aprobarea contului de inchidere a exercițiului bugetar pentru anul 2024 al COMUNEI COSTEIU",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201579",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-23-2025",
+   "path": "local/timis/costeiu/2025/23",
+   "short": "HCL Coșteiu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 23/2025 Privind casarea anuala a elementelor de activ si pasiv care aparțin domeniului public de interes local si domeniului privat al comunei Coșteiu, administrate de Consiliul Local al Comunei Coșteiu la data de 31.12.2024",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201580",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-24-2025",
+   "path": "local/timis/costeiu/2025/24",
+   "short": "HCL Coșteiu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 24/2025 Privind inventarierea anuala a elementelor de activ si pasiv care aparțin domeniului public de interes local si domeniului privat al comunei Coșteiu, administrate de Consiliul Local al Comunei Coșteiu la data de 31.12.2024",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201581",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-25-2025",
+   "path": "local/timis/costeiu/2025/25",
+   "short": "HCL Coșteiu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 25/2025 privind aprobarea și modificarea Organigramei, Serviciului public de Gospodărie comunală Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201582",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-26-2025",
+   "path": "local/timis/costeiu/2025/26",
+   "short": "HCL Coșteiu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 26/2025 privind modificarea Organigramei, a Statului de Funcții al aparatului de specialitate al primarului Comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201583",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-27-2025",
+   "path": "local/timis/costeiu/2025/27",
+   "short": "HCL Coșteiu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 27/2025 privind bugetul local inițial al Comunei Coșteiu pe anul 2025 si estimările pe anii 2026 - 2028",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201584",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-28-2025",
+   "path": "local/timis/costeiu/2025/28",
+   "short": "HCL Coșteiu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 28/2025 privind aprobarea normativului de cheltuieli pentru consumul lunar de carburanți pentru autoturismele/utilajele primăriei Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201585",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-29-2025",
+   "path": "local/timis/costeiu/2025/29",
+   "short": "HCL Coșteiu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 29/2025 Privind aprobarea Agendei Culturale a Comunei Coșteiu, jud. Timiș pentru anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201586",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-3-2025",
+   "path": "local/timis/costeiu/2025/3",
+   "short": "HCL Coșteiu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 3/2025 Privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Coșteiu, județul Timiș pentru anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189290",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-30-2025",
+   "path": "local/timis/costeiu/2025/30",
+   "short": "HCL Coșteiu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 30/2025 Privind aprobarea și modificarea Regulamentului de Organizare și funcționare al aparatului de specialitate al primarului Comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201587",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-31-2025",
+   "path": "local/timis/costeiu/2025/31",
+   "short": "HCL Coșteiu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 31/2025 privind aprobarea documentației tehnico-economice – Proiectul tehnic și a indicatorilor tehnico-economici privind investiția „Înființare parc fotovoltaic în comuna Coșteiu, județul Timiș”",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/201588",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/201588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-32-2025",
+   "path": "local/timis/costeiu/2025/32",
+   "short": "HCL Coșteiu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 32/2025 privind aprobarea schimbării categoriei de folosință a imobilelor - teren înscrise în Cartea Funciară Nr. 413984, Nr. 414055, Nr. 414057, Nr. 414069 și trecerea acestora din domeniul privat al Comunei Coșteiu în domeniul public al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/204240",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/204240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-35-2025",
+   "path": "local/timis/costeiu/2025/35",
+   "short": "HCL Coșteiu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 35/2025 privind înscrierea capacităților electrice realizate în baza proiectului ”Extinderea rețelei electrice de distribuție zona PUZ nou - 27 locuri consum, loc. Coșteiu, jud. Timiș” în inventarul domeniului privat al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/207650",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/207650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-36-2025",
+   "path": "local/timis/costeiu/2025/36",
+   "short": "HCL Coșteiu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 36/2025 privind aprobarea predării capacităților energetice aferente investiției ”Extinderea rețelei electrice de distribuție zona PUZ nou - 27 locuri consum, loc. Coșteiu, jud. Timiș”",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/207651",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/207651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-37-2025",
+   "path": "local/timis/costeiu/2025/37",
+   "short": "HCL Coșteiu nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 37/2025 privind aprobarea menținerii funcțională a Serviciului Public de Gospodărie Comunală Coșteiu, în subordinea Consiliului Local al Comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/207652",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/207652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-38-2025",
+   "path": "local/timis/costeiu/2025/38",
+   "short": "HCL Coșteiu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 38/2025 privind aprobarea devizului general actualizat la faza Proiect Tehnic revizuit al investiției ”Reducerea emisiilor de gaze cu efect de seră în transporturi prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: Stații de reîncărcare pentru vehicule electrice în comuna Coșteiu, sat Coșteiu, sat Păru, sat Țipari, județul Timiș”",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/207653",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/207653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-4-2025",
+   "path": "local/timis/costeiu/2025/4",
+   "short": "HCL Coșteiu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 4/2025 privind aprobarea planului anual de acțiuni sau lucrări de interes local care urmează a fi prestate de către persoanele apte de muncă, beneficiare de venit minim de incluziune, în anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189291",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-41-2025",
+   "path": "local/timis/costeiu/2025/41",
+   "short": "HCL Coșteiu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 41/2025 privind atestarea apartenenței la domeniul public al Comunei Coșteiu a imobilului înscris în Cartea Funciară nr. 415847, Nr. cadastral/Nr. topografic 415847, Loc. Coșteiu, str. Macilor, jud. Timiș, și aprobarea schimbării categoriei de folosință din curți construcții în drum",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/212399",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/212399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-43-2025",
+   "path": "local/timis/costeiu/2025/43",
+   "short": "HCL Coșteiu nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 43/2025 privind aprobarea Rapoartelor de evaluare a imobilizărilor corporale din domeniul public/privat al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/212401",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/212401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-44-2025",
+   "path": "local/timis/costeiu/2025/44",
+   "short": "HCL Coșteiu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 44/2025 privind aprobarea documentației de alipire a imobilelor – terenuri proprietate privată a Comunei Coșteiu, pentru parcelele cu nr. cadastral 404425, 404293, 404238, 404390, 404429, 404339 înscrise în CF nr. 404425, CF nr. 404293, CF nr. 404238, CF nr. 404390, CF nr. 404429 și CF nr. 404339",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/212402",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/212402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-47-2025",
+   "path": "local/timis/costeiu/2025/47",
+   "short": "HCL Coșteiu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 47/2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/214641",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/214641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-49-2025",
+   "path": "local/timis/costeiu/2025/49",
+   "short": "HCL Coșteiu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 49/2025 privind modificarea și completarea Hotărârii Consiliului Local nr. 81 din 28.11.2019 privind înființarea Serviciului Voluntar pentru situații de Urgență al Comunei Coșteiu",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220989",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-5-2025",
+   "path": "local/timis/costeiu/2025/5",
+   "short": "HCL Coșteiu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 5/2025 privind acordarea unui stimulent financiar pentru copiii nou-născuți",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189292",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-50-2025",
+   "path": "local/timis/costeiu/2025/50",
+   "short": "HCL Coșteiu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 50/2025 privind aprobarea documentației tehnice de alipire a parcelelor cu număr cadastral 404330, 404229, 415770 înscrise în Cartea Funciară nr. 404330, Cartea Funciară nr. 404229, Cartea Funciară nr. 415770",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220990",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-53-2025",
+   "path": "local/timis/costeiu/2025/53",
+   "short": "HCL Coșteiu nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 53/2025 Privind aprobarea Regulamentului local privind amplasarea si autorizarea mijloacelor de publicitate pe raza comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220993",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-54-2025",
+   "path": "local/timis/costeiu/2025/54",
+   "short": "HCL Coșteiu nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 54/2025 privind reglementarea unor aspecte legate de activitatea Serviciului Public de Gospodărie Comunală Coșteiu, care prestează serviciile de alimentare cu apă și canalizare în comuna Coșteiu (aprobarea nivelurilor de preț pentru activitatea de livrare apă potabilă și canalizare-epurare)",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220994",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-56-2025",
+   "path": "local/timis/costeiu/2025/56",
+   "short": "HCL Coșteiu nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 56/2025 privind modificarea Organigramei, a Statului de Funcții al aparatului de specialitate al primarului Comunei Coșteiu, județul Timiș",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220996",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-57-2025",
+   "path": "local/timis/costeiu/2025/57",
+   "short": "HCL Coșteiu nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 57/2025 privind aprobarea actualizării indicatorilor tehnico-economici în vederea demarării procedurii de achiziție a obiectului de investiții „Actualizarea Planului Urbanistic General al Comunei Coșteiu”",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220997",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-58-2025",
+   "path": "local/timis/costeiu/2025/58",
+   "short": "HCL Coșteiu nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 58/2025 Privind aprobarea Studiului de fezabilitate si a devizului general al investiției ”Asfaltare străzi în PUZ, comuna Coșteiu, sat Coșteiu, jud. Timiș”,",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220998",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-59-2025",
+   "path": "local/timis/costeiu/2025/59",
+   "short": "HCL Coșteiu nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 59/2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/220999",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/220999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-6-2025",
+   "path": "local/timis/costeiu/2025/6",
+   "short": "HCL Coșteiu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 6/2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189293",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-60-2025",
+   "path": "local/timis/costeiu/2025/60",
+   "short": "HCL Coșteiu nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 60/2025 privind aprobarea Stategiei de Dezvoltare Locală a Comunei Coșteiu, județul Timiș pentru perioada 2023-2030",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/229588",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/229588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-61-2025",
+   "path": "local/timis/costeiu/2025/61",
+   "short": "HCL Coșteiu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 61/2025 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare separată și transport separat al deșeurilor municipale din Zona 0 Ghizela, Zona 1 Timișoara, Zona 2 Jimbolia, Zona 3 Deta și Zona 4 Făget, inclusiv operarea facilităților de transfer Stația de Transfer Timișoara, Centrul de Colectare Jimbolia, Centrul de Colectare Deta, Centrul de Colectare Făget",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/229589",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/229589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-66-2025",
+   "path": "local/timis/costeiu/2025/66",
+   "short": "HCL Coșteiu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 66/2025 Privind aprobarea Studiului de fezabilitate si a devizului general al investiției ”Asfaltare străzi în PUZ, comuna Coșteiu, sat Coșteiu, jud. Timiș”, cu TVA de 21%",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/229594",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/229594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-67-2025",
+   "path": "local/timis/costeiu/2025/67",
+   "short": "HCL Coșteiu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 67/2025 Privind aprobarea înregistrării Serviciului Public de Gospodărie Comunală în scopuri de taxă pe valoarea adăugată (TVA)",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/229595",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/229595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-7-2025",
+   "path": "local/timis/costeiu/2025/7",
+   "short": "HCL Coșteiu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 7/2025 Privind stabilirea situatiilor deosebite pentru care se acordă ajutoare de urgență din bugetul local pentru anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/189294",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/189294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-70-2025",
+   "path": "local/timis/costeiu/2025/70",
+   "short": "HCL Coșteiu nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 70/2025 privind bugetul local rectificarea nr. 1 al Comunei Coșteiu pe anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/234495",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/234495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-71-2025",
+   "path": "local/timis/costeiu/2025/71",
+   "short": "HCL Coșteiu nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 71/2025 privind aprobarea proiectului de rețea școlară a unităților de învățământ preuniversitar de stat de pe raza U.A.T Coșteiu pentru anul școlar 2026 -2027",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/234496",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/234496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-75-2025",
+   "path": "local/timis/costeiu/2025/75",
+   "short": "HCL Coșteiu nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 75/2025 Privind aprobarea indexării cu rata inflației a nivelurilor impozitelor si taxelor locale care constau într-o anumita suma in lei sau care sunt stabilite pe baza unei anumite sume in lei si a taxelor speciale precum si limitele amenzilor care se fac venituri la bugetul local, aplicate in anul 2026",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242147",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-84-2025",
+   "path": "local/timis/costeiu/2025/84",
+   "short": "HCL Coșteiu nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 84/2025 privind achiziționarea cadourilor de Crăciun pentru preșcolarii din grădinițe si elevii din școlile cu clasele I- VIII de pe raza Comunei Coșteiu din bugetul local",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242156",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-85-2025",
+   "path": "local/timis/costeiu/2025/85",
+   "short": "HCL Coșteiu nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 85/2025 privind aprobarea planului anual de acțiuni sau lucrări de interes local care urmează a fi prestate de către persoanele apte de muncă, beneficiare de venit minim de incluziune, în anul 2026",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242157",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-86-2025",
+   "path": "local/timis/costeiu/2025/86",
+   "short": "HCL Coșteiu nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 86/2025 Privind aprobarea Programului de acțiune comunitare la nivelul comunei Coșteiu județul Timiș pentru anul 2026",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242158",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-88-2025",
+   "path": "local/timis/costeiu/2025/88",
+   "short": "HCL Coșteiu nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 88/2025 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza U.A.T Coșteiu pentru anul școlar 2026 -2027",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242160",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-89-2025",
+   "path": "local/timis/costeiu/2025/89",
+   "short": "HCL Coșteiu nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 89/2025 privind bugetul local rectificarea nr. 2 al Comunei Coșteiu pe anul 2025",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242161",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--costeiu-90-2025",
+   "path": "local/timis/costeiu/2025/90",
+   "short": "HCL Coșteiu nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coșteiu nr. 90/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/costeiu-tm/registru-hcl/242162",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/costeiu-tm/registru-hcl/242162",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

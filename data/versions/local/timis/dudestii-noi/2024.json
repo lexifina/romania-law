@@ -1,0 +1,366 @@
+{
+ "country": "RO",
+ "shard": "local/timis/dudestii-noi/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--dudestii-noi-100-2024",
+   "path": "local/timis/dudestii-noi/2024/100",
+   "short": "HCL Dudeștii Noi nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 100/2024 privind scoaterea la licitație a 13 terenuri din domeniul privat al comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171302",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-101-2024",
+   "path": "local/timis/dudestii-noi/2024/101",
+   "short": "HCL Dudeștii Noi nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 101/2024 privind rectificarea nr.4 a bugetului local al comunei Dudeștii Noi pe anul 2024",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171303",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-108-2024",
+   "path": "local/timis/dudestii-noi/2024/108",
+   "short": "HCL Dudeștii Noi nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 108/2024 privind actualizarea și aprobarea devizului general și a indicatorilor tehnico-economici aferenți obiectivului de investiție ''Realizare Străzi Solaris 3, Comuna Dudeștii Noi, jud. Timiș'' finanțat prin Programul național de investiții ''Anghel Saligny''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179828",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-116-2024",
+   "path": "local/timis/dudestii-noi/2024/116",
+   "short": "HCL Dudeștii Noi nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 116/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitare de stat din Comuna Dudeștii Noi pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179839",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-120-2024",
+   "path": "local/timis/dudestii-noi/2024/120",
+   "short": "HCL Dudeștii Noi nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 120/2024 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 339/26.07.2017 de la FNGCIMM SA IFN în valoare de 1.900.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 1.900.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat ''Extindere rețea de alimentare cu apă și canalizare menajeră în comuna Dudeștii Noi, județul Timiș'' până la data de 12.07.2025",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179847",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-121-2024",
+   "path": "local/timis/dudestii-noi/2024/121",
+   "short": "HCL Dudeștii Noi nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 121/2024 privind aprobarea docuemntației tehnice faza Proiect Tehnic și a indicatorilor tehnico-economici pentru investiția Extinderea și modernizarea sistemului video de supraveghere existent în Comuna Dudeștii Noi, județul Timiș",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179848",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/179848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-124-2024",
+   "path": "local/timis/dudestii-noi/2024/124",
+   "short": "HCL Dudeștii Noi nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 124/2024 privind aprobarea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184513",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-125-2024",
+   "path": "local/timis/dudestii-noi/2024/125",
+   "short": "HCL Dudeștii Noi nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 125/2024 privind aprobarea acordării de facilități unor categorii de cetățeni și entități la transnsportul public în comun de pe ruta M44 Timișoara - Dudeștii Noi - Becicherecu Mic și retur ale Asociația ''Societatea Metropolitană de Transport Timișoara''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184515",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-139-2024",
+   "path": "local/timis/dudestii-noi/2024/139",
+   "short": "HCL Dudeștii Noi nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 139/2024 privind actualizarea valorii proiectului ''Restaurarea și amenajarea peisagistică a ansamblului arhitectural Biserica Romano-Catolică Sf. Vandelin'' - cod SMIS 116424, proiect finanțat în cadrul Programului Operațional Regional 2014-2020",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184832",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/184832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-37-2024",
+   "path": "local/timis/dudestii-noi/2024/37",
+   "short": "HCL Dudeștii Noi nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 37/2024",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/156104",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/156104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-55-2024",
+   "path": "local/timis/dudestii-noi/2024/55",
+   "short": "HCL Dudeștii Noi nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 55/2024 privind aprobarea execuției bugetului local, a bugetului venituri proprii și a bugetului venituri proprii și subvenții al comunei Dudeștii Noi la 31 martie",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158281",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-56-2024",
+   "path": "local/timis/dudestii-noi/2024/56",
+   "short": "HCL Dudeștii Noi nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 56/2024 privind indexarea valorilor impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158282",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-57-2024",
+   "path": "local/timis/dudestii-noi/2024/57",
+   "short": "HCL Dudeștii Noi nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 57/2024 privind aprobarea participării comunei Dudeștii Noi în cadrul Proiectului „MODERNIZAREA REȚELEI DE BIBLIOTECI PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE, DIN CADRUL PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ (PNRR) - HUB",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158283",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-58-2024",
+   "path": "local/timis/dudestii-noi/2024/58",
+   "short": "HCL Dudeștii Noi nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 58/2024 privind instrumentarea investiției locale ”Realizare pistă de bicicletă între comunele Becicherecu Mic și Dudeștii Noi, județul Timiș” de către Asociația de Dezvoltare Intercomunitară Dimitrie Țichindeal",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158284",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-59-2024",
+   "path": "local/timis/dudestii-noi/2024/59",
+   "short": "HCL Dudeștii Noi nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 59/2024",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158285",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-60-2024",
+   "path": "local/timis/dudestii-noi/2024/60",
+   "short": "HCL Dudeștii Noi nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 60/2024 privind modificarea și completarea HCL nr. 89/2022 privind transferul sumelor din bugetul local către Asociația de Dezvoltare Intercomunitară „Torontal” aferente proiectului „Extindere rețelelor de canalizare și alimentare cu apă din comunele Becicherecu Mic și Dudeștii Noi, județul Timiș”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158286",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-67-2024",
+   "path": "local/timis/dudestii-noi/2024/67",
+   "short": "HCL Dudeștii Noi nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 67/2024 privind depunerea cererii de finanțare pentru obiectivul ''Reabilitarea, modernizarea, extinderea și dotarea școlii gimnaziale din comuna Dudeștii Noi, județul Timiș'' În cadrul Programului Regional Vest 2021-2027 Intervenția IR 6.1 B Școli",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158296",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/158296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-76-2024",
+   "path": "local/timis/dudestii-noi/2024/76",
+   "short": "HCL Dudeștii Noi nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 76/2024 privind aprobarea majorării cotizației anuale, datorată de comuna Dudeștii Noi, județul Timiș, la Asociația de Dezvoltare Intercomunitară Polul de Creștere Timișoara",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171252",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-80-2024",
+   "path": "local/timis/dudestii-noi/2024/80",
+   "short": "HCL Dudeștii Noi nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 80/2024 privind avizarea suprafeței administrative ce va urma să facă parte din aria naturală protejată - Situl ''Natura 2000'' ROSCI0277 - Becicherecu Mic ca urmare a modificării limitelor habitatelor naturale și arealelor speciilor protejate de pe teritoriul sitului",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171266",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-81-2024",
+   "path": "local/timis/dudestii-noi/2024/81",
+   "short": "HCL Dudeștii Noi nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 81/2024 privind încheierea unui protocol de asociere cu Municipiul Timișoara și cu Comuna Becicherecu Mic pentru derularea procedurilor de achiziție publică privind achiziția de vehicule nepoluante (autobuze electrice) necesare îmbunătățirii transportului public de călători în zona Timișoara și stații de reîncărcare pentru vehiculele electrice - proiect aferent investițiilor I.1. - Înnoirea parcului de vehicule destinate transportului public (achiziția de vehicule nepoluante) - Proiectul C10 - I1.1-41",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171267",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-82-2024",
+   "path": "local/timis/dudestii-noi/2024/82",
+   "short": "HCL Dudeștii Noi nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 82/2024 privind aprobarea protocolului de finanțare încheita între comuna Dudeștii Noi și Județul Timiș în vederea implementării și derulării Programului multianual privind elaborarea și/sau actualizarea planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism derulat în perioada 2024-2027",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171271",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-90-2024",
+   "path": "local/timis/dudestii-noi/2024/90",
+   "short": "HCL Dudeștii Noi nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 90/2024 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții ''Elaborare Plan Urbanistic General al Comunei Dudeștii Noi, județul Timiș''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171283",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-92-2024",
+   "path": "local/timis/dudestii-noi/2024/92",
+   "short": "HCL Dudeștii Noi nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 92/2024 privind actualizarea devizului general pentru obiectivul de investiții ''Extinderea rețelelor de canalizare și alimentare cu apă din comunele Becicherecu Mic și Dudeștii Noi, județul Timiș''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171285",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-93-2024",
+   "path": "local/timis/dudestii-noi/2024/93",
+   "short": "HCL Dudeștii Noi nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 93/2024 privind aprobarea obiectivului de investiții ''Realizare străzi Solaris 3, comuna Dudeștii Noi, jud. Timiș'', aprobat pentru finanțare prin Programul Național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171293",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/171293",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

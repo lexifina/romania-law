@@ -1,0 +1,1056 @@
+{
+ "country": "RO",
+ "shard": "local/timis/dudestii-noi/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--dudestii-noi-1-2021",
+   "path": "local/timis/dudestii-noi/2021/1",
+   "short": "HCL Dudeștii Noi nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 1/2021 privind modificarea și completarea HCL nr. 83/2020 privind impozitele și taxele locale pentru anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25914",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-100-2021",
+   "path": "local/timis/dudestii-noi/2021/100",
+   "short": "HCL Dudeștii Noi nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 100/2021 privind rectificarea nr.5 a bugetului local pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47268",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-101-2021",
+   "path": "local/timis/dudestii-noi/2021/101",
+   "short": "HCL Dudeștii Noi nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 101/2021 privind aprobarea înregistrării audio video și transmiterea în direct pe canalele media și mass media a ședințelor Consiliului Local Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47325",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-102-2021",
+   "path": "local/timis/dudestii-noi/2021/102",
+   "short": "HCL Dudeștii Noi nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 102/2021 privind aprobarea proiectului modelului de steag al comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47326",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-103-2021",
+   "path": "local/timis/dudestii-noi/2021/103",
+   "short": "HCL Dudeștii Noi nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 103/2021 privind modificarea și completarea Hotărârii Consiliului Local nr.18/2021 privind avizarea încheierii unui contract de asistență juridică de către operatorul serviciului de apă – canal AQUATORONTAL SRL",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47327",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-107-2021",
+   "path": "local/timis/dudestii-noi/2021/107",
+   "short": "HCL Dudeștii Noi nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 107/2021 privind aprobarea Studiului de Oportunitate pentru fundamentarea și stabilirea formei de gestiune a Serviciului de iluminat public în comuna Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47331",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-108-2021",
+   "path": "local/timis/dudestii-noi/2021/108",
+   "short": "HCL Dudeștii Noi nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 108/2021 privind rectificarea nr. 6 a bugetului local pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47332",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-14-2021",
+   "path": "local/timis/dudestii-noi/2021/14",
+   "short": "HCL Dudeștii Noi nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 14/2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitare de stat din Comuna Dudeștii Noi pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25927",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-15-2021",
+   "path": "local/timis/dudestii-noi/2021/15",
+   "short": "HCL Dudeștii Noi nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 15/2021 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25928",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-16-2021",
+   "path": "local/timis/dudestii-noi/2021/16",
+   "short": "HCL Dudeștii Noi nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 16/2021 privind aprobarea proiectului ''Îmbunătățirea conținutului digital și a infrastructurii TIC în Școala Gimnazială Dudeștii Noi - Jud. Timiș'', în scopul depunerii acestuia spre finanțare în cadrul Programului Operațional Competivitate (POC) 2014-2020 și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25929",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-19-2021",
+   "path": "local/timis/dudestii-noi/2021/19",
+   "short": "HCL Dudeștii Noi nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 19/2021 privind aprobarea organigramei și a statului de funcții ale Comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25932",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-2-2021",
+   "path": "local/timis/dudestii-noi/2021/2",
+   "short": "HCL Dudeștii Noi nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 2/2021 privind modificarea și completarea HCL nr. 29/2019 privind implementarea proiectului ''Dezvoltarea unui sistem integrat de servicii care să contribuie la inlcuziunea socială a grupurilor vulnerabile din Comuna Dudeștii Noi, prin achiziția unei ambulanțe sociale''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25915",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-24-2021",
+   "path": "local/timis/dudestii-noi/2021/24",
+   "short": "HCL Dudeștii Noi nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 24/2021 privind aprobarea tarifelor, cheltuielilor indirecte și a profitului societății BM-DN Torontal SRL",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25937",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-3-2021",
+   "path": "local/timis/dudestii-noi/2021/3",
+   "short": "HCL Dudeștii Noi nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 3/2021 privind modificarea și completarea HCL nr. 20/2019 privind implementarea proiectului ''Amenajarea peisageră a parcului familiei''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25916",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-30-2021",
+   "path": "local/timis/dudestii-noi/2021/30",
+   "short": "HCL Dudeștii Noi nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 30/2021 privind stabilirea criteriilor de atribuire de terenuri tinerilor pentru construirea unei locuințe potrivit Legii nr. 15/2003",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25943",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-33-2021",
+   "path": "local/timis/dudestii-noi/2021/33",
+   "short": "HCL Dudeștii Noi nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 33/2021 privind modificarea și completarea HCL nr. 75/2020 privind stabilirea componenței comisiilor de specialitate ale Consiliului local al comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25946",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-34-2021",
+   "path": "local/timis/dudestii-noi/2021/34",
+   "short": "HCL Dudeștii Noi nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 34/2021 privind aprobarea Agendei culturale și de tineret pentru anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25951",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-35-2021",
+   "path": "local/timis/dudestii-noi/2021/35",
+   "short": "HCL Dudeștii Noi nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 35/2021 privind aprobarea bugetului Clubului Sportiv Comunal Dudeștii Noi finanțat integral sau parțial din bugetul local al comunei Dudeștii Noi pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25952",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-36-2021",
+   "path": "local/timis/dudestii-noi/2021/36",
+   "short": "HCL Dudeștii Noi nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 36/2021 privind aprobarea cuantumului cotizației anuale datorată de comuna Dudeștii Noi, județul Timiș, la Asociația de Dezvoltare Intercomunitară DIMITRIE ȚICHINDEAL",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25953",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-37-2021",
+   "path": "local/timis/dudestii-noi/2021/37",
+   "short": "HCL Dudeștii Noi nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 37/2021 privind aprobarea bugetului de venituri și cheltuieli ale societății BM-DN Torontal SRL, pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25954",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-38-2021",
+   "path": "local/timis/dudestii-noi/2021/38",
+   "short": "HCL Dudeștii Noi nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 38/2021 privind aprobarea bugetului local, bugetului venituri proprii, a bugetului venituri proprii și subvenții, și bugetului credite interne al comunei Dudeștii Noi pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25955",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-39-2021",
+   "path": "local/timis/dudestii-noi/2021/39",
+   "short": "HCL Dudeștii Noi nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 39/2021 privind unele măsuri de gospodărire și înfrumusețare a comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25956",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-40-2021",
+   "path": "local/timis/dudestii-noi/2021/40",
+   "short": "HCL Dudeștii Noi nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 40/2021 privind înființarea și aprobarea Regulamentului de organizare și funcționare al Serviciului Social ''Ambulanța Socială''",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25957",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-41-2021",
+   "path": "local/timis/dudestii-noi/2021/41",
+   "short": "HCL Dudeștii Noi nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 41/2021 privind indexarea valorilor impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25958",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-43-2021",
+   "path": "local/timis/dudestii-noi/2021/43",
+   "short": "HCL Dudeștii Noi nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 43/2021 privind aprobarea execuției bugetare a bugetului local al comunei Dudeștii Noi la 31 martie 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47189",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-48-2021",
+   "path": "local/timis/dudestii-noi/2021/48",
+   "short": "HCL Dudeștii Noi nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 48/2021 privind rectificarea HCL nr. 30/2021 privind stabilirea criteriilor suplimentare de atribuire de terenuri tinerilor pentru cosntruirea unei locuințe potrivit Legii nr. 15/2003",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47194",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-50-2021",
+   "path": "local/timis/dudestii-noi/2021/50",
+   "short": "HCL Dudeștii Noi nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 50/2021 privind aprobarea numărului și cuantumului lunar al burselor acordate elevilor din unitățile de învățământ preuniveristar de stat din comuna Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47196",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-52-2021",
+   "path": "local/timis/dudestii-noi/2021/52",
+   "short": "HCL Dudeștii Noi nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 52/2021 privind aprobarea alocării sumei de 250.000 lei pentru Parohia Ortodoxă Română Sf. Mare Mucenic Dimitrie cel Nou, Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47198",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-53-2021",
+   "path": "local/timis/dudestii-noi/2021/53",
+   "short": "HCL Dudeștii Noi nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 53/2021 privind avizarea Strategiei tarifare aplicabilă unităților administrativ-teritoriale din raza Asociației de Dezvoltare Intercomunitară TORONTAL pentru serviciul apă - canal în perioada 2021-2026",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47199",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-54-2021",
+   "path": "local/timis/dudestii-noi/2021/54",
+   "short": "HCL Dudeștii Noi nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 54/2021 privind modificarea și completarea Hotărârii Consiliului Local nr. 65/29.07.2020 privind scoaterea la licitație a 18 terenuri din domeniul privat al comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47200",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-55-2021",
+   "path": "local/timis/dudestii-noi/2021/55",
+   "short": "HCL Dudeștii Noi nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 55/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Racorduri canalizare și branșamente apă în localitatea Dudeștii Noi” etapa II",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47201",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-56-2021",
+   "path": "local/timis/dudestii-noi/2021/56",
+   "short": "HCL Dudeștii Noi nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 56/2021 privind aprobarea asocierii comunei Dudeștii Noi cu Județul Timiș - Consiliul Județean Timiș precum și cu unele unități administrativ teritoriale din Județul Timiș, în vederea construirii Asociației de Dezvoltare Intercomunitară pentru SĂNĂTATE - MEDIU ”SAMETIM” - Timiș",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47202",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-57-2021",
+   "path": "local/timis/dudestii-noi/2021/57",
+   "short": "HCL Dudeștii Noi nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 57/2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47203",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-58-2021",
+   "path": "local/timis/dudestii-noi/2021/58",
+   "short": "HCL Dudeștii Noi nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 58/2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47204",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-59-2021",
+   "path": "local/timis/dudestii-noi/2021/59",
+   "short": "HCL Dudeștii Noi nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 59/2021 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Dudeștii Noi, județul Timiș",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47206",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-6-2021",
+   "path": "local/timis/dudestii-noi/2021/6",
+   "short": "HCL Dudeștii Noi nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 6/2021 privind aprobarea proiectului ''Consolidarea capacității unității de învățământ din Comuna Dudeștii Noi în vederea gestionării crizei COVID-19'', în scopul depunerii acestuia spre finanțare în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020 și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25919",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-60-2021",
+   "path": "local/timis/dudestii-noi/2021/60",
+   "short": "HCL Dudeștii Noi nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 60/2021 privind rectificarea nr. 1 a bugetului local și a bugetului venituri proprii și subvenții pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47207",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-61-2021",
+   "path": "local/timis/dudestii-noi/2021/61",
+   "short": "HCL Dudeștii Noi nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 61/2021 privind aprobarea execuției bugetare a bugetului local al comunei Dudeștii Noi la 30 iunie 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47208",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-62-2021",
+   "path": "local/timis/dudestii-noi/2021/62",
+   "short": "HCL Dudeștii Noi nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 62/2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47209",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-63-2021",
+   "path": "local/timis/dudestii-noi/2021/63",
+   "short": "HCL Dudeștii Noi nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 63/2021 privind modificarea și completarea HCL nr. 55 din 2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Racorduri canalizare și branșamente apă localitatea Dudeștii Noi” etapa II",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47210",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-64-2021",
+   "path": "local/timis/dudestii-noi/2021/64",
+   "short": "HCL Dudeștii Noi nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 64/2021 privind rectificarea nr. 2 a bugetului local pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47211",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-65-2021",
+   "path": "local/timis/dudestii-noi/2021/65",
+   "short": "HCL Dudeștii Noi nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 65/2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47212",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-66-2021",
+   "path": "local/timis/dudestii-noi/2021/66",
+   "short": "HCL Dudeștii Noi nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 66/2021 privind aprobarea proiectului tehnic aferent investiției ”Reabilitarea, modernizarea, extinderea și dotarea Școlii Gimnaziale din localitatea Dudeștii Noi, județul Timiș” cod SMIS 123677 șii a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47213",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-68-2021",
+   "path": "local/timis/dudestii-noi/2021/68",
+   "short": "HCL Dudeștii Noi nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 68/2021 privind aprobarea alipirii imobilelor înscrise în CF nr. 404633, CF nr. 404628, CF nr. 404644, CF nr. 404623 și CF nr. 404650 Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47215",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-69-2021",
+   "path": "local/timis/dudestii-noi/2021/69",
+   "short": "HCL Dudeștii Noi nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 69/2021 privind aprobarea alipirii imobilelor înscrise în CF nr. 404638, CF nr. 404656 și CF nr. 404611 Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47216",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-7-2021",
+   "path": "local/timis/dudestii-noi/2021/7",
+   "short": "HCL Dudeștii Noi nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 7/2021 privind aprobarea execuției bugetare a bugetului local al comunei Dudeștii Noi la 31 decembrie 2020",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25920",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/25920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-70-2021",
+   "path": "local/timis/dudestii-noi/2021/70",
+   "short": "HCL Dudeștii Noi nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 70/2021 privind aprobarea alipirii imobilelor înscrise în CF nr. 404634, CF nr. 404640, CF nr. 404643, CF nr. 404624 și CF nr 4046649 Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47217",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-71-2021",
+   "path": "local/timis/dudestii-noi/2021/71",
+   "short": "HCL Dudeștii Noi nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 71/2021 privind aprobarea alipirii imobilelor înscrise în CF nr. 404637, CF nr. 404659 și CF nr. 404663-Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47218",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-72-2021",
+   "path": "local/timis/dudestii-noi/2021/72",
+   "short": "HCL Dudeștii Noi nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 72/2021 privind aprobarea alipirii imobilelor înscrise în CF NR. 404667 și CF nr. 404668 - Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47219",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-73-2021",
+   "path": "local/timis/dudestii-noi/2021/73",
+   "short": "HCL Dudeștii Noi nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 73/2021 privind aprobarea alipirii imobilelor înscrise în CF nr. 404632 și CF nr. 404630 Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47220",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-75-2021",
+   "path": "local/timis/dudestii-noi/2021/75",
+   "short": "HCL Dudeștii Noi nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 75/2021 privind modificarea HCL nr. 20/2017 privind aprobarea proiectului „Extindere primărie prin modificări interioare și exterioare la corp existent de clădire, extindere corp nou P+1E, construire anexe parter, creare acces auto, amenajare de platforme exterioare și împrejmuire”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47222",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-76-2021",
+   "path": "local/timis/dudestii-noi/2021/76",
+   "short": "HCL Dudeștii Noi nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 76/2021 privind modificarea HCL nr. 49/2015 privind aprobarea documentației tehnice și stabilirea unor caracteristici pentru obiectivul de investiții „PROIECTARE ȘI EXECUȚIE DEMOLARE CLĂDIRE POST DE POLIȚIE ȘI REMIZĂ PSI ȘI REALIZARE CONSTRUCȚIE NOUĂ”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47223",
+   "versions": [
+    {
+     "from": "2021-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-80-2021",
+   "path": "local/timis/dudestii-noi/2021/80",
+   "short": "HCL Dudeștii Noi nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 80/2021 privind rectificarea nr.3 a bugetului local si a bugetului venituri proprii si subventii pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47227",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-81-2021",
+   "path": "local/timis/dudestii-noi/2021/81",
+   "short": "HCL Dudeștii Noi nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 81/2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 798/ 12.10.2017 de la FNGCIMM SA IFN in valoare de 900.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 900.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat - „Construire grădiniță P+1E în comuna Dudeștii Noi, jud. Timiș”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47228",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-82-2021",
+   "path": "local/timis/dudestii-noi/2021/82",
+   "short": "HCL Dudeștii Noi nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 82/2021 privind modificarea și completarea Hotărârii Consiliului Local nr. 19/2021 privind aprobarea organigramei și a statului de funcții ale Comunei Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47236",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-83-2021",
+   "path": "local/timis/dudestii-noi/2021/83",
+   "short": "HCL Dudeștii Noi nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 83/2021 privind actualizarea devizului general al investiției ”Extindere primărie prin modificări interioare și exterioare la corp existent de clădire, extindere corp nou P+ 1E, construire anexe parter, creare acces auto, amenajare de platforme exterioare și împrejmuire",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47237",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-84-2021",
+   "path": "local/timis/dudestii-noi/2021/84",
+   "short": "HCL Dudeștii Noi nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 84/2021 privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea activității de achiziții publice necesară comunei Dudeștii Noi în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47240",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-87-2021",
+   "path": "local/timis/dudestii-noi/2021/87",
+   "short": "HCL Dudeștii Noi nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 87/2021 privind aprobarea execuţiei bugetului local al comunei Dudeştii Noi la 30 septembrie 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47243",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-88-2021",
+   "path": "local/timis/dudestii-noi/2021/88",
+   "short": "HCL Dudeștii Noi nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 88/2021 privind rectificarea nr.4 a bugetului local pe anul 2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47244",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-89-2021",
+   "path": "local/timis/dudestii-noi/2021/89",
+   "short": "HCL Dudeștii Noi nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 89/2021 privind includerea la finanțare prin Programul național de investiții \"Anghel Saligny\", aprobarea cererii de finanțare și a devizului general estimativ obiectivului de investiții „Realizare străzi Solaris 3 ,comuna Dudeștii Noi, jud. Timiș”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47245",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-90-2021",
+   "path": "local/timis/dudestii-noi/2021/90",
+   "short": "HCL Dudeștii Noi nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 90/2021 privind aprobarea obiectivului de investiții „Extindere și modernizare rețea de canalizare a apelor uzate menajere, a rețelei de alimentare cu apă, racorduri și branșamente la rețele și modernizarea stațiilor de tratare apă și epurare în localitățile Becicherecu Mic și Dudeștii noi, jud. Timiș”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47246",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-91-2021",
+   "path": "local/timis/dudestii-noi/2021/91",
+   "short": "HCL Dudeștii Noi nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 91/2021 privind completarea HCL nr. 56 din 26.06.2020 pentru aprobarea obiectivului de investiție „Extindere și modernizare rețea de canalizare a apelor uzatemenajere, a rețelei de alimentare cu apă, racorduri și branșamente la rețele, modernizarea stațiilor de tratare apă și epurare în localitățiile Becicherecu Mic și Dudeștii Noi”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47247",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-92-2021",
+   "path": "local/timis/dudestii-noi/2021/92",
+   "short": "HCL Dudeștii Noi nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 92/2021 privind aprobarea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47260",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-93-2021",
+   "path": "local/timis/dudestii-noi/2021/93",
+   "short": "HCL Dudeștii Noi nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 93/2021 privind stabilirea cantității de apă uzată preluată în sistemul de canalizare de la utilizatorii serviciului de alimentare cu apă și canalizare menajeră al comunei",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47261",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-94-2021",
+   "path": "local/timis/dudestii-noi/2021/94",
+   "short": "HCL Dudeștii Noi nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 94/2021 privind avizarea majorării prețului pentru apa potabilă și tariful pentru canalizare - epurare utilizate de operatorul AQUATORONTAL SRL",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47262",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-95-2021",
+   "path": "local/timis/dudestii-noi/2021/95",
+   "short": "HCL Dudeștii Noi nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 95/2021 privind actualizarea informațiilor cadastrale – repoziționare si modificare suprafața imobil înscris în CF nr. 404610 – Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47263",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-96-2021",
+   "path": "local/timis/dudestii-noi/2021/96",
+   "short": "HCL Dudeștii Noi nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 96/2021 privind actualizarea informațiilor cadastrale – modificare suprafața imobil înscris în CF nr. 403818 – Dudeștii Noi",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47264",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-97-2021",
+   "path": "local/timis/dudestii-noi/2021/97",
+   "short": "HCL Dudeștii Noi nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 97/2021",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47265",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-98-2021",
+   "path": "local/timis/dudestii-noi/2021/98",
+   "short": "HCL Dudeștii Noi nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 98/2021 privind rectificarea Hotărârii Consiliului Local nr.90/2021 privind aprobarea obiectivului de investiții „Extindere și modernizare rețea de canalizare a apelor uzate menajere, a rețelei de alimentare cu apă, racorduri și branșamente la rețele și modernizarea stațiilor de tratare apă și epurare în localitățile Becicherecu Mic și Dudeștii noi, jud. Timiș",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47266",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dudestii-noi-99-2021",
+   "path": "local/timis/dudestii-noi/2021/99",
+   "short": "HCL Dudeștii Noi nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dudeștii Noi nr. 99/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „AMENAJARE PARCARE GRADINIȚĂ, STR. POȘTEI, din COMUNA DUDEȘTII NOI”",
+   "url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47267",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dudestiinoi-tm/registru-hcl/47267",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

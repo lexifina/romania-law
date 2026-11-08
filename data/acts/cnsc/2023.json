@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "cnsc/2023",
+"acts": [
+{
+"slug": "cnsc-decizie-2023-2322",
+"path": "cnsc/decizie/2023/2322",
+"kind": "cnsc",
+"year": "2023",
+"number": "2322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 2322/C4/2413 din 19.08.2023: contestația SC ACVATOT SRL, SC INSPET SA în contradictoriu cu JUDETUL PRAHOVA",
+"short": "Decizia CNSC nr. 2322/C4/2413 din 19.08.2023",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2023-08-19",
+"latest": "2023-08-19",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTBiZmFmZTQtNTkyZS00ZGVkLWIwM2MtMTczMzMyZDdlNzRi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzIyLnBkZg==&action=YXR0YWNobWVudA=="
+},
+{
+"slug": "cnsc-decizie-2023-2392",
+"path": "cnsc/decizie/2023/2392",
+"kind": "cnsc",
+"year": "2023",
+"number": "2392",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 2392/C4/2475 din 23.08.2023: contestația SC GB INDCO SRL, SC BIOSTEC CLINILAB SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA TARGU.MURES",
+"short": "Decizia CNSC nr. 2392/C4/2475 din 23.08.2023",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2023-08-23",
+"latest": "2023-08-23",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Zjk3ZDQ5MjAtYzJjNy00NThkLWEwYWQtMDIxOTZmM2I3MTZl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMzkyLnBkZg==&action=YXR0YWNobWVudA=="
+},
+{
+"slug": "cnsc-decizie-2023-2458",
+"path": "cnsc/decizie/2023/2458",
+"kind": "cnsc",
+"year": "2023",
+"number": "2458",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 2458/C2/2723 din 30.08.2023: contestația ACTIV PROIECTARE INFRASTRUCTURA SRL în contradictoriu cu COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+"short": "Decizia CNSC nr. 2458/C2/2723 din 30.08.2023",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJiMjBkOGUtOThjZi00N2Q2LTlmMzAtNGM1ZWNmZDUwNmI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDU4LnBkZg==&action=YXR0YWNobWVudA=="
+}
+]
+}

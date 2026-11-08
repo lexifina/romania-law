@@ -1,0 +1,1251 @@
+{
+ "country": "RO",
+ "shard": "local/timis/bucovat/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--bucovat-1-2022",
+   "path": "local/timis/bucovat/2022/1",
+   "short": "HCL Bucovăț nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 1/2022 Privind aprobarea procedurii de acordare a esalonarii la plata pentru obligatiile de plata restante la bugetul local al Comunei Bucovat, judetul Timis",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/48059",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/48059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-10-2022",
+   "path": "local/timis/bucovat/2022/10",
+   "short": "HCL Bucovăț nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 10/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52518",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-100-2022",
+   "path": "local/timis/bucovat/2022/100",
+   "short": "HCL Bucovăț nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 100/2022 privind aprobarea indicatorilor tehnico-economici aferenți ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020” – localitatea Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85130",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-101-2022",
+   "path": "local/timis/bucovat/2022/101",
+   "short": "HCL Bucovăț nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 101/2022 privind aprobarea cofinanţării \"Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Timiş, în perioada 2014-2020\" prin POIM in vederea asigurarii cofinantarii proiectului",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85131",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-102-2022",
+   "path": "local/timis/bucovat/2022/102",
+   "short": "HCL Bucovăț nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 102/2022 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiţii „CAPELĂ MORTUARĂ ÎN INCINTA CIMITIRULUI LOC. BUCOVĂȚ”",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85132",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-108-2022",
+   "path": "local/timis/bucovat/2022/108",
+   "short": "HCL Bucovăț nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 108/2022 privind aprobarea participării U.A.T Comuna Bucovat în cadrul Programului privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice şi/sau hibrid plug-in în localităţi, prin instalarea de staţii de reîncărcare cu putere normală aprobat prin Ghidul de Finantare din 3 octombrie 2022, pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale și aprobarea proiectului “Dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice şi/sau hibrid plug-in în localităţi, prin instalarea de staţii de reîncărcare cu putere normala in Comuna Bucovat”",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85138",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-109-2022",
+   "path": "local/timis/bucovat/2022/109",
+   "short": "HCL Bucovăț nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 109/2022 Privind: stabilirea impozitelor şi taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85139",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-11-2022",
+   "path": "local/timis/bucovat/2022/11",
+   "short": "HCL Bucovăț nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 11/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52519",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-110-2022",
+   "path": "local/timis/bucovat/2022/110",
+   "short": "HCL Bucovăț nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 110/2022 privind insusirea Raportului de reevaluare a domeniului public si domeniul privat al comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85140",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-111-2022",
+   "path": "local/timis/bucovat/2022/111",
+   "short": "HCL Bucovăț nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 111/2022 privind aprobarea rectificare Bugetului local pe anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85141",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-12-2022",
+   "path": "local/timis/bucovat/2022/12",
+   "short": "HCL Bucovăț nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 12/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52520",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-13-2022",
+   "path": "local/timis/bucovat/2022/13",
+   "short": "HCL Bucovăț nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 13/2022 Privind aprobarea accesului si a traseului din si in balastiera ce va functiona pe terenul identificat prin CF 401770",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52521",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-15-2022",
+   "path": "local/timis/bucovat/2022/15",
+   "short": "HCL Bucovăț nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 15/2022 Privind aprobare executiei bugetare pentru anul 2021",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52523",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-16-2022",
+   "path": "local/timis/bucovat/2022/16",
+   "short": "HCL Bucovăț nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 16/2022 privind aprobarea Bugetului local pe anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52524",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-18-2022",
+   "path": "local/timis/bucovat/2022/18",
+   "short": "HCL Bucovăț nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 18/2022 Privind acordarea unui stimulent financiar pentru nou născuți",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/56671",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/56671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-19-2022",
+   "path": "local/timis/bucovat/2022/19",
+   "short": "HCL Bucovăț nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 19/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/56672",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/56672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-2-2022",
+   "path": "local/timis/bucovat/2022/2",
+   "short": "HCL Bucovăț nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 2/2022 Privind aprobarea Strategiei și a Programului estimat al achiziţiilor publice pe anul 2022 al Primăriei Comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/48060",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/48060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-21-2022",
+   "path": "local/timis/bucovat/2022/21",
+   "short": "HCL Bucovăț nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 21/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/56674",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/56674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-22-2022",
+   "path": "local/timis/bucovat/2022/22",
+   "short": "HCL Bucovăț nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 22/2022 Privind indexarea cu rata inflatiei a impozitelor și taxelor locale, precum şi actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările şi completările ulterioare pentru anul 2023",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/59235",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/59235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-25-2022",
+   "path": "local/timis/bucovat/2022/25",
+   "short": "HCL Bucovăț nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 25/2022 privind aprobarea modificărilor și completărilor la actele constitutive ale ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DEȘEURI TIMIȘ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/59238",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/59238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-28-2022",
+   "path": "local/timis/bucovat/2022/28",
+   "short": "HCL Bucovăț nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 28/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei de teren agricol- avand categoria de folosinta “pasune” , situat in intravilanul localitatii Bucovat, nr. Cad. Ps L3, in suprafata de 5300 mp",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62890",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-29-2022",
+   "path": "local/timis/bucovat/2022/29",
+   "short": "HCL Bucovăț nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 29/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62891",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-30-2022",
+   "path": "local/timis/bucovat/2022/30",
+   "short": "HCL Bucovăț nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 30/2022 Privind aprobare executiei bugetare pentru trim. I, la 31 martie 2022 Consiliul local al comunei Bucovat,",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62892",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-31-2022",
+   "path": "local/timis/bucovat/2022/31",
+   "short": "HCL Bucovăț nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 31/2022 privind aprobare Rectificare buget local al comunei BUCOVAT județul TIMIŞ. Trim. II (R1)",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62893",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-32-2022",
+   "path": "local/timis/bucovat/2022/32",
+   "short": "HCL Bucovăț nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 32/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62894",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-33-2022",
+   "path": "local/timis/bucovat/2022/33",
+   "short": "HCL Bucovăț nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 33/2022 privind aprobarea intabularii in domeniul public al comunei Bucovat a drumului de exploatare De204/3 situat in loc. Bucovat, comuna Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62895",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-34-2022",
+   "path": "local/timis/bucovat/2022/34",
+   "short": "HCL Bucovăț nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 34/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62896",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-35-2022",
+   "path": "local/timis/bucovat/2022/35",
+   "short": "HCL Bucovăț nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 35/2022 privind participarea Comunei Bucovăț la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Reabilitare moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Reabilitarea moderată a Căminului cultural Bazoșu Nou, comuna Bucovăț, în vederea creșterii eficienței energetice a clădirii“",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62904",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-36-2022",
+   "path": "local/timis/bucovat/2022/36",
+   "short": "HCL Bucovăț nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 36/2022 privind participarea Comunei Bucovăț la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Reabilitare moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Reabilitarea moderată a dispensarului uman Bazoșu Nou, comuna Bucovăț, în vederea creșterii eficienței energetice a clădirii“",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62905",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-37-2022",
+   "path": "local/timis/bucovat/2022/37",
+   "short": "HCL Bucovăț nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 37/2022 privind participarea Comunei Bucovăț la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Reabilitare moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Reabilitarea moderată a Școlii Bazoșu Nou, comuna Bucovăț, în vederea creșterii eficienței energetice a clădirii“",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/62906",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/62906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-38-2022",
+   "path": "local/timis/bucovat/2022/38",
+   "short": "HCL Bucovăț nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 38/2022 privind constituire aComisie de circulației a Comunei Bucovaț",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65163",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-39-2022",
+   "path": "local/timis/bucovat/2022/39",
+   "short": "HCL Bucovăț nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 39/2022 privind luarea la cunoştinţă a declaraţiei de renunţare la dreptul de proprietate , autentificate sub nr. 190/11.03.2022, aprobarea preluării și înscrierii în domeniul privat al comunei Bucovat a imobilului teren intravilan destinate pentru spatii verzi, în suprafața totala de 688 mp., situat in Bucovat, înscris în CF nr. 402060 Bucovat și a trecerii in domeniul public al comunei Bucovat a terenurilor cu destinatia statiu verde",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65164",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-4-2022",
+   "path": "local/timis/bucovat/2022/4",
+   "short": "HCL Bucovăț nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 4/2022 privind apobarea Planului de lucrari / actiuni de interes local pentru repartizarea orelor de muncă privind persoanele apte de muncă, beneficiare de venit minim garantat, conform Legii nr. 416/2001privind venitul minim garantat, pentru anul 2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/48062",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/48062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-40-2022",
+   "path": "local/timis/bucovat/2022/40",
+   "short": "HCL Bucovăț nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 40/2022 privind luarea la cunoştinţă a declaraţiei de renunţare la dreptul de proprietate , autentificate sub nr. 1262/22.12.2021, aprobarea preluării și înscrierii în domeniul privat al comunei Bucovat a imobilului teren intravilan destinat pentru drum, în suprafața totala de 2918 mp., situat in Bucovat, înscris în CF nr. 402078 Bucovat și a trecerii in domeniul public al comunei Bucovat a terenurilor cu destinatia pentru drum",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65165",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-41-2022",
+   "path": "local/timis/bucovat/2022/41",
+   "short": "HCL Bucovăț nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 41/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65166",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-42-2022",
+   "path": "local/timis/bucovat/2022/42",
+   "short": "HCL Bucovăț nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 42/2022 privind aprobarea intabularii in domeniul public al comunei Bucovat a drumului de exploatare De 89, situat in loc. Bucovat, comuna Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65167",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-43-2022",
+   "path": "local/timis/bucovat/2022/43",
+   "short": "HCL Bucovăț nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 43/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei de teren A.1346/3 in suprafata de 4827 mp",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65168",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-44-2022",
+   "path": "local/timis/bucovat/2022/44",
+   "short": "HCL Bucovăț nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 44/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei de teren A.1346/2 in suprafata de 1942 mp",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65169",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-45-2022",
+   "path": "local/timis/bucovat/2022/45",
+   "short": "HCL Bucovăț nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 45/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei de teren agricol- avand categoria de folosinta “pasune” , situat in intravilanul localitatii Bucovat, nr. Cad. Ps 88/3, in suprafata de 9452 mp",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65170",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-46-2022",
+   "path": "local/timis/bucovat/2022/46",
+   "short": "HCL Bucovăț nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 46/2022 privind însușirea documentației cadastrale de alipire a doua parcele de teren identificate prin CF 400493 Bucovat, nr. cadastral 400493, în suprafață de 16726 mp si CF 403040 Bucovat, nr. cadastral 403040, în suprafață de 5300 mp",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/65171",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/65171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-49-2022",
+   "path": "local/timis/bucovat/2022/49",
+   "short": "HCL Bucovăț nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 49/2022 privind aprobarea rectificare Bugetului local R2 pe anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/67770",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/67770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-5-2022",
+   "path": "local/timis/bucovat/2022/5",
+   "short": "HCL Bucovăț nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 5/2022 Privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/48063",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/48063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-50-2022",
+   "path": "local/timis/bucovat/2022/50",
+   "short": "HCL Bucovăț nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 50/2022 Privind aprobarea actualizarii inventarului anual al domeniului public al Comunei Bucovat administrat de Consiliul local Bucovat la data de 30.06.2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/67771",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/67771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-51-2022",
+   "path": "local/timis/bucovat/2022/51",
+   "short": "HCL Bucovăț nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 51/2022 Privind aprobarea actualizarii inventarului anual al patrimoniului privat al Primariei comunei Bucovat administrat de Consiliul local Bucovat la data de 30.06.2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/67772",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/67772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-52-2022",
+   "path": "local/timis/bucovat/2022/52",
+   "short": "HCL Bucovăț nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 52/2022 privind luarea la cunoştinţă a declaraţiilor de renunţare la dreptul de proprietate , autentificate sub nr. 310/12.05.2021 , 311/12.05.2021 si nr. 467/30.06.2022 , aprobarea preluării și înscrierii în domeniul privat al comunei Bucovat a imobilelor teren în suprafața totala de 3364 mp., situat in Bucovat, înscris în CF nr.401660, CF 401859 si CF 402013 Bucovat și a trecerii din domeniul public al comunei Bucovat a terenurilor cu destinatia drum",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/67773",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/67773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-54-2022",
+   "path": "local/timis/bucovat/2022/54",
+   "short": "HCL Bucovăț nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 54/2022 privind modificarea sau completarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Bucovat, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale, nr. 54/21.07.2022, prin Act Adițional",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/67775",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/67775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-56-2022",
+   "path": "local/timis/bucovat/2022/56",
+   "short": "HCL Bucovăț nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 56/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73112",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-57-2022",
+   "path": "local/timis/bucovat/2022/57",
+   "short": "HCL Bucovăț nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 57/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73113",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-58-2022",
+   "path": "local/timis/bucovat/2022/58",
+   "short": "HCL Bucovăț nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 58/2022 Privind aprobarea documentatiei intocmite de catre SC MS-CAD SRL cu privire la Dezmembrare teren CF 400807 in doua loturi si alipire Lot 2 la imobil inscris in CF 400806",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73114",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-59-2022",
+   "path": "local/timis/bucovat/2022/59",
+   "short": "HCL Bucovăț nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 59/2022 PRIVIND VALIDAREA DISPOZITIEI NR. 79/01.08.2022 CU PRIVIRE LA RECTIFICAREA BUGETULUI LOCAL AL COMUNEI BUCOVAT PE ANUL 2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73115",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-6-2022",
+   "path": "local/timis/bucovat/2022/6",
+   "short": "HCL Bucovăț nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 6/2022 privind aprobarea documentatiei cadastrale pentru dezlipire imobil, identificat prin nr. Cad 402767( Ps. 194)",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/48064",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/48064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-60-2022",
+   "path": "local/timis/bucovat/2022/60",
+   "short": "HCL Bucovăț nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 60/2022 Privind aprobare executiei bugetare pentru trim. II, la 30 IUNIE 2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73116",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-62-2022",
+   "path": "local/timis/bucovat/2022/62",
+   "short": "HCL Bucovăț nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 62/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei Ps. 277 reprezentand pasune in suprafata de 25011 mp situata in azosul Nou",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73118",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-64-2022",
+   "path": "local/timis/bucovat/2022/64",
+   "short": "HCL Bucovăț nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 64/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73120",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-65-2022",
+   "path": "local/timis/bucovat/2022/65",
+   "short": "HCL Bucovăț nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 65/2022 privind completarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Bucovat, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale, prin Act Adițional",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73121",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-66-2022",
+   "path": "local/timis/bucovat/2022/66",
+   "short": "HCL Bucovăț nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 66/2022 privind aprobarea intabularii in domeniul privat al comunei Bucovat a parcelei P 11 in suprafata de 1449 mp situata in Bazosul Nou",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73122",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-68-2022",
+   "path": "local/timis/bucovat/2022/68",
+   "short": "HCL Bucovăț nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 68/2022 privind aprobarea actualizarii Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73124",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-7-2022",
+   "path": "local/timis/bucovat/2022/7",
+   "short": "HCL Bucovăț nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 7/2022 Privind aprobarea reţelei şcolare de pe raza comunei Bucovat pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52515",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-71-2022",
+   "path": "local/timis/bucovat/2022/71",
+   "short": "HCL Bucovăț nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 71/2022 privind aprobarea rectificare Bugetului local pe anul 2022 al comunei BUCOVAT județul TIMIŞ- R3",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/73127",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/73127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-72-2022",
+   "path": "local/timis/bucovat/2022/72",
+   "short": "HCL Bucovăț nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 72/2022 privind aprobarea actualizare imobil cu nr cad 403088, teren intravilan situat in loc. Bucovat proprietatea privata a comunei Bucovat, administrat de Consiliul Local Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/76431",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/76431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-73-2022",
+   "path": "local/timis/bucovat/2022/73",
+   "short": "HCL Bucovăț nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 73/2022 Privind aprobarea documentatiei intocmite de catre SC MS-CAD SRL cu privire la Dezlipire teren inscris in CF 403034 in trei loturi",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/76432",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/76432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-74-2022",
+   "path": "local/timis/bucovat/2022/74",
+   "short": "HCL Bucovăț nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 74/2022 privind aprobarea modificarii taxelor speciale pct. 12-14 prevazute in Anexa-ALTE TAXE SPECIALE din HCL nr. 124/15.12.2021, cu referire la Taxa transport",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/76433",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/76433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-75-2022",
+   "path": "local/timis/bucovat/2022/75",
+   "short": "HCL Bucovăț nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 75/2022 PRIVIND VALIDAREA DISPOZITIEI NR. 96/27.09.2022 CU PRIVIRE LA RECTIFICAREA BUGETULUI LOCAL AL COMUNEI BUCOVAT PE ANUL 2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/76434",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/76434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-76-2022",
+   "path": "local/timis/bucovat/2022/76",
+   "short": "HCL Bucovăț nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 76/2022 privind aprobarea prețului de valorificare a masei lemnoasă, din fondul forestier al comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/76435",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/76435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-78-2022",
+   "path": "local/timis/bucovat/2022/78",
+   "short": "HCL Bucovăț nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 78/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/80897",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/80897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-79-2022",
+   "path": "local/timis/bucovat/2022/79",
+   "short": "HCL Bucovăț nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 79/2022 Privind aprobarea documentatiei intocmite de catre SC MS-CAD SRL cu privire la Dezlipire teren inscris in CF 403033 in trei loturi",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/80898",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/80898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-8-2022",
+   "path": "local/timis/bucovat/2022/8",
+   "short": "HCL Bucovăț nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 8/2022 privind aprobarea Actului aditional de modificare a Art. 9.1.lit.f) la contractele de concesiune",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52516",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-82-2022",
+   "path": "local/timis/bucovat/2022/82",
+   "short": "HCL Bucovăț nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 82/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/80901",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/80901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-83-2022",
+   "path": "local/timis/bucovat/2022/83",
+   "short": "HCL Bucovăț nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 83/2022 privind aprobarea rectificare Bugetului local Trim. IV pe anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/80902",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/80902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-84-2022",
+   "path": "local/timis/bucovat/2022/84",
+   "short": "HCL Bucovăț nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 84/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81316",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-85-2022",
+   "path": "local/timis/bucovat/2022/85",
+   "short": "HCL Bucovăț nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 85/2022 Privind aprobarea modificării organigrama şi stat de funcţii al aparatului de specialitate al primarului comunei Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81317",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-86-2022",
+   "path": "local/timis/bucovat/2022/86",
+   "short": "HCL Bucovăț nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 86/2022 privind stabilirea numarului de burse si acordarea acestora, pentru anului scolar 2022-2023",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81318",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-87-2022",
+   "path": "local/timis/bucovat/2022/87",
+   "short": "HCL Bucovăț nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 87/2022 privind completarea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Bucovat, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale, prin Act Adițional",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81319",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-88-2022",
+   "path": "local/timis/bucovat/2022/88",
+   "short": "HCL Bucovăț nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 88/2022 pentru stabilirea condiţiilor de exercitare a dreptului de acces pe proprietatea publica sau privata a Comunei Bucovat în vederea instalării, întreţinerii, înlocuirii sau mutării reţelelor de comunicaţii electronice sau a elementelor de infrastructură necesare susţinerii acestora, a modului de utilizare partajată a elementelor de infrastructură, precum și măsurile privind construirea de rețele noi de comunicații electronice, aprobarea Regulamentului si a Contractului cadru",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81320",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-89-2022",
+   "path": "local/timis/bucovat/2022/89",
+   "short": "HCL Bucovăț nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 89/2022 privind aprobarea rectificare Bugetului local pe Trim. IV anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81321",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-9-2022",
+   "path": "local/timis/bucovat/2022/9",
+   "short": "HCL Bucovăț nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 9/2022 Privind aprobarea Regulamentul de închiriere a unor terenuri neproductive, proprietate privată ale comunei Bucovat si aprobare a contractului cadru de inchiriere",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/52517",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/52517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-90-2022",
+   "path": "local/timis/bucovat/2022/90",
+   "short": "HCL Bucovăț nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 90/2022 privind luarea la cunoştinţă a declaraţiei de renunţare la dreptul de proprietate , autentificat sub nr. 2728/18.11.2022, aprobarea preluării și înscrierii în domeniul public al comunei Bucovat a imobilelor de teren intravilan destinat pentru drum, în suprafața totala de 4782 mp, situat in Bucovat, înscrise în CF nr. 402875 si CF 402886 Bucovat si aprobarea preluarii si trecerii in domeniul public al comueni Bucovat a imobilului teren intravilan destinate pentru spatii verzi, în suprafața totala de 1436 mp, situat in Bucovat, înscrise în CF nr. 402047 si CF 402032 Bucovat",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81322",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-91-2022",
+   "path": "local/timis/bucovat/2022/91",
+   "short": "HCL Bucovăț nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 91/2022 privind aprobarea proiectului reţelei şcolare de pe raza comunei Bucovat pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81323",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-93-2022",
+   "path": "local/timis/bucovat/2022/93",
+   "short": "HCL Bucovăț nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 93/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/81325",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/81325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-94-2022",
+   "path": "local/timis/bucovat/2022/94",
+   "short": "HCL Bucovăț nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 94/2022 privind aprobarea rectificare Bugetului local pe anul 2022 al comunei BUCOVAT județul TIMIŞ",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/84864",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/84864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-95-2022",
+   "path": "local/timis/bucovat/2022/95",
+   "short": "HCL Bucovăț nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 95/2022 privind aprobare îndreptare eroare materială a Hotărarii consiliului local nr. 85/24.11.2022 privind organigrama și statul de funcţii al aparatului de specialitate al primarului comunei Bucovăț și organizarea pe compartimente",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85125",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-96-2022",
+   "path": "local/timis/bucovat/2022/96",
+   "short": "HCL Bucovăț nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 96/2022",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85126",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--bucovat-98-2022",
+   "path": "local/timis/bucovat/2022/98",
+   "short": "HCL Bucovăț nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bucovăț nr. 98/2022 privind aprobarea Modelului Cadru al Planului de Actiune pentru implementarea investitiilor propuse prin Planul de Urbanism Zonal\"",
+   "url": "https://emol.ro/bucovat-tm/registru-hcl/85128",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bucovat-tm/registru-hcl/85128",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

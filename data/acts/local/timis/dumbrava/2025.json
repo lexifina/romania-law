@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/timis/dumbrava/2025",
+"acts": [
+{
+"slug": "hcl-timis--dumbrava-10-2025",
+"path": "local/timis/dumbrava/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 10/2025 privind aprobarea Regulamentului de bună gospodărire a comunei Dumbrava, județul Timiș",
+"short": "HCL Dumbrava nr. 10/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/201100",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-11-2025",
+"path": "local/timis/dumbrava/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 11/2025 privind utilizarea și regularizarea excedentului bugetului Comunei Dumbrava din anul 2024 în anul 2025",
+"short": "HCL Dumbrava nr. 11/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/201101",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-12-2025",
+"path": "local/timis/dumbrava/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 12/2025 privind adoptarea bugetului de venituri și cheltuieli al comunei Dumbrava pentru anul 2025",
+"short": "HCL Dumbrava nr. 12/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/201102",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-13-2025",
+"path": "local/timis/dumbrava/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 13/2025 privind aprobarea Programului anual de investiții publice pe anul 2025",
+"short": "HCL Dumbrava nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/201103",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-14-2025",
+"path": "local/timis/dumbrava/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 14/2025 privind aprobarea încheierii exercițiului bugetar al anului 2024",
+"short": "HCL Dumbrava nr. 14/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/201104",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-18-2025",
+"path": "local/timis/dumbrava/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 18/2025 privind validarea Dispoziției primarului comunei Dumbrava nr. 18 din 31 martie 2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Dumbrava, varianta 1",
+"short": "HCL Dumbrava nr. 18/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/207388",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-19-2025",
+"path": "local/timis/dumbrava/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 19/2025 privind validarea Dispoziției primarului comunei Dumbrava nr. 21 din 10 aprilie 2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Dumbrava, varianta 2",
+"short": "HCL Dumbrava nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/207389",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-51-2025",
+"path": "local/timis/dumbrava/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 51/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Dumbrava, varianta 5 din 2025",
+"short": "HCL Dumbrava nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/231511",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-53-2025",
+"path": "local/timis/dumbrava/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 53/2025 privind aprobarea modificării Hotărârii Consiliului Local Dumbrava nr. 12 din 27 martie 2025 privind utilizarea și regularizarea excedentului bugetului Comunei Dumbrava constituit la încheierea exercițiului bugetar 2024 în anul 2025",
+"short": "HCL Dumbrava nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/231513",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-68-2025",
+"path": "local/timis/dumbrava/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 68/2025 privind validarea Dispoziției primarului comunei Dumbrava nr. 75 din 9 decembrie 2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Dumbrava, varianta 6 pe anul 2025",
+"short": "HCL Dumbrava nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/246316",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-72-2025",
+"path": "local/timis/dumbrava/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 72/2025 privind stabilirea taxelor și impozitelor locale pentru anul 2026",
+"short": "HCL Dumbrava nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/246320",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

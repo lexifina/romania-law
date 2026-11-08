@@ -1,0 +1,966 @@
+{
+ "country": "RO",
+ "shard": "local/timis/cenei/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--cenei-1-2024",
+   "path": "local/timis/cenei/2024/1",
+   "short": "HCL Cenei nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 1/2024 privind aprobarea acoperirii definitive a deficitului la sectiunea de dezvoltare pe anul 2023, din excedentul bugetului local al anilor precedenți",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/136142",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/136142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-11-2024",
+   "path": "local/timis/cenei/2024/11",
+   "short": "HCL Cenei nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 11/2024 privind aprobarea Regulamentelor proprii cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de dispozitii, a dispozitiilor emise de primarul Comunei Cenei, precum si a proiectelor de hotarari care se inainteaza Consiliului Local Cenei spre adoptare",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/144270",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/144270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-12-2024",
+   "path": "local/timis/cenei/2024/12",
+   "short": "HCL Cenei nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 12/2024 privind aprobarea Organigramei și a Statului de funcții a aparatului de specialitate a primarului Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/144271",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/144271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-14-2024",
+   "path": "local/timis/cenei/2024/14",
+   "short": "HCL Cenei nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 14/2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/146486",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/146486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-15-2024",
+   "path": "local/timis/cenei/2024/15",
+   "short": "HCL Cenei nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 15/2024 privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea serviciului administrativ al comunei Cenei, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/146487",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/146487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-17-2024",
+   "path": "local/timis/cenei/2024/17",
+   "short": "HCL Cenei nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 17/2024 privind modificarea suprafetei asupra imobilului cu nr.top 2952/2084/1/1/1/1/1/1/1/2 situat in UAT Cenei, localitatea Cenei, Nr.718",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148805",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-18-2024",
+   "path": "local/timis/cenei/2024/18",
+   "short": "HCL Cenei nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 18/2024 privind modificarea suprafetei asupra imobilului cu nr.top 207-208/1 situat in UAT Cenei, localitatea Cenei, Nr.19",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148806",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-19-2024",
+   "path": "local/timis/cenei/2024/19",
+   "short": "HCL Cenei nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 19/2024 privind constatarea dreptului de proprietate privata a Comunei Cenei asupra imobilului constand in teren intravilan inscris sub A1 in CF 402502, avand nr. top. 552/2 situat in localitatea Cenei, nr. 203, jud. Timis si modificarea suprafetei asupra imobilului inscris in CF 402502, nr.top 552/2 situat in UAT Cenei, localitatea Cenei, Nr.203",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148807",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-2-2024",
+   "path": "local/timis/cenei/2024/2",
+   "short": "HCL Cenei nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 2/2024 privind utilizarea din excedentul bugetului local al anilor precedenti pentru plata PNRR investitia \" Dezvoltarea infrastructurii de transport verde-piste pentru biciclete+statii incarcare electrice- in Comuna Cenei, Judetul Timis\"",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/136143",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/136143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-20-2024",
+   "path": "local/timis/cenei/2024/20",
+   "short": "HCL Cenei nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 20/2024 privind constatarea dreptului de proprietate privata a Comunei Cenei si modificarea cotei de suprafata asupra imobilului inscris in CF 402555, nr.top 401-402, situat in UAT Cenei, localitatea Cenei, Nr.564",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148808",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-21-2024",
+   "path": "local/timis/cenei/2024/21",
+   "short": "HCL Cenei nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 21/2024 privind aprobarea dezmembrării în trei loturi si inscrierea loturilor rezultate apartinand domeniului privat al Comunei Cenei asupra imobilului cu nr.cad. 404577 situat in UAT Cenei, localitatea Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148809",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-22-2024",
+   "path": "local/timis/cenei/2024/22",
+   "short": "HCL Cenei nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 22/2024 privind aprobarea tarifelor pentru activitatea de tratare a deșeurilor reziduale provenite din Zona 1 Timișoara, pentru activitatea de sortare a deșeurilor de hârtie, carton, metal și plastic provenite din Zona 1 Timișoara desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) și a tarifelor pentru activitățile desfășurate în cadrul Stației de Sortare a Deșeurilor Municipale Timișoara (SSDM Timișoara) în baza Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/148810",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/148810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-23-2024",
+   "path": "local/timis/cenei/2024/23",
+   "short": "HCL Cenei nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 23/2024 privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea serviciului administrativ al comunei Cenei, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/150875",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/150875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-24-2024",
+   "path": "local/timis/cenei/2024/24",
+   "short": "HCL Cenei nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 24/2024 privind aprobarea nivelurilor impozitelor și taxelor locale care constau într-o anumită suma în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum și limitele amenzilor care se fac venit la bugetul local, care se indexează anual pe baza ratei inflației, aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/154849",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/154849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-25-2024",
+   "path": "local/timis/cenei/2024/25",
+   "short": "HCL Cenei nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 25/2024 privind constatarea dreptului de proprietate privata a Comunei Cenei si modificarea suprafetei asupra imobilului cu nr.top 209-212/2/3 situat in UAT Cenei, localitatea Cenei, Nr.16",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/156552",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/156552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-26-2024",
+   "path": "local/timis/cenei/2024/26",
+   "short": "HCL Cenei nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 26/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul II al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/157311",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/157311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-27-2024",
+   "path": "local/timis/cenei/2024/27",
+   "short": "HCL Cenei nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 27/2024 privind aprobarea notei conceptuale si a temei de proiectare pentru consolidarea, restaurarea si punerea in valoare a Bisericii Romano-Catolice ( Mausoleul Csávossy) din Sat Bobda, Comuna Cenei, Judetul Timis, monument istoric, cod LMI: TM-II-m-A-06188",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/158564",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/158564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-28-2024",
+   "path": "local/timis/cenei/2024/28",
+   "short": "HCL Cenei nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 28/2024 privind inscrierea definitiva a drumurilor si canalelor ca domenii publice in favoarea Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/158565",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/158565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-29-2024",
+   "path": "local/timis/cenei/2024/29",
+   "short": "HCL Cenei nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 29/2024 privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea serviciului administrativ al comunei Cenei, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/159783",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/159783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-3-2024",
+   "path": "local/timis/cenei/2024/3",
+   "short": "HCL Cenei nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 3/2024 privind aprobarea Rețelei unităților de învățământ preuniversitar de stat pentru anul scolar 2024-2025, de pe raza comunei Cenei, județul Timiș",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/136842",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/136842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-30-2024",
+   "path": "local/timis/cenei/2024/30",
+   "short": "HCL Cenei nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 30/2024 privind aprobarea participării Comunei Cenei la constituirea Asociației de Dezvoltare Intercomunitară Transport Județean ”TRANSTIMIȘ”",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/161416",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/161416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-31-2024",
+   "path": "local/timis/cenei/2024/31",
+   "short": "HCL Cenei nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 31/2024 privind privind aprobarea avizării Serviciului Voluntar pentru Situaţii de Urgență al comunei CENEI, județul Timiș",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/161417",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/161417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-32-2024",
+   "path": "local/timis/cenei/2024/32",
+   "short": "HCL Cenei nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 32/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul III al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/161418",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/161418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-33-2024",
+   "path": "local/timis/cenei/2024/33",
+   "short": "HCL Cenei nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 33/2024 privind constatarea dreptului de proprietate privata a Comunei Cenei asupra imobilului inscris in CF 400655 Cenei, nr.cadastral 400655,constand in teren intravilan in suprafata de 793 mp situat in UAT Cenei, localitatea Cenei, Nr.53",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/162040",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/162040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-34-2024",
+   "path": "local/timis/cenei/2024/34",
+   "short": "HCL Cenei nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 34/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul III al Comunei Cenei , suma primita din fonduri nerambursabile Programul National de Investitii Anghel Saligny",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/162041",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/162041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-35-2024",
+   "path": "local/timis/cenei/2024/35",
+   "short": "HCL Cenei nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 35/2024 privind aprobarea dezmembrării imobilului inscris in CF nr. 400655 Cenei in doua loturi apartinand domeniului privat al Comunei Cenei si alipirea ulterioara a lotului 1 rezultat cu imobilul inscris in CF 400654 Cenei , apartinand domeniului privat al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/163096",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/163096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-36-2024",
+   "path": "local/timis/cenei/2024/36",
+   "short": "HCL Cenei nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 36/2024 privind aprobarea Organigramei și a Statului de funcții a aparatului de specialitate a primarului Comunei Cenei pentru anul 2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/163923",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/163923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-37-2024",
+   "path": "local/timis/cenei/2024/37",
+   "short": "HCL Cenei nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 37/2024 privind aprobarea incheierii protocolului de colaborare intre Primaria Comuna Cene si ASOCIATIA SPORTIVĂ BOBDA 2022",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/167813",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/167813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-38-2024",
+   "path": "local/timis/cenei/2024/38",
+   "short": "HCL Cenei nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 38/2024 privind modificarea si completarea HCL nr. 26/19.12.2016 si aprobarea programului de masuri privind buna gospodarire , intretinere si infrumusetare a Comunei Cenei, Judetul Timis- prevazute de Ordonanta Guvernului Nr.21/2002 privind gospodarirea localitatilor urbane si rurale, modificata prin Legea Nr.273/2020",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/167814",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/167814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-39-2024",
+   "path": "local/timis/cenei/2024/39",
+   "short": "HCL Cenei nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 39/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul III al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/167815",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/167815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-4-2024",
+   "path": "local/timis/cenei/2024/4",
+   "short": "HCL Cenei nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 4/2024 privind majorarea salariilor de bază pentru functiile de demnitate publica locala si functiile asimilate acestora , funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cenei, judeţul Timis , începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/138597",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/138597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-40-2024",
+   "path": "local/timis/cenei/2024/40",
+   "short": "HCL Cenei nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 40/2024 privind aprobarea devizului general şi a indicatorilor tehnico-economici pentru obiectivul de investiții “ REABILITAREA MODERATĂ A ȘCOLII PRIMARE BOBDA DIN COMUNA CENEI ÎN VEDEREA CREȘTERII EFICIENȚEI ENERGETICE A CLĂDIRII”, finanțat prin “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local”",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/168755",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/168755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-41-2024",
+   "path": "local/timis/cenei/2024/41",
+   "short": "HCL Cenei nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 41/2024 privind stabilirea taxelor speciale de transport public",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/168756",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/168756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-42-2024",
+   "path": "local/timis/cenei/2024/42",
+   "short": "HCL Cenei nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 42/2024 privind acordarea unui mandat special împuternicitului Consiliului Local al Comunei Cenei în Adunarea Generală ordinară a Asociaţilor Asociaţiei de Dezvoltare Intercomunitară Apă-Canal Timiş",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/170489",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/170489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-43-2024",
+   "path": "local/timis/cenei/2024/43",
+   "short": "HCL Cenei nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 43/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul III al Comunei Cenei , suma primita din fonduri nerambursabile Programul National de Investitii Anghel Saligny",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/170490",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/170490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-44-2024",
+   "path": "local/timis/cenei/2024/44",
+   "short": "HCL Cenei nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 44/2024 privind aprobarea aderării Comunei CENEI , Județul Timiș, la Asociația Județeană Pentru Protecția Animalelor Timiș",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/170491",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/170491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-45-2024",
+   "path": "local/timis/cenei/2024/45",
+   "short": "HCL Cenei nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 45/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/172867",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/172867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-46-2024",
+   "path": "local/timis/cenei/2024/46",
+   "short": "HCL Cenei nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 46/2024 privind indexarea pe baza ratei de schimb a monedei euro la data de 01.10.2024 a impozitului pe mijloacele de transport prevăzute la art. 470 alin.(5) și alin.(6) din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/174045",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/174045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-47-2024",
+   "path": "local/timis/cenei/2024/47",
+   "short": "HCL Cenei nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 47/2024 privind aprobarea proiectului de organizare a rețelei unităților de învățământ preuniversitar de stat pentru anul scolar 2025-2026 de pe raza comunei Cenei, județul Timiș",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/174046",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/174046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-49-2024",
+   "path": "local/timis/cenei/2024/49",
+   "short": "HCL Cenei nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 49/2024 privind însușirea Raportului de Evaluare privind redeventa dispensar medical situat in Comuna Cenei, Judetul Timis, inscris in CF 400727 Cenei nr. cad. 400727",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/174048",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/174048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-5-2024",
+   "path": "local/timis/cenei/2024/5",
+   "short": "HCL Cenei nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 5/2024 privind constatarea dreptului de proprietate privata a Comunei Cenei asupra imobilului constand in teren intravilan inscris sub A.1 in CF 400654 Cenei avand numar Cadastral/Topografic 400654-C1 situat in localitatea Cenei, Nr. 53, Judetul Timis in suprafata de 214 mp teren",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/138598",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/138598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-50-2024",
+   "path": "local/timis/cenei/2024/50",
+   "short": "HCL Cenei nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 50/2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/174049",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/174049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-51-2024",
+   "path": "local/timis/cenei/2024/51",
+   "short": "HCL Cenei nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 51/2024 Privind aprobarea anulării dobânzilor, penalităţilor şi tuturor accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al comunei Cenei și aprobarea procedurii de acordare",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/174050",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/174050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-52-2024",
+   "path": "local/timis/cenei/2024/52",
+   "short": "HCL Cenei nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 52/2024 privind alegerea președintelui de ședință pe lunile noiembrie 2024 , decembrie 2024 si ianuarie 2025",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/175827",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/175827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-53-2024",
+   "path": "local/timis/cenei/2024/53",
+   "short": "HCL Cenei nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 53/2024 privind aprobarea numărului şi componenţa comisiilor de specialitate ale Consiliului Local al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/175828",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/175828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-54-2024",
+   "path": "local/timis/cenei/2024/54",
+   "short": "HCL Cenei nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 54/2024 privind alegerea viceprimarului comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/175829",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/175829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-55-2024",
+   "path": "local/timis/cenei/2024/55",
+   "short": "HCL Cenei nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 55/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/176494",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/176494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-56-2024",
+   "path": "local/timis/cenei/2024/56",
+   "short": "HCL Cenei nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 56/2024 pentru aprobarea prelungirii valabilității Contractului de prestări servicii pentru activitățile de sortare a deșeurilor reciclabile și tratare a deșeurilor reziduale în vederea valorificării energetice/reciclare nr. 8354/10.10.2023 și aprobarea tarifelor de sortare și tratare diminuate pentru activitatea desfășurată la Stația de Sortare Deșeuri Municipale Timișoara",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/179403",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/179403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-57-2024",
+   "path": "local/timis/cenei/2024/57",
+   "short": "HCL Cenei nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 57/2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/179404",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/179404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-58-2024",
+   "path": "local/timis/cenei/2024/58",
+   "short": "HCL Cenei nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 58/2024 privind aprobarea extinderii prevederilor Acordului de cooperare privind organizarea şi exercitarea serviciului administrativ al comunei Cenei, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/179405",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/179405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-59-2024",
+   "path": "local/timis/cenei/2024/59",
+   "short": "HCL Cenei nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 59/2024 privind aprobarea rețelei unităților de învățământ preuniversitar de stat pentru anul scolar 2025-2026 de pe raza comunei Cenei, județul Timiș",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/179406",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/179406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-6-2024",
+   "path": "local/timis/cenei/2024/6",
+   "short": "HCL Cenei nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 6/2024 privind aprobarea participarii la licitatia publica in vederea achizitionarii imobilului constand in \" CLADIRE P+1 si anexe\" situat in localitatea Cenei, Nr.16, Judetul Timis",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/138599",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/138599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-60-2024",
+   "path": "local/timis/cenei/2024/60",
+   "short": "HCL Cenei nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 60/2024 privind aprobarea Regulamentului de organizare şi funcţionare al consiliului local al Comunei Cenei, Judetul Timis pentru mandatul 2024-2028",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/179407",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/179407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-61-2024",
+   "path": "local/timis/cenei/2024/61",
+   "short": "HCL Cenei nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 61/2024 privind aprobarea cofinanţării \"Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Timiş, în perioada 2014-2020 etapa II\" prin PDD in vederea asigurarii cofinantarii proiectului",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/180707",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/180707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-62-2024",
+   "path": "local/timis/cenei/2024/62",
+   "short": "HCL Cenei nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 62/2024 privind aprobarea indicatorilor tehnico-economici aferenți ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020 etapa II” – localitatea Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/180708",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/180708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-63-2024",
+   "path": "local/timis/cenei/2024/63",
+   "short": "HCL Cenei nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 63/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/181639",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/181639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-64-2024",
+   "path": "local/timis/cenei/2024/64",
+   "short": "HCL Cenei nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 64/2024 privind stabilirea impozitelor si taxelor locale, precum si a taxelor speciale pentru anul fiscal 2025",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/183888",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/183888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-65-2024",
+   "path": "local/timis/cenei/2024/65",
+   "short": "HCL Cenei nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 65/2024 privind modificarea si completarea Regulamentului de organizare si functionare a Consiliuluil Local Cenei, aprobat prin HCL nr. 60/28.11.2024",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/183889",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/183889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-66-2024",
+   "path": "local/timis/cenei/2024/66",
+   "short": "HCL Cenei nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 66/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/183890",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/183890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-67-2024",
+   "path": "local/timis/cenei/2024/67",
+   "short": "HCL Cenei nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 67/2024 privind validarea și însușirea Dispoziţiei Primarului Comunei Cenei nr. 110/20.12.2024 avand ca obiect rectificarea bugetului local al Comunei Cenei cu sume alocate din finantari nerambursabile pentru Programul National de investitii ANGHEL SALIGNY pentru investitia Modernizare strazi in Comuna Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/184509",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/184509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-68-2024",
+   "path": "local/timis/cenei/2024/68",
+   "short": "HCL Cenei nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 68/2024 privind aprobarea valorii de investiţie a proiectului intitulat „Modernizare infrastructura rutiera in comuna Cenei, judetul Timis” in Comuna Cenei, judetul TIMIS, cu o valoare totala de 5.993.289,32 lei din care: 4.975.600,00 lei valoare eligibila si 1.017.689,32 lei valoare neeligibila, in baza contractului de finantare nerambursabila nr. C28020000021353700118 DIN DATA DE 25.09.2024 incheiat cu Agentia pentru Finantarea Investitiilor Rurale; aprobarea solicitarii unei Scrisori de garantie de la FNGCIMM SA IFN in valoare de maxim 1.990.000,00 lei in vederea garantarii obligatiilor de plata a avansului de maxim 1.990.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Modernizare infrastructura rutiera in comuna Cenei, judetul Timis” in Comuna Cenei, judetul TIMIS, in baza contractului de finantare nerambursabila nr. C28020000021353700118 din data de 25.09.2024 incheiat cu Agentia pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/184510",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/184510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-69-2024",
+   "path": "local/timis/cenei/2024/69",
+   "short": "HCL Cenei nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 69/2024 privind rectificarea bugetului local de venituri si cheltuieli pe trimestrul IV al Comunei Cenei",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/184511",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/184511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-8-2024",
+   "path": "local/timis/cenei/2024/8",
+   "short": "HCL Cenei nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 8/2024 privind aprobarea contului de încheiere a exercițiului bugetar al bugetului local pe anul 2023",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/142648",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/142648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--cenei-9-2024",
+   "path": "local/timis/cenei/2024/9",
+   "short": "HCL Cenei nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cenei nr. 9/2024 privind aprobarea Bugetului local inițial al Comunei Cenei pe anul 2024 și estimările pe anii 2025, 2026, 2027",
+   "url": "https://emol.ro/cenei-tm/registru-hcl/142649",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cenei-tm/registru-hcl/142649",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

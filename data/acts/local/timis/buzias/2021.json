@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-timis--buzias-51-2021",
+"path": "local/timis/buzias/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 51/2021 privind aprobarea tarifelor unice și a tarifelor distincte practicate de către RETIM ECOLOGIC SERVICE SRL în raport cu utilizatorii serviciului de salubrizare",
+"short": "HCL Buziaș nr. 51/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2022/07/HOTARAREA-Nr.-51-DIN-30.09.2021-privind-aprobarea-tarifelor-unice-si-a-tarifelor-distincte-practicate-de-catre-RETIM-ECOLOGIC-SERVICE-SRL-in-raport-cu-utilizatorii-serviciului-de-salubrizare.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-timis--buzias-79-2021",
 "path": "local/timis/buzias/2021/79",
 "kind": "local",

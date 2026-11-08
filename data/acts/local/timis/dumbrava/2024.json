@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/timis/dumbrava/2024",
+"acts": [
+{
+"slug": "hcl-timis--dumbrava-4-2024",
+"path": "local/timis/dumbrava/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 4/2024 privind aprobarea încheierii exerciţiului bugetar al anului 2023",
+"short": "HCL Dumbrava nr. 4/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/142754",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-5-2024",
+"path": "local/timis/dumbrava/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 5/2024 privind utilizarea şi regularizarea excedentului bugetului Comunei Dumbrava din anul 2023 în anul 2024",
+"short": "HCL Dumbrava nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/142755",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-6-2024",
+"path": "local/timis/dumbrava/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 6/2024 privind adoptarea bugetului de venituri și cheltuieli al comunei Dumbrava pentru anul 2024",
+"short": "HCL Dumbrava nr. 6/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/142756",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-7-2024",
+"path": "local/timis/dumbrava/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 7/2024 privind aprobarea Programului anual de investiții publice pe anul 2024",
+"short": "HCL Dumbrava nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-22",
+"latest": "2024-02-22",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/142757",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-21-2024",
+"path": "local/timis/dumbrava/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 21/2024 privind aprobarea participării unității administrativ-teritoriale Comuna Dumbrava, județul Timiș, în cadrul Proiectului „Modernizarea rețelei de biblioteci pentru a deveni HUB-uri de dezvoltare a competențelor digitale, din cadrul Planului Național de Redresare și Reziliență (PNRR) - HUB comuna Breznița-Motru, județul Mehedinți”",
+"short": "HCL Dumbrava nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/153594",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-23-2024",
+"path": "local/timis/dumbrava/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 23/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Dumbrava, varianta 2 pentru anul 2024",
+"short": "HCL Dumbrava nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/157403",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-24-2024",
+"path": "local/timis/dumbrava/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 24/2024 privind aprobarea Studiului de oportunitate pentru delegarea de gestiune prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 4 - Făget din județul Timiş, a Indicatorilor de performanţă şi a Documentației de atribuire pentru delegarea gestiunii prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 4 - Făget din județul Timiş",
+"short": "HCL Dumbrava nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-20",
+"latest": "2024-06-20",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/159307",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-74-2024",
+"path": "local/timis/dumbrava/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 74/2024 privind indexarea impozitelor sau a oricăror taxe locale, care constau într-o anumită sumă în lei sau care este stabilită pe baza unei anumite sume în lei pentru anul 2025 cu rata inflației",
+"short": "HCL Dumbrava nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/181631",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--dumbrava-82-2024",
+"path": "local/timis/dumbrava/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 82/2024 privind stabilirea taxelor și impozitelor locale pentru 2025",
+"short": "HCL Dumbrava nr. 82/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-16",
+"latest": "2025-01-16",
+"portal": "https://emol.ro/dumbrava-tm/registru-hcl/185098",
+"council": "timis/dumbrava",
+"council_name": "Consiliul Local al Comunei Dumbrava",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1220,14 +1220,25 @@
    "sources": "data/sources/cncd/2020.csv"
   },
   {
+   "shard": "cnsc/2023",
+   "kind": "cnsc",
+   "count": 3,
+   "acts": "data/acts/cnsc/2023.json",
+   "list": "data/acts/cnsc/2023.md",
+   "versions": "data/versions/cnsc/2023.json",
+   "laws": "data/laws/cnsc/2023.csv",
+   "laws_count": 3,
+   "sources": "data/sources/cnsc/2023.csv"
+  },
+  {
    "shard": "cnsc/2024",
    "kind": "cnsc",
-   "count": 1094,
+   "count": 1375,
    "acts": "data/acts/cnsc/2024.json",
    "list": "data/acts/cnsc/2024.md",
    "versions": "data/versions/cnsc/2024.json",
    "laws": "data/laws/cnsc/2024.csv",
-   "laws_count": 1094,
+   "laws_count": 1375,
    "sources": "data/sources/cnsc/2024.csv"
   },
   {
@@ -56891,25 +56902,69 @@
    "sources": "data/sources/local/timis/birda/2026.csv"
   },
   {
+   "shard": "local/timis/bucovat/2021",
+   "kind": "local",
+   "count": 84,
+   "acts": "data/acts/local/timis/bucovat/2021.json",
+   "list": "data/acts/local/timis/bucovat/2021.md",
+   "versions": "data/versions/local/timis/bucovat/2021.json",
+   "laws": "data/laws/local/timis/bucovat/2021.csv",
+   "laws_count": 84,
+   "sources": "data/sources/local/timis/bucovat/2021.csv"
+  },
+  {
+   "shard": "local/timis/bucovat/2022",
+   "kind": "local",
+   "count": 83,
+   "acts": "data/acts/local/timis/bucovat/2022.json",
+   "list": "data/acts/local/timis/bucovat/2022.md",
+   "versions": "data/versions/local/timis/bucovat/2022.json",
+   "laws": "data/laws/local/timis/bucovat/2022.csv",
+   "laws_count": 83,
+   "sources": "data/sources/local/timis/bucovat/2022.csv"
+  },
+  {
+   "shard": "local/timis/bucovat/2023",
+   "kind": "local",
+   "count": 49,
+   "acts": "data/acts/local/timis/bucovat/2023.json",
+   "list": "data/acts/local/timis/bucovat/2023.md",
+   "versions": "data/versions/local/timis/bucovat/2023.json",
+   "laws": "data/laws/local/timis/bucovat/2023.csv",
+   "laws_count": 49,
+   "sources": "data/sources/local/timis/bucovat/2023.csv"
+  },
+  {
+   "shard": "local/timis/bucovat/2024",
+   "kind": "local",
+   "count": 73,
+   "acts": "data/acts/local/timis/bucovat/2024.json",
+   "list": "data/acts/local/timis/bucovat/2024.md",
+   "versions": "data/versions/local/timis/bucovat/2024.json",
+   "laws": "data/laws/local/timis/bucovat/2024.csv",
+   "laws_count": 73,
+   "sources": "data/sources/local/timis/bucovat/2024.csv"
+  },
+  {
    "shard": "local/timis/bucovat/2025",
    "kind": "local",
-   "count": 2,
+   "count": 80,
    "acts": "data/acts/local/timis/bucovat/2025.json",
    "list": "data/acts/local/timis/bucovat/2025.md",
    "versions": "data/versions/local/timis/bucovat/2025.json",
    "laws": "data/laws/local/timis/bucovat/2025.csv",
-   "laws_count": 2,
+   "laws_count": 80,
    "sources": "data/sources/local/timis/bucovat/2025.csv"
   },
   {
    "shard": "local/timis/bucovat/2026",
    "kind": "local",
-   "count": 63,
+   "count": 75,
    "acts": "data/acts/local/timis/bucovat/2026.json",
    "list": "data/acts/local/timis/bucovat/2026.md",
    "versions": "data/versions/local/timis/bucovat/2026.json",
    "laws": "data/laws/local/timis/bucovat/2026.csv",
-   "laws_count": 63,
+   "laws_count": 75,
    "sources": "data/sources/local/timis/bucovat/2026.csv"
   },
   {
@@ -56926,12 +56981,12 @@
   {
    "shard": "local/timis/buzias/2021",
    "kind": "local",
-   "count": 3,
+   "count": 4,
    "acts": "data/acts/local/timis/buzias/2021.json",
    "list": "data/acts/local/timis/buzias/2021.md",
    "versions": "data/versions/local/timis/buzias/2021.json",
    "laws": "data/laws/local/timis/buzias/2021.csv",
-   "laws_count": 3,
+   "laws_count": 4,
    "sources": "data/sources/local/timis/buzias/2021.csv"
   },
   {
@@ -56948,24 +57003,112 @@
   {
    "shard": "local/timis/buzias/2024",
    "kind": "local",
-   "count": 24,
+   "count": 30,
    "acts": "data/acts/local/timis/buzias/2024.json",
    "list": "data/acts/local/timis/buzias/2024.md",
    "versions": "data/versions/local/timis/buzias/2024.json",
    "laws": "data/laws/local/timis/buzias/2024.csv",
-   "laws_count": 24,
+   "laws_count": 30,
    "sources": "data/sources/local/timis/buzias/2024.csv"
+  },
+  {
+   "shard": "local/timis/buzias/2025",
+   "kind": "local",
+   "count": 1,
+   "acts": "data/acts/local/timis/buzias/2025.json",
+   "list": "data/acts/local/timis/buzias/2025.md",
+   "versions": "data/versions/local/timis/buzias/2025.json",
+   "laws": "data/laws/local/timis/buzias/2025.csv",
+   "laws_count": 1,
+   "sources": "data/sources/local/timis/buzias/2025.csv"
   },
   {
    "shard": "local/timis/buzias/2026",
    "kind": "local",
-   "count": 18,
+   "count": 21,
    "acts": "data/acts/local/timis/buzias/2026.json",
    "list": "data/acts/local/timis/buzias/2026.md",
    "versions": "data/versions/local/timis/buzias/2026.json",
    "laws": "data/laws/local/timis/buzias/2026.csv",
-   "laws_count": 18,
+   "laws_count": 21,
    "sources": "data/sources/local/timis/buzias/2026.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2020",
+   "kind": "local",
+   "count": 20,
+   "acts": "data/acts/local/timis/carpinis/2020.json",
+   "list": "data/acts/local/timis/carpinis/2020.md",
+   "versions": "data/versions/local/timis/carpinis/2020.json",
+   "laws": "data/laws/local/timis/carpinis/2020.csv",
+   "laws_count": 20,
+   "sources": "data/sources/local/timis/carpinis/2020.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2021",
+   "kind": "local",
+   "count": 25,
+   "acts": "data/acts/local/timis/carpinis/2021.json",
+   "list": "data/acts/local/timis/carpinis/2021.md",
+   "versions": "data/versions/local/timis/carpinis/2021.json",
+   "laws": "data/laws/local/timis/carpinis/2021.csv",
+   "laws_count": 25,
+   "sources": "data/sources/local/timis/carpinis/2021.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2022",
+   "kind": "local",
+   "count": 36,
+   "acts": "data/acts/local/timis/carpinis/2022.json",
+   "list": "data/acts/local/timis/carpinis/2022.md",
+   "versions": "data/versions/local/timis/carpinis/2022.json",
+   "laws": "data/laws/local/timis/carpinis/2022.csv",
+   "laws_count": 36,
+   "sources": "data/sources/local/timis/carpinis/2022.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2023",
+   "kind": "local",
+   "count": 26,
+   "acts": "data/acts/local/timis/carpinis/2023.json",
+   "list": "data/acts/local/timis/carpinis/2023.md",
+   "versions": "data/versions/local/timis/carpinis/2023.json",
+   "laws": "data/laws/local/timis/carpinis/2023.csv",
+   "laws_count": 26,
+   "sources": "data/sources/local/timis/carpinis/2023.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2024",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/timis/carpinis/2024.json",
+   "list": "data/acts/local/timis/carpinis/2024.md",
+   "versions": "data/versions/local/timis/carpinis/2024.json",
+   "laws": "data/laws/local/timis/carpinis/2024.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/timis/carpinis/2024.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2025",
+   "kind": "local",
+   "count": 36,
+   "acts": "data/acts/local/timis/carpinis/2025.json",
+   "list": "data/acts/local/timis/carpinis/2025.md",
+   "versions": "data/versions/local/timis/carpinis/2025.json",
+   "laws": "data/laws/local/timis/carpinis/2025.csv",
+   "laws_count": 36,
+   "sources": "data/sources/local/timis/carpinis/2025.csv"
+  },
+  {
+   "shard": "local/timis/carpinis/2026",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/timis/carpinis/2026.json",
+   "list": "data/acts/local/timis/carpinis/2026.md",
+   "versions": "data/versions/local/timis/carpinis/2026.json",
+   "laws": "data/laws/local/timis/carpinis/2026.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/timis/carpinis/2026.csv"
   },
   {
    "shard": "local/timis/cenad/2020",
@@ -56977,6 +57120,61 @@
    "laws": "data/laws/local/timis/cenad/2020.csv",
    "laws_count": 3,
    "sources": "data/sources/local/timis/cenad/2020.csv"
+  },
+  {
+   "shard": "local/timis/cenei/2022",
+   "kind": "local",
+   "count": 21,
+   "acts": "data/acts/local/timis/cenei/2022.json",
+   "list": "data/acts/local/timis/cenei/2022.md",
+   "versions": "data/versions/local/timis/cenei/2022.json",
+   "laws": "data/laws/local/timis/cenei/2022.csv",
+   "laws_count": 21,
+   "sources": "data/sources/local/timis/cenei/2022.csv"
+  },
+  {
+   "shard": "local/timis/cenei/2023",
+   "kind": "local",
+   "count": 57,
+   "acts": "data/acts/local/timis/cenei/2023.json",
+   "list": "data/acts/local/timis/cenei/2023.md",
+   "versions": "data/versions/local/timis/cenei/2023.json",
+   "laws": "data/laws/local/timis/cenei/2023.csv",
+   "laws_count": 57,
+   "sources": "data/sources/local/timis/cenei/2023.csv"
+  },
+  {
+   "shard": "local/timis/cenei/2024",
+   "kind": "local",
+   "count": 64,
+   "acts": "data/acts/local/timis/cenei/2024.json",
+   "list": "data/acts/local/timis/cenei/2024.md",
+   "versions": "data/versions/local/timis/cenei/2024.json",
+   "laws": "data/laws/local/timis/cenei/2024.csv",
+   "laws_count": 64,
+   "sources": "data/sources/local/timis/cenei/2024.csv"
+  },
+  {
+   "shard": "local/timis/cenei/2025",
+   "kind": "local",
+   "count": 68,
+   "acts": "data/acts/local/timis/cenei/2025.json",
+   "list": "data/acts/local/timis/cenei/2025.md",
+   "versions": "data/versions/local/timis/cenei/2025.json",
+   "laws": "data/laws/local/timis/cenei/2025.csv",
+   "laws_count": 68,
+   "sources": "data/sources/local/timis/cenei/2025.csv"
+  },
+  {
+   "shard": "local/timis/cenei/2026",
+   "kind": "local",
+   "count": 61,
+   "acts": "data/acts/local/timis/cenei/2026.json",
+   "list": "data/acts/local/timis/cenei/2026.md",
+   "versions": "data/versions/local/timis/cenei/2026.json",
+   "laws": "data/laws/local/timis/cenei/2026.csv",
+   "laws_count": 61,
+   "sources": "data/sources/local/timis/cenei/2026.csv"
   },
   {
    "shard": "local/timis/ciacova/2021",
@@ -56999,6 +57197,83 @@
    "laws": "data/laws/local/timis/ciacova/2022.csv",
    "laws_count": 32,
    "sources": "data/sources/local/timis/ciacova/2022.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2020",
+   "kind": "local",
+   "count": 56,
+   "acts": "data/acts/local/timis/costeiu/2020.json",
+   "list": "data/acts/local/timis/costeiu/2020.md",
+   "versions": "data/versions/local/timis/costeiu/2020.json",
+   "laws": "data/laws/local/timis/costeiu/2020.csv",
+   "laws_count": 56,
+   "sources": "data/sources/local/timis/costeiu/2020.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2021",
+   "kind": "local",
+   "count": 49,
+   "acts": "data/acts/local/timis/costeiu/2021.json",
+   "list": "data/acts/local/timis/costeiu/2021.md",
+   "versions": "data/versions/local/timis/costeiu/2021.json",
+   "laws": "data/laws/local/timis/costeiu/2021.csv",
+   "laws_count": 49,
+   "sources": "data/sources/local/timis/costeiu/2021.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2022",
+   "kind": "local",
+   "count": 64,
+   "acts": "data/acts/local/timis/costeiu/2022.json",
+   "list": "data/acts/local/timis/costeiu/2022.md",
+   "versions": "data/versions/local/timis/costeiu/2022.json",
+   "laws": "data/laws/local/timis/costeiu/2022.csv",
+   "laws_count": 64,
+   "sources": "data/sources/local/timis/costeiu/2022.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2023",
+   "kind": "local",
+   "count": 72,
+   "acts": "data/acts/local/timis/costeiu/2023.json",
+   "list": "data/acts/local/timis/costeiu/2023.md",
+   "versions": "data/versions/local/timis/costeiu/2023.json",
+   "laws": "data/laws/local/timis/costeiu/2023.csv",
+   "laws_count": 72,
+   "sources": "data/sources/local/timis/costeiu/2023.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2024",
+   "kind": "local",
+   "count": 70,
+   "acts": "data/acts/local/timis/costeiu/2024.json",
+   "list": "data/acts/local/timis/costeiu/2024.md",
+   "versions": "data/versions/local/timis/costeiu/2024.json",
+   "laws": "data/laws/local/timis/costeiu/2024.csv",
+   "laws_count": 70,
+   "sources": "data/sources/local/timis/costeiu/2024.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2025",
+   "kind": "local",
+   "count": 52,
+   "acts": "data/acts/local/timis/costeiu/2025.json",
+   "list": "data/acts/local/timis/costeiu/2025.md",
+   "versions": "data/versions/local/timis/costeiu/2025.json",
+   "laws": "data/laws/local/timis/costeiu/2025.csv",
+   "laws_count": 52,
+   "sources": "data/sources/local/timis/costeiu/2025.csv"
+  },
+  {
+   "shard": "local/timis/costeiu/2026",
+   "kind": "local",
+   "count": 50,
+   "acts": "data/acts/local/timis/costeiu/2026.json",
+   "list": "data/acts/local/timis/costeiu/2026.md",
+   "versions": "data/versions/local/timis/costeiu/2026.json",
+   "laws": "data/laws/local/timis/costeiu/2026.csv",
+   "laws_count": 50,
+   "sources": "data/sources/local/timis/costeiu/2026.csv"
   },
   {
    "shard": "local/timis/deta/2020",
@@ -57078,6 +57353,204 @@
    "sources": "data/sources/local/timis/deta/2026.csv"
   },
   {
+   "shard": "local/timis/dudestii-noi/2020",
+   "kind": "local",
+   "count": 71,
+   "acts": "data/acts/local/timis/dudestii-noi/2020.json",
+   "list": "data/acts/local/timis/dudestii-noi/2020.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2020.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2020.csv",
+   "laws_count": 71,
+   "sources": "data/sources/local/timis/dudestii-noi/2020.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2021",
+   "kind": "local",
+   "count": 70,
+   "acts": "data/acts/local/timis/dudestii-noi/2021.json",
+   "list": "data/acts/local/timis/dudestii-noi/2021.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2021.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2021.csv",
+   "laws_count": 70,
+   "sources": "data/sources/local/timis/dudestii-noi/2021.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2022",
+   "kind": "local",
+   "count": 75,
+   "acts": "data/acts/local/timis/dudestii-noi/2022.json",
+   "list": "data/acts/local/timis/dudestii-noi/2022.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2022.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2022.csv",
+   "laws_count": 75,
+   "sources": "data/sources/local/timis/dudestii-noi/2022.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2023",
+   "kind": "local",
+   "count": 47,
+   "acts": "data/acts/local/timis/dudestii-noi/2023.json",
+   "list": "data/acts/local/timis/dudestii-noi/2023.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2023.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2023.csv",
+   "laws_count": 47,
+   "sources": "data/sources/local/timis/dudestii-noi/2023.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2024",
+   "kind": "local",
+   "count": 24,
+   "acts": "data/acts/local/timis/dudestii-noi/2024.json",
+   "list": "data/acts/local/timis/dudestii-noi/2024.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2024.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2024.csv",
+   "laws_count": 24,
+   "sources": "data/sources/local/timis/dudestii-noi/2024.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2025",
+   "kind": "local",
+   "count": 40,
+   "acts": "data/acts/local/timis/dudestii-noi/2025.json",
+   "list": "data/acts/local/timis/dudestii-noi/2025.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2025.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2025.csv",
+   "laws_count": 40,
+   "sources": "data/sources/local/timis/dudestii-noi/2025.csv"
+  },
+  {
+   "shard": "local/timis/dudestii-noi/2026",
+   "kind": "local",
+   "count": 36,
+   "acts": "data/acts/local/timis/dudestii-noi/2026.json",
+   "list": "data/acts/local/timis/dudestii-noi/2026.md",
+   "versions": "data/versions/local/timis/dudestii-noi/2026.json",
+   "laws": "data/laws/local/timis/dudestii-noi/2026.csv",
+   "laws_count": 36,
+   "sources": "data/sources/local/timis/dudestii-noi/2026.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2020",
+   "kind": "local",
+   "count": 35,
+   "acts": "data/acts/local/timis/dumbrava/2020.json",
+   "list": "data/acts/local/timis/dumbrava/2020.md",
+   "versions": "data/versions/local/timis/dumbrava/2020.json",
+   "laws": "data/laws/local/timis/dumbrava/2020.csv",
+   "laws_count": 35,
+   "sources": "data/sources/local/timis/dumbrava/2020.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2021",
+   "kind": "local",
+   "count": 47,
+   "acts": "data/acts/local/timis/dumbrava/2021.json",
+   "list": "data/acts/local/timis/dumbrava/2021.md",
+   "versions": "data/versions/local/timis/dumbrava/2021.json",
+   "laws": "data/laws/local/timis/dumbrava/2021.csv",
+   "laws_count": 47,
+   "sources": "data/sources/local/timis/dumbrava/2021.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2022",
+   "kind": "local",
+   "count": 69,
+   "acts": "data/acts/local/timis/dumbrava/2022.json",
+   "list": "data/acts/local/timis/dumbrava/2022.md",
+   "versions": "data/versions/local/timis/dumbrava/2022.json",
+   "laws": "data/laws/local/timis/dumbrava/2022.csv",
+   "laws_count": 69,
+   "sources": "data/sources/local/timis/dumbrava/2022.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2023",
+   "kind": "local",
+   "count": 15,
+   "acts": "data/acts/local/timis/dumbrava/2023.json",
+   "list": "data/acts/local/timis/dumbrava/2023.md",
+   "versions": "data/versions/local/timis/dumbrava/2023.json",
+   "laws": "data/laws/local/timis/dumbrava/2023.csv",
+   "laws_count": 15,
+   "sources": "data/sources/local/timis/dumbrava/2023.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2024",
+   "kind": "local",
+   "count": 9,
+   "acts": "data/acts/local/timis/dumbrava/2024.json",
+   "list": "data/acts/local/timis/dumbrava/2024.md",
+   "versions": "data/versions/local/timis/dumbrava/2024.json",
+   "laws": "data/laws/local/timis/dumbrava/2024.csv",
+   "laws_count": 9,
+   "sources": "data/sources/local/timis/dumbrava/2024.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2025",
+   "kind": "local",
+   "count": 11,
+   "acts": "data/acts/local/timis/dumbrava/2025.json",
+   "list": "data/acts/local/timis/dumbrava/2025.md",
+   "versions": "data/versions/local/timis/dumbrava/2025.json",
+   "laws": "data/laws/local/timis/dumbrava/2025.csv",
+   "laws_count": 11,
+   "sources": "data/sources/local/timis/dumbrava/2025.csv"
+  },
+  {
+   "shard": "local/timis/dumbrava/2026",
+   "kind": "local",
+   "count": 2,
+   "acts": "data/acts/local/timis/dumbrava/2026.json",
+   "list": "data/acts/local/timis/dumbrava/2026.md",
+   "versions": "data/versions/local/timis/dumbrava/2026.json",
+   "laws": "data/laws/local/timis/dumbrava/2026.csv",
+   "laws_count": 2,
+   "sources": "data/sources/local/timis/dumbrava/2026.csv"
+  },
+  {
+   "shard": "local/timis/dumbravita/2023",
+   "kind": "local",
+   "count": 17,
+   "acts": "data/acts/local/timis/dumbravita/2023.json",
+   "list": "data/acts/local/timis/dumbravita/2023.md",
+   "versions": "data/versions/local/timis/dumbravita/2023.json",
+   "laws": "data/laws/local/timis/dumbravita/2023.csv",
+   "laws_count": 17,
+   "sources": "data/sources/local/timis/dumbravita/2023.csv"
+  },
+  {
+   "shard": "local/timis/dumbravita/2024",
+   "kind": "local",
+   "count": 62,
+   "acts": "data/acts/local/timis/dumbravita/2024.json",
+   "list": "data/acts/local/timis/dumbravita/2024.md",
+   "versions": "data/versions/local/timis/dumbravita/2024.json",
+   "laws": "data/laws/local/timis/dumbravita/2024.csv",
+   "laws_count": 62,
+   "sources": "data/sources/local/timis/dumbravita/2024.csv"
+  },
+  {
+   "shard": "local/timis/dumbravita/2025",
+   "kind": "local",
+   "count": 136,
+   "acts": "data/acts/local/timis/dumbravita/2025.json",
+   "list": "data/acts/local/timis/dumbravita/2025.md",
+   "versions": "data/versions/local/timis/dumbravita/2025.json",
+   "laws": "data/laws/local/timis/dumbravita/2025.csv",
+   "laws_count": 136,
+   "sources": "data/sources/local/timis/dumbravita/2025.csv"
+  },
+  {
+   "shard": "local/timis/dumbravita/2026",
+   "kind": "local",
+   "count": 105,
+   "acts": "data/acts/local/timis/dumbravita/2026.json",
+   "list": "data/acts/local/timis/dumbravita/2026.md",
+   "versions": "data/versions/local/timis/dumbravita/2026.json",
+   "laws": "data/laws/local/timis/dumbravita/2026.csv",
+   "laws_count": 105,
+   "sources": "data/sources/local/timis/dumbravita/2026.csv"
+  },
+  {
    "shard": "local/timis/faget/2023",
    "kind": "local",
    "count": 1,
@@ -57098,6 +57571,83 @@
    "laws": "data/laws/local/timis/gavojdia/2026.csv",
    "laws_count": 3,
    "sources": "data/sources/local/timis/gavojdia/2026.csv"
+  },
+  {
+   "shard": "local/timis/ghilad/2025",
+   "kind": "local",
+   "count": 28,
+   "acts": "data/acts/local/timis/ghilad/2025.json",
+   "list": "data/acts/local/timis/ghilad/2025.md",
+   "versions": "data/versions/local/timis/ghilad/2025.json",
+   "laws": "data/laws/local/timis/ghilad/2025.csv",
+   "laws_count": 28,
+   "sources": "data/sources/local/timis/ghilad/2025.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2021",
+   "kind": "local",
+   "count": 93,
+   "acts": "data/acts/local/timis/ghiroda/2021.json",
+   "list": "data/acts/local/timis/ghiroda/2021.md",
+   "versions": "data/versions/local/timis/ghiroda/2021.json",
+   "laws": "data/laws/local/timis/ghiroda/2021.csv",
+   "laws_count": 93,
+   "sources": "data/sources/local/timis/ghiroda/2021.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2022",
+   "kind": "local",
+   "count": 200,
+   "acts": "data/acts/local/timis/ghiroda/2022.json",
+   "list": "data/acts/local/timis/ghiroda/2022.md",
+   "versions": "data/versions/local/timis/ghiroda/2022.json",
+   "laws": "data/laws/local/timis/ghiroda/2022.csv",
+   "laws_count": 200,
+   "sources": "data/sources/local/timis/ghiroda/2022.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2023",
+   "kind": "local",
+   "count": 186,
+   "acts": "data/acts/local/timis/ghiroda/2023.json",
+   "list": "data/acts/local/timis/ghiroda/2023.md",
+   "versions": "data/versions/local/timis/ghiroda/2023.json",
+   "laws": "data/laws/local/timis/ghiroda/2023.csv",
+   "laws_count": 186,
+   "sources": "data/sources/local/timis/ghiroda/2023.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2024",
+   "kind": "local",
+   "count": 204,
+   "acts": "data/acts/local/timis/ghiroda/2024.json",
+   "list": "data/acts/local/timis/ghiroda/2024.md",
+   "versions": "data/versions/local/timis/ghiroda/2024.json",
+   "laws": "data/laws/local/timis/ghiroda/2024.csv",
+   "laws_count": 204,
+   "sources": "data/sources/local/timis/ghiroda/2024.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2025",
+   "kind": "local",
+   "count": 132,
+   "acts": "data/acts/local/timis/ghiroda/2025.json",
+   "list": "data/acts/local/timis/ghiroda/2025.md",
+   "versions": "data/versions/local/timis/ghiroda/2025.json",
+   "laws": "data/laws/local/timis/ghiroda/2025.csv",
+   "laws_count": 132,
+   "sources": "data/sources/local/timis/ghiroda/2025.csv"
+  },
+  {
+   "shard": "local/timis/ghiroda/2026",
+   "kind": "local",
+   "count": 43,
+   "acts": "data/acts/local/timis/ghiroda/2026.json",
+   "list": "data/acts/local/timis/ghiroda/2026.md",
+   "versions": "data/versions/local/timis/ghiroda/2026.json",
+   "laws": "data/laws/local/timis/ghiroda/2026.csv",
+   "laws_count": 43,
+   "sources": "data/sources/local/timis/ghiroda/2026.csv"
   },
   {
    "shard": "local/timis/lugoj/2022",

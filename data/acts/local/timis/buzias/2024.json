@@ -92,6 +92,29 @@
 }
 },
 {
+"slug": "hcl-timis--buzias-15-2024",
+"path": "local/timis/buzias/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 15/2024",
+"short": "HCL Buziaș nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-15-din-28.03.2024.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-timis--buzias-16-2024",
 "path": "local/timis/buzias/2024/16",
 "kind": "local",
@@ -112,6 +135,95 @@
 "flags": {
 "annex_missing": true,
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-timis--buzias-17-2024",
+"path": "local/timis/buzias/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 17/2024",
+"short": "HCL Buziaș nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-17-din-28.03.2024.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--buzias-19-2024",
+"path": "local/timis/buzias/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 19/2024 privind aprobarea acordării scutirii de la plata impozitului aferent anului 2024, pentru Federația Caritas a Diecezei Timișoara - clădirile și terenurile situate în localitatea Bacova, nr.187 și Ferma nr. 1 Ovine Bacova și terenul aferent în suprafață totală de 48.163 mp, jud",
+"short": "HCL Buziaș nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-19-din-28.03.2024.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-timis--buzias-20-2024",
+"path": "local/timis/buzias/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 20/2024 privind aprobarea acordării scutirii de la plata impozitului aferent anului 2024, pentru clădirile CARP Timișoara, situate în localitatea Buziaș, str",
+"short": "HCL Buziaș nr. 20/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-20-din-28.03.2024.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-timis--buzias-22-2024",
+"path": "local/timis/buzias/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 22/2024 privind aprobarea acordării scutirii de la plata impozitului aferent anului 2024, pentru Uniunea Adam Muller Guttenbrunn Timisoara - clădirea situată în localitatea Bacova, nr. 421, jud",
+"short": "HCL Buziaș nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://primariabuzias.ro/wp-content/uploads/2024/04/Hotararea-nr.-22-din-28.03.2024.pdf",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -156,6 +268,28 @@
 "council_name": "Consiliul Local al Orașului Buziaș",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--buzias-38-2024",
+"path": "local/timis/buzias/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Buziaș nr. 38/2024 privind aprobarea alipirii în proprietatea ORAȘULUI BUZIAȘ și administrarea Consilului Local al orașului Buziaș a imobilelor aferente Zonei industriale, depozitare și servicii, respectiv Zonei de locuințe și funcțiunii complementare, conform PUG Oraș Buziaș CONSILIUL LOCAL AL ORASULUI BUZIAS, JUD. TIMIS Având în vedere: - Hotărârea Consiliului Local al orașului Buziaș nr. 60 din 29.06.2023 privind",
+"short": "HCL Buziaș nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://primariabuzias.ro/documente/hcl-nr-36-41-din-30-05-2024/",
+"council": "timis/buzias",
+"council_name": "Consiliul Local al Orașului Buziaș",
+"flags": {
+"text_pending": "review"
 }
 },
 {

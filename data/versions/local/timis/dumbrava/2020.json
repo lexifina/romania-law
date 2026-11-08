@@ -1,0 +1,531 @@
+{
+ "country": "RO",
+ "shard": "local/timis/dumbrava/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--dumbrava-1-2020",
+   "path": "local/timis/dumbrava/2020/1",
+   "short": "HCL Dumbrava nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 1/2020 privind acoperirea definitivă din excedentul bugetului a deficitului secțiunii de dezvoltare la data de 31.12.2019",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1416",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-10-2020",
+   "path": "local/timis/dumbrava/2020/10",
+   "short": "HCL Dumbrava nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 10/2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3138",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-11-2020",
+   "path": "local/timis/dumbrava/2020/11",
+   "short": "HCL Dumbrava nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 11/2020 privind atestare inventar domeniul public",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3141",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-12-2020",
+   "path": "local/timis/dumbrava/2020/12",
+   "short": "HCL Dumbrava nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 12/2020 privind rețea școlară 2020 - 2021",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3142",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-13-2020",
+   "path": "local/timis/dumbrava/2020/13",
+   "short": "HCL Dumbrava nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 13/2020 privind rectificare BVC, varianta 1 din 2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3143",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-18-2020",
+   "path": "local/timis/dumbrava/2020/18",
+   "short": "HCL Dumbrava nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 18/2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/5930",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/5930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-19-2020",
+   "path": "local/timis/dumbrava/2020/19",
+   "short": "HCL Dumbrava nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 19/2020 privind solicitarea prelungirii până la data de 28.09.2021 a Scrisorii de Garanţie nr. 723 / 11.10.2017 de la FNGCIMM SA IFN în valoare de 849.000,00 lei, în vederea garantării obligaţiilor de plată a avansului de 849.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat : „MODERNIZARE CĂMIN CULTURAL ÎN LOCALITATEA RĂCHITA, COMUNA DUMBRAVA, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/5931",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/5931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-2-2020",
+   "path": "local/timis/dumbrava/2020/2",
+   "short": "HCL Dumbrava nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 2/2020 privind incheiere exercitiu bugetar al anului 2019",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1417",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-20-2020",
+   "path": "local/timis/dumbrava/2020/20",
+   "short": "HCL Dumbrava nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 20/2020 privind aprobare protocol de colaborare cu Sistemul de Gospodărire a Apelor Timiş pentru realizarea lucrărilor de regularizare-decolmatare a cursurilor de apă Bălăşina pe teritoriul comunei Dumbrava, judeţul Timiş",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/5932",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/5932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-21-2020",
+   "path": "local/timis/dumbrava/2020/21",
+   "short": "HCL Dumbrava nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 21/2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/5933",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/5933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-22-2020",
+   "path": "local/timis/dumbrava/2020/22",
+   "short": "HCL Dumbrava nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 22/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6056",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-23-2020",
+   "path": "local/timis/dumbrava/2020/23",
+   "short": "HCL Dumbrava nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 23/2020 privind participarea Comunei Dumbrava la Programul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public și pentru aprobarea indicatorilor tehnico-economici pentru proiectul „MODERNIZARE ILUMINAT PUBLIC STRADAL ÎN COMUNA DUMBRAVA, JUDEŢUL TIMIŞ PRIN PROGRAMUL AFM PRIVIND SPRIJINIREA EFICIENȚEI ENERGETICE ȘI A GESTIONĂRII INTELIGENTE A ENERGIEI ÎN INFRASTRUCTURA DE ILUMINAT PUBLIC”",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6057",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-24-2020",
+   "path": "local/timis/dumbrava/2020/24",
+   "short": "HCL Dumbrava nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 24/2020 privind înfiinţarea Serviciului de Iluminat Public, al Comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6058",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-25-2020",
+   "path": "local/timis/dumbrava/2020/25",
+   "short": "HCL Dumbrava nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 25/2020 privind înfiinţarea Serviciului Gospodărie Comunală Dumbrava la nivelul comunei Dumbrava, judeţul Timiş",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6059",
+   "versions": [
+    {
+     "from": "2020-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-26-2020",
+   "path": "local/timis/dumbrava/2020/26",
+   "short": "HCL Dumbrava nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 26/2020 privind rectificarea bugetului de venituri şi cheltuieli al comunei Dumbrava pentru anul 2020, varianta 2",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6918",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-27-2020",
+   "path": "local/timis/dumbrava/2020/27",
+   "short": "HCL Dumbrava nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 27/2020 privind aprobarea actului adițional la Protocolul de colaborare încheiat între Administraţia Bazinală de Apă Banat - Sistemul de Gospodărire a Apelor Timiş cu Primăria comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6919",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-28-2020",
+   "path": "local/timis/dumbrava/2020/28",
+   "short": "HCL Dumbrava nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 28/2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/6920",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/6920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-29-2020",
+   "path": "local/timis/dumbrava/2020/29",
+   "short": "HCL Dumbrava nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 29/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Dumbrava pentru anul 2020, varianta 3",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/8591",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/8591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-3-2020",
+   "path": "local/timis/dumbrava/2020/3",
+   "short": "HCL Dumbrava nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 3/2020 privind utilizarea si regularizarea excedentului bugetar",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1418",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-31-2020",
+   "path": "local/timis/dumbrava/2020/31",
+   "short": "HCL Dumbrava nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 31/2020 privind aprobarea completării Programului anual de investiții publice pe anul 2020 cu obiectivul de investiție ”Canalizare menajeră și stație de epurare localitatea Bucovăț, comuna Dumbrava, județul Timiș”",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/8593",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/8593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-32-2020",
+   "path": "local/timis/dumbrava/2020/32",
+   "short": "HCL Dumbrava nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 32/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Dumbrava pentru anul 2020, varianta 4",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/9254",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/9254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-36-2020",
+   "path": "local/timis/dumbrava/2020/36",
+   "short": "HCL Dumbrava nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 36/2020 privind aprobare Proiect reţea şcolară a Comunei Dumbrava ce va funcţiona în anul şcolar 2021 - 2022",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/11917",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/11917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-37-2020",
+   "path": "local/timis/dumbrava/2020/37",
+   "short": "HCL Dumbrava nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 37/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Dumbrava pentru anul 2020, varianta 5",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/12270",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/12270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-38-2020",
+   "path": "local/timis/dumbrava/2020/38",
+   "short": "HCL Dumbrava nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 38/2020 privind validarea Dispoziției primarului comunei Dumbrava nr. 101 din 11.12.2020 pentru rectificarea bugetului de venituri și cheltuieli al comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13204",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-39-2020",
+   "path": "local/timis/dumbrava/2020/39",
+   "short": "HCL Dumbrava nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 39/2020 privind validarea Dispoziției primarului comunei Dumbrava 106 din 21 dec. 2020 pentru rectificarea bugetului de venituri şi cheltuieli al comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13205",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-4-2020",
+   "path": "local/timis/dumbrava/2020/4",
+   "short": "HCL Dumbrava nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 4/2020 privind Planul de actiuni si de lucrari VMG 2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1419",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-40-2020",
+   "path": "local/timis/dumbrava/2020/40",
+   "short": "HCL Dumbrava nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 40/2020 privind aprobarea rectificării bugetului de venituri şi cheltuieli al comunei Dumbrava pentru anul 2020, varianta 8",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13206",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-41-2020",
+   "path": "local/timis/dumbrava/2020/41",
+   "short": "HCL Dumbrava nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 41/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al Comunei Dumbrava",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13335",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-42-2020",
+   "path": "local/timis/dumbrava/2020/42",
+   "short": "HCL Dumbrava nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 42/2020 privind indexarea impozitelor și taxelor locale cu rata inflației",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13336",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-43-2020",
+   "path": "local/timis/dumbrava/2020/43",
+   "short": "HCL Dumbrava nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 43/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021 în comuna DUMBRAVA",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13337",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-44-2020",
+   "path": "local/timis/dumbrava/2020/44",
+   "short": "HCL Dumbrava nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 44/2020 privind aprobarea participării la Programul de Cooperare Transfrontaliera IPA Romania -Serbia cu Proiectul “Cross-border natural disaster and emergency preparedness-PREPARED”",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/13338",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/13338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-6-2020",
+   "path": "local/timis/dumbrava/2020/6",
+   "short": "HCL Dumbrava nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 6/2020 privind adoptare buget pentru anul 2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1733",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-7-2020",
+   "path": "local/timis/dumbrava/2020/7",
+   "short": "HCL Dumbrava nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 7/2020 privind Programul anual de investitii publice pentru anul 2020",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/1734",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/1734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-8-2020",
+   "path": "local/timis/dumbrava/2020/8",
+   "short": "HCL Dumbrava nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 8/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3136",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--dumbrava-9-2020",
+   "path": "local/timis/dumbrava/2020/9",
+   "short": "HCL Dumbrava nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dumbrava nr. 9/2020 privind completarea Regulamentului Consiliului local",
+   "url": "https://emol.ro/dumbrava-tm/registru-hcl/3137",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dumbrava-tm/registru-hcl/3137",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
